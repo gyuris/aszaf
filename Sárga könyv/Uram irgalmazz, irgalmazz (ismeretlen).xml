@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:45:39">
+  <properties>
+    <titles>
+      <title>Uram irgalmazz, irgalmazz</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram irgalmazz!<br/>Irgalmazz bűnös lelkemnek!<br/>Uram, bocsáss meg, mert sokat vétkeztem.<br/>Krisztus kegyelmezz!<br/>Segíts, hogy újra lássalak!<br/>Krisztus kegyelmezz!<br/>Add, hogy megint halljalak!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:34:34">
+  <properties>
+    <titles>
+      <title>Nézz, testvér fel</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kerestem arcodat Uram,<br/>lehajoltál énhozzám.<br/>Félelmek, bűnök téptek,<br/>de Te meggyógyítottál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nézz testvér fel, az Úr van itt,<br/>lángoljon a szívünk!<br/>Közel van már üdvösségünk,<br/>jöjj el Jézusunk, jöjj el Jézusunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjön, ki szomjas és igyék,<br/>aki hisz, élni fog.<br/>Szívének rejtett mélyéből<br/>az élő víz felbuzog!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Figyelme szeretőn kísér,<br/>meghallgatja az imánk.<br/>Gyötrelmeinkben vígaszt nyújt,<br/>ezért áldja Őt a szánk.</lines>
+    </verse>
+  </lyrics>
+</song>

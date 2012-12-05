@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:44:12">
+  <properties>
+    <titles>
+      <title>Téged dicsér</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged dicsér az egész föld,<br/>olyan csodálatos vagy.<br/>Téged dicsérlek most én is,<br/>mert szívem megtisztítottad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott a mi Istenünk,<br/>az Ő neve csodálatos.<br/>Jézus Krisztust adta nékünk,<br/>szeretete a bűntől feloldott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lényed betölti lelkem,<br/>szépségedben gyönyörködhetem.<br/>Közelséged oly igen jó nékem,<br/>alleluja, áldom szent neved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus áldott légy<br/>a Te áldozatodért!<br/>Szívem mindig Téged dicsér,<br/>az életem csodálatos szép.</lines>
+    </verse>
+  </lyrics>
+</song>

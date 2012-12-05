@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:29:36">
+  <properties>
+    <titles>
+      <title>Két ember eléd lép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Két ember eléd lép, két ember Téged kér, áldd meg, áldd meg!<br/>Két ember eléd áll, két ember Téged vár, áldd meg, áldd meg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Végtelen Istenünk, áldd meg az életünk!<br/>Végtelen Istenünk, áldd meg az életünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Két ember útra kész, két ember Terád néz, áldd meg, áldd meg!<br/>Két ember benned él, két ember így remél, áldd meg, áldd meg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végtelen Istenünk, kösd össze életünk!<br/>Végtelen Istenünk, áldd meg a szerelmünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Két ember egy útra tér, egy testet-lelket kér, áldd meg, áldd meg!<br/>Két ember benned él, két ember így remél, áldd meg, áldd meg!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Végtelen Istenünk, áldd meg a szerelmünk!<br/>Végtelen Istenünk, kösd össze életünk!</lines>
+    </verse>
+  </lyrics>
+</song>

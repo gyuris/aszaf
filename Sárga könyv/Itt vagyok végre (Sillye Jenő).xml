@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T22:02:12">
+  <properties>
+    <titles>
+      <title>Itt vagyok végre</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Sillye Jenő</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt vagyok végre jó Uram!<br/>Nehéz és hosszú volt utam.<br/>Szólnék hozzád, nem tudok,<br/>szememben látod, mit akarok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljöttem hozzád itt vagyok,<br/>szomjas és éhes vándorod.<br/>Asztalodról adj ennem,<br/>boldog lesz az életem!</lines>
+    </verse>
+  </lyrics>
+</song>

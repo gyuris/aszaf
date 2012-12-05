@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:44:40">
+  <properties>
+    <titles>
+      <title>Tégy engem tisztává</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tégy engem tisztává,<br/>tégy engem tisztává, Jézus!...<br/>Nyisd meg szemem világát,<br/>hogy lásson Téged, Te hű!<br/>S ne lásson Tenálad szebbet,<br/>és legyen utált a bűn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tégy engem tisztává,<br/>tégy engem tisztává, Uram!...<br/>Mutasd meg ösvényedet,<br/>hogy ne tévelyedjek el!<br/>És ezer veszélyen által<br/>Tehozzád juthassak el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tégy engem tisztává,<br/>tégy engem tisztává, kérlek!...<br/>Sátán karmaiból<br/>erőddel szabadíts meg!<br/>Az én lelkemet a bűntől<br/>hit által Te tisztítsd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

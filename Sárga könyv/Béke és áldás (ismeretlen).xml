@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:09:18">
+  <properties>
+    <titles>
+      <title>Béke és áldás</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Béke és áldás szállt most ránk,<br/>megnyugszik végre a szívünk,<br/>Jézus szeretete vár.<br/>Terített asztalhoz hívott, és<br/>vendégül látott ma Ő.<br/>Ujjong és dalol az ajkunk,<br/>mert itt van Jézus, a dicső.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus él, Jézus él,<br/>és nem hagy el sosem.<br/>Jézus él, Jézus él,<br/>most is itt van velem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kenyér és bor színében<br/>naponta megláthatod.<br/>Hiába kísért a sátán,<br/>mert Jézus erőt adott.<br/>Botlik, de újra felállhat,<br/>és bízhat a szenvedő.<br/>Nyugalom völgye a szívem,<br/>mert benne lakozik Ő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeret minket az Isten.<br/>Elküldte szent Fiát,<br/>hogy véres keresztje árán<br/>tisztuljon meg a világ.<br/>Hiába ölték meg a Bárányt,<br/>a harmadik napon felállt.<br/>Reményt hozott a szívünkbe, mert<br/>Jézus legyőzte a halált.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jézus él, Jézus él,<br/>itt van a szívemben.<br/>Jézus él, Jézus él,<br/>hisz látom a szemedben,<br/>hogy Jézus él.</lines>
+    </verse>
+  </lyrics>
+</song>

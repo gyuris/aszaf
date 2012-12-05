@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:29:31">
+  <properties>
+    <titles>
+      <title>Kész az én szívem, Uram</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kész az én szívem,<br/>Uram, Néked zeng a dalom.<br/>Elő hát hárfa, lant,<br/>hadd keltsem fel a hajnalt!<br/>Szent az Úr, jó az Úr,<br/>hirdetem a népek között,<br/>mert az Ő kegyelme felhőkig ér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazság, hatalom<br/>igéid minden egyes szava.<br/>Szívemben rejtem el,<br/>soha el ne felejtsem!<br/>Szent az Úr, jó az Úr,<br/>hirdetem a népek között,<br/>mert az Ő hűsége az égig ér!</lines>
+    </verse>
+  </lyrics>
+</song>

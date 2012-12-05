@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:23:18">
+  <properties>
+    <titles>
+      <title>Jézus anyja</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>Könyörögj, könyörögj,<br/>könyörögj érettünk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus anyja, virágok Virága, Mária.<br/>A bölcseknél is okosabb,<br/>Jézus anyja, Mária. A gyémántnál is<br/>keményebb, Jézus anyja, Mária</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Virág az Isten viharában.<br/>Pehely a Lélek szélvészében.<br/>Palesztína rózsája, naptól égetett<br/>titokzatos lány.<br/>Ki egyetlen „igen" vagy,<br/>mely a földrészeket összefogja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, érintetlen,<br/>ki a megsebzett szűzekért imádkozol.<br/>Ó, termékeny,<br/>ki az elvetélt magzatokon könnyezel.<br/>Ó, imádságos,<br/>ki a káromkodókat szánva-szánod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gomolygó ködből talpig aranyban<br/>kilépő asszony.<br/>Szürke hamuból talpig tűzben<br/>előlépő asszony.<br/>Szivárványból mosolygó<br/>szűzi asszony. Könyörögj...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mária, termékeny gyümölcsfa.<br/>Mária, sugárzó csillag.<br/>Mária, tenger gyöngye.</lines>
+    </verse>
+  </lyrics>
+</song>

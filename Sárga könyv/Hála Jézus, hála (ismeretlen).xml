@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:22:29">
+  <properties>
+    <titles>
+      <title>Hála Jézus, hála</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hála Jézus, hála, hogy eljöttél,<br/>és véredet ontottad a mi bűnös<br/>életünkért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hála Jézus, hála,<br/>hogy oly nagyon szeretsz,<br/>és hogy elküldted szeretetből nekünk<br/>vigasztaló Lelkedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hála Jézus, hála,<br/>hogy Te vagy az út és cél.<br/>Hála, hogy megbocsátsz mindenkor,<br/>és hogy szívünkben háladal kél!</lines>
+    </verse>
+  </lyrics>
+</song>

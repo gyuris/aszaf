@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:31:53">
+  <properties>
+    <titles>
+      <title>Miért félig Tied a szívem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mért félig Tied a szívem, az életem?<br/>Mért félig, miért csak félig?<br/>Hiszen egészen Teneked adtam,<br/>maradék nélkül teljes magam.<br/>Most szívem mégis visszaragadtam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mért félig kerülöm el a bűn ajtaját?<br/>Mért félig, miért csak félig?<br/>Sajnálom én is, hogy megtagadtam<br/>sokszor Neved, és szégyelltelek.<br/>Nem jó így nékem megosztva élnem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mért félig követem az utat,<br/>hol Te jársz?<br/>Mért félig, miért csak félig?<br/>Magam is látom, nem ez az élet,<br/>ami betölti napjaimat.<br/>Idegen tűzben égek el, érzem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem félig állt a kereszted a Golgotán.<br/>Nem félig, nem is csak félig.<br/>Vállaltad értem teljes egészen<br/>bűneim súlyát, ítéletét.<br/>Mit adok érte oda cserébe?!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem félig Tied a szívem, az életem.<br/>Nem félig, már nem csak félig!<br/>Szabaddá lettem, Te győztél bennem!<br/>Add, hogy csak Téged szolgáljalak!<br/>Dicső Királyom, szent Neved áldom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hűtlen az éjem, s nappalom,<br/>könyörülj rajtam, Jézusom!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Boldog az éjem, s nappalom,<br/>betölti lényed, Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

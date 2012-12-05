@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:29:00">
+  <properties>
+    <titles>
+      <title>Kegyelmed Úr Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelmed, Úr Jézus oly végtelen,<br/>nem hagytál elveszni bűn mélyében!<br/>Keresztfádnak titkait mondtad el,<br/>és meg is értette szívem,<br/>hogy drága véred folyt a bűneimért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentségben élni Veled, Uram.<br/>Szolgálni Téged nincs boldogabb.<br/>Küldd le ránk áldott Szellemed,<br/>töltsd be, Úr Jézus a szíveket,<br/>hogy együtt áldjuk drága, szent Neved!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oly közel az óra, úgy várunk Rád,<br/>hogy elvidd magaddal Eklézsiád!<br/>Ott többé nem lesz már fájdalom,<br/>És könny sem csorog az arcokon,<br/>csak zeng az ének: Glóri Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T19:54:41">
+  <properties>
+    <titles>
+      <title>Áldott legyen Istenünk</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjétek szent templomában,<br/>dicsérjétek szentélyében!<br/>Akinek örvend Izrael,<br/>akitől megrezzen Sion leánya.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott legyen<br/>Istenünk mindörökké!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjétek víg harsonával,<br/>dicsérjétek cintányérral!<br/>Isten hatalmas népe közt:<br/>Ő adja győzelmét minden fiának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjétek tízhúrú lanttal,<br/>dicsérjétek hangos tapssal!<br/>Örökké él az Úr szava,<br/>betölti lelkünket hálaadással.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjétek minden művében,<br/>dicsérjétek fenségéért!<br/>Ünnepelje Izrael,<br/>kísérje dobszóval és citerával!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:47:07">
+  <properties>
+    <titles>
+      <title>Uram irgalmazz, Uram, irgalmazz… Jézus, Dávid fia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="177"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram irgalmazz, Uram irgalmazz,<br/>Uram irgalmazz nekem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, Dávid fia, könyörülj rajtam!<br/>Jézus, Dávid fia, könyörülj rajtam!<br/>Add, hogy lássak, add, hogy lássak,<br/>Add, hogy lássak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus kegyelmezz, Krisztus kegyelmezz,<br/>Krisztus kegyelmezz nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

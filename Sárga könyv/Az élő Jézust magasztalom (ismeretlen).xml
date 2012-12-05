@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:05:57">
+  <properties>
+    <titles>
+      <title>Az élő Jézust magasztalom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élő Jézust magasztalom,<br/>és kiárad rám a Lélek...<br/>Őt magasztalom, Őt magasztalom,<br/>és kiárad rám a Lélek...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy új nyelven imádom Őt,<br/>ha kiárad rám a Lélek...<br/>És imádom Őt, és imádom Őt,<br/>ha kiárad rám a Lélek...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És Jézustól erőt kapok,<br/>ha kiárad rám a Lélek...<br/>Új erőt kapok, új erőt kapok,<br/>ha kiárad rám a Lélek...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem várok már, új harcba megyek,<br/>ha kiárad rám a Lélek...<br/>Új harcba megyek, új harcba megyek,<br/>ha kiárad rám a Lélek...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És Jézus nevében csatát nyerek,<br/>ha kiárad rám a Lélek...<br/>És csatát nyerek, és csatát nyerek<br/>ha kiárad rám a Lélek...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ő betölti lelkem és dicsérem Őt,<br/>ha kiárad rám a Lélek...<br/>És dicsérem Őt, dicsérem Őt,<br/>ha kiárad rám a Lélek...</lines>
+    </verse>
+  </lyrics>
+</song>

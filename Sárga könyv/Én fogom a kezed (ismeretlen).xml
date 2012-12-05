@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:14:05">
+  <properties>
+    <titles>
+      <title>Én fogom a kezed</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én fogom a kezed Jézus.<br/>Én fogom a kezed Jézus.<br/>Én fogom a kezed, s el sem<br/>engedem, Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem félek én most már, Jézus.<br/>Nem félek én most már, Jézus.<br/>Nem félek én most már,<br/>Lelked velem jár, Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rád bízom életem, Jézus.<br/>Rád bízom életem, Jézus.<br/>Rád bízom életem,<br/>őrizz kezedben, Jézus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én várok Rád, Uram Jézus.<br/>Én várok Rád, Uram Jézus.<br/>Én várok Rád Uram,<br/>jöjj el, ó Uram Jézus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó hála, köszönet, Jézus!<br/>Ó hála, köszönet, Jézus!<br/>Ó hála, köszönet<br/>Néked Mesterem, Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

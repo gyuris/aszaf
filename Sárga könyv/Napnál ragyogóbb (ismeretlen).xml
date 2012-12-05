@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:33:37">
+  <properties>
+    <titles>
+      <title>Napnál ragyogóbb</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Napnál ragyogóbb, csillagok királynője,<br/>Édesanyánk, könyörögj értünk!<br/>Vezess engem szent Fiadhoz,<br/>oltalmazd életem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyácskánk, Mária,<br/>vigyázz reánk Szeplőtelen,<br/>magyarok Nagyasszonya,<br/>szívemnek királynője, Mária!<br/>Vezess engem szent Fiadhoz,<br/>oltalmazd életem!</lines>
+    </verse>
+  </lyrics>
+</song>

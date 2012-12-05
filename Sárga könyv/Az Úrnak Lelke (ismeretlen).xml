@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:08:20">
+  <properties>
+    <titles>
+      <title>Az Úrnak Lelke</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak Lelke legyen rajtam,<br/>jöjjön, aki szomjazik,<br/>vegye el az életét!<br/>Az Úr az, aki fölkent engem,<br/>Ő ad szabadságot,<br/>fényt a sötétben élőnek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amen, amen, a-amen,<br/>jöjjön el az országod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az éjnek ideje már elszállt,<br/>eljött a világosság, a hajnalt<br/>hirdetjük már.<br/>Az Úr az, aki eljön értem,<br/>Ő visz el magával az örök<br/>dicsőségbe.</lines>
+    </verse>
+  </lyrics>
+</song>

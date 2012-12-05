@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:30:38">
+  <properties>
+    <titles>
+      <title>Legyen áldott az Úr</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki ne félne Téged, Uram,<br/>ki ne dicsőítené a Neved?!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Legyen áldott az Úr,<br/>legyen áldott az Ő Neve!...<br/>Áldott az Úr, és áldott az Ő népe!...<br/>Jézus alleluja, Jézus allelu'!...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Már csak rövid, nagyon rövid az idő,<br/>és nem késik az eljövendő! Legyen...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adjatok hálát mindenért,<br/>ne szomorítsátok Isten Szentlelkét!</lines>
+    </verse>
+  </lyrics>
+</song>

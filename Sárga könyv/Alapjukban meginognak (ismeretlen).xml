@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T19:18:54">
+  <properties>
+    <titles>
+      <title>Alapjukban meginognak</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alapjukban meginognak<br/>a hegyek és a vizek,<br/>a sziklák megolvadnak<br/>színed előtt, mint a viasz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hangod erejétől megindul a föld,<br/>de akik félnek téged,<br/>azokhoz irgalmas vagy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden teremtményed szolgáljon neked,<br/>mert szóltál és lettek,<br/>elküldted Lelkedet, és létrejöttek,<br/>szavadnak nem állhat ellen senki!</lines>
+    </verse>
+  </lyrics>
+</song>

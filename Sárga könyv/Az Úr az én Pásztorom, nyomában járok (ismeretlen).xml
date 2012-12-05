@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:07:20">
+  <properties>
+    <titles>
+      <title>Az Úr az én Pásztorom, nyomában járok</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr az én Pásztorom, nyomában járok,<br/>mellette nem szűkölködöm.<br/>Zöldellő réteken pihentet engem,<br/>csendes vizekre terelget.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, drága jó Pásztorom,<br/>Úr Jézus, Te tudod mindnyájunk nevét.<br/>Jézus, követünk bárhová is mondod,<br/>Jézus, mi is halljuk, halljuk hangodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ellenségeim előtt asztalt terítesz,<br/>olajjal elárasztod fejem.<br/>Jóságod, s kegyelmed Uram, követnek engem,<br/>amíg csak tart az életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkemben felvidít nevéhez híven,<br/>az igazság útján vezet.<br/>Nem érhet soha semmi baj, mindig<br/>velem vagy, botod oly biztonságot ad.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jézus, Téged vár ez a nép vissza!<br/>Jézus, Te mondod: Ne félj kicsi nyáj!<br/>La-la...</lines>
+    </verse>
+  </lyrics>
+</song>

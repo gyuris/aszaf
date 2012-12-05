@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T19:18:17">
+  <properties>
+    <titles>
+      <title>Adj erőt, hogy megnyílhassak</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj erőt, hogy megnyílhassak, megnyíljak és befogadjak!<br/>Add, hogy mindig felismerjem szándékodat életemben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj erőt, hogy adni tudjak, dicsőséget ne hajszoljak!<br/>Földi kincshez ne tapadjak, akárhogy is csalogatnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj erőt, hogy érted éljek, emberekhez elvigyelek!<br/>Téged látva mindenkiben, szolga legyek életemben!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj erőt, hogy jel lehessek, mindig bátran hirdesselek!<br/>Add, hogy minden testvéremnek elmondhassam, amit érzek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Adj erőt Uram, gyenge vagyok, nélküled élni nem tudok.<br/>Kérlek segíts, ha úgy akarod!</lines>
+    </verse>
+  </lyrics>
+</song>

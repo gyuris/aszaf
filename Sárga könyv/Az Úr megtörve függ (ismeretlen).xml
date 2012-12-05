@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T20:08:09">
+  <properties>
+    <titles>
+      <title>Az Úr megtörve függ</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr megtörve függ,<br/>ímé nem szól ajka korholó szót.<br/>A fán függ Istenünk,<br/>ímé nem szól ajka korholó szót.<br/>Sose' szólt, sose' szólt, sose' szólt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fölszegzik bűneink,<br/>ímé nem szól ajka korholó szót.<br/>Gyötrődve ránk tekint,<br/>ímé nem szól ajka korholó szót.<br/>Sose' szólt, sose' szólt, sose' szólt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lehajtja szent fejét,<br/>ímé nem szól ajka korholó szót.<br/>Meghalt az én Uram,<br/>ímé nem szól ajka korholó szót.<br/>Sose' szólt, sose' szólt, sose' szólt.</lines>
+    </verse>
+  </lyrics>
+</song>

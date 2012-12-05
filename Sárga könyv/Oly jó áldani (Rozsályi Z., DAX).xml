@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:51:03">
+  <properties>
+    <titles>
+      <title>Oly jó áldani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v7</verseOrder>
+    <authors>
+      <author>Rozsályi Z.</author>
+      <author>DAX</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oly jó áldani az Urat.<br/>Ujjongóan jó Istennek<br/>zengeni zsoltárokat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Már kora reggelen jóságát,<br/>és éjszakákon át hirdetem<br/>szüntelen nagy irgalmát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pengő hangszeren, lantokon,<br/>ujjongóan jó Istennek<br/>zengeni hálaszót.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az öröm hangjai szóljanak,<br/>gitár húrjain magasztalom<br/>ujjongva csodáidat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram, jó voltál énhozzám,<br/>életemben nagy dolgokat<br/>műveltél sok év során.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sziklám, oltalmam te voltál,<br/>oly irgalmasan jó, gondoskodó<br/>Istenem, égi Atyám!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hála, dicsőség nevednek,<br/>most és örökké<br/>az égen a földön. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

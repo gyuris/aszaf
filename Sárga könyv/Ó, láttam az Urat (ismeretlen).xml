@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:35:52">
+  <properties>
+    <titles>
+      <title>Ó, láttam az Urat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, láttam az Urat! Ó, láttam az Urat<br/>magas és felemeltetett királyi székben,<br/>palástja betölti az egész templomot.<br/>Angyalok kiáltják, angyalok kiáltják,<br/>angyalok kiáltják: „Szent az Úr!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, láttam az Urat! Ó, láttam az Urat<br/>magas és felemeltetett királyi székben,<br/>palástja betölti az egész templomot.<br/>Glori halleluja, glori halleluja!<br/>Glori halleluja, szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

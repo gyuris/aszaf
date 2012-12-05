@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:28:46">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek, szállj közénk!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Szentlélek, szállj közénk!<br/>Hozz a mennyből tiszta fényt,<br/>amit nem tud adni más!<br/>Üres a szív nélküled,<br/>jöjj és oszd ki kincsedet!<br/>Jöjj szívünkbe ragyogás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkünk mélyén új lakó.<br/>Bajainkban bíztató.<br/>Zűrzavarban enyhülés.<br/>Fáradságban nyugalom.<br/>Forró nyárban fuvalom.<br/>Könnyet törlő drága kéz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mélyeinkben megmerülsz<br/>mennyből szálló enyhe tűz,<br/>gyújtó, boldog hatalom.<br/>Könyörülj az emberen!<br/>Teremtsd újjá, Végtelen!<br/>Nélküled csak puszta rom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ahol gaz van, tépd a gazt!<br/>Ami szennyes, mosd meg azt!<br/>Ami száraz, azt locsold!<br/>Fagyot oldjon meleged!<br/>Lágyítsd meg a köveket!<br/>Ahol seb van, orvosold!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hétszer újít meg a hit.<br/>Hét ajándék gazdagít,<br/>hogyha átjár Szellemed.<br/>Tedd termővé életünk!<br/>Boldog halált adj nekünk!<br/>Örök, boldog örömet!</lines>
+    </verse>
+  </lyrics>
+</song>

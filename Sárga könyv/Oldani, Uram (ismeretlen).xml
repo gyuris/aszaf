@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:36:37">
+  <properties>
+    <titles>
+      <title>Oldani, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oldani Uram, s oldódni vágyom.<br/>Üdvözíteni, és üdvözülni vágyom!<br/>Alkotni Uram, s alakulni vágyom,<br/>alkotni Uram, s alakulni vágyom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ékesíteni, és ékesedni vágyom!<br/>Dalolni Uram, és dallá lenni vágyom!<br/>Követeddé lenni, Érted tenni vágyom,<br/>követeddé lenni, Érted tenni vágyom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lámpád vagyok, ha látsz engem.<br/>Ajtód vagyok, ha zörgetsz bennem.<br/>Ki látod, mit teszek, hallgass el engem,<br/>ki látod, mit teszek, hallgass el engem!</lines>
+    </verse>
+  </lyrics>
+</song>

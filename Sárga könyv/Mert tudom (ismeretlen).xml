@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:31:38">
+  <properties>
+    <titles>
+      <title>Mert tudom</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mert tudom, semmi nem szakaszthat el<br/>az én Uram szerelmétől.<br/>Sem élet, sem halál nem választ el<br/>sem ma, sem holnap.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert az angyalok visznek őhozzá,<br/>s a pokol erői sem állítnak meg.<br/>Nem számít, ha hegytetőn állok meg<br/>vagy a sík tenger partján,<br/>mert az Úr alkotta mindezt,<br/>és minden az övé.</lines>
+    </verse>
+  </lyrics>
+</song>
