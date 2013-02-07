@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:59:33">
+  <properties>
+    <titles>
+      <title>Elindulunk égő szívvel</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elindulunk égő szívvel,<br/>és minden léptünk imádság lesz.<br/>Remény támad, új nap ébred,<br/>ének hangja árad szét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még mindig ég, ragyog a láng,<br/>kétezer éve nem alszik el,<br/>a lelkek várják Jézus fényét,<br/>míg újra eljön az ébredés.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ragyogj hát új fénnyel, a sötét, zord éjben,<br/>emeld fel az arcodat,<br/>és az ének zengjen, nagy erővel zengjen!<br/>Ragyogj hát!<br/>Ragyogj hát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igazság szóljon és szeretet,<br/>Jézus nevében erős leszel.<br/>Emeld a gyengét, védd a gyermeket,<br/>töltsd el a néped fényeddel.</lines>
+    </verse>
+  </lyrics>
+</song>

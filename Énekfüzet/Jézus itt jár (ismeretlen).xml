@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T13:28:46">
+  <properties>
+    <titles>
+      <title>Jézus itt jár</title>
+    </titles>
+    <verseOrder>i1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus itt jár, és minket megérint!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha Ő jelen van, átalakul minden,<br/>oda a rosszkedvünk, vidámság lesz bennünk.<br/>Mert Ő jelen van, átalakul minden,<br/>neked is, nekem is Ő egy vidám szívet ad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hogyha áthalad közöttünk a Názáreti Jézus,<br/>hogyha áthalad közöttünk a Názáreti Jézus,<br/>Ő téged is megérint, Ő téged is megérint,<br/>Ő téged is megérint és áldását adja rád.</lines>
+    </verse>
+  </lyrics>
+</song>

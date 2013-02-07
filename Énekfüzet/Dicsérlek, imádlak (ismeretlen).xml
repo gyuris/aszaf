@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:44:33">
+  <properties>
+    <titles>
+      <title>Dicsérlek, imádlak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérlek, imádlak,<br/>életemnek célja csak Te vagy,<br/>hogy magasztaljalak, és áldjam szent Neved!<br/>Ó, Uram, szeretlek Téged,<br/>vágyom hallani beszédedet,<br/>és Veled járni mindörökké</lines>
+    </verse>
+  </lyrics>
+</song>

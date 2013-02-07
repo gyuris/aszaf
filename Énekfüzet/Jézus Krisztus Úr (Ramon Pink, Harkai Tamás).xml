@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-07T00:39:29">
+  <properties>
+    <titles>
+      <title>Jézus Krisztus Úr</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author>Ramon Pink</author>
+      <author>Harkai Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jézus Krisztus Úr, Jézus Krisztus Úr,<br/>Jézus Krisztus Úr, Jézus Krisztus Úr<br/>a népünk fölött.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Királyi trón és uralom, dicséret, áldás, hála<br/>mind, mind Őt illeti, az egyedül méltót,<br/>mert Ő a győztes Szabadító!</lines>
+    </verse>
+  </lyrics>
+</song>

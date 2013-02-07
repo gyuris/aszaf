@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-07T00:42:07">
+  <properties>
+    <titles>
+      <title>Világos az út</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világos az út, melyre meghívtál.<br/>Köszönöm Neked, és éneklem Veled<br/>hogy merre tartok én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mutasd meg magad, Dávidnak Fia,<br/>Téged küld Atyám Szabadítóként,<br/>jöjj közel hozzám!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Amíg eljössz Te, éneklem Neved,<br/>Názáreti Jézus, éneklem Neved!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Éneklem Neved akkor is, ha fáj nagyon!<br/>Irgalom, kegyelem, szeretet átkarol.</lines>
+    </verse>
+  </lyrics>
+</song>

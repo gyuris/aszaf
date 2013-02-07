@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:34:09">
+  <properties>
+    <titles>
+      <title>Csodálatos, szent</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodálatos, szent és fenséges,<br/>Megváltóm vagy, kegyelmed éltet,<br/>sorsom Tiéd, szelíden hívtál, s itt vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem Szentlelked által,<br/>taníts, Uram, világosságra,<br/>kedves szavad megragad és vonz Hozzád!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ó, alakíts és változtass el képmásodra,<br/>Te mennyei Mester,<br/>szereteted égjen szívemben!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj hát, járj át, szólj és formálj,<br/>légy Úr bennem, várlak szüntelen!<br/>Kelj fel, ó, Uram, jöjj és áldj meg újra,<br/>Szentlelkedet tűzzel áraszd rám!</lines>
+    </verse>
+  </lyrics>
+</song>

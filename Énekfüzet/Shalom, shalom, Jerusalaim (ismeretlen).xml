@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T21:34:58">
+  <properties>
+    <titles>
+      <title>Shalom, shalom, Jerusalaim</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shalom, shalom, Jerusalaim,<br/>shalom, shalom, Jerusalaim,<br/>shalom, shalom, Jerusalaim,<br/>shalom, shalom, Jerusalaim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shalom, shalom, shalom, shalom,<br/>shalom, shalom, shalom, shalom, Jerusalaim.</lines>
+    </verse>
+  </lyrics>
+</song>

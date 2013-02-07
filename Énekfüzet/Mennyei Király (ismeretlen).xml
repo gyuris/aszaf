@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:32:27">
+  <properties>
+    <titles>
+      <title>Mennyei Király</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyei Király, Vigasztaló,<br/>Igazság Lelke, mindenütt való,<br/>jöjj és lakozzál bennem,<br/>hogy megnyugodjon nálad a lelkem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nyugalom völgye vagy énnekem,<br/>hűséged, Lélek, oly végtelen.<br/>Szerelmed táplálja életem,<br/>ó, Lélek, Te vagy nékem mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

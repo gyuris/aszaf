@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:25:13">
+  <properties>
+    <titles>
+      <title>Kelj fel, mert a Fény eljött</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kelj fel, mert a Fény eljött,<br/>íme, eljött világosságod!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úr dicsősége rajtad feltámadt,<br/>az Ő fénye benned ég, és ragyog örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

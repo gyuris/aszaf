@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T12:36:27">
+  <properties>
+    <titles>
+      <title>Isten leszállt a felhőben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="204"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten leszállt a felhőben,<br/>és megjelent dicsőségben.<br/>Isten leszáll, közel jön Ő,<br/>neve: Végtelen Irgalom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elrejtőztél a felhőben,<br/>közel jöttél a szívemhez.<br/>Kerestelek, kiáltottam,<br/>neved: Végtelen Irgalom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megszólított a felhőből,<br/>odaemelt maga mellé.<br/>Tűz tündökölt a felhőben,<br/>neve: Végtelen Irgalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És a sziklahasadékban<br/>elrejtettél mély titokban.<br/>Sebeidben rejtőztem el,<br/>neved: Végtelen Irgalom.</lines>
+    </verse>
+  </lyrics>
+</song>

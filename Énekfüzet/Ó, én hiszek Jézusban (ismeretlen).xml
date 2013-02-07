@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:55:06">
+  <properties>
+    <titles>
+      <title>Ó, én hiszek Jézusban</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, én hiszek Jézusban,<br/>hiszem, hogy Ő Isten Fia!<br/>Hiszem, hogy meghalt és feltámadt,<br/>bűnömért megfizette az árat.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hiszem, hogy Ő most is itt van,<br/>itt van közöttünk.<br/>Kész rá, hogy meggyógyítsa az életed,<br/>és megbocsásson neked.</lines>
+    </verse>
+  </lyrics>
+</song>

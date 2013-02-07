@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:25:01">
+  <properties>
+    <titles>
+      <title>Még többet Tőked</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Még többet Tőled, még többet,<br/>hadd éljek úgy, ahogy Te, add meg nekem!<br/>Hadd értsem szavad jobban<br/>és tegyem a Te akaratod, Uram, még többet!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te vagy az Úr, nagyon szeretlek én,<br/>gondot viselsz rólam szüntelen,<br/>senki sincs Hozzád hasonló, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olyan vagy Te, mint egy igaz barát,<br/>tudod jól szívem minden gondolatát.<br/>Adj nekem többet magadból, még többet!</lines>
+    </verse>
+  </lyrics>
+</song>

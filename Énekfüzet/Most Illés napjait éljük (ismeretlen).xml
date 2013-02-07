@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:47:19">
+  <properties>
+    <titles>
+      <title>Most Illés napjait éljük</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most Illés napjait éljük,<br/>és hirdetjük az Úr szavát.<br/>Ma Mózes szolgád napja virradt újra,<br/>és igazságod végre helyreáll.<br/>Bár e nap próbákkal terhelt,<br/>éhség van, sötét és harc,<br/>de hangunk kiáltja a pusztákon át:<br/>„Készítsétek el az Úr útját!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hát, lásd, Ő jön fenn a felhőkön,<br/>ragyog mint a nap, ha a kürtök hangja szól.<br/>Dicsérd Őt, az ünnep éve van,<br/>és Sionról jön el a Megváltó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezekiel napjait éljük,<br/>a száraz csontra ismét hús kerül.<br/>Ma Dávid szolgád napját látjuk újra,<br/>a dicséretnek új templom épül.<br/>Új aratás napja jött el, a mezők már fehérlenek,<br/>és mi, mint a szőlőskert munkásai,<br/>az Úr Igéjét így hirdetjük ki!</lines>
+    </verse>
+  </lyrics>
+</song>

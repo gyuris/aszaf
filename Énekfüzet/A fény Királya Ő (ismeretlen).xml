@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T22:00:34">
+  <properties>
+    <titles>
+      <title>A fény Királya Ő</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fény királya Ő,<br/>fenségbe öltözött,<br/>örüljön a Föld,<br/>örüljön a Föld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert fény veszi körül,<br/>a sötétség menekül,<br/>s megremeg, ha szól,<br/>megremeg, ha szól.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily nagy Istenünk, énekeld,<br/>mily nagy Istenünk! Lásd meg,<br/>mily nagy, mily nagy Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örökkévaló,<br/>időn uralkodó,<br/>a kezdet és a vég,<br/>a kezdet és a vég.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő az Atya szent Isten,<br/>a Fiú, s Szentlélek,<br/>a győztes oroszlán,<br/>a megölt Bárány.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Minden név felett való,<br/>dicséretre méltó,<br/>szívem énekel:<br/>mily nagy Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

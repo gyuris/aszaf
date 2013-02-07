@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:28:31">
+  <properties>
+    <titles>
+      <title>Király vagy</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Király vagy,<br/>Király vagy,<br/>Jézus Király!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most felemeljük a szívünket,<br/>most felemeljük kezeinket,<br/>trónod elé járulunk, imádva légy!</lines>
+    </verse>
+  </lyrics>
+</song>

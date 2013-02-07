@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T00:30:06">
+  <properties>
+    <titles>
+      <title>Boldog ember</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 p1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog ember az,<br/>aki nem jár<br/>gonoszok tanácsán,<br/>meg nem áll bűnösök útján,<br/>és nem ül csúfolódóknál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hanem az Úr törvényében (Igéjében)<br/>van gyönyörűsége,<br/>s az Ő törvényéről (Igéjéről)<br/>gondolkodik éjjel s nappal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És olyan lesz, mint folyóvíz mellé<br/>ültetett szép termő fa,<br/>mely idejében hozza gyümölcsét,<br/>s levele el nem hervad,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>s mindenben amit tesz,<br/>jó és szerencsés lesz,<br/>és ha jő a szárazság,<br/>ő akkor is zöldellő marad.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>De nem úgy a gonoszok, hanem mint a<br/>pelyva, amit szétszór a szél,<br/>meg nem állhatnak az Úr előtt,<br/>amikor Ő eljön és ítél.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Jézus lett az Út,<br/>s mind él, aki azon jár.<br/>De kinek nem kellett az igazság,<br/>arra végül a kárhozat vár!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T13:13:27">
+  <properties>
+    <titles>
+      <title>Jézus fénye út a sötétben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus fénye út a sötétben,<br/>Jézus fénye út a sötétben.<br/>Add a kezed, a kezed, és induljunk hát!<br/>Jézus fénye út a sötétben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Lelke az, ki erőt ad,<br/>Jézus Lelke az, ki erőt ad.<br/>Add a kezed, a kezed, és induljunk hát!<br/>Jézus Lelke az, ki erőt ad!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:53:49">
+  <properties>
+    <titles>
+      <title>Atyám, szerelmed erős</title>
+    </titles>
+    <verseOrder>v1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, szerelmed erős és végtelen!<br/>Hogyan maradhat tiszta az életem?<br/>Szívembe rejtem szent igéidet,<br/>hogy ne vigyen bűnbe soha az én szívem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess el engem az igaz életre,<br/>hogy gyönyörködjem a Te szent törvényedben,<br/>és gyűlöljem meg a bűnt, mely romba dönt,<br/>és csak arra nézzek, mi vár rám odafönt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldalak Téged, Jézus, imádlak Téged, Jézus,<br/>dicsérlek Téged, egyetlen Úr!<br/>Te vagy nekem az élet, menedék vagy, ha félek,<br/>erős karoddal átölelsz.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Vonj most magadba, Jézus, lényem lényeddé váljon,<br/>erős szerelmed égessen el!</lines>
+    </verse>
+  </lyrics>
+</song>

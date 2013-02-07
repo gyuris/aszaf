@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:20:40">
+  <properties>
+    <titles>
+      <title>Uram, jövök Hozzád</title>
+    </titles>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, jövök Hozzád e nemzetért,<br/>a magyar népért könyörgök.<br/>Add, hogy megtaláljon Téged,<br/>s megláthasson a problémák között!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bocsásd meg vétkeinket!<br/>Gyógyítsd meg sebeinket!<br/>Szentlélek, söpörj végig az országon,<br/>hozd az ébredést és a felüdülést!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hozd a gyógyulást és a szabadulást!</lines>
+    </verse>
+  </lyrics>
+</song>

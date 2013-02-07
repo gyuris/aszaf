@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T21:54:56">
+  <properties>
+    <titles>
+      <title>Szentlélek, Szentlélek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek, Szentlélek, Vígasztaló, igazság Lelke,<br/>Isten ujja és ereje, járj át, járj át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentlélek, Szentlélek, tanácsadóm, segítségem,<br/>szereteted kenetével járj át, járj át!</lines>
+    </verse>
+  </lyrics>
+</song>

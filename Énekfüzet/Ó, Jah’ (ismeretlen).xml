@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:55:57">
+  <properties>
+    <titles>
+      <title>Ó, Jah’</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, Jah', ó, Jah', Urunk, jöjj el!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ellenségeid űzd el, amint a füstöt űzi a szél!<br/>Hadd fussanak mind Előled, jöjj, szórd őket szét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ünnepelnek a szentek, örvendeznek Előtte,<br/>ujjongva, teljes örömmel zengik dicséretét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki a mennyekbe száguld, együtt Őt magasztaljuk!<br/>Az Ő neve: Jahve! Jöjj, örvendjünk hát!</lines>
+    </verse>
+  </lyrics>
+</song>

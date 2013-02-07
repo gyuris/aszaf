@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:48:21">
+  <properties>
+    <titles>
+      <title>Nagyobb Ő</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nagyobb Ő, ki bennünk lakik, halleluja!<br/>Nagyobb Ő, ki bennünk lakik, halleluja!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Istentől származunk, Övéi vagyunk, hát, áldjuk Őt,<br/>a Fiát küldte a földre, hogy a világ üdvözüljön!<br/>Valljuk meg hát együtt, hogy Jézus az Isten Fia,<br/>s bennünk marad az Isten, és mi is Őbenne.</lines>
+    </verse>
+  </lyrics>
+</song>

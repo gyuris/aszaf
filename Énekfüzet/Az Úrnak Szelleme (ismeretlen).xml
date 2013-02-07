@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T00:14:41">
+  <properties>
+    <titles>
+      <title>Az Úrnak Szelleme</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az Úrnak Szelleme van énrajtam,<br/>felkent, hogy a szegényeknek örömhírt mondjak,<br/>elküldött, hogy bekössem a megtört szíveket,<br/>hogy szabadságot hirdessek a foglyoknak.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jókedvének esztendejét - itt az idő!<br/>Bosszúállása napját - itt az idő!<br/>Fogadd el hát kegyelmét - itt az idő!<br/>Vesd le hamar a gyászruhát!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ez az a nap, mikor szól hozzád az Úr,<br/>ez az a perc, mikor szíved megnyithatod,<br/>ne várj tovább, oly bőséges irgalma,<br/>még nem késő, ez az üdvösség napja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jókedve esztendeje még tart - itt az idő!<br/>De már nincs messze a harag - itt az idő!<br/>Fogadd el hát kegyelmét - itt az idő!<br/>Siess hamar az Úr elé!</lines>
+    </verse>
+  </lyrics>
+</song>

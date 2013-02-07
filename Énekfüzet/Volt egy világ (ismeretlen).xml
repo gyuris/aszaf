@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-07T00:01:00">
+  <properties>
+    <titles>
+      <title>Volt egy világ</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Volt egy világ, amit még sosem láttam,<br/>szép új világ, álmomban arra jártam,<br/>ott, a négy folyó földjén,<br/>ó, igen, a négy folyó földjén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rég elveszett, de lesz még arany korszak,<br/>fénylő egek, napsütés, akárhol csak jársz,<br/>a négy folyó földjén,<br/>ó, igen, a négy folyó földjén.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Egy félsziget, álomkép,<br/>mint egy zöld liget, olyan szép.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Füves legelők, csendes hűs vizek,<br/>erdők és mezők, a szemnek sem hiszed.<br/>Méz illata száll, aranyló vidék,<br/>gyümölcsöt kínál, és mindig kék az ég<br/>az Édenkert földjén.</lines>
+    </verse>
+  </lyrics>
+</song>

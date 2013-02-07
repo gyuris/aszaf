@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-07T00:35:30">
+  <properties>
+    <titles>
+      <title>Álmomban messze jártam</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Álmomban messze jártam, egy szántóföldet láttam,<br/>kiégett tarló, semmi más.<br/>Eső nem hullott régen, felhő sem volt az égen,<br/>mindent tönkretett a szárazság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hirtelen nagy szél támadt, elsodort minden gátat,<br/>felhők gyűltek az ég alján.<br/>Eső illatát éreztem, és imádkoztam csendben:<br/>„Uram, áldásod áraszd ránk!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ébredésre vár a föld,<br/>szomjas a nagy világ,<br/>és annyi száraz év után<br/>most élő vízre vár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az álomból valóság lesz, hiszem, hogy felébrednek<br/>a népek, törzsek, nemzetek.<br/>Eltűnik majd a sötétség, megszűnik minden kétség,<br/>Istenhez jönnek az emberek!</lines>
+    </verse>
+  </lyrics>
+</song>

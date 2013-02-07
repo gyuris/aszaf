@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:56:26">
+  <properties>
+    <titles>
+      <title>Él Jézus, a mi Urunk</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Él Jézus, a mi Urunk, él Jézus, a mi Urunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő él, Ő él, Ő él, él,<br/>él Jézus, a mi Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

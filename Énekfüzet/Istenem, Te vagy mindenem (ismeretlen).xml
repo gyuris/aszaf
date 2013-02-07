@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T13:01:08">
+  <properties>
+    <titles>
+      <title>Istenem, Te vagy mindenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, Te vagy mindenem,<br/>Hozzád vágyakozom!<br/>Utánad szomjazik a lelkem,<br/>Utánad sóvárog a testem<br/>kiszikkadt, kopár, víztelen földön.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így nézek Rád a szentélyben,<br/>hogy lássam hatalmad és dicsőségedet,<br/>mert szereteted az életnél is jobb,<br/>ajkam Téged dicsőít, csak Téged dicsőít.</lines>
+    </verse>
+  </lyrics>
+</song>

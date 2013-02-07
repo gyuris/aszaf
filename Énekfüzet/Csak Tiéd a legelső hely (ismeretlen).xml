@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:27:53">
+  <properties>
+    <titles>
+      <title>Csak Tiéd a legelső hely</title>
+    </titles>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Tiéd a legelső hely,<br/>mert Te, Te vagy a hű Főpap,<br/>rangod magasabb minden rangnál,<br/>trónodhoz jövünk, imádunk, szent Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

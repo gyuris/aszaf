@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T21:05:58">
+  <properties>
+    <titles>
+      <title>Odaadom Neked</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Odaadom Neked mindenemet, amit akarsz,<br/>cselekedd meg most velem,<br/>legyen, ahogy akarod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kincseiddel töltsd meg életemet,<br/>adj nekem látást, hogy ne tévedjek el!<br/>Újítsd meg friss keneted!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Formálj át engem, hogy hasonlítsak Rád!<br/>Drága Szentlelkeddel gyere közel hozzám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy pillantásod, ha megtalál,<br/>az többet jelent minden szónál,<br/>jelenléted, ha eláraszt engem.<br/>Egy villanás dicsőségedből,<br/>és újjá lesz minden bennem.<br/>Jézus vérén át jövök Hozzád.<br/>Tüzed ég a szívemben!</lines>
+    </verse>
+  </lyrics>
+</song>

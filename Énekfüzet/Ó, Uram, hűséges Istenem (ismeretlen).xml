@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T16:17:05">
+  <properties>
+    <titles>
+      <title>Ó, Uram, hűséges Istenem</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Uram, hűséges Istenem,<br/>dicsérlek én minden nap szüntelen!<br/>Jóságod áraszd le rám,<br/>kegyelmeddel jöjj el hozzám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az egyetlen Úr a szívemben,<br/>dicsőséges, hatalmas Király!<br/>Áldott legyen, áldott legyen,<br/>áldott legyen neved!</lines>
+    </verse>
+  </lyrics>
+</song>

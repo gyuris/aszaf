@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:51:49">
+  <properties>
+    <titles>
+      <title>Atyám, Istenem</title>
+    </titles>
+    <verseOrder>v1 p1 c1</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, Istenem, szerelmed hozott létre engem,<br/>édesanyám méhében már Te szőtted a testem.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Úgy alkottad lényem, hogy szerelmedből éljen,<br/>és a Te szavad: „Enyém vagy", örökre bennem égjen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te vagy a szeretet,<br/>ki átölelsz minden nap!</lines>
+    </verse>
+  </lyrics>
+</song>

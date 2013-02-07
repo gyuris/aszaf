@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T10:56:02">
+  <properties>
+    <titles>
+      <title>Győztes vagy, Királyunk</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Győztes vagy Királyunk,<br/>a Te országod örökké áll!<br/>Dicsérünk, Megváltónk,<br/>tölts be minket szent erőddel!<br/>Jöjj most, Szentlélek hozzánk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mindig győztesek vagyunk Benned,<br/>nem alkuszunk, nem hátrálunk meg,<br/>győzelmedben élünk, Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

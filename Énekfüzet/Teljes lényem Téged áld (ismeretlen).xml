@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T22:57:04">
+  <properties>
+    <titles>
+      <title>Teljes lényem Téged áld</title>
+    </titles>
+    <verseOrder>v1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Teljes lényem Téged áld,<br/>dicséri szent neved,<br/>csak Rólad szól az egész életem.</lines>
+      <lines>Kihoztál a sötétből,<br/>a fényed bennem ég,<br/>szerelmed éneklem örökké,<br/>szerelmed éneklem örökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Dicsőséged lássa meg<br/>minden nemzet, nép,<br/>színed előtt hajtsa meg térdét.</lines>
+      <lines>Jézus, kérlek, olvaszd fel<br/>a dermedt szíveket,<br/>hogy megízleljék békéd, szereteted,<br/>hogy megízleljék békéd, szereteted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy, Uram!<br/>Szent vagy, szent vagy, szent vagy, Uram!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És a kürtök felzúgnak,<br/>és a menny majd meglátja,<br/>hogy eljött már az óra,<br/>hol a Menyasszony vár rá,<br/>az ő helyén, és meghalljuk<br/>az angyalok énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

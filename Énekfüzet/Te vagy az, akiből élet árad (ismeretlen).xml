@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T22:47:22">
+  <properties>
+    <titles>
+      <title>Te vagy az, akiből élet árad</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="239"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy az, akiből élet árad,<br/>Te vagy csak igaz szó a számban,<br/>szívem kincse, lélegzetem, mindenem.<br/>Te vagy az, akire mindig vártam,<br/>Hajnalcsillag vagy az éjszakában,<br/>olyan egyedül érzem magam Nélküled.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>De Te velem vagy, Jézus, minden nap,<br/>Te vagy a fény, ha éjjel van,<br/>Te vagy a tűz a szívemben, ami ég!<br/>Jézus, Te vagy az életemben csak<br/>igaz barát, ki el nem hagy.<br/>Minden óra, minden nap a Tiéd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erős szikla vagy Te, amire állok,<br/>Te vagy az, aki a boldogságot<br/>elhoztad az égből az én szívembe.<br/>Én nem ismertelek, de Te ismertél,<br/>életedet adtad, úgy szerettél.<br/>Hogyan köszönjem meg néked az egész életem?</lines>
+    </verse>
+  </lyrics>
+</song>

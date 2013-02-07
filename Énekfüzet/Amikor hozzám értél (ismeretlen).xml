@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:37:48">
+  <properties>
+    <titles>
+      <title>Amikor hozzám értél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amikor hozzám értél, minden újjá lett bennem,<br/>jelenlétedre ébredtem.<br/>Szereteted elért, és messze szállt a félelem,<br/>Neked adom az életem!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Rám leheltél, és élettel betöltöttél,<br/>kezeddel hozzám értél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy fény gyúlt a Mennyből, és szívem már ettől<br/>csak ezért az Országért él!<br/>Egy kéz nyúlt le fentről, és értettem egyből a célt,<br/>mikor hozzám értél!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T10:08:07">
+  <properties>
+    <titles>
+      <title>Eljött hozzám</title>
+    </titles>
+    <verseOrder>v1 c1 b1 e1</verseOrder>
+    <authors>
+      <author>Pintér Béla</author>
+      <author>Tim Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött hozzám, mikor még bűnben éltem,<br/>felnyitotta a szemem.<br/>Szolgává lett, önmagát megalázva<br/>bűneimért szenvedett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljöttem, hogy áldjam, csodáljam, imádjam<br/>Őt, ki értem adta önmagát!<br/>Csodálatos Isten, dicsőséges Bárány,<br/>fogadd el szívem imádatát!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nem tudom felfogni azt,<br/>milyen nagy volt az áldozat!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hívd segítségül nevét, és megmenekülsz!</lines>
+    </verse>
+  </lyrics>
+</song>

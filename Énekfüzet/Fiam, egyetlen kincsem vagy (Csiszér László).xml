@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T10:33:38">
+  <properties>
+    <titles>
+      <title>Fiam, egyetlen kincsem vagy</title>
+      <title>Apa a fiának</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fiam, egyetlen kincsem vagy,<br/>a szeretetem túlárad irántad.<br/>Fiam, barátként állok itt,<br/>hogy veled maradjak az idők végéig.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden dal, ami elér,<br/>azt suttogja szerelmem tiéd,<br/>fénylő hangok, dallamok<br/>tengerében ott vagyok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiam, az életed nagy kincs,<br/>fiam, tudnod kell, ez mindig igaz marad.<br/>Fiam, akkor is hogyha félsz,<br/>amikor elborít a sötétség.</lines>
+    </verse>
+  </lyrics>
+</song>

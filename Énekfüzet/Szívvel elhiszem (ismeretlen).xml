@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T22:33:50">
+  <properties>
+    <titles>
+      <title>Szívvel elhiszem</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívvel elhiszem, szájjal megvallom,<br/>hogy Jézus Krisztus Úr.<br/>Nem hallgatok, mert jól tudom,<br/>igen, él a Megváltóm!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincsen távol, nem rejtőzik el,<br/>keze nyújtva van felém.<br/>Válaszol, ha hívom Őt,<br/>ezért megvallom nevét,<br/>igen, én hirdetem nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

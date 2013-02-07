@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:02:32">
+  <properties>
+    <titles>
+      <title>Több vagy nekem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Több vagy nekem már mindennél,<br/>szívemben élsz, enyém lettél,... szeretlek én!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tudom, közel vagy, magadhoz ölelsz,<br/>mert Tiéd vagyok én,<br/>soha nem hagysz egyedül!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az életed feláldoztad,<br/>szabad vagyok és látom már, Te vagy a cél!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Mindenkor mellettem voltál,<br/>bár sokszor nem éreztem én,<br/>éveken át mindvégig vártál rám.</lines>
+    </verse>
+  </lyrics>
+</song>

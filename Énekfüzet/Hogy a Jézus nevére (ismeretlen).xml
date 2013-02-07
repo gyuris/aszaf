@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T11:57:18">
+  <properties>
+    <titles>
+      <title>Hogy a Jézus nevére</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogy a Jézus nevére minden térd meghajoljon<br/>mennyeieké, földieké és föld alatt valóké!<br/>És minden nyelv vallja, hogy Jézus Krisztus Úr<br/>az Atya Isten dicsőségére!</lines>
+    </verse>
+  </lyrics>
+</song>

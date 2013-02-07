@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:50:42">
+  <properties>
+    <titles>
+      <title>Veled én már meghaltam</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veled én már meghaltam, sírból fel is támadtam.<br/>Élek többé, többé soha nem én,<br/>mert énbennem már a Jézus él.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sötétség már szűnni kezd, a hajnal egyre fényesebb,<br/>s ahogy Te vagy, mi éppen ugyanúgy,<br/>mi ugyanúgy vagyunk e világon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőség az Atyának, hála, hála Fiának, Fiának!<br/>Halleluja, drága Szentlélek,<br/>jöjj, és töltsed meg a szívemet!</lines>
+    </verse>
+  </lyrics>
+</song>

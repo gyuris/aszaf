@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T00:26:37">
+  <properties>
+    <titles>
+      <title>Bennem ég egy tűz</title>
+    </titles>
+    <verseOrder>v1 p1 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bennem ég egy tűz, mely nem hal el,<br/>Érted ég itt benn a mélységben.<br/>Halld, Uram, szívünk vágyódását,<br/>hadd lehessünk ott, ahol Te vársz!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Itt vagy közel, jelenléted körülvesz,<br/>hadd lássuk végre arcodat! Ragadj magaddal!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lelkünk úgy kiált, Hozzád kiált,<br/>Jézus, Hozzád kiált, jöjj gyorsan!<br/>Eljön a nap, mikor látjuk arcodat,<br/>színről-színre arcodat, jöjj gyorsan!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Amíg eljössz, Te tarts meg!</lines>
+    </verse>
+  </lyrics>
+</song>

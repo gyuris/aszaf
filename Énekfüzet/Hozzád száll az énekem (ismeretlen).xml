@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T11:59:28">
+  <properties>
+    <titles>
+      <title>Hozzád száll az énekem</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hozzád száll az énekem,<br/>olyan jó Téged dicsérni!<br/>Bűnös volt az életem,<br/>eljöttél, hogy megments engem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mennyből jöttél közénk, hogy út legyél,<br/>feláldoztad magad a bűnömért.<br/>A Golgotán meghaltál, harmadnap feltámadtál,<br/>uralkodsz mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

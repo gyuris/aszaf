@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:27:20">
+  <properties>
+    <titles>
+      <title>Csak pillanat létünk</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak pillanat létünk, Te örökké Úr vagy,<br/>Ura elmúlt koroknak, Isten minden előtt.<br/>Csak páraként élünk, míg Te változás nélkül,<br/>a mennyben uralkodva örökké szeretsz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, mindenható Úr,<br/>méltó Bárány, megölettél!<br/>Minden áldás és tisztesség<br/>hadd legyen Tiéd! Hadd legyen Tiéd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha megtörne testünk, gyógyulást adsz majd,<br/>Jézus, Megváltó, Üdvözítő!<br/>Szerelmes dal vagy, mely szívünkből zendül,<br/>hódolunk Néked, áldjuk neved!</lines>
+    </verse>
+  </lyrics>
+</song>

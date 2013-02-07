@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T11:33:06">
+  <properties>
+    <titles>
+      <title>Hatalmas vagy</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatalmas vagy, erős Isten,<br/>szent és dicső senki más nincsen!<br/>Feltámadtál és Te győztél,<br/>a halálon uralmat vettél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, örvendezzünk hát!</lines>
+    </verse>
+  </lyrics>
+</song>

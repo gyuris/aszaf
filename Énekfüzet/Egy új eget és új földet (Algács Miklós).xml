@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:50:48">
+  <properties>
+    <titles>
+      <title>Egy új eget és új földet</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Algács Miklós</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy új eget és új földet, az elsők többé nem lesznek<br/>a városban, mely a mennyből szállt alá.<br/>Drágakövekből épített, zafírokkal díszített,<br/>ez a hely minékünk készített.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, ez a város, melyről álmodom,<br/>ott nem hallatszik többé harangszó.<br/>Ott nem lesz sírás, sem szenvedés,<br/>mert Jézusommal leszek én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott nem lesz többé holdvilág,<br/>ott nem váltja nap az éjszakát,<br/>ott nem lesz többé ősz, tél, tavasz, nyár.<br/>Ott nem bánthat már e világ,<br/>ott nem vádolnak minket már,<br/>mert ott lakik a mennyben az igazság.</lines>
+    </verse>
+  </lyrics>
+</song>

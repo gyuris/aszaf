@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-07T00:32:29">
+  <properties>
+    <titles>
+      <title>Jöjj, itt az idő</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, itt az idő, hogy dicsérd,<br/>jöjj, itt az idő, hogy átadd szíved!<br/>Jöjj, úgy, ahogy vagy, és dicsérd,<br/>jöjj, úgy, ahogy vagy az Úr elé, jöjj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egyszer minden nyelv megvallja, hogy Ő az Úr,<br/>és mindenki térdet hajt!<br/>A legnagyobb kincs mégis azokra vár,<br/>kik most Őt választják!</lines>
+    </verse>
+  </lyrics>
+</song>

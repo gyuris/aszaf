@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:45:58">
+  <properties>
+    <titles>
+      <title>Arra vágyom én</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arra vágyom én, hogy magasztaljalak,<br/>teljes szívemből imádlak!<br/>Mindenem Te vagy, ezért Téged dicsérlek,<br/>teljes örömöm Te vagy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, Neked adom az életemet,<br/>mert csak Érted élek!<br/>Kérlek, vezess engem az ösvényeden,<br/>minden nap Veled!</lines>
+    </verse>
+  </lyrics>
+</song>

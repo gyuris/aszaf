@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T22:57:25">
+  <properties>
+    <titles>
+      <title>A sátánt legyőzték</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>A sátánt legyőzték a Bárány vérével,<br/>és az ő szavuk bizonyságával.<br/>Nem kímélték még az életüket sem,<br/>ennek örülnek a mennyben.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt a földön üldözés vár majd rátok,<br/>mégis örüljetek, mert<br/>Én már legyőztem, Én már legyőztem,<br/>Én már legyőztem a világot!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>A Sátánt legyőzzük a Bárány vérével,<br/>és a mi szavunk bizonyságával.<br/>Nem kíméljük még az életünket sem,<br/>ennek örülnek a mennyben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt a földön üldözés vár majd ránk is,<br/>mégis örvendezünk, mert<br/>győztesek vagyunk, győztesek vagyunk,<br/>győztesek vagyunk a világ felett!</lines>
+    </verse>
+  </lyrics>
+</song>

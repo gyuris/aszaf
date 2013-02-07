@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T12:31:39">
+  <properties>
+    <titles>
+      <title>Igazságban, szellemben</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igazságban, szellemben életem átadom,<br/>szerelmemnek olaját s teljes hódolatom,<br/>mindent átadok Neked, fogadd el, Istenem,<br/>oltárodra hadd tegyem, itt van megtört szívem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, hű jó barát, mondd, mit adhatok?<br/>Szerető nagy Király, vajon mit hozhatok?<br/>Mit mondhatnék Neked, miről szóljon dalom?<br/>Neved dicséretét hozom ajkaimon.<br/>Hálám elmondani minden szó szegény,<br/>hiszen oly nagy szeretettel tartozom Neked én!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Értem adtad életed, Tiéd vagyok ma már,<br/>meghaltál a keresztfán, ez volt értem az ár.<br/>Ott győzted le bűneim, lemostad szégyenem,<br/>a mennybe ajtót nyitottál és behívtál engem.</lines>
+    </verse>
+  </lyrics>
+</song>

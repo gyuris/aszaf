@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:38:35">
+  <properties>
+    <titles>
+      <title>Minden nap veled leszek</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden nap veled leszek, fogom a kezed,<br/>csak őrizd meg mindig tisztán a szíved!<br/>El nem hagylak téged, el nem távozom,<br/>kiáltasz Hozzám, és Én meghallgatom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Hát) ne félj, Én népem, hisz tiéd az örökségem,<br/>ne félj és ne lankadj el, hisz neked győznöd kell!</lines>
+    </verse>
+  </lyrics>
+</song>

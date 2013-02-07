@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:25:40">
+  <properties>
+    <titles>
+      <title>Ahogy nézlek Téged</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ahogy nézlek Téged, elszáll minden félelem,<br/>s ahogy szól szelíd szavad, nem kérdezek már.<br/>Amikor érzem, itt vagy, Szentlelked hoz közel,<br/>erős karod átölel, és új élet tölt el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A mennyben van otthonom,<br/>szívem szárnyal szabadon,<br/>lelkem megnyugszik Benned,<br/>átitatja keneted!<br/>A halál itt véget ér,<br/>mert nem hagy el a remény,<br/>hogy a végén meglátlak ott fenn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess, Uram, Istenem, és engedd megértenem<br/>szent célodat, tervedet, kedves akaratod.<br/>Adj próbában kegyelmet, bátorságot, hűséget,<br/>hogy mindvégig győztesen álljak meg a hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

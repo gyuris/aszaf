@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T11:56:09">
+  <properties>
+    <titles>
+      <title>Hívlak, Uram, várlak, Uram</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hívlak, Uram, várlak, Uram,<br/>Benned bízom, Benned reménykedem.<br/>Hívlak, Uram, várlak, Uram,<br/>légy segítségem, légy menedékem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te szóltál, és előállt a földkerekség,<br/>mert Te szóltál, és csillagok lettek az ég tengerén,<br/>mert Te szóltál, és víz fakadt a kősziklából,<br/>mert Te szóltál, és megindult a föld a szavadtól.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Benned bízom én, Terád vágyom én,<br/>jöjj el, Uram, és cselekedjél!</lines>
+    </verse>
+  </lyrics>
+</song>

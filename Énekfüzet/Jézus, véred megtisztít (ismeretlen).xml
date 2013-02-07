@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:06:52">
+  <properties>
+    <titles>
+      <title>Jézus, véred megtisztít</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, véred megtisztít,<br/>véred ad új életet,<br/>véred tesz ma szabaddá,<br/>értem folyt e drága vér!<br/>Így a lelkem fehér, mint a hó, mint a hó.<br/>Úr Jézus, Te megölt Bárány!</lines>
+    </verse>
+  </lyrics>
+</song>

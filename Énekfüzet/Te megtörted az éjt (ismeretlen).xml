@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T22:42:26">
+  <properties>
+    <titles>
+      <title>Te megtörted az éjt</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te megtörted az éjt, mint a nap,<br/>szívem szerelmed gyógyította.<br/>Mikor a nagy terhet nem bírtam már,<br/>válladra vettél, s így vittél tovább.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nagy szerelmed<br/>elmossa a bűnt,<br/>hordod a világ súlyát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szeretlek, Benned van<br/>minden reményem,<br/>Jézus Krisztus,<br/>vonj magadba, vedd életem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A magas hegyekre állsz velem,<br/>s a völgyeken is átkelek Veled.<br/>Egyszülötted adtad értem,<br/>a kegyelem csak, melyben bízom én!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Imádlak én, éneklem<br/>teljes szívemből:<br/>Nélküled nem élhetek,<br/>én mindenem, ... ó, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

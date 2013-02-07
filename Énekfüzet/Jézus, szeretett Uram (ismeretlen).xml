@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:05:11">
+  <properties>
+    <titles>
+      <title>Jézus, szeretett Uram</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, szeretett Uram,<br/>Jézus, ó, én nem hagylak el soha!<br/>Te alkottál a földnek porából,<br/>és Te állítottál a kősziklára.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy várlak és áldlak,<br/>elmúlik ez a világ és én meglátlak.<br/>Megváltóm, szeretlek Téged,<br/>imádlak és dicsérlek, amíg csak élek!</lines>
+    </verse>
+  </lyrics>
+</song>

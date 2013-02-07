@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T22:59:15">
+  <properties>
+    <titles>
+      <title>Több erőt, több szeretetet</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Több erőt, több szeretetet,<br/>többet Tőled minden nap!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És teljes szívemből imádom neved,<br/>az elmém meghajol, és hódol Neked,<br/>teljes lényem Tiéd, rendelkezz velem!<br/>Mert Te vagy az Úr!<br/>Te vagy az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

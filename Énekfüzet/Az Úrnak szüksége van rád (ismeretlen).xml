@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T00:18:21">
+  <properties>
+    <titles>
+      <title>Az Úrnak szüksége van rád</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak szüksége van rád,<br/>oly nagyon szüksége van rád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fontosabb vagy te, mint az égbolt,<br/>fontosabb vagy te, mint a föld,<br/>fontosabb vagy te, mint a tenger,<br/>nagyon fontos vagy te!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak szüksége van rám...<br/>Fontosabb vagyok mint...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nekünk szükségünk van Rád (Atyám)...<br/>Fontosabb vagy Te mint...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nekem szükségem van rád (testvérem)...<br/>Fontosabb vagy te...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Neked szükséged van rám...<br/>Fontosabb vagyok...</lines>
+    </verse>
+  </lyrics>
+</song>

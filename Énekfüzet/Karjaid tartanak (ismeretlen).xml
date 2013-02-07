@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:24:47">
+  <properties>
+    <titles>
+      <title>Karjaid tartanak</title>
+    </titles>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Karjaid tartanak, tudom,<br/>biztos oltalom szerelmed.<br/>Tied vagyok, csak Benned hiszek,<br/>s ez nem változik meg, míg élek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozzád tartozom, Uram,<br/>Érted éneklek, Uram,<br/>bárhová is mész, bármit is ígérsz,<br/>Benned bízom!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Egész lényem keres Téged, Uram,<br/>egész lényem követ Téged, Uram,<br/>egész lényem szolgál Téged, Uram,<br/>egész lényem szeret Téged, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

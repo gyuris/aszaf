@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T22:27:54">
+  <properties>
+    <titles>
+      <title>A kegyelem árad</title>
+    </titles>
+    <verseOrder>v1 c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A kegyelem árad és árad és árad,<br/>a kegyelem árad, mint az eső,<br/>a kegyelem árad és árad mindenhol.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, Tebenned bízom,<br/>Jézus, irgalmad kísér,<br/>Jézus, Veled táncolok örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

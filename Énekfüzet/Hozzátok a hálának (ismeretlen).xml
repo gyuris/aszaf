@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T12:04:01">
+  <properties>
+    <titles>
+      <title>Hozzátok a hálának</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hozzátok a hálának áldozatát,<br/>teljes szívből énekeljetek!<br/>Zengjetek az Úrnak új éneket,<br/>szabadítását hirdessétek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Felszáll a hála, mint arany lehelet,<br/>betölti az egész mennyet.<br/>Alig várom, hogy hozzám felérjen,<br/>megfürdök benne egészen.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott az Úr, ki közöttünk jár, velünk lakik!<br/>Áldott az Úr, ki békességet ad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó, jó az Úr, ki közöttünk jár, velünk lakik!<br/>Jó, jó az Úr, ki békességet ad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent, szent az Úr, ki közöttünk jár, velünk lakik!<br/>Szent, szent az Úr, ki békességet ad!</lines>
+    </verse>
+  </lyrics>
+</song>

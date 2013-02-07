@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T14:05:47">
+  <properties>
+    <titles>
+      <title>Jézus, térdet hajtunk</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, térdet hajtunk,<br/>Te vagy a Királyunk,<br/>énekünk magasba emel,<br/>foglald el királyi trónod!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy várunk, jöjj, Tiéd a trón,<br/>úgy várunk, jöjj, Tiéd a trón,<br/>úgy várunk, jöjj Tiéd a trón,<br/>jöjj, Úr Jézus, Te légy Urunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, térdet hajtok,<br/>Te vagy a Királyom,<br/>énekem magasba emel,<br/>foglald el szívemnek trónját!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Úgy várlak, jöjj, Tiéd szívem,<br/>úgy várlak, jöjj, Tiéd szívem,<br/>úgy várlak, jöjj, Tiéd szívem,<br/>jöjj, Úr Jézus, Te légy az életem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:21:03">
+  <properties>
+    <titles>
+      <title>Uram, mind jobban</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, mind jobban szeretlek,<br/>ahogy a napok telnek.<br/>Szereteted áthatol, és a bensőm lángra gyúl!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csendesen jössz mindig hozzám,<br/>és szelíden átölelsz.<br/>Halk szavaddal bátorítasz,<br/>hogy sose csüggedjek el.<br/>Nem taszítasz el magadtól,<br/>tudom, nem, Te nem hagysz el!<br/>Hűséged tart, mint a páncél, és én élek!</lines>
+    </verse>
+  </lyrics>
+</song>

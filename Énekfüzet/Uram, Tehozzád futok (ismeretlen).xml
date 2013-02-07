@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:28:10">
+  <properties>
+    <titles>
+      <title>Uram, Tehozzád futok</title>
+    </titles>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Tehozzád futok, élő vízre szomjazom,<br/>közelséged, ó, mily jó énnékem.<br/>Kérlek, ne menj el tőlem, légy mindig segítségem,<br/>úgy kívánlak, Téged, Istenem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Én pedig szüntelen remélek,<br/>egyre jobban dicsérlek,<br/>ajkam beszéli a Te igazságodat.<br/>Hadd legyen most a dalom<br/>jó illat oltárodon!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nagyon szeretlek Téged,<br/>nagyon szeretlek Téged,<br/>nagyon szeretlek Téged, Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>
