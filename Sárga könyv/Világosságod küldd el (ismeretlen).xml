@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:47:46">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-09T22:16:03">
   <properties>
     <titles>
-      <title>Világosságod</title>
+      <title>Világosságod küldd el</title>
     </titles>
     <verseOrder>v1 p1 c1</verseOrder>
     <authors>
@@ -16,11 +16,11 @@
     <verse name="v1">
       <lines>Világosságod küldd el!<br/>Hűségedben így vezess<br/>szent hegyedre, hajlékodba!</lines>
     </verse>
-    <verse name="c1">
-      <lines>Hadd magasztaljalak, én Istenem!<br/>Amíg csak élek bízhassak Benned,<br/>Szabadító!</lines>
-    </verse>
     <verse name="p1">
       <lines>Bemegyek Isten oltárához<br/>ujjongón, örömöm Istenéhez.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hadd magasztaljalak, én Istenem!<br/>Amíg csak élek bízhassak Benned,<br/>Szabadító!</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T23:59:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-09T22:21:59">
   <properties>
     <titles>
       <title>Világosságod küldd el</title>
     </titles>
-    <verseOrder>v1 c1 b1</verseOrder>
+    <verseOrder>v1 p1 c1</verseOrder>
     <authors>
       <author>ismeretlen</author>
     </authors>
@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Világosságod küldd el!<br/>Hűségedben így vezess szent hegyedre,<br/>hajlékodba!</lines>
+      <lines>Világosságod küldd el!<br/>Hűségedben így vezess szent hegyedre, hajlékodba!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Bemegyek Isten oltárához ujjongó örömöm Istenéhez.</lines>
     </verse>
     <verse name="c1">
       <lines>Hadd magasztaljalak, én Istenem,<br/>amíg csak élek, bízhassak Benned, Szabadító!</lines>
-    </verse>
-    <verse name="b1">
-      <lines>Bemegyek Isten oltárához ujjongó örömöm Istenéhez.</lines>
     </verse>
   </lyrics>
 </song>
