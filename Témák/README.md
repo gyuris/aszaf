@@ -12,7 +12,7 @@ A témák az alábbi CC licences képeket használják fel:
 * Szürke virág:      http://www.flickr.com/photos/chadbrooks/2119859385/
 * Tengerpart fával:  http://www.flickr.com/photos/freefoto/7589947666/
 
-A témák a Creative Commons Nevezd meg! - Így add tovább! 3.0 Unported Licenc feltételeinek megfelelően 
-szabadon felhasználhatók.
+A témák a  Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 3.0 Unported Licenc feltételeinek 
+megfelelően szabadon felhasználhatók.
 
 Gyuris Gellért bubu kukac ujevangelizacio pont hu
