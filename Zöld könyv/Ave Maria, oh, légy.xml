@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Ave Maria, oh, légy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ave Maria, oh, légy menedékünk!<br/>Hallgasd meg imánkat,<br/>és kérd Fiad értünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, boldog Asszony, fogd a kezünket!<br/>Szent Fiadhoz, kérünk, vezess bennünket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ave Maria, oh, légy menedékünk!<br/>Hallgasd meg imánkat,<br/>és kérd Fiad értünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te igent mondtál égi Atyádnak,<br/>Kegyelemmel teljes Sion Leánya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ave Maria, oh, légy menedékünk!<br/>Hallgasd meg imánkat,<br/>és kérd Fiad értünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérünk, az úton mindig velünk járj!<br/>Könyörögjél értünk, drága jó Anyánk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ave Maria, oh, légy menedékünk!<br/>Hallgasd meg imánkat,<br/>és kérd Fiad értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

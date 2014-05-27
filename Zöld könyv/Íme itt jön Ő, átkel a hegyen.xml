@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+  <properties>
+    <titles>
+      <title>Íme itt jön Ő, átkel a hegyen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme itt jön Ő, átkel a hegyen.<br/>A dombon át szalad felém a kedvesem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hát jöjj, Uram, lásd, tiéd a szívem,<br/>A kerted Téged vár, s a szőlőd is terem.<br/>A szív dalol, zengi énekét, a lelkem ég,<br/>Oh, Istenem, szerelmedért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme itt jön Ő, átkel a hegyen.<br/>A dombon át szalad felém a kedvesem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, vágyom, Uram, ünnepelni Veled!<br/>Megrészegít a bor, s a méz, mit adsz nekem.<br/>Ha elfogadod minden kincsemet,<br/>Én átadom: az életem tiéd legyen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Íme itt jön Ő, átkel a hegyen.<br/>A dombon át szalad felém a kedvesem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az Úr elé együtt indulunk.<br/>Ő mindig újra vár miránk, ha elbukunk.<br/>A nász idején ünnepeljetek,<br/>Hisz itt a Vőlegény, ki minket úgy szeret!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Íme itt jön Ő, átkel a hegyen.<br/>A dombon át szalad felém a kedvesem.</lines>
+    </verse>
+  </lyrics>
+</song>

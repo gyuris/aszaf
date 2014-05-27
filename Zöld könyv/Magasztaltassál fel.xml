@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Magasztaltassál fel</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztaltassál fel<br/>az egek fölé!<br/>Dicsőséged ragyogjon<br/>az egész Föld felé!<br/>Zsoltárt zengek, így dicsérlek,<br/>éneklek Neked,<br/>Mert irgalmad az égig ér,<br/>nagy a Te hűséged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könyörülj rajtam, Istenem!<br/>Rád bízom magam!<br/>Küldj a mennyből segítséget,<br/>ments meg jó Uram!<br/>Kiáltok: szabadíts meg,<br/>hiszen irgalmadból élek!<br/>Kész már, kész a szívem,<br/>áldott légy, fölséges Isten!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szárnyad oltalmában<br/>megbújni uram!<br/>Kezed sátorában<br/>elrejteni magam!<br/>Nagyon jó Veled lenni,<br/>Tehozzád menekülni!<br/>Benned megnyugodni olyan jó,<br/>nagyon jó!</lines>
+    </verse>
+  </lyrics>
+</song>

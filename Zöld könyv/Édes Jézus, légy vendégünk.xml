@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Édes Jézus, légy vendégünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus, légy vendégünk,<br/>áldd meg, amit adtál nékünk!<br/>Adjad Uram, hogy jól essék,<br/>Jézus neve dicsértessék. - Amen („Tessék!”)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki ételt, italt adott,<br/>annak neve legyen áldott!<br/>Mi jóllaktunk, hála Isten!<br/>Annak is adj, kinek nincsen! - Amen</lines>
+    </verse>
+  </lyrics>
+</song>

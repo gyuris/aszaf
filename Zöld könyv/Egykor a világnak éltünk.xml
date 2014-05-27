@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Egykor a világnak éltünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egykor a világnak éltünk,<br/>vágyat, álmokat követtünk,<br/>Hajszoltunk a boldog perceket.<br/>Elmerültünk vétkeinkben,<br/>haragban és gyűlöletben,<br/>De Isten egy napon átölelt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztussal életre keltett minket,<br/>elvette a bűneinket,<br/>örök halál többé nem vár ránk!<br/>Szeretetével feltámasztott,<br/>országában helyet adott,<br/>Áldjuk gazdag irgalmasságát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem akarta, hogy eltévedjünk,<br/>haragnak fiai legyünk,<br/>Kegyelméből üdvözölhetünk.<br/>Ő teremtett jóra, szépre,<br/>velünk marad, megígérte,<br/>Benne éljük szép életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

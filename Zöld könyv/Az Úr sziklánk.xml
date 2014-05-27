@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Az Úr sziklánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr sziklánk,<br/>tűz, örök izzás!<br/>Óvja az igazat,<br/>erős fellegvár!<br/>Magasba emel,<br/>de emésztő láng.<br/>Istened imádd, hisz ő a Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézzük majd Siont,<br/>az ünnepek városát!<br/>Teljes szépségében<br/>látjuk a Királyt!<br/>Nem mondja senki:<br/>elveszett vagyok!<br/>A nép, amely ott lakik,<br/>elnyeri bocsánatod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kelj fel hát Urunk,<br/>emelkedj fel!<br/>Tudja meg minden nép,<br/>irgalmad sosem fogy el.<br/>Fenségben ragyogsz,<br/>Te vagy szabadítónk!<br/>Törvényed éltet,<br/>éneklünk országodról!</lines>
+    </verse>
+  </lyrics>
+</song>

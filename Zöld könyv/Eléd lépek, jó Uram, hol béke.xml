@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Eléd lépek, jó Uram, hol béke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eléd lépek, jó Uram, hol béke és nyugalom vár,<br/>Vágyom, hogy érints lelkeddel, hogy múljék, ami fáj.<br/>Hiszem, hogy itt vagy közöttünk,<br/>És halkan, szelíden hívsz,<br/>És mi társaid leszünk örökké,<br/>Hol boldog dalát zengi minden szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|:Áldom az Urat, míg élek,<br/>És szeretem örökké,<br/>Örömmel mondok hálát<br/>A világon mindenért!:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Közénk térdelsz, jó Urunk, féltő szeretettel,<br/>És egy új életnek boldogsága érző szívre lel,<br/>Én tudom, hogy itt vagy közöttünk,<br/>És halkan, szelíden hívsz,<br/>És mi társaid leszünk örökké,<br/>Hol boldog dalát zengi minden szív.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|:Áldom az Urat, míg élek,<br/>És szeretem örökké,<br/>Örömmel mondok hálát<br/>A világon mindenért!:|</lines>
+    </verse>
+  </lyrics>
+</song>

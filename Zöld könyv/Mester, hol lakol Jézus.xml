@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Mester, hol lakol? Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mester, hol lakol? Jézus, merre jársz?<br/>Mutasd meg, hol van az Ország!<br/>Mester, hol lakol? Kérünk válaszolj, hogy merre visz az út?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjjetek hozzám, lássátok!<br/>Jöjjetek hozzám, kik megfáradtatok!<br/>Töröljük le együtt a világ könnyeit,<br/>Gyógyítsuk be együtt a világ sebeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjetek hozzám, érintsetek!<br/>Jöjjetek hozzám és bátran higgyetek!<br/>Szeressétek egymást, mint én szerettelek!<br/>Ímé az ország, itt van köztetek!<br/>Totus Tuus, totus Tuus, totus Tuus! Teljesen a Tiéd!<br/>Totus Tuus, totus Tuus, Teljesen a Tiéd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mester, mit tegyek, hogy életem legyen,<br/>Küldd el Leked, vár a mi szívünk,<br/>Mester, mit tegyek, hogy megismerjelek, szólj, mit kívánsz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjjetek hozzám, lássátok!<br/>Jöjjetek hozzám, kik megfáradtatok!<br/>Töröljük le együtt a világ könnyeit,<br/>Gyógyítsuk be együtt a világ sebeit!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jöjjetek hozzám, érintsetek!<br/>Jöjjetek hozzám és bátran higgyetek!<br/>Szeressétek egymást, mint én szerettelek!<br/>Ímé az ország, itt van köztetek!<br/>Totus Tuus, totus Tuus, totus Tuus! Teljesen a Tiéd!<br/>Totus Tuus, totus Tuus, Teljesen a Tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

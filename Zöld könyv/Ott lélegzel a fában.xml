@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Ott lélegzel a fában</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott lélegzel a fában,<br/>ott mosolyogsz a virágban,<br/>ott vagy a szélben, a frissben,<br/>ó boldog, boldog Isten.<br/>Szép sorsomat te szőtted,<br/>jó leborulni előtted.<br/>Te vagy az útnak a vége:<br/>Szent mélység, áldott béke.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Dicséret, áldás, örök imádás</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicséret, áldás, örök imádás,<br/>Néked, Mindenható!<br/>Itt áll a néped, új hitre ébred,<br/>És várja leheleted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden nyelv most ezt kiáltja: Dicsőség,<br/>És imádva áldja Neved, mind együtt,<br/>és a néped újra zengi: Hatalmas,<br/>Áldott Úr vagy mindörökké, ó Mindenható!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A földről az ég felé kiáltjuk,<br/>Hogy Jézus az egyetlen Úr!<br/>Nincs, nem is lesz soha más,<br/>ki Hozzá hasonlítható!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Síró kicsiny ember voltál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Síró kicsiny ember voltál,<br/>így születtél.<br/>Kemény, rideg éj várt Rád,<br/>mégis eljöttél<br/>Várt a szomjazó világ,<br/>beléptél hozzánk,<br/>Villámfényként ragyogtad be<br/>az éjszakát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|:|zzó Tűz, lobbanj fel!<br/>Lángoddal égess el<br/>Minden bűnt a szívekben!<br/>Tisztítsd meg a lelkeket!:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyakran rám tör a félelem,<br/>sötétben járok.<br/>Kemény, rideg a világ,<br/>én fényre várok!<br/>Szívem lankad, erőm fogy,<br/>fagyos a lelkem.<br/>Jöjj el Jézus, ragyogd be,<br/>űzd el az éjem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|:|zzó Tűz, lobbanj fel!<br/>Lángoddal égess el<br/>Minden bűnt a szívekben!<br/>Tisztítsd meg a lelkeket!:|</lines>
+    </verse>
+  </lyrics>
+</song>

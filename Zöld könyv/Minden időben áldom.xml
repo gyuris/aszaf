@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>Minden időben áldom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden időben áldom,<br/>dicsérem az Urat, magasztalom<br/>az Ő Nevét. Hallják ezt a<br/>szegények, és együtt<br/>örülnek, sietve asztalához.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Érezd és lásd, hogy jó az Úr,<br/>Kegyelme az Őt félőkön megmarad<br/>Örökkön-örökké!<br/>Érezd és lásd, hogy jó az Úr,<br/>Kiáltasz, s mert közel<br/>van Ő hozzád, válaszol.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megkerestem az Urat,<br/>S meghallgatott engem,<br/>Minden félelemből kimentett.<br/>Aki Őreá néz, annak a lelke felvidul<br/>És arca szégyentől el nem pirul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr angyala tábort jár<br/>Az Őt félők körül,<br/>S megszabadítja Isten népét.<br/>Az oroszlánok szűkölködnek<br/>És éheznek,<br/>De az Őt keresők bőségben élnek.</lines>
+    </verse>
+  </lyrics>
+</song>

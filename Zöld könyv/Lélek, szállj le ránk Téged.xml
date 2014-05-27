@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Lélek, szállj le ránk! Téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Lélek, szállj le ránk! Téged vár a világ.<br/>Jöjj, Örömünk, jöjj, ma töltsd be szívünk!<br/>Néped vigasztald!<br/>Lélek, szállj le ránk! Téged vár a világ!<br/>Jöjj, és mutasd meg Isten szeretetét:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szállj le reánk, jöjj, ki hallod imánk, ki mindig velünk jársz:<br/>Felemelőnk, hogyha elfogy erőnk, s Újjáteremtőnk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|:Lélek, szállj le ránk! Téged vár a világ.<br/>Jöjj, Örömünk, jöjj, ma töltsd be szívünk!<br/>Néped vigasztald!<br/>Lélek, szállj le ránk! Téged vár a világ!<br/>Jöjj, és mutasd meg Isten szeretetét:|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Életadó, jöjj, ki ismered jól, az Isten titkait!<br/>Ami igaz, ami szent, ami szép, arra megtaníts.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>|:Lélek, szállj le ránk! Téged vár a világ.<br/>Jöjj, Örömünk, jöjj, ma töltsd be szívünk!<br/>Néped vigasztald!<br/>Lélek, szállj le ránk! Téged vár a világ!<br/>Jöjj, és mutasd meg Isten szeretetét:|</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Békehozó, jöjj ma Bátorító, Jöjj, és adj reményt!<br/>Űzd el az éjt lelkünk rejtekén! Fényünk csak Te légy!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>|:Lélek, szállj le ránk! Téged vár a világ.<br/>Jöjj, Örömünk, jöjj, ma töltsd be szívünk!<br/>Néped vigasztald!<br/>Lélek, szállj le ránk! Téged vár a világ!<br/>Jöjj, és mutasd meg Isten szeretetét:|</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Alleluja, alleluja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Alleluja, alleluja,<br/>alleluja, alleluja!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy Isten, imádunk,<br/>örökké magasztalunk!<br/>Mindennek Teremtője, végtelen Úr!<br/>Légy áldott, mi Atyánk,<br/>szerető Édesapánk,<br/>Az egész világ zengje:<br/>Te vagy az Úr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Új Jézus, Téged áldunk!<br/>Te vagy a mi Királyunk!<br/>Megváltó Fiúisten, végtelen Úr!<br/>Te vagy az Út, az Élet,<br/>Igazság, nem ítélet!<br/>Testté lett Élő Ige,<br/>Te vagy az Úr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlélek, Téged várunk!<br/>Vigaszunk, jó barátunk!<br/>Megszentelő Lélek, végtelen Úr!<br/>Bölcsesség bő forrása,<br/>próféták legszebb álma,<br/>Erőnk és reménységünk,<br/>Te vagy az Úr!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>|:Alleluja, alleluja,<br/>alleluja, alleluja!:|2x</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Neked szól ez a dal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neked szól ez a dal,<br/>Neked írom én.<br/>Neked peng ma a húr,<br/>Neked hála a hangomért!<br/>És Tőled a szó,<br/>Mi egy dalban mondható,<br/>Minden, mi szép,<br/>Minden, mi jó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hát jöjj, dalomban<br/>légy az értelem!<br/>Szólj általam,<br/>És fogd a két kezem,<br/>Mert Tőled a szó,<br/>Mi egy dalban mondható,<br/>Minden, mi szép,<br/>Minden, mi jó!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neked hála! Dicsérlek én!<br/>Neked Hála! Dicsér a Nap,<br/>a hold meg az ég!<br/>Dicsérik mind-mind az Úr nevét!<br/>Neked hála! Dicsér a szél!<br/>Neked hála! Dicsér a tűz, a hó és a jég!<br/>Dicsérik mind-mind az Úr nevét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Neked szól ez a dal,<br/>Neked írom én.<br/>neked peng ma a húr,<br/>Neked hála a hangomért!<br/>És Tőled a szó,<br/>Mi egy dalban mondható,<br/>Minden, mi szép,<br/>Minden, mi jó!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miként Dávid király,<br/>Ajkam zsoltárt zeng Feléd!<br/>Neked hála a világon mindenért!<br/>Igen, hallod imám,<br/>Ha nyílik a szám,<br/>Ha peng már a húr,<br/>Ha szól a gitár!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Neked hála! Dicsér a nép!<br/>Neked hála! Kiáltja gyermek, és mondja a vén!<br/>Dicsérik mind-mind az Úr nevét!<br/>Neked hála! Dicsérlek én!<br/>Neked hála! Dicsér a Föld és mind, aki él!<br/>Dicsérik mind-mind az Úr nevét!<br/>|:Neked hála! Hála!:|</lines>
+    </verse>
+  </lyrics>
+</song>

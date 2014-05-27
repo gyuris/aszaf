@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Mit sem aggódom, - nem féltem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Mit sem aggódom, - nem féltem életem,<br/>Csak hogy végigfussam a pályám,<br/>S a feladatom teljesítsem,<br/>Melyet Jézus bízott rám!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kereszt majd áll üresen,<br/>A test a földben megpihen,<br/>Ki egy volt veled a szenvedésben,<br/>Egy lesz veled a dicsőségben!<br/>Ne félj hát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|:Mit sem aggódom, - nem féltem életem,<br/>Csak hogy végigfussam a pályám,<br/>S a feladatom teljesítsem,<br/>Melyet Jézus bízott rám!:|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megjöttem, itthon vagyok,<br/>Nevetnek rám a csillagok,<br/>Jézus fénye rám ragyog,<br/>Várnak a szentek és az angyalok.<br/>Örülj hát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>|:Mit sem aggódom, - nem féltem életem,<br/>Csak hogy végigfussam a pályám,<br/>S a feladatom teljesítsem,<br/>Melyet Jézus bízott rám!:|</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>Várok egy hangra, egy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Várok egy hangra, egy hallhatatlanra<br/>Mely szívembe mar és éget.<br/>Várok egy dalra, egy őszinte dalra<br/>Mely elmond Neked minden szépet.<br/>|:Valahol már itt lehetsz,<br/>A Szél már megérkezett.<br/>Szárnyaidat bontsd ki felettem!:|<br/>Akkor így lesz jó... Akkor így már jó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem kell a kérdés és nem kell a válasz, ó<br/>Nem kell, hogy mindent megértsek.<br/>Nem kell a dicsfény és hamis alázat,<br/>Nem kell az olcsó ígéret.<br/>|:Csak Te légy itt velem,<br/>És nem kell már semmisem!<br/>Csak a szárnyaidat bontsd ki felettem!:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várok egy hangra, egy hallhatatlanra<br/>Mely szívemben mar és éget.<br/>Várok egy dalra, egy őszinte dalra<br/>Mely elmond Neked minden szépet,<br/>Amit érzek</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Valami ég itt legbelül,<br/>valami láng, valami tűz!<br/>Egy darab végtelen, tudom nem érthetem,<br/>hogy is lehet a Minden enyém.<br/>Te is élsz legbelül,<br/>valami hajt, valami űz,<br/>Hogy hozzád érkezzem, és Benned létezzem!<br/>|:Te az enyém, én a Tied!:|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Van még tenger a láthatáron túl!<br/>Van még kezdet a végsőkön túl!<br/>Van még fény, ha szemünk elborul!<br/>Most minden lángra gyúl, most mindent lángra gyújt,<br/>ha jő a Szél, a perzselő Szél,<br/>ha jő a Szél, ha jő a Szél!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Valami ég itt legbelül,<br/>valami láng, valami tűz!<br/>Egy darab végtelen, tudom nem érthetem,<br/>hogy is lehet a Minden enyém.<br/>Te is élsz legbelül,<br/>valami hajt, valami űz,<br/>Hogy hozzád érkezzem, és Benned létezzem!<br/>|:Te az enyém, én a Tied!:|</lines>
+    </verse>
+  </lyrics>
+</song>

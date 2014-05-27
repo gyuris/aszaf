@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+  <properties>
+    <titles>
+      <title>Adjunk hálát az Úrnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjunk hálát az Úrnak,<br/>Aki meghalt és feltámadt,<br/>Ő a mennybe ment és a trónon ül,<br/>onnan várjuk, míg eljő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja! Az Úr az Isten,<br/>Alleluja! A megváltó,<br/>Alleluja! Az Úr az Isten,<br/>zengj alleluját! Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Ő teste és vére,<br/>táplál minket itt a földön,<br/>gyere és örülj velünk, ünnepelj,<br/>tiszta szívvel áldjuk őt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja! Az Úr az Isten,<br/>Alleluja! A megváltó,<br/>Alleluja! Az Úr az Isten,<br/>zengj alleluját! Amen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aki Benne hisz, sose szomjazik,<br/>Ő az élő víz forrása,<br/>Szentlélek, jöjj és szállj le ránk,<br/>tölts be minket, szeretet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluja! Az Úr az Isten,<br/>Alleluja! A megváltó,<br/>Alleluja! Az Úr az Isten,<br/>zengj alleluját! Amen</lines>
+    </verse>
+  </lyrics>
+</song>

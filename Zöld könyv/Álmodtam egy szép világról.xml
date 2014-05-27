@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+  <properties>
+    <titles>
+      <title>Álmodtam egy szép világról</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Álmodtam egy szép világról,<br/>Tiszta szívek országáról én,<br/>Ahol az élet mindig jó lesz és<br/>Fehér ruhában nézünk az ég felé...<br/>Az ég felé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volt egy ember, ki eljött hozzánk,<br/>És elmondta, hogy mi vár reánk,<br/>Jó hírt hozott a mennyországból és<br/>Mindig mondta, hogy ne féljetek...<br/>Ne féljetek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van egy örök vágy,<br/>Melyben megtisztul a szív,<br/>Van egy szó, mely új életre hív.<br/>Ő egy új világot hirdetett,<br/>Hol nem lesz bűn és gyűlölet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó,gyere már kérlek jöjj velem,<br/>És soha ne félj, mert szeret,<br/>Hidd el Ó nézd szeret Ő.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Álmodtam egy szép világról,<br/>Égi ország, béke vár reánk,<br/>Ahol a népek mind együtt élnek és<br/>Végre megbocsátják egymásnak a<br/>Vétkeket, a bűnöket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>És egymás szemébe bátran nézünk,<br/>Szeretni vágyó szívünk összeforr,<br/>Egymás mellett kéz a kézben<br/>Elindulunk a Nagy Király elé,<br/>Ott van nézd, eléd jön, nézd.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Van egy örök vágy,<br/>Melyben megtisztul a szív,<br/>Gyere már, szeretetre megtanít.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ébred lelkedben egy tiszta vágy,<br/>Csak jöjj már kérlek, jöjj velem,<br/>Mert letörli mind a könnyeket, hidd el<br/>Ó nézd, Jézus él!</lines>
+    </verse>
+  </lyrics>
+</song>

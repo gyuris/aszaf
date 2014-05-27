@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>Ímhol jő mennyasszonyod</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ímhol jő mennyasszonyod,<br/>a város kit szíved választott:<br/>Jeruzsálem<br/>Hűtlen elhagyott, romokban áll templomod:<br/>Jeruzsálem<br/>Ékes ruhám megszaggatom, lábadra könnyem hullatom.<br/>|:|rgalmazz, irgalmazz!<br/>Építsd fel bennem templomod!:|</lines>
+    </verse>
+  </lyrics>
+</song>

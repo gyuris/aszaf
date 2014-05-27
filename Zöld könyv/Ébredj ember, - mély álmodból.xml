@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+  <properties>
+    <titles>
+      <title>Ébredj ember, - mély álmodból</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredj ember, - mély álmodból,<br/>Jézus megment - rabságodból!<br/>Hogyha hívod, - eljön Ő,<br/>Egész bensőm - imádjad Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Alleluja, allelu-u-ja, alleluja, allelu-u-ja,<br/>Alleluja, alleluja, alle-lu-ja.<br/>Alleluja, alleu-u-ja.:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjad lelkem - az Úr nevét,<br/>Mert megtartja - ígéretét!<br/>Mennyi jót tett - az Úr velem,<br/>Reá bízom - az életem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|: Alleluja, allelu-u-ja, alleluja, allelu-u-ja,<br/>Alleluja, alleluja, alle-lu-ja.<br/>Alleluja, alleu-u-ja.:|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden bűnöd megbocsátja Ő,<br/>Betegséged meggyógyítja Ő.<br/>Hidd el, Jézus benned él,<br/>Néked adja új életét!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>|: Alleluja, allelu-u-ja, alleluja, allelu-u-ja,<br/>Alleluja, alleluja, alle-lu-ja.<br/>Alleluja, alleu-u-ja.:|</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Feltámadt Jézus, győztes Király,<br/>Elhozta nékünk az országát.<br/>Jöjj, Szentlélek, szállj közénk,<br/>Hozz a mennyből szép, tiszta fényt!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>|: Alleluja, allelu-u-ja, alleluja, allelu-u-ja,<br/>Alleluja, alleluja, alle-lu-ja.<br/>Alleluja, alleu-u-ja.:|</lines>
+    </verse>
+    <verse name="v9">
+      <lines>És az élet, íme megjelent,<br/>Köztünk él Ő Szentlelkében.<br/>Hív Ő téged, hogy élj vele,<br/>Add át néki a szívedet!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>|: Alleluja, allelu-u-ja, alleluja, allelu-u-ja,<br/>Alleluja, alleluja, alle-lu-ja.<br/>Alleluja, alleu-u-ja.:|</lines>
+    </verse>
+  </lyrics>
+</song>

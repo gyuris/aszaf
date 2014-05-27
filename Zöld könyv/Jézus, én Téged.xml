@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Jézus, én Téged</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, én Téged választottalak,<br/>Hol halál jár és fojtogat,<br/>Ott te vagy nekem az élet!<br/>Feléd tárom két kezem,<br/>Engem küldjél, Istenem,<br/>Jelként, ahova kell!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hát, jöjj, és élj velem<br/>Egy egész életen át!<br/>Nem győz a félelem,<br/>Ha látja szívem Urát!</lines>
+    </verse>
+  </lyrics>
+</song>

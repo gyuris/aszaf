@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>Ha hozzám érsz, látom ami</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha hozzám érsz, látom ami láthatatlan.<br/>Ha hozzám érsz, befogad a Láthatatlan.<br/>Ha hozzám érsz, elérem végre ó a Célt,<br/>és kigyúl a Fény, az árnynélküli Fény!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hozzám érsz, hallom ami hallhatatlan.<br/>Ha hozzám érsz, befogad a Halhatatlan.<br/>Ha hozzám érsz, minden óra megáll,<br/>s nem fáj már az elmúlás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Felébrednek, szárnyra kelnek!<br/>A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Országodba elvezetnek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha hozzám érsz, értem ami érthetetlen.<br/>Ha hozzám érsz, befogad a Mérhetetlen.<br/>Ha hozzám érsz, kitágul végre ez a lét,<br/>s beköltözik lelkembe az Ég. Betölt az Ég!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>|:A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Felébrednek, szárnyra kelnek!<br/>A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Országodba elvezetnek.:|</lines>
+    </verse>
+  </lyrics>
+</song>

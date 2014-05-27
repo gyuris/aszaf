@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Az Úr jön, ha hívom, hisz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr jön, ha hívom, hisz Ő az erőm,<br/>A bajban biztos menedék,<br/>Ki őriz és véd, velem jár utamon.<br/>A lelkem csak Benne remél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A hegyre nézek: mert onnét várom Őt.<br/>Csak az Úr az, aki megsegít engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő ad nékem erőt, az Úr az őrizőm.<br/>Aki mindig megsegít, hogyha hívom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem szunnyad sohasem, ki őrzi Izraelt.<br/>A te védőd és oltalmad az Úr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem árt néked a nap, sem éjszaka a hold,<br/>hisz az Úr áll a te jobbod felől.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert minden utadon az Úr vigyáz reád,<br/>és a lelked minden bajtól megóvja.</lines>
+    </verse>
+  </lyrics>
+</song>

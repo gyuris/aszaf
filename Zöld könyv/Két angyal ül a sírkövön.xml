@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Két angyal ül a sírkövön</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Két angyal ül a sírkövön<br/>Nincsen itt, feltámadott!:|<br/>|: Békesség nektek! Én vagyok!<br/>Ne féljetek!<br/>/1x: Legyőztem a halált!/<br/>/2x: Vegyétek Lelkemet!|:|</lines>
+    </verse>
+  </lyrics>
+</song>

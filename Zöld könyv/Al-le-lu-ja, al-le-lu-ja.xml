@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Al-le-lu-ja, al-le-lu-ja</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al-le-lu-ja, al-le-lu-ja<br/>Szeretet Lelke, áradj ki ránk<br/>|:Al-le-lu-ja, al-le-lu-ja:| 4x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al-le-lu-ja, alleluja, alleluja!<br/>Jézus szívéből, átszúrt szívéből<br/>|:Al-le-lu-ja, al-le-lu-ja!:| 4x<br/>Al-le-lu-ja, al-le-lu-ja!</lines>
+    </verse>
+  </lyrics>
+</song>

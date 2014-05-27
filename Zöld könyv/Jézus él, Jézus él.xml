@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Jézus él, Jézus él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Jézus él, Jézus él!<br/>Föltámadt a győzedelmes! Jézus él!<br/>Jézus él, Jézus él! Legyőzte a halált!<br/>Ő újra él!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Láttam Őt, előttem állt,<br/>A szívem verése majd megállt.<br/>Megszólított gyengéd hangján,<br/>Tekintete, mint a fénysugár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Először nem ismertem fel,<br/>Ilyen nagy csodákban kételkedtem.<br/>Ám amikor nevemen szólított,<br/>Azonnal tudtam, hogy Ő van ott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menj testvéreimhez, vidd el a hírt,<br/>Fölmegyek Atyámhoz, mert Ő hív.<br/>Istenemhez, Ki a tiétek is,<br/>Vár a dicsőség, letört a tövis!</lines>
+    </verse>
+  </lyrics>
+</song>

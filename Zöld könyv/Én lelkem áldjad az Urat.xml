@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Én lelkem áldjad az Urat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én lelkem áldjad az Urat,<br/>el ne feledd, mit tett veled˝˝<br/>Én lelkem várjad az Urat,<br/>zengj neki új éneket.<br/>Mert úgy szeret téged, mint senki más,<br/>mint igaz hű barát,<br/>kegyelme mindig vár reád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bizalmam benned van Uram,<br/>Jézus Krisztus Úr, Király,<br/>kősziklám, pajzsom vagy nekem,<br/>szabadító Istenem.<br/>˛˛Kezedre bĂ­zom a lelkemet,<br/>Te váltottál meg engem,<br/>Ăł Uram, hĹ±sĂ©ges Isten˝˝</lines>
+    </verse>
+  </lyrics>
+</song>

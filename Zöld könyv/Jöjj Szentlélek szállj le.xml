@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Jöjj Szentlélek szállj le</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Szentlélek szállj le ránk,<br/>oszd a Mennyből égi Láng<br/>fényességed sugarát<br/>Veni Sancte Spritus!<br/>A-men.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, ki árvák Atyja vagy<br/>Jöjj, ki szívek Lángja vagy,<br/>ajándékos jó barát!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj, Te vagy a Vigasztalás,<br/>Jöjj, drága vendég, lelki társ,<br/>mindig édes enyhülés!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gondok között nyugalom,<br/>hőség ellen oltalom,<br/>zokogásban könnyülés!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjj és töltsd be híveid<br/>titkos mély szíveit,<br/>boldogító égi Tűz!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Semmi, semmi nélküled<br/>az emberben nem lehet,<br/>semmit tiszta, semmi szűz!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mosd meg, amit a szenny belep,<br/>öntözd azt, amit eleped,<br/>seb fájását csillapítsd!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ami dermedt, élesztgesd,<br/>ami fagyos melengesd,<br/>ami hibás, igazítsd!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Benned minden bizalom,<br/>osszad, osszad pazaron<br/>hét szent ajándékodat!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Adj érdemre jobbulást,<br/>üdvösséges kimúlást,<br/>örök vígasságot adj!<br/>Veni Sancte Spiritus!</lines>
+    </verse>
+  </lyrics>
+</song>

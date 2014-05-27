@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Szeráf kórusokkal zengem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeráf kórusokkal zengem énekem<br/>Kerubok hárfán kísérnek engem<br/>Dicséret áldozatával hódolunk<br/>Kitárt karokkal magasztalunk</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|:Szent szent szent szent<br/>Szent a Seregek Ura<br/>Mindörökké zengem:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőséged betölti<br/>a szívem és a lelkem<br/>Fényed átragyog felettem<br/>Lelked átölel és felemel<br/>Mindörökké zengem:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|:Szent szent szent szent<br/>Szent a Seregek Ura<br/>Mindörökké zengem:|</lines>
+    </verse>
+  </lyrics>
+</song>

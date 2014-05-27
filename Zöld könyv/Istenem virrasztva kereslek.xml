@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Istenem virrasztva kereslek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem virrasztva kereslek,<br/>Utánad szomjazik a lelkem,<br/>Utánad sóvárog a testem, Istenem!<br/>Én Istenem és minden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor ágyamon elkerül az álom,<br/>Úgy várom, hogy eljöjj hozzám,<br/>Várom azt, hogy megkönnyítsd terhemet,<br/>S a vállaimról elvegyed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj el, ragadj magaddal Uram!<br/>Jöjj el, ragadj el,<br/>Jöjj el, emelj magaddal,<br/>Én Istenem és mindenem!<br/>Én Istenem.</lines>
+    </verse>
+  </lyrics>
+</song>

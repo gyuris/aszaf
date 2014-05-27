@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Hozzád száll az énekem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád száll az énekem,<br/>olyan jó Téged dicsérni!<br/>Bűnös volt az életem,<br/>eljöttél, hogy megments engem.<br/>A mennyből jöttél közénk, hogy út legyél<br/>feláldoztad magad a bűnömért.<br/>A Golgotán meghaltál,<br/>harmadnap feltámadtál,<br/>uralkodsz mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

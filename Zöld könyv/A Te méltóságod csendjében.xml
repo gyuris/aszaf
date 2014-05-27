@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>A Te méltóságod csendjében</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Te méltóságod csendjében<br/>Szentséged fenségében,<br/>Dicsőséged nyugalmában,<br/>Hadd halljam meg hangod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ölelj körül engem teljesen,<br/>Hadd érezzem bensőmben,<br/>A Te kedves jelenlétedet!<br/>Hadd halljam meg hangod,<br/>Lágyan csengő szelíd<br/>suttogásod, Atyám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|:Úgy vágyom eléd állni,<br/>Jelenlétedben lenni,<br/>És Téged dicsérni, egyedül,<br/>szüntelen!<br/>Kezeimet nyújtom Feléd,<br/>Az életem már csak a Tiéd!<br/>Hadd halljam meg hangod!:|</lines>
+    </verse>
+  </lyrics>
+</song>

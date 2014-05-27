@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Csak Benned bízom, Uram, én</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Benned bízom, Uram, én Istenem.<br/>Csak Benned remél a szívem, én Mindenem.<br/>Ezért nem félek, Uram, mert csak Benned hiszek.<br/>Ezért nem félek, Uram, mert bennem élsz, oh Istenem.</lines>
+    </verse>
+  </lyrics>
+</song>

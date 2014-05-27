@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Eljött a Földre az Úr</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött a Földre az Úr, a Király!<br/>Isten országát hozta közénk.<br/>Mint csendes eső, a Földre leszállt<br/>Békessége úgy árad és ömlik reánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|:Ajtódnál megáll és szelíden vár,<br/>Barátként jött tehozzád.<br/>Bekopogtat és kéri, hogy légy az Övé!<br/>Élete Fény, ragyogás.:|</lines>
+    </verse>
+  </lyrics>
+</song>

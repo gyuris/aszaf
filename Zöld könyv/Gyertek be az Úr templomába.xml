@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Gyertek be az Úr templomába</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Gyertek be az Úr templomába,<br/>jöjjetek vár a szent hajlék!<br/>Jézus hív örömlakomára,<br/>kezdődik már a vendégség!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szem nem látta fül nem hallotta,<br/>emberi szív föl nem fogta,<br/>mit készített azoknak Isten, akik Őt szeretik!</lines>
+    </verse>
+  </lyrics>
+</song>

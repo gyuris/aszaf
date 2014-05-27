@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+  <properties>
+    <titles>
+      <title>Ne féljetek, örüljetek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Ne féljetek, örüljetek!<br/>Krisztus győzelmesen feltámadt.:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|:Nie bójcie się!<br/>Chrystus rzeczy wiscie zgrobuwstał!:|</lines>
+    </verse>
+  </lyrics>
+</song>

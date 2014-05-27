@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+  <properties>
+    <titles>
+      <title>Odaadnám az életemet</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Odaadnám az életemet<br/>Akkor lesz jó, ha óvja kezed.<br/>De látod, mily' bűnös az,<br/>Több ott a rossz, a gaz...<br/>Nézd, hát mit adhatnék neked én?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A bűnömet bánom. Utamat járom,<br/>Célomat látom, az te vagy nekem,<br/>Csak benned bízom, és nem félek én,<br/>Életem kék egén Te vagy a fény!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odaadom az életemet.<br/>Így most már jó, mert óvja kezed.<br/>De látod, mily' bűnös az,<br/>Több ott a rossz, a gaz, nézd!<br/>Csak ezt adhatom neked én.<br/>|:Életem gyönge, de neked adom.<br/>Fogadd el, fogadd el!:|</lines>
+    </verse>
+  </lyrics>
+</song>

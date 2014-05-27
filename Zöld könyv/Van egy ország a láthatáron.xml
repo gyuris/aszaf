@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+  <properties>
+    <titles>
+      <title>Van egy ország a láthatáron</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy ország a láthatáron túl,<br/>szívünk ellát, a bent kitárul.<br/>Ez a föld most átalakul,<br/>minden lángra gyúl, minden lángra gyúl,<br/>ha jő a Szél, a perzselő Szél,<br/>ha jő a Szél, ha jő a Szél!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Van egy név, a végső győztesé,<br/>a föld és az ég övé örökké!<br/>S van egy nép, ki hosszan vándorol,<br/>Hozzád vándorol a láthatáron túl,<br/>ha jő a Szél, a perzselő Szél,<br/>ha jő a Szél, ha jő a Szél!</lines>
+    </verse>
+  </lyrics>
+</song>
