@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Il nest pas de plus grand</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il n'est pas de plus grand amour<br/>que de donner sa vie pour ceux qu'on aime.<br/>O… Grande'est ta bonté, Seigneur, envers nous! O…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy Jézus minket szeret,<br/>egymást szeressük úgy és áldjuk Jézust.<br/>Ó… Áld a föld s az ég, mert jó vagy, Uram! Ó…</lines>
+    </verse>
+  </lyrics>
+</song>

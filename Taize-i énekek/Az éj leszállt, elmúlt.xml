@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Az éj leszállt, elmúlt</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az éj leszállt, elmúlt a nappal.<br/>Ó, téged kérünk, Jézusunk:<br/>jóságod töltse be szívünk,<br/>éji sötétben legyél fényünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tarts távol minket a gonosztól.<br/>Lelkünket tisztítsa tüzed.<br/>Őrizd, vigyázd az éjszakát.<br/>Újra hozd el a nappal fényét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérünk téged az Atyával.<br/>Énekünk, Krisztus, csak te vagy.<br/>Szentlelked a Vígasztalónk,<br/>mindörökkön örökké, ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Eaudi orationem meam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Exaudi orationem meam,<br/>et clamor meus ad te veniat.<br/>Tu Deus, in æternum permanes, in æternum permanes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tehozzád könyörgök, Uram Jézus,<br/>és hallgass meg, imám jusson eléd.<br/>Te szeretsz, örök élet Istene, örök élet Istene.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Te vagy Krisztus szülője</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy Krisztus szülője,<br/>örvendezz boldogságos Szűz Mária,<br/>veled van az Úr!<br/>Az asszonyok közt áldott vagy,<br/>áldott a te szűz méhednek gyümölcs,<br/>a mi életünk váltsága,<br/>Fiad, Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

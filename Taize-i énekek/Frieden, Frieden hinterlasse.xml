@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Frieden, Frieden hinterlasse</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Frieden, Frieden hinterlasse ich euch.<br/>Meinen Frieden gebe ich euch.<br/>Euer Herz verzage nicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békét, békét, nektek békét adok.<br/>Békességem rátok hagyom,<br/>többé nem kell félnetek.</lines>
+    </verse>
+  </lyrics>
+</song>

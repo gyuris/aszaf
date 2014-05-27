@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>De nocheiremos, de noche</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De noche'iremos, de noche<br/>que para'encontrar la fuente,<br/>sólo la sed nos alumbra,<br/>sólo la sed nos alumbra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak vándorolunk az éjben,<br/>mert forrás vizére vágyunk,<br/>szomjunk a fény a sötétben,<br/>szomjunk a fény a sötétben.</lines>
+    </verse>
+  </lyrics>
+</song>

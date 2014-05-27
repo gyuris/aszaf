@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>La ténèbre nest point</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La ténèbre n'est point ténèbre devant toi:<br/>la nuit comme le jour est lumière.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veled ó, Uram, sötét éjünk nem sötét:<br/>mert mint a nappal, fénylik az éjjel.</lines>
+    </verse>
+  </lyrics>
+</song>

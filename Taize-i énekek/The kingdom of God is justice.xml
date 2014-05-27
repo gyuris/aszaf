@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>The kingdom of God is justice</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The kingdom of God is justice<br/>and peace and joy in the Holy Spirit.<br/>Come, Lord, and open in us<br/>the gates of your kingdom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az életed, Jézus, örök élet,<br/>az út, amit veled járunk.<br/>Jöjj hát, és hozd örömöd,<br/>és szívünk kitárul.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Tu sei sorgente viva, tu sei</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sei sorgente viva, tu sei fuoco, sei carità.<br/>Vieni Spirito Santo, vieni Spirito Santo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy forrás a szívünkben, legyél tűz és légy szeretet.<br/>Szállj le reánk Szent Lélek, szállj le reánk Szent Lélek.</lines>
+    </verse>
+  </lyrics>
+</song>

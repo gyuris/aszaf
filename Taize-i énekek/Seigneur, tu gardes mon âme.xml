@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Seigneur, tu gardes mon âme</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seigneur, tu gardes mon âme;<br/>Ô Dieu, tu connais mon cœur.<br/>Conduismoi sur le chemin d'éternité,<br/>conduismoi sur le chemin d'éternité.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr megőrzi a lelkem.<br/>Az Úr vezet utamon.<br/>Szívem mélyén örök élete a fény,<br/>szívem mélyén örök élete a fény.</lines>
+    </verse>
+  </lyrics>
+</song>

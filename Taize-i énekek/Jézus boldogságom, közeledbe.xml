@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Jézus boldogságom, közeledbe</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus boldogságom, közeledbe vágyom, te vagy örömöm.<br/>Lelkem üdvösségét, az életet, békét neked köszönöm.<br/>Megváltóm, jó pásztorom, nálad nagyobb, drágább kincsem égen-földön nincsen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Száz vihar ha támad, menedék vár nálad, biztos oltalom.<br/>Bár megrendül minden, mellettem állsz híven, drága Jézusom.<br/>Légy velem, s nincs félelem, bűn, pokol hatalma ellen karod megvéd engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, üdvösségem, örömöm, napfényem Te vagy halálig.<br/>Kik szeretik Istent, azoknak itt minden javára válik.<br/>Sötétben visz bár utam, te vagy fénylő napvilágom. Jézus boldogságom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Ó, Uram, a te szavad Élet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Uram, a te szavad Élet, igazság és keskeny Út!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogok a lelki szegények, a mennyek országa az otthonuk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogok, akik szomorúak: megvigasztalják őket egykoron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogok a szelíden élők: örökségük s jutalmuk lesz a föld.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldogok az igazság-vágyók: a szomjúságuk egykor csillapul.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Boldogok, akik irgalmaznak: mások is irgalmaznak majd nekik.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Boldogok a tiszta szívűek: megláthatják az Istent egy napon.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Boldogok a békét teremtők: Isten őket fiának hívja mind.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Boldogok, akik üldözöttek: a mennyek országa az otthonuk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Boldogok, akiket gyaláznak, őket Isten öröme tölti el.</lines>
+    </verse>
+  </lyrics>
+</song>

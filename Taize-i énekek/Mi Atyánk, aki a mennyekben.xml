@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:32">
+  <properties>
+    <titles>
+      <title>Mi Atyánk, aki a mennyekben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved,<br/>jöjjön el a te országod, legyen meg a te akaratod,<br/>amint a mennyben, úgy a földön is,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>mindennapi kenyerünket add meg nekünk ma,<br/>és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek,<br/>a kísértéstől tarts távol, szabadíts meg a gonosztól. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

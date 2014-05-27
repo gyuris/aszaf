@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:53:31">
+  <properties>
+    <titles>
+      <title>Per crucem et passionem tuam</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Per crucem et passionem tuam.<br/>Libera nos Domine…, Domine.<br/>Per crucem et passionem tuam.<br/>Libera nos Domine…, Domine.<br/>Per sanctam resurrectionem tuam.<br/>Libera nos Domine…, Domine.</lines>
+    </verse>
+  </lyrics>
+</song>
