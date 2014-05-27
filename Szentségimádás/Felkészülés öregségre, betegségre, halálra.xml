@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:50">
+  <properties>
+    <titles>
+      <title>Felkészülés öregségre, betegségre, halálra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentségimádás" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az előimádkozott részre feleljük:<br/>Ments meg, Uram, engem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az előimádkozott részre feleljük:<br/>Jézusom, légy velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az előimádkozott részre feleljük:<br/>Akkor, Jézusom, légy velem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az előimádkozott részre feleljük:<br/>Akkor, Jézusom, légy velem!</lines>
+    </verse>
+  </lyrics>
+</song>
