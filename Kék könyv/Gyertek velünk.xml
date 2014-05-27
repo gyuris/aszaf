@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Gyertek velünk!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöttünk énekelni Neked!<br/>Jöttünk áldani szent Neved!<br/>Jöttünk hallgatni igédet!<br/>Add nekünk, erre kér ma néped.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöttünk énekelni Neked!<br/>Jöttünk áldani szent Neved!<br/>Jöttünk hallgatni igédet!<br/>Add nekünk, légy velünk, erre kér ma néped.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|:Jöttünk énekelni Neked!<br/>Jöttünk áldani szent Neved!<br/>Jöttünk hallgatni igédet!<br/>Add nekünk, légy velünk,<br/>add nekünk, erre kér ma néped.:|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|:Jöttünk énekelni Neked!<br/>Jöttünk áldani szent Neved!<br/>Jöttünk hallgatni igédet!<br/>Add nekünk, erre kér ma néped.:|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gyertek velünk még ma énekelni és örülni,<br/>megértitek ti is: olyan jó, ha Jézus itt van velünk.<br/>Megszabadít a halálfélelemtől,<br/>vidám lehet már, aki ma még az oldalára áll.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>|:Mert mi is rettegtünk, nem reméltük,<br/>hogy van még menekvés,<br/>nem hittük, hogy van őszinteség,<br/>de megmentett a halálfélelemtől,<br/>boldog lehet már, aki ma még az oldalára áll.:|</lines>
+    </verse>
+  </lyrics>
+</song>

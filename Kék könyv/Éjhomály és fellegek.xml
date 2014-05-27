@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Éjhomály és fellegek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Éjhomály és fellegek, ködös sötétségek, kél már a fény, ég fehér, véget ér az éjjel. A sarkon már hajnal remeg, nappal jár a földön, fény sok nyila tündököl, az Úr jön hegyen, völgyön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az éjnek réme hulljon el, lélekszorongás múljon el, mit az éj homálya szült, bűn és borzalom haljon el</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkünkben sápadjon el minden bűnhomály, felhők felszakadjanak, hisz Isten a király. Az éj homálya megtörik, dárdáit szórja a fény, a tárgyak színe visszatér Ő tündöklő tekintetében.</lines>
+    </verse>
+  </lyrics>
+</song>

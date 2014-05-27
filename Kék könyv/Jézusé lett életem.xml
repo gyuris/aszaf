@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Jézusé lett életem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="422"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusé lett életem keresztje jelével megjelölt engem.<br/>Meghívott, hogy szolgáljam, életem már övé!<br/>Bolgod énekem száll felé: Köszönöm, Uram, hogy hozzád tartozom, köszönöm, Uram, hogy élek, köszönöm, Uram, hogy őrzöd életem, s dalommal áldhatlak Téged, ó, Uram.<br/>Jézusé lett éltetem, mindörökre, elhívott engem.<br/>Hirdetni az örömhírt minden embernek, hogy mindenki együtt dalolja a hálaéneket.</lines>
+    </verse>
+  </lyrics>
+</song>

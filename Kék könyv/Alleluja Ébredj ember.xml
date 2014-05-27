@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Alleluja. Ébredj ember</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredj ember mély álmodból,<br/>Jézus megment rabságodból!<br/>Hogyha hívod, eljön Ő,<br/>egész bensőm, imádjad Őt!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjad, lelkem, az Úr nevét,<br/>mert megtartja ígéretét!<br/>Mennyi jót tett az Úr velem,<br/>reá bízom az életem!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden bűnöd megbocsátja Ő,<br/>Betegséged meggyógyítja Ő.<br/>Hidd el, Jézus benned él,<br/>Néked adja új életét!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feltámadt Jézus, győztes Király,<br/>Elhozta nékünk az országát.<br/>Jöjj Szentlélek, szállj közénk,<br/>Hozz a mennyből szép, tiszta fényt!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És az élet, íme, megjelent,<br/>Köztünk él Ő Szentlelkében.<br/>Hív Ő téged, hogy élj vele,<br/>Add át néki a szívedet!<br/>Alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>

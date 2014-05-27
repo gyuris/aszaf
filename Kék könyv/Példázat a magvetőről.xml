@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Példázat a magvetőről</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vetni ment a magvető, feje fölött madarak, keringtek, szálltak és lecsaptak, egy szem a magból nem maradt, nem maradt. A magvető hazagyalogolt, szomorú volt, szomorú volt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vetni ment a magvető, kövek közé szórt magot, de forró volt a nap sütése, száraz lett minden és aszott. A magvető hazagyalogolt, szomorú volt, szomorú volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vetni ment a magvető, tüske termett kint vadul. Hiába hát a jó vetőmag, a szúró tüske lett az úr. A magvető hazagyalogolt, szomorú volt, szomorú volt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vetni ment a magvető, tiszta földbe jó magot, és látta, hogy nő szép kalássza, amit a termő föld kapott.<br/>Termést hozott a gyönyörű nyár, ideje már, ideje már.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ritm. kíséret:<br/>Jézus volt a magvető, körülötte néptömeg. Örömhírt mondott, azt akarta, mindenkihallja, értse meg.<br/>A magvető kalászokra vár - ideje már, ideje már.</lines>
+    </verse>
+  </lyrics>
+</song>

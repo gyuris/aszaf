@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Köszönöm, Uram</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Köszönöm, Uram, hogy teremtettél,<br/>a sötétségből kimentettél,<br/>Köszönöm, hogy vezeted léptemet,<br/>hogy létemnek leljek értelmet.<br/>Sokszor feledem szent neved,<br/>bűn borítja be lelkemet,<br/>de Te a tékozló fiút megöleled,<br/>igaz bűnbánat bűnt temet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldalak, Uram, nagyságodért,<br/>mérhetetlen kegyelmedért.<br/>Legyen áldott a Te szent neved<br/>most és örökké, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

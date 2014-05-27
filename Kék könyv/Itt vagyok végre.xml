@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Itt vagyok végre</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt vagyok végre jó Uram,<br/>nehéz és hosszú volt utam,<br/>szólnék Hozzád, nem tudok,<br/>szememben látod, mit akarok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljöttem Hozzád, itt vagyok,<br/>szomjas és éhes vándorod!<br/>Asztalodról adj ennem,<br/>s boldog lesz az életem!<br/>Eljöttem Hozzád, itt vagyok…</lines>
+    </verse>
+  </lyrics>
+</song>

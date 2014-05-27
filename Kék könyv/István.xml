@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>István</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent István király, magyarok csillaga,<br/>országunk, népünk szent apostola!<br/>Könyörögj értük, bűnök közt élünk,<br/>könyörögj értünk, elveszünk, félünk,<br/>könyörögj értünk, pusztul a népünk,<br/>könyörögj értünk, Szent István király!<br/>|:Könyörögj értünk, könyörögj értünk,<br/>könyörögj értünk, Szent István király!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérjed érettünk a magyarok Asszonyát,<br/>fordítsa hozzánk drága szent Fiát!<br/>|:Könyörögj értünk, bűnök közt élünk,<br/>könyörögj értünk, elveszünk, félünk,<br/>könyörögj értünk, pusztul a népünk,<br/>könyörögj értünk, Szent István király!:|</lines>
+    </verse>
+  </lyrics>
+</song>

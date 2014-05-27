@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Magnificat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="337"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem magasztalja az Urat,<br/>és szívem ujjong megváltó Istenemben,<br/>mert rátekintett alázatos szolgálójára,<br/>lám mostantól fogva boldognak hirdet minden nemzedék.<br/>Üdvözlégy Mária, malasztal teljes, az Isten van teveled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert nagyot tett velem a hatalmas,<br/>és szent az Ő neve,<br/>Irgalma nemzedékről nemzedékre<br/>az istenfélőkkel marad.<br/>Üdvözlégy Mária, malaszttal teljes, az Isten van teveled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Karja bizonyságot tett hatalmáról, szétszórta a szívükben a gőgösöket, letaszította trónjukról a hatalmasokat,az alázatosokat pedig fölemelete.<br/>Üdvözlégy Mária, malaszttal teljes, az Isten van teveled!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az éhezőket jóllakatta, de a gazdagokat üres kézzel küldte el, gondjába vette gyermekét, Izraelt, megemlékezve irgalmáról, melyet atyáinknak, Ábrahámnak és utódainak örökre megigért.<br/>Üdvözlégy Mária, malaszttal teljes, az Úr van teveled!</lines>
+    </verse>
+  </lyrics>
+</song>

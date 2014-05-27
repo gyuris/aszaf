@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>A te hazád</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A te házad otthonunk; Urunk Jézus, itt vagyunk,<br/>Urunk Jézus, itt vagyunk, Urunk Jézus, itt vagyunk,<br/>hogy szolgáljunk oltárodnál téged, aki megváltottál.<br/>Urunk Jézus, itt vagyunk, Urunk Jézus, itt vagyunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magasztalja nevedet szívünkben a szeretet;<br/>magasztaljuk Szent Neved, magasztaljuk Szent Neved.<br/>Jézus, édes örömöm, jóságodat köszönöm,<br/>magasztaljuk Szent Neved, magasztaljuk Szent Neved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha házadat elhagyom, kísérj minden utamon,<br/>kísérj minden utamon, kísérj minden utamon,<br/>ne felejtsem soha orcád, add, hogy méltó legyek Hozzád,<br/>kísérj minden utamon, kísérj minden utamon.</lines>
+    </verse>
+  </lyrics>
+</song>

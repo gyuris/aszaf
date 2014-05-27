@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Duval</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Külvárosok útjain néztél az égre, magányod mélybe húzó kinjai ellenére,<br/>Ref.: hirdetted Őt, az értünk szenvedőt, hogy sötét itt az éj, de a Mester visszatér!<br/>Ember ne félj, Mester visszatér! Ő szól neked: jöjj és kövesd, és boldog lesz az életed.<br/>Kegyetlen hosszú itt az éj, Lucien Aimé, még se félj, mert rád talál a Mester, mikor visszatér, a hangod majd az égbe ér, a szíved fenn a fényben él, tudom, rád talál a Mester, mikor visszatér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Coda:<br/>Ember ne félj! A Mester visszatér, Ő szól neked: jöjj és kövesd, és boldog lesz az életed.<br/>gitárod húrjain zengett a dallam, magányosan és betegen, kitaszítottan;<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, drága jóbarát, imádkozz értem!<br/>A Mester oldalán szólj néha értem! hogy hirdessem Őt, az értünk szenvedőt, mert sötét itt az éj, de a Mester visszatér.<br/>Ember ne félj, a Mester visszatér,Ő szól neked: jöjj és kövesd, és boldog lesz életed.<br/>Kegyetlen hosszú itt az éj, barátom, kérlek, mégse félj, mert rád talál a Mester, mikor visszatér.<br/>A hangod majd az égbe ér, a szíved fenn a fénybne él, tudom, rád talál a Mester, mikor visszatér.<br/>Coda.</lines>
+    </verse>
+  </lyrics>
+</song>

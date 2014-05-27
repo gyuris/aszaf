@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Azért jött közénk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azért jött közénk, hogy testvérünk legyen.<br/>Mindent értünk tett, hogy boldoggá tegyen.<br/>Táplál testével, hogy életünk legyen.<br/>Lelkét küldi el, hogy így eggyé tegyen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Táplál testével, hogy életünk legyen,<br/>Lelkét küldi el, hogy Atyjához vigyen.<br/>Gondot visel ránk, míg a világ véget ér,<br/>Egyetlen Utunk, amely célhoz ér.</lines>
+    </verse>
+  </lyrics>
+</song>

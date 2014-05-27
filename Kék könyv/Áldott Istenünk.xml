@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Áldott Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott Istenünk, a szívünket fogadd el, felajánljuk munkánk a kenyérrel!<br/>Kérünk, fogadd el ezt a fehér kenyeret, hisz ezáltal leszünk eggyé Veled!<br/>A verejtékes munka áldott gyümölcse, és sokmillió ember élete,<br/>de egyszerű és köztünk élő valóság, így jössz közénk Te is, Jézusunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott Istenünk, a kehelybe bort öntünk, felajánljuk Néked minden örömünk!<br/>Kérünk, fogadd el ezt a kehely fehér bort, hisz a véred egyszer miértünk folyt!<br/>Átnyújtjuk most Neked szívünk, mindenünk, fogadd el hát egész életünk!<br/>Te nagyszerű és üdvözítő Valóság, kérünk, jöjj el közénk, Jézusunk!</lines>
+    </verse>
+  </lyrics>
+</song>

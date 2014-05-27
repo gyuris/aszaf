@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Boldogságok</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="328"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogok a lelki szegények: a mennyek országa az otthonuk.<br/>Boldogok, akik szomorúak: megvígasztalják őket egykoron.<br/>Boldogok a szelíden élők: örökségük s jutalmuk lesz a föld.<br/>Boldogok az igazságvágyók: a szomjúságuk egykor csillapul.<br/>Boldogok, akik irgalmaznak: mások is irgalmaznak majd nekik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogok a tisztaszívűek: megláthatják az Istent egy napon.<br/>Boldogok a békét teremtők: Isten őket fiának hívja mind.<br/>Boldogok, akik üldözöttek: a mennyek országa az otthonuk.<br/>Boldogok, akiket gyaláznak: őket Isten öröme tölti el.</lines>
+    </verse>
+  </lyrics>
+</song>

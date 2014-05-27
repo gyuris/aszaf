@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Hogyha csak...</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Hogy ha csak mustármagnyi hitetek is volna, ezt mondotta a mi Urunk. :|<br/>|: És ha így szóltok a nagy hegyekhez: mozduljatok, mozduljatok, :| (4x)<br/>|: akkor a hegyek megindulnak, megindulnak, megindulnak, :|<br/>|: Jöjj el, jöjj el, ó jöjj el Szentlélek! :| (4x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si tu vieres fe como un grandito mostanza<br/>eso lo dice el Señor: Muevete, muevete, (4x)<br/>Y la montaña, se movera, se movera, se movera,<br/>Fluie, fluie, Espirito Santo. (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

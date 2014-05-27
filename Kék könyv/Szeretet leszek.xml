@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Szeretet leszek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyaszent egyházam szívében szeretet leszek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen vágyam más egyéb, egyedül az, hogy szeressek, odaadjam életemet szeretetből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Révületnél többet ér egyhangú áldozatom, Krisztust szeretem én, életem Ő.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézusom,te egyedül töltheted be lelkemet, mert végtelenül vágyom szeretni án.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem bánom , hogy életemet szeretetednek szentelem sohasem kerestem mást, csak az igazat.</lines>
+    </verse>
+  </lyrics>
+</song>

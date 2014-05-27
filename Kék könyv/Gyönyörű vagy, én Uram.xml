@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Gyönyörű vagy, én Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyörű vagy, én Uram, szívem mélyéből áldalak, gyönyörű vagy, én Uram!<br/>Gyönyörű vagy, én Uram, szívem mélyéből áldalak, gyönyörű vagy, én Uram!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megigézted szívemet, megérintetted bensőmet, megérintetted bensőmet!<br/>Táncot járva ámulok, megváltásomra gondolok, megváltásomra gondolok!<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelked betölti életem, Benned ujjong, dalol szívem, Benned ujjong, dalol szívem!<br/>Tegyél szívedre pecsétül, örök életet adj végül, örök életet adj végül!<br/>Alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>

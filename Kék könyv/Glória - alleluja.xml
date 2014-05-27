@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Glória - alleluja</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glória, glória, elszállt szívünk búja.<br/>Angyalszó hirdeti: Alle-alleluja.<br/>Dicsőség, békesség földünk új lakója,<br/>Megváltó született alle-alleluja.<br/>|:Zengjen hát: Glória,<br/>minden száj ezt zúgja:<br/>Glória, glória, alle-alleluja!:|</lines>
+    </verse>
+  </lyrics>
+</song>

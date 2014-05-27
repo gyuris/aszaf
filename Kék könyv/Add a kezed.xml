@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Add a kezed</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját.<br/>Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját.<br/>Alleluja…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kitárt karokkal mindenki áldja, mindenki áldja az élet Urát,<br/>Ujjongó szívvel zengjünk az Úrnak, zengjünk az Úrnak alleluját!<br/>Alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Terád vár egy szép ország</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Terád vár egy szép ország, terád vár egy szép ország, terád vár egy szép ország, ahová megyek, ahová megyek, terád vár egy szép ország, terád vár egy szép ország, terád vár egy szép ország, ahová megyek, ahová megyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs ott többé könnyezés, nincs ott többé könnyezés, nincs ott többé könnyezés, ahová megyek, ahová megyek, nincs ott többé könnyezés, nincs ott többé könnyezés, nincs ott többé könnyezés, ahová megyek, ahová megyek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten szép országa ez, Isten szép országa ez, Isten szép országa ez, ahová megyek, ahová megyek, Isten szép országa ez, Isten szép országa ez, Isten szép országa ez, ahová megyek, ahová megyek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Krisztus vár ott rád, Jézus Krisztus vár ott rád, Jézus Krisztus vár ott rád, ahová megyek, ahová megyek, Jézus Krisztus vár ott rád, Jézus Krisztus vár ott rád, Jézus Krisztus vár ott rád, ahová megyek, ahová megyek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add át Néki az életed, add át Néki az életed, akkor Isten szép országát elnyered, te is elnyered.<br/>Add át Néki az életed, add át Néki az életed, akkor Isten szép országát elnyered, te is elnyered.</lines>
+    </verse>
+  </lyrics>
+</song>

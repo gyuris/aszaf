@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Dicsőség</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség, dicsőség a magasságban Istennek!<br/>És a földön békesség, békesség a jószándékű embernek!<br/>Dicsőség neked örömeinkért, dicsőség szenvedésünkért, dicsőség neked fájó könnyekért, dicsőség neked egész létünkért,<br/>|: mert a te békédet el nem veheti tőlünk senki sem! :|</lines>
+    </verse>
+  </lyrics>
+</song>

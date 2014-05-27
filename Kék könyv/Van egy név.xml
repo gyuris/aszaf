@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Van egy név</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy név minden egyéb név felett, a názáreti Jézus neve, én Őt magasztalom, Róla szól az én dalom, van egy név minden egyéb név felett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma is van számodra menekülés, a bűnből csak a halálba mész, Jézus hozta el neked az örök életet, ma is van számodra menekülés.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma is van számdora újulás, csalódott szívednek gyógyulás, mert fenn a Golgotán minden elvégeztetett ma is van számodra újulás.</lines>
+    </verse>
+  </lyrics>
+</song>

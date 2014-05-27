@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Ádonáj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ádonáj! Te vagy pásztorom, Tebenned megvan mindenem.<br/>Dús legelőkre, nyugodt vizekhez terelsz, felüdíted lelkem.<br/>Ádonáj, Ádonáj<br/>Ádonáj, Ádonáj</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ádonáj, Te vagy pásztorom, lépteim mindig megtartod.<br/>Igaz ösvényen járhatok, a halál völgyében sem félek a bajtól.<br/>Ádonáj, Ádonáj<br/>Ádonáj, Ádonáj</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ádonáj, te vagy pásztorom, vessződ és pásztorbotod vigasztalnak.<br/>Asztalt terítesz, olajjal gyógyítasz, örömmel tölt el a közelséged.<br/>Ádonáj, Ádonáj<br/>Ádonáj, Ádonáj</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ádonáj, Te vagy pásztorom, jósággal végigkíséred életem napjait.<br/>Poharam túlcsordul, házadban lakhatom örökkön örökké tartó boldogságban!<br/>Ádonáj, Ádonáj<br/>Ádonáj, Ádonáj</lines>
+    </verse>
+  </lyrics>
+</song>

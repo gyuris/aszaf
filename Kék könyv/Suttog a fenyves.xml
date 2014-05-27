@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Suttog a fenyves</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Suttog a fenyves zöld erdő, a kis Jézus már eljő.<br/>Csendül a fürge száncsengő, Véget ér az esztendő.<br/>Tél szele hóval faggyal jő, elkel most a nagykendő. La-la…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Libben a tarka nagy kendő, húzza-rázza hűs szellő.<br/>Suttog a fenyves, zöld erdő, rászitál a hófelhő.<br/>Végire jár az esztendő, cseng a fürge száncsengő. La-la…</lines>
+    </verse>
+  </lyrics>
+</song>

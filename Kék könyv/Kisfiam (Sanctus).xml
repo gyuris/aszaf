@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Kisfiam (Sanctus)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kisfiam ülj ide mellém, figyeld jól, amit most mondok!<br/>Kisfiam, én csak azt szeretném, hogy mindig jó légy és boldog.<br/>Ref.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életünk rövid a földön, de lelkünk örökre megmarad, életünk rövid a földön, és az idő gyorsan elszalad.<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kisfiam, még nagyon kicsi vagy, de egyszer te is nagy leszel, nem érted most még e szavakat, de később sokszor mondd majd el!<br/>Ref.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, szent, szent az Isten, Ő a világ ura és teremtője.</lines>
+    </verse>
+  </lyrics>
+</song>

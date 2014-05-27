@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Zengjen a föld s az ég</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjen a föld, az ég, Dalolja Istenszeretét, közénk jött és odaadta értünk életét.<br/>Dicsérünk, nagy király, kitárjuk szívünk bezárt kapuját, imádunk téged, jézusunk, jóságos Urunk.<br/>Gyertek, dicsérjük Őt, imádjuk Őt, ünnepeljük Őt, énekeljük Jézus szent nevét!<br/>Gyertek, dicsérjük Őt, imádjuk Őt, ünnepeljük Őt, énekeljük Őt mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

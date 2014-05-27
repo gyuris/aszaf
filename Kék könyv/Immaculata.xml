@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Immaculata</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Isten anyja, téged áldunk, királynénk, mert te szülted Jézust ki üdvözített minket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ave, ave, tu, immaculata, immaculata Isten édes anyja vagy és a mi Anyánk.<br/>Mária, Mária, néked szenteljük szívünket,<br/>Mária vezess el minket szent Fiad elé, Boldogságos Szűz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalom édesanyja, engedelmességed és bizalmad<br/>világit számunkra<br/>szenvedéseinkben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hittél az angyal szavának,<br/>igent mondtál az Atyának,<br/>és szívedbe fogadtad a végtelen Teremtőt.</lines>
+    </verse>
+  </lyrics>
+</song>

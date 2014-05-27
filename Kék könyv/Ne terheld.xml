@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Ne terheld</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne terheld a hátizsákod, hagyd a holmid, légy szabad!<br/>Mezítláb is célba érhetsz, sose áruld önmagad!<br/>Rá se ránts, ne törj le pajtás, mindig csak dalolva járj,<br/>Nevess, ha száz gond bánt, félni mindig nem lehet,<br/>Kívül hordd a szívedet, megér ennyit a világ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne izgasson, hogyha másnak négy kerékkel több jutott;<br/>talán épp a Jaguárban ülnek lelki koldusok.<br/>Rá se ránts, ne törj le pajtás, mindig csak dalolva járj,<br/>Nevess, ha száz gond bánt, félni mindig nem lehet,<br/>Kívül hordd a szívedet, megér ennyit a világ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nevess, hogyha megfontoltan biztonságra intenek,<br/>biztos kézben van a sorsod, bátran járd az életet.<br/>Rá se ránts, ne törj le pajtás, mindig csak dalolva járj,<br/>Nevess, ha száz gond bánt, félni mindig nem lehet,<br/>Kívül hordd a szívedet, megér ennyit a világ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A jólfésült puhányságot ne hagyd egyből hatni rád,<br/>szíved tiszta, bármi rajtad, szép vagy, mint a vadvirág!<br/>Rá se ránt, ne törj le pajtás, mindig csak dalolva járj,<br/>Nevess, ha száz gond bánt, félni mindig nem lehet,<br/>Kívül hordd a szívedet, megér ennyit a világ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha majd egyszer mások járják utadat a Nap alatt,<br/>ősz-szakállú nagyapóként fütyüld, mint a madarak.<br/>Rá se ránt, s ne törj le pajtás, mindig csak dalolva járj,<br/>Nevess, ha száz gond bánt, félni mindig nem lehet,<br/>Kívül hordd a szívedet, megér ennyit a világ!</lines>
+    </verse>
+  </lyrics>
+</song>

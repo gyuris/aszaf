@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Múlnak az évek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Múlnak az évek, s mi egyet újra lépünk már,<br/>lehull a hó, de tudjuk, eljön majd a nyár.<br/>|:Utazunk, érkezünk, találkozunk és búcsúzunk,<br/>egy boldogabb világról álmodunk.:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békesség Istene! adj békét mindennap nekünk!<br/>Vigasztaló, élj mindig, mindennap velünk!<br/>|:Szerető jó Atyánk, országod köztünk jöjjön el,<br/>szent templomod szívünkben építsd fel!:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretet fénye, lángja áradjon ránk,<br/>ne szűnjön kérni az Istent a szívünk, a szánk:<br/>jöjjön a földre igazi béke, jöjjön a földre igazi béke,<br/>imából, áldozatból, országok népek között,<br/>az emberek között, lélek és lélek között, az ég és föld között,<br/>jöjjön már végre igazi béke, jöjjön a földre igazi béke!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Múlnak az évek, s mi egyet újra lépünk már,<br/>lehull a hó, de tudjuk, eljön majd a nyár.<br/>|:Utazunk, érkezünk, találkozunk és búcsúzunk,<br/>egy boldogabb világról álmodunk.:|</lines>
+    </verse>
+  </lyrics>
+</song>

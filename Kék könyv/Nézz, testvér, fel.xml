@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Nézz, testvér, fel...</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz, testvér, fel, az Úr van itt, lángoljon aszívünk, közel van már üdvösségünk, jöjj el Jézusunk, jöjj el Jézusunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kerestem arcodat, Uram, lehajoltál énhozzám, félelmek, bűnök téptek, de Te meggyógyítottál.<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Figyelme szeretőn kísér, meghallgatja imám, gyötrelmeimben vigaszt nyújt, ezért áldja Őt a szám!<br/>Ref.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjjön ki szomjas és igyék, aki hisz, élni fog, szívének rejtett mélyéből az élő víz felbuzog!<br/>Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Szerelmeddel</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szerelmeddel felhatolsz az egekig, és a te hűséged felér a felhőkig, igazságod mint magas hegycsúcsok, és bölcsességed mint a tenger mély, magadhoz vettél.<br/>Betöltöd szívem igaz boldogssággal, békesség van a te szárnyaid alatt, kenyeremet az asztalodról eszem, vizem az élet forrásából fakad, királyom vagy.<br/>La-la-la...</lines>
+    </verse>
+  </lyrics>
+</song>

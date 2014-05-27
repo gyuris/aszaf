@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Ne hidd (Ha az élet elszomorít)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha az élet elszomorít, ha a bűn már elborít,<br/>ha csalódott vagy, életunt, ne hidd azt, hogy nincs kiút.<br/>Ha úgy érzed, senkid sincsen, ha már semmi remény nincsen,<br/>ha összedőlt már minden vár, hidd azt, hogy Jézus vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne hidd, hogy nincs igazság, ne hidd, mi rossz hazugság,<br/>ne hidd, az élet fájdalom, ne hidd, hogy nincs irgalom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha kínod okát nem tudod, ha értelmét fel nem fogod,<br/>ha úgy érzed, céltalan, ne hidd azt, hogy hasztalan.<br/>Ha úgy érzed, senkid sincsen, ha már semmi remény nincsen,<br/>ha összedőlt már minden vár, hidd azt, hogy Jézus vár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne hidd, hogy nincs igazság, ne hidd, mi rossz hazugság,<br/>ne hidd, az élet fájdalom, ne hidd, hogy nincs irgalom!</lines>
+    </verse>
+  </lyrics>
+</song>

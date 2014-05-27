@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Olyan örömöt, mint a forrás</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olyan |: örömöt, mint a forrás, olyan örömöt, mint a forrás, olyan örömöt kaptam Tőled, Istenem.<br/>Olyan :| Tőled Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olyan békét, mint a folyó...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Olyan derűt, mint a napfény...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Olyan hitet, mint a szikla...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Olyan reményt, mint a tavasz...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Olyan szeretetet, mint a tenger...</lines>
+    </verse>
+  </lyrics>
+</song>

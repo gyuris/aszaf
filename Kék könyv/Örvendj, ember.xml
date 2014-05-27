@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Örvendj, ember</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ref.:Alleluja (6x)<br/>Örvendj, ember, közel az idő, eljön az Üdvözítő!<br/>Békességet hoz majd nekünk, benne üdvözülünk.<br/>Ref.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj el, várunk, Szent Viradat, hintsd ránk sugaradat!<br/>Virasztóknak világosság, foglyoknak szabadság.<br/>Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

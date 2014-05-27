@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Örömének</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvend a szívem, ujjong a lelkem, Jézus rám talált.<br/>Legyőzte vére, engedelmessége a bűnt és a halált.<br/>Amíg csak élek, dicsérlek Téged, Jézus kősziklám,<br/>Szeretni hívtál, utat Te adtál, szívünk Téged vár!<br/>Ref.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj a mennyből, a tiszta égből, lélek, űzd a bűnt.<br/>Fényre leltünk, kegyelmed kérjük, jöjj el, égi tűz.<br/>Életre kelnek, akik dicsérnek, áldott légy, Atyánk, szárnyra kelnek, az égig érnek, ott van örök hazánk.<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint a szélvész, kiárasztja lelkét, jöjj, Vigasztaló.<br/>Ha hívod, eljő, újjáteremt ő, jöjj, életadó.<br/>Kiárasztja lelkét, megújítja népét, hűséges az Úr.<br/>Ezért dicsérjük, örömmel zengjük, irgalmas az Úr.<br/>Ref.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen, alleluja, amen, alleluja, feltámadt az Úr.<br/>Amen, alleluja, amen, alleluja, jöjj Szentlélek, áradj köztünk szét!</lines>
+    </verse>
+  </lyrics>
+</song>

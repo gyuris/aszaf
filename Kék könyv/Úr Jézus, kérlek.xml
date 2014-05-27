@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Úr Jézus, kérlek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, kérlek, taníts meg örülni,<br/>Szememből, szemekből könnyeket törülni.<br/>Taníts, hogy ne legyek senkinek kárára,<br/>taníts jóságra, békére, hálára!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Taníts, hogy jól éljek! Taníts meg fényteli<br/>örvendő élettel messzire fényleni.<br/>Tanítsd meg szívemet csak veled röpülni,<br/>Úr Jézus, Úr Jézus, taníts meg örülni!</lines>
+    </verse>
+  </lyrics>
+</song>

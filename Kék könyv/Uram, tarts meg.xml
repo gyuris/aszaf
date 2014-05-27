@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Uram, tarts meg!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Ebben nőtt fel a kis Mózes… mert ez a mi erőnk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Ebben nőtt fel a kis Dávid… mert ez a mi erőnk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Ebben nőtt fel a kis Jézus… mert ez a mi erőnk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Ebben nőttünk fel mi is… mert ez a mi erőnk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Soha nem fél már a szívem… mert velem van az Úr.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Uram, tarts meg hitünkben… mert ez a mi erőnk.<br/>Nem volt nélküle boldogságom, ám most életem véle járom.<br/>Kézen fogva vezet megváltóm, róla ezért zeng dalom<br/>Uram, tarts meg…</lines>
+    </verse>
+  </lyrics>
+</song>

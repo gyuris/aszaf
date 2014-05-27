@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Hatalmas az a hegy...</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="415"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatalmas az a hegy, ami tornyosul előtted, de az imádság ereje által elmozdul a hegy, ha hiszed! Az Úr segít téged, ha zörgetsz a menny ajtaján, Ő hűséges hozzád, szeretete megtalál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igen, végtelen az erő, végtelen a kegyelem, mely kiárad majd reád, ha térden állva keresed, kutatod, várod az Isten válaszát.<br/>Mert végtelen az Isten és végtelen az ereje, mely betölti lelkedet, szeretete megőrzi életed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Életed az Ővé, szeretete átölel éneket dalolhatsz, mert a király fia vagy.<br/>Nyújtsd felé kezed, mert magad nem győzhetsz már.<br/>Ne feledd el soha: szeretete megtalál! Igen, végtelen az erő, szeretete megtalál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végtelen az erő, mely kiárad majd reád, ha térden állva keresed, kutatod, várod az Isten válaszát.<br/>Mert végtelen az Isten és végtelen az ereje, mely betölti lelkedet, szeretete megőrzi életed, csak higgyél, bízzál, higgyél, bízzál, higgyél, bízzál; szeretete megőrzi életed!</lines>
+    </verse>
+  </lyrics>
+</song>

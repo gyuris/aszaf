@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>A mélyből Hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mélyből hozzád száll szavam: Uram irgalmazz!<br/>A bajban lelkem társtalan, Uram, irgalmazz!<br/>Segíts! / Segíts! / Ne hagyj! / Ne hagyj!<br/>Nézd, ránk tör a bűn már!<br/>Te adj / Te adj / erőt! / erőt!<br/>Uram irgalmazz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha ajkam vétett ellened, Krisztus kegyelmezz!<br/>A jóhírt zengjem csak veled, Krisztus kegyelmezz!<br/>Segíts! / Segíts! / Ne hagyj! / Ne hagyj!<br/>Nézd, ránk tör a bűn már!<br/>Te adj / Te adj / erőt! / erőt!<br/>Krisztus kegyelmezz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha arcod fényét elfedem, Uram irgalmazz!<br/>Te újból hívjál, Istenem, Uram irgalmazz!<br/>Segíts! / Segíts! / Ne hagyj! / Ne hagyj!<br/>Nézd, ránk tör a bűn már!<br/>Te adj / Te adj / erőt! / erőt!<br/>Uram irgalmazz!</lines>
+    </verse>
+  </lyrics>
+</song>

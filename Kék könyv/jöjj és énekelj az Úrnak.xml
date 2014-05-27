@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>jöjj és énekelj az Úrnak!</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj és énekelj az Úrnak, lelkedlángjai kigyulnak, Jöjj és énekelj, szívből szóljon a dal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dalainkba Ő lehel életet, tízhúrú hárfán zengjünk éneket, leborulva áldjuk színe előtt.<br/>Meghallgatja könyörgő szavunk, kegyelmében bátran bízhatunk, hűségéért hangos szóval dicsérje ég és föld!<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daloljon ajkunk új éneket, áldó szavaink néki kedvesek, örömét leli a hálás szívben az Úr. Dicsérje nyelvünk, körtánc forogjon, játsszunk előtte gitáron, dobokon, győzni segít, és megáldja népét kifogyhatatlanul!<br/>Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

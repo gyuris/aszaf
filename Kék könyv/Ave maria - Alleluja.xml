@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Ave maria - Alleluja</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="345"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, te közben jársz éretünk Fiadnál,hogy Hozzá eljussunk az üdvösség napján. Tekinteted fordítsd most felénk, segíts meg mindket a küzdés óráján.<br/>|: Ave, ave, ave Maria! :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, életed számunkra példa, szívedben hét tőr fájdalma égett, Fiad a mennyben csillaggal koronázott, mert alázatban szüntelen kimondtad az Igent.<br/>|: Alleluja, allealleluja... :|</lines>
+    </verse>
+  </lyrics>
+</song>

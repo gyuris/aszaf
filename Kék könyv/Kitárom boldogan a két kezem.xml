@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Kitárom boldogan a két kezem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kitárom boldogan a két kezem az Úr felé, az Úr felé,<br/>ujjongva, boldogan éneklem, hogy Jézus már enyém.<br/>Alleluja, alleluja, Jézus a szívem királya,<br/>alleluja, alleluja, énekem csak Őt áldja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szeretet útja egyre közelebb visz az Úr felé, az Úr felé,<br/>szívem boldog hangos szóval énekli, hogy Jézus már enyém!<br/>Alleluja, alleluja, Jézus a szívem királya,<br/>alleluja, alleluja, énekem csak őt áldja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Életemnek minden napján dicsérem Őt, Jézusomat, királyomat,<br/>boldogan örvendezve magasztalom, áldom én az Urat!<br/>Alleluja, alleluja, Jézus a szívem királya,<br/>alleluja, alleluja, énekem csak őt áldja.</lines>
+    </verse>
+  </lyrics>
+</song>

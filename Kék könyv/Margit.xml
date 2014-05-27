@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Margit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mosogat a konyhán a királylány,<br/>szívében égi Bárány.<br/>Halat is tisztít, követ is súrol,<br/>példát vesz a szelíd Úrról.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Margit, sápadtnak látszol! Sápadtan is virágzol.<br/>Ugye, valaki vezet? Valaki fogja a kezed!<br/>Szíved lánggal ég: Jézus, Jézus a tiéd!:|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kihalt a város, sötét a föld, és messze még az ég.<br/>De nem magányos, akinek Jézus fogja két kezét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oltár előtt térdel a királylány, nézi őt az égi Bárány.<br/>Hazája bűnét egymaga bánja, hajnalig tart az imája.<br/>Ref.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szegény királylány, magyar hazádért égő áldozat!<br/>A Bárány lakomáján a mérhetetlen boldogság fogad!</lines>
+    </verse>
+  </lyrics>
+</song>

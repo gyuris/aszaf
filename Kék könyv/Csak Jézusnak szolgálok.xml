@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Csak Jézusnak szolgálok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="354"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Jézusnak szolgálok, az Ő országát várom, mert eljön Ő, az Üdvözítő, Ó, Jézus feltámadt király,<br/>Áldjad, lelkem Őt, dicsérd teremtőd most és mindörökké Amen.<br/>Áldja minden nép, dicsérd szent nevét, most és mindörökké Ámen. Csak..</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát adjatok, áldást mondjatok...<br/>Egyházad dicsér, nagy jóságodért...<br/>Erős vár az Úr, menedéket nyújt...<br/>Áldott irgalom, véred oltalom...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldom Őt, az Üdvözítőt...<br/>Eljön Ő, újra visszejő...<br/>Áldott légy, Istenünk...<br/>Dicsőség szent nevednek...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Új szövetség, szent véredért...<br/>énekeljünk hát alleluját...<br/>Hatalmas az Úr, jóságos sz Úr...<br/>Szívem áldja Őt, ujjongjon a föld...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentek, angyalok, szeráf-kórusok...<br/>Néked zengenek, így ünnepelnek...<br/>Áldott légy Atya és Egyszülött Fiad...<br/>Éltető Lélek, Téged dicsérlek...</lines>
+    </verse>
+  </lyrics>
+</song>

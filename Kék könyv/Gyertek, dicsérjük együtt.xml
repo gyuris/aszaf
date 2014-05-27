@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Gyertek, dicsérjük együtt</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyertek, dicsérjük együtt  Izráel Szentjét.<br/>Mert Ő a Megváltó!<br/>|: Emeld fel kezedet, nyisd meg a szívedet,<br/>Mert Ő a te Szabadítód!:|<br/>Gyertek, gyertek, menjünk fel az Úr hegyére, Vigasságnak lakhelyére ujjongjunk Őelőtte, táncoljunk Őelőtte,<br/>Az Ő neve, az Ő neve: Ott lakik az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

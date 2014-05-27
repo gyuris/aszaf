@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Isten Tenyerén</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott van életem Isten tenyerén és azért nem félek én.<br/>Ha bármi fáj nekem, mosolyog szemem.<br/>Száz jajszó között is bízom vakon, hitemet el nem adom.<br/>Rámtörhet ezernyi baj, veszély, Isten így szól: ne félj!<br/>|:Mért és kitől félhetnék én?:|<br/>Az Isten tenyerén?</lines>
+    </verse>
+  </lyrics>
+</song>

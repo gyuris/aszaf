@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+  <properties>
+    <titles>
+      <title>Jó föld</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó föld is kellett hozzá, kellett szép idő,<br/>és kellett búzaszár, meg nyári napsugár.<br/>És aratáshoz sarló, sok-sok munkás kéz.<br/>Kellett liszt, hófehér, így lett szép a kenyér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E szent kenyér, mit együtt elhozunk.<br/>Az új életre hív, a szeretetre hív.<br/>Ez örömünk és könnyünk, napi kenyerünk.<br/>Ebből kél fénysugár: Mennyország, jöjj el már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg áldozatul hozzuk borunk, kenyerünk,<br/>a gondunk arra jár, hol éhes testvér vár.<br/>Te taníts meg most minket, osszuk kenyerünk.<br/>Taníts meg szeretnünk, minden jó testvérünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E szent kenyér, mit együtt elhozunk.<br/>Az új életre hív, a szeretetre hív.<br/>Ez örömünk és könnyünk, napi kenyerünk.<br/>Ebből kél fénysugár: Mennyország, jöjj el már!</lines>
+    </verse>
+  </lyrics>
+</song>

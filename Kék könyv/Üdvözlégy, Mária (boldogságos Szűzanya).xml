@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, Mária (boldogságos Szűzanya)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="295"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, Mária, boldogságos Szűzanya! Áldott Szűzanya!<br/>Téged kér, Hozzád száll szívünk sóhaja, Áldott Szűzanya!<br/>Áldott légy, ó, Szűzanya, mennyországnak csillaga!<br/>Áldott Szűzanya!<br/>Áldunk Téged, édesanya, áldott légy, Mária! Áldott Szűzanya!</lines>
+    </verse>
+  </lyrics>
+</song>

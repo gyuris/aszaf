@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+  <properties>
+    <titles>
+      <title>Vigyétek a hírt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet Veled, ó Uram,<br/>milyen áldott és oly boldog.<br/>A szívünk erős lesz<br/>és már többé nem félünk.<br/>Veled járni az úton az örök élet felé,<br/>ez minden kincsnél többet ér nekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigyétek a hírt, mindenfelé:<br/>Jézus Krisztus él már velünk.<br/>Te is fogadd be Őt, együtt áldjuk az Ő nevét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha békétlen már a lelked,<br/>menj és szeresd, és bízz Benne,<br/>Ő tudja, mire van néked mindig szükséged.<br/>Terád is vár még Jézus,<br/>menj, kövesd mindenfelé,<br/>és neked adja egész életét.<br/>Refr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, add tovább az erőt,<br/>amit Jézus adott neked,<br/>és meglásd, boldogabb lesz már egész életed.<br/>Örülj te is velünk,<br/>és figyeld minden szavát,<br/>és vigyed mindenfelé, Ő az Úr!<br/>Refr. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

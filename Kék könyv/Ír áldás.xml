@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+  <properties>
+    <titles>
+      <title>Ír áldás</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="448"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nap melegen süsse a te arcodat!<br/>S amíg újra találkozunk, hordozzon téged, hordozzon téged, hordozzon tégedet...tenyerén az Isten!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen előtted mindig út, fújjon hátad mögül a szél, az eső puhán essen földjeidre!<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert csak Ő, csak Ő az út, és Ő tebenned él, az Ő fénye ragyog lelkeinkre,<br/>ne feledd ígéreted, tisztán éld az életed!<br/>Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>Bárányom, Bárányom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bárányom, Bárányom, Istennek Báránya,<br/>könyörülj rajtam, hadd jussak jobb sorsra!<br/>Adj nekem nagy hitet, amíg lehet,<br/>Formáld kedved szerint a szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Uram, add meg nekem, Jó Uram, add meg nekem,<br/>hadd legyen melletted majd a helyem.<br/>Lesem minden vágyadat, tisztelem házadat,<br/>én Uram, jó Uram, add meg nekem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én Uram, adj egy kis időt nekem,<br/>vékony kis szalmaszál az én hitem,<br/>de ha Te segítesz, erős leszek,<br/>kertedként ápolom szívemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én Uram, add meg nekem, Jó Uram, add meg nekem,<br/>hadd legyen melletted majd a helyem.<br/>Lesem minden vágyadat, tisztelem házadat,<br/>én Uram, jó Uram, add meg nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

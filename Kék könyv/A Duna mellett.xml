@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+  <properties>
+    <titles>
+      <title>A Duna mellett</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ifjúságom egy gyönyörű napján<br/>felcsendült egy dal a Duna partján.<br/>Azóta mindig összejövünk,<br/>azóta mindig együtt énekelünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoztuk a múltunk, a jelenünk,<br/>hogy szebb legyen mindig az életünk,<br/>imában, dalban egyek lettünk,<br/>és egy lett a szívünk, a lelkünk, míg énekeltünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anyánk, te mindig velünk voltál,<br/>hozzánk mindig lehajoltál.<br/>Napba öltöztél fenn az égen,<br/>hogy fiad fénye szívünkben égjen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Duna mellől ez a dal hozzád száll!<br/>A Duna mellett a szívünk téged áld.<br/>Anyánk, Mária, / Ó, Napba öltözött,<br/>Magyarok Asszonya, / országunk fölött,<br/>Anyánk, Mária, / ragyogjon jeled,<br/>ne hagyj el soha! / mentsd meg népedet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Anyánk, Mária, / Ó, Napba öltözött,<br/>Magyarok Asszonya, / e bűnös föld fölött,<br/>Anyánk, Mária, / Anyánk, Mária,<br/>ó, ragyogj az égen! / ragyogj az égen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A Duna mellől ez a dal hozzád száll!<br/>A Duna mellett a szívünk téged áld.<br/>Anyánk, Mária, / Ó, Napba öltözött,<br/>Magyarok Asszonya, / országunk fölött,<br/>Anyánk, Mária, / ragyogjon jeled,<br/>ne hagyj el soha! / mentsd meg népedet!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Anyánk, Mária, / Ó, Napba öltözött,<br/>Magyarok Asszonya, / e bűnös föld fölött,<br/>Anyánk, Mária, / Anyánk, Mária,<br/>ó, ragyogj az égen! / ragyogj az égen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Mindennap..</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden nap jöjj be Jézus hozzám,<br/>minden nap nálam legyél,<br/>Minden nap ismerd meg a szívem,<br/>minden nap Te légy a fény!<br/>Minden nap velem indulj útra,<br/>minden nap engem kísérj,<br/>Minden nap énekeljek néked,<br/>minden nap Te légy a cél!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fogadd el hangomat, fogadd el énekem!<br/>Fogadd el szívemet, fogadd el, Istenem!<br/>Mindennap érted fogok élni,<br/>mindennap keresztedért,<br/>Mindennap felemelem hangom,<br/>mindennap a Te nevedért!</lines>
+    </verse>
+  </lyrics>
+</song>

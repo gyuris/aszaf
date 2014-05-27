@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+  <properties>
+    <titles>
+      <title>Hallottuk, Isten</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallottuk, Isten, szent igédet, szívűnkbe véssük kegyes intelmed.<br/>Azt fogjuk követni, soha meg nem vetni, csak, adj irgalmat.<br/>Tarts meg Úristen, egy hitemben, tarts meg örökké kegyelmedben. (2x)<br/>Szent igéd értelme bün ellen védelmem, csak, csak adj oltalmat.</lines>
+    </verse>
+  </lyrics>
+</song>
