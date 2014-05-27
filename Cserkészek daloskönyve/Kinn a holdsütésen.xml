@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Kinn a holdsütésen</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kinn a holdsütésen, barátom, Pierrot<br/>Kölcsönözd a tollad, nyelvemen egy szó.<br/>Elaludt a gyertyám, nincsen több tüzem,<br/>Nyisd ki már az ajtót, régen döngetem…</lines>
+    </verse>
+  </lyrics>
+</song>

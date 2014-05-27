@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Magyar cserkészinduló</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fiúk, fel a fejjel, a harsona zeng,<br/>Álljunk csatasorba vidáman,<br/>Ránk vár a világ, ez a harc a mienk,<br/>Katonái vagyunk valahányan.<br/>Jó fegyverünk izmos karunk,<br/>Égő szemünk, vidám dalunk.<br/>Amerre nézünk, megterem<br/>A győzelem, a győzelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szabadba, fiúk! A nap arca nevet,<br/>Ott pezsdül a friss, tüzes élet.<br/>Járjuk be a mezőt, meg a rengeteget,<br/>Szabad ott a szabadban a lélek!<br/>Ott szemben, szívben tiszta láng,<br/>S az Isten arca néz le ránk.<br/>Leheletén ott megterem<br/>Erő, szabadság, győzelem!</lines>
+    </verse>
+  </lyrics>
+</song>

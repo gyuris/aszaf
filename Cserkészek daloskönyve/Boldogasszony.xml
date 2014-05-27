@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Boldogasszony</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogasszony Anyánk, régi nagy Pátrónánk!<br/>Nagy ínségben lévén, így szólít meg hazánk:<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Atyaistennek kedves, szép leánya,<br/>Krisztus Jézus Anyja, szentlélek mátkája!<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyisd fel az egeket sok kiáltásunkra,<br/>Anyai palástod fordítsd oltalmunkra.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sírnak és zokognak árváknak szívei,<br/>Hazánk pusztulásán özvegyek lelkei.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Októberi induló</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent István keze, jó oltalmunk voltál ezer bajban.<br/>Halld mg most is e hős nép jaját, ebben a pogány zivatarban!<br/>Hajnal fénye vonja be az eget, elveszünk, ha egyedül állunk.<br/>Ám, ha szent kezed segít nékünk, holnapra új világ lesz nálunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok vért, sok üde friss életet kívánt a sors tőlünk,<br/>És tengersok a kínunk, bajunk, mégse hal a hit ki belőlünk,<br/>Bár az ellen ördögi ereje ránk tört, hogy eltiporja néped;<br/>Szent István keze, hogyha segítsz, nemzeted új életre ébred.</lines>
+    </verse>
+  </lyrics>
+</song>

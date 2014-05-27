@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>A madár fütyüli már az ágon</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A madár fütyüli már az ágon,<br/>Magyar cserkés a legelső a világon.<br/>Hogyha megy, hogyha indul táborába,<br/>A jó Isten mosolyogva néz le rája.<br/>Kipakkol és felveri sátorfáját,<br/>Dalos könyvvel, vígan végzi munkáját.<br/>Ha dolgozik, énekel, táborozik lélekkel,<br/>Akadályt ő nem ismer a világon.</lines>
+    </verse>
+  </lyrics>
+</song>

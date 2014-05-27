@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Rákóczi búcsúja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgassátok meg, magyarok, amit beszélek,<br/>tanácsoljatok, vitézek, mitévő legyek?<br/>jön a német, dúl-fúl, pusztít, rabol, kerget, mindent éget,<br/>jaj, már mit tegyek?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tanácsoljuk felségednek, meg se is vesse,<br/>aranyait, ezüstjeit rúdba veresse,<br/>rakassa fel, vitesse el, hordassa el és menjen el<br/>merre szeme lát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok pénzembe, költségembe került váraim,<br/>ahhoz készült pompásaim, szép palotáim,<br/>itt hagylak már, pataki vár, nem szánlak már, munkácsi vár,<br/>Isten megáldjon!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Országomból, az hazámból már ki kell menni,<br/>mordságimért, hibáimért, engedj Thököly!<br/>Megölellek, megcsókollak, amíg élek, mindig szánlak,<br/>kedves Bercsényi!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megengedjen a magyarság, csak azt kiáltom:<br/>édes hazám, mire jutál, csak azt sajnálom,<br/>idegen lesz a vezéred, de tenéked az nem véred,<br/>jaj, ki nem szánna!</lines>
+    </verse>
+  </lyrics>
+</song>

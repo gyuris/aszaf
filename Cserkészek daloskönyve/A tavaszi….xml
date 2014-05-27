@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>A tavaszi…</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A tavaszi szép időnek<br/>Lám, hogy mindenek örülnek,<br/>Erdők, mezők megzöldülnek,<br/>A madarak zengedeznek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kisütött a nap sugára<br/>Az én rózsám ablakára.<br/>Tündöklik gyémánt orcája,<br/>Ragyog szép csillag módjára.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Repülj, fecském, ablakára,<br/>Kérjed, nyissa meg szavadra.<br/>Mondd, ezüstös lapot vevék,<br/>Rá arannyal írom nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

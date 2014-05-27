@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Fúj, süvölt…</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fúj, süvölt a Mátra szele,<br/>Üngöm, gatyám lobog bele:<br/>Kalapom is elkapta már,<br/>Tiszába vitte a tatár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istenadta falu nyája,<br/>Ez is csak utamat állja;<br/>Talán itt van hét vármegye<br/>Juha, borja és tehene.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Habos sárga csikóm nyaka,<br/>Ujjnyi vastag a por rajta;<br/>Meg ne utálj, kedves rózsám,<br/>Hogy oly sötét poros orcám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kalapom a Tiszán úszkál,<br/>Subám zálog a bírónál:<br/>De a szívem itten dobog,<br/>Forró lángja feléd lobog.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Katonaének</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A szép fényes katonának gyöngyarany élete,<br/>Csillog, villog mindenfelől jó vitéz fegyvere.<br/>Szép élet, víg élet, Soha jobb, soha jobb nem lehet.<br/>Hopp, hát jöjjön katonának, ilyet ki szeret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szikrát üt a paripája nagyvároson nézik,<br/>Hogy jó lovas és vitéz is, mindenütt dicsérik.<br/>Szép élet, víg élet, Soha jobb, soha jobb nem lehet.<br/>Hopp, hát jöjjön katonának, ilyet ki szeret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Közemberből káplár, hadnagy, kapitány is lészen,<br/>Óbesterség, generálság várja ottan készen.<br/>Szép élet, víg élet, Soha jobb, soha jobb nem lehet.<br/>Hopp, hát jöjjön katonának, ilyet ki szeret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menjünk azért seregesen, tartsuk meg hazánkat,<br/>Vérrel, bérrel oltalmazzuk szent, szent koronánkat.<br/>Szép élet, víg élet, Soha jobb, soha jobb nem lehet.<br/>Hopp, hát jöjjön katonának, ilyet ki szeret.</lines>
+    </verse>
+  </lyrics>
+</song>

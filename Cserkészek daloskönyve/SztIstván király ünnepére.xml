@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Szt.István király ünnepére</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adest festum venerandum Sancti regis Stephani,<br/>multa laude celebrandum omni die saeculi.<br/>Gaudeant qui sunt heredes: per hunc facti Domini<br/>et sanctorum coheredes meruerunt fieri.</lines>
+    </verse>
+  </lyrics>
+</song>

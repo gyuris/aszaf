@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Búcsút int a tűz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Búcsút int a tűz, halkan jő az éj,<br/>Útnak indulunk, testvér jöjj, ne félj!<br/>Új harc vár miránk, zengjen víg dalunk,<br/>Jézus van velünk, véle indulunk,<br/>Bármint sújt a sors, jöjjön bármi vész,<br/>Ajkunk csak dalol, szívünk tettrekész.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szálljon hő imánk, hozzád, Istenünk.<br/>Engedj háladalt néked zengenünk.<br/>Szívünk mint a tűz, izmunk friss acél,<br/>Égre néz szemünk, tudjuk, ott a cél.<br/>Bármint sújt a sors, jöjjön bármi vész,<br/>Ajkunk csak dalol, szívünk tettrekész.</lines>
+    </verse>
+  </lyrics>
+</song>

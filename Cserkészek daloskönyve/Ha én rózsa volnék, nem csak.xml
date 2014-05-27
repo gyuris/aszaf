@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Ha én rózsa volnék, nem csak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha én rózsa volnék, nem csak egyszer nyílnék;<br/>Minden évben négyszer virágba borulnék.<br/>Nyílnék a fiúnak, nyílnék én a lánynak,<br/>Az igaz szerelemnek, és az elmúlásnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha én kapu volnék, mindig nyitva állnék,<br/>Akárhonnan jönnek, bárkit beengednék.<br/>Nem kérdezném tőle: Hát téged ki küldött?<br/>Akkor lennék boldog, ha mindenki eljött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha én ablak volnék, akkora nagy lennék,<br/>Hogy az egész világ láthatóvá váljék.<br/>Megértő szemekkel átnéznének rajtam,<br/>Akkor lennék boldog, ha mindent megmutattam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha én utca volnék, mindig tiszta lennék,<br/>Minden áldott este fényben megfürödnék.<br/>És ha engem egyszer lánckerék taposna,<br/>Alattam a föld is sírva beomolna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha én zászló volnék, sohasem lobognék;<br/>Mindenféle szélnek haragosa volnék.<br/>Akkor lennék boldog, ha kifeszítenének;<br/>S nem lennék játéka mindenféle szélnek.</lines>
+    </verse>
+  </lyrics>
+</song>

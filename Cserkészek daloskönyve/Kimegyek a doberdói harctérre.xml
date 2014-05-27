@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Kimegyek a doberdói harctérre</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kimegyek a doberdói harctérre,<br/>Feltekintek a csillagos nagy égre.<br/>Csillagos ég, merre van a magyar hazám,<br/>Merre sirat engem az édesanyám?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jaj, Istenem, hol fogok én meghalni,<br/>Hol fog az én piros vérem elfolyni?<br/>Olaszország közepében lesz a sírom:<br/>Édesanyám, arra kérem, ne sírjon.</lines>
+    </verse>
+  </lyrics>
+</song>

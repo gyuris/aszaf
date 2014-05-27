@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Halld, hogy zúg a rét és hogy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halld, hogy zúg a rét és hogy zeng az ég, ilyen dal nem volt még,<br/>Most dalaloni kezdett a föld s az ég, dalolni kezd a mindenség.<br/>Minden út az erdőn, réten indulás az Úr felé,<br/>Visz a szellő hűs kezében, visz az élő Úr elé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halld, hogy zúg a rét és hogy zeng az ég, ilyen dal nem volt még,<br/>Most dalaloni kezdett a föld s az ég, dalolni kezd a mindenség.<br/>Minden út a messzi rónán, mely a láthatárig ér,<br/>Odajut egy titkos órán, hol a lélek Hozzá tér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halld, hogy zúg a rét és hogy zeng az ég, ilyen dal nem volt még,<br/>Most dalaloni kezdett a föld s az ég, dalolni kezd a mindenség.<br/>Mert az élet minden útja oda visz, hol Isten vár.<br/>Ha bejárod, Ő azt nyújtja, mit a célról álmodtál.</lines>
+    </verse>
+  </lyrics>
+</song>

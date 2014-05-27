@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Egri históriája</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Summáját írom Eger várának,<br/>megszállásának, viadalának,<br/>szégyenvallását császár hadának,<br/>nagy vigasságát Ferdinánd királynak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megírtam bűvön históriáját,<br/>Eger várának ő nagy romlását,<br/>mest rövidedön annak summáját,<br/>megérthetitök ő nagy sok csudáját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kárt az törökök nagyot vallának,<br/>az ó-kapura is ostromlának,<br/>ám szégyenükre eltágulának,<br/>dobjuk fakadva elbúsulának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amhát táborát hamar elindítja,<br/>minden hadával onnat kiszálla,<br/>negy dicséretöt egriekről szólla,<br/>Ferdinánd király nagy örömet halla.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Már meghallátok rövid summáját<br/>egri szállásnak históriáját,<br/>azon imádjuk mennyei atyát,<br/>tőlünk se vonja nagy irgalmasságát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Egert minékünk éltig megtartsa,<br/>több végházakkal megszabadítsa,<br/>az pogány kéztől megoltalmazza,<br/>körösztyén népet igaz hitben tartsa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nagy históriáét az ki szerzette,<br/>ez summáját is azon jegyzötte,<br/>nevét versfőben megjelentötte,<br/>ezerhatodfélszázháromban szerzötte.</lines>
+    </verse>
+  </lyrics>
+</song>

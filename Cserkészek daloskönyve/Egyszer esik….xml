@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Egyszer esik…</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egyszer esik esztendőben nagy tábor,<br/>Egszer eszünk szárazbabot csajkából!<br/>Te szakács, te szakács, a babra vigyázz,<br/>Mert ha jő Kozma úr, az lesz csak a gyász!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyne volna, hogyne volna jó világ,<br/>Ez a tábor csupa derék mákvirág!<br/>csebogár, csebogár, szentjánosbogár!<br/>Táborban, sátorban, jaj, de jó a nyár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyszer esik esztendőben karácsony,<br/>Egyszer főztem száraz babot bográcson!<br/>Csebogár, csebogár, csöpög a kanál,<br/>Tinéktek, cserkészek, főzzön a tatár!</lines>
+    </verse>
+  </lyrics>
+</song>

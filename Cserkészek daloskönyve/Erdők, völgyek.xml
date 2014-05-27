@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Erdők, völgyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erdők, völgyek, szűk ligetek,<br/>Sokat bujdostam bennetek.<br/>Bujdostam én a vadakkal,<br/>Sírtam a kis madarakkal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édesanyám sok szép szava,<br/>Kire nem hajlottam soha,<br/>Hajlanék én, de már késő,<br/>Hullik fölöttem az eső.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édesanyám édes teje,<br/>Keserű a más kenyere.<br/>Keserű is, savanyú is,<br/>Néha-néha panaszos is.</lines>
+    </verse>
+  </lyrics>
+</song>

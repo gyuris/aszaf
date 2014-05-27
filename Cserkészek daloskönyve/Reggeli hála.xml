@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Reggeli hála</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adok, hogy itt a reggel,<br/>hálát adok az új napon.<br/>Hálát adok, hogy minden percem<br/>Néked adhatom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát, nemcsak a jótestvérért,<br/>hálát mindenkiért adok.<br/>Hálát adok, hogy minden sértést<br/>megbocsáthatok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adok, hogy munkát küldesz,<br/>hálát adok, hogy fény ragyog.<br/>Hálát adok, hogy lelkem fényes<br/>és boldog vagyok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok a vidám percért,<br/>hálát, ha szomorú leszek.<br/>Hálát adok, hogy adsz elém célt,<br/>és kezed vezet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok, hogy hallom hangod,<br/>hálát adok a jó hírért.<br/>Hálát adok, hogy Tested adtad<br/>minden emberért.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hálát adok az üdvösségért,<br/>hálát adok, hogy várni fogsz.<br/>Hálát adok, hogy ma reggel még<br/>hálát adhatok.</lines>
+    </verse>
+  </lyrics>
+</song>

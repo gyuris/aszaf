@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Piros alma</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Piros alma mosolyog a dombtetőn,<br/>Sárga kendős kislány sétál a mezőn.<br/>Szép a mező, megszépül a virágtól,<br/>Vagy attól a sárga kendős kislánytól.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a Tisza tinta volna, jó volna,<br/>Minden legény írnya tudna, jó volna.<br/>Azt az egyet mégsem tudná leírnya,<br/>Kit szerettem nagy Menyhébe' legjobban.</lines>
+    </verse>
+  </lyrics>
+</song>

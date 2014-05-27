@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Török bársony süvegem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Török bársony süvegem,<br/>most élem gyöngy életem,<br/>Balogh Ádám a nevem,<br/>ha vitéz vagy, jer velem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fakó lovam a Murza,<br/>Lajta vizét átússza,<br/>császárt hogyha megkapom,<br/>Bécs várába ugratom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sándor Ferkó sógorom,<br/>adsza ide a borom,<br/>harc után ha szomjazom,<br/>az áldomást megiszom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zsindelyesi eszterház,<br/>ég a város, ég a ház,<br/>nem is egy ház, háromszáz,<br/>mert a kuruc ott tanyáz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vörös bársony süvegem,<br/>most élem gyöngy életem,<br/>bokréta van mellette,<br/>barna babám kötötte.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha kötötte, jól tette,<br/>csókot kapott érette,<br/>kössél, babám, máskor is,<br/>megcsókollak százszor is.</lines>
+    </verse>
+  </lyrics>
+</song>

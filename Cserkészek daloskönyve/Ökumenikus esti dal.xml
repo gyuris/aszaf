@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Ökumenikus esti dal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="177"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, terjeszd ki, Jézusom, oltalmazó szárnyad,<br/>És csitíts el szívemben bút, örömet, vágyat!<br/>Légy mindenem, légy fényem: sötéten jő az éj,<br/>Nagy irgalmadból élnem szüntelen Te segélj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mosson meg az értem bőven hullt drága vér!<br/>Új lélekért könyörgök, újult akaratért.<br/>Kicsik, nagyok mind kérünk: őrködj vigyázva ránk!<br/>Békességedbe térünk, Te áldd meg éjszakánk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Édes almát…</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes almát hoztam én,<br/>gömbölyű, tűzszínű, mint a fény.<br/>Enné hét falu, kapd el kisfiú,<br/>üljünk fa tövibe kettecskén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mérges pulykát hoztam én,<br/>szárnyai, tollai, mint a szén.<br/>Enné hét falu, fogd el, kisfiú,<br/>üljünk fa tövibe kettecskén.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Erdő mellett estvéledtem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erdő mellett estvéledtem,<br/>Subám fejem alá tettem.<br/>Összetettem két kezemet,<br/>Úgy kértem jó Istenemet:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Istenem, adjál szállást,<br/>Már meguntam a járkálást,<br/>A járkálást, a bújdosást,<br/>Az idegen földön lakást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjon Isten jó éjszakát,<br/>Küldje hozzánk szent angyalát,<br/>Bátorítsa szívünk álmát,<br/>Adjon Isten jó éjszakát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bátorítsa szívünk álmát,<br/>Köszöntsük a Szűz Máriát.</lines>
+    </verse>
+  </lyrics>
+</song>

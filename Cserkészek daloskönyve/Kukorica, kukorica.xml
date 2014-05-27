@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Kukorica, kukorica</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kukorica, kukorica, pattogatott kukorica.<br/>A mennyasszony pattogtatta, hej, vőlegénye ropogtatta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megfogtuk már a galambot, verjük neki a dorongot.<br/>Igen is kedvünkre való, méltó érte a foglaló.</lines>
+    </verse>
+  </lyrics>
+</song>

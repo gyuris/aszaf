@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Télitábori dal</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak a szél fújdogál, elpihent már a táj,<br/>s az erdőn a dalosajkú víg kismadár.<br/>A fák közt a hold fénye rettegve jár,<br/>mert fél, hogy nem jön el az új, tarka nyár.<br/>De ifjú szívünk dala csendülve száll,<br/>és tőle visszhangzik az alvó határ.<br/>Az égből, Teremtőnk, vigyázz, ó reánk,<br/>a földre és reád, te édes hazánk!</lines>
+    </verse>
+  </lyrics>
+</song>

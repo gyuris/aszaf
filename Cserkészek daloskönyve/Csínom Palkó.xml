@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Csínom Palkó</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csínom Palkó, Csínom Jankó, csontos karabélyom,<br/>Szép selymes lódingom, dali pár pisztolyom.<br/>Nosza, rajta, jó katonák, igyunk egészséggel.<br/>Menjen táncba ki-ki köztünk az ő jegyesével.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne bánkódjék senki köztünk, menjünk az Alföldre;<br/>Megrontatik kezünk által az labanc ereje.<br/>Szabad nekünk, jó katonák, Tisza-Duna közi,<br/>Labancságnak, mert nincs sehult ottan semmi közi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Darulábú, szarkaorrú, nyomorult ellenség,<br/>Fut előttünk, retteg tőlünk nyomorult nemzetség.<br/>Görbe hátú, mert lenyomta füstös muskétálya,<br/>Elfárasztott, elbágyasztott, dióverő pózna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A jó vitéz kurucnak van szabott dolománya,<br/>Sarkantyús csizmája, futó paripája;<br/>És a gyalog jó kurucnak van frissen járása,<br/>Mint a szárnyas Pelágusnak, van sebes futása.</lines>
+    </verse>
+  </lyrics>
+</song>

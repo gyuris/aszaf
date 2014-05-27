@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Mondd el a hegyek ormán</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondd el a hegyek ormán, a boldog hírtől zengjen a vidék,<br/>mondd el a hegyek ormán, hogy földre szállt az ég.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kis nyája mellett őrt áll a jámbor pásztornép,<br/>az égen, földön fényár, nem volt éj még ily szép.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondd el a hegyek ormán, a boldog hírtől zengjen a vidék,<br/>mondd el a hegyek ormán, hogy földre szállt az ég.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Száz angyal hirdet jó hírt, mind erre vártunk rég,<br/>ma Betlehemben megnyílt és mézet ont az ég.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mondd el a hegyek ormán, a boldog hírtől zengjen a vidék,<br/>mondd el a hegyek ormán, hogy földre szállt az ég.</lines>
+    </verse>
+  </lyrics>
+</song>

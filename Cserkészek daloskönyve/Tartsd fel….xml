@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Tartsd fel…</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tartsd fel a zászlót, mondd ki a jelszót,<br/>Mondd ki merészen: "Légy résen!"<br/>Szent akarattal vívj nemes harcot,<br/>Jót tenni mindig állj készen!<br/>Légy résen, légy résen!<br/>Jót tenni mindig állj készen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd Teremtődet, tiszteld a földet,<br/>Otthonod erdő, vízpart, rét.<br/>Minden erőddel védjed a szépet,<br/>Krisztus vitéze, bátor légy!<br/>Bátor légy, bátor légy!<br/>Krisztus vitéze, bátor légy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten Igéje, néped reménye<br/>Indít a jóra, ifjúság.<br/>Nézz fel a hitre, nézz az erényre,<br/>Mindig a jobbról végy példát!<br/>Jó munkát! Jó munkát!<br/>Mindig a jobbról végy példát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tartsd fel a zászlót, mondd ki a jelszót,<br/>Mondd ki merészen: "Légy résen!"<br/>Szent akarattal vívj nemes harcot,<br/>Jót tenni mindig állj készen!<br/>Légy résen, légy résen!<br/>Jót tenni mindig állj készen!</lines>
+    </verse>
+  </lyrics>
+</song>

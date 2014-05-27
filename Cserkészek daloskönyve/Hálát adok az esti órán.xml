@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Hálát adok az esti órán</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adok az esti órán,<br/>hálát adok, hogy itt az éj.<br/>Hálát adok, hogy szívem mélyén<br/>hála dala kél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát adok a csillagfényért,<br/>hálát a sűrű éjjelért.<br/>Hálát adok, hogy nem vagy messze,<br/>most is küldesz fényt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adok, hogy küldtél testvért,<br/>társként aki ma mellém állt.<br/>Hálát adok, hogy megengedted<br/>azt is, ami fájt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok, hogy tested táplál,<br/>hálát, hogy ma is szólt szavad.<br/>Hálát adok, hogy lelkem biztos<br/>cél felé halad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok, hogy mellém álltál,<br/>hálát, hogy szép az otthonom.<br/>Hálát, hogy munkám elvégeztem<br/>s békén alhatom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hálát adok a sok-sok jóért,<br/>hálát adok, hogy megbocsátsz.<br/>Hálát adok, hogy el nem hagytál,<br/>újabb útra vársz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hálát adok, hogy szemed rajtam,<br/>hálát adok, hogy reményt adsz.<br/>Hálát adok, mert biztos eljössz,<br/>mint a virradat.</lines>
+    </verse>
+  </lyrics>
+</song>

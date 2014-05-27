@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Cserkészek májusa</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vígan tekint le ránk a kék tavaszi ég,<br/>Ifjú szívünk dalát a szél röpíti szét.<br/>Velünk fütyül a madár lombos ágú fán: (füttyszó)<br/>Szép május Úrnője áldva légy! Alleluja! Zeng föld s az ég.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Esti himnusz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A napvilág leáldozott,<br/>Kérünk, Teremtőnk, tégedet,<br/>Maradj velünk kegyelmesen,<br/>Őrizzed, óvjad népedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A rossz álmok távozzanak,<br/>És minden éji képzelet.<br/>Ellenségünket űzzed el,<br/>Hogy testünket ne rontsa meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add meg, kegyelmes jó Atyánk,<br/>És Egyszülöttje, add nekünk,<br/>És Szentlélek, Vígasztalónk,<br/>Örök fölséges Istenünk. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

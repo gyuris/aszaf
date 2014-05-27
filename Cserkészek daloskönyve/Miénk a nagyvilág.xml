@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Miénk a nagyvilág</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miénk a nagyvilág,<br/>Miénk a fa, virág,<br/>Magasság és mélység,<br/>Napsugár és kék ég;<br/>Mi pedig a tüzesszívű<br/>Krisztusé vagyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miénk a technika,<br/>Gép és energia,<br/>Sebesség és szépség.<br/>Munka és reménység;<br/>Mi pedig a tüzesszívű<br/>Krisztusé vagyunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miénk az ifjúság,<br/>Jövő s az új világ,<br/>A magyar föld tája,<br/>S rajt' a kereszt fája;<br/>Mi pedig a tüzesszívű<br/>Krisztusé vagyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Mócsy Jánostól</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megy a cserkész, megy a cserkész hosszú bottal.<br/>A hátán egy sportüzlettel, bádogokkal.<br/>Van ott fejsze, sátorponyva,<br/>Az egész egy ruhatár és mozgókonyha.</lines>
+    </verse>
+  </lyrics>
+</song>

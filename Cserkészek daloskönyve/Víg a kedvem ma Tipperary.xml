@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Víg a kedvem ma Tipperary</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Víg a kedvem ma Tipperary, nem riaszt el az út.<br/>Még elérünk ma Tipperary, hol egy szép lány lángra gyújt;<br/>Good by, Piccadily, Ködből festett táj;<br/>Bármi messze van még Tipperary, de szívünk ott már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a long way to Tipperary, It's a long way to go.<br/>It's a long way to Tipperary, to the sweetest girl I know;<br/>Good by, Piccadily, Farewell Leicester square;<br/>It's a long, long way to Tipperary, but my heart's right there.</lines>
+    </verse>
+  </lyrics>
+</song>

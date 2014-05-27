@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Magyar szentekről</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, hazánkért térdelünk elődbe.<br/>Rút bűneinket jóságoddal född be.<br/>Szent magyaroknak tiszta lelkét nézzed,<br/>Érdemét idézzed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>István királynak szíve gazdagságát,<br/>Szent Imre herceg kemény tisztaságát,<br/>László királynak vitéz lovagságát,<br/>Ó, ha csak ezt látnád!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog Özsébnek lángjai lobognak,<br/>Bús magyar éjben árva magyaroknak<br/>Vigasztalásul fehér pálosoknak<br/>Imái ragyognak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Erzsébetből hős szeretet árad,<br/>Margit imái vezekelve szállnak,<br/>S minket hiába, Uram, ne sirasson<br/>Áldott Boldogasszony.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ránk bűnösökre minden verés ránk fér,<br/>De könyörögnek ők tépett hazánkért,<br/>Hadd legyünk mink is tiszták, hősök, szentek,<br/>Hazánkat így mentsd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

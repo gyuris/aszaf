@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Pálos-mindenszentek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pálos-mindenszenteket köszönti hazánk,<br/>Életüket követi magyar ifjúság.<br/>Miérettünk éltek ők: pálos hivatás,<br/>Boldog Özséb nyomdokán fellobog a láng.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó fel, fel, hív az Isten, számít Ő ránk!<br/>Él a lelke mibennünk, istenfiúság,<br/>Magyar népünk jövője, boldog hivatás.<br/>Isten él, Krisztus él! E nagy Cél miénk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Égbetörő szent ösvény, rajta ifjúság!<br/>Az Igazat keresi, élet igazát.<br/>Mert a miénk a jövő, s minden emberi,<br/>S mi keresztből születik, örök krisztusi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó fel, fel, hív az Isten, számít Ő ránk!<br/>Él a lelke mibennünk, istenfiúság,<br/>Magyar népünk jövője, boldog hivatás.<br/>Isten él, Krisztus él! E nagy Cél miénk!</lines>
+    </verse>
+  </lyrics>
+</song>

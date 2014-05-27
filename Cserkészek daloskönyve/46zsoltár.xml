@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>46.zsoltár</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erős vár a mi Istenünk, jó fegyverünk és pajzsunk.<br/>Ha ő velünk, ki ellenünk, az Úr a mi oltalmunk.<br/>Az ősellenség most is üldöz még,<br/>Nagy a serege, csalárdság fegyvere,<br/>Nincs ilyen több a földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erőnk magában mit sem ér, mi csakhamar elesnénk;<br/>De küzd értünk a hős vezér, kit Isten rendelt mellénk.<br/>Kérdezed: ki az? Jézus Krisztus az,<br/>Isten szent Fia, az ég és föld Ura,<br/>Ő a mi diadalmunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E világ minden ördöge ha elnyelni akarna,<br/>Minket meg nem rémítene, mirajtunk nincs hatalma.<br/>E világ Ura gyúljon bosszúra:<br/>Nincs ereje már, reá ítélet vár,<br/>az ige porba dönti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az ige kőszálként megáll, megszégyenül, ki bántja.<br/>Velünk az Úr táborba száll, Szentlelkét ránk bocsátja.<br/>Kincset, életet, hitvest, gyermeket:<br/>Mind elvehetik, mit ér ez őnekik!<br/>Mienk a menny örökre!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Zöld erdőben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zöld erdőben, zöld mezőben sétálott egy páva,<br/>Kék a lába, zöld a szárnya, aranyos a tolla.<br/>Hítt engem is útitársnak, nem mentem el véle,<br/>Vásárhelyen nincsen olyan leány, se, aki nekem kéne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyám, anyám, édesanyám, elmék az erdőbe,<br/>Fölkeresem azt a pávát, megkérdezem tőle:<br/>Nem láttad-e a kedvesem abban az erdőben,<br/>Kiért fáj a, fáj a gyenge szívem, sej, meg is hasad érte.</lines>
+    </verse>
+  </lyrics>
+</song>

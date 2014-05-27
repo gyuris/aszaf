@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Kossuth Lajos táborában</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kossuth Lajos táborában két szál majoránna,<br/>egy szép barna magyar huszár sej, lovát karélyozza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne karélyozz, magyar huszár, mert leesel róla,<br/>nincsen itt a te édesanyád, sej, aki megsiratna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne sirasson engem senki, jól vagyok tanítva,<br/>sem lépésbe', de sem vágtába' sej, le nem esek róla.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert a huszár a nyeregbe bele van teremtve,<br/>mint a rozmaring a jó földbe, sej, belegyökerezve.</lines>
+    </verse>
+  </lyrics>
+</song>

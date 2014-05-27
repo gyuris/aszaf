@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Naphimnusz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mérhetetlen Úr, ki vagy a kéklő mennyekben:<br/>Téren innen s túl igazak ajka hirdessen;<br/>Testvérünk, a Nap, nevedet zengje szárnyalva nagy fennen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjen a Hold, halaványarcú húgocskánk,<br/>S mind a termő Ég, akiben annyi csillag szánt;<br/>Dicsérjen a Föld, patakot, rétet ringatva, bölcs dajkánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Friss nénénk, a Szél, mikoron zúgva gátat tép;<br/>Öcskösünk a tűz, egeket járva táncosképp;<br/>Áldjon minden szív, örökkön ifjú, mennybéli Fényesség!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Bércen túl…</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bércen túl már nyugszik a nap, esteli szél, hozz jó álmot!<br/>Békés éjjel jő a földre, hint a tájra harmatot.<br/>S majd ha az új nap ébred, éled, nótás ajkunk dalba fog.</lines>
+    </verse>
+  </lyrics>
+</song>

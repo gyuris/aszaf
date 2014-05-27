@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Üdvözlégy…</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, kegyes Szent László király,<br/>Magyarországnak édes oltalma,<br/>szent királyok közt drágalátos gyöngy,<br/>csillagok között fényességes csillag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Testedben tiszta, lelkedben fényes,<br/>szívedben bátor, miként oroszlán,<br/>azért neveztek Bátor Lászlónak,<br/>mikoron még csak ifjú férfi voltál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az igazságnak valál bírója,<br/>nem volt idődben gonoszul tévő,<br/>a szegényeknek erős oltalma,<br/>irgalmasságnak jeles követője.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te dicsekedtél király székedben,<br/>képed föltették magas kőszálra,<br/>fénylik mint a nap, salyog mint arany,<br/>nem elégszik senki terád nézni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjük, magyarok, Szent László királyt,<br/>bizony érdemli dicséretünket,<br/>dicsérik őtet angyalok, mondván:<br/>Üdvözlégy, kegyes Szent László király!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Rákóczi Ferenc imádsága</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Győzhetetlen én kőszálom,<br/>Védelmezőm és kővárom!<br/>A keresztfán drága árom,<br/>Oltalmamat tőled várom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sebeidnek nagy voltáért,<br/>Engedj kedves áldozatért,<br/>Drága szép, piros véredért,<br/>Kit kiöntél e világért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutass, Jézus, kies földet,<br/>Lakásomra adj jó helyet,<br/>Ez életben csendességet,<br/>Jövendőben üdvösséget.</lines>
+    </verse>
+  </lyrics>
+</song>

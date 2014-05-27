@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>A csitári…</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A csitári hegyek alatt régen leesett a hó.<br/>Azt hallottam, kisangyalom, véled esett el a ló.<br/>Kitörted a kezedet, mivel ölelsz engemet,<br/>Így hát, kedves kisangyalom, nem lehetek a tied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amoda le van egy erdő, jaj, de nagyon messze van,<br/>Közepibe, közepibe két rozmaring bokor van.<br/>Egyik hajlik vállamra, másik a babáméra,<br/>Így hát, kedves kisangyalom, tied leszek valaha.</lines>
+    </verse>
+  </lyrics>
+</song>

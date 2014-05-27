@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Hunyadi, bízzál!</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hunyadi, bízzál, a nép melletted áll,<br/>Elszántan védjük e meggyötört hazát.<br/>Zászlódat követjük tűzön-vízen át,<br/>Elűztük végre az ozmánok hadát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezesd a népet, csak őbenne higgy,<br/>Szívére tűzd a kereszted jelét.<br/>S a pogányok ellen győzelemre vidd<br/>A puszta karddal Jézus szent nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

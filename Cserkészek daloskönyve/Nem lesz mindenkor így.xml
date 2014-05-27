@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Nem lesz mindenkor így</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem lesz mindenkor így, szívedben bús ne légy;<br/>El ne hagyd magadat, várjad jobb sorsodat;<br/>A szerencse változik, Naptúl felleg távozik,<br/>Szívedben bús ne légy, nem lesz mindenkor így.</lines>
+    </verse>
+  </lyrics>
+</song>

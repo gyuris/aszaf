@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Forrjon össze</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forrjon össze dalban ajkunk, úgy, amint szívünk is egy.<br/>Hogyha vígan összetartunk, munka, harc sikerre megy.<br/>Váll a vállhoz, kéz a kézbe', ez a cserkész jóba', vészbe'!<br/>Váll a vállhoz, kéz a kézbe', ez a cserkész jóba', vészbe'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liliomnak hordjuk ékét tiszta, bátor szív felett,<br/>Mely legyőzi szenvedélyét, és segít, ahol lehet.<br/>Váll a vállhoz, kéz a kézbe', ez a cserkész jóba', vészbe'!<br/>Váll a vállhoz, kéz a kézbe', ez a cserkész jóba', vészbe'!</lines>
+    </verse>
+  </lyrics>
+</song>

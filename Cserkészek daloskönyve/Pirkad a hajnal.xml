@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Pirkad a hajnal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pirkad a hajnal és zengnek a madarak, hő ima száll fel az égre.<br/>Ébred a tábor a réten, a hegy alatt, odasüt a napnak fénye.<br/>Ajkunk víg dala csendül és üde tisztán zakatol a szív;<br/>Jöjjön a munka, jöjjön a játék, s győzzön a krisztusi béke!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rőtszínű alkony a távoli hegyeken, csend van a völgyben, a réten.<br/>Csillagok tábora felragyog odafenn, kel a telihold az égen.<br/>Ajkunk víg dala csendül és üde tisztán zakatol a szív;<br/>Hála-imádság röppen az Úrhoz s alszik a tábor az éjben.</lines>
+    </verse>
+  </lyrics>
+</song>

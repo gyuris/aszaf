@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Klementina balladája</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy bányában, egy tárnában élt egy bányász egymaga,<br/>Vele lakott magányában leánya, Klementina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lenge volt ő, mint a szellő, a cipője oly parány;<br/>Konzervdoboz üres alja szolgált néki, mint szandál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Egy nap reggel, pont kilenckor kiment a tó partjára,<br/>Megcsúszott és beleesett, így lett szörnyű halála.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Láttam én őt elmerülni s a habokkal küzdeni,<br/>Mivel úszni nem tanultam, nem tudtam kimenteni.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Édesapja, a jó bányász belehalt bánatába,<br/>S utána ment leányának százhúsz éves korába'.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Klementinát nem feledtem, de megláttam kis húgát,<br/>Egyszeriben boldog lettem, s feledtem Klementinát.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Klementina ma is élne – hiszitek-e hát fiúk?<br/>Ha cserkészhez hasonlóan minden ember úszni tud.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Ó, a kedves, ó, a drága, jaj, de hamar elmúla,<br/>Elpusztultál, megfulladtál, jaj nekem, Klementina!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>A nap nyugodni tér</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nap nyugodni tér.<br/>Leszáll a csendes éj,<br/>Már búcsút mondunk.<br/>A tölgy, a bérc alatt,<br/>Oly búsan bólogat,<br/>Mert el kell válnunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg jő a pirkadat,<br/>És újra kél a nap,<br/>Én ébren várlak.<br/>Ha zeng majd száz madár,<br/>S a selymes pille száll,<br/>Hát újra látlak!</lines>
+    </verse>
+  </lyrics>
+</song>

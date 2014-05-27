@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Székely himnusz</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki tudja, merre, merre visz a végzet, göröngyös úton, sötét éjjelen.<br/>Segítsd még egyszer győzelemre néped, Csaba király a csillagösvényen.<br/>Maroknyi székely porlik, mint a szikla, népek harcától zajló tengeren.<br/>Fejünk az ár ezerszer elborítja; ne hagyd el Erdélyt, Erdélyt, Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Dán cserkészdal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te hősi nemzedék, te bátor, jó csapat,<br/>A léptedet ma védi, óvja Isten és hazád,<br/>Hogy meg ne tántorodj, hogy győzd le önmagad,<br/>S a küzdelembe' célhoz érve: vár a pálmaág!<br/>Ha tenni kell, a szépre, jóra nyisd a két szemed,<br/>A lelkiismeret szavára másokért teszed...<br/>Mi hősi nemzedék, mi bátor, jó csapat,<br/>Mi cserkészek vagyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi cserkészek vagyunk, ha tartotok velünk,<br/>A napsugár is énekel, mi véle ébredünk.<br/>Ha rádhajolt az est, a csillagot keresd,<br/>A holdvilág fölött szemed csak Alkotódra vesd!<br/>Az esti szél, a tűz, a víz, a régi jóbarát,<br/>A bérc, a völgy, a gerle párja zengi víg dalát.<br/>Mi cserkészek vagyunk, no tartsatok velünk,<br/>Mi cserkészek vagyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

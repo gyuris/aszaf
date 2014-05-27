@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Megrakják a tüzet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megrakják a tüzet, mégis elaluszik,<br/>Nincs az a szerelem, ami el nem múlik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rakd meg, babám, rakd meg lobogó tüzedet,<br/>Hadd melegítsem meg gyönge kezeimet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyönge lábam fázik, köpönyegem ázik,<br/>Piros pej paripám kert alatt bánkódik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meggyújtják a tüzet, jaj, ha elaluszik!<br/>Jézus szeme rajtam, a lángomban bízik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rakd meg, Uram, rakd meg lángoló tüzedet,<br/>Hadd melegítse meg a dermedt lelkeket.</lines>
+    </verse>
+  </lyrics>
+</song>

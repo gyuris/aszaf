@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:36">
+  <properties>
+    <titles>
+      <title>Regős II.Induló</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne fuss, ne fuss, ne fuss, Szent István királyunk,<br/>Mi nem vagyunk ördögök, hanem te szolgáid.<br/>Haj, regő rajta, azt is megadhatja az a nagy Úristen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kelj fel, gazda, kelj fel, szállott Isten házadra,<br/>Sereg angyalával, vetett asztalával, tele poharával.<br/>Haj, regő rajta, azt is megadhatja az a nagy Úristen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjon az Úristen ennek a gazdának<br/>Két kis ólat, meg egy koszos malacot.<br/>Az egyikből kifusson, a másikba befusson.<br/>Haj, regő rajta, azt is megadhatja az a nagy Úristen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adjon az Úristen ennek a gazdának<br/>Négy kis ökröt, két kis bérest,<br/>Csengős-pengős szekeret, arany ostornyelet,<br/>Hadd vigye továbbra szegény regölőket.<br/>Haj, regő rajta, azt is megadhatja az a nagy Úristen.</lines>
+    </verse>
+  </lyrics>
+</song>

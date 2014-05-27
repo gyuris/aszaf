@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Cantio Optima</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siralmas énnékem tetőled megválnom,<br/>áldott Magyarország, tőled eltávoznom,<br/>vajon s mikor lészen jó Budában lakásom?!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Felföldet bírják az kevély németek,<br/>Szerémséget bírják az fene törökök,<br/>vajon s mikor lészen jó Budában lakásom?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Engemet kergetnek az kevély németek,<br/>engem körülvettek az pogány törökök,<br/>vajon s mikor lészen jó Budában lakásom?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Engem eluntattak az magyari urak,<br/>kiűzték közülük az egy igaz Istent,<br/>vajon s mikor lészen jó Budában lakásom?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen Isten hozzád, áldott Magyarország,<br/>mert nincsen tebenned semmi nagy uraság,<br/>vajon s mikor lészen jó Budában lakásom?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ez éneket szerzék jó Husztnak várában,<br/>Bornemissza Péter az ő víg kedvében,<br/>vajon s mikor lészen jó Budában lakásom?</lines>
+    </verse>
+  </lyrics>
+</song>

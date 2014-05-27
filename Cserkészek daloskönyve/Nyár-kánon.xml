@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:38">
+  <properties>
+    <titles>
+      <title>Nyár-kánon</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Künn a fákon újra szól a víg kakukkmadár,<br/>Napsugárban úszik minden, száll az illatár:<br/>Nyár van, nyár!<br/>Röpke lepke száll virágra, zümmög száz bogár,<br/>Lombos ágon csókot vált az ifjú gerlepár:<br/>Nyár van, nyár van, kakukk szól már a fák közt:<br/>„Kakukk, be szép a nyár!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Summer is icumen in Lhude sing cuccu,<br/>Groweth sed and bloweth med, and springth the wdenu;<br/>Sing cuccu;<br/>Awe bletheth after lamb, lhouth after calwe cu;<br/>Bulluc stertheth, bucke vertheth, mu rie sing cuccu,<br/>Cuccu, cuccu, wel singes thu cuccu, Ne swik thu navernu.</lines>
+    </verse>
+  </lyrics>
+</song>

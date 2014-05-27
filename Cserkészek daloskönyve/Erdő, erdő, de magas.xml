@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:37">
+  <properties>
+    <titles>
+      <title>Erdő, erdő, de magas</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erdő, erdő, de magas a teteje.<br/>Jaj, de régen lehullott a levele,<br/>Jaj, de régen lehullott a levele,<br/>Árva madár párját keresi benne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Búza közé szállt a dalos pacsirta,<br/>Mert odafönt a szemeit kisírta,<br/>Búzavirág, búzakalász árnyába'<br/>Rágondol a régi első párjára.</lines>
+    </verse>
+  </lyrics>
+</song>
