@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ki negyven nap előtt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki negyven nap előtt üdvösségünkre<br/>Lejöttél az égből bűnös földünkre,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki a Szűz méhében testbe öltöztél,<br/>Hogy megmentsd az embert, emberré lettél,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy bár királya égnek és földnek,<br/>A jászolt választád szegény bölcsődnek,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki eget és földet felékesíted,<br/>Itt anyád pólyába takar be téged,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki táplálsz bőséggel minden lelkeket,<br/>Szűz anyád kebelén szívsz itt szent tejet,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kit a hív pásztorok és a szent bölcsek<br/>Imádtak, tiszteltek, megüdvözöltek,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kit, midőn a kellő napok elmúltak,<br/>Bemutat Szűzanyád e nap az Úrnak,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kit az ősz Simeon karjára felvett,<br/>Áldván az isteni magas kegyelmet,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ki értünk véredet bőven ontottad,<br/>Érted egy galambpár lett az áldozat,<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ki példánk, Istenünk, Atyánk, testvérünk,<br/>Megváltónk, Urunk vagy: irgalmazz nékünk.<br/>Szállj be lelkünk hajlékába,<br/>Ó világ világossága!</lines>
+    </verse>
+  </lyrics>
+</song>

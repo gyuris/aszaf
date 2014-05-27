@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Az Atyának egy Fiát, kit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Atyának egy Fiát, kit öröktől nemzett,<br/>Éjfél után elfogák, igaz Isten-embert.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Messze futnak társai, elszakadva tőle,<br/>A zsidóság éktelen csúfot űz belőle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pilátushoz elvivék őt hat óra tájban,<br/>S hamis tanúk vádolák, mint gonoszt, szavában.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megkötözvén két kezét, csapdosák orcáját,<br/>Rútul összeköpdösék égderült világát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy kilenc volt, lárma lőn: „Csak feszítsd fel őtet”,<br/>S a gonosz nép rá veres gúnyruhát terített.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tövisekből koronát tettek szent fejére:<br/>Visz keresztet vállain büntetés helyére.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Volt tizenkét óra, hogy a keresztre vonták,<br/>S két lator közt keresztfán fel is állították.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kínok miatt szomjazék, s ők epét adának<br/>Annak, aki elvevé bűnét e világnak.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Halálra ment délután három óra tájban,<br/>„Fogadd, Atyám, lelkemet!” mondta végszavában.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Pogány vitéz oldalát tőrrel átlyukasztá,<br/>Rengett a föld és a nap fényét elfogyasztá.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>A keresztről levevék még aznap délestén,<br/>Benne életerejét istensége rejtvén.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Nézd, ó bűnös, így hal az, kiben élted támad,<br/>Sírj fölötte s törje meg szíved a bűnbánat.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Betakarták alkonyon sziklasír ölébe<br/>A szent testet, mely jövő életünk reménye.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>A próféták szavai megvalósodának,<br/>Messiásban vártak ők üdvöt a világnak.</lines>
+    </verse>
+  </lyrics>
+</song>

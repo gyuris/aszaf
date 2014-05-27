@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Jertek, keresztény hívek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek, keresztény hívek, az Istent dicsérni!<br/>Áldást ad mindenkinek, aki bízva kéri.<br/>Övé e szent áldozat, a kenyér s boráldás,<br/>Mely szentséggé változik, hirdeti az Írás.<br/>Uram irgalmazz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Néked, édes Istenünk, áldás fenn a mennyben!<br/>Békességet adj nekünk, embereknek itt lenn.<br/>Téged, Isten, jó Atyánk, tiszta szívvel áldunk,<br/>Téged, édes Jézusunk, lelkünkből imádunk.<br/>Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istentől jó minekünk üdvösség igéje,<br/>Mindennek, amit hiszünk, ő a szent szerzője.<br/>Maga Isten megtanít minket minden jóra,<br/>Boldog, aki figyelmez az isteni szóra.<br/>Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszünk, vallunk, tégedet, Háromság egy Isten!<br/>Jöjj, erősítsd népedet ez igaz, szent hitben.<br/>Atya, Fiú, Szentlélek, minden ember áldjon,<br/>Erősségünk idelenn és a másvilágon.<br/>Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó fogadd kegyelmesen lelkünk áldozatját,<br/>Vétkeikért hűtelen gyermekeid adják.<br/>Ámulat vesz itt erőt gyenge emberészen:<br/>Ami bor volt és kenyér, testté, vérré lészen.<br/>Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent vagy, édes Istenünk, Szábaoth nagy Isten!<br/>Kit dicsér az ég velünk és a földön minden.<br/>Urunk, legyen nagy neved mindörökre áldva!<br/>Esdve kérünk, jöjj közénk, szállj le az oltárra!<br/>Uram, irgalmazz!</lines>
+    </verse>
+  </lyrics>
+</song>

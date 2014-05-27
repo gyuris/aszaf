@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Immár a nap leáldozott</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="310"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immár a nap leáldozott,<br/>Teremtőnk, kérünk tégedet,<br/>Légy kegyes és maradj velünk,<br/>Őrizzed, óvjad népedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A gonosz álmok fussanak,<br/>És minden éji képzelet,<br/>Az ellent kösse meg kezed,<br/>Testünket hogy ne rontsa meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add nekünk, édes jó Atyánk,<br/>Egyszülött Krisztus, add nekünk,<br/>Szentlélekisten, vigaszunk,<br/>Kegyelmes, őrző Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

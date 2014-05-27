@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Te vagy földi éltünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy földi éltünk vezércsillaga,<br/>Édes reménységünk, kegyes Szűzanya.<br/>Téged rendelt jó Anyánknak az Isten Fia,<br/>Azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te hajnalcsillag vagy éltünk hajnalán,<br/>Hogy kövessünk annak egész folyamán.<br/>Téged rendelt jó Anyánknak az Isten Fia,<br/>Azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te reménycsillag vagy éltünk tengerén,<br/>Átragyogsz minden bú és baj fellegén.<br/>Téged rendelt jó Anyánknak az Isten Fia,<br/>Azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te mint reménycsillag mosolyogsz felénk,<br/>Ha tűrve s Istenben bízva szenvedénk.<br/>Téged rendelt jó Anyáknak az Isten Fia,<br/>Azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És ha elközelget éltünk alkonya,<br/>Te vagy vigaszteljes esti csillaga.<br/>Téged rendelt jó Anyánknak az Isten Fia,<br/>Azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

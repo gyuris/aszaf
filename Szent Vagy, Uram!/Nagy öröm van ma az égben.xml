@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Nagy öröm van ma az égben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy öröm van ma az égben, örvendezzünk, keresztények,<br/>Szenteljük e dicső napot Mindenszentek ünnepének.<br/>Gyülekezzünk szívesen, énekeljünk lelkesen:<br/>Mindenszentek, üdv tinéktek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Millió szent énekel ma fönt az égben Alleluját,<br/>Angyalkarok harsonái lelkesülve, híven fújják:<br/>Üdv, dicsőség, glória néked, Isten egy Fia,<br/>Egek, földek mind ezt zúgják.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus Urunk tanítása volt a szentek lelki étke,<br/>Kínálták az apostolok s ifjak, aggok éltek véle.<br/>Mi is hívőn hallgatjuk, mindenkoron megtartjuk<br/>Szentjeinknek örömére.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lángoló hit lobogott a Mindenszentek hű szívében,<br/>Azért vannak koszorúsan az Úr Jézus közelében.<br/>Bennünk is él a szent hit: hisszük örök tanaid,<br/>Így leszünk fönt mi is égben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Felajánljuk Néked, Urunk, e legszentebb áldozatot,<br/>Fogadd véle szívünket is, mit bűnbánat általhatott.<br/>Szent Fiadnak keresztje, Mindenszentek érdeme<br/>Nyerjen nékünk bocsánatot.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent vagy, Isten! ezt éneklik szentjeid az égi honban,<br/>Hódolatos énekükkel a szívünk is összedobban.<br/>Térdrehullva dicsérünk, teljesítsd a reményünk,<br/>Hogy láthassunk országodban.</lines>
+    </verse>
+  </lyrics>
+</song>

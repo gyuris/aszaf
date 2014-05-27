@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Mit bízik e világ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit bízik e világ ő álnokságában,<br/>Kinek szerencséje vagyon elromlásban:<br/>Ő hatalmassága haszontalanságban,<br/>Miként agyagedény vagyon elromlásban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többet higgy a jégre feljegyzett betűknek,<br/>Hogysem mint e világ hízelkedésének;<br/>És ne higgy, mert megcsal, szép ígéretének,<br/>Mert soha nem talál bért reménységének.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inkább lehet hinni hamis férfiaknak,<br/>Hogysem mint e világ árnyék hívságának,<br/>Testi és mulandó mutogatásának,<br/>Ártalmas és csalárd okoskodásának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hová lett Salamon ő bölcsességével?<br/>Avagy hol van Sámsom nagy erősségével?<br/>Hol vagyon Absalon szép ékességével?<br/>Avagy hol Jonatás kedveskedésével?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hová lett Julius hatalmasságával?<br/>Avagy a Dúsgazdag ő lakodalmával?<br/>Mondd meg, hol Tullius ékesszólásával?<br/>Vagy Aristoteles mély tudományával?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ily nemes férfiak, ily fő nemzetségek,<br/>Ily nagy uraságok s fejedelemségek,<br/>Ily nagy birodalmak s ily nagy erősségek<br/>Egy szempillantásban elmúlnak mindenek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jaj, rövid ünneplés e világ szépsége,<br/>Mint testnek árnyéka, csak olyan öröme;<br/>De örök boldogság örök elvesztése<br/>És sötét mélységre embernek vivése.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ne mondd hát tiednek, ami elveszendő,<br/>Amit ad e világ, azt visszaveendő.<br/>Mennyei dolgokat légy hát keresendő:<br/>Ez boldog kereset, ez el nem veszendő.</lines>
+    </verse>
+  </lyrics>
+</song>

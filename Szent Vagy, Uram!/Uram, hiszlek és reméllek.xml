@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Uram, hiszlek és reméllek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Vallom magam kereszténynek, hitelt adok mindeneknek,<br/>Amit Krisztus hitén vallnak, mert mindezek Tőled vannak.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Hiszem, hogy csak egy Isten van, ámbár három személye van,<br/>Ki a jókat jutalmazza, gonoszokat ostorozza.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek<br/>Hiszem Krisztust, Isten Fiát, e világnak megváltóját,<br/>Ki a mennyből alászállott, emberré lett és megváltott.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Hiszem, vallom a Szentlelket, vigasztaló örömünket,<br/>Ki szívünket megszentelte, kegyelmekkel betöltötte.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Benned, Uram, reménységem, hogy elnyerem üdvösségem;<br/>Mert bűneim megbocsátod, megtérésem hogyha látod.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Szeretlek nagy jóságodért, emberekhez irgalmadért.<br/>Mást kívüled nem óhajtok, sem nagyobbnak nem állítok.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Bánom minden bűneimet, nézd törődött bús szívemet.<br/>Inkább mindjárt halni megyek, mint a bűnnek rabja legyek.<br/>E szent hitben, reménységben, szeretetben erősíts.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Uram, hiszlek és reméllek, tiszta szívből szeretlek.<br/>Engedd meg, hogy végórámban legyenek e szavak számban,<br/>És szívemben följegyezve, s koporsómra fölszegezve:<br/>Uram, hiszlek és reméllek, tiszta szívből szeretlek.</lines>
+    </verse>
+  </lyrics>
+</song>

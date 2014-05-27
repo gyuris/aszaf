@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Kereszten haldokló kegyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kereszten haldokló kegyes Jézusom,<br/>Jövök, én tékozló, Hozzád, orvosom.<br/>Nagy bűnökkel telten eléd térdepeltem,<br/>Én kegyes Jézusom, tisztítsd meg a lelkem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lábadnál, Jézusom, vezekelni jó.<br/>Én gőgös homlokom a porba való.<br/>Most tudom, mit érek, bűnös emberféreg,<br/>Most tudom: por vagyok, és a porba térek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szórjad, ó Istenem, főmre hamudat!<br/>Bánat és kegyelem tisztaságot ad.<br/>Én vétkem, én vétkem, én igen nagy vétkem<br/>Lábadnál levetem töredelmességben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én kegyes Jézusom, Tied vagyok én!<br/>Mennyei orvosom, egyetlen remény.<br/>Csak egy, amit kérek: majd, ha porba térek,<br/>Lássa meg arcodat a megtisztult lélek.</lines>
+    </verse>
+  </lyrics>
+</song>

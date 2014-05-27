@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Mikor reggel lelkem újra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor reggel lelkem újra ébred,<br/>Isten előtt hajtok előbb térdet.<br/>Édes nékem Uramat dicsérnem,<br/>Ki új napot engedett megérnem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Homlokomra kereszt jelét írom,<br/>Hálaszóval őrangyalom hívom,<br/>Gyermekmódra bízom magam erre,<br/>Hogy egész nap gondomat viselje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallgatom a friss madarak hangját,<br/>Víg dalaik szívemet meghatják.<br/>Sietek az Úr házába menni,<br/>Imádkozni s új malasztját venni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Két kezemet összeteszem kérve,<br/>Föltekintek a jóságos égre,<br/>Istenemet magasztalom, áldom,<br/>Hiszen annyi kegyességét látom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Embereknek könyörülő Atyja,<br/>Kitől lelkem minden napját kapja,<br/>Ez új napért néked hálát mondok,<br/>S kérlek, viselj ma is reám gondot.</lines>
+    </verse>
+  </lyrics>
+</song>

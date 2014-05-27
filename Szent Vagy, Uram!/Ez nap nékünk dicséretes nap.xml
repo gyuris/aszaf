@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Ez nap nékünk dicséretes nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ez nap nékünk dicséretes nap, napja vigasságunknak,<br/>Új bizodalma váltságunknak,<br/>Ma született Betlehemben Szűz Máriának<br/>Úr Jézus Krisztus, mi Megváltónknak.<br/>Áronnak vesszeje kivirágozék,<br/>Tiszta Szűztől gyermek születék,<br/>Mennyei királyul nékünk adaték,<br/>Krisztusnak, Jézusnak nevezteték.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez a Gyermek, kit az Atyáknak ígért Isten: Ádámnak,<br/>Pátriárkáknak, Ábrahámnak,<br/>Kiben minden nemzetségek megáldatának,<br/>Életre majdan mind feltámadnak.<br/>Áronnak vesszeje kivirágozék,<br/>Tiszta Szűztől gyermek születék,<br/>Mennyei királyul nékünk adaték,<br/>Krisztusnak, Jézusnak nevezteték.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megtört immár ördög hatalma, a halálnak országa,<br/>Pokloknak, bűnnek birodalma,<br/>Megnyittaték mennyországnak erős kapuja,<br/>Istennek kedve mireánk szálla.<br/>Áronnak vesszeje kivirágozék,<br/>Tiszta Szűztől gyermek születék,<br/>Mennyei királyul nékünk adaték,<br/>Krisztusnak, Jézusnak nevezteték.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adjunk az Úristennek, Atya-Fiú-Léleknek,<br/>És örvendezzünk a Gyermeknek.<br/>Nagy örömet az angyalok nékünk hirdetnek,<br/>Dicsérik Istent, úgy énekelnek.<br/>Áronnak vesszeje kivirágozék,<br/>Tiszta Szűztől gyermek születék,<br/>Mennyei királyul nékünk adaték,<br/>Krisztusnak, Jézusnak nevezteték.</lines>
+    </verse>
+  </lyrics>
+</song>

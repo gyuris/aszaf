@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Angyaloknak királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angyaloknak királynéja, tiszta Szűz!<br/>Kérjed a Te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pátriárkák királynéja, tiszta Szűz!<br/>Kérjed a Te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prófétáknak királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Apostolok királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vértanúknak királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hitvallóknak királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A szűzeknek királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mindenszentek királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Rózsafüzér királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Békességnek királynéja, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj értünk!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Magyarország Nagyasszonya, tiszta Szűz!<br/>Kérjed a te szent Fiadat érettünk.<br/>Ékes virágszál, hozzád esdeklünk,<br/>Szép szűz Mária! könyörögj érettünk!</lines>
+    </verse>
+  </lyrics>
+</song>

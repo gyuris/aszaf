@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Lelkem tiszta lánggal ég</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem tiszta lánggal ég, ó Mária, éretted.<br/>Rólad szólnom édesség, szívem úgy megilletted.<br/>Hogy szerelmeddel fölbátorítál,<br/>Kegyességeddel hűn ápolgattál,<br/>Köszönöm, mint Anyámnak, kegyelmes pátrónámnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok bajban és veszélyben segítettél s megvédtél,<br/>Az Istentől énnekem sok-sok áldást megnyertél.<br/>Ha fohászkodtam, hozzád szólottam,<br/>Tőled mennyei jókhoz jutottam,<br/>Köszönöm, mint Anyámnak, kegyelmes pátrónámnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Azért, míg csak élhetek, tiszta szívből dicsérlek;<br/>Dicsérjen is tégedet földön minden jó lélek.<br/>Ó nagy Szeretet, érdemem felett<br/>Rám terjesztetted kegyességedet;<br/>Köszönöm, mint Anyámnak, kegyelmes pátrónámnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mivel tehát magadat hív anyámnak mutattad,<br/>Szegény bűnös fiadat jóságodra méltattad:<br/>Ínség ha jő rám, ha üt végórám,<br/>Te is, Szűzanyám, siess énhozzám.<br/>Te szakaszd el éltemet, vidd Jézushoz lelkemet.</lines>
+    </verse>
+  </lyrics>
+</song>

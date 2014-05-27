@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Oltáriszentség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Oltáriszentség!<br/>Csodálatos szent istenség!<br/>Téged szívből mind imádunk,<br/>Oltárodnak trónján áldunk.<br/>Üdvözlégy, szent Szakramentom!<br/>Százezerszer, meg ezerszer, én Jézusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha szenteknek nagy szívével,<br/>Angyaloknak lángnyelvével<br/>Köszönthetne minden lélek,<br/>Méltón úgy sem dicsérnének.<br/>Üdvözlégy, szent Szakramentom!<br/>Százezerszer, meg ezerszer, én Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öntsd szívembe olajodat,<br/>Égesd benne világodat;<br/>Nagy Szentség! ó térj be hozzám,<br/>Mert szívem csak Téged kíván.<br/>Üdvözlégy, szent Szakramentom!<br/>Százezerszer, meg ezerszer, én Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Életünknek végóráján,<br/>Hogy ne ejtsen meg a Sátán,<br/>Te légy erős én gyámolom,<br/>Mert csak nálad az oltalom.<br/>Üdvözlégy, szent Szakramentom!<br/>Százezerszer, meg ezerszer, én Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó áldott Szűzanya, mennyei</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó áldott Szűzanya, mennyei szép Rózsa,<br/>Boldog mennyországnak drága gyöngyvirága,<br/>Bűnösöknek ékes szószólója.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajtsd hozzánk, ó Anyánk, angyali orcádat,<br/>Áldott szent Fiadat érettünk imádjad,<br/>Hogy láthassuk mennyekben Atyánkat.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily boldogok azok, kik téged dicsérnek,<br/>Buzgó szívvel neked vígan énekelnek,<br/>Szent Fiadnál azok kedvet lelnek.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Szentháromságnak szolgálóleánya,<br/>Adj erőt népednek dicséretmondásra,<br/>Szent nevedet hogy örökké áldja.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Üdvözlégy, áldott légy, Jézusnak dajkája,<br/>Szegény bűnösöknek kegyes szószólója.<br/>Szolgáidnak légy meghallgatója.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tenger fövenyének mennyi sokasága,<br/>Tavaszi rózsáknak drága szép virága,<br/>Krisztus Anyja, annyiszor légy áldva!<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Alázatos szívvel kérünk, kegyes Anyánk,<br/>Hogy amikor eljön a mi végső óránk,<br/>Jobbkéz felől állítson szent Atyánk.<br/>Vigyázz reánk, Édesanyánk,<br/>Angyaloknak kegyes királynéja.</lines>
+    </verse>
+  </lyrics>
+</song>

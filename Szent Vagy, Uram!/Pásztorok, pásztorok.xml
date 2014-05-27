@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Pásztorok, pásztorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok, pásztorok örvendezve<br/>Sietnek Jézushoz Betlehembe;<br/>Köszöntést mondanak a kisdednek,<br/>Ki váltságot hozott az embereknek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok szózata minket is hív,<br/>Értse meg ezt tehát minden hű szív;<br/>A kisded Jézuskát mi is áldjuk,<br/>Mint a hív pásztorok, magasztaljuk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözlégy, kis Jézus! reménységünk,<br/>Aki ma váltságot hoztál nékünk.<br/>Meghoztad az igaz hit világát,<br/>Megnyitád szent Atyád mennyországát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőség, imádás az Atyának,<br/>Érettünk született szent Fiának,<br/>És a vigasztaló Szentléleknek,<br/>Szentháromságban az egy Istennek.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Imádjuk a testet és vért</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="311"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádjuk a testet és vért,<br/>Mely keresztfán vétkeinkért<br/>Áldozat lőn Istennek,<br/>Üdvösség az embernek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd a kínt, mit a keresztnél,<br/>Ó Szűzanyánk, elviseltél,<br/>S kérj Fiadtól minékünk<br/>Kegyelmet, hogy megtérjünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Máriának megajánla<br/>Minket Isten szent Báránya,<br/>A keresztről így szólván:<br/>Ím anyád, hű tanítvány!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kérd, hogy a szent békességet<br/>Jézustól megnyerje néped:<br/>Magyarok Nagyasszonya,<br/>Kérj áldást a hazára.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lelkünk Fiad szent testében<br/>Hogyha részt vesz, tiszta légyen,<br/>Mint te, midőn holtteste<br/>Letéteték kezedbe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Életünkre s végóránkra<br/>Kérj áldást, ó Isten Anyja!<br/>Hogy példádat követve,<br/>Feljuthassunk egekbe.</lines>
+    </verse>
+  </lyrics>
+</song>

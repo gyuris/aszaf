@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Egek ékessége, földnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egek ékessége, földnek dicsősége, Magyarok Asszonya, királynéja!<br/>Hozzád buzgó szívvel, köteles hűséggel járulunk, szentséges Szűz Mária.<br/>Mint pátrónánkhoz, édes Anyánkhoz teljes reménységgel folyamodunk,<br/>És minden inségben fohászkodunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints le jó szívvel, irgalmas szemeddel a mi szent eleink kérelmére;<br/>Jöjj örökségednek, rettegő népednek, jöjj, kérünk, ó Anyánk, védelmére.<br/>Míg bennünk egy ér mozdul s egy csepp vér, nem szűnünk tégedet hűn tisztelni,<br/>Kegyes jóvoltodat emlegetni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert belénk ontatott, szívünkbe oltatott eleink vérével szereteted,<br/>Azért fenn is marad, soha ki nem szakad magyarok szívéből tiszteleted.<br/>Ettől, ó szent Szűz, szívünk ég, mint tűz, és téged mindenkor kész tisztelni,<br/>Hűségét vérével pecsételni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mivel, hogy makula nincs benned, szép rózsa, az Atyaisten mond leányának,<br/>Mennyei ékedben, királyi székedben a Fiú tégedet hív Anyjának.<br/>Nagy kegyelméből, égi tetszésből szólít a Szentlélek mátkájának,<br/>Vall a Szentháromság templomának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A napfény trónusod, a szép hold zsámolyod, a magas kék egek te sátorod,<br/>Ragyognak fejeden ékesen, fényesen, mint égi korona, a csillagok.<br/>Ami él s mozdul, tehozzád fordul, mert egész ég és föld kereksége<br/>Az Isten Anyjának öröksége.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogy te légy segítőnk, bajban erősítőnk Isten kiválasztott bús szíveknek.<br/>Hatalmas szent szavad, meghallgat szent Fiad s megnyered bőségét kegyelmeknek.<br/>Nincsen oly szükség, nincs oly nagy ínség, melyre nem hathatós égben szavad,<br/>Melyből nem menthetnéd szolgáidat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Azért, Nagyasszonyunk, hozzád fohászkodunk, hallgasd meg esdeklő kérésünket.<br/>Éhségtől, hadaktól, isteni haragtól, hirtelen haláltól ments meg minket.<br/>A végső órán mellettünk szólván, légy hozzánk irgalmas, Isten Anyja,<br/>Segíts az égbe, ó Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

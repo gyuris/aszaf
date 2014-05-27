@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Szállj szívünkbe, nagy Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szállj szívünkbe, nagy Isten, Lélekadó Lélek!<br/>Úgy lépjünk az oltárhoz, a szívünkben véled.<br/>Úgy szálljon fel énekünk áldozati füstje<br/>Ahhoz, aki vigaszul a Szentlelket küldte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség az Istennek magasságos mennyben.<br/>Békességet lásson itt minden igaz ember,<br/>Akiben a szeretet, a Szentlélek ébren,<br/>S jó akarat vezeti cselekedetében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Apostolok pünkösdnap összebújtak, félvén.<br/>Zúgás kelt a magasból, mint a sebes szélvész.<br/>Betöltötte házukat, tüzes nyelvek szálltak,<br/>És a gyenge félőkből harcos hősök váltak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszem, vallom boldogan, amit mond az Isten,<br/>Amit Krisztus elém ád egyházában hinnem.<br/>Hitemet a Szentlélek ajándéka szítja.<br/>Mennybe szegény lelkemnek hitem legyen hídja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ami legszebb, legnagyobb földön és az égen:<br/>Krisztus testét ajánljuk áldozatunkképpen.<br/>Szívemet is, szegénykét, fölajánlom rája,<br/>Tegye széppé, tüzessé a Szentlélek lángja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent, szent, szent, az Úristen, Atya, Fiú, Lélek!<br/>Ezt harsogja kórusa a nagy mindenségnek.<br/>A Szentlélek Úristen sóhajtozván bennünk<br/>Mondhatatlan szavakkal, ezt sóhajtja lelkünk.</lines>
+    </verse>
+  </lyrics>
+</song>

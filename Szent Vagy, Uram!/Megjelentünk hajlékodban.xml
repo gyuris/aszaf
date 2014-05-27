@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Megjelentünk hajlékodban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megjelentünk hajlékodban áldozatra, jó Atyánk,<br/>Letérdelünk áhítattal oltárodnak zsámolyán:<br/>Hogy dicsérjük Egyszülötted, Aki hozzád égbe szállt,<br/>Magasztaljuk és imádjuk a mennyei szent Királyt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjük az Isten-embert, Aki földről mennybe ment,<br/>Támasz nélkül el nem hagyta tanítványit idelent.<br/>Alapítá szent Egyházát, vezetőnknek rendelé,<br/>Ő vezérel biztos kézzel bennünket az ég felé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Három évig tanítónk volt az isteni Szeretet,<br/>Szóval, tettel, imádsággal oktatott és vezetett.<br/>Nagy művének végeztével földről égbe költözött,<br/>Diadalmas fényességgel dicsőségbe öltözött.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hisszük, amit Isten hirdet szent Egyháza szavával,<br/>És hogy egykor együtt élünk mennyországban fiával.<br/>Ki hajlékot készíteni ment előre mennyekbe,<br/>S az utolsó ítéletkor örök létbe vezet be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bemutatjuk alázattal a bort és a kenyeret,<br/>Legyen kedves ajándékunk, égi Atyánk, teneked.<br/>Szálljon imánk bizalommal Üdvözítőnk nyomdokán,<br/>Hol megváltó Fia mellett ül az Atya trónusán.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szegény bűnös ajándékát Jézus veszi kezébe,<br/>Úgy terjeszti alázattal az Úristen elébe.<br/>Véghetetlen érdeméből Szentség lesz az áldozat,<br/>Szent malasztja hatalmával mennyországba befogad.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent az Isten, magasztaljuk, s áldjuk egyre szent Fiát,<br/>Aki nékünk megnyitotta mennyországnak kapuját.<br/>Minden áldás és dicséret Téged illet, Mesterünk,<br/>Légy vezérünk, légy jutalmunk, melyet egykor elnyerünk.</lines>
+    </verse>
+  </lyrics>
+</song>

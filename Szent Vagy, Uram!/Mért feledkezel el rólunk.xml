@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Mért feledkezel el rólunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mért feledkezel el rólunk teljességgel, Jézusunk, királyunk?<br/>Látod, hogy naponkint szenvedünk annyi kínt, csak nő nyomorúságunk.<br/>Kínjaink epesztnek, mégis szent nevednek meghajol imádságunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ellenség így csúfol: „Istened merre, hol? Ki meghallgathasson?<br/>Honnan vársz oltalmat, atyai irgalmat, hogy megszabadíthasson?”<br/>Isten a paizsom, vélem van Jézusom, hogy lelkem megnyughasson.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj azért, nagy király, népednek mellé állj, szítsd fel a szívünket.<br/>Ellenségünk ellen, mely ébren szüntelen, védelmezd mi ügyünket.<br/>Sok nehéz kísértet, mely eddig úgy sértett, már ne marja lelkünket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj jót országunknak, megcsúfolt hazánknak, ne maradjunk kárba,<br/>A gonosz ellenség ne dicsekedhessék, hogy letiport a sárba.<br/>Hadd lássa a világ, hogy ki téged imád, nem könyörög hiába!</lines>
+    </verse>
+  </lyrics>
+</song>

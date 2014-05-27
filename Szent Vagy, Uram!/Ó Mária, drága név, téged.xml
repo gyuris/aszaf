@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó Mária, drága név, téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Mária, drága név, téged óhajt tiszta szív, Mária!<br/>Ha megzendül fülemben, vidámság kél szívemben, Mária!<br/>A buzgó szív, mely hozzád hív,<br/>Téged kíván dicsérni, szerelmedben elégni, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buzgósággal vigadván, lelkem téged óhajtván, Mária!<br/>Gerjed tiszteletedre, szent Fiadnak kedvére, Mária!<br/>Mert kegyelmet nem kereshet<br/>S nem találhat, csak annál, kinek Anyja te voltál, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged Isten megkedvelt, Szűzanyának ő rendelt, Mária!<br/>Téged illet dicséret minden angyal s szent felett, Mária!<br/>Ó kegyes Szűz, mindent elűzz,<br/>Ami minket rútíthat, Istentől eltaszíthat, Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztaság szűz virága, bús szívünknek vígsága, Mária!<br/>Elesteknek gyámola, bűnösöknek oltalma, Mária!<br/>Ó Mária, Jézus Anyja,<br/>Esedezzél érettünk, légy mindenkor mellettünk, Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Segítsd buzgó népedet, mely tiszteli nevedet, Mária!<br/>Hogy megtérjen Istenhez, üdvének kútfejéhez, Mária!<br/>Édes Anya, térítsd jóra,<br/>Kik a vétket szeretik, és az Istent megvetik, Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aki csak elgondolja s tiszta szívből megvallja: Mária!<br/>Add, hogy téged szeressen s élted útján kövessen, Mária!<br/>Kik dicsérünk, arra kérünk,<br/>Hogy mind egész életünkben írva legyen szívünkben: Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

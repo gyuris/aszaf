@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Szent Erzsébet Asszony</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="337"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Erzsébet Asszony életéről<br/>Emlékezzünk sok jótételéről.<br/>Mi is őtet kövessük, azon legyünk,<br/>Amit benne dicsérünk, cselekedjük.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Születék Erzsébet jó órában,<br/>Királyi atyátul székes várban.<br/>Mikor kezdett szólani nevekedvén,<br/>Első: Jézus szent neve vala nyelvén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szegényeknek egyszer télidőben<br/>Alamizsnát hordott kötényében;<br/>Mikor atyja korholá, ő szavára<br/>Kenyérkéből csupa friss rózsa vála.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindenét elosztá szegényeknek,<br/>Alamizsnát adván mindeneknek.<br/>Hogy kiveték özvegyen jószágából,<br/>Mégis jót tett másokkal fonásából.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldog szent halálán örülének<br/>Az angyalok s szépen éneklének,<br/>Háza felett daloló madárképben<br/>Dicsérték a jó Istent nagy szentjében.</lines>
+    </verse>
+  </lyrics>
+</song>

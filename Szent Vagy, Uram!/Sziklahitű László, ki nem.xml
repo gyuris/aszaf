@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Sziklahitű László, ki nem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="336"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sziklahitű László, ki nem ismersz félelmet,<br/>Légy ereje, pajzsa gyenge szívű népednek:<br/>Ingadozó lelkek, sok csapással vertek,<br/>Tőled kérnek védelmet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emberölő harcban a Gonosznak ártottál,<br/>Isten erejével síkra hitért szállottál,<br/>Fergeteges vészben, rendületlen, épen<br/>Égi jelül állottál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E világi élet a remények sírhalma,<br/>Teelébed száll fel nemzetednek siralma.<br/>Útmutató fényünk, téged adott nékünk<br/>Az Úristen irgalma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most világok dőlnek, nemzedékek romolnak,<br/>Ezeréves bástyák repedezve omolnak.<br/>Csüggedésre válasz: szent király, te állasz<br/>Égrenéző oromnak.</lines>
+    </verse>
+  </lyrics>
+</song>

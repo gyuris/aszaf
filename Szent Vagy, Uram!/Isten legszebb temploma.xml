@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Isten legszebb temploma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten legszebb temploma, üdvözlégy szent Szűzanya!<br/>Kit, már mikor fogantatott, megszentelt az ég Ura.<br/>Te, kiben bűn nem vala, üdvözlégy szent Szűzanya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség az Istennek, békesség az embernek,<br/>Kik te benned, ó Szűzanyánk, oltalmazót nyertenek.<br/>Ég s föld velünk zengjenek: dicsőség az Istennek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az örök nap hajnala te vagy, áldott Szűzanya!<br/>Utánad jött Megváltónkban az igazság nappala.<br/>E nap hajnalcsillaga: üdvözlégy szent Szűzanya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hisszük Istenségedet, áldd meg, Uram, népedet,<br/>Hogy Szűzanyánk nagy hitével imádhassunk Tégedet.<br/>Hűn szolgálva teneked, töltsük itt az életet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ím, a tiszta áldozat, mit szívünk az Úrnak ad,<br/>Hogy tiszteljük méltó szívvel szent fogantatásodat.<br/>Teáltalad az Urat nyerje meg e hódolat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zengje ég és föld velünk: szent vagy, édes Istenünk!<br/>Add, Uram, ezt Máriának érzésével zengenünk,<br/>Zengjen teljes életünk: szent vagy, édes Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

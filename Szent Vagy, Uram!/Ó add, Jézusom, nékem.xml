@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó add, Jézusom, nékem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó add, Jézusom, nékem Szentséges Szívedet,<br/>Amely oly véghetetlen mértékben szeretett.<br/>Bűnös, fásult lelkemet hadd gyullassza lángra<br/>Szerető szent Szívednek üdvözítő lángja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szíved édes szerelme lelkemnek harmatja,<br/>Amely táplál, feléleszt és lelkem áthatja.<br/>Szent Szívednek szerelme: bűnös lelkem napja,<br/>Melytől lelkem világát, üdvösségét kapja.</lines>
+    </verse>
+  </lyrics>
+</song>

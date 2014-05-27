@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Futva jöttem elibéd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Futva jöttem elibéd szentélyedbe, Isten;<br/>Édes arcod örömét be kerestem!<br/>Mint a szarvas hűs eret, csobogót,<br/>Úgy kívánlak, mérhetetlen égi jót.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Háromságban örök Egy, téged magasztallak,<br/>Békességet permetezz az igaznak!<br/>Énekszóval áldalak művedért.<br/>Áldott Krisztus, kegyelmedbe visszavégy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Árva szívem holt erét töltsd meg, égi Jóság.<br/>Átcsobogjon szent igéd: friss valóság.<br/>Hadd teremjen szűz erőt, tiszta vért,<br/>Halni bátor hősi szívet Szívedért.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszek hármas, mégis egy, örök égi Jóban,<br/>Láthatatlant s láthatót alkotóban.<br/>Hiszem hozzánk testesült egy Fiát,<br/>És a Lélek csodatermő harmatát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vedd e tiszta áldozat kenyerét, Hatalmas.<br/>Árva szónkra, Irgalom, kérünk, hallgass.<br/>Bűneinkért ad Fiad drága bért,<br/>Ó fogadd el elevenért, holtakért.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Meghajoltan áldozunk, benne kedved teljék.<br/>Vedd e víz és vedd e bor titkos teljét.<br/>Égbe küldje illatát a kehely.<br/>Hozzánk hajló irgalommal töltsön el.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent az Úr! a földtekén mennydörögve szólal<br/>Angyalajkak kórusán csendülő dal.<br/>Szent az Isten. Emberért ő teremt<br/>Szeretetből üdvösséget. Szent, szent, szent!</lines>
+    </verse>
+  </lyrics>
+</song>

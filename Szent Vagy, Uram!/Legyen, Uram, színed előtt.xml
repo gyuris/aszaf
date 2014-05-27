@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Legyen, Uram, színed előtt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen, Uram, színed előtt kedves az új áldozat,<br/>Mit új szolgád az élőkért és holtakért bemutat.<br/>Uram Jézus, szálljon rája kegyelmednek gazdag árja,<br/>Kit papságra felemeltél, add neki irgalmadat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, Uram, hogy azon érzés lángja lelkesítse őt,<br/>Mely most lángol hű szívében. Add meg néki szent erőd,<br/>Ki őt lelki viadalra kented fel, hogy élve, halva,<br/>Mint hű szolgád s hű vitézed harcoljon az Úr előtt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldd meg szívét, áldd meg nyelvét, hogy igédet hirdesse<br/>Üdvözítő szent hatással, s amit hirdet, kövesse.<br/>Hogy átható szólásában, szívet vonzó példájában<br/>Minden ember a jámborság tiszta tükrét szeresse.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram Jézus, ki szolgádat helytartóddá rendeléd,<br/>Hogy megkösse vagy föloldja a bűnöknek kötelét;<br/>Add, hogy ezen hatalmával úgy éljen, mint orvossággal,<br/>Megenyhítse, meggyógyítsa a bűnbánók mély sebét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vezéreld, te igazgasd szolgád minden lépteit,<br/>És ha szenved, te enyhítsd meg szíve minden sebeit.<br/>Add, hogy végig jól harcoljon, és a hitben hív maradjon,<br/>S az igazságkoronával jutalmazd meg tetteit.</lines>
+    </verse>
+  </lyrics>
+</song>

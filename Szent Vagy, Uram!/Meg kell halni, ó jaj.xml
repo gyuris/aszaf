@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Meg kell halni, ó jaj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meg kell halni, ó jaj!<br/>Halál a bűn zsoldja,<br/>Hat ezredje, hogy e sóhaj<br/>Örömünket rontja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ember, kérlek téged,<br/>Hallgass ész szavára:<br/>Ha ma másnak, holnap néked<br/>Nyílik a sír szája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha ragyog is most még<br/>Életed szép napja,<br/>Tetteidben megfontolt légy:<br/>Van ítélet napja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Véget vet mindennek<br/>A halál csapása,<br/>És megmérgez minden kedvet<br/>Ennek tudomása.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha eljő a nagy nap,<br/>Kioltja világod,<br/>Tőled majd mind elmaradnak<br/>Rokonok s barátok.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bizonytalan egy csak:<br/>A halál órája;<br/>Ah, ki tudja, rád mikor csap?<br/>Légy hát készen rája.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Meg kell halnod majdan!<br/>Kérd Istent, nézz égre,<br/>Hogy segítsen a nagy harcban<br/>S üdvözítsen végre.</lines>
+    </verse>
+  </lyrics>
+</song>

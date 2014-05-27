@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Nagy örömnap ez nékünk Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy örömnap ez nékünk Isten kegyelméből.<br/>Ma született Krisztusunk tiszta Szűz méhéből.<br/>A kis Gyermek oly nemes, olyan ékes, kellemes ő emberségében,<br/>Mégis felfoghatatlan, szóval kimondhatatlan ő Istenségében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten Fia támadott tiszta szűz leánytul,<br/>Liliomon rózsaszál! A természet ámul,<br/>Hogy születni látja Őt, aki századok előtt e világ szerzője,<br/>Hogy a szent Szűz kebelén táplálgatja szent tején azt, ki Teremtője.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint az üveg nem törik, napsugár ha járja,<br/>Sértetlen maradt a Szűz, őt hozván világra.<br/>Ó boldog a szent Szülő, kinek teste volt a tő, mely Krisztust termette!<br/>Kinek áldott kebelét, tisztaságos szent tejét Jézus úgy szerette.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt az Anya a leány, a Gyermek az atyja,<br/>Ember lett az Isten itt! Föl ezt ki foghatja?<br/>Szolga lett és mégis úr, itt van, gyámoltalanul, mégis: el nem éred!<br/>Messze, mégis itt jelen, kettős itt a rejtelem, ésszel föl nem éred!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sötétségben születik, ki a napfényt gyújtja,<br/>Istállóban rejtezik, ki a földet tartja.<br/>Rejtik pólyák, szalagok azt, aki a csillagok ezrét égre szúrja,<br/>Sírdogál és nyöszörög, ki az égen mennydörög s a villámot szórja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krisztus, kinek kegyelme minden embert táplál,<br/>Ki a szent Szűz kebelén értünk földre szálltál,<br/>Hittel kérünk, légy kegyes, bűneinkért meg ne vess, ne taszíts a mélybe.<br/>Üdvözítő Istenünk, halálunkkor légy velünk, s hívj magadhoz égbe.</lines>
+    </verse>
+  </lyrics>
+</song>

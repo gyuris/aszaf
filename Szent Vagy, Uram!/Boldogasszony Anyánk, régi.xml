@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Boldogasszony Anyánk, régi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogasszony Anyánk, régi nagy Pátrónánk!<br/>Nagy inségben lévén, így szólít meg hazánk:<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Atya Istennek kedves szép leánya,<br/>Krisztus Jézus Anyja, Szentlélek mátkája!<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyisd fel az egeket sok kiáltásunkra,<br/>Anyai palástod fordítsd oltalmunkra.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyes szemeiddel tekintsd meg népedet,<br/>Segéld meg áldásra magyar nemzetedet.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sírnak és zokognak árváknak szívei,<br/>Hazánk pusztulásán özvegyek lelkei.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vedd el országodról ezt a sok inséget,<br/>Melyben torkig úszunk. Ó nyerj békességet.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Irtsd ki, édes Anyánk, az eretnekséget,<br/>Magyar nemzetedből a hitetlenséget.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hogy mint Isten Anyját régen tiszteltenek<br/>Úgy minden magyarok most is dicsérjenek.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tudod, hogy Szent István örökségben hagyott,<br/>Szent László király is minket reád bízott.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sokat Fiad ellen, megvalljuk, vétettünk,<br/>De könyörögj értünk s hozzája megtérünk.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Jézus Fiad előtt hajts térdet érettünk,<br/>Mert ha nem cselekszed, egy lábig elveszünk.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Dicséret, dicsőség legyen az Atyának,<br/>A te szent Fiadnak s Szentlélek mátkádnak.<br/>Magyarországról, édes hazánkról,<br/>Ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+  </lyrics>
+</song>

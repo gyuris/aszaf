@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Krisztus teste és szent vére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus teste és szent vére, angyaloknak étele,<br/>Elevenen van itt jelen a kenyér- és borszínben.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár e csodát, hitünk titkát, elménk fel nem foghatja,<br/>De biztosít az igaz hit, melyre Jézus taníta.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A keresztfán haldokolván rejlett csak az Istenség;<br/>Itt elrejtve és elfedve Istenség és emberség.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Orvosságát, tisztulását lelkünk itt feltalálja:<br/>E nagy Szentség az üdvösség bőséges kútforrása.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szelíd Bárány! a keresztfán áldozatunk te lettél,<br/>És ezáltal szent Atyáddal nekünk békét szereztél.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus vére, lelkünk bére az oltáron már nem hull;<br/>A keresztfa áldozatja itten mégis megújul.<br/>Boruljunk le, és rettegve imádjuk e Fölséget,<br/>Az Oltáriszentséget.</lines>
+    </verse>
+  </lyrics>
+</song>

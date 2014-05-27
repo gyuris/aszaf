@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Áldozattal járul hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldozattal járul hozzád, ó nagy Isten, hív néped,<br/>Hogy végtelen jóságodért hálát adjon tenéked.<br/>A gyermeki hű szíveknek áldozatját nem veted meg,<br/>Szálljon arra országodból isteni szent tetszésed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magasságban a fölséges Istennek,<br/>Békesség itt lenn a jámbor, jószándékú embernek.<br/>Add, hogy mindig élő hittel, hív reménnyel, szeretettel<br/>Mondjunk méltó dicséretet, ó Atyánk, szent nevednek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr Jézus, te hoztad égből az üdvösség igéit,<br/>A te drága ajándékod az egekbe vivő hit.<br/>Ez élessze szíveinket, ez vezesse tetteinket.<br/>Uram, Uram, kihez menjünk, ha malasztod nem segít.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az oltáron megújul most a kereszt áldozata,<br/>Mint azt vérrel bűneinkért Megváltónk bemutatta.<br/>Ámbár itten nincs vérontás, de megvan az Istenáldás,<br/>Bőven árad ránk a váltság, vérének szent harmata.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A kenyér- s boráldozattal felajánljuk szívünket,<br/>Szándékunkat, tetteinket és mind egész éltünket.<br/>Áldd meg, amit fölszentelnek hív szolgáid szent nevednek.<br/>Irgalmasság édes Atyja, ó hallgass meg bennünket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az angyalok seregével zengjük: Szent az Úristen!<br/>A tiszta szív örömével mondjuk: Szent az Úristen!<br/>Zengje velünk az ég és föld, melyet dicső neve bétölt:<br/>Szent az Isten, szent az Isten, örökké szent az Isten!</lines>
+    </verse>
+  </lyrics>
+</song>

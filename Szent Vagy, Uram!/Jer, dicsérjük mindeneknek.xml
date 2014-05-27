@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Jer, dicsérjük mindeneknek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jer, dicsérjük mindeneknek Atyját,<br/>A szép Szűznek áldott szent magzatját,<br/>E világnak édes megváltóját,<br/>Bűnösöknek kegyes szószólóját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jer, tiszteljük áldott keresztfáját,<br/>Sötétségben fényeskedő fáklyát,<br/>Fagyos éjben melegítő lángot,<br/>Ellenségtől elrejtő palánkot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jer, imádjuk szálkás, kemény fáján<br/>A megfeszült, feláldozott Bárányt,<br/>Kinek testét mi bűneink tépték,<br/>Ki elvette világ minden vétkét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jer, sirassuk tenger bűneinket,<br/>Ezekért várt örökös tűz minket,<br/>De védőnk lett a bíró, ki büntet,<br/>S elégette adóslevelünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jer hát, verjük bűnbánatos mellünk!<br/>Férgek vagyunk, néki mégis kellünk.<br/>Romok vagyunk, ő szeretett mégis,<br/>Ostorokig, keresztfáig, vérig.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jer, fogadjuk éltünk jobbulását!<br/>Már ezután mindenek meglássák:<br/>Arról fogunk tanúságot tenni,<br/>Kinél jobban nem szeretett senki.</lines>
+    </verse>
+  </lyrics>
+</song>

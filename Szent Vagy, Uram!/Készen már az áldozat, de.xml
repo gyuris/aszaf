@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Készen már az áldozat, de</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Készen már az áldozat, de szerelme nem lohad:<br/>Emberekhez vágyik Ő, boldogságot hozni jő.<br/>Boldog, aki várja, tiszta szívbe zárja,<br/>Üdvösséget égen, földön megtalálja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez a szentség nagy titok: minden szívet egybefog.<br/>Ezt az áldott kútfejet isszák mind az emberek.<br/>Benned egy a község, titkos szent Közösség!<br/>Szereteted mindörökké dicsértessék.</lines>
+    </verse>
+  </lyrics>
+</song>

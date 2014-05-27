@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ama szörnyű napja Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ama szörnyű napja Isten haragjának,<br/>Füstben, lángban veti végét e világnak.<br/>Egyenlőkép mondja szava Dávidnak és Szibillának.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én szegény ott mentségemre mit beszéljek?<br/>Pártfogómnak kit kiáltsak, mit reméljek?<br/>Hisz' a bíró szeme előtt az igaz is alig él meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyes Jézus, alázattal kérünk téged:<br/>Miérettünk vállaltad az emberséget:<br/>Szegény bűnös szolgáidnak ne hagyj érni gonosz véget!</lines>
+    </verse>
+  </lyrics>
+</song>

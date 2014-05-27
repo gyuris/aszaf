@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ó édes Megváltóm, ne nézd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó édes Megváltóm, ne nézd bűneimet,<br/>Sok ellened való cselekedetimet,<br/>Üdvösségem árát tekintsd érdemedet,<br/>Jöjj el, Jézus Krisztus, vedd hozzád lelkemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyi sok kínokat és halált szenvedtél,<br/>Minden bűneimért hiszen megfizettél,<br/>Atyád sem haragszik, kit megbékéltettél,<br/>Jöjj el, Jézus Krisztus, add meg, mit ígértél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igazságod szerint ne ítélj meg engem,<br/>Nem talál kegyelmet én szegény érdemem,<br/>Nem lehet nélküled soha üdvösségem,<br/>Jöjj el, Jézus Krisztus, édes reménységem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez árnyékvilágból ámbár ki kell mennem,<br/>És a sír gyomrában föld porává lennem,<br/>A föltámadáskor visszatér majd lelkem,<br/>Jöjj el, Jézus Krisztus, fogadj el ott engem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az ítélet napján ama nagy órára<br/>Állítsad testemet Atyádnak jobbjára,<br/>Az áldottak közé hadd legyek számlálva,<br/>Jöjj el, Jézus Krisztus, üdvösségem ára.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ilyen készülettel a mi halálunkra<br/>Az Úr Jézust várjuk bátorításunkra,<br/>Így lesz az Úr Jézus mi boldogságunkra,<br/>Jöjj el, Jézus Krisztus, segíts minket arra.</lines>
+    </verse>
+  </lyrics>
+</song>

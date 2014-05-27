@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Acélszárnyon száll az ember a</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Acélszárnyon száll az ember a levegő kék űrében,<br/>Azt hiszi, hogy nincs titok már sem a földön, sem az<br/>égen.<br/>De ha rád néz, félelem sújtja földre hirtelen.<br/>Irgalmazz, ó Krisztus, nékem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyugtalan a földi ember, ledönti a trónusokat,<br/>Sok baj okán száműzi a régi kardos királyokat.<br/>Ámde király kell neki: „Krisztus király,” – énekli, –<br/>„Terjeszd ki ránk jogarodat!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint a tenger, háborog a népek szörnyű áradatja,<br/>Új eszméknek, új bűnöknek lelkét könnyen általadja.<br/>Ámde újra ráeszmél, hogy csak Tőled jön remény<br/>Jobb világra, virradatra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tenger bajból, küzdelemből minden ember Hozzád kiált:<br/>Teremts nekünk jobb világot, halhatatlan Krisztus-Király!<br/>Alattvalók, köszöntünk, uralkodjál fölöttünk!<br/>Földön, égben Te légy Király!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Szállj ránk, életadó Lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szállj ránk, életadó Lélek,<br/>Szállj le, igaz Bölcsesség!<br/>Szívem veled elteljék.<br/>Botló léptem előtt gyúlj fel, múlhatatlan fényesség.<br/>Háznépedre jer le, Bölcsesség Lelke!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szállj ránk, életadó Lélek,<br/>Szállj le közénk, Értelem!<br/>Add a hitet értenem.<br/>Engedd Anyaszentegyházad érverését érzenem.<br/>Háznépedre jer le, Értelem Lelke!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szállj ránk, életadó Lélek,<br/>Jótanácsnak Szentlelke!<br/>Égesd be a lelkekbe:<br/>Isten akaratán járjunk, ez az élet értelme.<br/>Háznépedre jer le, Jótanács Lelke!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szállj ránk, életadó Lélek,<br/>Áraszd reánk szent Erőd,<br/>Járj át csontot és velőt,<br/>Végig állhatatossággal acélozd a küzködőt.<br/>Háznépedre jel le, Erősség Lelke!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szállj ránk, életadó Lélek,<br/>Ó, Tudomány, ihless meg!<br/>Egy tudományt ismerjek,<br/>Egyet, azt, ami szükséges: igazságát Istennek.<br/>Háznépedre jer le, Tudomány Lelke!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szállj ránk, életadó Lélek,<br/>Jámborságnak Lelke, jöjj,<br/>Keneteddel megjelölj.<br/>Járj át egyszerűségeddel, alakíts át legbelöl.<br/>Háznépedre jer le, Jámborság Lelke!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szállj ránk, életadó Lélek,<br/>Üdvös Istenfélelem.<br/>Tedd imává életem.<br/>Szent, szent, szent az örök Isten, s aki övé: szent legyen!<br/>Háznépedre jer le, Áhítat Lelke!</lines>
+    </verse>
+  </lyrics>
+</song>

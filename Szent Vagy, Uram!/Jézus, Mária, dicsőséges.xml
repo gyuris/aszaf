@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Jézus, Mária, dicsőséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, Mária, dicsőséges nevek,<br/>Néktek szolgálok, hogy felébredek.<br/>Néktek virrasztok, néktek aluszom,<br/>Csak néktek élek, édes Jézusom,<br/>Jézus, Jézus, Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Mária, mindennap, szüntelen<br/>Tiszta szívemet néktek szentelem.<br/>Engedj épséget szegény testemnek,<br/>Adj üdvösséget bűnös lelkemnek,<br/>Jézus, Jézus, Mária.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, Mária, én tinéktek élek,<br/>Míg csak testemben lészen a lélek,<br/>Sőt majd testemből mikor kimegyen,<br/>Akkor is lelkem tiétek legyen,<br/>Jézus, Jézus, Mária.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, hallgasd meg e kis énekemet,<br/>Úgy add rendeznem én életemet:<br/>Áldjam örökké te szent Nevedet,<br/>Hogy a gonosztól ments meg engemet,<br/>Jézus, Jézus, Mária.</lines>
+    </verse>
+  </lyrics>
+</song>

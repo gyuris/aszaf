@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Menny, föld, tűz, víz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menny, föld, tűz, víz, levegő, ég, gyöngy, arany és minden kincs!<br/>Mit fárasztod én elmémet? Nyugodalmam addig nincs,<br/>Míg fel nem talállak téged, én Uram, én Istenem!<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó hírnév és jó barátság, magas rang és tisztesség,<br/>Amit csak a test kívánhat: Bőség, öröm, egészség;<br/>Szívem meg nem elégíti semmi más gyönyörűség:<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amit hallok, amit tudok kívüled, ó Istenség,<br/>A háborgó léleknek az csak gyötrelem és ínség;<br/>Ami jó van e világon, nélküled az semmiség:<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elmém bármint hányjam, vessem, bár akármit gondoljak,<br/>Akárkihez folyamodjam, vagy mint madár, úgy szálljak,<br/>Nincs mód, hogy szívemnek másban nyugodalmat találjak:<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért távol legyen tőlem a világ dicsősége,<br/>Istenem, te vagy egyedül lelkem gyönyörűsége;<br/>Nálad nélkül ez az élet a szív keserűsége:<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jer, én édes vigasztalóm, Jézus szent keresztfája!<br/>Jer, egyetlen reménységem, üdvösségem nagy ára!<br/>Te vagy, hol a háborgó szív nyugodalmát találja:<br/>Benned nyugszik meg lelkem, Istenem és mindenem, Istenem és mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

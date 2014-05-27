@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>E szín alatt itt a nagy j</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E szín alatt itt a nagy jó,<br/>Emberszívvel kívánható.<br/>Égen, földön ami csak jó,<br/>Mind csak ettől, ebből való.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt van Jézus fehér színben,<br/>Mint melegség a napfényben,<br/>Mint a tűz a forró szénben,<br/>Mint erő a mágneskőben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A vacsorán kézbe vette<br/>A kenyeret s testté tette,<br/>Vérré a bort megszentelte,<br/>Ezt érettünk cselekedte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És mondotta: „Ím vegyétek,<br/>Az én testem, ezt egyétek.<br/>Ti is ezt cselekedjétek,<br/>Emlékemet őrizzétek.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vette aztán a poharat,<br/>S papoknak lőn parancsolat:<br/>Tartsák fenn a szent titkokat.<br/>Így a Krisztus köztünk marad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Azért most is igéjével,<br/>Élünk Krisztus erejével,<br/>Amint az Úr amaz éjjel,<br/>Az ő teste igaz étel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Azért rejti valóságát,<br/>Rettenetes méltóságát,<br/>Hogy mutassa nagy jóságát,<br/>Édesgető buzgóságát.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mert ha csak egy szolgájára<br/>Nem nézhetnénk: angyalára,<br/>Hogy nézhetnénk Őmagára,<br/>A vakító napvilágra!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Azért ámbár nem nézheted,<br/>Sem száddal nem ízlelheted,<br/>Kezeddel sem érintheted:<br/>De igéje, elég neked.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Hidd el szavát Jézusodnak,<br/>Ígéretét te Uradnak,<br/>Így téssz nagy jót tenmagadnak,<br/>Így léssz kedves Krisztusodnak.</lines>
+    </verse>
+  </lyrics>
+</song>

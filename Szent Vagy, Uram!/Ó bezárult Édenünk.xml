@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Ó bezárult Édenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó bezárult Édenünk,<br/>Rosszra fordult kezdetünk!<br/>Megtaláltuk a halált,<br/>Üdvünk kincse zárra zárt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fel-felnyögött bár imánk:<br/>„Égi harmat, hullj miránk”,<br/>De bilincsben a kezek,<br/>Mert a lélek vétkezett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elhagyottság éjjelén<br/>Annyi volt csak a remény,<br/>Hogy eljön, ki győzni fog,<br/>És leszünk még boldogok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Állt a világ szótalan,<br/>Jessze törzse lombtalan;<br/>S a hit mégis szárnyat ölt:<br/>Jön Krisztus, kit vár a föld!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jön az Úr, a végtelen,<br/>Könyörül az emberen.<br/>Adjuk vissza kincseit,<br/>Legyen övé minden itt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Övé legyen vagyonunk,<br/>Minden, amit adhatunk.<br/>De ha más kell: jaj nekünk,<br/>Nincsen semmi nemesünk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lesz nemsoká! Ara már<br/>A szűz, ki mint napsugár<br/>Oly tisztán szól, hogy: „Igen”,<br/>A Szent-szent-szent megjelen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Felmutat égbe szent Gellért</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="334"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felmutat égbe szent Gellért keresztje,<br/>Ahhoz, ki hozzánk küldte, ki az Eszme.<br/>Apostolod volt, boldog magyar nemzet.<br/>Áldjuk a Szentet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ős eleinket a krisztusi hitre,<br/>Végtelen keggyel kegyes Isten vitte.<br/>Gellérttől nyertük, hogy jó lett a kezdet:<br/>Áldjuk a Szentet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Életét még zöld keresztünkre tűzte,<br/>Lett vértanúknak s főpapoknak tükre.<br/>Fehér virághoz piros rózsát szerzett:<br/>Áldjuk a Szentet!</lines>
+    </verse>
+  </lyrics>
+</song>

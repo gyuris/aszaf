@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Mint forró sóhaj, elhaló bús</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint forró sóhaj, elhaló bús jaj<br/>Kél halk énekünk.<br/>Sötétben járunk, hajnalra várunk:<br/>Jöjj el, Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Választott néped így sírt föl Érted,<br/>Nyögve bús igát.<br/>Ősszülők lelke várta, epedte<br/>Isten egy Fiát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bűn úr most is; gyötör is, foszt is.<br/>Sír a jó feléd:<br/>Mikor jössz végre kitűzni égre<br/>Győzelmed jelét?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj, a bűn éget, jöjj, várunk téged,<br/>Jézus, Istenünk!<br/>Isteni gyermek, ó, hozz kegyelmet,<br/>Hozz békét nekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

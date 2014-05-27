@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Szívünk-lelkünk összeszedjük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívünk-lelkünk összeszedjük,<br/>Szűzanyánkat áldjuk együtt.<br/>Közös légyen az áldozat,<br/>Mit a pap keze bemutat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magasságban!<br/>Énekeljük mindahányan.<br/>S legyen békesség mivelünk,<br/>Melyet Mária hoz nekünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bibliában Isten mondja,<br/>Hogy az Asszony összerontja<br/>Ama kígyónak a fejét,<br/>A bűn átkát és erejét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hite nagy volt Máriának,<br/>Hitt az angyal szózatának.<br/>Hitem tölti be szívemet,<br/>Erősítsd, Uram, hitemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Itt az ostya és a bor már,<br/>Golgotává lett az oltár.<br/>A pap itt az Üdvözítő,<br/>És az áldozat ugyanő.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Felajánljuk mi is véle<br/>Szűzanyánk tiszteletére<br/>Szent Fiának a szíveket,<br/>Aki minket úgy szeretett.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent, örökké szent vagy, Isten,<br/>Dicsőséges szentjeidben,<br/>Szűzanyánk, Uram, teneked<br/>Legszebb, isteni remeked.</lines>
+    </verse>
+  </lyrics>
+</song>

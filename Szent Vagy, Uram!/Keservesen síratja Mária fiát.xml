@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Keservesen síratja Mária fiát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keservesen síratja Mária fiát,<br/>Midőn látja halálra menni magzatát.<br/>Csordul könnye Máriának, szíve szakad Szűzanyának nagy bánatjában.<br/>Nincsen helye bús szívének, nyugodalma sincs lelkének nehéz kínjában.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senki sincsen sorsosa nagy fájdalmának,<br/>Nincs segítő orvosa nehéz kínjának.<br/>Szűz Mária elfáradott, egész teste elbágyadott nagy bánatjában.<br/>Piros színe elhervadott, áldott Anya ellankadott a nagy sírásban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Merre vagytok, Mária jóakarói?<br/>Merre vagytok, bánatja igaz szánói?<br/>Bár jó szívvel ápolnátok, gyenge karját megfognátok, mert elfáradott;<br/>Rózsavízzel öntöznétek, balzsamokkal illetnétek, mert elbágyadott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, bárcsak az én szívem hozzád mehetne,<br/>Hogy tégedet a földről felemelhetne.<br/>Bús gerlice formájára itt maradott árvaságra a Szűz Mária.<br/>Mindenektől elhagyatott, szent Fiától megfosztatott a Jézus Anyja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, kegyetlen nemzetek, kőszívű népek!<br/>Ezt a pogány vadságot hogy tehettétek?<br/>Szegényt úgy megkínoztátok, mindhalálig bántottátok az Isten Fiát.<br/>Bűnötöket elhagyjátok, bűnbánattal sirassátok az egek Urát!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fogadj engem, Szűzanyám, igaz fiadnak,<br/>Hadd törlöm le könnyeit síró arcodnak!<br/>Ó Szűzanyám, véled járjak, véled éljek, véled haljak, és Jézusoddal.<br/>Véled légyen szenvedésem, halálom és temetésem, és szent Fiaddal.</lines>
+    </verse>
+  </lyrics>
+</song>

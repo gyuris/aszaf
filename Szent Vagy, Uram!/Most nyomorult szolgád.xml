@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Most nyomorult szolgád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most nyomorult szolgád folyamodom hozzád,<br/>Magamat ajánlván kegyelmedbe.<br/>Aki nem lát s hiszen, mondád: boldog lészen,<br/>Mennyben és a földön él kedvedben.<br/>Hiszem jelenléted, imádom fölséged.<br/>Amit meg nem foghat tapintásom,<br/>Abban igéd nékem bizonyságom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hódolva és híven bűnbánatos szívem,<br/>Teneked, ó Jézus, feláldozom;<br/>Értünk ember lettél, asztalt készítettél.<br/>Kegyes jóvoltodat magasztalom.<br/>Ó angyali szépség, ó titkos nagy Szentség,<br/>Melynek vételére az méltatlan,<br/>Kinek szíve bűnös s bűnbánatlan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, édes étkem, nagy gyönyörűségem,<br/>Aki hozzám szálltál szerelmedből,<br/>Ne tekintsd én bűnöm, add, hogy sebem szűnjön,<br/>Töröld el én vétkem kegyelmedből.<br/>Most fogadást tészek, már hozzád hív lészek,<br/>Légy kegyelmes hozzám, ó Jézusom!<br/>Mennynek s földnek Ura, légy orvosom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Váltságunknak ára, ki a keresztfára,<br/>Szelíd Bárány, értünk emeltettél.<br/>Ki Atyádnál értünk védelmező vértünk<br/>Szent halálod s véred által lettél.<br/>Az ítélet napján legyünk Atyád jobbján<br/>És a mennyországban szemlélhessünk,<br/>Mindörökké Téged dicsérhessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

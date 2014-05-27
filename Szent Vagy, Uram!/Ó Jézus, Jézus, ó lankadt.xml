@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ó Jézus, Jézus, ó lankadt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézus, Jézus, ó lankadt Jézus,<br/>Istennek vérző Fia!<br/>Tűrés példája, szentség formája,<br/>Ó lelkünk drága díja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Mennyeknek édessége!<br/>Hogy meghervadtál, jaj, megfonnyadtál,<br/>Ó lelkek üdvössége!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Ó hívek ékessége!<br/>Ártatlan tűrtél s minket megnyertél,<br/>Ó szívünk édessége!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Mit tettél a világért!<br/>Véredet ontod, testedet rontod<br/>Ádámnak rossz magváért.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Szent tested én kötöztem.<br/>Rút életemmel, rút beszédemmel<br/>Melledet általdöftem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Szent tested, ó, én vertem,<br/>Szeretvén vétket, rút részegséget,<br/>Eceted én kevertem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Szent véred én ontottam,<br/>Szent fejed szúrtam, kezeid fúrtam,<br/>Életed én rontottam.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó Jézus, Jézus, ó édes Jézus,<br/>Szenvedek véled méltán.<br/>Kínodat szánom, vétkemet bánom,<br/>Kereszted mellett sírván.</lines>
+    </verse>
+  </lyrics>
+</song>

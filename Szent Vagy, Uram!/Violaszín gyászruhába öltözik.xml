@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Violaszín gyászruhába öltözik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Violaszín gyászruhába öltözik fel a lelkünk.<br/>Oltárodnak zsámolyánál bűnbánóan térdelünk.<br/>Szent Fiadnak értünk hullott drágalátos szent vére,<br/>Jámbor atyák intelme, szent beszédek kegyelme<br/>Váljék lelkünk üdvére.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséged zengedezték a földre szállt angyalok,<br/>Amikor a bűnös földet átölelte szent karod.<br/>Ó, űzzed ki lelkünkből a nagyravágyás szellemét,<br/>És ezentúl mindenek: tűz, víz, ég, föld, tengerek<br/>Zengjék Isten szent nevét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága Jézus, égből hoztad szent vallásunk tanait.<br/>Égi, földi sorsunk felől szent Bibliád megtanít.<br/>Jámbor atyák tanítása szívünkben most megfogan.<br/>Ha az ég bár béborul, élünk aztán jámborul,<br/>Hitünk szerint boldogan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tudjuk, hogy a hit kegyelmét Isten adja minekünk.<br/>Hit nélkül a kárhozatnak mélységében van helyünk.<br/>Add, Urunk, hogy e szent óra felélessze hitünket.<br/>Hitünk legyen a szikla, mellette szálljunk síkra<br/>S égbe vigye lelkünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tested, véred feláldoztad érettünk a kereszten,<br/>Omló véred bűneinktől hogy tisztára feresszen.<br/>Megtisztítjuk most szívünket, elhagyjuk a bűnöket.<br/>És íme, felajánljuk, feléd lobog a lángjuk,<br/>Fogadd el a szívünket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Harsanjon fel ajakunkon a „háromszor Szent” dallama.<br/>Fellángol e szent napokban üdvösségünk hajnala.<br/>Már ezentúl angyalokkal egyesül az énekünk,<br/>Kereszted átkaroljuk, újult szívvel daloljuk:<br/>Szent vagy, szent vagy, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

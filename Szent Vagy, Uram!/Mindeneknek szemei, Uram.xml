@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Mindeneknek szemei, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindeneknek szemei, Uram, benned bíznak,<br/>Mert az inség idején Te kezedből híznak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kezeidet kinyitod, benne minden jóság,<br/>És áldással töltöd el föld minden lakóját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Levegőég madara és az erdő vadja,<br/>Amely nem szánt, nem is vet, étkét tőled kapja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liliomok a mezőn nem szőnek és fonnak,<br/>Mégis szebb a köntösük, semmint Salamonnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hát még kiket tenmagad képére formáltál,<br/>Minket, Uram, jóságod hogyan ruház, táplál!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amit nekünk juttattál, nemcsak testi étel:<br/>Táplálsz minket magaddal: szent testtel és vérrel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Azért, akik annyi sok kegyességét látjuk,<br/>Méltó, hogy a nagy Istent dicsérjük és áldjuk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szent, szent, szent vagy, kegyes Úr, és vég nélkül áldott,<br/>Akitől ily bő áldás az emberre szállott.</lines>
+    </verse>
+  </lyrics>
+</song>

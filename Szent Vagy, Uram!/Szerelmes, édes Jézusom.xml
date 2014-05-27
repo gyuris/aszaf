@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Szerelmes, édes Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szerelmes, édes Jézusom, imádlak tégedet,<br/>Mert lettél lelki orvosom, adván szent testedet.<br/>Szívem szívednek ajánlom, lelkemet néked kínálom,<br/>Légy őrző paizsom, légy őrző paizsom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit sem a tenger mély vize befogni nem elég,<br/>Sem széles föld határai, sem a nagyságos ég,<br/>E kicsiny Ostya színében, bornak és víznek ízében<br/>Rejté el nagyságát, rejté el nagyságát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézzed Megváltód sebeit hálátlan szemeddel,<br/>Ó ember, véres helyeit öntözzed könnyeddel,<br/>Mert ezeket te okoztad, szent tagjait te kínoztad<br/>Annyi sok bűnöddel, annyi sok bűnöddel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sebeid sírva szemlélem, ó édes Jézusom,<br/>Jóságod látom s hirdetem, szerelmes Krisztusom!<br/>Aki ez Ostya színébe, bornak és víznek ízébe<br/>Rejtőztél érettem, rejtőztél érettem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Engedd, hogy lelkem élhessen belőled, Krisztusom!<br/>Érezzem édességedet, ó drága Jézusom!<br/>Szívednek szívem ajánlom, lelkemet néked kínálom,<br/>Légy őrző paizsom, légy őrző paizsom.</lines>
+    </verse>
+  </lyrics>
+</song>

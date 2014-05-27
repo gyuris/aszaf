@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Két oszlopa igazságnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="217"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Két oszlopa igazságnak,<br/>Két csillaga e világnak.<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti a szent hit ültetői,<br/>Pogány Róma új szülői.<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus drága szent nevéért<br/>Ontottatok Rómában vért.<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örök immár koronátok,<br/>Jézus szava boldogságtok.<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tanítástok hitünk őre,<br/>El ne térjünk soha tőle!<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Általatok Jézust valljuk,<br/>Érettetek magasztaljuk.<br/>Imádjátok Istent értünk, Péter és Pál,<br/>Hadd jöjjön el ő országa közibénk már!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Kegyes szemmel nézz ránk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyes szemmel nézz ránk, édes Istenünk,<br/>Akik szívvel, ajkkal áldunk, tisztelünk.<br/>Kegyelmednek árját áraszd ránk<br/>S légy mindenkor édes jó Atyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy áldva az égben és a földtekén!<br/>Ameddig csak élek, dicsőítlek én.<br/>Mindörökre engedd zengenem:<br/>Dicsőség tenéked, Istenem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hisszük élő hittel egyházunk tanát,<br/>S attól el nem térünk életünkön át.<br/>Hiszünk erős hittel Istenben,<br/>Aki Úr a földön és mennyben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ajándékul néked mit adjon híved?<br/>Hisz az égben s földön minden a tied!<br/>Ez áldozat nékünk mindenünk,<br/>Ezt fogadd el tőlünk, Istenünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Téged illet, Isten, mindenek felett<br/>A dicséret, áldás és a tisztelet!<br/>Azért zengje folyton énekünk:<br/>Nagy vagy, jó vagy, szent vagy, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

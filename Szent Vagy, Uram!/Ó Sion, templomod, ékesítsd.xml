@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó Sion, templomod, ékesítsd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Sion, templomod, ékesítsd csarnokod,<br/>Így fogadd Krisztusod, királyod, pásztorod.<br/>Íme, itt jön szűz Mária, karján lelkünk vigassága,<br/>Úristen szent Fia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A törvényt megtartja, mint az Úr meghagyta,<br/>Fiát bemutatja, Simeon fogadja.<br/>A szentséges szűz Mária karján lelkünk vigassága,<br/>Úristen szent Fia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mennyeknek ajtaja, üdvösség hajnala,<br/>S e hajnal csillaga lett a szép Szűzanya.<br/>A szentséges szűz Mária karján lelkünk vigassága,<br/>Úristen szent Fia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyissuk fel lelkünket, kérjük Istenünket,<br/>Hogy adjon kegyelmet, mert íme közelget<br/>A szentséges szűz Mária, karján lelkünk vigassága,<br/>Úristen szent Fia!</lines>
+    </verse>
+  </lyrics>
+</song>

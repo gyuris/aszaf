@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Szent vagy, szent vagy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy,<br/>Éneklik az angyalok,<br/>Szent vagy, szent vagy,<br/>Leborulva hódolok.<br/>Örvendezve pálmaágat lengetek,<br/>Lábad elé leterítem szívemet.</lines>
+    </verse>
+  </lyrics>
+</song>

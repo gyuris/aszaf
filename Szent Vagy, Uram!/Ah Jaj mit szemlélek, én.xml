@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ah! Jaj! mit szemlélek, én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah! Jaj! mit szemlélek, én bűnös rút lélek e gyászsírban?<br/>Istenem, hogy megholt, aki teremtett volt, koporsóban<br/>Temettetett s kivitetett. Kínoztam, szegeztem,<br/>fára feszítettem, mert vétettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zsidóknál keményebb, sokkal kegyetlenebb, bűnös vagyok,<br/>Mert én megesmérem: amiket tett értem, hogy mily nagyok!<br/>Én árultam, ostoroztam, gyilkosan megöltem,<br/>Vajjon mért születtem, teremtettem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt fekszik rejtekben, árnyék kenyér színben, szent testében.<br/>Ide behozatott, kővel elzáratott holt test képen.<br/>Sírj én szívem, hóhér szívem, az ártatlan bárányt<br/>Vérengző vad gyanánt mért üldöztem?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy szenvedj így értem, ah, mivel érdemlem, én Istenem?<br/>Hogy mennyből földre szállj, fölségedtől megválj, én Istenem!<br/>Csupán ezért, szerelmedért alkotott férgedhez,<br/>Pártütő népedhez, én Istenem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Jézus, mégse hagyj, bár értem sírban vagy, esedezem!<br/>Sebeid csókolom, bűnömet megvallom és könnyezem.<br/>Ó én vétkem! Én nagy vétkem! Jobbulást igérek,<br/>Fogadom, megtérek, segíts, kérlek!</lines>
+    </verse>
+  </lyrics>
+</song>

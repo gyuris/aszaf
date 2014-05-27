@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Bemegyek szent templomodba</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bemegyek szent templomodba, Uram, a szent oltárhoz,<br/>Az aranyos oszlopok közt a királyi trónushoz.<br/>Színed előtt leborulok, szegény bűnös, elnémulok,<br/>Égő füstnek illatával, Uram, néked udvarlok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bölcs Salamon kőtemplomot épített az Istennek,<br/>Hogy ott legyen lakóhelye a szövetség-szekrénynek.<br/>Elkeríté kárpitokkal, aranyozott szép láncokkal;<br/>Kerubimok ékesíték kiterjesztett szárnyakkal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hát én, szegény, földnek férge, mit építsek nevednek?<br/>Lakóhelyet hol szerezzek az isteni Fölségnek?<br/>Aki por és hamu vagyok, bűneimtől roskadozok,<br/>Lábam, hogy a földet nyomja, méltó arra sem vagyok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha tetszik áldozatom, lelkemet fölajánlom,<br/>Örökös hű szolgálatra holtomig leláncolom.<br/>Szenteld ékes templomoddá, szent Lelkednek hajlékává<br/>Rendeld égi udvarodban engedelmes szolgáddá.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy szívemben fölgerjedjen az isteni szeretet,<br/>Piros véred harmatával öntözgessed szívemet.<br/>Add, hogy lelkem tiszta legyen, soha többé ne vétkezzem,<br/>Választottak seregébe engedd, hogy felvétessem.</lines>
+    </verse>
+  </lyrics>
+</song>

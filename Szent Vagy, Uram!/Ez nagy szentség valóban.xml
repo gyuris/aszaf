@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ez nagy szentség valóban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ez nagy szentség valóban,<br/>Ezt imádjuk legjobban,<br/>Melyet Jézus nekünk hagyott<br/>Testamentomban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jelen van itt test és vér,<br/>Minden kinccsel ez felér,<br/>Ha elhagyjuk vétkeinket,<br/>Minden jót ígér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Állj mellettünk, nagy Isten,<br/>Titkos kenyér színében,<br/>Légy irgalmas és meghallgass<br/>Minden ínségben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Háborútól oltalmazz,<br/>Híveidnek irgalmazz,<br/>Betegséget, éhínséget<br/>Tőlünk távoztass.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tebenned van reményünk,<br/>Életünk és épségünk.<br/>Egyedül csak Téged kérünk,<br/>Légy segítségünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add, hogy készen lehessünk,<br/>Boldog halált érhessünk,<br/>E világból ha kiszólítsz,<br/>Véled lehessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

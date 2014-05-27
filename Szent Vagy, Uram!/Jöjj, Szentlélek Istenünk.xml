@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, Szentlélek Istenünk,<br/>Add a mennyből érzenünk<br/>Fényességed sugarát.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, szegények atyja, te,<br/>Bőkezűség Istene,<br/>Lelkünk fényed hassa át.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édességes vigaszunk,<br/>Drága vendég, szomjazunk,<br/>Édes lélekújulás!<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fáradottnak könnyülés,<br/>Tikkadónak enyhülés,<br/>Sírónak vigasztalás.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldogságos, tiszta fény<br/>Szállj meg szívünk rejtekén,<br/>Híveidnek napja légy!<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ihleted ha fényt nem ad,<br/>Emberszívben ellohad<br/>Minden érő, minden ép.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mosd meg, ami szennyezett,<br/>Asszúságra hints vizet,<br/>Orvosold a sebhelyet.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Simogasd a darabost,<br/>Fölmelengesd a fagyost,<br/>Útra vidd, ki tévelyeg.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Add, vegyék el híveid,<br/>Kik hitük beléd vetik,<br/>Hétszeres kegyelmedet.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jámbornak jutalmazást,<br/>Engedj boldog kimúlást,<br/>Mindörökké mennyeket.<br/>Jöjj el, jöjj el! Jöjj el, jöjj el!<br/>Jöjj, Szentlélek Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

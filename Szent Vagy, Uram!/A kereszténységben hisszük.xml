@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>A kereszténységben hisszük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A kereszténységben hisszük, valljuk régen,<br/>Hogy az Isten minekünk véghetetlen kegyességében<br/>Ígérte a Megváltót vigasztalásképpen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a mennyben! Öröm, áldás zengjen,<br/>Mert az Isten kegyes volt és azonnal nagy elestünkben<br/>Megkönyörült mirajtunk paradicsomkertben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tudjuk, valljuk régen: az idők teljében<br/>Gábor angyal küldeték az Istennek követeképen,<br/>S megtestesült az Ige Mária méhében.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten jóságának, irgalmasságának,<br/>Ki mindenkor kegyelmez a halandók gyarlóságának:<br/>Felajánljuk magunkat jóságos Atyánknak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az örök Atyának, egyszülött Fiának,<br/>S a Szentlélek Istennek, árva lelkünk nagy Vigaszának:<br/>Dicséret és dicsőség a Szentháromságnak.</lines>
+    </verse>
+  </lyrics>
+</song>

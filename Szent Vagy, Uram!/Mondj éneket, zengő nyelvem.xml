@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Mondj éneket, zengő nyelvem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondj éneket, zengő nyelvem, szentséges Úr testének,<br/>Adj hálákat, buzgó lelkem, drágalátos vérének.<br/>Töredelmes buzgó szívvel hajtsd meg néki térdedet,<br/>Mint Uradnak, Istenednek, mondj neki szép éneket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vajha, édes jó Jézusom, oly érdemes lehetnék,<br/>Hogy tenéked, én Krisztusom, méltán énekelhetnék.<br/>De jól érzem vétkeimet, s tőled értük rettegek,<br/>Mert a világ, test és ördög szüntelenül gyötrenek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó megváltó jó Jézusom, mennyei szent orvosom,<br/>Téged féllek, de remélek Benned, kegyes Krisztusom,<br/>Hogy befogadsz kegyelmedbe, hisz nem az igazakért<br/>Jöttél hozzánk e Szentségbe, hanem a bűnösökért.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alázatos, megtört szívvel térdem néked meghajtom,<br/>Jelenléted ez oltáron igaz hittel megvallom.<br/>Drága tested, piros véred e színekben imádom,<br/>Élő igaz Istenséged szüntelen magasztalom.</lines>
+    </verse>
+  </lyrics>
+</song>

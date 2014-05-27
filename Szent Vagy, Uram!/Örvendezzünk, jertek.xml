@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Örvendezzünk, jertek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzünk, jertek, áhítatos lelkek,<br/>Istenünk oltáránál!<br/>Nyissuk ki a lelkünk, vidám dalra keljünk:<br/>Mi Urunk mireánk vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fölséges az Isten, por előtte minden,<br/>Por a föld, por az ég is!<br/>Mik a földön élnek: mint a szegény féreg.<br/>Szeret ő, szeret mégis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fiát adta értünk, őbenne remélünk,<br/>Főpapunk ő lett nékünk.<br/>Áldozatunk ő lett s érte, Uram, tőled<br/>Reméljük üdvösségünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, szent, szent az Isten, énekelje minden,<br/>Ég és föld imádjátok.<br/>Közeleg az égből, dicsőséges fényből,<br/>Szent neve legyen áldott!</lines>
+    </verse>
+  </lyrics>
+</song>

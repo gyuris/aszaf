@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Téged vár a népek lelki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged vár a népek lelki sötétsége, Isten.<br/>Nincs, ki nékünk harcainkban segítene itt lenn.<br/>Ha szentséges arcod ragyog vándorútunk végén:<br/>Megnyugosznak egymás mellett a nemzetek békén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sötétség tévedését, Uram, oszlasd széjjel,<br/>S töltsd be lelkünk Szentegyházad igaz igéjével.<br/>Légy a népnek fényessége, hogy egy-úton járjon,<br/>És a kétség útvesztőin mégis Rád találjon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hisszük, Jézus, Rajtad kívül többé nem kell várnunk<br/>Más megváltót és tanítót. A mi Szentegyházunk<br/>Igazságod csalhatatlan hirdetője, őre,<br/>Amely bizton vezet üdvünk útjain előre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott kenyér s bor színébe jöjj, Uram, közénk le,<br/>S tekints szelíd kegyes szemmel e szenvedő népre,<br/>Melynek szívét általjárja már a könny s a bánat,<br/>És vezeklő keresője lett az éghazának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örvendezzünk, keresztények, közel van az Isten,<br/>És eléje minden lélek szentül közelítsen,<br/>S az angyalok seregének hangján énekelje:<br/>Siess, Uram, jöjj le közénk, kérünk esdekelve.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ki elveszed tőlünk a bűnt, adj erőt szívünknek,<br/>Hogy ellene-mondjunk a ránk leselkedő bűnnek,<br/>És egykoron győzelmesen mehessünk elédbe,<br/>Angyalokkal „Szent, szent, szent vagy!” zenghessük az égbe'.</lines>
+    </verse>
+  </lyrics>
+</song>

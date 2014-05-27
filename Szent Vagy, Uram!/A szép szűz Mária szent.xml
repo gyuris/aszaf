@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>A szép szűz Mária szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A szép szűz Mária szent Fiának,<br/>Imígyen énekelt kis Jézusnak:<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aludj el, magzatom, napom fénye,<br/>Életem egyetlen szép reménye.<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aludj el, fiacskám, rózsaszálam,<br/>Aludj el, violám, én zöld ágam.<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Barmok közt, jászolban, én gyermekem,<br/>Aludj a szénában, szép kisdedem.<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem tudom, mit mondjak örömömben,<br/>Hogy téged láthatlak ez életben.<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Magamhoz szorítlak, megcsókollak,<br/>Tégedet szívemből úgy imádlak.<br/>Örömest ringatlak, szívemből óhajtlak,<br/>Aludj, aludj.</lines>
+    </verse>
+  </lyrics>
+</song>

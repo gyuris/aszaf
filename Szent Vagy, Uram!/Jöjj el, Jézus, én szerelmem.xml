@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Jöjj el, Jézus, én szerelmem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el, Jézus, én szerelmem, jöjj el, édes Istenem!<br/>Hozzád siet az én lelkem, Jézus, gyönyörűségem.<br/>Mert e világ csalárd hívság, nem is tetszik énnékem,<br/>Te vagy egész ékességem, Istenem és mindenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezer szívvel hogyha bírnék, mind tenéked áldoznám.<br/>Ezerszerte fohászkodnék, azt is mind felajánlnám.<br/>Csak egyetlen szívem vagyon, de azt néked ajánlom,<br/>Szent kezedet, szent lábadat sok ezerszer csókolom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szép Jézusom, úgy szeretlek, ha szívembe vehetlek.<br/>Téged buzgón megölellek s addig el sem eresztlek,<br/>Míg engemet kegyelmedbe be nem fogadsz s kedvedbe,<br/>S felvitetvén mennyországba koronát tész fejemre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édes Jézus, minden utam szíved szerint intézem.<br/>A te drága szerelmedet szívem mélyén őrizem.<br/>Képed mását lelkem mélyén szépségedbe öltöztesd,<br/>S kegyelmednek harmatával szívem földjét öntözgesd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Édes Jézus, szállj szívembe, mikor eljő halálom,<br/>Midőn testem földbe mégyen, lelkem hozzád fölszálljon.<br/>Végső órám gyötrelmében ágyam mellett lássalak,<br/>Hogy majd egykor fönt az égben mindörökké áldjalak.</lines>
+    </verse>
+  </lyrics>
+</song>

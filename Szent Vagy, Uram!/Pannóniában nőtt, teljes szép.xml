@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Pannóniában nőtt, teljes szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pannóniában nőtt, teljes szép viola.<br/>Jó magyar nemzetnek bíztató hajnala.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szigeti klastromban, nagy Duna mentében<br/>Élt ez a királylány angyali szépségben.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Testét sanyargatván Istennek áldozta,<br/>Gyakorta éjjel is az Urat áldotta.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szőrövet kötöze gyenge derekára,<br/>Gondot úgy visele üdvösség dolgára.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Még ifjan magához az Isten felvette,<br/>Az örök életben megdicsőítette.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lelkünk szép mécsese, fényeskedjél bennünk,<br/>Hogy a szép szemérem ékítse ép lelkünk.<br/>Szűz szent Margit, esedezzél<br/>Nemzetünkért az Istennél,<br/>Szép, magyar liliom!</lines>
+    </verse>
+  </lyrics>
+</song>

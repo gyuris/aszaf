@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Krisztusnak szent vérén</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztusnak szent vérén megváltott hű lelkek,<br/>Máriát dicsérni buzgó szívvel jertek!<br/>Hisz e tiszta szent Szűz édesanyánk nékünk,<br/>A bajban és vészben ő a menedékünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságát az Isten éreztette veled,<br/>S kitüntetett téged az angyalok felett.<br/>Teremtett lény nálad dicsőbb, szentebb nincsen,<br/>Hisz egyszülött Fiad a hatalmas Isten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszem s vallom mindig, hogy Mária lelke<br/>Szeplőtelen tiszta, mint liliom kelyhe.<br/>Nem eredt rá soha ős szüleink vétke,<br/>Lelkét a véteknek árnyéka sem érte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drágalátos szent Szűz, könyörögve kérlek,<br/>Légy szószólóm nékem s szent Fiadat kérd meg:<br/>Fogadja jó szívvel hálámnak fejében<br/>A kenyeret és bort most a szentmisében.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szeplőtelen szent Szűz, akit hordott méhed,<br/>Az Teremtőd, Urad és Istened néked.<br/>Őt dicséri, áldja a világon minden,<br/>Mert ő a hatalmas, szent, szent, szent Úristen.</lines>
+    </verse>
+  </lyrics>
+</song>

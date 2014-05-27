@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Drága hazám, te, nagyok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drága hazám, te, nagyok termőföldje,<br/>Vérben is tied dicsőid legtöbbje.<br/>De kis kertedben, melyet szentnek hívnak,<br/>Mások is nyílnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Őt is, ki joggal a te kincsed már most,<br/>Más nemzet szülte Kapisztráni Jánost.<br/>Kalabriából, mikor épp fosztották,<br/>Nyerte az ország!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A pogány nékünk már sírhelyet nézett,<br/>Akkor jött hozzánk barátnak s vitéznek.<br/>Hogy sírba dőljünk: nagy Hunyadink kardja<br/>És ő nem hagyta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó ezért mindig szeressük, dicsérjük,<br/>Kövessük abban, hogy másért is éljünk.<br/>A földért és az égért való harcba'<br/>Bíztasson arca!</lines>
+    </verse>
+  </lyrics>
+</song>

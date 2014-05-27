@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Téged áldunk, Szentháromság</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged áldunk, Szentháromság Istenünk,<br/>Mi Urunknak, Teremtőnknek tisztelünk,<br/>Örök Atya, mindenható Istenség,<br/>Téged vall a kerek földön minden nép.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neked égben az angyalok rendei<br/>Meg nem szűnnek hangos szóval zengeni:<br/>Szent, szent, szent vagy, seregeknek Istene,<br/>Az ég és föld felségeddel van tele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőséges apostolok éneke,<br/>Prófétáknak, mártíroknak serege,<br/>Világszerte mind az Anyaszentegyház:<br/>Téged dicsér, téged imád, téged áld.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi Atyánknak mérhetetlen fölségét,<br/>Egyszülötted tisztelendő szépségét,<br/>S aki hozzánk kettőtöktől küldetett,<br/>Megszentelő, vigasztaló Lelkedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztus Király, Atya örök szülötte,<br/>Te érettünk leszállottál a földre,<br/>Az embernép megmentését vállaltad,<br/>S ember módra születni nem átalltad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te letörted fulánkját a halálnak,<br/>S országodat híveidnek kitártad.<br/>Fölszálltál az Atya Isten jobbjára,<br/>Élők, holtak eljövendő bírája.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(letérdelünk)<br/>Kérünk azért: szolgáidat segéld meg,<br/>Akiket megváltott drága szent véred.<br/>Hogy szenteid seregébe juthassunk,<br/>S uralkodjál mindörökké mirajtunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(Ismét felállunk)<br/>Téged áldunk, szent nevedet, mindennap,<br/>Mindörökké valljuk: erős Isten vagy!<br/>Bűntől minket e mai nap védelmezz,<br/>Légy kegyelmes, légy irgalmas népedhez.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szálljon, Uram, te irgalmad fölébünk,<br/>Amiképpen benned a mi reményünk,<br/>Csak egyedül benned az én reményem,<br/>Mindörökre elkerüljön a szégyen.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(P: Áldjuk az Atyát és a Fiút a Szentlélekkel.)<br/>H: Dicsérjük és magasztaljuk Őt mindörökké.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>(P: Benedicamus Patrem et Filium cum Sancto Spiritu.)<br/>H: Laudemus et superexaltemus eum in sæcula.</lines>
+    </verse>
+  </lyrics>
+</song>

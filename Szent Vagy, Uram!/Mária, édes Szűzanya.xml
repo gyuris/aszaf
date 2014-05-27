@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Mária, édes Szűzanya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, édes Szűzanya,<br/>Szentháromságnak leánya,<br/>Szentlélek jegyese, Krisztusnak édese,<br/>Imádd értünk Istent, kérünk,<br/>Engeszteljed Krisztust nékünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zokognak árvák szívei,<br/>Sírnak özvegyek lelkei.<br/>Tehozzád sóhajtunk, könyörülj mirajtunk,<br/>Lelkünk buzgó imádságát<br/>Kegyelmesen fogadd hozzád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mennyei ékes virágszál,<br/>Ki oly csodásan virágzál,<br/>Mutasd meg szépséged, segítsd meg jó néped.<br/>Légy szószólónk, útmutatónk,<br/>Elérnünk az üdvösséget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te eredeti bűn nélkül<br/>Fogantattál és folt nélkül,<br/>Nincs bűnöd, nincs vétked, szeplőtlen szépséged.<br/>Ó drága Szűz, ó kegyes Szűz,<br/>Vétkeinkért, ó, el ne űzz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Emlékezzél gyakran miránk,<br/>Nem hallatszott még, jó Anyánk,<br/>Hogy hiába hívott, aki benned bízott.<br/>Azért ne hagyj, minden jót adj,<br/>Halálunkkor hozzád fogadj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, boldogságos Szűz,<br/>Add, hogy az égi tiszta tűz<br/>Szívünkben gerjedjen, lelkünkben terjedjen,<br/>Szentül éljünk, bűntől féljünk,<br/>Hogy veled egykor örvendjünk.</lines>
+    </verse>
+  </lyrics>
+</song>

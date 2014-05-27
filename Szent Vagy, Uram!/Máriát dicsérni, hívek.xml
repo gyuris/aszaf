@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Máriát dicsérni, hívek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="325"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriát dicsérni, hívek jöjjetek,<br/>Mert ő fogja kérni Fiát értetek.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha értünk Mária Fiát kérleli,<br/>Kérését szent Fia meg nem vetheti.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istentől csodával néki adatott,<br/>Hogy anyaságával Szűz maradhatott.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teljes áldásokkal, mint világgal tűz,<br/>És szent malasztokkal e dicsőült Szűz.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fogantatásában ő vétkes nem volt,<br/>Sem élte folytában, sem, midőn megholt.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó Szűz, életfája a jámboroknak,<br/>És főpátrónája hív magyaroknak.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te vagy segítsége minden híveknek,<br/>És nagy reménysége a bűnösöknek.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Azért is szívemben mostan vigadok,<br/>És igaz lelkemből híved maradok.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Utolsó órámban segélj engemet,<br/>Az örök hazába segítsd lelkemet.<br/>Üdvözlégy, Mária! mondja minden hív,<br/>Áldott légy, Mária! mondja nyelv és szív.</lines>
+    </verse>
+  </lyrics>
+</song>

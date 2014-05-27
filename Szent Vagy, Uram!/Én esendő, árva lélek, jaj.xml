@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Én esendő, árva lélek, jaj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én esendő, árva lélek, jaj nekem, jaj hol vagyok?<br/>Elborult az ég felettem, föld alólam elfogyott.<br/>Minden, amit úgy szerettem, minden olyan messze van!<br/>Itt vagyok az Úr kezében, árván, pőrén, egymagam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy kihűlt a földi érzés, hála, jóság, tisztelet!<br/>Kik szerettek s kit szerettem, minden, minden elfeled.<br/>Nincs hűség az emberekben, ha koporsónk zárva van!<br/>S én itt állok a sötétben bűneimmel egymagam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még a testem ki se vitték, még koporsóm szegezik,<br/>S már a Bíró kéri számon sáfárságom éveit.<br/>Merre fussak, hova bújjak, hol találok rejteket?<br/>Hogy takarjam el az Úrtól szörnyű pőreségemet?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, de mégis, sugár gyúlad, fut a gyilkos éjszaka:<br/>Védő karját felém nyújtja Ő, a Bíró, ő maga.<br/>Homlokomon megtalálja híveinek szent jelét:<br/>Bűneimnek durva foltján átragyog a szent pecsét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igen, igen, bűnbe estem, halmoztam a bűnöket,<br/>De soha meg nem tagadtam a keresztény szent hitet.<br/>Soha tőled el nem álltam, én kegyelmes Krisztusom,<br/>Homlokomon a keresztség örök fényét hordozom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Most e drága, tiszta hitnek fátyolába öltözöm,<br/>Ez legyen a lakomára mennyegzői köntösöm.<br/>Minden bűntől bánatomnak omló könnye mosta meg.<br/>Tied vagyok, édes Jézus, hívd magadhoz lelkemet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Mária, Szűzanya Názáretből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Szűzanya Názáretből indul útnak.<br/>Az úton fa, virág egymásnak szent titkot súgnak.<br/>Madárkák zengenek, az ég is ráragyog:<br/>Földön még nem esett ily nagy dolog.<br/>Mária szent szívén dobog szíve örök Úrnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Virraszt a Szűzanya Betlehemnek barlangjában.<br/>Altatja kis fiát hideg téli éjszakákban:<br/>„Szívemről leszakadt Isteni magzatom,<br/>Ó hogy szent véredet én adhatom!<br/>Szíveddel egy szívem áldott, örök boldogságban.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Golgota szomorú keresztjén hull Krisztus vére.<br/>Váltság és fizetés: megváltásunk drága bére.<br/>„Istenem, úgy legyen, amint Te akarod.<br/>Fogadd el tőlem ez áldozatot!”<br/>És áldott béke száll a Szűzanya hű szívére.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drága Szív, anyaszív, tebelőled él a Gyermek,<br/>Egyetlen jó Anyánk, megköszönjük szent Szívednek.<br/>Jézusé életed, Jézusé a szíved.<br/>Szívünk is hadd legyen, Anyánk, tied.<br/>Az örök életet, ó jó Anyánk, nekünk nyerd meg.</lines>
+    </verse>
+  </lyrics>
+</song>

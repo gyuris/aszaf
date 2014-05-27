@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Boldogságos Krisztus Anyja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogságos Krisztus Anyja, vigadozzál;<br/>Mert a földre fényességet, vigaszt hoztál,<br/>Boldogságot harmatoztál,<br/>Drága bokor, édes bimbót virágoztál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Éva bűnét, melyért rajtunk sír adója,<br/>Helyrehoztad, üdvösségünk ringatója,<br/>Amikor az angyalszóra<br/>Alázattal mondtad: „Isten szolgálója”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnösöknek boldogságos menedéke,<br/>Keseredett, beteg szívek édessége,<br/>Légy az árvák segítsége,<br/>Ellenségtől biztos, boldog égi béke.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog, aki téged szüntelen magasztal,<br/>Szentté lesz, kit elhalmozol szent malaszttal,<br/>Krisztus olyat megvigasztal,<br/>S vendégségre várja boldog égi asztal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Esedezik színed előtt Magyarország,<br/>Fáradt kezét segítségért nyújtja hozzád,<br/>Te kezedbe teszi sorsát,<br/>Rabságából, édes mentő, hogy kihoznád.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Előtted sír egész ország könyörögve,<br/>Hiszen tiéd századoktól minden rögje.<br/>István király szent örökje<br/>Isten után benned bízik mindörökre.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent Fiadat, Boldogasszony, kérd e népért,<br/>Győzelemmel verje vissza ellenségét.<br/>Rabságának vesse végét,<br/>Adja neki égen-földön üdvösségét.</lines>
+    </verse>
+  </lyrics>
+</song>

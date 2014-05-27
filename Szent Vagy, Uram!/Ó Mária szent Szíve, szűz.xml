@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó Mária szent Szíve, szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Mária szent Szíve, szűz virág!<br/>Harmata, illata imádság.<br/>Várja fiát, égi urát,<br/>Virrasztva, epedve éj s napon át.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Mária szent Szíve, tiszta kert!<br/>Benne az ég ura lakást nyert.<br/>Fészek e szív, mely haza hív,<br/>Mikor a földi baj ostroma vív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Mária szent Szíve, gyertyaszál!<br/>Templomi áldozat te voltál.<br/>Jézusodat szent fiadat,<br/>Istennek od'adtad magzatodat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Mária szent Szíve, könnypatak!<br/>Belőle sóhajok fakadnak.<br/>Hét sebe sír, hét sebe fáj:<br/>Kereszten szenved az égi király.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Mária szent Szíve, csillagunk!<br/>Vezérünk, gyámolunk, bizalmunk.<br/>Nézz le reánk földi csatán!<br/>Vígy fel a mennybe a harcok után.</lines>
+    </verse>
+  </lyrics>
+</song>

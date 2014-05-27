@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Örülj, te boldog Betlehem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örülj, te boldog Betlehem! – Vigadjatok, örüljetek!<br/>A kívánt Kisded megjelent. – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az örökkévaló Ige, – Vigadjatok, örüljetek!<br/>Emberformába öltöze, – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megértve Gábriel szavát, – Vigadjatok, örüljetek!<br/>A Szűz fogadta szent Fiát. – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hitvány jászolban sírdogál, – Vigadjatok, örüljetek!<br/>Aki a mindenen király. –  A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megismeri ökör, szamár, – Vigadjatok, örüljetek!<br/>Hogy ez a kisded a király. – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jönnek kelet királyai, – Vigadjatok, örüljetek!<br/>Aranyat tömjént hordani. – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A házba lépnek együtt ők, – Vigadjatok, örüljetek!<br/>Hódolnak új urok előtt. – A Krisztus veletek!<br/>Örvendjenek jövetének együtt ifjak meg a vének.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Megüljük áldott ünnepét, – Vigadjatok, örüljetek!<br/>És áldjuk Isten szent nevét. – A Krisztus veletek!<br/>Örvendjenek jövetének  együtt ifjak meg a vének.</lines>
+    </verse>
+  </lyrics>
+</song>

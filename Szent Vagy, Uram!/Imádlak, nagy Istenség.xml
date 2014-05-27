@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Imádlak, nagy Istenség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak, nagy Istenség,<br/>Test s vér, titkos mély Szentség, leborulva.<br/>Itt van Isten s emberség,<br/>Véghetetlen nagy Fölség föláldozva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, te szent manna!<br/>Ennél többet ki adna? Nincs mód benne.<br/>Ez az égi nagy Jóság,<br/>A teljes Szentháromság nagy kegyelme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent testével így táplál,<br/>Hogy ne ártson a halál! Mily kegyesség!<br/>Szent vérével harmatoz,<br/>Így szelídít magához ez Istenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szállj le hozzám, szent kenyér,<br/>Jöjj, ártatlan drága Vér, szánd lelkemet!<br/>Bár hajlékom nem méltó,<br/>Elég Tőled csak egy szó, vedd szívemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soha többé nem vétek,<br/>Jézusom, már megtérek, légy kegyelmes!<br/>Ne tekintsed rútságát,<br/>Vétkeimnek vakságát, ó meg ne vess!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Neked élek és halok,<br/>Végig véled maradok, ó, Jézusom!<br/>Verem buzgón mellemet,<br/>Szánom-bánom vétkemet, én Krisztusom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Gyászba borult Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyászba borult Isten csillagvára,<br/>Függönyt vontak mennynek ablakára,<br/>Meghalt, meghalt az ártatlan Bárány,<br/>Vértől ázott szent kereszt oltárán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Temetésre lejön a mennyország,<br/>Könnytől áznak az angyali orcák.<br/>Sír, zokog a fiavesztett gerle,<br/>Égig ér a Szűzanya keserve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élet Ura, meghaltál lelkünkre,<br/>A Sátánnak országa most dőlt le.<br/>Szűz Anyádnak fájdalmát tekintsed,<br/>Add meg nekünk a mennyei kincset!</lines>
+    </verse>
+  </lyrics>
+</song>

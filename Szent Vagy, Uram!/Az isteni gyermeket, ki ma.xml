@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Az isteni gyermeket, ki ma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az isteni gyermeket, ki ma kijelentetett<br/>A három szent bölcs előtt, dicsérjük és áldjuk őt.<br/>Szép jel és szép csillag, szép napunk támadt, szép napunk támadt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A zsidók őt üldözék, a bölcsek megtisztelék<br/>Arany, tömjén, mirhával, s a szív imádásával.<br/>Szép jel és szép csillag, szép napunk támadt, szép napunk támadt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent hitünknek csillaga minekünk is jelt ada,<br/>Hogy megjelent királyunk, kit epedve úgy vártunk.<br/>Szép jel és szép csillag, szép napunk támadt, szép napunk támadt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hit, remény és szeretet, mely tőle nyer életet:<br/>Ez a hármas áldozat, melyet szívünk neki ad.<br/>Szép jel és szép csillag, szép napunk támadt, szép napunk támadt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten-ember, nagy király! Előtted ím néped áll,<br/>Kérvén szent malasztodat, hogy áldja jóvoltodat.<br/>Szép jel és szép csillag, szép napunk támadt, szép napunk támadt.</lines>
+    </verse>
+  </lyrics>
+</song>

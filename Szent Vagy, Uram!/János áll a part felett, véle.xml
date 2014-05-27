@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>János áll a part felett, véle</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>János áll a part felett, véle hívő nagy sereg.<br/>S íme Jézus lép oda, mint a hajnal csillaga.<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>János ujjal rámutat. Készít néki tört utat,<br/>„Ím a Bárány, ím aki Bűneinket elveszi.”<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És az Úr a vízbe lép, bűnös ember másaképp<br/>És meghajtva szent fejét, kéri a kereszt jelét.<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ámul a Keresztelő, ám Urának enged ő,<br/>És a Krisztus szent jelül a Jordánban megmerül.<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áhítattal néz a nép, s kettényílik a nagy ég,<br/>Száll a Lélek, szent galamb, s a magasból kél a hang.<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>„Ím, szerelmes egy fiam! Minden kedvem benne van.<br/>Hallgassátok mindig őt!” Isten, erre adj erőt!<br/>Nincs homály, itt a nap, minden új fényt kap.</lines>
+    </verse>
+  </lyrics>
+</song>

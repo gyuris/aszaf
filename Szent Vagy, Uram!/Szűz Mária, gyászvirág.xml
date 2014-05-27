@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Szűz Mária, gyászvirág</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária, gyászvirág,<br/>Mély bánatot termő ág,<br/>Mint összetört rózsaszál,<br/>Jaj, de árván maradtál!<br/>Mária, Mária, Hétfájdalmú Szűz Anya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs magasabb az égnél,<br/>Nincs mélyebb a tengernél,<br/>De a Szűz nagy fájdalma<br/>Eget, földet áthatja.<br/>Mária, Mária, Hétfájdalmú Szűz Anya!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Velünk lakó tiszta Ostya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Velünk lakó tiszta Ostya, Isteni nagy igazság!<br/>Minden csodák legnagyobbja, halhatatlan orvosság!<br/>Választottak gabonája, lelkünk édes, dús mannája,<br/>Kegyelemnek ajándéka, Istennek szent Báránya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy ama csipkebokor, amely lángját mutatja,<br/>Melyet Mózes térden szemlélt, sarúját megoldotta.<br/>Épségében, szépségében a bokor nem fogyatkozott,<br/>Zöld levele csodaképpen frissen, szépen fakadott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csipkebokor, ha megtartá fogyhatatlan épségét,<br/>Ez az erős égi király hogy fogyatná szépségét!<br/>Szeretete lánggal égő olthatatlan nagy tüzében,<br/>Él egészen, az Ostyának legparányibb részében.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halljad a szót, gyarló ember, kinek szemén köd tapad:<br/>Elméd ezen ne futtassad, alázzad meg magadat.<br/>Mert hatalma fogyhatatlan, és igéje az igazság.<br/>Élő Krisztus élő szava csalhatatlan bizonyság.</lines>
+    </verse>
+  </lyrics>
+</song>

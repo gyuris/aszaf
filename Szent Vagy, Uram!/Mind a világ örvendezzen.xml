@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Mind a világ örvendezzen</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mind a világ örvendezzen Krisztus születésén,<br/>Ki ember lett Szűzanyjától angyal üdvözlésén.<br/>Vígszavú énekkel, tiszta szép elmével.<br/>Örvendezzünk, vigadozzunk e napon, Karácsony! Karácsony!<br/>Az Úr Jézus megjelent e világon, Karácsony! Karácsony!<br/>Szűz Mária szülte nékünk e napon, Karácsony! Karácsony!<br/>Vigadozzunk, örvendezzünk, énekeljünk, tapsoljunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most az egek mézzel folynak, mind a világ boldog,<br/>E gyermekben frigyre léptek égi s földi dolgok.<br/>Istenség ember lett, jászolban szendergett.<br/>Örvendezzünk, vigadozzunk e napon, Karácsony! Karácsony!<br/>Lélekzel már, bűnös ember, szabadon, Karácsony! Karácsony!<br/>Megnyílt néked a mennyország e napon, Karácsony! Karácsony!<br/>Vigadozzunk, örvendezzünk, énekeljünk, tapsoljunk!</lines>
+    </verse>
+  </lyrics>
+</song>

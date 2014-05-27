@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Szent Olvasót imádkoztunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="295"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Olvasót imádkoztunk,<br/>Máriához fohászkodtunk,<br/>Kérve kérjük Szűzanyánkat,<br/>Fogadja el hű imánkat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Olvasót mikor mondtunk,<br/>Máriának füzért fontunk,<br/>Fonogattuk koszorúnkat,<br/>Rózsafüzért Asszonyunknak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imádságunk koszorúzza<br/>Őt, aki a legszebb rózsa,<br/>Égi bimbót hajtott nékünk:<br/>Rajta nyílt ki üdvösségünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szűz Mária, szívünkben vagy,<br/>Soha bennünk el ne hervadj!<br/>Nyílj ki bennünk, ég virága,<br/>Tégy méltóvá mennyországra.</lines>
+    </verse>
+  </lyrics>
+</song>

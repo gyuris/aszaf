@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Mennyből követ ma küldetett</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyből követ ma küldetett Máriának köszönni,<br/>Világ Ura s Megváltója anyjává kijelölni.<br/>Ő oly törzsök, kit az örök végzés maga kiválasztott,<br/>Tiszta méhe rejtekébe Isteni sarjat oltott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez isteni sarj megtermi életünknek gyümölcsét,<br/>Biztosítja és megadja lelkünk örök életét.<br/>Leborulva, porba hullva üdvözöllek, ó szűz Anyám!<br/>Hő szívemből, hő lelkemből fogadd forró, nagy hálám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert szívembe te oltál be minden nemes érzeményt,<br/>Te ébresztél és élesztél bennem hitet és reményt.<br/>A szeretet tőled eredt, mi bensőmet lelkesíti;<br/>Minden erény olyan szent fény, mely tetőled árad ki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezért, Anyám, forró imám hozzád küldöm és kérlek:<br/>Légy gyámolóm és pártfogóm, amíg véget nem érek.<br/>Akkor engem, ha megtettem vándorútját életemnek,<br/>Végy magadhoz fel az égbe s add jutalmát lelkemnek.</lines>
+    </verse>
+  </lyrics>
+</song>

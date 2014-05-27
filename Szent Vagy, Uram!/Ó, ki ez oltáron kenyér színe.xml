@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ó, ki ez oltáron kenyér színe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, ki ez oltáron kenyér színe alatt,<br/>A tiszta ostyának fehérsége alatt,<br/>Fölséges Úristen, el vagy rejtezkedve csodálatosképpen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Testi szemeimmel noha nem láthatlak,<br/>De mindazonáltal igazán imádlak,<br/>Téged Teremtőmnek, Istenemnek vallak, dicsérlek és áldlak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E csodát az Írás sokképpen mutatja,<br/>Ezt Melkizedeknek jelzi áldozatja,<br/>Ötezer embernek osztott kenyerekben Jézus elénk adja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezt az áldott testet, melyet itt imádunk,<br/>Ezt az áldott szent vért, melynek térdet hajtunk,<br/>Te szavadra, Jézus, erős hittel valljuk; könyörülj meg rajtunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drága sebeidbe vétkeimet rejtem,<br/>Harmatozó véred mossa meg a lelkem;<br/>Ez a szent áldozat, mit most felajánlunk, fehérre mos engem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bűnös Magdolnával lábadhoz borulok,<br/>Emlékezzél rólam, latorral kiáltok.<br/>Könyörülj meg rajtam! Dáviddal így dallok, szent, szent, szentnek vallak!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Hallgasd meg, hallgasd meg</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgasd meg, hallgasd meg, Uram Isten, az áldás szavát,<br/>Áraszd ránk, áraszd ránk testi-lelki kegyelem javát.<br/>Őrizz minket a rossztól, a kísértő gonosztól,<br/>A mélységből kiáltó híveidet hallgasd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

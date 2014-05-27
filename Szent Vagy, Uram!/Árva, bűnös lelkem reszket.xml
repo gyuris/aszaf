@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Árva, bűnös lelkem reszket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Árva, bűnös lelkem reszket, átkarolja szent kereszted.<br/>Édes Jézus, szíved értem mennyi vért vesztett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tilos, gonosz úton jártam. Hívó szódra nem vigyáztam.<br/>Édes Jézus, Golgotáig jártál utánam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tévedt bárány, gyönge, hűtlen: bűn árjában elmerültem.<br/>Égi pásztor, szent szívednek sokba kerültem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűnöm szennyét úgy utálom, karjaim csak feléd tárom.<br/>Jöjj el, édes, könyörülj meg rossz báránykádon.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent öledre síró lélek: karjaidba visszatérek.<br/>Ott maradok, néked élek, amíg csak élek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus, édes jó szerelmem, mily jó nálad megpihennem!<br/>Engedd szíved szent irgalmát örökre zengnem.</lines>
+    </verse>
+  </lyrics>
+</song>

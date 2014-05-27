@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>A fényes Istenarcot vér s</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fényes Istenarcot vér s fájdalom fedi:<br/>Mint küzde szörnyű harcot, hallgatva hirdeti.<br/>A főn, mely égi bérre százszorta érdemesb,<br/>Szúr vad tövis füzére, így még dicsőbb, nemesb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő Isten Egyszülötte, mindenható király;<br/>S most győz a düh felette, csúfos halált kínál.<br/>Nincs benne semmi épség, letört virág a test,<br/>S mégis mily égi szépség, mit rózsa pírja fest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alázva, törten állok a szent kereszt alatt,<br/>E könny legyen a zálog, mily hőn sirattalak!<br/>E könny szívem tanúja, hogy már híven szeret,<br/>Ó vedd szívedbe újra, itt adj örök helyet.</lines>
+    </verse>
+  </lyrics>
+</song>

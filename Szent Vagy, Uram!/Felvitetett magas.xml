@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Felvitetett magas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felvitetett magas mennyországba,<br/>Angyali szép, örvendetes házba,<br/>E nap a Szűz nagy menyasszonyságba,<br/>Az Istennek drága hajlékába.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyei Atya udvarába,<br/>Felső Sion drága városába,<br/>Dicsőséges szép palotájába,<br/>Már bemégyen nagy vigasságába.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Asszonyi rend nemes boldogsága,<br/>Pátriárkák buzgó kívánsága,<br/>Angyaloknak nagy boldog vígsága,<br/>Az Istennél minden fölött drága.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sokan voltak nemes asszonynépek,<br/>dicséretes tudománnyal szépek,<br/>Tisztaságuk virágában épek,<br/>De ennek csak nyomába sem léptek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beteljesül Dávidnak zsoltára,<br/>Mit énekelt világ hallatára:<br/>A királyné királynak jobbjára<br/>Állapodik örök társaságra.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ez a szentek fénylő tisztasága,<br/>Zsenge szűzek ékes gyöngyvirága,<br/>Mártíroknak arany pálmaága,<br/>Hitvallóknak édes vigassága.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Asszonyunknak nagy a nemessége,<br/>Dicsőséges királyi felsége.<br/>Mindeneket felülmúl szépsége,<br/>Mint csillagot a nap fényessége.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Imádkozzál értünk Szülöttednek,<br/>Nyerj kegyelmet tőle népeidnek,<br/>Kik általad kegyelmet keresnek,<br/>És előtte sírva esedeznek.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Dicsérjük Jézus szentséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjük Jézus szentséges Szűz Anyját,<br/>A szép mennyország színaranyját,<br/>Az égnek drága gyönyörűségét,<br/>A kerek földnek legragyogóbb ékét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó szent Szűz, tiszta minden földi szennytől,<br/>Nagy kegyet nyertél az Istentől,<br/>Mert, mint a liljom, tiszta volt lelked,<br/>Isten anyjául kiválasztott téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó drága szent Szűz, új örömnap fénye,<br/>Úr Jézus tiszta, szent edénye.<br/>Mária, téged epedve kérünk,<br/>Ó maradj, szent Szűz, mindhalálig vélünk.</lines>
+    </verse>
+  </lyrics>
+</song>

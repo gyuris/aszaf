@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Kegyességgel hívsz, ó Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyességgel hívsz, ó Jézus,<br/>Atyai szent kebledre,<br/>Hozzád megyünk mindahányan,<br/>Kik meg vagyunk terhelve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyei szent karokkal<br/>Engedd, Uram, zengenünk:<br/>Légyen áldás és dicséret<br/>Neked, édes Istenünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oltárodhoz azért jöttünk<br/>Követvén hívásodat,<br/>Hogy megnyerjük az enyhülést,<br/>A te szent malasztodat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kihez menjünk, Uram Jézus?<br/>Igazság, út csak Te vagy,<br/>Benned hiszünk és reménylünk,<br/>Soha, soha el ne hagyj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Itt van, mit a végvacsorán,<br/>Jézus, értünk szerzettél,<br/>És a kínos szent keresztfán<br/>Szent véreddel rendeltél.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áradjon ránk, kegyes Jézus!<br/>Ez áldozat érdeme,<br/>És hagyj benned elmerülni,<br/>Irgalomnak tengere.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A tiszta szív érzelmével<br/>Zengjen buzgó énekünk:<br/>Szent az Isten, szent az Isten,<br/>Szent vagy, édes Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

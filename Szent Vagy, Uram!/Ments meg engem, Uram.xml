@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ments meg engem, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ments meg engem, Uram! az örök haláltól,<br/>Ama rettenetes napon minden bajtól;<br/>Midőn az ég és föld meg fognak indulni,<br/>S eljössz a világot lángokban ítélni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reszket minden tagom, borzadok és félek,<br/>Földi pályát végzett szegény, bűnös lélek;<br/>Félek a naptól, mely vizsgálni fog s dúlni,<br/>Midőn az ég és föld meg fognak indulni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Haragnak napja az, ínség s veszély napja,<br/>Nagy nap, mely a bűnöst gyötrelemnek adja;<br/>Midőn te, ki mindig éltél és fogsz élni,<br/>Eljössz a világot lángokban ítélni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örök nyugodalmat adj, ó Uram, nékik,<br/>S örök világosság fényeskedjék nékik:<br/>Hogy szent trónod körül udvarolhassanak,<br/>S téged, boldogítót, örökké áldjanak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örök nyugodalmat adj, ó Uram, néki,<br/>S örök világosság fényeskedjék néki:<br/>Hogy szent trónod körül ő udvarolhasson,<br/>S téged, boldogítót, örökké áldhasson.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ments meg engem, Uram, az örök haláltól,<br/>Ama rettenetes napon minden bajtól;<br/>Midőn az ég és föld megfognak indulni,<br/>S eljösz a világot lángokban ítélni.</lines>
+    </verse>
+  </lyrics>
+</song>

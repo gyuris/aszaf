@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Istenség mélysége, lelkek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenség mélysége, lelkek édessége elrejtezve itt vagyon.<br/>Drága lelki ízzel, mennyei szent mézzel bővelkedik ez nagyon.<br/>Minden teremtett lélek, földön és a föld felett, buzgó szívvel imádjon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áron zöld vesszőjét, csudáknak szerzőjét ez magában foglalja.<br/>Itt száraz fa zöldül, s annak szíve zsendül, ki igazán imádja.<br/>Az Úr Jézus hatalmát, hozzánk való irgalmát ember itt feltalálja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy Szentség áldassál, felmagasztaltassál, minden jóval tölt edény,<br/>E kisded kenyérben és a bor színében tisztán tündöklő napfény,<br/>A halandó embernek, elbágyadott szíveknek üdvösségre nagy remény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjjetek angyalok, mennyei szent karok imádni e Szentséget.<br/>Üdvösség záloga, Jézus van itt maga, őt szívből dicsérjétek.<br/>Mi is térdre lehullva, földig porba borulva áldjuk a nagy Felséget.</lines>
+    </verse>
+  </lyrics>
+</song>

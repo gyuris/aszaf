@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Ó fényességes szép hajnal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó fényességes szép hajnal,<br/>Kit így köszöntött az angyal:<br/>Üdvözlégy, teljes malaszttal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséges Szűz Mária,<br/>Atyaistennek szép lánya<br/>És Szentléleknek mátkája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tehozzád küldetett mennyből<br/>Szent Gábor angyal követül,<br/>Istennek rendeléséből.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentséges Szűz, fiad leszen,<br/>Ki Isten s ember lesz egyben,<br/>És megmaradsz szűzességben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fiad az ég dicsősége,<br/>A bűnösök reménysége<br/>S a megtérők üdvössége.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó boldogságos Szűzanya,<br/>Kérünk nagy méltóságodra,<br/>Végy minket pártfogásodba!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőség Szentháromságnak,<br/>Dicséret Szűz Máriának,<br/>Üdvözítőnk szent Anyjának!</lines>
+    </verse>
+  </lyrics>
+</song>

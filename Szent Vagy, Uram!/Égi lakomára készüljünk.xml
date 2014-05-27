@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Égi lakomára készüljünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égi lakomára készüljünk, hívek,<br/>Az öröm Királya már elénk siet.<br/>Meggyógyulnak gondok, sebek,<br/>És az Úrnak békélt szívvel mondunk víg éneket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fölséges Úristen, eléd térdelünk.<br/>Ember, angyal: minden dicsér, áld velünk.<br/>Mert hatalmas a Te karod:<br/>A víz borrá, a bor vérré válik, ha akarod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kánai menyegzőn a Szűz Anya szól<br/>Szent Fiához esdőn: „Elfogyott a bor.”<br/>Hat kővedret megtöltenek.<br/>Jézus szól. A víz borrá lesz. És ujjong a sereg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszünk az Atyában: Ő a hatalom.<br/>Hiszünk egy Fiában: Ő az irgalom.<br/>Vigasztaló Szentlélekben,<br/>Gondviselő, csodatevő áldott egy Istenben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fehér ostya és bor az áldozatunk,<br/>Atyánk, magunkéból csak ezt adhatunk.<br/>Harmatozd rá malasztodat<br/>S Krisztus teste, Krisztus vére lesz a szent áldozat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent, szent, szent vagy: csengje vígan énekünk.<br/>Szent, szent, szent vagy: zengje egész életünk.<br/>Jézus hív, hogy éljünk Vele:<br/>Ő a szívünk örömbora, lelkünk szent kenyere.</lines>
+    </verse>
+  </lyrics>
+</song>

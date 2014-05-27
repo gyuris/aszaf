@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Áldjon meg minket szent</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjon meg minket szent Atyaúristen,<br/>Áldjon meg minket kegyes Fiúisten,<br/>Áldjon meg, áldjon Szentlélek Úristen,<br/>Háromszemélyű igaz, örök Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyaúristen, aki szent Fiadat<br/>Bűn váltságára miérettünk adtad,<br/>Szentlélek Istent ki elküldted nékünk,<br/>Egy örök Isten, irgalmazz minékünk.</lines>
+    </verse>
+  </lyrics>
+</song>

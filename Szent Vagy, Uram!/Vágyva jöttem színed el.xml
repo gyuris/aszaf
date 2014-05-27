@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Vágyva jöttem színed el</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vágyva jöttem színed elé e szent helyre, Istenem,<br/>Hol az ember búja, gondja szép csendesen elpihen.<br/>Itt az oltár lépcsőjénél, az oltári nagy Szentségnél,<br/>Bánatom ha kiönthetem, lelkem szinte újra él.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egykor a te szent Fiadnak angyalsereg énekelt,<br/>S énekük a csüggedésből sok bús lelket fölemelt.<br/>Én is egész csüggedt vagyok, mert vétkeim rútak, nagyok,<br/>De itt a szent ének hangján új életre támadok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bölcs Salamon Sion hegyén szép templomot épített,<br/>És abban a frigyszekrénynek méltó helyet készített.<br/>Én is olyan helyre teszem az én árva bűnös szívem,<br/>Hogy ott méltón ellakhassék a Szentlélek Úristen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hajdan a szent pátriárkák terjesztették a hitet,<br/>Mely az idők teljében a hívő népnek üdve lett.<br/>Most a Jézus tanítása, mint az egyház magyarázza,<br/>A mi örök üdvösségünk csalhatatlan forrása.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Őseinknél kosok, tulkok vére volt az áldozat,<br/>Mellyel a te fölségednek ajánlották magukat.<br/>Engesztelve, ha vétkeztek, hálálkodva, ha jót nyertek,<br/>És esdve, ha valamiben olykor hiányt szenvedtek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mi is épúgy vért áldozunk, de nem kosok s tulkokét,<br/>Hanem a szent kereszt fáján értünk meghalt Krisztusét,<br/>Mely letörli minden bűnünk, megkönnyíti minden terhünk,<br/>Hogyha hozzá élő hittel, bűnbánattal sietünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fönt az égben az angyalok így dicsérnek: szent, szent, szent!<br/>És mi vélük egyesülve magasztalunk idelent:<br/>Angyaloknak dicsősége, bűnösöknek reménysége,<br/>Te vagy minden jónak, szépnek ős forrása és vége!</lines>
+    </verse>
+  </lyrics>
+</song>

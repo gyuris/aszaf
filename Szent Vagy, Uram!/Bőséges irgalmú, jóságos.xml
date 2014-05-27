@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Bőséges irgalmú, jóságos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="314"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bőséges irgalmú, jóságos hatalmú<br/>Édes Jézus, áldott Jézus.<br/>Ím, sietünk hozzád, magunk neked hozván,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alázatos szívvel áldunk este, reggel,<br/>Édes Jézus, áldott Jézus.<br/>Mi lelkünket tisztítsd és szívünket frissítsd,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kinek erős karját, rettegjük haragját,<br/>Édes Jézus, áldott Jézus.<br/>Örökre ne büntess, haragodat szüntesd,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fordítsd felénk orcád, hogy bátrabban hozzád,<br/>Édes Jézus, áldott Jézus,<br/>Fussunk hívó szódra, üdvösséges útra,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent nevedre kérünk, ínségben segélyünk,<br/>Édes Jézus, áldott Jézus,<br/>Híveidet szánd meg, Sátánt zabolázd meg,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent nevedet áldjuk, magyarok, imádjuk,<br/>Édes Jézus, áldott Jézus,<br/>Hogy hazánk ne féljen, szent neved vezérljen,<br/>Édes Jézus, áldott Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

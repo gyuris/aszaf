@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Nézz le, Jézus, mennyekből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz le, Jézus, mennyekből minden bús hívedre,<br/>Ki tisztító helyedből vár öt mély sebedre.<br/>Várja, hogy ez a nagy bér legyen neki mentség,<br/>A szívedből folyt vér legyen üdvös könnyebbség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha keresztfán véreddel őket megmentetted,<br/>Már ezután engedd el, amiket vétettek.<br/>Világ tenger sok bűnét érdemed elfújja,<br/>Ha letörlöd szennyét, jóságodat bámulja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senki meg nem fizethet a sok bűnért néked,<br/>S te kiontod véredet, hogy lemosd a vétket.<br/>Az is adós vérednek, ki ma mennyben fenn él,<br/>Kegyelmezz hívednek, ki csak benned hisz, remél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha rabodért rab lettél ingyen kegyelmedből,<br/>Ha keresztre feszültél örök szerelmedből:<br/>Ez a nagy véráldozat hasson el poklokra,<br/>Szálljon mentő szózat véle minden foglyokra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add meg, Uram, nyugalmát minden elhunytaknak,<br/>Szűntesd immár siralmát a szegény holtaknak,<br/>Ez a hosszú reménység édes valósággá<br/>Váljék s a sötétség örök világossággá.</lines>
+    </verse>
+  </lyrics>
+</song>

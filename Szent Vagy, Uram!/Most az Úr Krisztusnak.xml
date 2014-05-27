@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Most az Úr Krisztusnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most az Úr Krisztusnak drágalátos teste,<br/>Itt felemeltetett szentséges szent vére,<br/>A kenyér s bor színe alatt ez a titkos nagy áldozat;<br/>Jézust magasztaljuk, Szent, szent, szent! kiáltjuk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imádunk Tégedet, ó drága nagy Szentség,<br/>Melyben elrejtve van Istenség s emberség.<br/>A kenyér s bor színe alatt ez a titkos nagy áldozat;<br/>Jézust magasztaljuk, Szent, szent, szent! kiáltjuk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérünk, ó Jézusunk, add, hogy hozzád térjünk,<br/>Szent tested s véredben méltóképp résztvegyünk;<br/>Így hisszük, hogy majd menny-égben, mint most kenyér s bor színében,<br/>Nevedet áldhatjuk, Szent, szent, szent! kiáltjuk.</lines>
+    </verse>
+  </lyrics>
+</song>

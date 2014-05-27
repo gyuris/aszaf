@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Az égből színméz csörgedez</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az égből színméz csörgedez.<br/>A légben illat lengedez.<br/>Mozdul az ég, áll a csillag,<br/>Ég kapui már kinyílnak.<br/>Messiásunk születik ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó pásztorok, figyeljetek!<br/>Új dalt dalol angyalsereg:<br/>Dicsőség a nagy Istennek!<br/>Békesség a jó embernek!<br/>Messiásunk születik ma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felserkennek a pásztorok,<br/>A szívük hangosan dobog,<br/>Viszik nyájuk kis bárányát,<br/>Jámbor szívük színaranyát,<br/>Kisded Jézus örömére.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én is sietve elmegyek,<br/>És elviszem a szívemet.<br/>Aranyalma kis Jézusnak,<br/>Néki adom ajándéknak,<br/>Legyen övé mindörökre!</lines>
+    </verse>
+  </lyrics>
+</song>

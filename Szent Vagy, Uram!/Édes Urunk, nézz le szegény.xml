@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Édes Urunk, nézz le szegény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Urunk, nézz le szegény rabjaidra,<br/>Vigasztaló napfényt deríts árváidra,<br/>Kik sírva számolnak irgalmas karodra,<br/>Támaszkodnak jóvoltodra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jövünk hát elédbe könnyező szemekkel,<br/>Esedezünk értük buzgó kérésekkel,<br/>Adj nékik kegyelmet, kérünk szent Fiadra,<br/>Vérben úszó Jézusodra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent szavadon épül, Uram, üdvösségünk,<br/>Ebből ered és él minden reménységünk.<br/>Áraszd ki kegyelmed, a kimúlt hívekre,<br/>Orvosságod sebeikre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mennyei illatja e szent áldozatnak<br/>Enyhületet adjon szegény elhunytaknak.<br/>Az hozzon enyhülést nékik e színekben,<br/>Aki meghalt a kereszten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent, szent, szent, ezt mondják mennyei lakóid,<br/>Dicsérnek és áldnak földi vándorlóid,<br/>Irgalmazz a tűzben szenvedő lelkeknek,<br/>Vesd végét a gyötrelmeknek.</lines>
+    </verse>
+  </lyrics>
+</song>

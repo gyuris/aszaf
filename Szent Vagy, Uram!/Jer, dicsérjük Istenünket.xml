@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Jer, dicsérjük Istenünket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jer, dicsérjük Istenünket,<br/>Öntsük elé hű szívünket<br/>Azért, aki most eltűnt,<br/>Köztünk lenni már megszűnt,<br/>Hogy lerója az ősbűnt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rettenetes az Úristen,<br/>Maga király földön, mennyben.<br/>Menny, föld, pokol, ami él,<br/>Haragjától félve fél,<br/>S csak őbenne hisz, remél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élet, halál szent kezében,<br/>Minden él az ő nevében.<br/>Bár a vétek beszennyez,<br/>De a lelkünk, ha könnyez,<br/>Isten akkor kegyelmez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boruljunk hát zsámolyához,<br/>Folyamodjunk irgalmához,<br/>Keseregjünk, míg élünk,<br/>A haláltól míg félünk.<br/>Ád kegyelmet, ha kérünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Juhok vagyunk legelőin,<br/>Kegyelmének szent mezőin.<br/>A semmiből teremtett,<br/>Hulló vérén megmentett,<br/>Drága áron visszavett.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent szavát ha ma meghalljuk,<br/>Azt követni ne átalljuk,<br/>Irgalmát ne kísértsük,<br/>Nagy nevét meg ne sértsük,<br/>Verni ne kényszerítsük.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Számos évet végigéltünk,<br/>Istenünktől mégsem féltünk,<br/>Megesküdött, hogy elvet,<br/>Mégis mutat szerelmet,<br/>Bűnbánónak kegyelmet.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérünk, Uram, szent nevedre,<br/>Nézz e kimúlt jó hívedre!<br/>Nézz le bűnös képedre,<br/>Mivel számít véredre,<br/>Juttasd áldott színedre!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bűneiért ő már nem sír,<br/>Mert elnyelte szavát a sír,<br/>De mi sírunk helyette,<br/>Esedezünk érette.<br/>Kelj fel, Jézus, mellette!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Eltévelygett, mert nem értett!<br/>Mosd le bűnét, mellyel sértett.<br/>Ne szállj perbe ellene,<br/>Szent Szívedbe fogadd be,<br/>Vidd az égi seregbe!</lines>
+    </verse>
+  </lyrics>
+</song>

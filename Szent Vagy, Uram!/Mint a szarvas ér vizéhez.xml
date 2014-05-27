@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Mint a szarvas ér vizéhez</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint a szarvas ér vizéhez, lelkem Hozzád, égi Lény,<br/>Úgy sóhajt, úgy szomjaz, éhez, vajh elérlek egykor én?<br/>Bús hívednek bánat árja éjjel-nappal étke lett,<br/>Mert az álnok azt kiáltja, el nem érlek Tégedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rád gondolva, árva lelkem búbánatban ég, eped,<br/>Nem dallhatván hálatelten templomodban éneked.<br/>Üdvözít az Isten engem, bár ma Hermon hegy tövén<br/>Száz örvény közt, förgetegben, tenger kínnal küzdök én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Napjaim mily jók valának, hogy megálda engemet!<br/>Hálám ott az üdv Urának éjjel-nappal zenghetett.<br/>Kérve kérlek, óvj meg engem, itt se hagyj el, ó vigyázz!<br/>Mért szorongat úgy az ellen, mért környékez ennyi gyász?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csontjaimat porba ontják, összezúznak engemet!<br/>S gúnykacagva egyre mondják, hol van a te Istened?!<br/>Mért vagy oly bús, árva lelkem, mért szorongasz oly nagyon?<br/>Bízzál édes Istenedben, lesz még víg dal ajkadon!</lines>
+    </verse>
+  </lyrics>
+</song>

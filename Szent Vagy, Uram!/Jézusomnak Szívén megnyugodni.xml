@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Jézusomnak Szívén megnyugodni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusomnak Szívén megnyugodni jó,<br/>Elmerülni benned, csendes, tiszta tó.<br/>Földi bútól, bajtól Szíved enyhülést ad,<br/>Tenálad lelkünk megpihen, ki sírva sírt: vigad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusom szent Szívét lándzsa döfte át,<br/>Megnyitotta nékünk drága oldalát.<br/>Szent Szívébe rejtve törli minden bűnünk,<br/>A szenvedés ott nem sajog, őbenne örülünk.</lines>
+    </verse>
+  </lyrics>
+</song>

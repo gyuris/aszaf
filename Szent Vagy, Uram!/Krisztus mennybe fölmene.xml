@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Krisztus mennybe fölmene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus mennybe fölmene, hogy nekünk helyt szerzene.<br/>Ül Atyjának jobb felől, mindeneknek ura lőn.<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus meghalt bűnünkért, föltámadott lelkünkért,<br/>Megjelenék Péternek és az ötszáz híveknek.<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Negyven napig köztük járt, lassan vette búcsúját,<br/>Vigasztalta szívüket, tanítván a híveket.<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szólott nékik eképpen: „Én felmegyek az égbe,<br/>Én Atyámhoz felmégyek, ki Atyátok tinéktek.”<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>„S elküldöm Szentlelkemet, megvigasztal titeket,<br/>És mindenre megtanít, mit magában rejt a hit.”<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>„Ő tinéktek ád erőt, hogy majd minden nép előtt<br/>Bizonyságot tegyetek rólam, ki most elmegyek.”<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Már királyi székében uralkodik az égben,<br/>De velünk van szerelme és hathatós kegyelme.<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Közbenjáró Krisztusunk, szerelmes jó Pásztorunk!<br/>Szentlelkedet add nekünk, hogy szüntelen dicsérjünk!<br/>Kapuját a mennynek szélesre tárta emberi nemnek.</lines>
+    </verse>
+  </lyrics>
+</song>

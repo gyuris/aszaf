@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Az Úrnak dobban, ég a szív</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak dobban, ég a szív,<br/>Csak róla zeng ma szánk.<br/>Mert szomjú földre manna hull:<br/>Az égi Küldött harmatozza ránk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És Isten ajkán kél a szó:<br/>„Te Úr vagy, sziklaszál.<br/>A Lélek által szült a Szűz,<br/>És úri széked mindörökkön áll.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó drága gyermek, áldva légy,<br/>Te titkos égi lény,<br/>Ki harc vagy, mégis béke vagy,<br/>Mert tűz a vérted és ruhád a fény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Sátán lábad zsámolya,<br/>S az arcod mint az ég;<br/>Te győztes, mégis édes Úr,<br/>Ó Szívkirály, ma üdvözölve légy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az egy Igében mondta ki<br/>Az Isten önmagát.<br/>Övébe jött, s nem ösmeré<br/>A vak sötét az égnek csillagát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De mind, kik Őt megismerik,<br/>A mennybe vonzza ő.<br/>Az emberszív, ha rátalált,<br/>A boldogságos végtelenbe nő.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A boldog Isten egy Fiát,<br/>A Krisztust vallja szánk,<br/>Mert mindöröktől származik:<br/>Az Úrral egy, a lángból tiszta láng.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Az Isten mélye szülte őt.<br/>Az Úrban ő is Úr.<br/>De arca mégis emberarc.<br/>És drága Szíve emberszívre hull.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ma öltsön szép mosolyt az ég,<br/>És völgyön, halmon át<br/>Az égre szálljon könnyű dal,<br/>Mert láttuk őt, ki Szűz ölébe szállt.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Övé a menny, övé a föld,<br/>A szív csak érte ég.<br/>Övé e tiszta áldozat,<br/>Hol emberszívvel egyesül az ég.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Szent énekünk most száll feléd,<br/>Te fényes, drága Szent.<br/>Hogy testet öltött szép Igéd,<br/>A hálánk érte mindörökké zeng.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ó alkotó Lélek, jövel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó alkotó Lélek, jövel,<br/>És szívünk, lelkünk töltsed el.<br/>Te alkotád a szíveket,<br/>Hozd nékik bő kegyelmedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit úgy hívunk: Vigasztaló,<br/>Kit ád nekünk az Alkotó,<br/>Te élő forrás, égi láng,<br/>Szent kenet égből, szállj le ránk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te hét ajándok kútfeje,<br/>Atyánk kegyelmes jobbkeze,<br/>Az Úr erős igérete,<br/>Sugalmas ajkak ihlete.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gyújtsd meg szemünknek fényedet,<br/>És szállj szívünkbe, Szeretet!<br/>Ha testünk gyarló, s lankadunk,<br/>Légy mindig éber gyámolunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Űzd messze tőlünk ellenünk,<br/>Szent békességed add nekünk,<br/>Te járj, vezér, utunk előtt,<br/>Veszélytől védjen szent erőd.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add, ismerjük meg az Atyát<br/>Teáltalad és egy Fiát,<br/>És kettejüknek Lelke, Te,<br/>Örökre légy lelkünk hite.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az Istent áldjuk: jó Atyát,<br/>S ki felkelt sírból, szent Fiát,<br/>S a Lelket, szívünk vigaszát<br/>Most és örök időkön át.</lines>
+    </verse>
+  </lyrics>
+</song>

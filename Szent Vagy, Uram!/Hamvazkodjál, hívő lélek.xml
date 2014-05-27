@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Hamvazkodjál, hívő lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hamvazkodjál, hívő lélek,<br/>Mert porba tér ez az élet.<br/>Akármennyit örvendeznél,<br/>Ne feledd, hogy porból lettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamvazkodjál, te dúsgazdag:<br/>Mert javaid cserben hagynak.<br/>Évek szállnak, és maholnap<br/>Átadod mind földi pornak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hamvazkodjál, szegény ember,<br/>Viseld sorsod türelemmel:<br/>Hamu hull a gyötrelemre<br/>S irgalom a hű szívekre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örömeink mind elmúlnak,<br/>Könnyeink is porba hullnak.<br/>Boldogok, kik megjavulnak,<br/>Hamu szaván megindulnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, ki tested meggyötörted<br/>S a Golgotán összetörted:<br/>Adj nekünk is töredelmet,<br/>Testünk ellen győzedelmet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>S ha majd egyszer sírba szálltunk,<br/>Testünk szerint porrá váltunk:<br/>Őrizd porló csontjainkat<br/>S hamvainknak adj nyugalmat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kik testünket megtagadtuk,<br/>Add, hogy egyszer visszakapjuk,<br/>S átszellemült dicsőségben<br/>Szerethessünk fönt az égben!</lines>
+    </verse>
+  </lyrics>
+</song>

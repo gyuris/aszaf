@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, ó drága Vendég</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, ó drága Vendég,<br/>Kit most küldött a Kegyesség,<br/>Mindeneknek Alkotója,<br/>Embereknek Megváltója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigadozunk új fényednél,<br/>Leborulunk szent szívednél,<br/>Szénád közé könnyet öntünk,<br/>Kicsi Jézus, így köszöntünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Földön már új napvilág van.<br/>„Dicsőség a magasságban!”<br/>Angyal néki ezt kiáltja,<br/>Néma csillag őt imádja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi is immár angyalokkal,<br/>Tiszta szívű pásztorokkal<br/>Jászlad előtt áldunk téged.<br/>Ó, adj nekünk békességet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szűz Mária, vigadozz már,<br/>Karodon ül Csillagod már,<br/>Áldanak a földi népek,<br/>És boldognak hívnak téged.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Födve Fiad arcocskája,<br/>De mi hittel nézünk rája.<br/>Add, hogy éltünk nagy óráján<br/>Láthassuk az ég oltárán.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, egeknek ékessége,<br/>Királyoknak dicsősége!<br/>Most az angyalt mi felváltjuk,<br/>Istenünk vagy, azt kiáltjuk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Megismerünk jászolodban,<br/>És imádunk istállódban.<br/>Bár homályba rejteztél is,<br/>Gazdag Isten vagy te mégis.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nem kell mennünk jászolodhoz,<br/>Térdelünk csak oltárodhoz,<br/>Tested-véred mindjárt itt lesz,<br/>Eljössz hozzánk, híveidhez.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Eljössz hozzánk, hogy imádjunk,<br/>Áldozatképp felajánljunk,<br/>Hiszen ember értünk lettél,<br/>Kicsi Jézus, drága testvér.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Szent az Isten, szent az Isten!<br/>Énekeljünk boldog hitben,<br/>Kisded testben égi Szentség,<br/>Téged dicsér a mindenség.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>De nagy öröm így dicsérnünk,<br/>Jászolodban nézdegélnünk.<br/>Most az Isten közel hozzánk,<br/>Gyermekszemmel mosolyog ránk.</lines>
+    </verse>
+  </lyrics>
+</song>

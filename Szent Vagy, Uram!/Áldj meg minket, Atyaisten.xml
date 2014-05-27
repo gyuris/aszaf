@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Áldj meg minket, Atyaisten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="301"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldj meg minket, Atyaisten,<br/>Áldj meg minket, Fiúisten,<br/>Áldj meg, Szentlélekúristen,<br/>Három személyben egy Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyaisten, ki Fiadat,<br/>Földre küldted Krisztusodat,<br/>Hogy a világot váltsa meg,<br/>S a mennyországot nyissa meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fiúisten, ki keresztfán<br/>Magadat értünk áldozván,<br/>Eleget tettél Istennek,<br/>Végét vetvén a véteknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlélek, ki mindezekben<br/>Eszköz voltál kegyelemben,<br/>Kit az Úr Jézus ád nekünk,<br/>Hogy megszenteljed életünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjük mind az Úr Atyát,<br/>Dicsérjük egyszülött Fiát,<br/>És a Szentlélek Úristent,<br/>Szentháromság igaz Istent.</lines>
+    </verse>
+  </lyrics>
+</song>

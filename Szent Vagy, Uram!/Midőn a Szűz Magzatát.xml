@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Midőn a Szűz Magzatát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Midőn a Szűz Magzatát, sírdogáló kis Fiát<br/>El akarja altatni, így énekel őneki:<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Napom édes, szép fénye, ó életem reménye,<br/>A barmoknak jászlában, aludj a lágy szénában.<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó én édes Gyermekem, Téged kíván csak lelkem.<br/>Aludj, édes virágom, gyenge bimbóm, zöld ágom.<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó aludj, én Királyom, aludj, édes Magzatom,<br/>Aludj, gyenge gyöngyvirág, amíg enged e világ.<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akarsz-e más éneket? Hívok pásztorsereget;<br/>Nem énekel senkisem, ,int ezek, oly ékesen.<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mihelyt kedved megértik, éneküket rákezdik:<br/>Aludj, kisded, ó aludj, jászolkádban csak aludj!<br/>Ó napfény, ó élet, ó édes Jézus, ó édes Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

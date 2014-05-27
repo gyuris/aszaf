@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Mária, Mária, mennyei szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Mária, mennyei szép hajnal,<br/>Kit szépen köszöntött Gábriel Arkangyal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, Mária, üdvösség hajnala,<br/>Kire felvirradott boldogságunk napja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária, Mária, mennyei szép virág,<br/>Kit áldva magasztal a mennyei világ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, Mária, mennyei szép csillag,<br/>Ki a gyászos égen értünk szépen csillog.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária, Mária, hazánk védasszonya,<br/>Özvegyek és árvák megvigasztalója.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, Mária, gyászban is fényesség,<br/>Árva magyaroknak Te vagy az ékesség.</lines>
+    </verse>
+  </lyrics>
+</song>

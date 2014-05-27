@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Buzgó szívvel ünnepeljük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Buzgó szívvel ünnepeljük Üdvözítőnk kínjait,<br/>Szívtörődve elkísérjük Golgotára lépteit.<br/>Ó kegyelmek fő kegyelme, mely miránk, nagy bűnösökre, vére által árad itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó nagy Isten, mind az ég, föld megdicsőít tégedet,<br/>S minden, ami él azokban, áldja nagy Fölségedet.<br/>De Fiadnak áldozatja legfőképpen megmutatja végtelen kegyelmedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tőled kapott szent iratból tudjuk a törvényeket,<br/>Miket Jézus a világnak élőszóval hirdetett.<br/>S melyek élte alkonyával, a keresztfán tűrt halállal lettenek végrendelet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó kegyelmes Üdvözítőnk, hisszük tanításidat,<br/>Melyeket megtartva, nékünk Isten áldást osztogat.<br/>Hisszük, mert a szent keresztfa s drága véred bizonyítja, hogy nem csalhat meg szavad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az áldozat az oltáron most megújul csendben itt,<br/>Melyet értünk a keresztfán Jézus egykor végbevitt.<br/>Drága vére bő harmatja mi lelkünket mosogatja, amit a bűn elrútít.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Üdvözítőnk szenvedése fájdalmunknak enyhe lett,<br/>Gyötrelmével, halálával nyert ő nekünk életet.<br/>Ó Jézus, te vagy reményünk, vigasztalónk, üdvösségünk, te vagy édes mindenünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Zengje szívünk, zengje nyelvünk: szent vagy, édes Jézusunk!<br/>Mert te lettél a keresztfán a mi lelki orvosunk.<br/>Hajtsd szívünk a jóra, kérünk, benned van csak egy reményünk, hogy lakodba juthatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

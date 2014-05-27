@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Édesanyja, Nagyasszonya igaz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="319"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édesanyja, Nagyasszonya igaz magyar fiaknak,<br/>Pátrónája, pártfogója régi magyar hazánknak!<br/>Tehozzád járulunk, sírva leborulunk, légy anyja fiaidnak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reánk tekints, mert senki sincs, ki sorsunk boldogítsa;<br/>Igaz szívét és jó szemét aki reánk fordítsa.<br/>Sok véres sebünket, panaszos ügyünket aki előbb mozdítsa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindenfelé nyomorúság szorongatja népünket,<br/>Majd száraz ég, majd zápor, jég veri el termésünket.<br/>Most szívünk szomorú, fél, hogy lesz háború, kétség gyötör bennünket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Békességben, csendességben tartsd meg hű szolgáidat,<br/>Becsületben és bőségben örökös országodat.<br/>Szánd meg, ó jó Anya, Magyarok Asszonya, hű magyar jobbágyodat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó hírnévnek, magyar vérnek gerjeszd vidám újultát,<br/>Királyáért, hazájáért vitéz vére buzdultát.<br/>Engedd, hogy hős karja mindig föltarthassa az ellenség lándzsáját.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Így zokogunk, így hódolunk, Mária, szent nevednek;<br/>Így remélünk, halunk s élünk jó anyai szívednek.<br/>A magyar szent hazát s angyali koronát ajánld föl az egeknek.</lines>
+    </verse>
+  </lyrics>
+</song>

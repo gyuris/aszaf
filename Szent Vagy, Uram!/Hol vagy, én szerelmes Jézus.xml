@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Hol vagy, én szerelmes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy, én szerelmes Jézus Krisztusom?<br/>Hol talállak téged, kegyes Megváltóm?<br/>Adj világosságot, mert fényes vagy,<br/>Nálad nélkül szívem igen bágyadt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged az én lelkem kíván keresni,<br/>Mert tenálad nélkül el kell kárhozni;<br/>Ó szerelmes Krisztus, fordulj hozzám,<br/>Vigasztald meg szívem, tekints énrám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg fel nem talállak, keresni foglak,<br/>Mind éjjel, mind nappal sírva kiáltlak.<br/>Ó jelenj meg, Krisztus, szomorúnak,<br/>Vigasztalást hozzál te szolgádnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha fel nem talállak, kegyes Krisztusom,<br/>Elkárhozik lelkem, bizonnyal tudom:<br/>Ó siess hát hozzám, ne távozzál,<br/>Ó szerelmes Krisztus, jöjj, vigasztalj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Veled az én lelkem kíván lakozni,<br/>Kívüled nem óhajt senkit szeretni;<br/>Nálad nélkül éltem keserűség,<br/>Halálom is véled gyönyörűség.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ahová csak fordulsz, híven követlek,<br/>Téged, Megváltómat, szívből szeretlek.<br/>Add, hogy lelkem, Jézus, téged áldjon,<br/>Holtom után véled vigadozzon.</lines>
+    </verse>
+  </lyrics>
+</song>

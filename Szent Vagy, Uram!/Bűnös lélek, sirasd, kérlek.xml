@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Bűnös lélek, sirasd, kérlek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bűnös lélek, sirasd, kérlek, Uradnak nagy kínját,<br/>Mert ártatlan, mint egy bárány, szenved a keresztfán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints, kérlek, szent sebére édes Teremtődnek,<br/>Melyet szenved, hogy lelkedet adja üdvösségnek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűneinkért ostorozzák az ártatlan Bárányt;<br/>Tövisekkel koronázzák, s kínozzák, egyaránt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyes Jézust, az ártatlant utcákon hordozzák,<br/>Kaifástól Pilátushoz kötözve hurcolják.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bűneinkért arculverik, pökdösik orcáját;<br/>Irgalmatlan megcsúfolják, szaggatják szent haját.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vérszomjasan kiáltozzák: feszítsd, feszítsd meg őt!<br/>Gyalázatos keresztfára húzzák a jótevőt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kegyes Jézus! légy irgalmas nékem bűneimért,<br/>Ki a magas szent keresztfán ontottál értem vért.</lines>
+    </verse>
+  </lyrics>
+</song>

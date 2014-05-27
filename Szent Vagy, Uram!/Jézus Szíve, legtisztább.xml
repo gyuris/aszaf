@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Jézus Szíve, legtisztább</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szíve, legtisztább szív, kegyelem oltára,<br/>Boldog, aki tehozzád hív, s szívét hozzád tárja.<br/>Vércseppjeid a világnak bűneit lemosták,<br/>Rólam is a gyarlóságnak tisztítsad le foltját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Szíve, szelídségnek titkos iskolája,<br/>A mennyei dicsőségnek legszebb koronája.<br/>Szívemet tedd szent Szívedhez hasonlóvá, kérlek,<br/>Szívemet fűzd a tiédhez, jóvá, szelíddé tedd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Szíve, add hogy mindig szeresselek jobban;<br/>Ha ér bőség, ha ér ínség, jó és rossz napokban.<br/>Légy te, szent Szív, én istápom, légy te menedékem,<br/>A sötétben napvilágom, kincsem, dicsőségem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Szíve, szűz Anyának drága szép virága;<br/>Az ő szíve alatt támadt lelkünk boldogsága.<br/>Jézus Szíve s Máriáé, hajoljatok össze,<br/>Szíveinket, ha szétválnak, Ti fűzzétek össze.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen hála az Atyának, ki minket teremtett!<br/>Legyen hála szent Fiának, ki pokoltól mentett!<br/>Hála néked, ó Szentlélek, minden ajk ezt zengje,<br/>Hála Jézus szent Szívének mind földön, mind mennybe'!</lines>
+    </verse>
+  </lyrics>
+</song>

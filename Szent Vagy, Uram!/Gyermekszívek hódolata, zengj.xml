@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Gyermekszívek hódolata, zengj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyermekszívek hódolata, zengj Jézus Szívének!<br/>Édes Jézus, Szent Szívedért szívet adunk néked.<br/>Szívgárdisták hő imája, hogy „Cseréljünk szívet”,<br/>Szeretetünk néked adjuk s te is szeress minket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égő Szíved töviseit borzalommal nézzük,<br/>Bűntövissel hogy sebezzünk, ó ne engedd, kérjük.<br/>Minden egyes szívgárdista csak azt kéri esdve:<br/>Hogy a tövist kihúzhassuk, segíts jótettekre!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyermek szívünk résztvevően Szíved sebét látja,<br/>Fájdalmadat enyhíteni gyermekszívünk vágya.<br/>Szívgárdisták jó szándéka: Téged vigasztalni,<br/>A világnak bűneiért engesztelést adni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szíved fölött kereszt ragyog, ez lesz nékünk fegyver,<br/>A gárdista Szíved hőse, aki küzd kereszttel.<br/>Jelmondatunk harsogja be az egész világot:<br/>„Jézus Szíve, kiküzdjük, hogy jöjjön el országod!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus Szíve, bízunk benned, hogy elfogadsz minket,<br/>Ápolgatod, ékesíted gyermekszíveinket.<br/>Reád bízzuk családunkat: mi szeretteinket,<br/>Hogy az otthont boldogítsuk, add meg szent kegyelmed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus Szíve, terád bízzuk összetört hazánkat.<br/>Jobb jövőt a szívgárdisták bizalommal várnak.<br/>Szíved népe lesz a magyar s te adsz mindent vissza,<br/>„Cor Jesu et Hungaria” zászlónkra van írva.</lines>
+    </verse>
+  </lyrics>
+</song>

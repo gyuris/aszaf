@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Örülj, vigadj, tisztaságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örülj, vigadj, tisztaságban kivirágzott anyaság,<br/>Kit körülvesz mennyországban az angyali sokaság.<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendezzél, Isten anyja, boldogságos Asszonyság,<br/>Mert tégedet megkoronáz a teljes Szentháromság.<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Magasztalnak égi karok téged kelő hajnalnak,<br/>Tisztelnek, mint erősségét elrendezett tábornak.<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Néked mondta a nagy Isten amaz Írás szózatát:<br/>„Jöjj, kedvesem, Libanonból, jöjj és vedd el koronád.”<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az egeknek egeiben zengedeznek trombiták,<br/>És a király jobbja mellett köszöntik Szűz Máriát.<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Atyaisten koszorúzza leányának szent fejét,<br/>Fiúisten édesanyját, a Szentlélek jegyesét.<br/>Mária, mi Anyánk, mennyei Pátrónánk,<br/>Bűnösökre, nézz le ránk!</lines>
+    </verse>
+  </lyrics>
+</song>

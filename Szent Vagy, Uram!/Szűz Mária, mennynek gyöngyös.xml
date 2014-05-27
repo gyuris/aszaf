@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Szűz Mária, mennynek gyöngyös</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária, mennynek gyöngyös ékessége,<br/>Tiszta szeretetnek aranya, szépsége.<br/>Szeretlek és áldlak, én szívembe zárlak,<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Mária, tenger csillaga, est fénye,<br/>Szegény gyarló ember második reménye!<br/>Általad, szűz Szépség, Istennek dicsőség!<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te szent szülöttödnek földi útját jártad,<br/>Minden szavát ennek Te szívedbe zártad.<br/>Ó legyen, míg élünk, élted nyitott könyvünk.<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te, Szűzanyánk, hittél az angyali szónak,<br/>Azért anyja lettél a mennyei Jónak,<br/>Ó kegyelmek tára, légy hitünk mentsvára!<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária megtérek, bízva futok hozzád,<br/>Míg pályát nem érek, szívem bízom terád.<br/>Szeretlek örökké, Te szárnyaddal födj bé.<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Anyánk, nyerd meg nékünk, hogy mind szentül éljünk,<br/>Szent, szent, szent! énekkel Úristent dicsérjünk,<br/>Hogy kövessünk téged ösvényén az égnek.<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+  </lyrics>
+</song>

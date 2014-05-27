@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Kél a magasból tiszta fény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kél a magasból tiszta fény földre az új év kezdetén.<br/>A kicsi Jézus köztünk él, s ontja ma vérét vétkünkért.<br/>Hát vigadozzunk mindnyájan. Áldjuk a Jézust Anyjával,<br/>És esedezzük térden őt, áldja meg ezt az esztendőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó kicsi Jézus, édeském, mennyei csorgó mézecském.<br/>Jaj, be korán hull véred már, szívem, ó Jézus, érted fáj.<br/>Hát vigadozzunk mindnyájan. Áldjuk a Jézust Anyjával,<br/>És esedezzük térden őt, áldja meg ezt az esztendőt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szép piros véred csordulván, rajtad a név már Jézuskám:<br/>Jézus, ó boldog édes név! Benne az üdv és békesség.<br/>Hát vigadozzunk mindnyájan. Áldjuk a Jézust Anyjával,<br/>És esedezzük térden őt, áldja meg ezt az esztendőt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Három-egy Isten áldva légy, győzelem, áldás mind tiéd.<br/>Áldjuk a Jézus szent nevét, amely a Sátánt zúzza szét.<br/>Hát vigadozzunk mindnyájan. Áldjuk a Jézust Anyjával,<br/>És esedezzük térden őt, áldja meg ezt az esztendőt!</lines>
+    </verse>
+  </lyrics>
+</song>

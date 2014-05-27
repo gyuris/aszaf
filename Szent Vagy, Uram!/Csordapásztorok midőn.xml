@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Csordapásztorok midőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csordapásztorok midőn Betlehemben<br/>Csordát őriznek éjjel a mezőben,<br/>Csordát őriznek éjjel a mezőben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten angyali jövének melléjük,<br/>Nagy félelemmel telék meg ő szívük,<br/>Nagy félelemmel telék meg ő szívük.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Örömet mondok, nagy örömet néktek,<br/>Mert ma született a ti üdvösségtek,<br/>Mert ma született a ti üdvösségtek.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Menjetek el csak gyorsan a városba,<br/>Ott találjátok Jézust a jászolba',<br/>Ott találjátok Jézust a jászolba'.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Elindulának és el is jutának,<br/>Szűz Máriának jónapot mondának,<br/>Szűz Máriának jónapot mondának.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>„Isten titeket hozott Uratokhoz.<br/>De nem szólhatok mostan szent Fiamhoz,<br/>De nem szólhatok mostan szent Fiamhoz.”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>„Mert ő aluszik, nyugoszik pólyában,<br/>Szénán bágyadoz a hideg jászolban,<br/>Szénán bágyadoz a hideg jászolban.”</lines>
+    </verse>
+    <verse name="v8">
+      <lines>„Nem pihen ágyban, sem friss palotában,<br/>Hanem jászolban, romlott istállóban,<br/>Hanem jászolban, romlott istállóban.”</lines>
+    </verse>
+    <verse name="v9">
+      <lines>„Serkentsd fel Jézust, szent Fiadat, nékünk,<br/>Mert mi angyalok igéjére jöttünk,<br/>Mert mi angyalok igéjére jöttünk.”</lines>
+    </verse>
+    <verse name="v10">
+      <lines>„Üdvözlégy Jézus, pásztorok Pásztora,<br/>Bűnös emberek megváltó szent Ura,<br/>Bűnös emberek megváltó szent Ura.”</lines>
+    </verse>
+    <verse name="v11">
+      <lines>„Kérünk Tégedet, mi Üdvözítőnket,<br/>Sok bűneinkért meg ne utálj minket,<br/>Sok bűneinkért meg ne utálj minket.”</lines>
+    </verse>
+    <verse name="v12">
+      <lines>„Mária, Te is könyörögj érettünk,<br/>Hogy halálunkkor boldogok lehessünk,<br/>Hogy halálunkkor boldogok lehessünk.”</lines>
+    </verse>
+    <verse name="v13">
+      <lines>„Dicsőség Néked, örök Atyaisten,<br/>Te kisded Jézus és Szentlélekisten,<br/>Te kisded Jézus és Szentlélekisten.”</lines>
+    </verse>
+  </lyrics>
+</song>

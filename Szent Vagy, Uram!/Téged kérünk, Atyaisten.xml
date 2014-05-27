@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Téged kérünk, Atyaisten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged kérünk, Atyaisten,<br/>Segíts, bennünk erő nincsen!<br/>Küldj Szentlelket, ki bennünket<br/>Vigasztaljon, ébresszen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bús éltünkben ellankadtunk,<br/>Megtörődtünk, elfáradtunk.<br/>Jöjj el, keltő kedves szellő,<br/>Újíts, kik elbágyadtunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Apostolok bölcs mestere,<br/>Mártíroknak nagy ereje!<br/>Ó Szentlélek, míg itt élek,<br/>Segíts, taníts mindenre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eső nélkül föld is szárad,<br/>Szívem is úgy sorvad, bágyad,<br/>Ha felülről, Szentlélektől,<br/>Kegyelem rá nem árad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lélek nélkül test nem élhet,<br/>Lelket így öl meg a vétek,<br/>Hogyha távol malasztjával<br/>Az éltető Szentlélek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Testnek gonosz kívánsága,<br/>Világ, ördög csalárdsága<br/>Mind elborít, jöjj hát, segíts,<br/>Árva lelkem istápja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jöjj el égi fényességgel,<br/>Boldogságra elvezérelj!<br/>Én Istenem, én szerelmem,<br/>Temagadhoz felemelj!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó mily könnyű, vidám, boldog<br/>Lészen földön minden dolgod,<br/>Ha kegyelmét, szent szerelmét<br/>Tiszta szívben megtartod.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Örülj lelkem, Istent áldjad,<br/>És szent nevét magasztaljad.<br/>Őt kövessed, őt szeressed,<br/>Őt dicsérjed, imádjad!</lines>
+    </verse>
+  </lyrics>
+</song>

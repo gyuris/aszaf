@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>A Golgota-lépcsőn állok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Golgota-lépcsőn állok, vállamon a kereszt.<br/>Gyarló szolgád könyörgését, Uram, ó meg ne vesd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keresztről hallom, Uram: „Velem léssz a mennyben!”<br/>Az utolsó ítéleten jobbra állíts engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszem, Uram, hogy a kereszt a győzelem fája.<br/>Aki véled felvállalja: feltámadás várja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mielőtt szent színed elé, Jézus, lépni mernék:<br/>Fogadd tőlem váltságdíjul szenvedésed kelyhét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézusom, a jó halál csak átmenés a mennybe:<br/>Üdvözültek tiszta lelke dicséreted zengje!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó hozsánna Néked, Jézus, leszállt Isten-ember:<br/>Zengem én is ég tüzében tisztuló szívemmel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem vagyok bár méltó Hozzád, mégis jöjj szívembe,<br/>S ragadj engem föl magaddal, Jézusom, a mennybe!</lines>
+    </verse>
+  </lyrics>
+</song>

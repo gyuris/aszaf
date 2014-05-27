@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Véghetetlen örök Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Véghetetlen örök Isten, magasztaljuk nevedet,<br/>Angyalaid seregében imádunk most tégedet.<br/>Országodban ők királyi széked előtt állanak,<br/>És az legfőbb boldogságuk, hogy szünetlen áldanak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszöntjük hát nagy örömmel hűséges szolgáidat,<br/>És tisztelve áldjuk őket s imádjuk jóvoltodat:<br/>Hogy lelkünknek oltalmára ily tiszta, hív lelkeket<br/>Rendeltél s így megkönnyíted itt nekünk az életet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszöntünk és magasztalunk, édes őrzőangyalok!<br/>Érettetek az Istennek mély hálával hódolok.<br/>Hogy titeket, tiszta lelkek, bűnös gyarlóságunknak<br/>Gyámolítójává rendelt, örök hála Urunknak!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, tehát ne hagyjatok el, ha bal útra tévedünk,<br/>Nehogy győzzön a rossz lélek, test és világ ellenünk.<br/>Az üdvösség ösvényére vonjon áldott kezetek,<br/>Hogy lelkünk a mennyben egykor áldja Istent véletek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen áldás és dicséret, néked, ó Szentháromság,<br/>Ki nékünk itt irgalom vagy, s angyaloknak boldogság!<br/>Engedd egykor e hív lelkek szent karában zengenünk:<br/>Szent örökké, szent örökké, szent vagy, édes Istenünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent Mihály, az Úr ügyének győzedelmes bajnoka,<br/>Mennyország nagy ékessége, örömünknek nagy oka!<br/>Segíts, hogy mint te meggyőzted a fellázadt lelkeket,<br/>Szintúgy győzzünk le itt minden lelki ellenségeket.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Istennek erőssége, üdvözlégy, szent Gábriel!<br/>Váltságunknak égi hírét a Szűzhöz te vitted el.<br/>Kérjed Jézust, hogy lelkünket váltságának érdeme<br/>Oda vigye, hol te áldod őt, ó Isten követe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvözlégy, ó égi orvos, szent Ráfael arkangyal!<br/>Látod, mennyi küzdelmünk van lelki-testi sok bajjal.<br/>Vidd az Isten színe elé szívünk könyörgéseit,<br/>S szent kegyelme igazgassa életünknek lépteit.</lines>
+    </verse>
+  </lyrics>
+</song>

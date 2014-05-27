@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Édes Jézus, én szerelmem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus, én szerelmem, ó mily nagyon szeretlek,<br/>Te vagy kincsem és mindenem, hű szívembe elrejtlek.<br/>Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, mivel téged minden felett szeretlek,<br/>Minden kincset és örömet érted, Jézus, megvetek.<br/>Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ahol leszek, Jézus, téged óhajtlak és kiáltlak;<br/>Boldog leszek, ha elérlek, boldogabb, ha megtartlak.<br/>Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Benned bízom, fohászkodom, Te is szeress engemet,<br/>Jézus, ne hagyj, velem maradj, hívd a mennybe lelkemet.<br/>Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.</lines>
+    </verse>
+  </lyrics>
+</song>

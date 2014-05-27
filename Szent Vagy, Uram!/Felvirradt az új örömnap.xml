@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Felvirradt az új örömnap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felvirradt az új örömnap fénye,<br/>Eljött az Úr választott edénye,<br/>Örök élet kincsének szekrénye,<br/>Benne rejlik az Úristen nagy, titkos törvénye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elérkezett a bűnös világra<br/>Az üdvösség kincsének sáfára,<br/>Ki szent Fiát hozta e világra,<br/>Hogy a bűnnek láncos rabját vigye szabadságra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teljes az ég új dicséretekkel,<br/>Hangos a föld vidám énekekkel,<br/>Szent angyalok fényes seregekkel<br/>Hirdetnek már békességet szép ígéretekkel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Évának rút engedetlensége<br/>Lőn az ember életének vége.<br/>Mária szép engedelmessége<br/>Lőn életre támadásunk első nyeresége.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó kegyelem drága szép hajléka,<br/>Békességnek hűvös zöld árnyéka,<br/>Régi szentek édes maradéka,<br/>Bizony benned az Istennek gazdag ajándéka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tisztaságnak te vagy termő fája,<br/>Szeméremnek piros szép rózsája,<br/>Szelídségnek ékes gyöngyvirágja,<br/>Illatozzál, mosolyogjál a beteg világra!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó szűzesség szép eleven képe,<br/>Ezer közül kiválasztott szépe,<br/>Sötét hozzád a nap fényessége,<br/>Álmélkodva köszönt téged az ég követsége.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Te az Istent méhedbe fogadtad,<br/>Tisztaságos öledben nyugtattad,<br/>A nagy Istent karodon tartottad,<br/>Evvel mind az angyalokat messze meghaladtad.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsértessék mennyben az Istenség,<br/>Háromságban áldassék az Egység,<br/>Akit illet véghetetlen felség,<br/>Égen-földön mindörökkön adassék tisztesség.</lines>
+    </verse>
+  </lyrics>
+</song>

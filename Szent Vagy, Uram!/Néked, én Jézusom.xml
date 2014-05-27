@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Néked, én Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néked, én Jézusom,<br/>Mennyei Krisztusom,<br/>Lelkemet, testemet feláldozom.<br/>Mert te vagy Megváltóm,<br/>Bűntől szabadítóm,<br/>Érted e világtól eltávozom.<br/>Te hívj engem, segélj engem.<br/>Azért szent malasztod,<br/>Mutasd meg jó voltod,<br/>Hogy veled mennyekben éljen szívem;<br/>Jézusom, e lélek<br/>Egyedül tenéked<br/>Szolgálni, imádni kíván híven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóllehet Tégedet,<br/>Legdrágább kincsemet,<br/>Kegyelmes Istenem, bántottalak,<br/>Midőn sok vétkemmel,<br/>Fertelmes éltemmel,<br/>Hálátlan rossz szolga, csúfoltalak.<br/>Már ezután háládatlan,<br/>Ó kegyes nagy Jóság!<br/>Ó te nagy Uraság!<br/>Nem lészek, hogy téged megbántsalak.<br/>Malasztot adj nékem,<br/>Törüld el sok vétkem,<br/>Hogy téged mennyekben láthassalak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amikor jósággal,<br/>Szentséges malaszttal<br/>Elbágyadt szívemet felgyullasztod.<br/>Keresztet, ínséget<br/>Éretted elszenved,<br/>Kész téged követni, hová hívod.<br/>Mert te, Isten, köztünk itt lenn<br/>Kínt, halált szenvedtél,<br/>Minket megmentettél,<br/>Mennyei Atyáddal békéltettél.<br/>Hát minden jó lélek<br/>dicsérjen tégedet,<br/>Ki minket véreddel így öntöztél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E világ dicsérjen<br/>Akármit idelenn,<br/>Már én csak Krisztusom dicsőítem.<br/>Örvendjen e világ,<br/>Mely hervad, mint virág,<br/>De mar én Jézusom meg nem vetem.<br/>Hozzá megyek, bármint legyek,<br/>Én édes Uramhoz,<br/>Jézushoz, Krisztushoz.<br/>Mert igen gyuladoz szeretetem.<br/>Életem, halálom<br/>Őnéki ajánlom,<br/>Szerelmes Jézusom így szeretem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Néped, Isten, eléd járul</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néped, Isten, eléd járul<br/>Énekelni Máriárul.<br/>Tőle támadt üdvösségünk,<br/>Tőle juttatsz mindent nékünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magas égben!<br/>Ott vagy, Anyánk, fényességben.<br/>Békesség a jámboroknak,<br/>Akik hozzád folyamodnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Első szava a Jóhírnek,<br/>Isten Anyja, téged hirdet.<br/>Élve, halva te vagy nékünk<br/>Bizodalmas reménységünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Követnek, Anyánk, hittél,<br/>S Jézus első híve lettél.<br/>Jézus szavát mi is halljuk,<br/>Életünkkel meg is valljuk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Golgota lesz most a szentély:<br/>Itt a szent test, itt a szent vér,<br/>Krisztus örök áldozatja,<br/>Szűz Mária könnye rajta.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A szent asztalt körülálljuk,<br/>Áldozatunk fölajánljuk<br/>Áhítatos imádsággal,<br/>Mária szent keze által.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent vagy, Uram, szent vagy, szent vagy!<br/>Mondhatatlan, végtelen nagy!<br/>Emberek közt legszebb másod,<br/>Szűz Mária, legyen áldott!</lines>
+    </verse>
+  </lyrics>
+</song>

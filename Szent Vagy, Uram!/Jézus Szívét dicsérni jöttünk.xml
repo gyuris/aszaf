@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Jézus Szívét dicsérni jöttünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szívét dicsérni jöttünk el misére.<br/>Azt a Szívet, mely nékünk új törvény szekrénye.<br/>Nem az Ószövetségnek régi szolgasága,<br/>Hanem a kegy, bocsánat s irgalom forrása.<br/>Szent Szív, légy áldva!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséget és áldást zengünk, Jézus, néked.<br/>Ótemplomnál szentebb és dicsőbb a szentélyed.<br/>Régi szentély meghasadt kárpitja jel nékünk,<br/>Hogy szent Szíved lett az új, üdvösebb szentélyünk.<br/>Áldunk, dicsérünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszünk benned Jézusunk, szent Szíved imádva,<br/>Áldott Szíved, amelyet átütött a lándzsa.<br/>Láthatatlan szeretet láthatóvá így lett.<br/>Sebzett Szíved szemlélve valljuk meg hitünket,<br/>Áldva szent Szíved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, Szíved jelében látjuk szenvedésed,<br/>Mely Istennek áldozva érettünk elvérzett.<br/>Itt a véres áldozat szent megújítása,<br/>Krisztus, a mi főpapunk, íme fölajánlja.<br/>Szent Szív, légy áldva!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki ne szeretné viszont szerető szent Szíved,<br/>Kik szeressék, ha nem mi: a megváltott hívek.<br/>Legyen örök hajlékunk Jézus Szíve nékünk,<br/>Akit szent-szent énekkel mindvégig dicsérünk,<br/>Áldunk, dicsérünk!</lines>
+    </verse>
+  </lyrics>
+</song>

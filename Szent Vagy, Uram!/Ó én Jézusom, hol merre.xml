@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó én Jézusom, hol merre</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó én Jézusom, hol merre jársz-kelsz liliomok közt?<br/>Ó én édesem, hol töltöd kedved az angyalok közt?<br/>Jöjj el hozzám sietve,<br/>Szívem meg van kötözve<br/>Szerelmedtől, Jézusom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó én Jézusom, távol vagy tőlem! Mért vagy ennyire?<br/>Tudom, vétkeim űztek el téged ilyen messzire.<br/>Add nekem szent testedet,<br/>Öntsd reám szent véredet,<br/>Élj énbennem, Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó én Jézusom, mint szomjú szarvas hűvös forrásra,<br/>Én is sietek szent tested után a szent oltárra.<br/>Jöjj el, siess szívembe,<br/>Szállj csendesen lelkembe,<br/>Légy énbennem, Jézusom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó én Jézusom, sóhajtok hozzád, én vigasságom.<br/>Hol vagy, én szívem, életem, hol vagy, én boldogságom?<br/>Ó nagy szentség, jöjj hozzám,<br/>Áldásodat öntsd reám,<br/>Maradj velem, Jézusom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó én Jézusom, csak te vagy nékem kegyes királyom.<br/>Jöjj, hadd érezlek, szívembe rejtlek, drága aranyom.<br/>Néked adom lelkemet.<br/>El ne válaszd szívemet<br/>Szívedtől, én Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

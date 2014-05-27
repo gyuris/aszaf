@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Áhítattal készülődjünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áhítattal készülődjünk, testvérek,<br/>Emlékére ama titkos estének,<br/>Hol a piros borbul Krisztus vére csordul<br/>S lesz a kenyér áldozata testének.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magasságban Istennek,<br/>Jézus és a tanítványok így zengtek.<br/>A húsvéti ének szállott fel az égnek,<br/>Zengje velük buzgó szava mindennek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten szavát hallotta az emberség,<br/>S áldozattal hódolt néki minden nép.<br/>Boldogok, mi hittünk, édes fiak lettünk<br/>S áldozatunk maga lett az Istenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mondá Jézus az utolsó szent esten:<br/>„Vérem e bor, ez a kenyér én testem”.<br/>Hiszem, amit mondott, aki hisz, az boldog,<br/>Hát még aki lakomáját élveztem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldozatul felajánlta szent testét,<br/>Emlékére apostolok ezt tették,<br/>Így akarta: tesszük, drága testét vesszük,<br/>Neked, Uram, áldozatunk megtessék.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fogadd, Uram, kegyelemmel mívünket,<br/>Hozzáadjuk a kenyérhez szívünket;<br/>Alázatos hittel, áldozatul vedd el,<br/>Odahajtjuk szent kebledre fejünket.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A mindenség ezer hangon egyet zeng:<br/>Szent az Isten, szent az Isten, szent, szent, szent!<br/>De a legszebb ének az Atya szívének<br/>Szent Fiának áldozatja idelent.</lines>
+    </verse>
+  </lyrics>
+</song>

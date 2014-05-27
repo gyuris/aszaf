@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Szentlélek Isten, szállj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek Isten, szállj reánk,<br/>Elmét derítő tiszta láng,<br/>Öntsd lelkeinkbe, melyeket<br/>Megszenteltél, kegyelmedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit Isten, mint vigasztalót<br/>Nekünk ajándokul adott,<br/>Minden javak bő kútfeje,<br/>Lelkünk világa s élete.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te hét ajándok Istene,<br/>Az Úr hatalmas jobbkeze,<br/>Te, kit nekünk ígért Atya,<br/>Nyelvünk kenetdús szózata.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Érzékeinkre fényt deríts,<br/>Kebelt erényre fölhevíts,<br/>Testünk erőtlenségeit<br/>Védjék magas kegyelmeid.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kísértetekben el ne hagyj,<br/>Szívünkbe békességet adj,<br/>Légy utainkban fővezér,<br/>Ne érje népedet veszély.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, adjad ismernünk Atyát,<br/>És egyszülötte szent Fiát,<br/>S téged, ki tőlük származol,<br/>Valljon, mi ég- s földön honol.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Legyen dicsőség, ó, Atyánk,<br/>Neked, s kitől megváltatánk,<br/>Fiadnak, a Vigasztalót<br/>Áldván veled, mint egy valót.</lines>
+    </verse>
+  </lyrics>
+</song>

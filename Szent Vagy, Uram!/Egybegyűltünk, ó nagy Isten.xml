@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Egybegyűltünk, ó nagy Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egybegyűltünk, ó nagy Isten, buzgó imádásodra,<br/>Lelkünk méltó hadd lehessen isteni áldásodra,<br/>Mely a tiszta áldozatban számunkra elrejtve van.<br/>Ó tekints hát kegyelmesen itt esdeklő nyájadra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen áldás és dicsőség mennyben a nagy Istennek!<br/>Testi, lelki szent békesség földön minden embernek.<br/>Az angyali seregekkel kiáltsuk nagy örömmel:<br/>Dicsőség a jó Istennek, békesség az embernek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Atyánk, te itt a földön anyát adtál minekünk,<br/>Kinek szívén mindörökkön békességet lelhetünk.<br/>Szentegyházad e jó anya, az igazság oszlopa,<br/>Nem félünk mi, bármi jöjjön, amíg ő áll mellettünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Krisztus szerzeménye a kenyér s boráldozat,<br/>Mit nevednek emlékére, Uram, szolgád bemutat.<br/>Legyen kedves, ó szent Atya, Fiad vére harmata;<br/>Lelkünket, hogy hófehérre mossa, kérünk, elfogadd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent örökké, szent az Isten, Atya, Fiú, Szentlélek!<br/>Zengjen égen s földön minden hálát a nagy Istennek.<br/>Áldott, ki az Úr nevében jő angyalok körében.<br/>Szent örökké, szent az Isten, Atya, Fiú s Szentlélek!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Ébredj, ember, mély álmodból</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredj, ember, mély álmodból,<br/>Megszabadulsz rabságodból.<br/>Közelít már üdvösséged,<br/>Eltörlik már minden vétked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elküldé az Úr angyalát,<br/>Hogy köszöntse Szűz Máriát,<br/>Kinek tiszta, szűz méhébe<br/>Alászállt az örök Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Szűzhöz így szól az angyal:<br/>Üdvözlégy, teljes malaszttal!<br/>A Szentlélek megárnyékoz,<br/>S áldott méhed gyümölcsöt hoz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fiad Jézus néven hívod,<br/>Ő váltja meg a világot,<br/>Melyet oly rég tart a Sátán<br/>Fogságban a bűnnek láncán.</lines>
+    </verse>
+  </lyrics>
+</song>

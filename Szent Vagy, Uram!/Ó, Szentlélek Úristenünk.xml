@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ó, Szentlélek Úristenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Szentlélek Úristenünk,<br/>Szállj szívünkbe, esedezünk.<br/>Árassza el szent kegyed<br/>S malasztod a lelkeket…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyekből téged nyertünk,<br/>Hogy vigasztald sebzett lelkünk.<br/>Engedd neved áldanunk,<br/>Lángunk, kutunk, balzsamunk…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kit javadért folyton áldunk,<br/>Mint ujját az Úr jobbjának.<br/>Atya küldte nagy javunk,<br/>Zengő ajkon szép szavunk…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretettel töltsd szívünket,<br/>Lobbantsd fényre érzékünket,<br/>Hogy a testi vágy ellen<br/>Segítséged vértezzen…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teáltalad higgyük, engedd,<br/>Az Úristent, ki teremtett,<br/>S Fiát, ki meghalt értünk,<br/>És téged, míg tart éltünk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Légyen hála az Atyának,<br/>S föltámadott szent Fiának,<br/>S a Szentlélek-istennek,<br/>Ki élete mindennek…</lines>
+    </verse>
+  </lyrics>
+</song>

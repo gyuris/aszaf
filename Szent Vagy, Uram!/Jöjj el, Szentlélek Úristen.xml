@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Jöjj el, Szentlélek Úristen</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el, Szentlélek Úristen!<br/>Tekints reánk kegyelmesen,<br/>Isteni segítségeddel,<br/>Véghetetlen kegyelmeddel.<br/>Áraszd hét ajándékodat,<br/>Add a te szent malasztodat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj el, Szentlélek Úristen!<br/>Hű vigasztalónk mindenben.<br/>A lelki tanító nyelvét<br/>Igazgasd és gyújtsd föl szívét:<br/>Hogy te szent akaratodat,<br/>Hirdesse nagy jóvoltodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj el, Szentlélek Úristen!<br/>Mennyei fényességedben<br/>Részesítsd minden hívedet,<br/>Kik dicsérnek itt tégedet,<br/>Hogy így a bűnnek rútságát<br/>Lássák és nagy gonoszságát.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Antifóna Szentháromság vigiliájától Adventig</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irgalmas Szűzanyánk, királynőnk, üdvözlégy.<br/>Áldunk Téged, élet, édesség, reménység.<br/>Kik Éva bűnéért száműzésben élünk,<br/>E siralomvölgyből könnyek között kérünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy kegyes szószólónk, fordítsd felénk szemed,<br/>S mutasd meg majd nékünk áldott Egyszülötted.<br/>Ó irgalmas, édes, kegyes Szűz Mária,<br/>Ó irgalmas, édes, kegyes Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: Imádkozzál érettünk, Istennek szent Anyja!)<br/>H: Hogy méltók lehessünk Krisztus ígéreteire!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ó emberi gyarló nemzetség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó emberi gyarló nemzetség,<br/>Minden dolgod csak hívság, kétség,<br/>Miben bízol? Arany és ezüst<br/>Elenyészik majdan, mint a füst.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem látod-e annyi példában,<br/>Hogy a halál siet dolgában,<br/>A sok tisztség s nagy birodalom<br/>Elolvad majd, mint a hóhalom.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kik a magas székeket ülik,<br/>Még a halált el nem kerülik.<br/>Meg nem ment a nagy királyi szék,<br/>Semmi nagyság, semmi tisztesség.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy erős bár, nagy és hatalmas,<br/>Vagy, mint Sámson, oly diadalmas,<br/>Vagy szép, mint a piros rózsaszál,<br/>Mit sem használ: mégis lekaszál.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mit használ szép, aranyszín hajad,<br/>Kláris-forma gyenge ajakad,<br/>Mit kristályos, fényes két szemed,<br/>Ha a sírba dugják holt fejed?<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hány mosolygó színes violák,<br/>Rubintoknál pirosabb orcák<br/>Bimbójukban vesztek tavaszon,<br/>Akik nyarat reméltek nagyon.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gyenge szűzek, pávák, szép ifjak,<br/>Ne játsszatok, nemes úrfiak!<br/>Váratlan jő reátok a sor,<br/>Testetekből még ma válhat por.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nincs e földön hosszú maradás,<br/>Fogadó ez, nem örök lakás.<br/>Láss dolgodhoz, míg az úton vagy,<br/>Ne játsszál, mert számadásod nagy!<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+  </lyrics>
+</song>

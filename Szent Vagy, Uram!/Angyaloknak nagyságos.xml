@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Angyaloknak nagyságos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angyaloknak nagyságos Asszonya;<br/>Úr Jézusnak szerelmes szent Anyja,<br/>Mennyországnak királyné Asszonya,<br/>Paradicsom megnyílt szép kapuja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reád néznek árváknak szemei,<br/>Özvegyeknek keserves szívei,<br/>Szegényeknek nyomorult ügyei,<br/>Bűnösöknek bánkódó lelkei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád szólunk, szűzeknek pálmája,<br/>Pátriárkák várvavárt vígsága,<br/>Apostolok tisztes tanítója,<br/>Minden szentek édes vigassága.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asszonyoknak szépséges tüköre,<br/>Férfiaknak bajvívó fegyvere,<br/>Királyoknak oktató mestere,<br/>Magyarország választott vezére.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott vagy te, Jézusnak dajkája,<br/>Atyaisten drága kincstartója,<br/>Szentléleknek szerelmes mátkája,<br/>Szentháromság legszebb alkotmánya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Halottaknak megszabadítója,<br/>Ellenségnek megnyomorítója,<br/>Királyoknak jó tanácsadója,<br/>Magyaroknak megoltalmazója.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rettenetes a mi bajvívásunk,<br/>Mert kegyetlen a mi ellenségünk,<br/>Félelmetes végső kimúlásunk,<br/>Ha te, szent Szűz, nem lész segítségünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsértessél, dicső Szentháromság,<br/>Kitől árad reánk minden jóság.<br/>Dicsértessél, nagyságos Asszonyság,<br/>Aki által száll ránk a mennyország.</lines>
+    </verse>
+  </lyrics>
+</song>

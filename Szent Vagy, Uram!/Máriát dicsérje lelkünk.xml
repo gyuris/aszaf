@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Máriát dicsérje lelkünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriát dicsérje lelkünk, Máriát dicsérje szánk,<br/>Őt, ki által Isten annyi szent malasztja szálla ránk,<br/>Kit Fiának nagy kegyelme kezdet óta őrizett,<br/>Akihez a legparányibb bűnhomály sem férkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindazok közt, kikre Éva megcsalatva bűnt hozott,<br/>És a bűnnel a halál és kárhozat leszármazott:<br/>Márián magán nem ejte Éva bűne csak sebet,<br/>Kit az ősi vétek ellen egy magas védpajzs fedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözölt légy, feddhetetlen tisztaságú Szűzanya,<br/>Élet és erény leánya, Boldogasszony Mária!<br/>Tiszta vagy te, mint a harmat, mely egekből gyöngyözött,<br/>Sérthetetlen liliomként állsz a bűntövis között.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tiszta szűz te, akitől a másik Ádám teste lett,<br/>Ép virág, hibás gyökéren, mely hibátlanul eredt:<br/>Üdvözölt légy, ritka szépség, hervadatlan rózsafa,<br/>Melynek, Isten úgy akarván, Jézusunk lett bimbaja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó miképpen zenghetünk hát néked illő éneket,<br/>Bűnösök mi, kik szívünkön hordozunk oly sok sebet!<br/>Gyöngy mellé a sár nem illik, bűnt utál a szűz erény,<br/>Hogy figyelhetsz hát miránk te: éjszakára égi fény.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó de tudjuk, hogy mihozzánk szűz szíved szerelme nagy,<br/>Hisz te irgalom szülője, s bűnösöknek Anyja vagy:<br/>Ó tekints le irgalommal, szent kegyelmek anyja, ránk.<br/>S bárha vétkezénk, nekünk is, bűnösöknek, légy anyánk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Csüggedőknek légy reménye, a szegények gyámola,<br/>Szenvedők vigasztalója, sebhedettek orvosa:<br/>Légy erőnk a bűnveszélyben, a halálban ápolónk,<br/>Lelki üdvünk szent ügyében légy fiadnál pártolónk.</lines>
+    </verse>
+  </lyrics>
+</song>

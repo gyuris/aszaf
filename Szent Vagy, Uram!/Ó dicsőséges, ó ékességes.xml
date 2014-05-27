@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó dicsőséges, ó ékességes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó dicsőséges, ó ékességes,<br/>Mint a csillag, fényes!<br/>Úrnőnk s Anyánk vagy, drága, szép, erényes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyali szózat, látnoki jóslat,<br/>Ős királyi magzat,<br/>Bölcs Salamonnál zeng neked a hangzat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Menny királynője, baj enyhítője,<br/>Égi sark erője,<br/>Tavaszi színben rózsa anyatője.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hajnal nyílása, éltünk világa,<br/>Nap dicső sugára!<br/>Új fényt fakasztál üdvünk borújára.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Éj tiszta holdja, kín gyógyítója.<br/>Rab szabadítója:<br/>Tőled segítve láncait leoldja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nap mosolygása, füst lobogása,<br/>Szende szűzi lányka:<br/>Szeplőtlen! érted gyúlt a király lángra.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szép arany nyaklánc, mennyei borház,<br/>Érctorony, fedett sánc:<br/>Minden nyomorgót üdvet adva megszánsz.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pálma sudára, nektár pohárja,<br/>Fűszer illat-árja:<br/>Vidd a bolyongót égi hon útjára.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szent búza magja, ékszer smaragdja,<br/>Irgalom harangja:<br/>Jusson elődbe e zsolozsma hangja.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Harc lobogója, vígság folyója,<br/>Szűz virág bimbója:<br/>Égi gyönyörnek vagy te kincstartója.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Föld liliomja, rózsagally lombja,<br/>Szállj az égi honba!<br/>Melynek fényárját Szíved földre vonja.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Menny ékessége, nép dicsősége,<br/>Vidd szívünket égbe:<br/>Hogy a száműzött lelje nyugtát végre!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Fény a sötétben, édes reményem,<br/>Ó tekints le rám; fenn:<br/>Adj híveidnek örök éltet. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Ó édes Jézus, ég és föld</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó édes Jézus, ég és föld dicsőséges királya,<br/>Hozzád repes az angyalok alázatos imája.<br/>Édes igád terhe ellen föllázadt a gonosz szellem,<br/>Szívek trónját bitorolja. De mi híven kiáltunk:<br/>Jézus a mi királyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó édes Jézus, népeknek s királyoknak királya,<br/>Szent akaratod minden nép, minden törvény szolgálja.<br/>Te vagy az út, te a béke, uralkodók fényessége.<br/>Hazánkat is esedezve oltalmadba ajánljuk,<br/>Ó felséges királyunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó édes Jézus, keresztény családok szent királya,<br/>Te vagy, aki a szerelmet s a hűséget megáldja.<br/>Oltárod a család éke, szent Szíved a köteléke,<br/>A szülőknek példaképe, a gyermekek barátja<br/>És jóságos királya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó édes Jézus, szíveknek hőn szeretett királya,<br/>A te uralmad szeretet szétsugárzó csodája.<br/>Te vagy a szív menedéke, harcos órán békessége.<br/>Szent Szívedben megbékélünk és egymásra találunk,<br/>Jézus, édes királyunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó édes Jézus, nékem is fejedelmem, királyom,<br/>Isteni Szíved szentségét hódolattal imádom.<br/>Te uralkodj a szívemben, téged áldjon bennem minden.<br/>Lobogódnál: keresztednél a helyemet megállom,<br/>Én felséges királyom!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogyha keresztes harcokra toborzol szent sereget,<br/>Síkra kiszállni éretted én is, én is ott leszek.<br/>Hűn kísérem minden lépted, bátran ontom vérem érted,<br/>Szent nevedben szállok harcra s győzök minden viszályon,<br/>Jézus, édes királyom!</lines>
+    </verse>
+  </lyrics>
+</song>

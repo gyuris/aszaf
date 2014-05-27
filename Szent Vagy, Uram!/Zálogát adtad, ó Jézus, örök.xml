@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Zálogát adtad, ó Jézus, örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zálogát adtad, ó Jézus, örök szeretetednek<br/>Rendelvén e nagy Szentséget és adván tieidnek.<br/>Hogy teveled egyesüljünk s téged viszontszeressünk,<br/>Örök hála és imádás légyen azért nevednek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalmadban nem vizsgáltad a mi gyarlóságunkat,<br/>És ellened elkövetett sok hálátlanságunkat.<br/>Megmenteni így akartál, azért értünk meghaltál,<br/>Eltörölvén a keresztfán régi adósságunkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S hogy halálod szent emlékét mindennap megülhessük,<br/>Hagytad ezt a nagy Szentséget, hogy magunkhoz vehessük.<br/>Csodálatos kincset adtál, és közöttünk maradtál.<br/>Véghetetlen jóságodért, add, hogy mindig szeressünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Így magadhoz édesgettél, kegyes Jézus, bennünket.<br/>Add, hogy tőled semmi többé el ne vonja szívünket.<br/>E Szentségben légy oltalmunk, érted éljünk és haljunk.<br/>Üdvözítőnk, áldd meg, kérünk, e szent feltételünket.</lines>
+    </verse>
+  </lyrics>
+</song>

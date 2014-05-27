@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:04">
+  <properties>
+    <titles>
+      <title>Magyarok fénye</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magyarok fénye,<br/>Ország reménye,<br/>Légy áldott, szent István király,<br/>Légy áldott, szent István király.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szép magyar néped<br/>Krisztushoz vitted,<br/>Légy áldott, szent István király,<br/>Légy áldott, szent István király.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent hitben tarts meg,<br/>Jézusnál áldj meg!<br/>Légy áldott, szent István király,<br/>Légy áldott, szent István király.</lines>
+    </verse>
+  </lyrics>
+</song>

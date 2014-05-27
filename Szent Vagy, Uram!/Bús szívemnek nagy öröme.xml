@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Bús szívemnek nagy öröme</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bús szívemnek nagy öröme<br/>Máriának drága neve.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én szívemet néked adom,<br/>Lelkem, ó Szűz, reád bízom.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnösöknek szószólója,<br/>Híveid vigasztalója.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Máriának említése<br/>Számban méznek édessége.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Volna nyelvem színaranyból,<br/>dicséreted jőne abból.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó mennyei szép liliom!<br/>Áldva tisztel sok milliom.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Színaranyból épített ház,<br/>Melyre az Úristen vigyáz.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kegyelemnek nagy csodája,<br/>Lankadt lelkem újulása.<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Édes Anyám, ó el ne hagyj,<br/>Végórámig vélem maradj!<br/>Áldjad, lelkem, Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+  </lyrics>
+</song>

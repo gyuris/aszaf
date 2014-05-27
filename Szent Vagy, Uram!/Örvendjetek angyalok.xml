@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Örvendjetek angyalok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendjetek angyalok!<br/>Jézusunk feltámadott,<br/>És a lelkünk meglelé<br/>Ösvényét a menny felé!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőítsük az Atyát,<br/>Ki szent Fiát adta át:<br/>Hogy a mennynek nyerje meg<br/>A bűntépte lelkeket!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó hírt hoz az Úr nekünk:<br/>A sötétség már letűnt<br/>S nincsen rajtunk hatalma,<br/>Ha a lelkünk akarja:<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszünk, mint a gyermekek,<br/>Kiknek szíve nem remeg<br/>Végtelen csodád előtt.<br/>Adj hitünknek új erőt!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bort és fehér kenyeret<br/>Ajánlunk föl Teneked:<br/>Fogadd véle, Istenünk,<br/>Néked szentelt életünk.<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent vagy, szent vagy Jézusunk!<br/>Kősírodhoz elfutunk<br/>S angyaliddal teneked<br/>Zengünk boldog éneket,<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus Krisztus megjelent<br/>Hófehéren idelent.<br/>Áldott Istenünk neve,<br/>Ki őt nékünk küldte le!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jöjj szívünkbe szent kenyér,<br/>Akit elménk fel nem ér,<br/>Adj szívünknek új erőt,<br/>Ha lankad a vég előtt!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

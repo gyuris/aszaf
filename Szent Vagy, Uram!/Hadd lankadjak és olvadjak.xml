@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Hadd lankadjak és olvadjak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd lankadjak és olvadjak éretted, én szerelmem!<br/>Leborulván imádjalak, Testige, én Istenem!<br/>Itt vagy kenyérszínben, igaz Isten, s vérben,<br/>Én mennyei jegyesem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs oly elme, hogy értelme e titkot felfoghassa,<br/>Elrejtve sincs más ily nagy kincs, hogy ember ne láthassa.<br/>De én mégis látlak, hitemmel imádlak,<br/>Istenemnek megvallak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnös lélek, már nem félek, értem vagyon ily nagy bér;<br/>Szent karokért s angyalokért nem lett Isten test és vér.<br/>Lelkem belőle él, különb mindezeknél,<br/>Kegyelmet csak innen kér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szánom, bánom és fájlalom azért én vétkeimet,<br/>Tisztán gyóntam és megmondtam őszintén bűneimet,<br/>Bár nem vagyok  méltó, de elég egy kis szó:<br/>Hajlékomba jöjj, nagy Jó!</lines>
+    </verse>
+  </lyrics>
+</song>

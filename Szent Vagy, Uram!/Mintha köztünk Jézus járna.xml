@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Mintha köztünk Jézus járna</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mintha köztünk Jézus járna,<br/>Elhallgat itt minden lárma.<br/>Néma csendben, áhítatban<br/>Örvendünk, mert az Úr itt van.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint kis gerle a fészkére,<br/>Védett, árnyas rejtekére,<br/>Mint a szarvas hűs forráshoz,<br/>Úgy vágyódunk oltárához.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt megenyhül, aki szenved.<br/>Aki fáradt, megpihenhet.<br/>Így szól Jézus a szívéhez:<br/>Én vagyok az örök élet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nagy világ ezt nem érti,<br/>Jézus szívét föl-fölvérzi.<br/>Szíve üres kéjért dobban:<br/>Szeressük mi annál jobban.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Édes Jézus, ó ne fájjon<br/>Az a sok bűn a világon.<br/>S ha a sok bűn rosszul esnék,<br/>Tekintsd szívünk hű szerelmét.</lines>
+    </verse>
+  </lyrics>
+</song>

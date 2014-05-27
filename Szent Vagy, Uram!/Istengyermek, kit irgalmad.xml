@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Istengyermek, kit irgalmad</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istengyermek, kit irgalmad közénk lehozott,<br/>Angyaloknak énekével Néked áldozok.<br/>Terjeszd fölém kezedet, hogy az Istenszeretet<br/>Töltse el ma szívem, lelkem, jászolod tövén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár nem látom gyermekarcod szent vonásait,<br/>Hiszem mégis rendületlen, hogy már Te vagy itt.<br/>És mosolygón fölfogod könnyemet, amit hozok<br/>Ajándékul jászolodnak trónusához én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istengyermek, nézd szívemnek forró vágyait:<br/>Boldogságot adni másnak nincs hatalma itt,<br/>Csak Tenéked, Istenem. Ó, ha arcod megjelen<br/>Áldott ostya szent színében, boldog vagyok én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Betlehemi csillagodat ragyogtasd nekem,<br/>Ki e sötét lelki éjben jászlod' keresem!<br/>Add hitemnek fényedet, akkor biztosan megyek<br/>S meg nem állok, míg a trónod el nem érem én.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentségházad jászolához állok őrnek én,<br/>Hogy ne bántson senki Téged már e földtekén.<br/>Ó ha Téged sértenek, én szívembe rejtelek,<br/>S menedéket adok Néked mindhalálomig.</lines>
+    </verse>
+  </lyrics>
+</song>

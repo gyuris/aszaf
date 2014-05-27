@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Föltekintünk a szegénység</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Föltekintünk a szegénység ködfelhőin át<br/>Páduának csillagára, Szent Antal, terád<br/>Bízva hozzád fordulunk, bajainkban gyámolunk,<br/>Hallgat szádra, hő imádra Jézus, jó Urunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Ferencnek nyomdokában vigasztalva jársz,<br/>Nyert ügyünk van, ha te ott fent oltalmunkra állsz.<br/>Szánd a néma szenvedőt, aggódót a harc előtt;<br/>Szánd a bárányt, hogyha látod a tövisben őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus által terveinket jó sikerre vidd,<br/>Megfogadjuk, el nem hagyjuk hű szegényeid.<br/>Alamizsnánk édesebb, ha megáldja szent kezed,<br/>Fölkel tőle új erőre a porbaesett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tiszta férfi, karjaidban a kis Jézus ül,<br/>Szólj mellettünk, mert szavadra hozzánk édesül.<br/>Ő az angyali kenyér, lelkünk csak belőle él,<br/>Porló testünk feltámadást csak benne remél.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Antal, kinek lángszavára mély tenger felel,<br/>Szívünk siket mélységét is szavad verje fel.<br/>Boldog, aki rád figyel, nyomdokodban indul el<br/>Krisztus útján, hős erényre, porból égbe fel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Majd, ha fut már a megfáradt test alól a föld,<br/>Ó Szent Antal, üdvösséget ott keresve fönt,<br/>Segítsd véled zengenünk: „Ó, dicső Szűz, légy velünk!<br/>Ha velünk vagy, Jézus Anyja, ki győz ellenünk!”</lines>
+    </verse>
+  </lyrics>
+</song>

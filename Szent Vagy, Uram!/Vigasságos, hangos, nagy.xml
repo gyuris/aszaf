@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Vigasságos, hangos, nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigasságos, hangos, nagy örömünk támadt:<br/>Megszületett Jézus a beteg világnak.<br/>Felragyog immáron fényességes napja Isten irgalmának.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendez a nap, hold, csillagok vigadnak,<br/>Ő nagy örömükben fényesen ragyognak,<br/>Hogy immár itt vagyon a mennyei váltság földi halandóknak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ádám, Éva egykor ízlelék az almát,<br/>Megízleltük értük a bűnnek siralmát,<br/>Míg e nap minekünk megmutatta Jézus mennyei irgalmát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fénylik az új csillag, angyalok röpdösnek,<br/>Ékes dicséretet mondanak Istennek,<br/>Békesség örömét, örök üdvösséget a jó embereknek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért mi is néki mindnyájan örvendjünk,<br/>Született Krisztusnak vígan énekeljünk<br/>És az angyalokkal és a pásztorokkal glóriát hirdessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

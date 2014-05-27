@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Harmatozzatok égi magasok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok égi magasok!<br/>Téged vár epedve a halandók lelke,<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert az emberek ott tévelygenek,<br/>Hol te égi fényed útján nem vezérled<br/>Őket, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldás, dicséret és hála néked:<br/>Mert fényes világunk s legfőbb boldogságunk<br/>Te vagy, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A prófétáknak lelkei láttak<br/>Szent jelenésekben s téged békességben<br/>Vártak, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te ember lettél, s új tant hirdettél.<br/>A jövendölések beteljesedének<br/>Rólad, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hiszünk tebenned, égi szent követ:<br/>Út, igazság, élet, hittel vallunk téged<br/>Istenünknek, Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ím az áldozat, melyet bemutat<br/>Szolgád Fölségednek: jöjj el és szenteld meg,<br/>Ó kegyelmes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nyújtsd malasztodat, hogy ez áldozat<br/>Bánatot gerjesszen bűnös szíveinkben.<br/>Ó segíts meg, Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szent az egy Isten három személyben.<br/>Az Atyaistennel és a Szentlélekkel<br/>Szent vagy, édes Üdvözítőnk!</lines>
+    </verse>
+  </lyrics>
+</song>

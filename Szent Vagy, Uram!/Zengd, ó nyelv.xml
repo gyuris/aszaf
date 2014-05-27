@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Zengd, ó nyelv</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengd, ó nyelv, a győzedelmet, mely dicső harc bére lett,<br/>S a keresztnek szent jeléről mondj dicsérő éneket:<br/>Ilyen hősi áldozattal csak a Krisztus győzhetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szánta Isten, hogy a fáról ősszülőink ettenek,<br/>Hogy az átkos alma révén csak halálra leltenek,<br/>S fát jelölt ki, mely a másik fának átkát törje meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvösségünk drága művét rend kívánta, szent örök,<br/>Hogy okosság nyerjen harcot száz-fortélyú bűn fölött.<br/>Onnan jöjjön gyógyulás is, hol sebet a bűn ütött.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mikor hát a szent időnek teljessége ránk köszönt,<br/>Küldetett az égi várból ama drága Egyszülött,<br/>És a szűzi tiszta méhben testruhába öltözött.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sír a Kisded és a jászol szűk ölében rejtezik,<br/>Szűzanyjának drága karja rongyba rejti tagjait:<br/>És az Isten kezét-lábát pólyarongyok kötözik.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Már a harminc év lepergett és a kör teljesre vált.<br/>A keresztet Üdvözítőnk szabad szívvel fogta át,<br/>És a Bárányt a keresztre áldozatnak felvonák.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Epeital elepeszti, vérzi testét szeg, tövis,<br/>Lándzsa forrást nyit Szívében, s ömlik drága vér és víz:<br/>Ez a szent hab mos fehérre eget, tengert, földet is.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hű keresztfa, minden fánál százezerszer nemesebb:<br/>Virág, lomb, fa, drága termés erdőn nem nő becsesebb.<br/>Édes Ág te, édes szeg te: de a terhed édesebb.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hajtsd meg lombod, ó magas fa, nyisd puhára ágaid,<br/>Bár merevnek és keménynek születtél, most légy szelíd,<br/>És öleld át puha-lágyan nagy királyod tagjait.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>E világnak áldozatját méltón csak te tarthatád,<br/>Hullámhányta életpályánk révbe rajta át talált.<br/>S mert a Bárány vére mosta, le is győzte a halált.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>A Háromság dicsőségét énekeljék mindenek,<br/>Atyát, Fiút és a Lelket egy dicséret zengje meg,<br/>És nevét a Három-Egynek föld dicsérje és egek.</lines>
+    </verse>
+  </lyrics>
+</song>

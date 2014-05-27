@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Krisztus Anyja, Szűz Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Anyja, Szűz Mária, keresztfánál sírván síra.<br/>S midőn látá, hogy szent Fia gyötrelmében hervadozna,<br/>Keseregvén így szóla, keseregvén így szóla.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Istenem, hová legyek! Halál, hol vagy? Éltem vegyed!<br/>Szívem szakad gyötrelmemben, pallost érzek én szívemben.<br/>Ó szerelmes Jézusom, én megváltó Krisztusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki az, ki így meggyalázott, tövisekkel koronázott?<br/>Ki adott ily rút halálra, ki szenteknek vagy példája,<br/>Angyaloknak királya, mind a világ bírája.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édes, kedves szememfénye, én életem egy reménye,<br/>Kit véremmel tápláltalak, e világért átadtalak,<br/>Krisztus, ember és Isten, Krisztus, ember és Isten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jaj keresztfa, be magas vagy! szánj meg immár, sírni ne hagyj:<br/>Hajolj alá szent terheddel, szép Jézusom ne vegyed el,<br/>Szívem drága örömit, szívem drága örömit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drága fejed, lábak, kezek, minden tagok mind sebesek,<br/>Megszaggatták te szent tested, a keresztfát vérrel fested,<br/>Ó mennyei nagy Szépség, immár benned nincs épség!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gyászba, fényes nap, öltözzél, hold, homályba rejtekezzél,<br/>Fényességtek mert már nem él, itt meghalt, ki mennyekben él.<br/>Világ, gyászba öltözzél, világ, gyászba öltözzél.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ordítsatok és sírjatok velem minden földi vadak.<br/>Fájdalomtól hasadjatok, hegyek, sziklák és kőfalak<br/>Szép Jézusom nagy kínján, Isten Fia halálán.</lines>
+    </verse>
+  </lyrics>
+</song>

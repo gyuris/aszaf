@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, Isten szülője,<br/>Kiben nem volt soha bűnnek szeplője.<br/>Öröktől fogva Isten választott,<br/>Vétektől megoltalmazott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó szent Szűz, megrontád a kígyó fejét,<br/>S megtörted lelkünknek régi ellenét.<br/>Néked nem ártott a bűnnek mérge<br/>S a gonosz vakmerősége.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ádámban, atyánkban mi mind vétettünk,<br/>A tőle eredett bűnben születtünk,<br/>De te, ó szent Szűz, kivétel lettél,<br/>Bűn nélkül, tisztán születtél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Isten Báránya téged anyjának<br/>Választott s elvette vétkét világnak.<br/>Méltó volt, hogy a Bárány szülője<br/>A vétket meg ne ismerje.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tündöklő szépséged a szent próféták<br/>Reménynek, örömnek régen megírták:<br/>Pecsételt kúthoz hasonlították,<br/>És elzárt kertnek mondották.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeplőtlen tiszta Szűz, könyörögj értünk,<br/>Kik bűnben születtünk, hogy Ahhoz térjünk,<br/>Aki bűn nélkül való példának<br/>Téged adott a világnak.</lines>
+    </verse>
+  </lyrics>
+</song>

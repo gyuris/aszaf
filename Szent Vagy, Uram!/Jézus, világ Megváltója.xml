@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Jézus, világ Megváltója</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, világ Megváltója,<br/>Üdvözlégy, élet adója,<br/>Megfeszített Istenfia,<br/>Szent kereszted szívem hívja.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Általszegve kezed, lábad,<br/>Átvert tested roskad, bágyad,<br/>Mezítelen tépett melled!<br/>Ó siratlak, ó ölellek!<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virágoknak szép virága,<br/>Honnét orcád sárgasága?<br/>Hegyes tövis koronázott,<br/>Édes orcád vérrel ázott.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asszú földet harmatozván,<br/>Vérzel, vérzel a keresztfán.<br/>Úgy piroslik tested róla,<br/>Mint a most nyílt piros rózsa.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent karjaid széjjeltárod,<br/>Tán az embereket várod,<br/>Kiken vérrel könyörültél,<br/>Betegekért betegültél.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ím én magam hozzád vettem,<br/>Magunk vagyunk, Uram, ketten,<br/>Szent fejedet hozzám hajtsad,<br/>Szóljon hozzám kékült ajkad.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Piros forrás, nyílj meg nékem,<br/>Ez a mély seb menedékem!<br/>Ha illeti szomjas ajkam,<br/>Nincs ereje bűnnek rajtam.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Fektess el e véres ágyon,<br/>Most szenvedni véled vágyom,<br/>Ha megmosdom e szent vérben,<br/>Fehérré lesz minden vétkem.<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jézusom, ha jön a végnap,<br/>Ismerj engem magadénak,<br/>Homlokomon piros véred:<br/>Tied vagyok, úgy ítélj meg!<br/>Jézus, add, hogy hozzád térjek,<br/>Veled haljak, veled éljek.</lines>
+    </verse>
+  </lyrics>
+</song>

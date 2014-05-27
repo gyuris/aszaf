@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Krisztus a mennybe fölmene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus a mennybe fölmene,<br/>Alleluja, alleluja!<br/>Egeknek élő Istene.<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fölnéztek az apostolok,<br/>Alleluja, alleluja!<br/>És zengtek fényes angyalok:<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Mit álltok itt, ti férfiak?<br/>Alleluja, alleluja!<br/>Miért e néma bámulat?”<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki most az égbe szálla fel,<br/>Alleluja, alleluja!<br/>Egykor, mint bíró, így jön el!<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rabokat oldoz karja el,<br/>Alleluja, alleluja!<br/>S viszi az égi honba fel.<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nékünk is útat így csinál,<br/>Alleluja, alleluja!<br/>Amint a nyíló égbe száll.<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Galileai férfiak!<br/>Alleluja, alleluja!<br/>Ujjongjon hát az áhítat!<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Örüljünk mink is most velük,<br/>Alleluja, alleluja!<br/>És zengjük boldog énekük:<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Siessünk hálát mondani,<br/>Alleluja, alleluja!<br/>S a Három-Egyet áldani!<br/>Alle-, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

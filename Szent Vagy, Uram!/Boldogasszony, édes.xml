@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Boldogasszony, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogasszony, édes,<br/>Hozzád esd ma néped:<br/>Veszni indult lelkét<br/>Hogy te mentenéd meg,<br/>Édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicséretét zengjék<br/>Egyszülött Fiadnak,<br/>Kik az égben laknak,<br/>S kik a földön élnek,<br/>Édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Fiad igéit<br/>Hogy megtartsa néped,<br/>Égi fényességet<br/>Eszközölj ki nékünk:<br/>Édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hisszük, hogy a lelked<br/>Kegyelemmel ékes,<br/>És Fiad Szívéhez<br/>Általad jutunk el,<br/>Édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fölajánljuk Néked<br/>Szenvedéseinket:<br/>Végy szívedbe minket<br/>S mutass meg az Úrnak,<br/>Édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent az Isten, szent, szent!<br/>Égiek kiáltják,<br/>Földiek így áldják<br/>Szent Fiad hatalmát,<br/>Édes Szűzanyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

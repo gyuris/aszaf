@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Téged, Isten, magasságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged, Isten, magasságban, itt dicsérünk buzgóságban.<br/>Téged vallunk Urunknak, Alkotónknak, Atyánknak.<br/>Mindenható Isten te vagy, véghetetlen hatalmad nagy:<br/>Földi népek dicsérnek, és Uruknak ismérnek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Egek és kerubimok, minden karok, szerafimok<br/>Téged, Isten, áldanak, együtt így kiáltanak:<br/>Szent az Isten, bizony szent, szent! Szábaothnak Istene szent!<br/>Ég s föld tele neveddel, örök dicsőségeddel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőséges apostolok, próféták és nagy mártirok,<br/>Mind tégedet áldanak, és mindnyájan szolgálnak.<br/>Szentegyházad vigasságban Tégedet áld e világban,<br/>Atya Istent Fiaddal, Szentlélekkel egynek vall.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krisztus, te vagy dicsőségnek királya s a békességnek,<br/>Isten Atyád örök s nagy, te egyetlen Fia vagy.<br/>Rabságunkat megsajnáltad, Szűznek méhét nem utáltad,<br/>Értünk halált szenvedtél, nekünk megkegyelmeztél.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zárt ajtaját az egeknek megnyitottad a híveknek.<br/>Most Atyádnak jobbján ülsz, és mirajtunk könyörülsz.<br/>Eljössz ismét e világra, igazságos számadásra;<br/>A nagy bíró te leszel, igazságot te teszel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(letérdelünk)<br/>Kérünk azért buzgósággal, kérünk alázatossággal,<br/>Szolgáidnak irgalmazz, légy népedhez irgalmas.<br/>Ne nézd tenger-sok vétkünket, ne nézd új-új elestünket:<br/>Tekintsd azon drága vért, melyet ontál lelkünkért.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adjad, hogy a mennybe jussunk, szenteiddel vigadhassunk<br/>Örök boldogságunkban, dicső szent országodban.<br/>Oltalmazd meg, Uram, néped, áldd meg a te örökséged,<br/>Vezéreld és gyámolítsd, mindörökké boldogítsd.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(ismét felállunk)<br/>Mind-e napon áldunk téged és hirdetjük dicsőséged.<br/>E nap kísértésektől őrizz s minden vétektől.<br/>Kedved rajtunk megmaradjon, reménységünk benned vagyon;<br/>Benned bízunk örökké, mindörökkön örökké.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(P: Áldjuk az atyát és a Fiút a Szentlélekkel.)<br/>H: Dicsérjük és magasztaljuk Őt mindenkor.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(P: Benedicamus Patrem et Filium cum Sancto Spiritu.)<br/>H: Laudemus et superexaltemus eum in sæcula.</lines>
+    </verse>
+  </lyrics>
+</song>

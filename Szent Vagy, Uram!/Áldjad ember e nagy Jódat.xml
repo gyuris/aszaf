@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Áldjad ember e nagy Jódat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad ember e nagy Jódat,<br/>Kenyérszínben Megváltódat,<br/>Itt jelen van szent testével, édes Jézus,<br/>Jelen vagyon szent vérével, áldott Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt az Isten gazdagsága,<br/>Bűnös lelkek nagy váltsága,<br/>Minden jónak nagy bősége, édes Jézus,<br/>Gyarló szívek erőssége, áldott Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt az égnek megnyitója,<br/>Kegyelemnek meghozója,<br/>Egész világ drága díja, édes Jézus,<br/>Az Istennek örök Fia, áldott Jézus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt lelkünknek orvoslója,<br/>Bús szívünknek vidítója,<br/>Elrejtezett kenyérszínben, édes Jézus,<br/>Az oltári nagy Szentségben, áldott Jézus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ember, higgy az Úr szavának,<br/>Csalhatatlan mondásának,<br/>Teste étel, azt tanítja, édes Jézus,<br/>Vére ital, bizonyítja, áldott Jézus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nem emléke szent testének,<br/>Nem csak jele szent vérének,<br/>Igaz teste ez, úgy mondá, édes Jézus,<br/>És vérének nyilván vallá, áldott Jézus.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Itt van tehát istensége,<br/>S evvel együtt embersége,<br/>Kérésünket meghallgatja, édes Jézus,<br/>És bűnünket megbocsátja, áldott Jézus.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérjük, adja ránk áldását,<br/>Irgalmának kútforrását,<br/>Legyen velünk a végórán, édes Jézus,<br/>S üdvözítsen holtunk után, áldott Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Kezdődik az ének</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="236"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kezdődik az ének<br/>Az Úr Fölségének,<br/>Kezdődik a szent áldozat.<br/>Alázatos hittel<br/>Imánk hozzád sír fel,<br/>Ó, Atyánk, kegyesen fogadd.<br/>Bűnbánó szívvel koldulunk:<br/>Könyörülj népeden, Urunk,<br/>Érte halt halált szent Fiad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isteni szent Fölség, hála és dicsőség Tégedet illet egyedül.<br/>Trónod zsámolyára száll szívünk imája égbe, hol szent Fölséged ül.<br/>A szívünk Tehozzád eped. Köszönjük, hogy szent Gyermeked küldted el békekövetül.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten jó hírével közibénk jövén el, irgalmat prédikált nekünk.<br/>Minden rút hibánkat lemossa a bánat, Istenhez visszatérhetünk.<br/>A kereszt üdvösség jele, éljünk hát és haljunk Vele: így mentjük meg az életünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszünk az Atyában, ég és föld Urában: ő adott nékünk életet.<br/>Szent Fia, a Bárány, drága vére árán Istenhez visszavezetett.<br/>Szentlélek a vigasztaló, kiben a bűnnek meghaló életünk újjászületett.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A kereszt oltárán<br/>Jézus, égi Bárány,<br/>Atyjának föláldoztatott.<br/>Kenyér s bor színében<br/>Megújítja szépen<br/>Az áldott szent áldozatot.<br/>Ó, Atyánk, kegyesen fogadd,<br/>Hintsd le ránk szent malasztodat,<br/>S fordítsd el tőlünk haragod.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mi is a szívünket,<br/>Búnkat, örömünket<br/>Áldozzuk, ó Atyánk, Neked.<br/>Kezed áld, vagy büntet,<br/>Egész életünket<br/>Adtad, hát el is veheted.<br/>Jézusért bízva szenvedünk,<br/>Jézusé legyen életünk,<br/>Ki értünk fölfeszíttetett.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent vagy, Uram, szent, szent: zengik a mennyben fent ujjongó szentek, angyalok.<br/>Szent vagy, Uram, szent, szent: bűnös földön itt lent visszhangnak szállnak sóhajok.<br/>A kereszt áldja szent neved, ővele hódolnak Neked emberi s angyali karok.</lines>
+    </verse>
+  </lyrics>
+</song>

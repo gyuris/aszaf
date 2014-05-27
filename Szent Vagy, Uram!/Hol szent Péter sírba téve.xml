@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Hol szent Péter sírba téve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol szent Péter sírba téve<br/>És Rómának dobog szíve,<br/>Ezrek ajkán, ezer nyelven<br/>Hő ima zeng édesdeden:<br/>Tartsd meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arany födél, márvány falak<br/>S a Vatikán visszhangzanak,<br/>S a hét halom tág körében<br/>Megharsanva körülröppen:<br/>Tartsd meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Új erőre kap e szózat,<br/>Bejárja a szent sírokat,<br/>Zúgva vonul hegyen, síkon,<br/>Áttör zajló hullámokon:<br/>Tartsd meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A forró dél, rideg éjszak<br/>Ez imában egyesül csak;<br/>Kivált honunk édes nyelvén<br/>Zeng igazán, zeng őszintén:<br/>Tartsd meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mint villámmal egy perc alatt<br/>Messze szárnyal a gondolat:<br/>Szintúgy röpül ajkról-ajkra,<br/>Várak-, puszták- és falvakra:<br/>Tarts meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eljut szentek fénykörébe<br/>S leszáll onnét szíveinkbe,<br/>Mint a fölszállt páranedvek<br/>Szomjas földre visszaesnek.<br/>Tartsd meg, Isten, szent atyánkat,<br/>Krisztusnak helytartóját!</lines>
+    </verse>
+  </lyrics>
+</song>

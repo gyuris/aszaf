@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Nagy mentsége, reménysége</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy mentsége, reménysége<br/>A kétségbe esteknek,<br/>Dicsősége, fényessége,<br/>Szép csillaga népednek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó pátrónám, végső órám<br/>Ha majd kínnal érkezik,<br/>Igaz anyám, kegyes dajkám,<br/>Szívem nálad megbúvik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néked élek, néked halok,<br/>Terád bízom éltemet,<br/>Téged tisztel árva szívem,<br/>Ez vigasztal engemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyes szent Szűz, ím előtted<br/>Sírva térdre borulok,<br/>Csak könyörülj, mert egyedül<br/>Hű szívedhez fordulok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Végre halál ha megtalál,<br/>Bátorítsad szolgádat,<br/>Éltem folyta, gonosz volta<br/>Még kegyelmet találhat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Látod: sírok, tőled várom,<br/>Hogy könyörögj bűnömért<br/>A Báránynál, szent Fiadnál,<br/>Ki szenvedett éltemért.</lines>
+    </verse>
+  </lyrics>
+</song>

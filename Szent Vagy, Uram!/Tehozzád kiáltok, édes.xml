@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Tehozzád kiáltok, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tehozzád kiáltok, édes Istenem!<br/>És minden munkámat néked szentelem,<br/>Mert te engemet munkára szántál,<br/>Ép testbe arra formáltál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj erőt, épséget, Uram, azoknak,<br/>Akik szent nevedben híven dolgoznak:<br/>Hogy vidám kedvvel munkálkodhassunk<br/>S munkánkkal téged áldhassunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Engedd, hogy sorsunkkal megelégedjünk,<br/>Melyet bölcs végzésed rendelt minekünk:<br/>A nagyravágyás el ne ragadja,<br/>Ne legyen lelkünk gőg rabja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nálad úr s szegény közt nincsen különbség,<br/>Elzárva senkitől nincs az üdvösség;<br/>A gazdagságot te nem tekinted,<br/>Csak tiszta, jámbor lelkünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, Uram, kegyelmed minden munkámhoz<br/>S amidőn rossz szándék kísértésbe hoz,<br/>Ments meg engemet, el ne tévedjek,<br/>Kárt, csalást tenni ne merjek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Legyen szent áldásod igaz munkámon,<br/>Mert habár az ember végig izzadjon:<br/>Ha szent áldásod nem segít rajta,<br/>Semmi munkának nincs haszna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uram, én nem félek a szegénységtől,<br/>Csak mentsd meg lelkemet a bűnveszélytől;<br/>Édes Istenem, csak te légy végre<br/>Földi munkámnak szent bére.</lines>
+    </verse>
+  </lyrics>
+</song>

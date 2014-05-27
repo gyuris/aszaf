@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Szeretlek, szép Jézus, mert</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretlek, szép Jézus, mert fölötte jó vagy,<br/>Minden szeretetre, bizony, te méltó vagy.<br/>Jóvoltod s irgalmad a bűnöshöz oly nagy,<br/>Gyarló kis szolgádat, engemet, el ne hagyj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zárkózzál be, kérlek, szívem rejtekébe,<br/>Tisztítsd ki a tüskét s rózsát vess helyébe.<br/>Jézus legyen írva minden levelében,<br/>Olvadjon el szívem Jézus szerelmében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erős kezeiddel ültess jó palántát,<br/>Szívedből szívembe kegyelem virágát,<br/>Jessze gyökeréből ojtsd be szívem ágát,<br/>Hogy hozzon az égből jó illatot, drágát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Neveljed szívemben hozzád a szerelmet,<br/>És a bűnök ellen égből nyújts védelmet!<br/>Ismerd meg énbennem felhasznált kegyelmed,<br/>Hogy megnyerjem végső boldogságom benned.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vagy, édes Jézus, élet, út, igazság,<br/>Szentség és szeretet, véghetetlen jóság.<br/>Ó mennyei szent tűz, ó te nagy uraság,<br/>Add, hogy legyen részünk az örök boldogság.</lines>
+    </verse>
+  </lyrics>
+</song>

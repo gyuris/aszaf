@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Szent Péter Apostol nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Péter Apostol nagy dicséretét<br/>Énekeljük vígan, ülvén ünnepét.<br/>Ó Szent Péter oldj meg bűnünktől,<br/>Nyerj irgalmat nékünk Istentől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyaszentegyháznak fundamentuma,<br/>Erős kősziklája, édes oltalma,<br/>Soha már a pokol kapui<br/>Nem lehetnek ő meggyőzői.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te Krisztushoz mentél többiek előtt<br/>Száraz lábbal tenger habjai fölött.<br/>Kötve avagy oldva mennyekben,<br/>Mit te földön rendelsz, úgy lészen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mutasd meg mirajtunk szent hatalmadat,<br/>Ó Szent Péter, melyet Isten néked ad,<br/>Egészségben tartsd meg testünket,<br/>Vezesd boldogságra lelkünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Együtt dicsőítsük közös örömmel<br/>Szent Pál apostolt is ma szent Péterrel,<br/>A világnak bölcs tanítóját,<br/>Szent Egyháznak másik oszlopát.</lines>
+    </verse>
+  </lyrics>
+</song>

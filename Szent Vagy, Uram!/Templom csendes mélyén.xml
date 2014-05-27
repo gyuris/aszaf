@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Templom csendes mélyén</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Templom csendes mélyén, oltárrejteken<br/>Hófehéren Jézus titkon ott pihen.<br/>Körülötte éj van, egyedül virraszt,<br/>Mint az égi harmat, hull a szent malaszt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fénye általjárja a hideg falat,<br/>Szürke utca mentén titkosan halad.<br/>Pillantása áthat minden zárakon,<br/>Fenn virrasztva jár az alvó falvakon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Látja dúsak házát, kunyhóban szegényt,<br/>Szétsugároz vigaszt, enyhülést, reményt.<br/>Tekintete balzsam, ha a szív sebes,<br/>A magános éjben szíveket keres.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Látja, aki árva, aki elhagyott,<br/>Börtönében látja a szegény rabot,<br/>S ha a fáradt ember kínban elmerül,<br/>Azt susogja néki: „Nem vagy egyedül!”</lines>
+    </verse>
+  </lyrics>
+</song>

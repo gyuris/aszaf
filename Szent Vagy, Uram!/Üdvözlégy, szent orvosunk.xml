@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, szent orvosunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="315"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, szent orvosunk,<br/>Ó szépséges Jézusunk,<br/>Téged óhajt mi sorsunk,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óhajtozva óhajtunk,<br/>Ó szépséges Jézusunk,<br/>Szent oltáron imádunk,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erősítsd meg hitünket,<br/>Ó szépséges Jézusunk,<br/>Indítsd jóra szívünket,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uralkodjál közöttünk,<br/>Ó szépséges Jézusunk,<br/>Nyugodjál meg mibennünk,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add országod szeretnünk,<br/>Ó szépséges Jézusunk,<br/>Igazságod követnünk,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent testednek kínjáért,<br/>Ó szépséges Jézusunk,<br/>Adj jót szent Szűzanyádért,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A te nagy érdemeddel,<br/>Ó szépséges Jézusunk,<br/>Ellenségink űzzed el,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szívünk hozzád gerjedjen,<br/>Ó szépséges Jézusunk,<br/>Romlott ügyünk serkenjen,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Híveidet építgesd,<br/>Ó szépséges Jézusunk,<br/>Lakomádra elvezesd,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Engedd bűnünk bánatját,<br/>Ó szépséges Jézusunk,<br/>Igaz penitenciát,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Lelkünk veled tisztuljon,<br/>Ó szépséges Jézusunk,<br/>Országunk megújuljon,<br/>Édességes Jézusunk.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Dicséret szent Atyádnak,<br/>Ó szépséges Jézusunk,<br/>Teljes Szentháromságnak,<br/>Édességes Jézusunk.</lines>
+    </verse>
+  </lyrics>
+</song>

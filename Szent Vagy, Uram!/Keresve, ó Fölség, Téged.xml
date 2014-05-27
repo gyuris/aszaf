@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Keresve, ó Fölség, Téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keresve, ó Fölség, Téged<br/>Beléptünk szent tornácodba.<br/>Íme, szívünk újra áldó<br/>Malasztodat szomjúhozza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mélységből zengünk Hozzád:<br/>Örök a te dicsőséged!<br/>Tudjuk, szent Fiadtól tudjuk,<br/>Gyermekeid vagyunk Néked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Titkát az örök Igéknek<br/>Megtaláltuk, íme, Nálad.<br/>Ó add, hogy szent tanításod<br/>Követhesse hívő nyájad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hisszük a te Istenséged,<br/>Mely az eget beragyogja.<br/>Győzhetetlen lesz a lelkünk<br/>Szent hitünkhöz ragaszkodva.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kenyeret és bort ajánl föl<br/>Színed előtt a te szolgád.<br/>Legyen örök üdvösségünk<br/>Záloga e tiszta oltár.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent az Isten! zengi minden,<br/>Zengjünk mi is térdenállva.<br/>Íme, közel vagy már hozzánk,<br/>Íme, most szállsz az oltárra!</lines>
+    </verse>
+  </lyrics>
+</song>

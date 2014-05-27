@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Zeng a harang hívó szóval</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="239"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zeng a harang hívó szóval e szép ünnep reggelén.<br/>Összegyűltünk oltárodnál, kél szívünkben új remény.<br/>Földi bajban, gyötrelemben tűnik, múlik életünk:<br/>Áldozatod erejében új életre ébredünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magasságban, élő Krisztus, teneked.<br/>Szent halálod dicsősége megnyitá a mennyeket.<br/>Békességünk csak te benned van a földön minekünk,<br/>Bízva lépünk nyomaidba, tudjuk: hozzád érkezünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram Jézus, tenálad az örök élet igéje,<br/>Biztosítja igazságát szentelt véred pecsétje.<br/>Taníts minket égi szóval, hívj magadhoz Jézusunk,<br/>Szent Igédnek világánál mennyországba eljutunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krisztus Urunk, hiszünk néked, sziklán épül szent hitünk:<br/>Életedet bizonyságul odaadtad, Istenünk.<br/>A halálnak zord hatalmát nyitott sírod letörte,<br/>A halandó, ki hisz benned, általad él örökre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mit adhatok, szegény bűnös? Szívemből csak bűn fakad.<br/>Te vagy értünk, Üdvözítőnk, a szeplőtlen áldozat.<br/>A halandó mindig újra megtetézi vétkeit,<br/>Nem ajánlhat elégtételt, hogyha Jézus nem segít.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De az oltár fehér gyolcsán újul egyre áldozat:<br/>Bűneinkért felajánlod, édes Jézus, magadat.<br/>S hogyha vétkünk sokasága ezerannyi volna még:<br/>Áldozatod tiszta lángján vétkünk szennye mind elég.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hódolattal dicsőítnek az angyali seregek,<br/>Imádattal leborulnak a bűnbánó emberek.<br/>Szent vagy, szent vagy, szent vagy, Jézus, örök élet királya!<br/>Boldog, aki dicsőséged hívő szívvel imádja.</lines>
+    </verse>
+  </lyrics>
+</song>

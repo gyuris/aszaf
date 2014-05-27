@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Mondj naponkint és óránkint</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondj naponkint és óránkint,<br/>Lelkem, dicséreteket,<br/>Máriának, Szűzanyának,<br/>Szentelj víg ünnepeket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gondolkodjál, álmélkodjál<br/>Az ő méltóságáról,<br/>Tisztelettel, szeretettel<br/>Szólj az Isten Anyjáról.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őt dicsérjed, őt tiszteljed,<br/>Hogy Fiánál segítsen,<br/>Kérd oltalmát, nehogy a bűn<br/>Rajtad erőt vehessen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert Mária nékünk égi<br/>Szent ajándékot hozott,<br/>E királynő szűz méhében<br/>Irgalom fogantatott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Éva vétke, titkos étke,<br/>Bezárá az egeket,<br/>S bűne által gyötrelembe<br/>Ejte minden népeket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De a hív Szűz alázatja<br/>Oly kegyelmet nyert vala,<br/>Hogy a megtérőnek ismét<br/>Megnyílt az ég ajtaja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tiszta szűzek szűz virága,<br/>Magas a te érdemed,<br/>Téged választott az Isten<br/>Minden asszonyok felett.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvözlégy, ó Isten Anyja,<br/>Szentléleknek temploma,<br/>Légy megtérésünknek útján<br/>Gyarlóságunk gyámola.</lines>
+    </verse>
+  </lyrics>
+</song>

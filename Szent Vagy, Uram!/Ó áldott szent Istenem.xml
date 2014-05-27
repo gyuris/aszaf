@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ó áldott szent Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó áldott szent Istenem, az Oltáriszentségben,<br/>Édes Jézus.<br/>Téged szívem úgy kíván, Tégedet én lelkem vár,<br/>Édes Jézus, édes Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó lelkem, szent Jegyesem, méltán ki-ki szeressen,<br/>Téged, Jézus.<br/>Minden kincset megvessen, csak Tégedet keressen,<br/>Édes Jézus, édes Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maradj nálam kevéssé, tedd szívemet édessé,<br/>Uram Jézus.<br/>Ám tégy engem semmivé, csak szívem tedd Tieddé,<br/>Édes Jézus, édes Jézus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emberek és angyalok, most mind előálljatok<br/>És a Jézust<br/>Teljes szívvel áldjátok, jertek és imádjátok<br/>Édes Jézust, édes Jézust.</lines>
+    </verse>
+  </lyrics>
+</song>

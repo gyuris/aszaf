@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Porba hullok ím előtted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porba hullok ím előtted, drágalátos nagy szentség!<br/>Úr Krisztusnak teste s vére, elrejtőzött Istenség!<br/>Könnyben úszik mindkét szemem, mint a tenger, üdvöm nagy;<br/>Mert hitem és szívem mondja: Isten Fia, jelen vagy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istenember, Üdvözítőm, nézlek én, a föld pora:<br/>Kenyerem vagy ínségemben, s vigasságom szent bora!<br/>Nem kérek én hiú jókat, miket áhít vak elme!<br/>Egy a vágyam, kívánságom: szent szívednek kegyelme!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istenember, tekints reám bujdosásom útjain!<br/>Ne engedd, hogy meggyötörjön kétség, bűn és durva kín!<br/>Szívem feléd dobog mindig, nem lesz soha hűtelen!<br/>Mint anyjához kicsi gyermek, fölsír hozzád szüntelen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S ha majd eljön végső órám, embersorsom, halálom:<br/>Ne engedd, hogy ama bús nap készületlen találjon!<br/>Istenember, édes Jézus, ah, te akkor légy velem!<br/>Te szent Tested legyen végső útravaló kenyerem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ki ragyogni látod élted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki ragyogni látod élted csillagát,<br/>Halljad a természet hathatós szavát:<br/>A gyenge és erős, félékeny és a hős<br/>Meghal egyaránt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy gazdag vagy koldus, szolga vagy király,<br/>Ifjú vagy elaggott, izmos vagy szikár:<br/>Egy csapás, és elejt, és rideg sírba ejt<br/>A kemény halál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint az őszi szellő fák zöld levelit<br/>Elhordja, úgy járnak szinte ékeid.<br/>A tilost ne keresd és tovább ne szeresd,<br/>Mert az elmerít.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nézd a föld virágát, mily hamar virít:<br/>Alig vetted észre szende ékeit,<br/>Fonnyadni siet már, szívből sajnáljad bár,<br/>Hogy vigyázz, tanít.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne ígérj magadnak hosszú életet,<br/>A halál veled jár, s észre sem veszed:<br/>Hogy élted fonalát elmetszi, nem lesz gát<br/>Semmi érdemed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hát Istentől rendelt célodhoz siess:<br/>Örömet mulandó jókban ne keress;<br/>Hogy ha int az óra, a bírói szóra<br/>Bátran ott lehess.</lines>
+    </verse>
+  </lyrics>
+</song>

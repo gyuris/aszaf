@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Zengjünk Jézus szent Nevének</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjünk Jézus szent Nevének<br/>Új éneket, keresztények.<br/>Üdvözlégy, fény tengere:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen név több ilyen édes,<br/>Ily malasztos, ily fölséges;<br/>Bajvívónak fegyvere:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ég és föld meghajolnak,<br/>E szent névnek úgy hódolnak;<br/>Lelkünk ízes fűszere:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meleget ez ád a napnak,<br/>Csillagok fényt ettől kapnak.<br/>Örömünknek kútfeje:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szövétnekünk a sötétben,<br/>Árnyékunk légy a hévségben.<br/>Lelkünk nyugvó menhelye:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sátora a békességnek,<br/>Szívünk s lelkünk kérünk, védd meg,<br/>Ha a bűn tör ellene:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nagy név, kérünk, tőlünk elvedd<br/>A káromló undok nyelvet.<br/>Gyarló szívünk ereje:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Zengedezze az ég és föld,<br/>Mely e titkos névvel bétölt.<br/>Lelkünk édes mindene:<br/>Jézus édes, szép neve.</lines>
+    </verse>
+  </lyrics>
+</song>

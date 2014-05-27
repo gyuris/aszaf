@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Világ megváltó Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világ megváltó Jézus,<br/>Keresztre felfeszítteték,<br/>Isten Báránya, Jézus<br/>Érettünk megtöretteték.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamis világ szépsége!<br/>Ruháknak ékes látszatja,<br/>Pusztúlj, test kényessége!<br/>Szívemet bánat szaggatja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, testem, sírnak étke,<br/>Maholnap földbe szállandó,<br/>Benned a bűnnek mérge,<br/>Már-már halálra válandó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Föl, föl, már ébredj, szívem,<br/>Én lelkem már erősödjél,<br/>Hogy innen égbe jussunk,<br/>Már mindig jól és szentül élj!</lines>
+    </verse>
+  </lyrics>
+</song>

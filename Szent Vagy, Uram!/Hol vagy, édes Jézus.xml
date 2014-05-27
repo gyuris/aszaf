@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Hol vagy, édes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy, édes Jézus, szerelmes szülöttem,<br/>Ki nélkül már a világon holtig árva lettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hol vagy két szememnek tündöklő világa,<br/>Elepedett bús szívemnek csendes boldogsága?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hol vagy én szívemnek buzgó kívánsága?<br/>Életemnek mézzel folyó kedves vigassága?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mondjátok meg nékem, ó ti magas hegyek,<br/>Szülöttemet fölkeresni vajjon merre menjek?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mutassatok útat, ó ti olajkertek,<br/>Hol megfogták szülöttemet: vele merre mentek?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ti darabos, éles, hegyes, köves utak,<br/>Szent Fiamnak vércsöppei követekre hulltak.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó jaj, ez a szent vér szomorúság jele.<br/>Előmbe fú halálának immár fagyos szele.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó sírjatok vélem, jó asszony barátim,<br/>Kik tudjátok e világban az én árvaságim.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Megepedett szívem, ne hagyjatok, kérlek!<br/>Jaj, fogjatok, elalélok, sír bennem a lélek.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Enyhítsd kesergésed, siralmas Szűzanya,<br/>Mert szent Fiad harmadnapra feltámad, megmondta.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Nosza, tövén mink is a kereszt fájának<br/>Síránkozzunk szent halálán szerelmes Fiának.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, édes Jézusunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, édes Jézusunk!<br/>Erős hittel itt megvallunk,<br/>E szentségben mi imádunk,<br/>Istenünknek magasztalunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy világ Megváltója,<br/>Mennyországnak megnyitója,<br/>Éhes lelkünk táplálója,<br/>Bús szívünknek orvoslója.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elménk ezen csodálkozik,<br/>Értelmünk is álmélkodik,<br/>Hogy tested itt elrejtezik,<br/>Kenyérszínbe öltözködik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te adtad ezt, hisszük, tudjuk,<br/>Szentírásban olvashatjuk,<br/>Azért kétség nélkül valljuk,<br/>Ámbár szemmel nem láthatjuk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért hozzád folyamodunk,<br/>Tiszta szívből fohászkodunk:<br/>Áldj meg minket, ó Jézusunk!<br/>E szentségben kik imádunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dögvész, halál el ne érjen,<br/>Éhség, ínség meg ne férjen,<br/>vérontásnak vége légyen,<br/>Ellenségünk megbékéljen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Földjeinknek adj bőséget,<br/>Gabonánknak kövérséget,<br/>Adj ezekhez egészséget,<br/>Hogy áldhasson érte néped.</lines>
+    </verse>
+  </lyrics>
+</song>

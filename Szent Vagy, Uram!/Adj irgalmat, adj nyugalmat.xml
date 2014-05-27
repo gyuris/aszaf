@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Adj irgalmat, adj nyugalmat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj irgalmat, adj nyugalmat, ó Atyánk, a lelkeknek,<br/>Akikért ez áldozattal testvéreik esdenek.<br/>Adjon nekik enyhületet a végtelen szeretet.<br/>Adj irgalmat, adj nyugalmat minden megholt hívednek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj irgalmat, adj nyugalmat, ó Atyánk, a léleknek,<br/>Akiért ez áldozattal testvéreik esdenek.<br/>Adjon neki enyhületet a végtelen szeretet.<br/>Adj irgalmat, adj nyugalmat minden megholt hívednek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szerető tanítványnak, Szent Jánosnak mondatott:<br/>Írd föl: Boldog mindörökké az Úrban elhunyt halott.<br/>Engedd, Uram, hogy halottunk, kiért hozzád fordulunk,<br/>Tőled hallja ezen égi vigasztaló szózatot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édes Jézus, aki értünk föláldoztad magadat:<br/>Legyen kedves teelőtted ez a tiszta áldozat.<br/>Adjon enyhet, szabadulást, mennyországba feljutást<br/>A szenvedő jámboroknak, akik várják napjukat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zengjük áldva: Szent az Isten! élők, holtak Istene!<br/>Kegyelemnek, irgalomnak mérhetetlen tengere.<br/>Mind az ő szent kezén vagyunk, néki élünk és halunk,<br/>Szent az Isten, szent az Isten, élők, holtak Istene!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Ó nemes, ékes liliom, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó nemes, ékes liliom, édes,<br/>Gyönyörű rózsa, Mária,<br/>Ki szent malaszttal, mint gyöngyharmattal<br/>Neveltettél, ó Mária.<br/>Az Isten kedvelt s Fiának rendelt<br/>Anyjául, ó Szűz Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csudák csudája, Gedeon gyapja,<br/>Kire szállt égnek harmatja,<br/>Malaszttal teljes, Istennek kedves<br/>Virágszál, Jézus szent Anyja.<br/>Kik hozzád mennek, mindent megnyernek,<br/>Valamint szívük kivánja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áron vesszője: nem vala tője,<br/>Virággal mégis éledék;<br/>Annak példája Szűz Máriára<br/>Csodásan, szépen bételék.<br/>Szűzesség drága, nemes virága<br/>S gyümölcse nékünk adaték.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Éva gyümölcse, bűnös erkölcse<br/>Halálra ronta bennünket.<br/>Méhed virága lőn orvossága,<br/>Gyógyító írja lelkünknek.<br/>Te mennyországba, szép boldogságba<br/>Segítsed bűnös népünket.</lines>
+    </verse>
+  </lyrics>
+</song>

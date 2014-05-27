@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Ne törd magad, ó én lelkem, e</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne törd magad, ó én lelkem, e nagy titkos Szentségnél,<br/>Ne fáradozz, ó én elmém, az angyalok étkénél;<br/>Hidd el, itt az Úristen, hatalommal, felséggel,<br/>Emberséggel egységben, testével és vérével.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Királyok gyönyörűsége, Aki közénk költözött,<br/>Értünk testet öltött Ige e Szentségbe öltözött.<br/>Az angyalok kenyere, tisztaságos asztala,<br/>Embernek lőn étele, szeretetnek oltára.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó hitünknek édes titka, te vagy szívünk Szerelme,<br/>Áldomásnak szent pohara, te vagy lelkünk védelme.<br/>Ó gyönyörű vigalom, szeretetnek kötele,<br/>Az isteni asztalon te vagy lelkünk étele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vond szívemet szent szívedre, mert hozzád kívánkozom,<br/>Rejts el engem sebeidbe, én mennyei Orvosom!<br/>Ajándékul szívemet szívednek feláldozom,<br/>Halálomat s éltemet  egyedül csak rád bízom.</lines>
+    </verse>
+  </lyrics>
+</song>

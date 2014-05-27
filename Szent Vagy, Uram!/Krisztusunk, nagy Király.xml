@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Krisztusunk, nagy Király</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="316"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztusunk, nagy Király, üdvözlégy ezerszer, százezerszer!<br/>Téged áld és imád, hódolva néz reád minden ember.<br/>A négy égtáj, a csillagok, mennyben lakó angyalok<br/>Hódolnak, imádnak, uruknak vallanak,<br/>Krisztus Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te tettél koronát teremtett művedre, az emberre.<br/>Elméje élesül, maholnap felrepül az egekre.<br/>De a lelkét te magadnak alkottad, sajátodnak,<br/>Nagyura, bírája, örökös királya te vagy néki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az égre tűznapot, tündöklő csillagot kezed rakott.<br/>Hazánknak koronát, Kárpát koszorúját visszaadod.<br/>Légy királya királyunknak, ezred évek, ha múlnak,<br/>Téged áld és imád magyar nép és király, örök Krisztus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oltárban rejtezik szent tested ostyája, nagy csodája.<br/>Hozzád száll milliók könyörgő imája, hő fohásza.<br/>Tedd szívünkre koronának, üdvösségünk pajzsának!<br/>Koronás lélekkel járjunk az életben színed előtt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztusunk, nagy Király, ajkunk hozzád kiált esdekelve!<br/>Ha jő az alkonyat, tehozzád térjünk, add, az egekbe!<br/>Légy hatalmas, nagy királyunk, égi lelkek közt áldjunk.<br/>Öleld át lelkünket, boldogíts bennünket mindörökre!</lines>
+    </verse>
+  </lyrics>
+</song>

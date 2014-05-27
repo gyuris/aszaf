@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Galileai férfiak, mért néztek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Galileai férfiak, mért néztek az égbe?<br/>Mért hogy forró könny fakad, bús könny, férfiak szemébe?<br/>Jézus Krisztus visszajön! Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Galileai férfiak, mért hogy tétlen álltok?<br/>Vár a Kelet és Nyugat, vár, vár: Krisztus bízta rátok.<br/>Hirdessétek mindenütt: Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Galileai férfiak, föl a küzdőtérre!<br/>Minden népek szomjasak Krisztus élő kútfejére.<br/>Választottak, bennetek Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Galileai férfiak, milyen jelre vártok?<br/>Ő tinéktek lángot ad: égből küldi Lelkét rátok,<br/>Várjatok csak tíz napig! Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Galileai férfiak, mért hogy sírva néztek?<br/>Jézus Krisztus itt marad, úgy, mint megígérte néktek!<br/>Világvégig véletek, Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Galileai férfiak, ha majd jön az óra:<br/>Élőket és holtakat Krisztus hív majd számadóra.<br/>A nagy Bíró visszajön, Jézus Krisztus él!</lines>
+    </verse>
+  </lyrics>
+</song>

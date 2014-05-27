@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Krisztus, virágunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus, virágunk,<br/>Szép termő águnk,<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki feküdt sírban,<br/>Felkele vígan.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felkele fényünk,<br/>Krisztus, reményünk!<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus hogy felkelt,<br/>Szentírás bételt.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A pokol elhűlt,<br/>Halál elrémült.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Él Jézus nyilván,<br/>A bűnt lebírván.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézusnak éljünk,<br/>Semmit ne féljünk!<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Úr Jézus nékünk<br/>Nagy fényességünk.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Boldogság véled<br/>Földön az élet.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ha véled járunk,<br/>Jó halált várunk.<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Dicsőség légyen<br/>Istennek égben!<br/>Feltámadt Krisztus! vigadjunk!<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+  </lyrics>
+</song>

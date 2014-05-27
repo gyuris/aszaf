@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Ó örök fény napja, melynek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó örök fény napja, melynek nincs alkonya,<br/>Csorog az oltárra szemünk könnyzápora;<br/>Kimúlt hív szolgádnak mutasd meg arcodat,<br/>Lelkét az üdvösség honába befogadd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tebenned remélve szállt ki végfohásza.<br/>Hamvait takarja a sötét sír gyásza.<br/>Ah, de még sötétebb a nehéz gyász lelkén,<br/>Lángoló kínok közt enyhülést nem lelvén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár súlyosb hibáit enyhíté malasztod,<br/>Büntető tüzed rá mégis felgyullasztod,<br/>Hogy minden bűnöknek törülje le szennyét<br/>És lelke bírhassa a boldog üdv mennyét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hintsd kegyed sugárát a kínok helyére,<br/>Oltsa ki a lángot szívednek szent vére,<br/>Esdeklő fohászunk legyen a lágy harmat,<br/>Amellyel bűneit mossa le irgalmad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Királyi székednek dísze nagy kegyelmed,<br/>Hirdeti Golgotán tengernyi gyötrelmed.<br/>Kegyelmezz meg néki, irgalom szent Atyja!<br/>Érte ég az oltár tiszta áldozatja.</lines>
+    </verse>
+  </lyrics>
+</song>

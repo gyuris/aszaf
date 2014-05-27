@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Isten hozta hív nyájához</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten hozta hív nyájához a főpásztort és Atyát,<br/>Kinek lelkünk kormányzását az Úr Jézus adta át,<br/>Hogy általa szent kegyelme árasztassék a hívekre,<br/>Úgy, amint ő egyházában mindörökre rendelte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, te vagy a szegletkő, mely fölött az oszlopok<br/>Apostoli egyházadban a fölszentelt főpapok.<br/>Adj erőt főpásztorunknak: atyja legyen mindnyájunknak,<br/>És jó harcot harcolhasson javára egyházunknak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Apostolok tőled nyerték szent hatalmok kulcsait,<br/>Hogy megnyissák híveidnek az üdvösség útjait.<br/>Add, hogy méltán résztvehessen lelkünk azon kegyelemben,<br/>Melyet most ránk főpásztorunk áraszt a te nevedben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Égből hozott tanításod pásztoraink őrizik,<br/>Apostolok nékik adták, hogy maradjon ép a hit.<br/>Add, hogy azon szent igéket, miket lelkiatyánk hirdet,<br/>Úgy vegyük, mint Istentől jött csalhatatlan beszédet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Édes Jézus, egyházadban legfőbb pásztor örökre,<br/>Irgalmadnak teljességét áraszd ki a hívekre.<br/>Hogy atyánkkal, ki nevedben jött most hozzánk, majd egekben<br/>Áldjuk egykor szent nevedet, égi dicsőségedben.</lines>
+    </verse>
+  </lyrics>
+</song>

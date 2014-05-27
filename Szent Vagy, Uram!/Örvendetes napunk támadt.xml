@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Örvendetes napunk támadt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendetes napunk támadt,<br/>Jézus Krisztus mert feltámadt.<br/>Örvendjünk, vigadjunk,<br/>Vígan mind most mondjunk<br/>Alle-, alleluját!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent asszonyok a kősírhoz<br/>Visznek fűszert holt Krisztushoz,<br/>Szívük elfogódott,<br/>Uruk hogy ott nem volt.<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fájdalmuk nagy örömre vált,<br/>fényes angyal eléjök állt:<br/>Jézusról hirdeti,<br/>Hogy sír már nem fedi.<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Urunkat ha látni vágytok<br/>Ti és a hű tanítványok,<br/>Galileában vár,<br/>Feltámadt, nincs itt már!<br/>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézust hogy ők megtalálták,<br/>Szavait is meghallották:<br/>Hívek, ne féljetek,<br/>Békesség véletek!<br/>Alle-, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

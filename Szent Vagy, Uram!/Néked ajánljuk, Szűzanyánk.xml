@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:02">
+  <properties>
+    <titles>
+      <title>Néked ajánljuk, Szűzanyánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néked ajánljuk, Szűzanyánk,<br/>A legszebb hónap alkonyát.<br/>Ezer nép híven zengi ma:<br/>Ó üdvözlégy, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Énekli tiszta gyermekajk<br/>S kik érzik a sok földi bajt,<br/>Esengve száll szívük dala:<br/>Ó üdvözlégy, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallja a bűnös és zokog,<br/>Hogy elhagyta a hajlokot,<br/>Melyben a legszentebb ima:<br/>Ó üdvözlégy, Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó tudjuk: május estelén<br/>Az égben is több lesz a fény<br/>S zengőbb az angyalok dala:<br/>Ó üdvözlégy, Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

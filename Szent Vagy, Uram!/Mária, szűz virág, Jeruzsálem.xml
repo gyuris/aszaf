@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Mária, szűz virág, Jeruzsálem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, szűz virág, Jeruzsálem templomában<br/>Hány éjszakát sír át égbe szálló szent imában:<br/>„Könyörülj népeden, könyörülj, Istenünk,<br/>Küldd el a Messiást, küldd el nekünk.<br/>Ó, ne hagyd népedet a gonosznak hatalmában.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallja a bús imát a nagy Isten égi trónján.<br/>Keresve siklik át pillantása bércen, rónán.<br/>Mindenütt zokogás, epedő fájdalom;<br/>A lélek vágya sír minden dalon.<br/>S az örök Ige szól: „Adósságuk én lerónám.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jaj, a bűn tengere elárad az egész földön.<br/>A szentség Istene hová lépjen, hová jöjjön?!<br/>Mária liliom, szeplőtlen, szűz, fehér.<br/>Jön az Úr, jön a Szent: szívébe tér.<br/>Ó áldott tisztaság! Nyílik már a lelki börtön.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, szűz virág, Isten anyja, liliomszál,<br/>Kér egész nagy világ, értünk most is imádkozzál:<br/>„Könyörülj népeden, könyörülj, Istenünk.<br/>Küldd el szent Fiadat, küldd el nekünk.”<br/>Mária, ha te kérsz, bűnös földre irgalom száll.</lines>
+    </verse>
+  </lyrics>
+</song>

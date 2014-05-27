@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:03">
+  <properties>
+    <titles>
+      <title>Győzelemről énekeljen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="313"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Győzelemről énekeljen Napkelet és Napnyugat,<br/>Millió szív összecsengjen, magasztalja az Urat!<br/>Krisztus újra földre szállott, vándorlásunk társa lett;<br/>Mert szerette a világot, kenyérszínbe rejtezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus, kenyér s bor színében,<br/>Úr s király a föld felett:<br/>Forrassz eggyé békességben<br/>Minden népet s nemzetet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egykor értünk testet öltött, kis gyermekként jött közénk;<br/>A keresztfán vére ömlött váltságunknak béreként.<br/>Most az oltár Golgotáján újra itt a drága vér,<br/>Áldozat az Isten-Bárány, Krisztus teste a kenyér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krisztus, kenyér s bor színében,<br/>Úr s király a föld felett:<br/>Forrassz eggyé békességben<br/>Minden népet s nemzetet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zúgjon hát a hálaének, szálljon völgyön, tengeren:<br/>A szeretet Istenének dicsőség és üdv legyen!<br/>Az egész föld legyen oltár, virág rajta a szívünk,<br/>Minden dalunk zengő zsoltár, tömjénillat a hitünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krisztus, kenyér s bor színében,<br/>Úr s király a föld felett:<br/>Forrassz eggyé békességben<br/>Minden népet s nemzetet!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>István király árva népe, te is hajtsd meg homlokod,<br/>Borulj térdre, szórd elébe minden gondod, bánatod!<br/>A kereszt volt ezer éven reménységed oszlopa:<br/>Most is Krisztus jele légyen jobb jövődnek záloga!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Krisztus, kenyér s bor színében,<br/>Úr s király a föld felett:<br/>Forrassz eggyé békességben<br/>Minden népet s nemzetet!</lines>
+    </verse>
+  </lyrics>
+</song>

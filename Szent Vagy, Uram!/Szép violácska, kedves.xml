@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:00">
+  <properties>
+    <titles>
+      <title>Szép violácska, kedves</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szép violácska, kedves rózsácska,<br/>Szerelmes kisded, szép Jézuska,<br/>Ki most születtél, emberré lettél,<br/>Minékünk örömet szerzettél,<br/>Kérünk vigasztald népünket,<br/>Térítsd magadhoz lelkünket,<br/>Igazítsd szívedhez szívünket,<br/>Igazítsd szívedhez szívünket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jászolban látlak, szívemben várlak,<br/>Ó drága kisded, szép Jézusom.<br/>Fogadd el szívem, szeretlek híven,<br/>Szűz ágon virágzott Krisztusom.<br/>Jászlad szénája, szalmája,<br/>Szívem jó meleg tanyája,<br/>Szép kisded, szerelmes Jézusom,<br/>Szép kisded, szerelmes Jézusom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott Teremtőm, szent Üdvözítőm,<br/>Ó drága kisded, szép Jézusom!<br/>Nincs e világon, ki befogadjon,<br/>Szűz ágon virágzott Krisztusom.<br/>Jöjj el lelkemnek ölébe,<br/>Zárkózz el szívem mélyébe,<br/>Szép kisded, szerelmes Jézusom,<br/>Szép kisded, szerelmes Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

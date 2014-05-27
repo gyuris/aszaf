@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:01">
+  <properties>
+    <titles>
+      <title>Leborulva áldlak, láthatatlan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leborulva áldlak, láthatatlan Istenség,<br/>Kenyér- és borszínben elrejtezett emberség,<br/>Noha itt nem láthat, meg nem tapasztalhat<br/>Az emberi gyengeség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isteni erődet elrejtéd a keresztfán,<br/>Testi gyarlóságnak homályával takarván.<br/>Itt emberi tested előlünk elrejted,<br/>Színek alatt titkolván.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noha szent Tamással sebed helyét nem látom,<br/>Uram, igaz hittel jelenléted megvallom.<br/>E vallásban tarts meg, szent színedet add meg<br/>Égben egykor meglátnom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Váltságomnak ára, száradt szívem ereje,<br/>Szegény bűnös lelkem megtisztító fürdője,<br/>Szomjú, fáradt lelkem megvigasztalója,<br/>Üdvösségem záloga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Részegíts meg engem, Uram, te szent kelyheddel,<br/>Oltsd el szegény szívem gonosz lángját véreddel,<br/>Drága harmatoddal asszú szívem földjét<br/>Kegyelmesen öntözd fel.</lines>
+    </verse>
+  </lyrics>
+</song>
