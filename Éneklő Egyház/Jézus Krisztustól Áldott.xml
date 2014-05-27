@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Jézus Krisztustól! Áldott</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="375"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>…Jézus Krisztustól! Áldott legyen az Isten, a mi Urunk Jézus Krisztus atyja!<br/>vagy: És a te lelkeddel!</lines>
+    </verse>
+  </lyrics>
+</song>

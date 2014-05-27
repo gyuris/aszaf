@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>et adventum Salvatoris nostri</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>…et adventum Salvatoris nostri Jesu Christi.<br/>Quia tuum est regnum et potestas, et gloria in sæcula.</lines>
+    </verse>
+  </lyrics>
+</song>

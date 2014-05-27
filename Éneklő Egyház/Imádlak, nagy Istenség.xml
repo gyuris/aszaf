@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Imádlak, nagy Istenség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak, nagy Istenség,<br/>Test s vér, titkos mély Szentség,<br/>leborulva.<br/>Itt van Isten, s emberség,<br/>véghetetlen nagy Fölség föláldozva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, te szent manna,<br/>ennél többet ki adna?<br/>nincs mód benne.<br/>Ez az égi nagy Jóság,<br/>a teljes Szentháromság<br/>nagy kegyelme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent testével így táplál,<br/>hogy ne ártson a halál,<br/>mily kegyesség!<br/>Szent vérével harmatoz,<br/>így szelídít magához<br/>ez Istenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szállj le hozzám, szent Kenyér,<br/>jöjj, ártatlan drága Vér,<br/>szánd lelkemet!<br/>Bár hajlékom nem méltó,<br/>elég tőled csak egy szó,<br/>vedd szívemet!</lines>
+    </verse>
+  </lyrics>
+</song>

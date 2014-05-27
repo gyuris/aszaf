@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Ó Teremtőnk, hallgass minket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Teremtőnk, hallgass minket,<br/>sírásunkat, kérésünket!<br/>Most, e jeles szent időben,<br/>negyven napi készületben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látod Uram mi szívünket,<br/>tudod minden gyengéinket,<br/>add a hozzád megtérőknek<br/>bocsánatát bűneinknek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram sokszor megbántottunk,<br/>ím megvalljuk, segíts rajtunk,<br/>adj sebünkre orvosságot,<br/>igaz szívű bűnbánatot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy Úristen, engedd, kérünk,<br/>akik testben most böjtölünk,<br/>lélekben is böjtölhessünk,<br/>minden bűntől távol legyünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Engedd meg ezt, Szentháromság,<br/>örök Egység, örök jóság,<br/>áldozatunk gyümölcseit<br/>teremhessük szent Húsvétig.</lines>
+    </verse>
+  </lyrics>
+</song>

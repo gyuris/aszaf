@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Keresztények, sírjatok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keresztények, sírjatok,<br/>mélyen szomorkodjatok,<br/>keseregjen minden szív,<br/>aki Jézusához hív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen abban irgalom,<br/>hozzád buzgó fájdalom,<br/>aki téged meg nem szán,<br/>ó Jézus, a keresztfán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent testednek sebeit,<br/>vérrel folyó kékeit<br/>aki látja és nem sír,<br/>élő hittel az nem bír.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A kősziklák repednek,<br/>nap és hold sötétednek,<br/>minden élő megindul,<br/>csak a bűnös nem búsul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szállj szívedbe, sirasd meg<br/>vétkeidet, s fontold meg,<br/>hogy az Isten Fia volt,<br/>aki érted így megholt.</lines>
+    </verse>
+  </lyrics>
+</song>

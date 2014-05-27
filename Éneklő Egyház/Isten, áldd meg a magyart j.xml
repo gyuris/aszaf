@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Isten, áldd meg a magyart j</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, áldd meg a magyart jó kedvvel, bőséggel,<br/>nyújts feléje védő kart, ha küzd ellenséggel,<br/>balsors akit régen tép, hozz reá víg esztendőt,<br/>megbűnhődte már e nép a múltat s jövendőt.</lines>
+    </verse>
+  </lyrics>
+</song>

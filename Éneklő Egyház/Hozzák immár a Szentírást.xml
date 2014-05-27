@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Hozzák immár a Szentírást</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="325"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzák immár a Szentírást,<br/>a bölcsességnek könyveit,<br/>fogadja fény és tisztelet,<br/>az Úr szavát ez illeti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallgassuk csöndben, éberen,<br/>figyeljen rá az értelem,<br/>hirdesse bátran nyelv és száj,<br/>őrizze jól a tiszta szív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr igéje oly erő,<br/>eltörli majd a vétkeket,<br/>s magja, ha itt jó földbe hull,<br/>meghozza bő gyümölcseit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyaistennek glória,<br/>ki szent Igéjét küldte el,<br/>áldassék most a Lélek is,<br/>ki minden értés Mestere.</lines>
+    </verse>
+  </lyrics>
+</song>

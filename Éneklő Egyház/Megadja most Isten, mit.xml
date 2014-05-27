@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Megadja most Isten, mit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megadja most Isten, mit régóta várunk,<br/>hozzánk jön Jézusunk, kit szívünkbe zárunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozzánk jövő Krisztus lelkünket újítja,<br/>minden szép erénnyel virágba borítja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egy kis fehérségben maga az Istenség,<br/>hiszlek, hogy jelen vagy, ó Te drága Felség!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmas Istennek csodálatos volta,<br/>kenyérnek színében magát nekünk adta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Maradj nálam, Jézus, szeretlek én téged,<br/>te taníts, te nevelj, add meg segítséged!</lines>
+    </verse>
+  </lyrics>
+</song>

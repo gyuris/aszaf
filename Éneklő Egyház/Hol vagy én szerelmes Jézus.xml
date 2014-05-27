@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Hol vagy én szerelmes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy én szerelmes Jézus Krisztusom?<br/>Hol talállak téged, kegyes Megváltóm?<br/>Adj világosságot, mert fényes vagy,<br/>náladnélkül szívem igen bágyadt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged az én lelkem kíván keresni,<br/>mert tenáladnélkül el kell kárhozni,<br/>ó szerelmes Krisztus, fordulj hozzám,<br/>vigasztald meg szívem, tekints énrám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg fel nem talállak, keresni foglak,<br/>mind éjjel, mind nappal sírva kiáltlak,<br/>ó jelenj meg, Krisztus, te szolgádnak,<br/>ragyogtasd fel arcod hű fiadnak!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ahová csak fordulsz, híven követlek,<br/>téged, Megváltómat, szívből szeretlek,<br/>add, hogy lelkem, Jézus, téged áldjon,<br/>holtom után véled vigadozzon!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Szent N. vértanú, akit ma</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent N. vértanú, akit ma ünneplünk,<br/>éneklő örömmel mind együtt köszöntünk:<br/>Krisztushoz közel vagy, hitben erős szentünk,<br/>dicséretet zengünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megvetve Istenért zsarnoki parancsot,<br/>bálványnak hódolni térded meg nem hajtod,<br/>félelmes bilincsek, tűzláng, szörnyű kínpad,<br/>hitedben nem ingat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vége van immáron most a nagy kínoknak,<br/>vérednek cseppjei rubintként ragyognak,<br/>menyegzős ruhádnak ez lett ékessége,<br/>koronád szépsége.</lines>
+    </verse>
+  </lyrics>
+</song>

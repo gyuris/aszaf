@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Zeng a harang hívó szóval</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zeng a harang hívó szóval e szép ünnep reggelén.<br/>Összegyűltünk oltárodnál, kél szívünkben új remény.<br/>Földi bajban, gyötrelemben tűnik, múlik életünk,<br/>áldozatod erejében új életre ébredünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség a magasságban, élő Krisztus, teneked.<br/>Szent halálod dicsősége megnyitá a mennyeket.<br/>Békességünk csak tebenned van a földön minekünk,<br/>bízva lépünk nyomaidba, tudjuk, hozzád érkezünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most az oltár Golgotáján újul a szent áldozat,<br/>bűneinkért felajánlod, édes Jézus, magadat.<br/>Mi is néked fölajánljuk minden dolgunk, életünk,<br/>oltárodnál megújulva új életet élhetünk.</lines>
+    </verse>
+  </lyrics>
+</song>

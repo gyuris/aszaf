@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Hozzád sóhajt a lélek, Urunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád sóhajt a lélek, Urunk,<br/>hozzád vonz az igaz szeretet,<br/>hozzád jöttünk, eléd boroulunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istenhez száll dicsérő imánk,<br/>s ha van bennünk igaz akarat,<br/>Istentől száll a béke reánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az oltáron borunk, kenyerünk,<br/>benne munkánk, szenvedéseink,<br/>minden gondunk, minden örömünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légyen kedves ez az áldozat,<br/>amit néped, Urunk, Istenünk,<br/>Krisztus által ma itt bemutat.</lines>
+    </verse>
+  </lyrics>
+</song>

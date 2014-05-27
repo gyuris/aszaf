@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Ó ki ez oltáron kenyér színe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó ki ez oltáron kenyér színe alatt,<br/>a tiszta ostyának fehérsége alatt,<br/>fölséges Úristen, el vagy rejtezkedve csodálatosképpen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Testi szemeimmel noha nem láthatlak,<br/>de mindazonáltal igazán imádlak,<br/>téged Teremtőmnek, Istenemnek vallak,<br/>és Uramnak mondlak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága sebeidbe rejtem sok vétkemet,<br/>szent véred harmatja mossa meg lelkemet,<br/>hogy szent színed előtt tisztán megjelenjek,<br/>s így kegyelmet nyerjek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó angyali étek, tápláljad lelkemet!<br/>Ó, mennyei ital, vigasztald szívemet!<br/>S legfőképp, ha majdan közelget halálom:<br/>légy vigasztalásom!</lines>
+    </verse>
+  </lyrics>
+</song>

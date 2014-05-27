@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Krisztus mennybe fölmene</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus mennybe fölmene,<br/>hogy nekünk helyt szerzene,<br/>ül Atyjának jobb felől,<br/>mindeneknek ura lőn.<br/>Kapuját a mennynek<br/>szélesre tárta<br/>minden embernek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus meghalt bűnünkért,<br/>föltámadott lelkünkért,<br/>már királyi székében<br/>uralkodik az égben.<br/>Kapuját a mennynek<br/>szélesre tárta<br/>minden embernek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Közbenjáró Krisztusunk,<br/>szeretett jó Pásztorunk,<br/>Szentlelkedet add nekünk,<br/>hogy szüntelen dicsérjünk.<br/>Kapuját a mennynek<br/>szélesre tárta<br/>minden embernek.</lines>
+    </verse>
+  </lyrics>
+</song>

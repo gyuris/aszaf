@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Az Isten igaz napja ez</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Isten igaz napja ez,<br/>szent fényességgel tiszta nap,<br/>a drága vér ma mossa le<br/>a világ szörnyű bűneit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hitetlen hite visszatér,<br/>ma újra látnak a vakok,<br/>s kiben nem old fel rettegést,<br/>ha látja: megtér a lator?!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keresztjét jóra váltja ő,<br/>gyors hittel Jézust kérleli,<br/>igazként sokat megelőz,<br/>az Úr országát elnyeri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ámulnak mind az angyalok,<br/>látván a testi büntetést,<br/>s hogy Krisztushoz tér a gonosz,<br/>boldog életet érdemel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csodálatos misztérium,<br/>világ szennyét hogy mossa le,<br/>mindenki bűnét elveszi,<br/>test vétkét tisztítván a test.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lehet-e ennél nagyszerűbb:<br/>vétket bocsát az irgalom,<br/>félelmet old a szeretet,<br/>új életet szül a halál?!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Saját csalétkét falja fel,<br/>magát köti meg a Halál,<br/>meghal mindenki Élete,<br/>s felkél, mint minden élete!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Elér mindenkit a Halál,<br/>de feltámad mind a halott,<br/>s pusztítva, ütve a Halál<br/>csak maga vesztét nyögheti.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kérünk, teremtő Istenünk,<br/>vigadva Húsvét ünnepén:<br/>ne ártson nékünk a halál,<br/>védd meg örökre népedet!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(meghajolva)<br/>Urunk, tenéked glória,<br/>aki legyőzted a halált,<br/>az Atyát és Szentlelket is<br/>dicsérjük minden századon. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

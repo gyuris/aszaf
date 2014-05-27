@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Az Úristent magasztalom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úristent magasztalom,<br/>jóvoltáról gondolkodom,<br/>irgalmához folyamodom,<br/>mert meghallgat, azt jól tudom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csodálatos tetteiről,<br/>szabadító erejéről,<br/>emlékezem jóvoltáról,<br/>bizodalmat veszek abból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert ő erős hatalommal,<br/>dicsőséges szent jobbjával<br/>az ő népét megmentette,<br/>fogságából kivezette.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úgy vezette szent Egyházát,<br/>mint jó pásztor kedves nyáját,<br/>ételéről gondoskodott,<br/>utat neki ő mutatott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adjunk az Istennek,<br/>Atya, Fiú, Szentléleknek,<br/>három személy Fölségének,<br/>egymivoltú Istenségnek.</lines>
+    </verse>
+  </lyrics>
+</song>

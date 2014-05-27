@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Lelkem tiszta lánggal ég</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem tiszta lánggal ég, ó Mária, éretted.<br/>Rólad szólnom édesség, szívem úgy megilletted.<br/>Hogy szerelmeddel fölbátorítál, kegyességeddel hűn ápolgattál.<br/>Köszönöm, mint anyámnak, kegyelmes pátrónámnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok bajban és veszélyben segítettél, megvédtél.<br/>Az Istentől énnekem sok-sok áldást megnyertél.<br/>Ha fohászkodtam, hozzád szólottam, tőled mennyei jókhoz jutottam.<br/>Köszönöm, mint anyámnak, kegyelmes pátrónámnak.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Szőlőt ültetett az Úr</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="782"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szőlőt ültetett az Úr szerettének * magas és termékeny dombon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Besövényezte azt és árkot húzott köréje * beültette azt válogatott vesszőkkel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őrtornyot rakatott a közepén * és présházat épített.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Seregek Urának szőleje nem más * mint Izrael népe!</lines>
+    </verse>
+  </lyrics>
+</song>

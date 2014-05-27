@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Ó, Jézus, szűzen született</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Jézus, szűzen született szép rózsaszál,<br/>kit lelkem hideg jászolban, szalmán talál.<br/>Ó, Jézusom, ó kedvesem,<br/>nyugodjál meleg szívemen, én mindenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Jézus, mennyei vendég, énnálam szállj,<br/>testeddel és szent véreddel engem táplálj!<br/>Ó, Jézusom, ó kedvesem,<br/>nyugodjál meleg szívemen, én mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

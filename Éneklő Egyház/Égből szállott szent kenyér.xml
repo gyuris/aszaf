@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Égből szállott szent kenyér</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égből szállott szent kenyér,<br/>értünk ontott drága vér:<br/>hittel áldunk és imádunk,<br/>bár az elme föl nem ér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Véghetetlen Istenség,<br/>szerető nagy kegyesség!<br/>Az oltáron velünk áldjon<br/>tégedet a föld s az ég.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó mennyei seregek,<br/>velünk egyesüljetek!<br/>Tiszta lelkek, az Istennek<br/>irgalmáról zengjetek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nap, hold, s fényes csillagok,<br/>imádságra gyúljatok!<br/>Hitünk fénye őt dicsérje,<br/>kit ragyogva áldotok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen egy szív, egy lélek<br/>azokban, kik dicsérnek;<br/>ó nagy Isten, e szentségben<br/>nyerjék meg, mit remélnek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Reménységünk csak te vagy,<br/>Jézus, kérünk, el ne hagyj:<br/>légy vezérünk, s hogy célt érjünk<br/>országodba befogadj!</lines>
+    </verse>
+  </lyrics>
+</song>

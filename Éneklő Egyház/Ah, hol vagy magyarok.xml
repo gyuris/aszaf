@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Ah, hol vagy magyarok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah, hol vagy magyarok tündöklő csillaga,<br/>ki voltál valaha országunk istápja?<br/>Hol vagy, István király? Téged magyar kíván,<br/>gyászos öltözetben teelőtted sírván.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rólad emlékezvén csordulnak könnyei,<br/>búval harmatoznak szomorú mezei,<br/>lankadnak szüntelen vitézlő karjai,<br/>nem szűnnek iszonyú sírástól szemei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virágos kert vala híres Pannónia,<br/>mely kertet öntözé híven Szűz Mária,<br/>katolikus hitnek bő volt szép virága,<br/>be megsötétedett örvendetes napja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Előtted könyörgünk, bús magyar fiaid,<br/>hozzád fohászkodunk, árva maradékid,<br/>tekints, István király, szomorú hazádra,<br/>fordítsd szemeidet régi országodra!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Reménységünk vagyon benned s Máriában,<br/>mint magyar hazánknak hű királynéjában,<br/>még éltedben minket néki ajánlottál,<br/>és szent koronáddal együtt feláldoztál.</lines>
+    </verse>
+  </lyrics>
+</song>

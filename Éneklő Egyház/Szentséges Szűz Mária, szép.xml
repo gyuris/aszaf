@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Szentséges Szűz Mária, szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="236"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentséges Szűz Mária, szép liliomszál,<br/>ki mindenkor szépen úgy virágozál,<br/>hogy szűz lévén meggyümölcsöztél,<br/>imádd Jézust értünk, akit te szültél.<br/>Szép liliomszál, szüzek virága,<br/>könyörögj értünk, Istennek Anyja.<br/>Ó, mily ékes vagy, Mária! bűnösöknek szószólója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagyhatalmú szent Szűz, szép liliomszál,<br/>ki mindenkor szépen úgy virágozál,<br/>hogy szűz lévén meggyümölcsöztél,<br/>imádd Jézust értünk, akit te szültél.<br/>Szép liliomszál, szüzek virága,<br/>könyörögj értünk, Istennek Anyja,<br/>Ó, mily ékes vagy, Mária! bűnösöknek szószólója!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hajnali szép csillag, szép liliomszál,<br/>ki mindenkor szépen úgy virágozál,<br/>hogy szűz lévén meggyümölcsöztél,<br/>imádd Jézust értünk, akit te szültél.<br/>Szép liliomszál, szüzek virága,<br/>könyörögj értünk, Istennek Anyja,<br/>Ó, mily ékes vagy, Mária! bűnösöknek szószólója!</lines>
+    </verse>
+  </lyrics>
+</song>

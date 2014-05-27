@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Ma új örömben egyesül</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma új örömben egyesül<br/>az egyház szentelt éneke,<br/>s az éggel együtt lelkesül,<br/>mely vígan, buzgón zeng vele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi születés e napon<br/>hozott új, boldog ünnepet,<br/>mint a tündöklő liliom,<br/>a királylány még ékesebb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Margit, mikor még kis leány,<br/>kerül mulandó vágyakat,<br/>és gyermekként már jó korán<br/>az égi élet vonzza csak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megvetve magas palotát,<br/>szigorú klastrom rejtekén,<br/>akit királyi pompa várt,<br/>miként a koldus, oly szegény.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add meg nekünk is Istenünk,<br/>kikért szűz Margit esdekel,<br/>hogy mi is véle ott legyünk,<br/>a boldog mennybe jutva fel. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

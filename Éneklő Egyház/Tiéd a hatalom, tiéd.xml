@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:20">
+  <properties>
+    <titles>
+      <title>Tiéd a hatalom, tiéd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="663"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiéd a hatalom, tiéd az ország, Uram.<br/>Te állasz minden nemzetek fölött,<br/>adj békét, Urunk, a mi napjainkban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magasztalja * az én lelkem az Urat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És örvendezik az én lelkem * az én üdvözítő Istenemben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert meglátta az ő szolgálójának alázatosságát * és íme, mostantól fogva boldognak mondanak engem minden nemzetek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mert nagy dolgoz cselekedett énvelem a Hatalmas * és szent az ő neve.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>És az ő irgalmassága nemzetségről nemzetségre * azokon, kik őt félik.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hatalmasságot cselekedett az ő karjával * szétszórta a gőgösöket szívüknek elbízottsága által.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Letette a hatalmasokat a székről * és fölmagasztalta az alázatosakat.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Az éhezőket betöltötte jókkal * és a gazdagokat üresen küldte el.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Fölvette Izraelt, az ő szolgáját * hogy ne felejtse irgalmasságát.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Miképpen megmondotta vala atyáinknak * Ábrahámnak és az ő maradékának mindörökké.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>(meghajolva)<br/>Dicsőség az Atyának és Fiúnak * és Szentlélek Istennek.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Miképpen kezdetben vala, most és mindenkor * és mindörökkön örökké, amen.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Tiéd a hatalom, tiéd az ország, Uram.<br/>Te állasz minden nemzetek fölött,<br/>adj békét, Urunk, a mi napjainkban!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:20">
+  <properties>
+    <titles>
+      <title>A három ifjúnak most</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="727"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A három ifjúnak most énekeljük himnuszát,<br/>mit ők zengtek a tűzkemencében áldást mondván az Úrnak!</lines>
+    </verse>
+  </lyrics>
+</song>

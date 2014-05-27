@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Hogyha hozzád járulunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogyha hozzád járulunk, szemünk könnybe lábad,<br/>úgy csókoljuk, ó Urunk, drága keresztfádat.<br/>Elgyötört testedet feszítették rája,<br/>latrok közt függöttél, mindenség Királya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztusnak szent keresztje győzedelmi zászlónk,<br/>amellyel megszerezte üdvünket Megváltónk.<br/>Itt ragyog előttünk hitünk szent jelvénye,<br/>űzzön el lelkünkből minden árnyat fénye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezt a sok kínt érettünk szótlan elszenvedted,<br/>hogy nekünk, kik vétettünk, megnyissad a mennyet.<br/>Bűnbánó szívünket Isten elé tárjuk,<br/>ezt a bort, kenyeret néki felajánljuk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amikor szent lelkedet, Megváltónk, kiadtad,<br/>a világ megreszketett, megrendült alattad.<br/>Föld és ég hirdették, hogy te vagy az Isten,<br/>akit áld és imád a világon minden.</lines>
+    </verse>
+  </lyrics>
+</song>

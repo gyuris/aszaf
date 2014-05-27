@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Világmegváltó Krisztusunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világmegváltó Krisztusunk,<br/>Atyaistennek egy Fia,<br/>téged szült minden fény előtt<br/>magából az örök Atya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyádnak fényes tükre te!<br/>örök reménység vagy nekünk,<br/>szolgáid esdő énekét<br/>fogadd el, kérünk, szívesen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emlékezzél meg, Üdvhozó,<br/>hogy egykor testünk köntösét,<br/>mint szűz anyának gyermeke,<br/>magadra vetted népedért.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bizonyság rá ez ünnepünk,<br/>fordulván teljes kört az év,<br/>hogy Atyád trónjáról leszállsz,<br/>s üdvünkre hozzánk érkezel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Világra küldetésedet<br/>ünneplik menny, föld, tengerek,<br/>s mindaz, mi bennük él s mozog,<br/>zendítve boldog éneket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Magunk is, hálás híveid,<br/>kiket megvettél véreden,<br/>születésednek ünnepén<br/>új himnuszt mondunk most neked.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(meghajolva)<br/>Dicsőség néked, Jézusunk,<br/>kinek a Szűz szülőanyád,<br/>Atyával, Szentlélekkel Egy:<br/>időtelen időkön át. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

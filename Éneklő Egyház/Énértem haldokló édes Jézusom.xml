@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Énértem haldokló édes Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Énértem haldokló édes Jézusom,<br/>nézz rám, gyógyító kegyes orvosom:<br/>nagy bűnökkel telten eléd térdepeltem,<br/>ó édes Jézusom, tisztítsd meg a lelkem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó édes Jézusom, tied vagyok én,<br/>mennyei orvosom, egyetlen remény!<br/>Csak egy, amit kérek: majd ha porba térek,<br/>lássa meg arcodat a megtisztult lélek!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Irgalmas Szűzanyánk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irgalmas Szűzanyánk, Királynőnk, üdvözlégy,<br/>áldunk téged, élet, édesség, reménység,<br/>kik Éva bűnéért száműzésben élünk,<br/>e siralomvölgyből könnyek között kérünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy kegyes szószólónk, fordítsd felénk szemed,<br/>s mutasd meg majd nékünk áldott Egyszülötted,<br/>ó irgalmas, édes, kegyes szűz Mária,<br/>ó irgalmas, édes, kegyes szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

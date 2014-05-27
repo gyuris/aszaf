@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>A fényes nap immár</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fényes nap immár elnyugodott,<br/>a föld színe sötétben maradott,<br/>nappali fény éjjelre változott,<br/>fáradtaknak nyugodalmat hozott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden élő megy nyugodalomra,<br/>az Istentől elrendelt álomra.<br/>De én, Uram, úgy megyek ágyamba,<br/>mintha mennék gyászos koporsómba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vessünk számot hát, édes Istenem,<br/>hogy lelkemet ne kelljen féltenem,<br/>hogy lehessen bátrabban szólanom,<br/>midőn meg kell előtted állanom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Színed előtt minden nap elesem,<br/>de te lettél Atyádnál kezesem,<br/>ha megtartasz holnapi napodra,<br/>nem fordítom azt megbántásodra.</lines>
+    </verse>
+  </lyrics>
+</song>

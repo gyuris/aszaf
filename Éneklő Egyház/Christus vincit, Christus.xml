@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Christus vincit, Christus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="365"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christus vincit, Christus regnat, Christus imperat!<br/>Nép: Christus vincit, Christus regnat, Christus imperat!<br/>Krisztus hallgass minket! Isten szent Egyházának üdvösséget és oltalmat!<br/>Krisztus király! Nép: Üdvözíts minket!<br/>Szűz Mária! Nép: Védelmezz minket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nép: Christus vincit, Christus regnat, Christus imperat!<br/>Krisztus, hallgass minket! Szentatyánknak N. római pápának és N. püspökünknek bölcsességet és hosszú életet!<br/>Krisztus király! Nép: Üdvözíts minket!<br/>Szent Péter! Nép: Védelmezz minket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nép: Christus vincit, Christus regnat, Christus imperat!<br/>Krisztus hallgass minket! Papjainknak fedhetetlen életet, minden keresztény hívőnek üdvösséget és mennyei békékét!<br/>Krisztus király! Nép: Üdvözíts minket!<br/>Szent Mihály angyal! Nép: Védelmezz minket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nép: Christus vincit, Christus regnat, Christus imperat!<br/>Krisztus hallgass minket! Az egész világnak békességet, hazánk és községünk (városunk) minden lakójának boldog napokat!<br/>Krisztus király! Nép: Üdvözíts minket<br/>Szent István király! Nép: Védelmezz minket!<br/>Nép: Christus vincit, Christus regnat, Christus imperat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Világosságunk, Utunk és Életünk!<br/>Nép: Christus vincit, Christus regnat, Christus imperat!<br/>Mi erősségünk és igazságunk!<br/>Nép: Christus vincit, Christus regnat, Christus imperat!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krisztus békéje jöjjön el! Nép: Krisztus országa jöjjön el!<br/>Egyedül övé az uralom, a dicsőség és a hatalom minden századokon át! Nép: Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

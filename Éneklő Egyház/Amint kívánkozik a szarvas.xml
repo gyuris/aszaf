@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Amint kívánkozik a szarvas</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="784"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amint kívánkozik a szarvas a forrás vízéhez * úgy kívánkozik a lelkem tehozzád, Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szomjazik a lelkem az erős és élő Istenhez * mikor jutok el, s jelenek meg az Isten orcája előtt?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikor jutok el csodálatos hegyére *egészen az Isten házáig?!</lines>
+    </verse>
+  </lyrics>
+</song>

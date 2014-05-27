@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Új éneket daloljatok Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új éneket daloljatok Istennek,<br/>győzelmet és szabadulást Ő szerzett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvösségét feltárta a népeknek,<br/>igazságát megismerték mindenek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egész világ, dalolj néki hangosan,<br/>zeneszóval ünnepeljed boldogan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjétek muzsikával az Urat,<br/>hárfa zengjen, citeraszó, pengjen lant.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fújjatok meg minden kürtöt, harsonát,<br/>ujjongó dal hirdesse az ég Urát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Harsogjon a tenger, s ami benne él,<br/>Istent áldja vígan minden földi lény.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A nagy hegyek ujjongjanak az Úrnak,<br/>folyóvizek tapsoljanak, zúgjanak.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Elérkezik közénk az ő országa,<br/>mindeneken uralkodik jósága.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szentháromság egy Istennek dicsőség,<br/>Atya, Fiú és Szentlélek áldassék.</lines>
+    </verse>
+  </lyrics>
+</song>

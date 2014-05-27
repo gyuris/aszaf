@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Te vagy földi éltünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy földi éltünk Vezércsillaga,<br/>édes reménységünk, kegyes Szűzanya.<br/>Téged rendelt jó anyánknak az Isten Fia,<br/>azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te Hajnalcsillag vagy éltünk hajnalán,<br/>hogy kövessünk annak egész folyamán.<br/>Téged rendelt jó anyánknak az Isten Fia,<br/>azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te Reménycsillag vagy éltünk tengerén,<br/>átragyogsz minden bú és baj fellegén.<br/>Téged rendelt jó anyánknak az Isten Fia,<br/>azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És ha elközelget éltünk alkonya,<br/>te vagy vigaszteljes Esti Csillaga.<br/>Téged rendelt jó anyánknak az Isten Fia,<br/>azért áldunk örvendezve, ó Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

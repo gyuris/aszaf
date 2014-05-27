@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Örvendezzél boldog Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzél boldog Szűz, alle, alleluja,<br/>mennyországi fényes tűz, alle, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit méhedben hordoztál, alle, alleluja,<br/>erősebb a halálnál, alle, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harmadnap a halálból, alle, alleluja,<br/>kijött lezárt sírjából, alle, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halálának érdeme alle, alleluja,<br/>mindnyájunknak élete, alle, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Szűz veled örülünk, alle, alleluja,<br/>szólj fiadnál érettünk, alle, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogy őt méltón áldhassuk, alle, alleluja,<br/>mennyben veled láthassuk, alle, aleluja</lines>
+    </verse>
+  </lyrics>
+</song>

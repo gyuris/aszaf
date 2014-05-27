@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>ALEF. Mint ül özvegyként</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="765"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALEF. Mint ül özvegyként magában az egykor népes város<br/>* és adófizetővé lett a tartományoknak feje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>BETH. Sírva sír éjjel, és orcáján folynak könnyei,<br/>* nincs, aki megvigasztalja őt, és barátai ellenségekké lettek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>DALETH. Gyászolnak Sion ösvényei, mert nincs, ki az ünnepre jönne,<br/>* rommá lettek kapui és papjai sírnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>HETH. Nagy volt Jeruzsálem vétke, azért lett bújdosóvá,<br/>* akik dicsérték, most megvetik és ő elfordul sírván.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>LAMED. Ó, ti mindnyájan, akik átmentek az úton, figyeljetek ide és lássátok:<br/>* van-e még olyan fájdalom, mint az én fájdalmam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jeruzsálem, Jeruzsálem,<br/>* térj meg a te Uradhoz, Istenedhez!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Előtted, Jézusom, leborulok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Előtted, Jézusom, leborulok,<br/>féktelen bűnös, én hozzád bújok.<br/>Ó, kérlek, hogy nekem malasztot adj,<br/>hisz te a bűnöshöz irgalmas vagy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szép piros véreddel öntözgettél,<br/>amikor elestem, fölemeltél,<br/>légy azért irgalmas és meghallgass,<br/>mennyei erőddel, ó támogass!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tehozzád, Jézusom, felkiáltok,<br/>földről az ég felé felsóhajtok,<br/>szívemnek kapuját zárd be kérlek,<br/>hogy helyet ne adjon a véteknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vádolom magamat, mert vétettem,<br/>fölséges színedet megsértettem,<br/>hozzád, ó Jézusom, fohászkodom,<br/>hogy többé nem vétek, megfogadom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Esengő szavamat meghallgassad,<br/>ó szelíd Jézusom, ez egyet add:<br/>hogy végső órámban kiálthassam,<br/>szent neved, Jézusom, kimondhassam!</lines>
+    </verse>
+  </lyrics>
+</song>

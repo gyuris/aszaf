@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Üdvözítőnk feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözítőnk feltámadott,<br/>alleluja, alleluja,<br/>szenteljük vígan e napot,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A MESSIÁS feltámadott,<br/>alleluja, alleluja,<br/>beteljesült, mi íratott,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ÉLETADÓNK feltámadott,<br/>alleluja, alleluja,<br/>kegyelme most kiáradott,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VÍGASZTALÓNK feltámadott,<br/>alleluja, alleluja,<br/>elűzte már a bánatot,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ÖRÖMNAPUNK feltámadott,<br/>alleluja, alleluja,<br/>ránk oly szép hajnal virradott,<br/>alle, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

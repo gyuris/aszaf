@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:18">
+  <properties>
+    <titles>
+      <title>Íme, étke angyaloknak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="529"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, étke angyaloknak<br/>Kenyere lett vándoroknak,<br/>eledele jó fiaknak,<br/>ebnek adni nem való!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izsák ennek képe, árnya,<br/>áldozatra kész oltára,<br/>húsvétbárány áldozása,<br/>s hulló manna, égi jó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igaz Kenyér, legfőbb Pásztor,<br/>Jézus, óvj az elbukástól,<br/>te táplálj, és te palástolj,<br/>s add, hogy a feltámadáskor<br/>legyen nálad kész helyünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te, ki mindent bírsz és értesz,<br/>földi létben táplálsz, éltetsz,<br/>add, hogy lássunk, Dicsőséges,<br/>s társulván a boldog néphez,<br/>lakomádban részt vegyünk.</lines>
+    </verse>
+  </lyrics>
+</song>

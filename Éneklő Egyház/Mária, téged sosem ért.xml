@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Mária, téged sosem ért</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, téged sosem ért a vétek,<br/>vallja az Egyház, hirdetik a népek.<br/>Fényed ez újkor, felragyogni látta,<br/>szent neved áldja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog a barlang, hol te megjelentél,<br/>isteni jóság tanúsága lettél.<br/>Fénylesz időtlen, mennyei sugárban:<br/>szűz, makulátlan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyógyít a forrás, feltörve a mélyből,<br/>új Siloé-tó szikla rejtekéből.<br/>Szeplőtlen Asszony, áraszd a kegyelmet,<br/>tárd ki a mennyet!</lines>
+    </verse>
+  </lyrics>
+</song>

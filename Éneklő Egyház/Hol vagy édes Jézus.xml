@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Hol vagy édes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy édes Jézus? Szerelmes szülöttem!<br/>Ki nélkül már e világon holtig árva lettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hol vagy, szemem fénye, tündöklő világa?<br/>elepedett bús szívemnek csendes boldogsága?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondjátok nékem erdők, hegyek, völgyek:<br/>szülöttemet fölkeresni vajon merre menjek?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mutassatok utat, ó, ti olajkertek,<br/>hol megfogták szülöttemet: vele merre mentek?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ti darabos, éles, hegyes, köves utak,<br/>szent fiamnak vércsöppjei követekre hulltak.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, sírjatok vélem, jó asszony-barátaim,<br/>kik tudjátok e világban az én árvaságim.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, siralmas szent Szűz, bizalommal várjad:<br/>áldott Fiad harmadnapra holtából feltámad!</lines>
+    </verse>
+  </lyrics>
+</song>

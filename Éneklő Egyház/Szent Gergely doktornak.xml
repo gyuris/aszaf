@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Szent Gergely doktornak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Gergely doktornak, egyháztanítónknak az ő napján<br/>régi szokás szerint ünnepelni jöttünk a templomba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ágoston doktornak, egyháztanítónknak az ő napján<br/>régi szokás szerint ünnepelni jöttünk a templomba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten igazságát szüntelen kutatta, s megtanulta,<br/>gondos, jó szavakkal, bölcsen tanította Egyházunkat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Legyünk figyelemmel, ismerjük meg újból, tanítását,<br/>őrizzük hitünket, az vezet el minket üdvösségre!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Mélyből száll fel a sóhaj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mélyből száll fel a sóhaj, szívbeli bánat tép,<br/>Felség, nézd el a vétkem, fájlalom réges rég,<br/>Makulátlan senki sincs, aki eléd állhat,<br/>ne bűnömet mérlegeld, mutatkozz atyámnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajnalt vár, aki virraszt, téged az én lelkem.<br/>Tőled úttalan úton messzire tévedtem.<br/>Jó szívvel ha megbocsátsz, amíg élek, áldlak,<br/>reménysége boldogít mennyek országának.</lines>
+    </verse>
+  </lyrics>
+</song>

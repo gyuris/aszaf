@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Jézus Szíve, legtisztább</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szíve, legtisztább szív, kegyelem oltára,<br/>boldog, aki tehozzád hív, s szívét hozzád tárja.<br/>Vércseppjeid a világnak bűneit lemosták,<br/>rólam is a gyarlóságnak tisztítsad le foltját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Szíve,szelídségnek titkos iskolája,<br/>a mennyei dicsőségnek legszebb koronája.<br/>Szívemet tett szent Szívedhez hasonlóvá, kérlek,<br/>szívemet fűzd a tiédhet, jóvá, szelíddé tedd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Szíve, add, hogy mindig szeresselek jobban,<br/>ha ér bőség, ha ér ínség, jó és rossz napokban.<br/>Légy te, szent Szív, én istápom, légy te menedékem,<br/>a sötétben napvilágom, kincsem, dicsőségem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Legyen hála az Atyának, ki minket teremtett!<br/>Legyen hála szent Fiának, ki pokoltól mentett!<br/>Hála néked, ó Szentlélek, minden ajk ezt zengje,<br/>hála Jézus szent Szívének mind földön, mind mennybe'!</lines>
+    </verse>
+  </lyrics>
+</song>

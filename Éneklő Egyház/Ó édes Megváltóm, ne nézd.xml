@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Ó édes Megváltóm, ne nézd</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó édes Megváltóm, ne nézd bűneimet,<br/>sok ellened való cselekedetimet,<br/>üdvösségem árát tekintsd: érdemedet!<br/>Jöjj el, Jézus Krisztus, vedd hozzád lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyi sok kínokat és halált szenvedtél,<br/>minden bűneimért, hiszem, megfizettél.<br/>Atyád sem haragszik, kit megbékéltettél.<br/>Jöjj el, Jézus Krisztus, add meg, mit ígértél!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ítélet napján ama nagy órára<br/>állíts majd engemet Atyádnak jobbjára,<br/>az áldottak közé hadd legyek számlálva!<br/>Jöjj el, Jézus Krisztus, üdvösségem ára!</lines>
+    </verse>
+  </lyrics>
+</song>

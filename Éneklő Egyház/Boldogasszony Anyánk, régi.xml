@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Boldogasszony Anyánk, régi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogasszony Anyánk, régi nagy Pátrónánk!<br/>Nagy ínségben lévén így szólít meg hazánk:<br/>Magyarországról, édes hazánkról,<br/>ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Atyaistennek kedves szép leánya,<br/>Krisztus Jézus anyja, Szentlélek mátkája!<br/>Magyarországról, édes hazánkról,<br/>ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyisd fel az egeket sok kiáltásunkra,<br/>anyai palástod fordítsd oltalmunkra!<br/>Magyarországról, édes hazánkról,<br/>ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséret, dicsőség legyen az Atyának,<br/>a te szent Fiadnak, Szentlélek mátkádnak!<br/>Magyarországról, édes hazánkról,<br/>ne felejtkezzél el szegény magyarokról!</lines>
+    </verse>
+  </lyrics>
+</song>

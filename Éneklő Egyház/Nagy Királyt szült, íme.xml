@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:20">
+  <properties>
+    <titles>
+      <title>Nagy Királyt szült, íme</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="677"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy Királyt szült, íme az Asszony,<br/>neve fénylik örökké,<br/>mint jó anya vigadozott,<br/>de szűz maradott igazában.<br/>Nem volt ily csoda még sohasem,<br/>azután se hasonló, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

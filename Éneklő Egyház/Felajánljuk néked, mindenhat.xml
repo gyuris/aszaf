@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Felajánljuk néked, mindenhat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felajánljuk néked, mindenható Istenünk,<br/>a kenyérrel s borral egész földi életünk,<br/>hogy szent tested árán, ó, isteni Bárány,<br/>mennyországba érhessünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felajánljuk néked életünket, sorsunkat,<br/>lábad elé tesszük örömünket, gondunkat,<br/>te oltalmazd, védd meg itt egybegyűlt néped,<br/>gyarló embervoltunkat!</lines>
+    </verse>
+  </lyrics>
+</song>

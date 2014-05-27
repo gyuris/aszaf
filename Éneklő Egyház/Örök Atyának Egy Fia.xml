@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Örök Atyának Egy Fia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örök Atyának Egy Fia,<br/>ó Fény a Fényből, Krisztusunk!<br/>Te vagy az Úr, az Alkotó,<br/>ki ülsz királyi trónuson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Törvényhozónk és Főpapunk,<br/>néped tanító Mestere,<br/>ruhádon vérrel írva áll:<br/>Királyoknak Királya vagy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A régi ember átka volt<br/>nyögni sátáni zsarnokát;<br/>szent keresztfádon győztesen<br/>szabadságunk te meghozád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uralmad áld és boldogít,<br/>tenéked készen hódolunk.<br/>Országod egykor add nekünk,<br/>örökre légyen otthonunk!</lines>
+    </verse>
+  </lyrics>
+</song>

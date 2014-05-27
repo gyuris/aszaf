@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Téged vár a népek lelki</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged vár a népek lelki sötétsége, Isten.<br/>Nincs, ki nékik küzdelmükben segítene itt lenn.<br/>Ha szentséges Arcod ragyog vándorútjuk végén,<br/>megnyugszanak egymás mellett a nemzetek békén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sötétség tévelygését oszlasd, Uram, széjjel,<br/>töltsd be őket szent Egyházad igaz igéjével.<br/>Légy mindnyájunk fényessége, hogy egy úton járjunk,<br/>és a mennyek országában egykor rád találjunk.</lines>
+    </verse>
+  </lyrics>
+</song>

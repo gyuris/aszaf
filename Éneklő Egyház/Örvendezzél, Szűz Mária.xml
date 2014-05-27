@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Örvendezzél, Szűz Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="628"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzél, Szűz Mária<br/>* ki minden eretnekségeket egymagad semmivé tettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki hittél a szónak,<br/>* amit Gábriel arkangyal mondott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki szűz lévén, Istent és embert szültél,<br/>* és születésed után sértetlen szűz maradtál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istennek szent Szülője,<br/>* könyörögj értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

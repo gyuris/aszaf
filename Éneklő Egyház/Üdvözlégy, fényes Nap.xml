@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, fényes Nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, fényes Nap, tiszteletre méltó,<br/>melyen az Úr Krisztus legyőzi a poklot,<br/>s ki a Fán függött, győztesen országol,<br/>most minden teremtmény őelőtte hódol.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az újjászülető természet hirdeti:<br/>Krisztussal visszatér mindenbe az élet,<br/>a győzedelmes Krisztust, az Alkotót<br/>zöld erdők, ligetek s virágok ünneplik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözlégy, fényes Nap tiszteletre méltó,<br/>melyen az Úr Krisztus legyőzi a poklot,<br/>s ki a Fán függött, győztesen országol,<br/>most minden teremtmény őelőtte hódol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alvilág leláncolt foglyait feloldja,<br/>s mind, ami lent hevert, a magasba hívja,<br/>számtalan népek tömlöce megnyílik,<br/>s az égbe fölmenőt szabadok követik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Üdvözlégy, fényes Nap tiszteletre méltó,<br/>melyen az Úr Krisztus legyőzi a poklot,<br/>s ki a Fán függött, győztesen országol,<br/>most minden teremtmény őelőtte hódol.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Énekeljünk az Úrnak, mert</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="780"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Énekeljünk az Úrnak, mert fönségeset művelt * a lovat és a rajta ülőt levetette a tengerbe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr lett az én segítségem és oltalmam * ő lett nékem szabadításomra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő az én Istenem, hadd dicsérjem őt énekkel * atyámnak Istene, magasztalja őt ajkam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr, mint a győzhetetlen harcos! * Mindenható az ő neve.</lines>
+    </verse>
+  </lyrics>
+</song>

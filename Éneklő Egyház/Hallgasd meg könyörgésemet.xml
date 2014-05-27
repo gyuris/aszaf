@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Hallgasd meg könyörgésemet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="768"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgasd meg könyörgésemet, Uram * és az én kiáltásom jusson eléd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne rejtsd el orcádat tőlem * szorongatásom napján hajtsd hozzám füledet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amely napon segítségül hívlak * hamar hallgass meg engem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert elenyésztek, mint a füst, az én napjaim * és csontjaim kiégtek, mint a cserép.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lekaszáltak, mint a füvet és elszáradt a szívem * még kenyerem enni is elfeledtem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te pedig, Uram, fölkelvén megkönyörülsz Sionon † mert ideje, hogy könyörülj rajta * mert eljött az idő!</lines>
+    </verse>
+  </lyrics>
+</song>

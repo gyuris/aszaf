@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Ó szentséges, ó kegyelmes</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó szentséges, ó kegyelmes, édességes Jézusom!<br/>Dicsértessél, tiszteltessél, én megváltó Krisztusom!<br/>Szállj be szívem hajlékába, jöjj be lelkem pitvarába,<br/>ott nyugodjál, ott lakozzál, soha el se távozzál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyaloknak tápláléka, jöjj el e szent ostyában!<br/>Jöjj, kegyelem áradása egy kicsinyke pohárban!<br/>Táplálj az Úr szent testével, itass omló dús vérével,<br/>engedj mindig nála lennem, ő maradjon énbennem!</lines>
+    </verse>
+  </lyrics>
+</song>

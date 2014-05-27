@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Ó megváltó kegyes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó megváltó kegyes Jézus, fogadd könyörgésünket,<br/>a mi elhunyt testvérünkért hallgasd meg kérésünket,<br/>kiért áldozatot oltáron mutatott<br/>most be lelki pásztorunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kinek már egy esztendeje adtunk végtiszteletet,<br/>ma felőle áldozatban teszünk emlékezetet,<br/>hogy nyerjen kegyelmet, nagy Isten, ó engedd,<br/>örvendezzék teveled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Mária, Isten Anyja, esedezzél érette,<br/>Isten után nagy reményét mert tebeléd helyezte.<br/>Mária, Mária, Jézusnak szent Anyja,<br/>légy testvérünk oltalma!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, tengernek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, tengernek csillagja,<br/>mindenkor szűz anya, mennyország kapuja!<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyből leküldetett Gábriel arkangyal,<br/>hogy téged köszöntsön üdvözlő szavakkal.<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oldozd meg kötelét a mi sok vétkünknek,<br/>és nyisd meg szemeit a te híveidnek.<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lássuk meg, Asszonyunk, hogy édes anyánk vagy,<br/>Jézusnál minekünk jóságos védőnk vagy.<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, szüzek szent Szüze, a te fiaidnak<br/>adj tiszta életet szegény szolgáidnak.<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogy a te Fiadat mind földön, mind mennyben<br/>dicsérjük boldogan az örök életben.<br/>Téged kérünk, hallgass minket,<br/>szent Fiadnak ajánlj minket,<br/>ó szép szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

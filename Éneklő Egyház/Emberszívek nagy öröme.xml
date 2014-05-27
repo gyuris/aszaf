@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Emberszívek nagy öröme</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emberszívek nagy öröme,<br/>Máriának édes neve!<br/>Áldjad lelkem Máriát,<br/>Üdvözítőnk szent Anyját!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életúton te légy fényünk,<br/>ó Mária, példaképünk!<br/>Áldjad lelkem Máriát,<br/>Üdvözítőnk szent Anyját!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Segíts mindig Istent hinni,<br/>őt remélni, őt szeretni!<br/>Áldjad lelkem Máriát,<br/>Üdvözítőnk szent Anyját!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édesanyánk, ó el ne hagyj,<br/>végóránkon velünk maradj!<br/>Áldjad lelkem Máriát,<br/>Üdvözítőnk szent Anyját!</lines>
+    </verse>
+  </lyrics>
+</song>

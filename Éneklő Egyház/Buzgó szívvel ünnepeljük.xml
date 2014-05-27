@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Buzgó szívvel ünnepeljük</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Buzgó szívvel ünnepeljük Üdvözítőnk kínjait,<br/>szívtörődve elkísérjük Golgotára lépteit.<br/>Bűnös lelkünk drága bére, Jézus értünk ontott vére<br/>váltságunkra árad itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most megújul oltárunkon az áldozat csendben itt,<br/>melyet értünk a keresztfán Jézus egykor végbevitt.<br/>Drága vére bő harmatja lelkünk fényét visszaadja<br/>letisztítva vétkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó nagy Isten, mind az ég, föld megdicsőít tégedet,<br/>hálát adnak Fölségednek a bűnbánó emberek.<br/>Jézus élő áldozatja minden népnek megmutatja<br/>végtelen kegyelmedet.</lines>
+    </verse>
+  </lyrics>
+</song>

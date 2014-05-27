@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Dicsőség a magasságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség a magasságban Istennek!<br/>És a földön békesség a jóakaratú embereknek.<br/>Dicsőítünk Téged, áldunk Téged, imádunk Téged, magasztalunk Téged,<br/>hálát adunk Néked nagy dicsőségedért.<br/>Urunk és Istenünk, mennyei Király, Mindenható Atyaisten!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk, Jézus Krisztus: egyszülött Fiú,<br/>Urunk és Istenünk, Isten Báránya, az Atyának Fia!<br/>Te elveszed a világ bűneit, irgalmazz nékünk!<br/>Te elveszed a világ bűneit: hallgasd meg könyörgésünket!<br/>Te az Atya jobbján ülsz: irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert egyedül Te vagy a Szent! Te vagy az Úr!<br/>Te vagy az egyetlen Fölség: Jézus Krisztus!<br/>A Szentlélekkel együtt az Atyaisten dicsőségében. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

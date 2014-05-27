@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>R. Harmatozzatok magasságos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>R. Harmatozzatok magasságos egek, s a felhők hozzák az Igazat.<br/>vagy: Rorate coeli de super, et nubes pluant justum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne haragudj ránk Urunk, és ne emlékezzél többé gonoszságunkra;<br/>íme elhagyottá lőn a Szentnek városa, pusztasággá Sion és árván maradt Jeruzsálem,<br/>a te szentségednek és dicsőségednek lakóháza, ahol atyáink téged dicsőítettek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>R. Harmatozzatok magasságos egek, s a felhők hozzák az igazat.<br/>vagy: Rorate coeli de super, et nubes pluant justum.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vétkeztünk, s mint tisztátalanok olyanná lettünk, s mint a falevelek, földre hulltunk.<br/>Íme gonoszságaink, mint a szélvész elsodornak minket;<br/>elrejtetted előlünk arcodat, és önnön gonoszságunk markába adtál minket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>R. Harmatozzatok magasságos egek, s a felhők hozzák az igazat.<br/>vagy: Rorate coeli de super, et nubes pluant justum.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lásd meg Urunk, a te népednek nyomorúságát, és küldd el az Eljövendőt.<br/>Küldd el a Bárányt, a földkerekség Urát,<br/>küldd el a kősivatagból Sion leányának hegyéhez, hogy elvegye rólunk fogságunk igáját.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>R. Harmatozzatok magasságos egek, s a felhők hozzák az igazat.<br/>vagy: Rorate coeli de super, et nubes pluant justum.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vigasztalódjál, vigasztalódjál én népem! Hamar eljő üdvösséged.<br/>Miért merülsz a gyászba? Miért fog el ismét a fájdalom?<br/>Ne félj már! Megmentelek téged, mivel én vagyok a te Urad Istened, Izrael Szentje, a te Megváltód.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>R. Harmatozzatok magasságos egek, s a felhők hozzák az igazat.<br/>vagy: Rorate coeli de super, et nubes pluant justum.</lines>
+    </verse>
+  </lyrics>
+</song>

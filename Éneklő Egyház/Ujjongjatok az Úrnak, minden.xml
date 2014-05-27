@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Ujjongjatok az Úrnak, minden</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="778"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ujjongjatok az Úrnak, minden földek † szolgáljatok vigassággal néki * járuljatok az ő színe elé örvendezéssel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudjátok meg, hogy az Úr az Isten † ő alkotott minket és nem mi magunkat * az ő népe vagyunk és legelőjének juhai.</lines>
+    </verse>
+  </lyrics>
+</song>

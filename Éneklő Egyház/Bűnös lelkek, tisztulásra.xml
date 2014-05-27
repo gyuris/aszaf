@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Bűnös lelkek, tisztulásra</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bűnös lelkek, tisztulásra, szentmisére jöjjetek,<br/>Keresztúton elkísérni azt, ki meghalt értetek,<br/>E nagy böjti szent időben bánat könnye hulljon bőven,<br/>hogy megmossa lelketek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezredeken harsog által a próféták szózata:<br/>Bízzatok, mert el fog jönni a fájdalmak Férfia.<br/>Ő hordozza terheinket, átvállalja bűneinket,<br/>meggyógyultok általa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus vérén tört meg a bűn és megtört a kárhozat,<br/>Krisztus vére az oltárról újra most az égbe hat.<br/>Ő az Újszövetség papja, önmagát itt bemutatja,<br/>ó, egyetlen Áldozat!</lines>
+    </verse>
+  </lyrics>
+</song>

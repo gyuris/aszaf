@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Jézus, világ Megváltója</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, világ Megváltója,<br/>üdvözlégy, élet adója,<br/>megfeszített Istenfia,<br/>szent kereszted szívem hívja.<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Általszegve kezed, lábad,<br/>átvert tested roskad, bágyad,<br/>mezítelen tépedd melled!<br/>Ó siratlak, ó ölellek!<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virágoknak szép virága,<br/>honnét orcád sárgasága?<br/>Hegyes tövis koronázott,<br/>édes orcád vérrel ázott.<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asszú földet harmatozván<br/>vérzel, vérzel a keresztfán,<br/>úgy piroslik tested róla,<br/>mint a most nyílt piros rózsa.<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent karjaid széjjeltárod,<br/>mert az embereket várod,<br/>kiken vérrel könyörültél,<br/>betegekért betegültél.<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézusom, ha jön a végnap,<br/>ismerj engem magadénak,<br/>homlokomon piros véred:<br/>tiéd vagyok, úgy ítélj meg!<br/>Jézus add, hogy hozzád térjek,<br/>veled haljak, veled éljek.</lines>
+    </verse>
+  </lyrics>
+</song>

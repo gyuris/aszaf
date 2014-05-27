@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Istenem, te megvizsgáltál, és</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="792"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, te megvizsgáltál, és jól ismersz engemet,<br/>jól tudod, hová visz utam, látod keltem s fektemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még nyelvemre sem jön a szó, már előtted tudva van,<br/>mindenfelől jól bezárva tart kezed minduntalan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E tudásod meghaladja elmémet, s csodálkozom,<br/>hová mennék, merre futnék színed elől, nem tudom:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha felhatok az égbe, ott talállak tégedet,<br/>ha leszállnék a mélységbe, látnám jelenlétedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És ha messze tengeren túl szállnék hajnal-szárnyakon,<br/>oda is jobbod visz engem, s az tart fenn mindenkoron.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>És ha mondom: a sötétség talán elföd engemet,<br/>nem föd el, mert a sötét éj fényes napvilág neked!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőség neked, ó Atya, Fiú, s Szentlélek Isten,<br/>miképpen kezdetben vala, most és örökké, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

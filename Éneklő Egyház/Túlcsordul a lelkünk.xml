@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Túlcsordul a lelkünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Túlcsordul a lelkünk, énekszóval zengjük: alle-, alleluja.<br/>Királynénkra nézünk, szent örömöt érzünk, alle-, alleluja.<br/>Szép Királyné, halljad, áldanak az ajkak, alle-, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy vonulsz békén, fehér szűzek éléne, alle-, alleluja,<br/>felharsan az ének, mindenek dicsérnek, alle-, alleluja.<br/>Repes a szív, dal zeng, milyen ékes és szent, alle-, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

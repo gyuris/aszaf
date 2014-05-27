@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Ó, Róma, szent falak, te béke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="362"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Róma, szent falak, te béke városa!<br/>És minden városok királyné asszonya!<br/>Ó Róma, üdvözlégy, ó Róma, áldva légy,<br/>terólad zeng a föld, terólad zeng az ég.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent város, feldíszít a szüzek liljoma,<br/>a hősi vértanúk vérének bíbora.<br/>Ó Róma, üdvözlégy, ó Róma, áldva légy,<br/>terólad zeng a föld, terólad zeng az ég.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Péter, trónon ülsz, körötted társaid,<br/>Krisztusnak helynöke: oldd vétkünk zárait.<br/>Ó Róma, üdvözlégy, ó Róma, áldva légy,<br/>terólad zeng a föld, terólad zeng az ég.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Pál, kit gazdagít bölcsesség tengere,<br/>maradj a nemzetek tanítómestere!<br/>Ó Róma, üdvözlégy, ó Róma, áldva légy,<br/>terólad zeng a föld, terólad zeng az ég.</lines>
+    </verse>
+  </lyrics>
+</song>

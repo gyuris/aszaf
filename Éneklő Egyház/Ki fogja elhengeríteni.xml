@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Ki fogja elhengeríteni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="793"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki fogja elhengeríteni az ajtóból a követ,<br/>mely szent sírt elfödi előlünk?<br/>Kit kerestek a sírban, ó Krisztus-tisztelők?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Názáreti Jézust, a Megfeszítettet keressük,<br/>ó ti menny-lakók!<br/>Nincsen itt, föltámadt, amint előre megmondotta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjetek és lássátok a helyet, hol az Úr nyugodott a sírban.<br/>Menjetek és jelentsétek, hogy feltámadt, alleluja. alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A sírhoz mentünk siránkozva, angyalt láttunk örvendezve,<br/>ki azt mondta nékünk, hogy föltámadt Jézus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miért sírsz ó asszony? Kit keresel Mária?<br/>Ó Mester!<br/>Ne érints engem! Menj, és mondd el enyéimnek:<br/>felmegyek az én Atyámhoz és a ti Atyátokhoz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, szent asszony, mondd, mit láttál utadon?<br/>Az élő Krisztus sírját, s a Fölkeltnek láttam glóriáját.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mária, szent asszony, mondd, mit láttál utadon?<br/>Angyali tanúkat, szemfedőt és gyolcsokat,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mária, szent asszony, mondd, mit láttál utadon?<br/>Feltámadt reményem, Krisztus, Galileába elétek indult.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Krisztus feltámada, mind ő nagy kínjából.<br/>Ezen mi is örüljünk, Krisztus legyen reményünk,<br/>kirelejszon.</lines>
+    </verse>
+  </lyrics>
+</song>

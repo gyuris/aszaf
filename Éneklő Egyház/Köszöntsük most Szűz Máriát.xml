@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Köszöntsük most Szűz Máriát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="275"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Köszöntsük most Szűz Máriát,<br/>szent énekünk kísérje el:<br/>királynőnk, Boldogasszonyunk<br/>szolgálólányként útra kel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Messiás, a nagy Király<br/>rejtőzve, csendben így jön el,<br/>Szűz anyja édes terheként,<br/>ím itt vonul Emmánuel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nap és a hold, lomb és virág,<br/>ma mind Hozsannát zengenek:<br/>e körmenetben Mária,<br/>hegy-völgyön át sietve megy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ott Szent Erzsébet várja őt,<br/>és ujjong szíve magzata,<br/>áldott gyümölcstől terhesen,<br/>köszönti egymást két anya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent ősatyák nagy Istene,<br/>magasztal minden nemzedék,<br/>zarándoklétünk útjain,<br/>vedd most a hála énekét!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A célt elérnünk adj erőt!<br/>Hogy menjünk, mint a Szűzanya:<br/>Lehessünk Krisztus-hordozók,<br/>s Szentlélek Isten temploma!</lines>
+    </verse>
+  </lyrics>
+</song>

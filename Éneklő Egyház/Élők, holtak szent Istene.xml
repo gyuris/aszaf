@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Élők, holtak szent Istene</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Élők, holtak szent Istene, ó, hallgass meg minket itt,<br/>kik könyörgünk, hogy szüntesd meg szolgád szenvedéseit.<br/>Fogadd a szent áldozatot, mit bemutat fölkent papod,<br/>nyerjenek az égbe utat néki szent vércseppjeid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne nézd számos gyarlóságát, melyeket elkövetett,<br/>ó, ne vond meg hű szolgádtól a mennyei örömet.<br/>Engedd meg, hogy színed lássa, s szenteidnek legyen társa,<br/>hogy azokkal imádhassa fölséges szent lényedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézusunk, ki váltságunkért égből földre szállottál,<br/>nézz reánk, kik itt könyörgünk szent oltárod lábánál.<br/>Adj hívednek boldogságot, melyet a szem még nem látott,<br/>add, hogy majd irgalmasságot leljünk mi is trónodnál.</lines>
+    </verse>
+  </lyrics>
+</song>

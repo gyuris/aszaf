@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Mennybe ment Krisztus e napon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennybe ment Krisztus e napon,<br/>alleluja, alleluja,<br/>hogy minden ember vigadjon,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk a győztes nagy király,<br/>alleluja, alleluja,<br/>teljes lett minden műve már,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus a fő, s mi tagjai,<br/>alleluja, alleluja,<br/>legyünk a mennyben társai,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki most az égbe szálla fel,<br/>alleluja, alleluja,<br/>egykor mint Bíró így jön el,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Siessünk hálát mondani,<br/>alleluja, alleluja,<br/>s a Három-Egyet áldani,<br/>alle, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

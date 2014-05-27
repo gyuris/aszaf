@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Krisztus teste és szent vére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus teste és szent vére, angyaloknak étele<br/>elevenen van itt jelen a kenyér- és borszínben.<br/>Boruljunk le, s megrendülve imádjuk e Fölséget,<br/>az Oltáriszentséget!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár e csodát, hitünk titkát elménk föl nem foghatja,<br/>de biztosít az igaz hit, melyre Jézus taníta.<br/>Boruljunk le, s megrendülve imádjuk e Fölséget,<br/>az Oltáriszentséget!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A keresztfán haldokolván rejlett csak az istenség,<br/>itt elrejtve és elfedve istenség és emberség.<br/>Boruljunk le, s megrendülve imádjuk e Fölséget,<br/>az Oltáriszentséget!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Orvosságát, tisztulását lelkünk itt feltalálja,<br/>e nagy Szentség az üdvösség bőséges kútforrása.<br/>Boruljunk le, s megrendülve imádjuk e Fölséget,<br/>az Oltáriszentséget!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szelíd Bárány! a keresztfán áldozatunk te lettél,<br/>és ezáltal szent Atyáddal nekünk békét szereztél.<br/>Boruljunk le, s megrendülve imádjuk e Fölséget,<br/>az Oltáriszentséget!</lines>
+    </verse>
+  </lyrics>
+</song>

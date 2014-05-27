@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Isten útján járni gyönyörűség</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten útján járni gyönyörűség,<br/>amit rendelt, tenni: igaz hűség.<br/>Neki élni szabadság, alleluja,<br/>helytállani boldogság, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy utadat járjuk, segíts minket,<br/>igazság útjára vezess minket.<br/>Ezt áhítja a szívünk, alleluja,<br/>ez legyen az életünk, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

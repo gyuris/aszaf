@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Ha az Úr nem őrzi házad</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha az Úr nem őrzi házad,<br/>szorgos karod meddőn fárad.<br/>Ha nem ügyel a városra,<br/>hasztalan az őrzők gondja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Talpon fáradsz, fürge kézzel,<br/>pirkadatkor, s éjten-éjjel;<br/>hajnal előtt hogyha kelnél,<br/>Isten nélkül mire mennél?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Háza népét el nem hagyja,<br/>álmodat is ő virrasztja,<br/>hűséggel mér áldó kézből<br/>gyümölcsöt az anyaméhből.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sorra-rendre hull kegyelme,<br/>boldog vagy, ha csűröd telve,<br/>ivadékban gazdag élted<br/>így lát boldog öregséget.</lines>
+    </verse>
+  </lyrics>
+</song>

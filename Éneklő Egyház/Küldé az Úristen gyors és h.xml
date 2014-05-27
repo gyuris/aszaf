@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Küldé az Úristen gyors és h</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Küldé az Úristen gyors és hű szolgáját<br/>Szűzhöz Názáretbe Gábriel angyalát, sietve menjen el.<br/>Hogy legyen követe, és szóval hirdesse<br/>az Úrnak csodáját, a Szűznek jelentse, hogy szűzen szülni fog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség királya természet hatalmát<br/>bírja, s felülmúlja, és a bűn kovászát közülünk elveszi.<br/>Kevélyek trónjait lerontja karjával,<br/>Sátánnal harcba száll, tapodja sarkával, hatalmát megtöri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Menj el hát, Arkangyal, ez új hírt hirdetni,<br/>az ősi Írásnak titkait jelentsd ki, levéve fátyolát!”<br/>„Üdvözlégy Mária, az Úr van teveled,<br/>az Isten Fia lesz, kit szülsz, a Gyermeket, ne félj, fogadd be őt!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meghallván Mária szólását Angyalnak,<br/>igent mond, s anyja lesz az Isten Fiának: a várt Messiásnak.<br/>Ki Tanácsadója emberi nemzetnek,<br/>Istene, Atyja lesz föld színén élőknek, békesség Szerzője.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akinek ereje minket erősítsen,<br/>és gyarló voltunkban mindenkor megvédjen, a világ sok vétkétől.<br/>Bocsásson meg nekünk bocsánat szent Ura,<br/>kegyelmét esdje le kegyelmek Asszonya, maradjon mivelünk! Amen, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

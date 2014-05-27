@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Szent N. hitvalló ünnepi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent N. hitvalló ünnepi napjára,<br/>hív minket Krisztusnak Anyaszentegyháza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint csillag az égen, tündöklik érdeme,<br/>az élők könyvébe írta őt Istene.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívében megfogant az Isten kegyelme,<br/>s mert híven ápolta, gyümölcsét termette.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jutalmát elnyerte, közbenjár érettünk,<br/>példáját követve, hogy mi is megtérjünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség Atyának, Fiúnak, Léleknek,<br/>a három személyben egy-örök Istennek.</lines>
+    </verse>
+  </lyrics>
+</song>

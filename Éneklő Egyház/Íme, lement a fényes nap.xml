@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Íme, lement a fényes nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="356"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, lement a fényes nap,<br/>fölkel-e még nekem holnap?<br/>Még számadásom nem egész,<br/>nem vagyok még útra kész.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hová leszek, ha meghalok,<br/>lelkemben bűnnel távozok?<br/>Mi lesz, ha engem a halál<br/>halálos vétekben talál?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Átgondolom most éltemet,<br/>vizsgálom bűnös lelkemet,<br/>gyújts fáklyát, édes Istenem,<br/>hogy mindent lássak szívemben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár életünk nem bűntelen,<br/>Urunk, ne hagyj el védtelen,<br/>bocsáss meg nékünk, Istenünk,<br/>s ítéletnap légy védelmünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Mária, nyugszik a nap,<br/>íme, eljött az alkonyat,<br/>légy te a csillag, s holdvilág,<br/>míg visszatér a napvilág.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérlek, ó őrző angyalom,<br/>te légy az éjjel oltalom,<br/>rád bízom immár magamat,<br/>őrizd, míg nyugszom, álmomat. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

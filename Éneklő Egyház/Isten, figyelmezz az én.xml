@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Isten, figyelmezz az én</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="652"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, figyelmezz az én segítségemre!<br/>Uram siess megsegíteni engem!<br/>Dicsőség az Atyának és Fiúnak és Szentlélek Istennek,<br/>miképpen kezdetben vala, most és mindenkor,<br/>és mindörökkön örökké, amen, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten, figyelmezz az én segítségemre!<br/>Dicsőség neked Urunk, örök dicsőség Királya!</lines>
+    </verse>
+  </lyrics>
+</song>

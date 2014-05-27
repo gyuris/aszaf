@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Ó gyönyörű szép titokzatos éj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó gyönyörű szép titokzatos éj!<br/>Égszemű gyermek, csöpp rózsalevél,<br/>kisdedként az édes Úr jászolában megsimul<br/>szent karácsony éjjel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó fogyhatatlan, csodálatos ér,<br/>hópehely ostya, csöpp búzakenyér,<br/>benne, lásd, az édes Úr téged szomjaz, rádborul<br/>egy világgal ér fel.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Királyi zászló jár elől</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Királyi zászló jár elől,<br/>Keresztfa titka tündököl,<br/>melyen az Élet halni szállt,<br/>s megtörte holta a halált.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyetlen lándzsa verte át<br/>gonosz vasával oldalát,<br/>s mely szennyet, vétket eltörölt:<br/>belőle víz és vér ömölt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ősi jóslat itt betelt,<br/>mit a hű Dávid énekelt:<br/>„Az Úr, halljátok nemzetek,<br/>kereszten trónol köztetek!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rajtad tündöklik, drága fa,<br/>királyi vérnek bíbora,<br/>ó választott, jeles faág,<br/>ki szent testét karoltad át!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Világ bűnének zálogát,<br/>ó boldog ág, te hordozád,<br/>az Ellenség gonosz fejét<br/>Megváltónk rajtad zúzta szét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó Kereszt, áldunk, szent remény,<br/>a szenvedés ez ünnepén,<br/>kérünk, kegyelmet adj nekünk,<br/>add vétkünkért vezeklenünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szentháromság, dicsérjenek<br/>üdvösség kútja, mindenek,<br/>legyen győzelmünk, add meg ezt,<br/>a diadalmas szent Kereszt.</lines>
+    </verse>
+  </lyrics>
+</song>

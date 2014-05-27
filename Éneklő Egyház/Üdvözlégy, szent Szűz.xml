@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, szent Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Üdvözlégy, szent Szűz,<br/>teljes malaszttal!”<br/>Így köszönté angyal<br/>a szép Szűz Máriát,<br/>Krisztusnak választott anyját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És mondá tovább:<br/>„Úr van teveled!<br/>Íme fogansz fiat,<br/>akin fogsz örülni,<br/>menny és a föld álmélkodni.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felel Mária:<br/>„Miként lehet ez?<br/>Mert szűz leány vagyok,<br/>férjet nem ismerek,<br/>bizonyítják mind az egek.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„A Szentléleknek<br/>rád száll ereje,<br/>mert miként a harmat<br/>reggel száll a földre,<br/>úgy lesz az Ő érkezése.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hitt az angyalnak<br/>szívesen a Szűz,<br/>magát megalázza,<br/>szolgálónak vallja:<br/>„Legyen úgy, mint ajkad mondja!”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szüzek virága,<br/>szép Szűz Mária!<br/>Örvendezz és vigadj,<br/>mert te anyaságra<br/>választtattál, méltóságra.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Engeszteld immár<br/>könyörgéseddel<br/>szent Fiadat értünk,<br/>hogy szent születése<br/>legyen lelkünk üdvössége.</lines>
+    </verse>
+  </lyrics>
+</song>

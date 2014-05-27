@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:20">
+  <properties>
+    <titles>
+      <title>Jöjjetek segítségül, Isten</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="745"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjjetek segítségül, Isten szentjei!<br/>Siessetek, Urunk angyalai!<br/>Fogadjátok az ő lelkét, s vigyétek a Fölséges színe elé!</lines>
+    </verse>
+  </lyrics>
+</song>

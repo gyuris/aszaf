@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Hamvazkodjál, hívő lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hamvazkodjál, hívő lélek,<br/>mert porba tér ez az élet,<br/>akármennyit örvendeznél,<br/>ne feledd, hogy porból lettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamvazkodjál, te dúsgazdag,<br/>mert javaid cserbenhagynak!<br/>Hamvazkodjál, szegény ember,<br/>kérjed Jézust türelemmel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örömeink mind elmúlnak,<br/>könnyeink is porba hullnak,<br/>boldogok, kik megjavulnak,<br/>hamvazkodván megindulnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, ki tested meggyötörted,<br/>s a Golgotán összetörted:<br/>adj nekünk is töredelmet,<br/>testünk ellen győzedelmet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>S ha majd egyszer sírba szállunk,<br/>testünk szerint porrá válunk,<br/>őrizd romló csontjainkat,<br/>s hamvainknak adj nyugalmat!</lines>
+    </verse>
+  </lyrics>
+</song>

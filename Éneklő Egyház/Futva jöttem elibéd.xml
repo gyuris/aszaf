@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Futva jöttem elibéd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Futva jöttem elibéd, szentélyedbe, Isten,<br/>édes arcod örömét de kerestem!<br/>Mint a szarvas hűs eret, csobogót,<br/>úgy kívánlak mérhetetlen égi jót.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Háromságban örök Egy, téged magasztallak,<br/>békességet permetezz az igaznak.<br/>Énekszóval áldalak művedért,<br/>áldott Krisztus, kegyelmedbe visszavégy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiéd, Uram, ég és föld, tiéd benne minden,<br/>mit adhat a halandó néked, Isten?<br/>Kenyeret s bort áldozunk teneked,<br/>áldja meg bő harmatával Szent Lelked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megteríted asztalod hálalakomára,<br/>föllobban az áldozat tiszta lángja,<br/>benne lobog életünk és vágyunk,<br/>hogy az égi lakomára eljussunk.</lines>
+    </verse>
+  </lyrics>
+</song>

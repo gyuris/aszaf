@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Dicsőség mennyben az Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség mennyben az Istennek!<br/>Dicsőség mennyben az Istennek!<br/>Az angyali seregek vígan így énekelnek:<br/>Dicsőség, dicsőség Istennek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békesség földön az embernek!<br/>Békesség földön az embernek!<br/>Kit az igaz szeretet a kis Jézushoz vezet:<br/>Békesség, békesség embernek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjük a szent angyalokkal,<br/>imádjuk a hív pásztorokkal<br/>az isteni gyermeket, ki minket így szeretett,<br/>dicsérjük, imádjuk és áldjuk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kis Jézus, ne vess meg bennünket,<br/>hallgasd meg buzgó kérésünket,<br/>jászolodnál fogadjuk, hogy a vétket elhagyjuk,<br/>ó Jétus, ne vess meg, hallgass meg!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség az örök Atyának,<br/>és értünk született Fiának,<br/>s mindkettő Szent Lelkének, a malaszt kútfejének:<br/>dicsőség, dicsőség Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

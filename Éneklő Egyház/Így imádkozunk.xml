@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>így imádkozunk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="411"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>…így imádkozunk:<br/>Miatyánk, aki a mennyekben vagy,<br/>szenteltessék meg a te neved, jöjjön el a te országod,<br/>legyen meg a te akaratod, amint a mennyben, úgy a földön is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindennapi kenyerünket add meg nekünk ma,<br/>és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek,<br/>és ne vígy minket kísértésbe, de szabadíts meg a gonosztól.</lines>
+    </verse>
+  </lyrics>
+</song>

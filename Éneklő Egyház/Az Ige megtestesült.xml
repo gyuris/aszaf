@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Az Ige megtestesült</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Ige megtestesült Názáretben,<br/>kit Mária szűzen szült Betlehemben;<br/>itt vagyon elrejtve kenyérszínben,<br/>imádjuk mindnyájan egyetemben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezt az igaz nagy Isten bölcsessége<br/>mindeneknek javára cselekedte,<br/>mely dolgon angyalok csodálkoznak,<br/>emberek, állatok álmélkodnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betlehembe ne menjünk, föltaláljuk:<br/>jelen van ez oltáron, magasztaljuk!<br/>Mert szívünk ha tiszta és ártatlan,<br/>kedvesebb az neki, mint az arany.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőség és dicséret az Atyának,<br/>e világra született szent Fiának,<br/>és vele a kegyes Szentléleknek,<br/>Szentháromságban az egy Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

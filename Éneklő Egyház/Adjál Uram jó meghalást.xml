@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Adjál Uram jó meghalást</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjál Uram jó meghalást,<br/>békességes elnyugovást,<br/>a léleknek mennybejutást,<br/>testnek dicső feltámadást!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs a földön maradásunk,<br/>leomlik e földi házunk,<br/>örök otthont kell kívánnunk,<br/>e reményben kell meghalnunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Azért teljes készülettel<br/>várjuk Krisztust igaz hittel,<br/>hogy halhassunk biztos szívvel,<br/>bemehessünk dicsőséggel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezen testben feltámadjunk,<br/>Uram, téged megláthassunk,<br/>a szentekkel együtt lakjunk,<br/>mindörökké ott vigadjunk. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

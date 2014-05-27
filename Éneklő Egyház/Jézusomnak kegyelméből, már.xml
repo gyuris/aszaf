@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Jézusomnak kegyelméből, már</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusomnak kegyelméből, már elértem végemet,<br/>véghetetlen szerelmétől, várom üdvösségemet.<br/>Istenem, Istenem, ki voltál mindenem,<br/>könyörülj én lelkemen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg itt éltem e világban, benned bíztam, Istenem,<br/>mindenféle bajaimban csak te voltál mindenem.<br/>Istenem, Istenem, ki voltál mindenem,<br/>könyörülj én lelkemen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most sem bízhatok egyébben, halálomnak óráján,<br/>mint tebenned, aki értem meghaltál a keresztfán.<br/>Istenem, Istenem, ki voltál mindenem,<br/>könyörülj én lelkemen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki a sírból feltámadtál, Jézus, hozzád fordulok,<br/>s ahol helyet készítettél: országodba indulok.<br/>Istenem, Istenem, ki voltál mindenem,<br/>vedd magadhoz már lelkem!</lines>
+    </verse>
+  </lyrics>
+</song>

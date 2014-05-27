@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Krisztus Király, kérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Király, kérünk téged, légy oltalmunk szüntelen!<br/>Esedezzél mindnyájunkért; istenszülő Szűzanya!<br/>Segítsetek, minden szentek, s angyaloknak rendjei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Urunk oldalából vérrel együtt víz ömölt,<br/>misztérium lett e vízből, kegyelemmel áradó:<br/>lemossa az ősi vétket, új életnek eszköze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjön le most a Szentlélek, vigasztaló Istenünk,<br/>keresztségnek kútforrását áldásával nyissa meg,<br/>szülessenek e szent kútból néki kedves gyermekek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örvendezzél e nap fényén szent Egyházunk, jó Anya,<br/>gyermekednek születésén nagy hálával vigadozz!<br/>Vezessed az élet útján, te tápláld őt, te tanítsd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hála neked, Atyaisten, hála néked Egyszülött,<br/>hála néked kegyes Lélek, Háromságos Istenünk!<br/>Megtisztulva minden bűntől, hadd dicsérjünk szüntelen. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

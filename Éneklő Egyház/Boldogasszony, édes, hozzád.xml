@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Boldogasszony, édes, hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogasszony, édes, hozzád esd ma néped:<br/>veszni indult lelkét hogy te mentenéd meg,<br/>édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicséretét zengjék egyszülött Fiadnak,<br/>kik az égben laknak, s kik a földön élnek,<br/>édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fölajánljuk néked szenvedéseinket,<br/>végy szívedbe minket, s mutass meg az Úrnak:<br/>édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tudjuk, hogy a lelked kegyelemmel ékes,<br/>és Fiad szívéhez általad jutunk el,<br/>édes Szűzanyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Krisztus, te Fénye a szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus, te Fénye a szent angyaloknak,<br/>emberi nemnek, ura és vezére:<br/>add, hogy a mennyet birtokoljuk egykor<br/>jóságod által.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Mihály angyalt, békességnek őrét,<br/>küldd el a menyből néped oltalmára,<br/>fordítsa jóra erős karja által<br/>minden ügyünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gábriel angyal, erősséges Hírnök,<br/>űzze el tőlünk ősi Ellenségünk,<br/>jöjjön e házba, látogasson minket<br/>szent templomodban.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ráfáel angyal, üdvösséges Orvos,<br/>jöjjön el hozzánk, hadd gyógyítsa lelkünk,<br/>óvja a gyengét, irányítson minket,<br/>vándorutunkon.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Légy velünk, kérünk, asszonyunk Szűz Márja,<br/>s angyali rendek dicső sokasága,<br/>mellettünk álljon szentek társasága<br/>és pártfogása.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add meg ezt nékünk, felséges Úristen,<br/>három személyben egylényegű Isten,<br/>téged a mennyben nagy tisztesség illet,<br/>s minden dicsőség. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

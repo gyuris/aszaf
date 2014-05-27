@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, nagy Király</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, nagy Király!<br/>Előtted térden áll<br/>mennyben az angyali kórus.<br/>Tiéd a győzelem,<br/>kit illet félelem,<br/>ítélet és örök trónus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, nagy Király,<br/>kit szívünk úgy kíván,<br/>békesség áldott kútfője!<br/>Készítsd föl népedet,<br/>lássa meg színedet,<br/>emberek Üdvözítője!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Himnusszal hódolunk,<br/>irgalmas gyámolunk,<br/>tekintsd meg esdeklő néped!<br/>Emeld föl szívemet,<br/>újítsd meg lelkemet<br/>Kenyérnek, Bornak színében!</lines>
+    </verse>
+  </lyrics>
+</song>

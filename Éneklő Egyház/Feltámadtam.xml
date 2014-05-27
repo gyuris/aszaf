@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Feltámadtam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="791"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feltámadtam,<br/>és újból veled vagyok, alleluja,<br/>ezt a napot az Úristen adta, alleluja.<br/>Örvendezzünk és vigadjunk, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békesség veletek, alleluja;<br/>Én vagyok, ne féljetek, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

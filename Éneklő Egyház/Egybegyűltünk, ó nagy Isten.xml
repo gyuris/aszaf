@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Egybegyűltünk, ó nagy Isten</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egybegyűltünk, ó nagy Isten, buzgó imádásodra.<br/>Lelkünk méltó hadd lehessen isteni áldásodra,<br/>mely a tiszta áldozatban számunkra elrejtve van.<br/>Ó tekints hát kegyelmesen itt esdeklő nyájadra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus rendelése a kenyér- s boráldozat,<br/>amit az ő emlékére Egyházunk itt bemutat.<br/>Legyen kedves, ó szent Atya, Fiadnak áldozata:<br/>váljunk mi is áldozattá, kérünk Isten, elfogadj!</lines>
+    </verse>
+  </lyrics>
+</song>

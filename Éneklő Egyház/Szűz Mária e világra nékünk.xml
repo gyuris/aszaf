@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Szűz Mária e világra nékünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária e világra nékünk szent Fiát hozá.<br/>A jászolban fekszik, ki a mennyet s földet alkotá.<br/>Mely végtelen kegyelem tőled, ó Istenem,<br/>hogy így szeretted az embereket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az angyalok Jézus születésén áldva zengenek.<br/>A pásztorok a mennyei fényre hozzá sietnek.<br/>Örömre ébredének minden teremtmények,<br/>mind őt imádják és magasztalják.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó te kegyes régi szent Pátrónánk, kincs hordozója!<br/>E világnak te vagy esedező oltalmazója.<br/>Kit tápláltál tejeddel, annak kéréseddel<br/>ügyünk ajánljad, értünk imádjad!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légyen hála a nagy Úristennek, Üdvözítőnek,<br/>Szentléleknek, boldogságos szent Szűz nagy Jegyesének!<br/>A Szűz könyörgésével, maradjunk békével<br/>Isten kedvében, szent szerelmében!</lines>
+    </verse>
+  </lyrics>
+</song>

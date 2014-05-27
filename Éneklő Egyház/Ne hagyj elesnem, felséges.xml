@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Ne hagyj elesnem, felséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne hagyj elesnem, felséges Isten, keserűségemben,<br/>Te szent nevedért légy segítséggel, ne essem kétségbe;<br/>mert minden felöl, látod, Úristen, vagyok kísértésben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyermekségemtől, felséges Isten, mind ezideiglen<br/>téged hívtalak én segítségül minden ínségemben:<br/>mostan sem lehet más bizodalmam, sem földön, sem mennyben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs is énnékem más bizodalmam, Úristen, náladnál.<br/>Akármiképpen cselekedj vélem, csak ne haragudjál!<br/>Mint kegyes Atya, fiadat dorgáld, ó csak meg ne utálj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséret neked, Atya Úristen, a te szent Fiaddal!<br/>Áldassál tőlünk a Szentlélekkel, mi Vigasztalónkkal!<br/>Most és örökké imádunk téged zengő énekszókkal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Tekints reánk, Mindenhat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tekints reánk, Mindenható,<br/>minden bajban Oltalmazó!<br/>Ne hagyj el most szükségünkben,<br/>hallgass meg, ó nagy Úristen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedd el rólunk haragodat,<br/>és mutasd meg jóvoltodat!<br/>Ne hagyj el most szükségünkben,<br/>hallgass meg, ó nagy Úristen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne tartsd számon bűneinket,<br/>szent Fiadért oldj fel minket!<br/>Ne hagyj el most szükségünkben,<br/>hallgass meg, ó nagy Úristen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne mondhassák pogány népek:<br/>nincs istene ezen népnek.<br/>Ne hagyj el most szükségünkben,<br/>hallgass meg, ó nagy Úristen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy tenéked hálát adjunk,<br/>jóságodért áldást mondjunk.<br/>Ne hagyj el most szükségünkben,<br/>hallgass meg, ó nagy Úristen!</lines>
+    </verse>
+  </lyrics>
+</song>

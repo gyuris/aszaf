@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Mi Urunk Krisztus, kit szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi Urunk Krisztus, kit szűz anya hordott,<br/>szűznek szülötte, anyád alkotója:<br/>vértanú szüzed (szent N. szüzed) győzedelme napján<br/>fogadd e himnuszt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog e szent szűz kétszer győzedelmes,<br/>mert uralkodott, ösztönén a testnek,<br/>és gyönge testben győz a gyűlöletnek<br/>véres hatalmán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívében bátor, a halált nem félte,<br/>szótalan tűrte a kegyetlen kínzást,<br/>vérét ontotta, s méltó lett tehozzád<br/>jutni a mennybe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tekints, Úristen, szüzed érdemére,<br/>bocsásd meg, kérünk, a mi vétkeinket,<br/>hogy tiszta szívvel zenghessünk Tenéked<br/>ünnepi himnuszt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség néked, mindenható Isten,<br/>három személyben, egylényegű Fölség,<br/>tisztelet, áldás, himnusz illet téged,<br/>most és örökké. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

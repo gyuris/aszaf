@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Mennyei kórus, szent sereg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyei kórus, szent sereg,<br/>ti üdvözültek, égiek:<br/>a legfőbb Úrnak zengjetek<br/>trónjánál csengő éneket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jósága, mint az áradat,<br/>ki minden jót és szépet ad,<br/>s annak, ki hozzá hű marad,<br/>boldog jutalmat osztogat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelme áldott, szent erő:<br/>királyi törzsnek szentje nő,<br/>gyermekként Istent tisztelő,<br/>hős tisztaságot kedvelő.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Imre, keresztény jó vezér,<br/>ki trónra termett, hősi vér,<br/>hűséges harcos Krisztusért,<br/>testben, de égi módra él.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tűnő világot megveti,<br/>test szenvedélyét megtöri,<br/>s a Sátán, ravasz, ördögi<br/>sok fegyverét mind szétveri.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Így győzve hármas ellenit,<br/>az útja szűzen égbe vitt,<br/>s felölti kettős ékeit:<br/>királyi díszt és mennyeit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ott ékesítik fényesen,<br/>tündöklő csapat fényiben,<br/>a Bárány híve, bűntelen,<br/>véle van immár szüntelen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ki nem született: az Atyát<br/>dicsérjük, s véle szent Fiát,<br/>s a Léleknek is glóriát<br/>zengjünk örök időkön át. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Örvendezzünk mindnyájan</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="597"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzünk mindnyájan az Úrban,<br/>ünnepi napot ülvén Szűz Máriának tiszteletére:<br/>kinek ünnepén örülnek az angyalok,<br/>és magasztalják az Istennek Fiát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendezzünk mindnyájan az Úrban,<br/>ünnepi napot ülvén Szent N.-nek tiszteletére:<br/>kinek ünnepén örülnek az angyalok,<br/>és magasztalják az Istennek Fiát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendezzünk mindnyájan az Úrban,<br/>ünnepi napot ülvén minden szentek tiszteletére:<br/>kinek ünnepén örülnek az angyalok,<br/>és magasztalják az Istennek Fiát.</lines>
+    </verse>
+  </lyrics>
+</song>

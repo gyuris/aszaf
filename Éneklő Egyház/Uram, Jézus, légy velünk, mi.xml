@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Uram, Jézus, légy velünk, mi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Jézus, légy velünk, mi egyetlen örömünk,<br/>nálad nélkül keserűség itt a földön életünk.<br/>Ó egyetlen örömünk, Uram, Jézus, légy velünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, Jézus, tégedet szívünk, lelkünk úgy eped.<br/>Mert kívüled nem találhat sehol biztos nyughelyet.<br/>Boldog mással nem lehet, Uram, Jézus, csak veled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, Jézus, adj erőt, vigasztald a szenvedőt.<br/>A bűnbánó lélek nyerjen kegyelmet az Úr előtt.<br/>Segítsd föl a küszködőt, Uram, Jézus, adj erőt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, Jézus, el ne hagyj, ki lelkünknek üdve vagy.<br/>Legfőképp a végső harcon végig velünk megmaradj.<br/>Te, ki lelkünk üdve vagy, Uram, Jézus, el ne hagyj!</lines>
+    </verse>
+  </lyrics>
+</song>

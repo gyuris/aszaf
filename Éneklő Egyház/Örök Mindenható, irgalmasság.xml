@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Örök Mindenható, irgalmasság</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örök Mindenható, irgalmasság Atyja,<br/>minden szentjeidnek dicső koronája!<br/>Add, akik szent Lőrinc ünnepét tiszteljük,<br/>bátorságos hittel példáját kövessük.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor Szixtusz pápát kínhalálra viszik,<br/>jó szerpapja, Lőrinc igen szomorkodik:<br/>„Oltárodnál álltam, itt is társad leszek,<br/>atyám, a szent hitért örömest szenvedek!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őt kegyesen Szixtusz inti s vigasztalja,<br/>hogy ne szomorkodjék, e szavakat mondja:<br/>„Utánam jössz te is rövid idő múlva,<br/>erős légy és bátor, mi Urunkban bízva!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lőrinc, a szegények kirendelt gyámola,<br/>az egyház kincseit közöttük kiosztja.<br/>Csakhamar ezután Lőrincet elfogják,<br/>kegyetlen pogányok ártatlan hurcolják.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Börtönbe vezetik, vasrostélyra teszik,<br/>a keresztény hitért élve megégetik.<br/>Mesterére gondol, mosolyogva szenved,<br/>Szent Lőrinc, a mártír hálát ad Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

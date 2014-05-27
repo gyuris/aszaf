@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Hallottuk, Isten, a te szent</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="361"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallottuk, Isten, a te szent igédet,<br/>szívünkbe véstük sok kegyes intésed.<br/>Azt fogjuk követni, soha meg nem vetni,<br/>csak te add szent malasztod, legyen rajtunk áldásod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tarts meg, Úristen, az egy igaz hitben,<br/>tarts meg örökké te szent kegyelmedben.<br/>Szent igéd értelme bűn ellen védelme<br/>legyen a mi lelkünknek: erre segíts bennünket!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Jelenti magát Jézus háromszor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jelenti magát Jézus háromszor egy évben.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Először jelenti magát Nagykarácsony napján.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagykarácsony napján nagy hóeső esett.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagykarácsony napján angyali szó zengett.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Másodszor jelenti hangos Húsvét napján.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hangos Húsvét napján folyók megáradtak.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hangos Húsvét napján mindenek újulnak.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Harmadszor jelenti piros Pünkösd napján.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Piros Pünkösd napján rózsa megvirágzott.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Piros Pünkösd napján szent tüzek gyulladtak.<br/>Jézus magát úgy jelentgeti már.</lines>
+    </verse>
+  </lyrics>
+</song>

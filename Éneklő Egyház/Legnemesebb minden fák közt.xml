@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>Legnemesebb minden fák közt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="774"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legnemesebb minden fák közt hű Keresztfa, áldalak!<br/>Erdő egy sem termett ilyet, ily gyümölccsel gazdagot,<br/>édes fa, mely édes szeggel édes terhet hordozol!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséges viadalnak zengje nyelvünk himnuszát,<br/>keresztfának győzedelmén énekeljünk diadalt:<br/>miként győzött halálával mi megváltó Krisztusunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, magas fa, hajtsd meg ágad, már ne legyen oly kemény,<br/>enyhítsd bensőd merevségét, mit a természet adott,<br/>a mennyei Király testét úgy karold át szelíden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egyedül csak te vagy méltó váltságunkat hordani,<br/>és a hajótört világot biztos partra menteni:<br/>pusztulástól ezt a földet Bárány vére óvta meg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hódolattal adjunk hálát háromságban egy Úrnak,<br/>Atya-Fiú-Szentléleknek, imádandó Fölségnek.<br/>Őt dicsérje minden élő mindörökkön örökké. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

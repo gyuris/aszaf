@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Mennynek-földnek fölséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="647"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennynek-földnek fölséges szent Ura,<br/>Jézus Krisztus, világ Megváltója.<br/>Ádám bűnét magára vállalja,<br/>s mindnyájunknak vétkét ő hordozza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bemegy Jézus Olajfák kertjébe,<br/>imádkozik, haláltól rettegve,<br/>angyal szava őt megbátorítja,<br/>az üldözők serege elfogja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hitetlenek Urunkat megfogják,<br/>ruhátlanul oszlophoz szorítják,<br/>ostorokkal, vesszőkkel szaggatják,<br/>és szent vérét a földre kiontják.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gúnyolódva királynak csúfolják,<br/>tövisekkel fejét koronázzák,<br/>bíborköpenyt terítenek rája,<br/>nádat adnak jogarként jobbjába.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A keresztet felrakják vállára,<br/>kényszerítik menni Golgotára,<br/>útja közben leesik a földre,<br/>majd felérvén, feszítik keresztre.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eljött immár a halál órája,<br/>fohászkodván nagy szóval kiáltja:<br/>„Vedd, ó Atyám, kezedbe lelkemet,<br/>betöltöttem mindenben kedvedet!”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Jézusunk, világ Megváltója,<br/>irgalomnak, szeretetnek ura,<br/>tekints reánk, kik veled szenvedünk,<br/>mennyországban hogy veled lehessünk!</lines>
+    </verse>
+  </lyrics>
+</song>

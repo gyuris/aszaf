@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Szentháromságnak életem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentháromságnak életem, halálom,<br/>s testemmel együtt lelkemet ajánlom.<br/>Tégedet imádlak, mindörökkön áldlak:<br/>oszthatatlan Istenség, Háromságban egy fölség!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Méltó dicséret légyen az Atyának,<br/>kit vall a föld, és vall az ég urának.<br/>Szüntelen dicsérünk, érted ég mi szívünk:<br/>oszthatatlan Istenség, Háromságban egy fölség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Istenember áldassék mitőlünk,<br/>ő, kinek hulló vére által élünk,<br/>mert csak érte juttat testi-lelki jókat<br/>oszthatatlan Istenség, Háromságban egy fölség!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlélek Úrnak zengjük víg dalunkat,<br/>hozzá emelvén szívünket, szavunkat,<br/>adja bő kegyelmét, lángoló szerelmét<br/>oszthatatlan Istenség, Háromságban egy fölség!</lines>
+    </verse>
+  </lyrics>
+</song>

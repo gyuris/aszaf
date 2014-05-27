@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg, ó élő ember</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="349"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emlékezzél meg, ó élő ember, a te Istenedről;<br/>szólj és ne hallgass az ő kegyelméről!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi madarak jókor hajnalban vígan zengedeznek,<br/>természetükről el nem feledkeznek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te pedig, ember, magadban hordod az Istennek képét,<br/>s megkaptad tőle kiárasztott Lelkét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megáldott téged teremtő Urad lelki okossággal,<br/>s megékesített nyelved szólásával.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért elmédet restté ne tegyed, dicsérd Istenedet!<br/>Mert így kívánja: áldjad Teremtődet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amikor felkelsz, amikor fekszel, dicsérd Istenedet,<br/>ne feledkezz meg: ő teremtett téged!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adja az Isten nékünk kegyelmét, ihlető szent Lelkét,<br/>hogy dicsérhessük, az ő szent Fölségét!</lines>
+    </verse>
+  </lyrics>
+</song>

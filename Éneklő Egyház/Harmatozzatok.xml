@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Harmatozzatok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok,<br/>égi magasok!<br/>Téged vár epedve<br/>a halandók lelke:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert az emberek<br/>csak tévelyegnek,<br/>ha te égi fényed<br/>nem vezérli őket:<br/>Jöjj el édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldás, dicséret<br/>s hála tenéked,<br/>mert fényes világunk<br/>s legfőbb boldogságunk<br/>te vagy, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ím az áldozat,<br/>melyet bemutat<br/>szolgád Fölségednek,<br/>jöjj el és szenteld meg:<br/>Jöjj el édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nyújtsd malasztodat,<br/>hogy az áldozat<br/>bánatot gerjesszen<br/>bűnös szíveinkben:<br/>Jöjj el édes Üdvözítőnk!</lines>
+    </verse>
+  </lyrics>
+</song>

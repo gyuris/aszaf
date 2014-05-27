@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Áve, égi király híve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áve, égi király híve,<br/>királyoknak gyöngye, éke,<br/>László, mennynek sorsosa!<br/>Ég királyát hűn követted,<br/>országunkat védelmezzed,<br/>légy hazánknak bajnoka!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menedéke magyaroknak,<br/>örök-társa angyaloknak,<br/>égi kegynek eszköze:<br/>üdvözlégy, ó kiváltságos,<br/>híres-neves, igazságos,<br/>jó ítélet védnöke!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigadozzál magyar nemzet,<br/>harsonáljad, énekeljed,<br/>új Királynak új dalod!<br/>Boldog Várad, szálljon híred,<br/>növekedjék dicsőséged,<br/>visszhangozzák századok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krisztus, földről himnusz szárnyal,<br/>Hozzád, aki keresztfáddal<br/>magadhoz vonsz népeket.<br/>Szentek útja te vagy égbe,<br/>hitvallóknak dicsősége,<br/>néked áldás, tisztelet. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

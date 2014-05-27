@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Vigadj boldog Pannónia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigadj boldog Pannónia,<br/>mert Krisztus téged így szeret:<br/>zengjen a himnusz dallama,<br/>mondjál szívedből éneket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiszen belőled származott<br/>Erzsébet, ékes asszonyunk,<br/>ki minden földit elhagyott,<br/>mert hívta Krisztus, jó Urunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Királyi házba küldetett,<br/>de Isten kedves lánya lett,<br/>ezrek közül őt lelte meg,<br/>s vezette így az égi kegy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ámul, vigad Türingia,<br/>természet rendje változik,<br/>csodákat láthat sok fia,<br/>gyakran, ha ő imádkozik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halott nyer újra életet,<br/>betegbe épség visszaszáll<br/>a béna bátran lépeget,<br/>s vakot világít fénysugár.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Méltó dicséret áldja őt,<br/>dicsérje szó és zengje dal,<br/>ő pártfogónk az Úr előtt,<br/>buzgó imádságaival.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsérjük, áldjuk az Atyát,<br/>s a Szentlélekkel Egy-Fiát,<br/>hogy bűneink bocsánatát<br/>megnyerjük, s majd az ég honát. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

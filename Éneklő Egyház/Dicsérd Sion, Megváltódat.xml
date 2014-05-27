@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:18">
+  <properties>
+    <titles>
+      <title>Dicsérd Sion, Megváltódat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérd Sion, Megváltódat,<br/>vezéredet, pásztorodat,<br/>áldja hangos éneked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy bírod, akként merjed,<br/>bármi nagynak énekeljed,<br/>méltón nem dicsérheted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy titokról szól az ének:<br/>élet élő kútfejének,<br/>a Kenyérnek hódolunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Melyben midőn halni készül,<br/>magát adja örökrészül<br/>társainak Krisztusunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen teljes, legyen zengő,<br/>legyen vidám s hozzá illő<br/>szívből fakadt énekünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Annak titkát fontolgatva,<br/>magát Jézus miképp adta<br/>táplálékul minekünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az új Király asztalára<br/>Kenyér szállot, égi Pászka,<br/>elavult a régi már.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Fut az újtól, ami régi,<br/>nap az éjjelt fölcseréli,<br/>fut a fénytől a homály.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Amit Krisztus tett ez estén,<br/>hagyta, hogy rá emlékezvén<br/>cselekedjük mi is azt.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Áldás fakadt törvényéből,<br/>így lesz borból és kenyérből<br/>üdvösséges áldozat.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Drága titka szent hitünknek,<br/>testté-vérré lényegülnek,<br/>bor s kenyér mi volt előbb.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Régi rend itt újnak enged,<br/>szárnya lankad észnek, szemnek,<br/>élő hitből végy erőt!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Más és más, de nem lényegben,<br/>csak jel szerint más színekben<br/>mennybéli jók rejlenek.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Vére ital, teste étel,<br/>mégis ott van teljességgel<br/>mindkettőben Istened.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Aki veszi, meg nem osztja,<br/>meg nem töri, nem szakasztja,<br/>oszthatatlan eledel.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Veszi egy és veszik ezren,<br/>rövidséget nem lát egy sem,<br/>fogyasztják, és nem fogy el.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Veszik jók, és veszik rosszak,<br/>csakhogy különféle sorsnak<br/>részesei ők vele.</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Rossznak halál, jónak élet,<br/>ilyen az egyforma étek<br/>különböző ereje.</lines>
+    </verse>
+  </lyrics>
+</song>

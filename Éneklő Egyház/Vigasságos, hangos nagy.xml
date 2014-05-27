@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Vigasságos, hangos nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigasságos, hangos nagy örömünk támadt,<br/>megszületett Jézus a beteg világnak,<br/>felragyog immáron fényességes napja<br/>Isten irgalmának.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ősidőktől várták, ezredévek teltek,<br/>prófétaszó zengte: eljön majd a Gyermek,<br/>szűz anya szül nekünk csodálatos Istent,<br/>Béke-fejedelmet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendez a nap, hold, csillagok vigadnak,<br/>fenn a magas égen fényesen ragyognak,<br/>hogy immár itt vagyon a mennyei váltság<br/>földi halandóknak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért mi is néki mindnyájan örvendjünk,<br/>az újszülött Krisztus kedvét lelje bennünk,<br/>angyalok, pásztorok seregével együtt<br/>glóriát hirdessünk!</lines>
+    </verse>
+  </lyrics>
+</song>

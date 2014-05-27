@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Dicsérjük, hívek, lelkesen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjük, hívek, lelkesen<br/>a boldog élet szent Urát,<br/>zengjük ma együtt szívesen<br/>szent koronája himnuszát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Király ő ég és föld felett,<br/>fején bár szégyen-díszt visel,<br/>dicsőségünket szerzi meg<br/>gyalázatának fényivel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hegyes tövisből vad füzér<br/>meggyötri Krisztus homlokát,<br/>s világ hatalma mit sem ér,<br/>szolgálja bár az alvilág.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A koronát az Úr fején<br/>pirosló vére festi be,<br/>váltságunkért ez drága bér,<br/>mely bűnök szennyét mossa le.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(meghajolva)<br/>Dicsérjük Krisztust, a Királyt,<br/>kegyelmek ékes, szent Urát,<br/>lelkünket lelke hassa át,<br/>koronát nyerjünk, s szent hazát! Amen</lines>
+    </verse>
+  </lyrics>
+</song>

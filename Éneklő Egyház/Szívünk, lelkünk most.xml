@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Szívünk, lelkünk most</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="646"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívünk, lelkünk most kitárjuk,<br/>utad, Jézus veled járjuk.<br/>Kérjük, mélyen belevéssed<br/>szíveinkbe szenvedésed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áll a gyilkos, nagy ítélet,<br/>rajtunk immár igaz véred.<br/>Valahányszor szavam vétett,<br/>Pilátusod lettem néked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt van már a kereszt fája,<br/>hurcolnod kell Golgotára,<br/>Uram, én meg puhán, restül<br/>vonakodom a kereszttül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Botlik, roskad szegény tested,<br/>nem bírja a nagy keresztet.<br/>Földre sújtód, jaj! én voltam,<br/>ki oly sokszor elbotoltam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó jaj, látod jönni szemben<br/>édesanyád, gyötrelemben.<br/>Ó csak én is vele járnék<br/>Krisztus után, mint az árnyék.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vinni terhed, segítségül,<br/>itt van Simon Kirenébül.<br/>Bárcsak én is, bűnös lélek,<br/>keresztemmel követnélek!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jámbor asszony siet hozzád,<br/>kendőjével törli orcád.<br/>Vajon hát én, kőszívemmel,<br/>mennyi könnyet törültem fel?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Földre roskadsz másodízben,<br/>értem tűrő kegyes Isten.<br/>Hát ény hányszor tántorultam!<br/>Bűneimbe visszahulltam!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Sírva jöttök ki elébe,<br/>Jeruzsálem asszonynépe.<br/>Jaj, rám is szól, ami rátok:<br/>„Magatokat sirassátok!”</lines>
+    </verse>
+    <verse name="v10">
+      <lines>A keresztnek szörnyű terhe<br/>harmadszor is földre ver le.<br/>Ested adjon szent kegyelmet,<br/>hogy a bűnből talpra keljek.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Megcsúfoltak ruha nélkül,<br/>borzad szájad vad epétül.<br/>Tisztes mérték, szent szemérem,<br/>mindig, mindig maradj vélem!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Édes Jézus drága testét<br/>véres fára fölszögezték.<br/>Mi egyetlen boldogságunk,<br/>szent keresztfa, sírva áldunk.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Megváltásunk már betelve:<br/>Jézus lelkét kilehelte.<br/>Újra élek kegyelméből!<br/>Ki szakaszt el szerelmétől?</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Kereszfádról már levesznek,<br/>szent Szűz szívén pihen tested.<br/>Bár pihennél mindig nálam,<br/>tiszta szívem templomában.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Már a szent test sírba téve,<br/>újon metszett szirt ölébe,<br/>onnan kél fel harmadnapra,<br/>halált, pokolt letiporja.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Uram, hiszek és remélek,<br/>én szerelmem, neked élek.<br/>Szánom-bánom minden vétkem,<br/>légy az enyém egykor égben.</lines>
+    </verse>
+  </lyrics>
+</song>

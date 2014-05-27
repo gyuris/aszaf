@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Krisztus, az Úr feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus, az Úr feltámadott,<br/>alleluja, alleluja,<br/>reményt minékünk így adott,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy mi is mind feltámadunk,<br/>alleluja, alleluja,<br/>dicsőségébe eljutunk,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feltámadása Krisztusnak<br/>alleluja, alleluja,<br/>romlása lőn a pokloknak,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maradjon mindig ő velünk,<br/>alleluja, alleluja,<br/>kiben megújult életünk,<br/>alle, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Éljünk azért az Istennek,<br/>alleluja, alleluja,<br/>Atya, Fiú, Szentléleknek,<br/>alle, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

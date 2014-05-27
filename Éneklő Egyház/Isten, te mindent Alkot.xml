@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Isten, te mindent Alkot</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, te mindent Alkotó,<br/>egek Vezére, aki vagy,<br/>s fénnyel ruházod a napot,<br/>álom-malaszttal a vak éjt,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>hogy oldott tagjainkat így<br/>munkára eddze a szünet,<br/>fáradt velőnket és borús<br/>aggályainkat oldja fel:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>hálát a végzett nap miatt,<br/>s imát mondunk az éj elé,<br/>mit fogadtunk, ha megsegítsz,<br/>most teljesíti himnuszunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te légy, kit szívünk mélye áld,<br/>és hangunk zengve harsonáz,<br/>kit szomjaz minden tiszta vágy,<br/>s imád a józan értelem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogyha az éjszakák köde<br/>homályba csukja a napot,<br/>a hit ne tudjon ily homályt,<br/>hit világítsa át az éjt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aludni lelkünket ne hagyd,<br/>aludjanak ki vétkeink,<br/>s a hit hűsítse győztesen<br/>az éjnek forró álmait.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Levetve síkos gondokat,<br/>rólad álmodjon mély szívünk,<br/>s föl ne riasszon irigyen<br/>Sátán csele: a rémület.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(meghajolva)<br/>Kérjük a Fiút és Atyát,<br/>s a kettejüktől Származót:<br/>örök, hatalmas Három-Egy,<br/>vedd szárnyaid alá, aki kér. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

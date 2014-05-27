@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Népek megváltó Istene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Népek megváltó Istene!<br/>Szűztől születve megjelenj!<br/>Csodálják minden századok:<br/>Istenhez illő születés!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem férfiúnak magja ez,<br/>de titkon-való ihletés,<br/>test lesz az örök szent Ige,<br/>megvirágzik a szűzi méh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott gyümölcse megterem,<br/>de szüzessége megmarad,<br/>erény zászlói fénylenek,<br/>Templom, hol Isten megjelent!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S a nászteremből, ím, kilép,<br/>királyi házból Vőlegény,<br/>mint Isten-Ember, égi Hős,<br/>hogy útját futva járja be:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megindul Atyja székitől,<br/>s Atyjához ismét visszatér,<br/>bejárva poklok mélyeit,<br/>föl, az isteni trónusig.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ki az Atyával örök-egy<br/>a test páncélját fölveszi,<br/>mi testünk gyöngeségeit<br/>örök erővel hatva át.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Immár fénylik te jászolod,<br/>az éjből új nap támadott,<br/>mit nem borít el semmi éj,<br/>szüntelen hittel tündököl!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(meghajolva)<br/>Urunk, dicsérünk tégedet,<br/>aki a Szűznek fia vagy,<br/>Atyádat és Szent Lelkedet<br/>örökké, minden századon. Ámen</lines>
+    </verse>
+  </lyrics>
+</song>

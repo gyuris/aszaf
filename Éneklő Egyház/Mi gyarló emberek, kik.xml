@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Mi gyarló emberek, kik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi gyarló emberek, kik a földön élünk,<br/>sok nyomorúságot és fájdalmat érzünk,<br/>e világnak sok bajával küzdünk:<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs nékünk e földön sehol nyugodalmunk,<br/>nincsen maradandó állandó városunk,<br/>mindnyájan csak jövevények vagyunk.<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak egyedül mennybe igyekezzék szívünk,<br/>ott van elkészítve állandó hely nékünk,<br/>munka után az örökös bérünk.<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az egekben vagyon végtelen gazdagság,<br/>melyet nékünk szerzett az isteni jóság,<br/>ott vár reánk az örök boldogság.<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ezt hallván, emberek, keljünk fel álmunkból,<br/>szabadulást venni világ rabságából,<br/>igyekezzünk csalárd hálójából.<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Felvirradtak reánk szenvedés napjai,<br/>üdvösségkeresés alkalmas órái,<br/>távozzatok, evilág pompái!<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vétkeinkért böjttel testünk sanyargassuk,<br/>a szolgálat alá szenvedéssel hajtsuk,<br/>Istenünkhöz teljesen hódítsuk!<br/>Emlékezzünk, porból lettünk, és hogy ismét porrá is kell lennünk.<br/>Emlékezzünk, e szent böjtben bűneinkből Istenhez kell térnünk.</lines>
+    </verse>
+  </lyrics>
+</song>

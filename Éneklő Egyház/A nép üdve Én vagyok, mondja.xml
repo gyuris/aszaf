@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:18">
+  <properties>
+    <titles>
+      <title>A nép üdve Én vagyok, mondja</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="544"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nép üdve Én vagyok, mondja az Úr.<br/>Bármi bajban kiáltanak hozzám,<br/>meghallgatom őket, s uruk leszek mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

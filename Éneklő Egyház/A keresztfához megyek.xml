@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>A keresztfához megyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A keresztfához megyek,<br/>mert máshol nem lelhetek<br/>nyugodalmat lelkemnek.<br/>S ott talállak, ó Szűzanya,<br/>fájdalom közt bágyadozva,<br/>tőr veré át lelkedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mely gyötrelem volt neked<br/>isteni szülöttedet<br/>látni szegény jászolban.<br/>S midőn annyi ellenségek<br/>romlására esküvének:<br/>tőr veré át lelkedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De midőn ezek felett<br/>láttad, mennyit szenvedett,<br/>szenvedett az ártatlan:<br/>láttad őt a Kálvárián<br/>két lator közt a keresztfán,<br/>kínodat ki mérje meg?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nap elsötétedett,<br/>ennyi kínt nem nézhetett,<br/>borzadván rengett a föld.<br/>Sírt, kesergett, gyászolt minden<br/>az egész nagy természetben:<br/>de gyötrelmed nagyobb volt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Ím az Úrnak nagy neve</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ím az Úrnak nagy neve EMMANUEL,<br/>ezt hirdette a szent angyal, Gábriel.<br/>Ma jelenik, ma jelenik e világban,<br/>Ím királyt szült szűzen a Szűz Mária,<br/>betelik már Gábrielnek mondása.<br/>Glória! Glória!<br/>Szűztől Isten születik,<br/>vesszőszál virágozik,<br/>megadta ezt irgalma az Istennek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengjünk hangos énekkel, kedvességes örömmel, hálát adó lélekkel:<br/>Ma jelenik, ma jelenik e világban,<br/>Ím királyt szült szűzen a Szűz Mária,<br/>betelik már Gábrielnek mondása.<br/>Glória! Glória!<br/>Szűztől Isten születik,<br/>vesszőszál virágozik,<br/>megadta ezt irgalma az Istennek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örüljetek gyermekek, Betlehembe jöjjetek, az új Királyt nézzétek:<br/>Ma jelenik, ma jelenik e világban,<br/>Ím királyt szült szűzen a Szűz Mária,<br/>betelik már Gábrielnek mondása.<br/>Glória! Glória!<br/>Szűztől Isten születik,<br/>vesszőszál virágozik,<br/>megadta ezt irgalma az Istennek.</lines>
+    </verse>
+  </lyrics>
+</song>

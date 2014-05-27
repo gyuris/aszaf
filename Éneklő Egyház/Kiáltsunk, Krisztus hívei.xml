@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Kiáltsunk, Krisztus hívei</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiáltsunk, Krisztus hívei:<br/>világ Szülője add kegyed,<br/>mely érezzük, hogy közeleg,<br/>s fogadd legszebb dicséretünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Régi próféták jóslata<br/>beteljesült, mint mondatott,<br/>midőn eljött megváltani<br/>Teremtőnk egyszülött Fia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Érettünk mondott szent Ige,<br/>hogy bűnök terhét elvegye,<br/>mulandó portestünkbe szállt,<br/>s megölte trónján a halált.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Időben anya szülte őt,<br/>de Atya az idő előtt,<br/>s bár benne két természet él,<br/>egyetlen isteni személy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ember lett, íme, Istenünk,<br/>s mi benne újra születünk,<br/>az új kultusznak fényiből<br/>új ember lesz a régiből.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Születésnapján lelkesen<br/>ujjongnak mind a nemzetek,<br/>s a kegyelemben szülte nép<br/>évente várja ünnepét.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jöttét a vágyak hirdetik,<br/>melyekkel minden eltelik,<br/>ily dicsőséges nagy napot<br/>illik fogadni tisztesen!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hogy midőn újra érkezik,<br/>s a földet félelmek verik,<br/>legyen méltó várakozás<br/>ez alázatos fogadás.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(meghajolva)<br/>Dicséret, áldás, tisztelet<br/>Atya és Fiú, teneked,<br/>s a Szentléleknek is velük,<br/>dicsőség minden századon. Ámen</lines>
+    </verse>
+  </lyrics>
+</song>

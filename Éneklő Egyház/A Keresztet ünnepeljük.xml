@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:21">
+  <properties>
+    <titles>
+      <title>A Keresztet ünnepeljük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="775"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Keresztet ünnepeljük,<br/>a Keresztnek énekeljük<br/>ujjongó dicséretét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kereszt a mi győzedelmünk,<br/>itt adatott letepernünk<br/>ellenségünk erejét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rajta függ a Feláldozott,<br/>egy világot ki megmosott<br/>az ősbűnnek szennyitől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiterjeszti négyes ágát,<br/>és a földnek négy határát<br/>egybefogja, élteti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldják az Úr szent Keresztjét,<br/>kik általa megszerezték<br/>az életnek kincseit!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Üdvösséges, boldog Oltár,<br/>mily tüzesen bíboroltál<br/>a Báránynak véritől!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bűnnek, bajnak üdvös írja,<br/>mit magában meg nem bírna:<br/>veled bírja a hívő.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Győztes szent Fa, világosság!<br/>Nincs több ilyen virágos ág,<br/>ily koszorús földi tő. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

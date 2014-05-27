@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Magasztalja lelkem az én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztalja lelkem az én Uramat,<br/>örvendezve élek szárnyai alatt,<br/>szolgálója lettem, lepillantott rám,<br/>alázattal zengi dicséretét szám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami velem történt, nem volt soha még,<br/>boldognak mond engem minden nemzedék,<br/>nagyot művelt rajtam hatalmas keze,<br/>jóságában százszorszent az ő neve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalma leárad, népünkre borul,<br/>félelmünkre válasz, és szívünkre hull,<br/>mindenható karja csak egyet suhint,<br/>s a kevélykedőket széjjelszórja mind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Letöri a gőgöst képzelt magasán,<br/>alázatos hívét áldja trónusán,<br/>éhezőknek étket tele kézzel ád,<br/>de a gazdagoktól zárja kapuját.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igazak dolgára örök gondja van,<br/>szívén hordja népét nagy irgalmasan,<br/>atyáinkhoz szólott évezreken át,<br/>benne bízó népe ismerte szavát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsőség az Úrnak, áldjuk az Atyát,<br/>Fiút és a Lelket századokon át,<br/>tudom, hogy mit adtál: töviskoronát,<br/>áldott légy ma érte, s minden koron át</lines>
+    </verse>
+  </lyrics>
+</song>

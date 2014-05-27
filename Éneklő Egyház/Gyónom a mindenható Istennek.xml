@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:17">
+  <properties>
+    <titles>
+      <title>Gyónom a mindenható Istennek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="376"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyónom a mindenható Istennek, és nektek testvéreim,<br/>hogy sokszor és sokat vétkeztem,<br/>gondolattal, szóval, cselekedettel és mulasztással.<br/>Én vétkem, én vétkem, én igen nagy vétkem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérem ezért a boldogságos, mindenkor szeplőtelen Szűz Máriát,<br/>az összes angyalokat és szenteket, és titeket, testvéreim,<br/>hogy imádkozzatok érettem Urunkhoz, Istenünkhöz!</lines>
+    </verse>
+  </lyrics>
+</song>

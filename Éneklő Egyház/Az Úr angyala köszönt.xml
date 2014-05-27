@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Az Úr angyala köszönt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="350"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr angyala köszönté a boldogságos Szűz Máriát,<br/>s a Szűz méhében fogadá Szentlélektől szent Fiát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy Mária, malaszttal vagy teljes, az Úr van teveled,<br/>te vagy áldott az asszonyok között, és áldott a te méhednek gyümölcse Jézus.<br/>Asszonyunk Szűz Mária, Istennek Szent Anyja,<br/>imádkozzál érettünk, bűnösökért, most és halálunk óráján. Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, az Úrnak szolgáló leánya,<br/>legyen nekem a te igéd szerint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Üdvözlégy Mária, malaszttal vagy teljes, az Úr van teveled,<br/>te vagy áldott az asszonyok között, és áldott a te méhednek gyümölcse Jézus.<br/>Asszonyunk Szűz Mária, Istennek Szent Anyja,<br/>imádkozzál érettünk, bűnösökért, most és halálunk óráján. Amen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És az Ige testté lőn,<br/>és mi köztünk lakozék.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Üdvözlégy Mária, malaszttal vagy teljes, az Úr van teveled,<br/>te vagy áldott az asszonyok között, és áldott a te méhednek gyümölcse Jézus.<br/>Asszonyunk Szűz Mária, Istennek Szent Anyja,<br/>imádkozzál érettünk, bűnösökért, most és halálunk óráján. Amen</lines>
+    </verse>
+    <verse name="v7">
+      <lines>V: Imádkozzál érettünk, Istennek szent Anyja.<br/>R: Hogy méltók lehessünk Krisztus ígéreteire!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Boldog város, Jeruzsálem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog város, Jeruzsálem,<br/>békességes látomás,<br/>melyet égben építettek,<br/>élő kőből rakva fel,<br/>s angyaloknak kara díszít:<br/>menyegzői koszorú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megérkezvén a magasból<br/>várta menyegzői ház,<br/>hogy az Úrnak eljegyezve<br/>Néki éljen egyedül.<br/>Minden fala színaranyból,<br/>fénylik minden bástyafok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kapuja, mely gyönggyel ékes,<br/>s szentélye, ha megnyílik,<br/>érdemeknek erejéből<br/>bebocsátást nyer oda,<br/>aki Krisztus szent nevéért<br/>itt a földön gyötretik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jó alapnak, Szegletkőnek<br/>Krisztus az, ki küldetett,<br/>ő a házat anyagában<br/>kétszeresen megköti,<br/>akit Sion híven vállalt,<br/>Benne hívőn fennmarad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szaggatással, gyötretéssel<br/>megmunkálva a kövek,<br/>jó helyükre elkerülnek<br/>dolgos kezek művivel,<br/>a legszentebb épületnek<br/>így lesznek mind részei.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten előtt igen kedves,<br/>szent e város szerfölött,<br/>dicsérete széphangzású,<br/>s ujjongó az éneke,<br/>amidőn a Három-Egyet<br/>énekszóval hirdeti.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó nagy Isten, kérve kérünk,<br/>templomodba jöjj közénk,<br/>te kegyelemes jóságoddal<br/>kérésünket elfogadd,<br/>s áldásodat bőven áraszd<br/>mindenkor e szent helyen!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nyerjék meg itt, amit kérnek<br/>esdekelve mindenek,<br/>s amit kaptak, meg is tartsák<br/>szentjeid közt szüntelen,<br/>és az égi honba érve<br/>békességre jussanak!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(meghajolva)<br/>Magasságos nagy Istennek<br/>légyen áldás, tisztelet,<br/>Atyának és szent Fiának,<br/>s velük a Szentléleknek,<br/>hódolattal, dicsérettel<br/>zengjünk minden századon! Amen</lines>
+    </verse>
+  </lyrics>
+</song>

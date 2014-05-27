@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Ave verum Corpus natum de</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ave verum Corpus natum de Maria Virgine.<br/>Vere passum immolatum in cruce pro homine.<br/>Cujus latus perforatum fluxit aqua et sanguine.<br/>Esto nobis prægustatum mortis in examine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jesu dulcis!<br/>O Jesu pie!<br/>O Jesu fili Mariæ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Magasztallak, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztallak, Uram, felemeltél engem,<br/>nem hagytad, nem tűrted más rabjává lennem,<br/>ó, Uram, Istenem, hozzád kiáltottam: könyörültél rajtam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És te siralmamat fordítád vígságra,<br/>gyászruhám leoldtad, ím, bíborra váltva,<br/>zengjen a dicséret, magasztaljon téged, örökké, míg élek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felhoztad lelkemet alvilág poklából,<br/>fel is támasztottál haldoklók hadából,<br/>zengjetek az Úrnak, vígan minden hívek: hálával telt szívek!</lines>
+    </verse>
+  </lyrics>
+</song>

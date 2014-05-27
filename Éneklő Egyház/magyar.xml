@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:18">
+  <properties>
+    <titles>
+      <title>magyar</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="520"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Szentlélek Isten, jöjj,<br/>áraszd ki a mennyekből<br/>fényességed sugarát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, ki árvák atyja vagy,<br/>jöjj, ki szívek lángja vagy,<br/>ajándékos jóbarát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy a Vigasztalás,<br/>drága vendég, lelki Társ,<br/>te az édes enyhülés.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gondok között nyugalom,<br/>hőség ellen oltalom,<br/>zokogásban könnyülés.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjj és töltsd be híveid<br/>titkos mélyű szíveit,<br/>boldogító égi tűz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Semmi, semmi Nélküled<br/>az emberben nem lehet,<br/>semmi tiszta, semmi szűz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mosd, amit a szenny belep,<br/>öntözd, ami eleped,<br/>seb fájását csillapítsd!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ami dermedt, élesztgesd,<br/>ami fagyos, melengesd,<br/>ami hibás igazítsd!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Benned minden bizalom<br/>osszad, osszad pazaron<br/>hét szent ajándékodat.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Adj érdemre jobbulást,<br/>üdvösséges kimúlást,<br/>örök vigasságot adj!<br/>Amen. alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

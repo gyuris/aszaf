@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Pálforduló ünnepnapján hívek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pálforduló ünnepnapján hívek, énekeljek,<br/>megtérése emlékének megtérők, örüljetek!<br/>Szent Pál, ó légy velünk, pártfogónk, mesterünk,<br/>veled együtt örvendjünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus ellen harcol Saul, s íme, Jézus szólítja,<br/>Egyházának üldözőjét Egyházába hódítja.<br/>Szent Pál, ó légy velünk, pártfogónk, mesterünk,<br/>veled együtt örvendjünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minket is a megtérésre indíts, boldog apostol,<br/>legyünk Isten jó tanúi, ne féljünk a világtól.<br/>Szent Pál, ó légy velünk, pártfogónk, mesterünk,<br/>veled együtt örvendjünk!</lines>
+    </verse>
+  </lyrics>
+</song>

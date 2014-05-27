@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, ó drágalátos nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, ó drágalátos nagy Szentség,<br/>hol jelen van istenség és emberség.<br/>Kérünk, ne hagyd híveidet, bűnre hajló népeidet,<br/>hanem adjad kegyelmedet, nagy Fölség!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyes voltál mennyből alászállani,<br/>szent véredet egy cseppig kiontani,<br/>ó ne essék hát hiába szenvedésed drága ára,<br/>hanem a mi szegény lelkünk javára!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindnyájan, kik egyek vagyunk a hitben,<br/>imádunk és áldunk e nagy Szentségben,<br/>mint megváltó Istenünket, ki táplálja mi lelkünket,<br/>maradj velünk, és üdvözíts bennünket!</lines>
+    </verse>
+  </lyrics>
+</song>

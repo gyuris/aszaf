@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, Szentlélek Istenünk,<br/>add a mennyből érzenünk<br/>fényességed sugarát.<br/>Jöjj, szegények atyja, te,<br/>bőkezűség Istene,<br/>lelkünk fényed hassa át.<br/>Jöjj el, jöjj el,<br/>jöjj el, jöjj el,<br/>jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édességes vigaszunk,<br/>drága vendég, szomjazunk,<br/>édes lélek – újulás!<br/>Fáradottnak könnyülés,<br/>tikkadónak enyhülés,<br/>sírónak vigasztalás.<br/>Jöjj el, jöjj el,<br/>jöjj el, jöjj el,<br/>jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogságos tiszta fény,<br/>szállj meg szívünk rejtekén,<br/>híveidnek napja légy!<br/>Ihleted ha fényt nem ad,<br/>emberszívben ellohad<br/>minden érő, minden ép.<br/>Jöjj el, jöjj el,<br/>jöjj el, jöjj el,<br/>jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mosd meg, ami szennyezett,<br/>aszúságra hints vizet,<br/>orvosold a sebhelyet.<br/>Simogasd a darabost,<br/>fölmelengesd a fagyost,<br/>útra vidd, ki tévelyeg!<br/>Jöjj el, jöjj el,<br/>jöjj el, jöjj el,<br/>jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, vegyék el híved,<br/>kik hitük beléd vetik<br/>hétszeres kegyelmedet.<br/>Jámbornak jutalmazást,<br/>engedj boldog kimúlást,<br/>mindörökké mennyeket.<br/>Jöjj el, jöjj el,<br/>jöjj el, jöjj el,<br/>jöjj Szentlélek Úristen!</lines>
+    </verse>
+  </lyrics>
+</song>

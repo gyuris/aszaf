@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Itt jelen vagyon az Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt jelen vagyon az Istennek Fia,<br/>itt jelen vagyon feláldozott Bárány,<br/>itt jelen vagyon erős, igaz Isten:<br/>a Jézus Krisztus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt jelen vagyon mi édes Teremtőnk,<br/>itt jelen vagyon a mi közbenjárónk,<br/>itt jelen vagyon Vigasztaló társunk:<br/>a Jézus Krisztus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt jelen vagyon Út, Igazság, Élet,<br/>itt jelen vagyon a mennyei Fölség<br/>itt jelen vagyon fényes Világosság:<br/>a Jézus Krisztus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt jelen vagyon váltságunknak Napja,<br/>itt jelen vagyon bűnünk megrontója,<br/>itt jelen vagyon szeretetnek lángja:<br/>a Jézus Krisztus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Itt jelen vagyon a mi Vígasságunk,<br/>itt jelen vagyon Őrizőnk, Oltalmunk,<br/>itt jelen vagyon lelki bátorítónk:<br/>a Jézus Krisztus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Adja minékünk az ő szent országát,<br/>hogy megláthassuk szentséges lakását,<br/>angyali karból tiszta szép orcáját,<br/>és ő szent Atyját. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

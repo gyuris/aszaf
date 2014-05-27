@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:15">
+  <properties>
+    <titles>
+      <title>Minden élő dicsér, örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden élő dicsér, örök, Atyaisten,<br/>szolgálni tenéked eléd állunk készen,<br/>magasztaltak egykor ősi nemzedékek,<br/>ő nyomukban járva dicsérünk mi téged.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem szégyelljük, Uram, rólad emlékezni,<br/>mind e világ előtt benned dicsekedni,<br/>akaratod szerint, tetszésedre élni,<br/>test-lelki jókat csak tetőled kérni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyermekeink ma is, add, hogy így éljenek,<br/>megismerve téged, felnövekedjenek,<br/>te szent Egyházadba, hogy beépüljenek,<br/>s szentjeiddel együtt életet nyerjenek!</lines>
+    </verse>
+  </lyrics>
+</song>

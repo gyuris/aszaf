@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:19">
+  <properties>
+    <titles>
+      <title>Lu æterna luceat eis Domine</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="640"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lux æterna luceat eis Domine,<br/>cum Sanctis tuis in æternum, quia pius es.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Requiem æternam dona eis Domine,<br/>et lux perpetua luceat eis.<br/>* Cum Sanctis tuis.</lines>
+    </verse>
+  </lyrics>
+</song>

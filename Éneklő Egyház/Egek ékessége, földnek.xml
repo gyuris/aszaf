@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Egek ékessége, földnek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egek ékessége, földnek dicsősége, magyarok Asszonya, királynéja!<br/>Hozzád buzgó szívvel, köteles hűséggel járulunk, szentséges szűz Mária.<br/>Mint pátrónánkhoz, édesanyánkhoz teljes reménységgel folyamodunk,<br/>és minden ínségben fohászkodunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints le jó szívvel, irgalmas szemeddel a mi szent eleink kérelmére!<br/>Jöjj örökségednek, jó magyar népednek, jöjj, kérünk, ó anyánk, védelmére!<br/>Nincsen oly szükség, nincs oly nagy ínség, melyre nem hathatós égben szavad,<br/>melyből nem menthetnéd szolgáidat.</lines>
+    </verse>
+  </lyrics>
+</song>

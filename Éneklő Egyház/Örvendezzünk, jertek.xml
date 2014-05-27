@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Örvendezzünk, jertek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzünk, jertek, áhitatos lelkek,<br/>Istenünk oltáránál.<br/>Nyissuk ki a lelkünk, vidám dalra keljünk,<br/>mi Urunk mireánk vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fölséges az Isten, por előtte minden,<br/>por a föld, por az ég is.<br/>Mik a földön élnek: mint a szegény fére.<br/>Szeret ő, szeret mégis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fiát adta értünk, őbenne remélünk,<br/>főpapunk ő lett nékünk.<br/>Áldozatunk ő lett, s érte, Uram, tőled<br/>reméljük üdvösségünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hatalmas az Isten, énekelje minden,<br/>ég és föld, imádjátok!<br/>Közeleg az égből, dicsőséges fényből,<br/>szent neve legyen áldott!</lines>
+    </verse>
+  </lyrics>
+</song>

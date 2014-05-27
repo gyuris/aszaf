@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:16">
+  <properties>
+    <titles>
+      <title>Üdvözlégy kegyes szent Lászl</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy kegyes szent László király,<br/>Magyarországnak édes oltalma!<br/>Szent királyok közt drágalátos gyöngy,<br/>csillagok között, fényességes csillag!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentháromságnak igaz szolgája,<br/>Jézus Krisztusnak jó tanítványa,<br/>te Szentléleknek tiszta edénye,<br/>Szűz Máriának választott vitéze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Testedben ékes, karodban erős,<br/>lelkedben fényes, szívedben bátor,<br/>igaz ügyeknek gondját viselted,<br/>szegényeknek te voltál oltalma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert kiválasztott a Szűz Mária,<br/>és felmagasztalt sok ajándékkal,<br/>hogy te őrizzed s megoltalmazzad,<br/>néki ajánlott jó Magyarországot.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérnek téged szent zsolozsmával,<br/>papok, diákok és városnépek,<br/>dicsérnek téged magyarok, mondván:<br/>Üdvözlégy mennyben, Szent László királyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

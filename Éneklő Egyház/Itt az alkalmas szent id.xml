@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:13">
+  <properties>
+    <titles>
+      <title>Itt az alkalmas szent id</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt az alkalmas szent idő,<br/>az üdvösségnek napjai,<br/>hogy megtisztítsuk a szívünk,<br/>lemosva vétkek szennyeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jelezte ezt már Mózes is,<br/>ki vad vidékre elvonult,<br/>vállalva népe bűneit,<br/>hogy sírva, könnyel mossa le.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Illés is így tett egykoron,<br/>kit elragadt a tűzszekér,<br/>s világteremtő Istenünk,<br/>ki testet öltve jött közénk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezért imánk, míg esdekel,<br/>alázkodjék az értelem,<br/>hajoljon földre térd s a váll,<br/>arcunkat mossák könnyeink.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vágyunkat űzzük messzire,<br/>törjük meg testünk ösztönét,<br/>így leszünk élő áldozat,<br/>és bőkezűen adhatunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szolgálván, hogyha böjtölünk,<br/>elszáll a belső lustaság,<br/>elfut a lelki zsibbadás,<br/>világosságra vált a köd.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Legyen bár vétkek temploma,<br/>és bűnfekéllyel telt a szív,<br/>a böjt lesz legjobb gyógyszere,<br/>ha kegyelmével jő Atyánk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jézus, könyörgünk, irgalom!<br/>Bánkódva hozzád száll szavunk:<br/>hogy bűn világát rontva szét<br/>irgalmad hozzon békülést!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(meghajolva)<br/>Fiaddal add meg jó Atyánk,<br/>örök Lelkeddel add meg ezt,<br/>kit háromságos névvel is<br/>vallunk, hogy egy vagy, Istenünk. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

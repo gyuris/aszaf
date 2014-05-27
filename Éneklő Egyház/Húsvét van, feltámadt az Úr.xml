@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Húsvét van, feltámadt az Úr</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Húsvét van, feltámadt az Úr,<br/>ma lelkünk gyásza felvidul,<br/>elárad rajta égi fény<br/>a húsvét áldott ünnepén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltott lelkek, jöjjetek,<br/>az Úrnak hálát zengjetek,<br/>mert sírunk éjét győzte le<br/>az örök élet Istene.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:27:14">
+  <properties>
+    <titles>
+      <title>Jöjj el, Lélek, Életadó, örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el, Lélek, Életadó, örök BÖLCSESSÉG!<br/>Végcélunkat mindig lássuk: szállj le népedre!<br/>Léptünk előtt Te világolj, Bölcsesség Lelke!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj el, Lélek, Életadó örök ÉRTELEM!<br/>Hitünket hogy jól érthessük: szállj le népedre!<br/>Hadd érezzünk Egyházaddal, Értelem Lelke!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj el, Lélek, Életadó, örök JÓTANÁCS!<br/>Dolgainkban jól dönthessünk: szállj le népedre!<br/>Hadd kövessük sugalmadat, Jótanács Lelke!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj el, Lélek, Életadó, örök ERŐSSÉG!<br/>Lendületet te adj nékünk: szállj le népedre!<br/>Szívünket tedd kitartóvá, Erősség Lelke!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjj el, Lélek, Életadó örök TUDOMÁNY!<br/>Szent tudásunk gyarapítsad: szállj le népedre!<br/>Hadd hirdessük igazságod, Tudomány Lelke!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jöjj el, Lélek, Életadó, örök JÁMBORSÁG!<br/>Járj át minket szellemeddel: szállj le népedre!<br/>Krisztus szerint alakítsál, Jámborság Lelke!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jöjj el Lélek, Életadó, ISTENFÉLELEM!<br/>Imádjuk a Legszentebbet: szállj le népedre!<br/>Tiszteletre nevelj minket, Félelem Lelke!</lines>
+    </verse>
+  </lyrics>
+</song>
