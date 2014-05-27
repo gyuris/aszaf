@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:06">
+  <properties>
+    <titles>
+      <title>Isten báránya</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ordinárium" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten Báránya!<br/>Te elveszed a világ bűneit:<br/>irgalmazz nekünk!<br/>...irgalmazz nekünk!<br/>...adj nekünk békét!</lines>
+    </verse>
+  </lyrics>
+</song>

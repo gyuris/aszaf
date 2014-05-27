@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:06">
+  <properties>
+    <titles>
+      <title>Reggeli ima</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ordinárium" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívem első gondolatja<br/>Hozzád száll föl, Istenem!<br/>Te őriztél meg az éjjel,<br/>Maradj ma is énvelem!<br/>Téged áldlak és imádlak<br/>Mint szerető gyermeked,<br/>Szívem csakis azt akarja,<br/>Ami kedves Teneked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, add kegyelmed,<br/>Őrizz engem szüntelen,<br/>Hogy egész nap Neked éljek,<br/>Tiszta szívvel, bűntelen.<br/>Szűz Mária, Jézus anyja,<br/>Te mindnyájunk anyja vagy!<br/>Oltalmazz meg minden bajtól,<br/>Kísértésben el ne hagyj! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>
