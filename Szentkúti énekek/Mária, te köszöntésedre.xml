@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Mária, te köszöntésedre</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, te köszöntésedre,<br/>siettünk kedves Szűzanyánk,<br/>szent képed elébe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, Szentkútnak Csillaga!<br/>Vesd reánk kegyes szemedet,<br/>tisztelő nyájadra!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária, Mennynek Királynéja!<br/>Te vagy a szentkúti templom<br/>gyönyörű virága.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, Kinyílott Ibolya!<br/>Ki a mennyet és a földet betölti illattal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária, óh Ékes Nefelejcs!<br/>A te tisztelő népedet<br/>Anyánk, el ne felejtsd!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, Szentkút Gyöngyvirága!<br/>Vakok, némák, nyomorultak,<br/>betegek orvosa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mária, add ránk áldásodat,<br/>vigasztald meg a kesergő,<br/>szomorú árvákat!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mária, óh te Ékes Rózsa!<br/>A szentkúti szép templomunk<br/>tündöklő Csillaga!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mária! Alázattal kérünk,<br/>szent Fiadnál, Úr Jézusnál<br/>könyörögj érettünk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mária, kedves Édesanyánk,<br/>most és halálunk óráján<br/>siess, siess hozzánk!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mária, vezess fel mennyekbe,<br/>hogy teveled örvendhessünk,<br/>most és mindörökre!</lines>
+    </verse>
+  </lyrics>
+</song>

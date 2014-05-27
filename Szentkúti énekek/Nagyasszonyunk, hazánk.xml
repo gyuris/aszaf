@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Nagyasszonyunk, hazánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagyasszonyunk, hazánk reménye, bús nemzeted zokogva esd.<br/>Nyújtsd, irgalom, jobbod feléje, botlásiért, óh meg ne vesd.<br/>Mi lesz belőlünk, hogyha elhagysz, bús árvaságunk sírba hervaszt?<br/>Minden reményünk csak te vagy! Szent Szűzanyánk, Szent Szűzanyánk, óh el ne hagyj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozzád sír a jobbak keserve, jámbor családok tűzhelyén.<br/>A szebb idők után esengve, mikor nap ült hazánk egén.<br/>Óh, kérjed Istent újra értünk, ne hagyd elveszni árva népünk!<br/>Minden reményünk csak te vagy! Szent Szűzanyánk, Szent Szűzanyánk, óh el ne hagyj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oltáridat körülzokogjuk naponta, óh, mert vétkezénk.<br/>És sírva szent neved sóhajtjuk, Nagyasszonyunk, tekints felénk!<br/>Mutasd meg egyszer még e népnek, hogy pártfogásod mit segíthet!<br/>Minden reményünk csak te vagy! Szent Szűzanyánk, Szent Szűzanyánk, óh el ne hagyj.</lines>
+    </verse>
+  </lyrics>
+</song>

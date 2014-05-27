@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Mária tekints reánk mennyből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária tekints reánk mennyből,<br/>akik szentképed elejbe<br/>összesereglettünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária mennyből szállott virág,<br/>ki a lurdi szent barlangban<br/>kijelenté magát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem barlang, hanem szép palota,<br/>a keresztény nemzetségnek<br/>gyógyító balzsama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, aki Bernadettnek<br/>tizennyolcszor megmutattad<br/>szentséges képedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária, aki azt mondtad:<br/>„Én vagyok a Szeplőtelen<br/>Fogantatás titka.”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, ki fehér öltönyben mentél,<br/>hogy a tisztaságra<br/>minket emlékeztess.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Égszínű szalagot viseltél,<br/>hogy bennünket mennyországra<br/>úgy emlékeztessél.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mária, ki rózsákon álltál,<br/>hogy bennünket szenvedésre<br/>azzal buzdítanál.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mária, ki a szent olvasót<br/>megmutattad, hogy mi is azt<br/>gyakran imádkozzuk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mária, ki szent szemeidet<br/>siralmasan bűneinkért<br/>az égre vetetted.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mária, ki szent kezeidet,<br/>összetéve, miérettünk<br/>imára emelted.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Mária, te jelenésedet,<br/>hisszük, valljuk, tapasztaljuk<br/>csudatetteidet.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Mária, örömünknek oka,<br/>vakok, némák, nyomorultak,<br/>betegek orvosa.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Mária, özvegy s árvák anyja,<br/>a megholt híveknek pedig<br/>örök nyugodalma.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Mária, szüzek királynéja,<br/>most és halálunk óráján<br/>siess oltalmunkra!</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Mária, csak az a kérésünk,<br/>az ítélőbírót: Jézust,<br/>engeszteld meg nékünk!</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Mária légy szószólónk nékünk,<br/>holtunk után Bernadettel<br/>téged szemlélhessünk.</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Dicsőség légyen az Atyának,<br/>Szentlélekkel egyetemben<br/>áldott szent Fiadnak!<br/>Tisztelet adassék tőlünk<br/>szép Szűz Máriának!</lines>
+    </verse>
+  </lyrics>
+</song>

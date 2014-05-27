@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Zeng a harang szava és idehív</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zeng a harang szava és idehív,<br/>Mária várja itt gyermekeit.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged dicsérnek a halk szavú fák,<br/>rólad rebegnek az ajkak imát.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fenn a magasban a lánghevű nap,<br/>megkoronázza a homlokodat.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szőnyeget sző a mező elibéd,<br/>rád ragyog éjjel a csillagos ég.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Végtelen Tengerek Csillaga vagy,<br/>lábadat mossa a hószínű hab.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tiszta szemedben a béke dereng,<br/>szelíd áhítattal őriz a csend.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Értünk imádkozol Isten előtt,<br/>hinni tanítod a tévedezőt.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szánod a bűnöst, a bús beteget,<br/>felragyog benned a szép szeretet.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hódolatodra ha nyílik a szánk,<br/>szép neved így ejti: Édesanyánk!<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Földi zarándokok kórusa zeng,<br/>halld meg anyánk kegyesen odafent.<br/>Szárnyal a lélek, zendül az ének,<br/>Szentkúti Szűzanya, nézz le miránk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szűz Mária örömére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária örömére<br/>jöttünk ide, e szent helyre.<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megnyílt a templom ajtaja,<br/>ide vár a Szűz Mária.<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Messziről jöttünk el hozzád,<br/>hogy láthassuk szelíd orcád.<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oltárodhoz letérdelünk,<br/>Édesanyánk, mert szeretünk.<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fogadd kedvesen népedet,<br/>tisztelő vendégeidet!<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ölelj át szent szerelmeddel,<br/>áldást adj ránk szent kezeddel!<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nézd a szegény özvegy s árvát,<br/>azok is eljöttek hozzád!<br/>Köszönteni jöttünk a szép Szűz Máriát,<br/>az egeknek királyné Asszonyát.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Itt sírnak a szegény árvák,<br/>a szomorú özvegy anyák.<br/>Szűz Mária, kérünk, vígasztald meg őket,<br/>kik szent oltárodnál keseregnek!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Majd ha eljő a végóránk,<br/>Szűzanyánk jöjj te is hozzánk!<br/>Vezesd fel lelkünket a csillagos égbe,<br/>hogy veled lehessünk mindörökre!</lines>
+    </verse>
+  </lyrics>
+</song>

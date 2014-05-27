@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Magasztalja lelkem az én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztalja lelkem az én Uramat.<br/>Örvendezve élek szárnyai alatt.<br/>Szolgálója lettem, lepillantott rám,<br/>alázattal zengi dícséretét szám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami velem történt, nem volt soha még.<br/>Boldognak mond engem minden nemzedék.<br/>Nagyot művelt rajtam hatalmas keze,<br/>jóságában százszor szent az ő neve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalma leáradt, népünkre borult,<br/>félelmünkre szállott s a szívemre hullt.<br/>Hatalmas a karja, csak egyet suhint,<br/>s a kevélykedőket széjjelszórja mind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Letöri a gőgöst képzelt magasán,<br/>alázatos hívét áldja trónusán.<br/>Éhezőknek ételt tele kézzel ád,<br/>de a gazdagoktól zárja kapuját.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Izrael dolgára örök gondja van,<br/>szívén hordja népét nagy irgalmasan.<br/>Atyáinkhoz szólott ezredeken át,<br/>Ábrahám és magva ismerte szavát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsőség az Úrnak, áldjuk az Atyát,<br/>Fiút és a Lelket századokon át!<br/>Tudom, hogy mit adtál: töviskoronát.<br/>Áldott légy ma érte s minden koron át!</lines>
+    </verse>
+  </lyrics>
+</song>

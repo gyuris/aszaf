@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Gyullad az én szívem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyullad az én szívem Szűzanyámért,<br/>a tiszta szíveknek oltalmáért.<br/>Szerelmétől égek, valameddig élek,<br/>szívem feláldozom, neki adom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő a szép szeretet kegyes anyja,<br/>szívemnek csak hozzá van bizalma.<br/>Nyugtát nem találja szívem, csak őnála,<br/>ki azt szent fiának felajánlja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akit oltalmába vesz Mária,<br/>el nem hagyja soha őt Szent Fia.<br/>Jer hát oltalmamra, Jézusom Szűz Anyja,<br/>szívem hű szerelme ezt óhajtja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezt kéri virágul öröméhez,<br/>kéri orvosságul keservéhez.<br/>Anyai szerelmed hű oltalma mellett,<br/>Istentől a hű szív mindent nyerhet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentelje meg minden érzésemet,<br/>az éretted égő hű szeretet.<br/>Segíts megmaradnom, engedj élnem-halnom<br/>anyád szerelmében, óh Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

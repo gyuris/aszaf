@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Magyarország Nagyasszonya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magyarország Nagyasszonya, édes jó Anyánk,<br/>Mennyből, királyi székedből óh tekints le ránk!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tehozzád jöttünk mert szívünk utánad eped.<br/>Könyörülő jó szívedbe zárj be bennünket!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkünk drága színaranya, fogadj el minket!<br/>Vidd el kedves szent Fiadhoz esdeklésünket!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nézd Szűzanyánk, mily szép számban jöttünk el hozzád,<br/>hogy kitárjuk szíveinknek öröm s bánatát!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Árva hazánk Nagyasszonya, áldj meg bennünket!<br/>Ölelj át, mint megölelted szent Szülöttedet!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus fiad szent keresztje volt a vezérünk,<br/>melynek vezérfénye mellett tehozzád értünk.<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Reménységünk szép zöld fája, Isteni Anya,<br/>kinek élte Isten előtt oly kedves vala.<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó fogadj el hát bennünket, Mennyei Virág,<br/>kire borulva tekint föl az egész világ!<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Zengünk néked dicséretet, mint az angyalok.<br/>Áldjuk Istent, aki nekünk ily anyát adott.<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Egykor, ha majd nem jöhetünk téged tisztelni,<br/>és ha testünk koporsóban fog majd pihenni:<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Kihűlt szívünk ha nem dobog, s ajkunk nem szólhat,<br/>nem kell sírunkra nevednél drágább felírat:<br/>Üdvözlégy szép Szűz Mária, Jézus szent Anyja!<br/>Légy nekünk is édesanyánk, ne hagyj el soha!</lines>
+    </verse>
+  </lyrics>
+</song>

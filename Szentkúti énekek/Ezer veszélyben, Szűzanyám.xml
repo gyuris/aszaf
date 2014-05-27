@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ezer veszélyben, Szűzanyám</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ezer veszélyben, Szűzanyám, te védj meg engemet!<br/>Ha látod síró gyermeked, töröld le könnyemet!<br/>Anyám, Anyám, óh jó Anyám, csak benned bízom én,<br/>hogy szent Fiadhoz elvezetsz, ha éltem véget ér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, Tenger Csillaga, feléd tekintek én.<br/>Ha ver az élet vihara, sorsom rád bízom én.<br/>Vezess az ingó habogok, hogy ha majd partot ér,<br/>lehessek égi honodban örökre boldog én!</lines>
+    </verse>
+  </lyrics>
+</song>

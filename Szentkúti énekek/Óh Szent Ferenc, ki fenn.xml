@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Óh Szent Ferenc, ki fenn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh Szent Ferenc, ki fenn az égben angyalsereg között lakol.<br/>Szeretetünk tanújaképpen kérő szavunk feléd hatol.<br/>Vigyázzon ránk szemed sugára, miként a pásztor csendes nyájra,<br/>hogy soha el ne tévedjünk, óh Szent Ferenc, óh légy velünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh Szent Ferenc, kinek élte merő bűnbánat, hódolat.<br/>Kiben egy szebb világ reménye tűrő lemondást oltogat.<br/>Kinek a gyötrelem öröm volt, kinél nem tisztább a fehér hold!<br/>Tisztítsd meg bűnös életünk, óh Szent Ferenc, óh légy velünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh Szent Ferenc, kit bölcsőjében, miként Jézust, csoda köszönt.<br/>Istállóban születsz szegényen, habár oly nagynak tart a föld.<br/>Taníts meg, hogy nyomor ölében, erények rózsalevelére,<br/>örömmel mint pihenhetünk, óh Szent Ferenc, óh légy velünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Óh Szent Ferenc, kinek halála a boldog élet kezdete,<br/>kinek csodák közt hült porára babért tetéz ég s föld kegye,<br/>kinek erényeit hű rendje ápolja szent tiszteletedre.<br/>S ha majd halálunk üt nekünk, óh Szent Ferenc, óh légy velünk!</lines>
+    </verse>
+  </lyrics>
+</song>

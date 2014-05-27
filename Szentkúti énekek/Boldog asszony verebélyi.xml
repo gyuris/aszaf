@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Boldog asszony verebélyi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog asszony verebélyi Szentkút fényes csillaga.<br/>Hozzád jöttünk Édesanyánk mennyországnak kapuja.<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cserhát-völgyben Szent László a Szentkút vizét fakasztja.<br/>Anyánk, szíved testi-lelki bajainkat gyógyítja.<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verebélyi néma pásztor látott téged, jó Anyánk.<br/>Élővízzel nyitod hangját, hálás szívvel felkiált!<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Kegyelemmel teljes asszonyt láttam a lombkoronán!<br/>Máriát, kis Jézusával, nem felejtem soha már!”<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amint egykor te voltál az Isten Fia temploma,<br/>„Boldogasszony Bazilika” itt a Szentség sátora.<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeplőtelen szent Szívednek felajánljuk magunkat.<br/>Jézust nyújtod te cserébe s véded ember-voltunkat.<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vársz minket itt Édesanyánk, Magyarok Nagyasszonya,<br/>S Jézus Krisztus, Isten Fia, áldott méhed magzata.<br/>Szeplőtelen szíved legyen menedékünk Szűz Mária!<br/>Szeplőtelen szíved legyen Istenhez útunk Szűzanya!</lines>
+    </verse>
+  </lyrics>
+</song>

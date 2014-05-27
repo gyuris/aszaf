@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Kinyílott a legszebb virág</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kinyílott a legszebb virág,<br/>a Szeplőtlen Fogantatás,<br/>itt ragyog a legszebb rózsa,<br/>boldogságos Szűz Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt tündöklik az oltáron,<br/>mint a harmat a rózsákon,<br/>itt ragyog az Isten anyja,<br/>boldogságos Szűz Mária.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Piros pünkösdi szép rózsa,<br/>Szentléleknek szép mátkája,<br/>üdvözlégy ó legszebb virág,<br/>kitől gyógyul egész világ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjjön ide a bús árva,<br/>mert itt van a legjobb anya,<br/>ki híveit vigasztalja,<br/>boldogságos Szűz Mária.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjjetek ti is, özvegyek,<br/>ne hulljon fájó könnyetek,<br/>itt a vigasztalás anyja,<br/>boldogságos Szűz Mária.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogyha üt majd a végóra,<br/>jöjj el hozzánk, Szűz Mária,<br/>szent fiadat kérd érettünk,<br/>mennyországba bemehessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

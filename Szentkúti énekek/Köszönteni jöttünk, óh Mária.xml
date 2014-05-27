@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Köszönteni jöttünk, óh Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Köszönteni jöttünk, óh Mária,<br/>néked hálát adni, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy szeretetedért, óh Mária,<br/>sok könyörgésedért, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága szent nevedért, óh Mária,<br/>hét örömeidért, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hét szív fájdalmidért, óh Mária,<br/>szíved gyötrelmiért, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Esedezz érettünk, óh Mária,<br/>buzgó szívvel kérünk, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Minden szükségünkben, óh Mária,<br/>keserűségünkben, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Halálunk óráján, óh Mária,<br/>nyerj kegyelmet nekünk, Krisztus anyja.<br/>Köszöntünk tégedet Mária,<br/>Mária, Úr Jézus szent anyja,<br/>angyalok királyné asszonya.</lines>
+    </verse>
+  </lyrics>
+</song>

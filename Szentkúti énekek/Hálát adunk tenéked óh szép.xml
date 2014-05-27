@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Hálát adunk tenéked óh szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adunk tenéked óh szép Szűz Mária!<br/>Elvégzett buzgó imánk szálljon mennyországba!<br/>Hogy máskor is elmondjuk e szép esti imát:<br/>Adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérünk szép Szűz Mária, siess oltalmunkra,<br/>ha látod, hogy veszély jön a mi hajlékunkra!<br/>Isten után tenálad nyerünk vigasztalást.<br/>Adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te lettél, Szűz Mária, mindnyájunknak anyja,<br/>meg is ígérted nekünk, hogy nem hagysz el soha.<br/>Légy velünk éjjel-nappal, kísérj bennünek át!<br/>Adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj el velünk Szűzanyánk, kísérj hajlékunkba,<br/>hogy ott lepihenhessünk csendes nyugalomra!<br/>Akkor nem éri vész alvásunk nyugalmát,<br/>adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kérünk, őrző Angyalunk, te is vigyázz reánk,<br/>hogy meg ne kísértsen az álnok, gonosz Sátán!<br/>Eltávozik mitőlünk, ha látja Máriát,<br/>adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fényes csillag, Mária, Őrzőangyalunkkal<br/>pártfogásunkra siet kegy Úr Jézussal.<br/>Végre mindnyájan kérjük a lelkünk nyugalmát,<br/>adjon Isten minékünk csendes jó éjszakát!</lines>
+    </verse>
+  </lyrics>
+</song>

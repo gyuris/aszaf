@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Dicsénekem örvendve zengem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsénekem örvendve zengem, királyi Szűzanyám, neked.<br/>Ajándékot hozok szívemben, fogadd el, s meg ne vond kegyed.<br/>Ha szenvedés ér itt, e földön, fogadd el, néked áldozom.<br/>Tudom, hogy rám is gondolsz ott fenn, kegyes Szűz, tiszta liliom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg ez árnyékvilágban élek, szemem lezárja a halál,<br/>példád követni nem szűnök meg, ha balsors vagy szerencse vár.<br/>S ha majdan eljő a nagy óra, vedd karjaidba lelkemet,<br/>s vidd e nyomorból szent Fiadhoz, egy szebb hazába gyermeked!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha kinn az élet tengerében süvölt az orkán, dúl a vész,<br/>sajkám ebben a tengerárban benned remélve el nem vész.<br/>Ha bűn hulláma eltemetne, Anyám, ó jöjj, segítsd fiad,<br/>nyújtsd ki felém karod szeretve, Szíved szerelme enyhet ad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én messze jártam, tőled távol, elhagytalak, ó jó Anyám!<br/>Hamis gyönyört a bűnmocsárban szomjaztam itt a föld porán.<br/>Most visszatérek térdre hullva, megtértek anyja: Mária.<br/>Téged szeretlek forrón, újra, szívemnek Hajnalcsillaga!</lines>
+    </verse>
+  </lyrics>
+</song>

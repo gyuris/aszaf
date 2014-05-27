@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Istennek Anyja! Óh légy</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istennek Anyja! Óh légy oltalma magyar népednek, ó Mária!<br/>Hallgasd imánkat, védd meg hazánkat, Te vagy e Honnak Nagyasszonya!<br/>Védd meg e szép hazát! Óvd meg viharokon át!<br/>Előtted térdelünk, tehozzád esedezünk!<br/>Édes Nagyasszony, kérünk maradjon anyai jóságod mindig velünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérünk, figyelj ránk, hallgasd meg imánk, könyörgve esdünk, ne hagyd néped!<br/>Vihar dúl felénk, óh légy a segély, hisz te vagy e honnak Nagyasszonya!<br/>Védd meg e szép hazát! Óvd meg viharokon át!<br/>Előtted térdelünk, tehozzád esedezünk!<br/>Édes Nagyasszony, kérünk maradjon anyai jóságod mindig velünk!</lines>
+    </verse>
+  </lyrics>
+</song>

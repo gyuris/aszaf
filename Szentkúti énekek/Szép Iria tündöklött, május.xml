@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szép Iria tündöklött, május</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szép Iria tündöklött, május volt éppen,<br/>s Te eljöttél, Mária, mennyei fényben.<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A föld színét öldöklő háború dúlja,<br/>mondd jó Anyánk, lesz-e még békesség újra?<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S Te itt vagy, hogy három kis gyermeket válassz,<br/>kik gyötrődő lelkünknek hozzák a választ.<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„A jó hír, halld, így hangzik: Lesz újra béke,<br/>ha szívetek szüntelen esdekel érte!”<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Olvasót minden nap hűséggel végezd,<br/>s az Jézussal eggyé fűz, oltalmaz téged.<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te jó Anya, szívedet hoztad el nékünk,<br/>hogy jóságod kelyhéből Jézusnak éljünk.<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Asszonyunk, Mária, drága jó Anyánk,<br/>jaj, ne hagyj el, oltalmad terjeszd ki reánk!<br/>Ave, Ave, Ave Maria,<br/>Ave, Ave, Ave Maria!</lines>
+    </verse>
+  </lyrics>
+</song>

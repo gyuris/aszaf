@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Óh isteni titkos mély</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh isteni titkos mély Szentség,<br/>óh elrejtett Istenség.<br/>Kit meg nem foghat, szemmel nem láthat<br/>emberi érzékenység.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh Jézusom, nagy Szentségedet,<br/>hiszem jelenlétedet.<br/>Könnyeket ontva, s földig borulva<br/>áldom szent fölségedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én nem vagyok méltó járulni<br/>szent testedhez borulni.<br/>De csak egy szóval mondjad s azonnal<br/>lelkem meg fog gyógyulni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tekints rám kegyesen orvosom,<br/>vidd jóra bűnös sorsom.<br/>Egyedül jóvá, jóra hajlóvá<br/>te tehetsz, óh Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

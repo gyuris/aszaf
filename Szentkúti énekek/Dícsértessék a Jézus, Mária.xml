@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Dícsértessék a Jézus, Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dícsértessék a Jézus, Mária neve!<br/>összejöttünk Szűzanyánk köszöntésére.<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>palástoddal takarj be, úgy vigyázz reánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Messze földről eljöttünk, hozzád fáradtunk,<br/>Édesanyánk teneked bús szívet hoztunk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>palástoddal takarj be, úgy vigyázz reánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljöttek a bús árvák ide tehozzád,<br/>ajándékul teneked bús szívet hozván.<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>palástoddal takarj be, úgy vigyázz reánk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Világbékét adj nekünk, Jézus szent Anyja,<br/>eszközöld ki Fiadnál, egek Asszonya!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>palástoddal takarj be, úgy vigyázz reánk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha eljön életünknek utolsó napja,<br/>kérünk, jöjj el mihozzánk, szép szűz Mária!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.<br/>Nem vagyunk árvák, van édesanyánk,<br/>palástoddal takarj be, úgy vigyázz reánk!</lines>
+    </verse>
+  </lyrics>
+</song>

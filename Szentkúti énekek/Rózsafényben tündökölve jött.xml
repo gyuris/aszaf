@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Rózsafényben tündökölve jött</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rózsafényben tündökölve jött fel mireánk e kedves nap.<br/>Itt ragyog e drága Szűz elöttünk, zengje minden szív és ajk!<br/>Kármelhegynek tündöklő Csillaga, skapuláré kinyílt szép Rózsája,<br/>ölelj minket szentséges szívedre, te legjobb Édesanya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged dicsér mind az egész világ, tebenned gyönyörködünk,<br/>akik hozzád, kedves Édesanyánk, szeretettel eljöttünk.<br/>Kármelhegynek tündöklő Csillaga, skapuláré kinyílt szép Rózsája,<br/>ölelj minket szentséges szívedre, te legjobb Édesanya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem találunk oly jó édesanyát, sehol e nagy világon,<br/>mint tégedet, szentséges Szűzanya, Kármelhegy szép virága.<br/>Kármelhegynek tündöklő Csillaga, skapuláré kinyílt szép Rózsája,<br/>ölelj minket szentséges szívedre, te legjobb Édesanya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fájós szívvel esdeklünk tehozzád, kérünk tekints mireánk!<br/>Hervadozó hazánkat ó halld meg! Így kiáltunk tehozzád:<br/>Kármelhegynek tündöklő Csillaga, skapuláré kinyílt szép Rózsája,<br/>ölelj minket szentséges szívedre, te legjobb Édesanya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Fiadat könyörgéseiddel engeszteld ki irántunk!<br/>Fordítsa el tőlünk szent haragját, könnyezve itt zokogunk.<br/>Kármelhegynek tündöklő Csillaga, skapuláré kinyílt szép Rózsája,<br/>ölelj minket szentséges szívedre, te legjobb Édesanya!</lines>
+    </verse>
+  </lyrics>
+</song>

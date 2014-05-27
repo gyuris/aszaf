@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Van egy szent hely, oda</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy szent hely, oda megyek,<br/>lerakom ott a terheket.<br/>Ott fenn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha bűnös vagy, odamehetsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emberekért ömlött a vér,<br/>kegyelmet kap az, aki kér.<br/>Ott fenn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha bűnös vagy, odamehetsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csodálatos ez a titok,<br/>szellemével megragadott.<br/>Ott fenn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha elhagytad, visszamehetsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azóta tart a kapcsolat,<br/>ő vigyáz rád, el ne szakadj!<br/>Ott fenn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>Isten Szívén megpihenhetsz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keresni jött, mi elveszett,<br/>megtört szívű embereket.<br/>Ott fenn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha bűnös vagy, odamehetsz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Csendes alkony száll a földre</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csendes alkony száll a földre,<br/>munka és gond elpihen.<br/>Édes Jézus, hozzád jöttem,<br/>pihenni szent Szíveden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök lámpa őrzi csendben<br/>szereteted szent lakát,<br/>angyal karok zengik halkan:<br/>Édes Jézus, jó 'jszakát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édes Jézus, áldj meg minket,<br/>védj meg isteni Barát,<br/>engemet is enyéimmel,<br/>s adj nekünk jó éjszakát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édes Jézus, későre jár,<br/>búcsúzom is tőled már,<br/>de mégegyszer köszöntelek,<br/>kívánok jó éjszakát.</lines>
+    </verse>
+  </lyrics>
+</song>

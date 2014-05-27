@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Vezetsz Uram, vezetsz, érzem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezetsz Uram, vezetsz, érzem szent kezedet,<br/>veszélyes szirteken, sötét ormok felett.<br/>Zajló hullámokon, hol minden elhagyott,<br/>utamra fényt derít rezgő csillagzatod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy az irgalom, te vagy a szeretet,<br/>mindenható, örök, jó mindenek felett.<br/>villámos vész helyett a békét te adod,<br/>Anyánk esdeklését kegyesen hallgatod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vezess Uram, vezess, ha vétek megkísért,<br/>hogy el ne hagyjalak tűnő világokért!<br/>Zúgó vihar nem árt, letörlöm könnyemet,<br/>újult erőt te adsz, viszem keresztemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majd révbe érkezem, megállok egykoron,<br/>viharveszély után ünneplő halmokon.<br/>Fehér virág nyílik, könnyezni nem lehet,<br/>megáldod egykoron súlyos keresztemet.</lines>
+    </verse>
+  </lyrics>
+</song>

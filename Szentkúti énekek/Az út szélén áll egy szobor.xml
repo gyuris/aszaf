@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Az út szélén áll egy szobor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az út szélén áll egy szobor, Szűz Mária szobra.<br/>Odamegyek alkonyatkor, lehajlok a porba.<br/>Bűneimnek terhe alatt összecsuklik térdem:<br/>Imádkozzál bűnösökért, imádkozzál értem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megvallom a bűneimet, lerogyok a földre.<br/>Óh ne engedj Szűz Mária elvesznem örökre!<br/>Szánj meg engem Édesanyám, szent kezed nyújtsd felém!<br/>Szobrod előtt megfogadom, hű fiad leszek én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elcsendesül a föld zaja, nyugodtabb a lélek,<br/>elköszönök Máriától, de még visszatérek.<br/>Mosoly ül a szobor arcán, mintha boldog lenne,<br/>Mária nem hagy el senkit, aki bízik benne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reményt öntött a szívembe Mária mosolya,<br/>tudom, engem is meghallgat és nem hagy el soha.<br/>Velem lesz majd, ha szememre visszaszáll az álom,<br/>és akkor is, ha majd egyszer örökre lezárom.</lines>
+    </verse>
+  </lyrics>
+</song>

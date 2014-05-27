@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ezer éves nemzetünknek csodás</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ezer éves nemzetünknek csodás pártfogója,<br/>hű magyarjaid köszöntnek, hisz kezed megóvta.<br/>Királynőül választottak, Mennynek Királynője,<br/>nagy hatalmad szerelmeddel légy tovább is őre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Koronázzuk szent fejedet szívünk virágával,<br/>melyet terem a szerelem égi sugarával.<br/>Alázattal odahajlunk lábaidhoz bízva,<br/>hogy a te hű magyar néped kegyelmed megkapja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vezérled lépteinket s kísérsz a csatában,<br/>melyet vívunk a rossz ellen, vészek viharában.<br/>A te zászlód el nem hagyjuk utolsó csepp vérig,<br/>és a jónak szent csatáját győzve küzdjük végig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagyasszonya nemzetünknek, oltalmazd meg néped,<br/>melyet István fölajánlott pártfogásra néked.<br/>Légy az újabb ezer évben nemzetünknek anyja,<br/>hogy kegyelme szent fiadnak bűnünk meghaladja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akkor lesz majd a magyarnak igaz boldogsága,<br/>ha teveled örvendezhet mennyed sugarába'.<br/>A te trónod lépcsőjéhez szeretettel állhat,<br/>s fiad üdve minden lelket dicsőülten áthat.</lines>
+    </verse>
+  </lyrics>
+</song>

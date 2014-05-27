@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Isten veled drága szent hely</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten veled drága szent hely, ütött az óra,<br/>amely minket búsan szólít az elválásra.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amilyen nagy öröm volt e szent helyre jönni,<br/>éppen olyan szomorú most innen elválni.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten veled békességnek tisztelt hajléka,<br/>a mi drága Szűzanyánknak ékes temploma.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten veled aranyoltár, melybe rejtve van<br/>az Úr Jézus Krisztus a szent Szakramentomban.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten veletek ti buzgó lelkiatyáink,<br/>kik lelkünkről levettétek a bűn rabláncát.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldd meg, Isten, e helységnek minden lakóit,<br/>akik szívesen fogadták Jézus híveit.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldd meg, Isten, őket is, kik el nem jöhettek,<br/>engedd, hogy örömkönnyek közt láthassuk őket!<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gyere velünk Édesanyánk, ha most elmegyünk,<br/>anyai jóságod nélkül nem is élhetünk.<br/>Szűzanyánk, Isten veled, áldd meg hű gyermekidet,<br/>fájó szívvel, könnyes arccal búcsúzunk tőled.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ha elérjük az utolsó nagy búcsú napját,<br/>ha reánk borítják egykor a gyász sírhantját,<br/>legyen üdvös halálunk és boldog örök álmunk,<br/>örvendetes dicsőséges feltámadásunk.</lines>
+    </verse>
+  </lyrics>
+</song>

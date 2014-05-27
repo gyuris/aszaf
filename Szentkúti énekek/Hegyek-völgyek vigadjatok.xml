@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Hegyek-völgyek vigadjatok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hegyek-völgyek vigadjatok,<br/>erdők, mezők kiáltsátok:<br/>Szent Istennek Anyja,<br/>az egek Királynéja!<br/>Mi is Gábriel angyallal,<br/>mondjuk hévvel, mondjuk lánggal:<br/>Üdvözlégy, áldott légy szentkúti Gyöngyvirágszál,<br/>szívünkben virágozzál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velünk köszöntse föld és ég,<br/>Szűz Mária dicsőségét,<br/>mert Fia, ki karján tart,<br/>érte szeret és megtart.<br/>Mi is Gábriel angyallal,<br/>mondjuk hévvel, mondjuk lánggal:<br/>Üdvözlégy, áldott légy szentkúti Gyöngyvirágszál,<br/>szívünkben virágozzál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kék egeknek csillagai,<br/>tenger zúgó hullámai,<br/>a szűzek szent Szűzének<br/>jóságát hirdessétek!<br/>Mi is Gábriel angyallal,<br/>mondjuk hévvel, mondjuk lánggal:<br/>Üdvözlégy, áldott légy szentkúti Gyöngyvirágszál,<br/>szívünkben virágozzál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az egész teremtett világ,<br/>a bűnös föld és mennyország,<br/>angyalok és emberek,<br/>Máriát dicsérjétek!<br/>Mi is Gábriel angyallal,<br/>mondjuk hévvel, mondjuk lánggal:<br/>Üdvözlégy, áldott légy szentkúti Gyöngyvirágszál,<br/>szívünkben virágozzál!</lines>
+    </verse>
+  </lyrics>
+</song>

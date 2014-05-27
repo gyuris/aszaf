@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Óh Nagyasszony, nemzetünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh Nagyasszony, nemzetünk reménye, rádszegezzük könnytelt szemeink.<br/>Veszni indult István öröksége, szép kertedben őserényeink.<br/>Szállj közénk és sírj te is velünk, vígasztald és mentsd meg nemzetünk!<br/>Szállj közénk és sírj te is velünk, vígasztald és mentsd meg nemzetünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ifjúságunk hófehér virága porba hullott, alszik szent hite.<br/>Hő szerelmed s szereteted lángja nem hevít kihűlt magyar szívet.<br/>Szép Nagyasszony, hullass könnyeket, könnyeiddel mentsd meg nemzeted!<br/>Szép Nagyasszony, hullass könnyeket, könnyeiddel mentsd meg nemzeted!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh magyar nép apraja és nagyja, ölts magadra bűnbánó ruhát!<br/>Mély keserved s fájdalmaid jajja töltse be a vétkező hazát.<br/>Hozzá sírj, csak sírj, hisz még szeret, jó Nagyasszony, mentsd meg népedet!<br/>Hozzá sírj, csak sírj, hisz még szeret, jó Nagyasszony, mentsd meg népedet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár ha bűnünk száma végtelen nagy, hőn könyörgünk, drága Szűzanyánk.<br/>Tartsd fölöttünk anyai palástod, fordítsd el az Isten ostorát.<br/>Míg te élsz a csillagok felett, e hazának veszni nem lehet.<br/>Míg te élsz a csillagok felett, e hazának veszni nem lehet.</lines>
+    </verse>
+  </lyrics>
+</song>

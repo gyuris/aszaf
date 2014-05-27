@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Uram, jó nekünk itt lenni</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, jó nekünk itt lenni a te szent hajlékodban.<br/>Veled egyesülhet lelkünk itt az oltártitokban.<br/>Értünk dobog itt szent Szíved, mely bűnünkért szenvedett,<br/>Uram, jó nekünk itt lenni, hőn szeretni itt lehet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, jó nekünk itt lenni, hol kegyelmed várva vár.<br/>Hová mindig visszatérünk, Szíved mindig nyitva áll.<br/>Bármily messze tévelyedtünk, nagy irgalmad ránk talál.<br/>Uram, jó nekünk itt lenni, hol szívünk nyugtot talál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, jó nekünk itt lenni, érdemünk bár oly kevés.<br/>Könnyű lesz itt életterhünk és édes a szenvedés.<br/>Szívünket ha megérinti szent kegyelmed balzsama,<br/>Uram, jó nekünk itt lenni, nem hagyunk el már soha.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Isten hozott messze földről</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten hozott messze földről titeket<br/>Máriához, s a lángoló szeretet.<br/>Üdvözlégy, óh Egek Királynéja,<br/>a Szentkútnak ragyogó Csillaga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elsiettünk hozzád Szentkút Csillaga,<br/>hogy részesülhessünk szent áldásodban.<br/>Üdvözlégy, óh Egek Királynéja,<br/>a Szentkútnak ragyogó Csillaga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ide siessetek árvák, özvegyek,<br/>mert ti itt mindnyájan vigaszt nyerhettek.<br/>Üdvözlégy, óh Egek Királynéja,<br/>a Szentkútnak ragyogó Csillaga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy örömmel jöttünk őt köszönteni,<br/>szívünk szeretetét elhoztuk neki.<br/>Ő a legszebb, legédesebb anya,<br/>aki hű gyermekét meghallgatja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr Jézus Krisztust ölében tartja,<br/>anyai szent jobbját áldásra nyújtja.<br/>Ő a legszebb, legédesebb anya,<br/>aki hű gyermekét meghallgatja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mosolygó arccal néz vendégeire,<br/>kik messziről jöttünk köszöntésére.<br/>Ő a legszebb, legédesebb anya,<br/>aki hű gyermekét meghallgatja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó de boldog, aki ide eljöhet,<br/>drága szent képedben itt gyönyörködhet.<br/>Ő a legszebb, legédesebb anya,<br/>aki hű gyermekét meghallgatja.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szentkúti kegyes Szűz, édes jó anyánk,<br/>égi trónusodról tekints le reánk.<br/>Tekints reánk legjobb édesanya,<br/>a Szentkútnak ragyogó csillaga.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Te vagy magyar hazánk oltalmazója,<br/>imádkozzál értünk, Jézus szent Anyja,<br/>szeress minket, Egek Királynéja,<br/>a Szentkútnak ragyogó Csillaga.</lines>
+    </verse>
+  </lyrics>
+</song>

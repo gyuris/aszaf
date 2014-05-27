@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Isten hozzád szent Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten hozzád szent Szűz, nekünk el kell menni,<br/>ütött már az óra, útra kell indulni.<br/>Kesereg a szívünk, mert búcsút kell venni,<br/>drága szentképedtől jaj, már el kell válni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh mily nagy öröm volt minékünk itt lenni,<br/>szentkúti kegyes Szűz, benned gyönyörködni!<br/>De már meg kell válni, könnyeink hullanak,<br/>az árvák s özvegyek velünk együtt sírnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönjük Szűzanyánk, nagy szeretetedet,<br/>ki megvigasztaltad szomorú szívünket.<br/>Anyai áldással bocsáss el bennünket,<br/>jaj, mert nem tudhatjuk, láthatunk-e többet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elédbe borulunk, óh szép Szűz Mária,<br/>szentkúti templomnak ékes szép csillaga.<br/>Te szent oltalmadba ajánljuk magunkat,<br/>óh tárd ki felettünk, Anyánk, karjaidat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten veled Anyánk, sírva így kiáltunk,<br/>drága szentképedtől mivel már megválunk.<br/>Talán most tégedet utoljára látunk,<br/>jöhetünk-e hozzád többször, nem tudhatjuk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szerencsés utazást nyerj te mindnyájunknak,<br/>Jézus szent Fiadtól tisztelő nyájadnak.<br/>Most és halálunkkor jöjj segítségünkre,<br/>óh szentkúti szép Szűz, vezess fel mennyekbe!</lines>
+    </verse>
+  </lyrics>
+</song>

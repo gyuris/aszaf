@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Szentkútnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Szentkútnak tündöklő Csillaga,<br/>szép magyar hazánknak Királyné Asszonya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te köszöntésedre messziről fáradtunk,<br/>kedves édesanyánk, könyörülj mirajtunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Honnan érdemeltük ezt a nagy kegyelmet,<br/>hogy most megláthattunk drága szent képedet?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majd meghasad szívünk most a nagy örömben,<br/>orcáink megáznak szemeink könnyében.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tekints le, Mária, hű tisztelőidre,<br/>add ránk áldásidat kedves vendégidre.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szentkútnak csillaga ragyogj a szívünkben,<br/>kik hozzád sóhajtunk nagy keserűségben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szomorú a szívünk, bánattal telve van,<br/>kedves édesanyánk, reményünk benned van.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mert te vagy az árvák kegyes szószólója,<br/>a szomorú szívek megvígasztalója.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Az árvák, özvegyek sírását hallgasd meg,<br/>imádságainkat, Mária, ne vesd meg!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ne sírjatok árvák, itt van Szűzanyátok,<br/>örömre fordítja nagy szomorúságtok.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Légy velünk, Mária, e földi életbe',<br/>és ha majd kimúlunk, te vezess mennyekbe.</lines>
+    </verse>
+  </lyrics>
+</song>

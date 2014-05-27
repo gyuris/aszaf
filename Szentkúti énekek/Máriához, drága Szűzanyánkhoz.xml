@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Máriához, drága Szűzanyánkhoz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriához, drága Szűzanyánkhoz tisztelettel járulunk.<br/>Őt dicsérje hangos énekével bizodalmas szózatunk.<br/>Mennyországnak szende Királynéja, Magyaroknak kegyes Pártfogója,<br/>jóra térő bánatos kebellel lábaidhoz borulunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Máriában kelt fel a világnak tiszta fényű csillaga.<br/>Benne támadt lelki üdvösségünk leggyönyörűbb hajnala.<br/>Üdvözölt légy Kármel (vagy: Szentkút) ékessége, szétsugárzó kegyelmek edénye.<br/>Telt edény és benne sebeinknek gyógyerejű balzsama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Máriánál, égi pártfogónknál van segítség, oltalom.<br/>Mint a harmat, száll szívéből ránk is csendesítő bizalom.<br/>Hét örömmel áldva Istenünktől, szent öröm közt vált meg életétől.<br/>Elvitetvén mennynek országába, örök élte vigalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Máriának vállruhája rajtunk! Gyermekének ismeri:<br/>ki beírva egylete sorába e közös jelt viseli.<br/>Ékesítve szent ruházatával, mint erős szent védelme pajzsával,<br/>lelkünket a szörnyű kárhozatnak lángja már nem emészti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Máriáért lelki fegyverinkkel mindhalálig harcolunk.<br/>Mert hazánknak ő dicső vezére, ő királyné asszonyunk.<br/>Bölcs vezére minden harcainknak, ha veszélyek ellenünk rohannak.<br/>Szűzanyánk, végy karjaidba minket, amidőn majd meghalunk!</lines>
+    </verse>
+  </lyrics>
+</song>

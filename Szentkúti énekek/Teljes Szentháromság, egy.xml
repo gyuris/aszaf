@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Teljes Szentháromság, egy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teljes Szentháromság, egy igaz Isten,<br/>tégedet imádva így dícsér lelkem:<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te felségednek királyi széke,<br/>örökkévalóság tündöklő fénye.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örökkévalóság vesz körül téged,<br/>kezdete és vége nincsen idődnek.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végtelen titkodnak oly nagy a mélysége,<br/>mely előtt porba hull a gyarló elme.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Végtelen időknek végtelen Ura,<br/>aki a világot kezében tartja.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Birodalmad az ég, zsámolyod a föld,<br/>melyeket felséges szent neved betölt.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Angyalok borulnak előtted térdre,<br/>tehozzád száll fel az emberek lelke.<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mi is teremtményid porba borulunk,<br/>és az angyalokkal így magasztalunk:<br/>Szent vagy, szent vagy Seregeknek Ura,<br/>úgy a földön, mint a mennyországban!</lines>
+    </verse>
+  </lyrics>
+</song>

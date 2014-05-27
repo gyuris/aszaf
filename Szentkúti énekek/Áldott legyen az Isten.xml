@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Áldott legyen az Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott legyen az Isten!<br/>Áldott legyen szent neve!<br/>Áldott legyen Jézus Krisztus, valóságos Isten és valóságos ember!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott legyen Jézus neve!<br/>Áldott legyen szentséges Szíve!<br/>Áldott legyen Jézus drágalátos  Vére!<br/>Áldott legyen Jézus a legméltóságosabb Oltáriszentségben!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott legyen a Vígasztaló Szentlélek!<br/>Áldott legyen Isten fölséges anyja, Mária!<br/>Áldott legyen szent és szeplőtelen fogantatása!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott legyen a Szűz és Anya neve: Mária!<br/>Áldott legyen Szent József, Mária tisztaságos jegyese!<br/>Áldott legyen az Isten az Ő angyalaiban és szentjeiben! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

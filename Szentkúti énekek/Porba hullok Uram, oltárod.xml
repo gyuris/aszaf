@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Porba hullok Uram, oltárod</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porba hullok Uram, oltárod elött.<br/>Hogy imádhassalak, adj lelki erőt.<br/>Hiszem, hogy jelen vagy e Szentségben,<br/>éppen úgy, miként a magas égben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ámbár nem láthatok mást, mint kenyeret,<br/>de már Isten szava hangzott afelett,<br/>ki a nagy világot teremtette,<br/>annak szent Igéje testté tette.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betlehem sem látott mást, mint kisdedet,<br/>Golgotán kín közt is ember szenvedett.<br/>Ott csillag vallá őt Istenének,<br/>itt a nap, mint Urát könnyezé meg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kánai mennyegzőn borrá lőn a víz,<br/>hogy ezt is elhiggyem, a tény arra visz.<br/>Messze fut a kétely vak homálya,<br/>ha lobog a hitnek szent fáklyája.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Valamint hirdette a jászol s kereszt,<br/>hogy minket, óh Jézus, mily forrón szeretsz.<br/>Úgy hirdeti itten szent oltárod,<br/>hogy Szívedet most is felénk tárod.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Imádom, Jézusom, istenségedet,<br/>imádom, Jézusom, tested és véredet,<br/>amennyi csillag van a szép égen,<br/>áldassál annyiszor e Szentségben!</lines>
+    </verse>
+  </lyrics>
+</song>

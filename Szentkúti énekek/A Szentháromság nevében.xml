@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>A Szentháromság nevében</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Szentháromság nevében nyugodjatok békébe',<br/>akiknek édes hazánkért folyt ki a piros vére.<br/>Kik messze távolban, idegen országban<br/>nyugosznak közös sírban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fájó szívvel emlékezünk a ti szenvedéstekre,<br/>akik ott a csatatéren meghaltatok a vérbe'.<br/>Kik messze távolban, idegen országban<br/>nyugosznak közös sírban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem tudjuk, hogy hol sírotok, nem hintünk rá virágot,<br/>értetek a Jó Istenhez mennybe küldjük imánkat.<br/>Kik messze távolban, idegen országban<br/>nyugosznak közös sírban.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Koszorúkat nem vihetünk a ti sírhalmitokra,<br/>mert nem tudjuk hol van a sír az idegen távolba'.<br/>Kik messze távolban, idegen országban<br/>nyugosznak közös sírban.</lines>
+    </verse>
+  </lyrics>
+</song>

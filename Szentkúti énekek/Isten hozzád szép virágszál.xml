@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Isten hozzád szép virágszál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten hozzád szép virágszál, ki Istentől plántáltattál!<br/>Isten hozzád Szűzanya, e szép templom csillaga!<br/>Légy velünk utazásunkban, e szent búcsújárásunkban!<br/>Mária, Mária, Mária kegyes Anyánk, tekints kegyesen reánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily nagy öröm volt itt lenni, drága szentképed szemlélni,<br/>kedves vendégeiddel, buzgó tisztelőiddel.<br/>Isten hozzád, áldott szent Szűz, mennyből világító szép Tűz!<br/>Mária, Mária, Mária kegyes Anyánk, utunkban vigyázz reánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, mily nagy fájdalom éri szívünket, hogy el kell menni,<br/>drágalátos képedtől, csodatevő helyedtől.<br/>Isten hozzád Szűz Mária, árvák-özvegyek gyámola!<br/>Mária, Mária, Mária reménységünk, légy utunkban vezérünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi is vendégeid voltunk, kik most tőled elbúcsúzunk,<br/>várunk szent áldásodra, úgy eressz utunkra!<br/>Isten hozzád Szűz Mária, a szép kegyhelynek fáklyája!<br/>Mária, Mária, terjeszd ki szent karodat, add mennyből áldásodat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten hozzád Édesanyánk, ó ha többet nem láthatnánk,<br/>bevésünk a szívünkbe, tisztelünk életünkbe'.<br/>Isten hozzád drága szép Kincs, magas mennyből reánk tekints!<br/>Mária, Mária, óh ne hagyj el, légy velünk, légy utunkon vezérünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten hozzád, már elmegyünk, veled, Anyánk, nem lehetünk,<br/>óh bocsásd meg a vétkünk, ha buzgón nem tisztelünk!<br/>Isten hozzád, már elválunk, hogyha többet nem láthatunk,<br/>Mária, Mária, jöjj el a végóránkra, vezess a mennyországba!</lines>
+    </verse>
+  </lyrics>
+</song>

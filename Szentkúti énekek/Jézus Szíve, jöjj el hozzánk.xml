@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Jézus Szíve, jöjj el hozzánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szíve, jöjj el hozzánk,<br/>szent fényeddel mosolyogj ránk!<br/>Légy örömünk és mindenünk,<br/>jóságodat add érettünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Szíve, nyisd meg fényed,<br/>küldj a földre békességet!<br/>Légy erőnk és védővárunk,<br/>lelki-testi boldogságunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Szíve, szerelmedet<br/>áraszd reánk kegyelmedet,<br/>légy mellettünk jóságoddal,<br/>végnélküli hatalmaddal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Szíve, fájdalmunkban<br/>vigasztalj meg bánatunkban,<br/>légy örömünk, légy mindenünk,<br/>mindörökre maradj velünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus Szíve, áldj meg minket,<br/>áldd meg minden lépésünket,<br/>községünket, országunkat,<br/>áldj meg, szent Szív, mindnyájunkat!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Óh áldott Szűzanya, mennyei</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh áldott Szűzanya, mennyei szép rózsa,<br/>boldog mennyországnak drága gyöngyvirága,<br/>bűnösöknek kegyes szószólója.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajtsd hozzánk, ó Anyánk, angyali orcádat,<br/>áldott szent Fiadat érettünk imádjad,<br/>hogy láthassuk mennyben szent Atyánkat.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily boldogok azok, kik téged dicsérnek,<br/>néked tiszta szívből buzgón énekelnek,<br/>szent Fiadnál ők kegyelmet nyernek.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Szentháromságnak szolgálóleánya,<br/>adj erőt népednek dicséret-mondásra,<br/>szent nevednek örök áldására.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjenek téged angyali seregek,<br/>boldog mennyországban tisztaságos szüzek,<br/>dicsérjenek téged minden szentek.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Üdvözlégy, áldott légy, Úr Jézus dajkája,<br/>szegény bűnösöknek kegyes szószólója,<br/>híveidnek légy meghallgatója.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tenger fövenyének mennyi sokasága,<br/>tavaszi rózsáknak drága szép virága,<br/>Krisztus Anyja, annyiszor légy áldva.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Alázatos szívvel kérünk, édesanyánk,<br/>hogy midőn eljövend a mi végső óránk,<br/>kegyelemmel legyen Fiad hozzánk.<br/>Vigyázz reánk Édesanyánk, angyaloknak királyné asszonya, angyaloknak királyné asszonya.</lines>
+    </verse>
+  </lyrics>
+</song>

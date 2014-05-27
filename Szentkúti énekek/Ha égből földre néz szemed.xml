@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ha égből földre néz szemed</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha égből földre néz szemed,<br/>Anyánk, ha bút és bajt keres,<br/>ha nézed itt a föld porán,<br/>ki jár itt véres golgotán.<br/>Magyarokra nézz, sorsuk mily nehéz!<br/>Hát szánd meg őket és védd meg őket,<br/>viharban annyit szenvedőket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh, Szűzanyánk, te jól tudod,<br/>nekünk csak szenvedés jutott.<br/>Vesd áldó két szemed reánk,<br/>és felragyog majd Golgotánk!<br/>Magyarokra nézz, sorsuk mily nehéz!<br/>Hát szánd meg őket és védd meg őket,<br/>viharban annyit szenvedőket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Idegen földről, óh Anyánk,<br/>hol nincs otthonunk és hazánk,<br/>a foglyok szíve haza sír,<br/>szép magyar földre visszasír.<br/>Magyarokra nézz, sorsuk mily nehéz!<br/>Hát szánd meg őket hotd haza őket,<br/>viharban annyit szenvedőket!</lines>
+    </verse>
+  </lyrics>
+</song>

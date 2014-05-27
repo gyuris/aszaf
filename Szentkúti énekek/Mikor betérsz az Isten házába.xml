@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Mikor betérsz az Isten házába</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor betérsz az Isten házába,<br/>jól gondold meg, ki annak lakója:<br/>az Úr Jézus, az Isten szent Fia,<br/>a szomorú szíveknek vígasza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints kérlek az oltárszekrényre,<br/>ott van Jézus fehér ostyaszínbe'!<br/>Mondd el neki minden bánatodat,<br/>ő megsegít, szívednek nyugtot ad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne bízzál meg jó barát s testvérben,<br/>mert csalódol e földi életben!<br/>Itt van Jézus, az Isten szent Fia,<br/>szomorú szíveknek vígasza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S ha a keresztnek szörnyű nagy súlya<br/>nehezedik remegő válladra,<br/>gondolj Őrá, mit szenvedett érted,<br/>mikor vitte a nehéz keresztet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Van egy társad, az Ő Édesanyja!<br/>Segít, vezet a szép Szűz Mária.<br/>Hol találsz te még egy ilyen anyát,<br/>ki megérti szíved nagy fájdalmát?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kereszt után jól tudod, hogy mi jön:<br/>örök élet, az örökös öröm.<br/>Be lesz írva neved a nagy könyvbe,<br/>ha békén tűrsz e földi életbe'.</lines>
+    </verse>
+  </lyrics>
+</song>

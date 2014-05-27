@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ébredjetek alvó lelkek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredjetek alvó lelkek,<br/>hozsannát zengedezzetek,<br/>mert hozzánk elérkezett,<br/>aki megígértetett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Piros pünkösd hajnalfénye,<br/>Szentlélek Isten ünnepe,<br/>reánk hinti áldását,<br/>mennyei ajándékát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lejött hozzánk dicsőséggel,<br/>zúgó szél és tűz jelével,<br/>hogy szívünket megnyissa,<br/>lelkünket vigasztalja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örvend annak az ég és föld,<br/>aki mindeneket betölt,<br/>égbe nyíló rózsákkal,<br/>isteni szent malaszttal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Meggyújtá az égi fáklyát,<br/>hogy mennyei ajándékát<br/>világánál láthassuk,<br/>és lelkünkbe zárhassuk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hét ajándékod virága,<br/>annak mennyei illata,<br/>ami árva lelkünknek<br/>megnyitja az egeket.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldott Szentlélek Istenünk,<br/>legyen tiéd szívünk-lelkünk,<br/>egykor hozzád vegyél fel,<br/>a mennyekbe vigyél fel!</lines>
+    </verse>
+  </lyrics>
+</song>

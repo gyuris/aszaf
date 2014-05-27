@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Bíborpiros szép rózsa nyílik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bíborpiros szép rózsa nyílik a Golgotán,<br/>ott áll a fájdalmas Szűz, árva liliomszál!<br/>Nézi, hogy szent Fia szenved a keresztfán,<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy fájdalmak közt néz fel a szent keresztfára,<br/>látja, hogy ott haldoklik szerelmes szent fia.<br/>Kínok tengerében elmerült rózsaszál,<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy jajszóval felkiált: mennyei angyalok,<br/>fiam kínos halálán ti is zokogjatok!<br/>Megsebzett szívére kínok tengere száll,<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent János és Magdolna karjaira dőlve,<br/>végtelen fájdalom közt tekint az égre:<br/>„Szent fiam már meghalt, árvaság maradt rám.”<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Végtelen nagy bánatok szent Szívét szaggatják,<br/>midőn a keresztfáról levették szent fiát.<br/>Szűz ölébe vette, szent sebét csókolván,<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szomorú özvegyek és elhagyatott árvák,<br/>nézzétek, mennyit szenved fájdalmas Szűzanyánk.<br/>Szenvedéseinkben így sóhajtunk hozzá:<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Óh fájdalmas Szűzanya, hervadó liliom,<br/>őrizz minden veszélytől e földi utamon.<br/>Csak ezt kérem tőled életem folyásán,<br/>óh el ne hagyj, légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kálvária hegyének kinyílott virága,<br/>te légy az én örömöm, éltem boldogsága.<br/>Ha mindenki elhagy halálom óráján,<br/>te mindenkor légy velem, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Végtelen fájdalmidat érettünk szenvedted,<br/>légy velem, ha szent Fia kiszólít engemet,<br/>s számadásra megyek az ítélet napján,<br/>szólj mellettem Fiadnál, fájdalmas Szűzanyám!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Add, hogy fájdalmaidban én is részt vehessek,<br/>hogy az örök életnek részese lehessek.<br/>És ha majd elnyerem szenvedésem díját,<br/>veled örvendezhessek fájdalmas Szűzanyám.</lines>
+    </verse>
+  </lyrics>
+</song>

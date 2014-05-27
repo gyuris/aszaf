@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Szűzanyám, tied akarok lenni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűzanyám, tied akarok lenni, a te tiszta Márja gyermeked!<br/>Jaj, de lelkem nem tud felrepülni, bűnök súlya földhöz szegezett.<br/>Jó anyácskám, nyerj nekem kegyet, hogy sirassam minden bűnömet.<br/>Szűzanyám, tied akarok lenni, segíts meg, hogy a tied legyek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szűzanyám, hozzád akarok menni, hogy az égben ott legyek veled.<br/>Jól tudom bár, hogy oda kerülni szenvedések nélkül nem lehet.<br/>Jó anyácskám, nyerj nekem kegyet, hogy szenvedjek Jézussal s veled,<br/>Szűzanyám, hozzád akarok menni, vedd magadhoz mennybe gyermeked!</lines>
+    </verse>
+  </lyrics>
+</song>

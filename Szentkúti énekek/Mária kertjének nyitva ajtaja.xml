@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Mária kertjének nyitva ajtaja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária kertjének nyitva ajtaja,<br/>benne tündöklik a szép koszorúja.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oly kedves e koszorúnak illata,<br/>hogy az egész világot elárasztja.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Illatára feltárul a mennyország,<br/>örömmel zeng az angyali sokaság.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily boldog, ki ezen koszorút fonja,<br/>annak Szűz Mária a pártfogója.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bárki munkálkodhat e koszorúval,<br/>érdemet szerezhet az olvasóval.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert e koszorú nem hervad el soha,<br/>örökké virul a szép mennyországba'.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Örvendnek mennyben a szép koszorúnak,<br/>ily köszöntést tesznek Szűz Máriának.<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mi is keresztények, kik ide jöttünk,<br/>a Szűz Máriának koszorút kössünk!<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kössünk koszorút a hit virágiból,<br/>szívünk szerelmének szent fohásziból!<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Végre, Szűz Mária, tégedet kérünk,<br/>engedd, hogy mennyekben koszorút kössünk!<br/>Piros, fehér, zöld a levelei,<br/>Szűz Mária ezt nagyon kedveli.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Titkok fátyola takar Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Titkok fátyola takar Szűz Anyja Jézusnak.<br/>Szelíd jóságoddal béke követe vagy,<br/>kegyelemnek szent anyja: tündöklő szeretet,<br/>minket az üdv honába kérünk, hogy elvezess!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretetláng Szívedben szép Róza Misztika,<br/>bátoríts és erősíts minket jó Szűzanya!<br/>Áve, áve, üdvözlégy gyönyörű rózsaszál,<br/>könyörgéseid értünk, tudjuk, hogy égbe száll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te a legszebb Rózsa vagy, kit a bűn elkerült,<br/>rossz elleni harcunkban küzdjél te is velünk!<br/>Imbolygunk, mint a nádszál, rémiszt a kárhozat,<br/>szíveinkhez szorítjuk a szent Bibliádat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öt seb vére festi be szép arcod, Rózsaszál.<br/>Megtorpan a bűnös is, hogyha reád talál.<br/>Kitárul édes Szíved, ontja gyógybalzsamát,<br/>a botladozó ember bízva néz fel reád.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aranyos fényt sugárzó Úrnőnk titokzatos,<br/>világunk ékessége: Királyi Palástos.<br/>Napsugárba öltözve szűz homlokod ragyog,<br/>életünket Jézushoz, kérjük, te kormányozd!</lines>
+    </verse>
+  </lyrics>
+</song>

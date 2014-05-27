@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szentséges Szűzanyánk, hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentséges Szűzanyánk, hozzád folyamodunk,<br/>drága szentképednél a földre borulunk.<br/>Mert bűnösök vagyunk, egek Nagyasszonya,<br/>hallgasd meg kérésünk, drága Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, Mária, messze földről jöttünk,<br/>arany oltárodra bús könnyeket öntünk.<br/>Jaj, mert itt megláttuk drága szent képedet,<br/>égi Anyánk, szent Szűz, hallgass meg bennünket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kedves vendégeid tehozzád eljöttek,<br/>sírva és zokogva téged köszöntenek.<br/>Nincs más reménységünk, egyedül Mária,<br/>ki a bűnösöket el nem hagyja soha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sok szomorú szívek, kik itt megenyhülnek,<br/>kik a Szűz Mária szentképéhez jöttek.<br/>Mária, Mária, jaj csak te el ne hagyj,<br/>utolsó órámban, kérlek velem maradj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jertek ide árvák, szomorú özvegyek,<br/>mert nagyon jól tudom, hogy fáj a szívetek.<br/>Kérjétek örömmel a szép Szűz Máriát,<br/>teljes Szentháromság fehér liliomát!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hisz ő azt mondotta, az Úr Jézus anyja:<br/>az árvát, özvegyet nem hagyja el soha.<br/>Mária, Mária, kedves Édesanyánk,<br/>arany oltárodnál tekints le mireánk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tekints le mireánk e siralomvölgybe,<br/>hogy bűnös lelkünk juthasson a mennybe!<br/>Ez legyen versemnek utolsó betűje,<br/>dicsértessél szent Szűz, mennyország tüköre!</lines>
+    </verse>
+  </lyrics>
+</song>

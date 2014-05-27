@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Jertek hívek, köszöntsétek az</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek hívek, köszöntsétek az Úr Jézus szent Anyját!<br/>A szentkúti csendes völgynek illatozó Rózsáját!<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tárd ki anyai karodat, öleld át a sereget,<br/>mely buzgó búcsújárással tiszteli szent nevedet!<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád megyünk, mert Szívedben értünk ég a szeretet,<br/>oltárod szent zsámolyánál talál lelkünk nyughelyet.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te földi élet tengerén evezőknek csillaga,<br/>a bűn sötét éjjelében tévelygőknek hajnala.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aki téged szívből szeret és kegyelmedet kéri,<br/>azt megmented, s nem engeded kárhozatba merülni.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kegyelmednek napsugara enyhíti a szenvedőt,<br/>hogyha szívből hozzád sóhajt, kimented a bajból őt.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem lehetett még hallani, hogy aki benned bízva<br/>kegyelmedhez folyamodott, el lett volna hagyatva.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Minket is ez bátorít fel, hogy hozzád folyamodjunk,<br/>mert Anyánk vagy te minekünk, s mi gyermekeid vagyunk.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Beismerjük, hogy oly sokszor megbántjuk szent nevedet,<br/>de ha könnyezve könyörgünk, megbocsátod bűnünket.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Kérd szent Fiadat, hogy nézzen kegyes szemmel mireánk,<br/>ne legyen szigorú bíró, hanem irgalmas Atyánk!<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Midőn szentképedhez érünk bűntől sebzett szívünkkel,<br/>gyógyítsd meg annak fájdalmát mennyei szeretettel!<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ha a bűntől tiszták leszünk, mint a tél fehér hava,<br/>szent Fiad be fog költözni szívünknek hajlékába.<br/>Üdvözlégy Mária, Szentkútnak Csillaga,<br/>bűnösök szószólója!</lines>
+    </verse>
+  </lyrics>
+</song>

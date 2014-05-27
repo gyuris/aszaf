@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szeptember nyolcadika már</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeptember nyolcadika már elérkezett.<br/>Édesanyánk Mária, hallgass meg minket!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szent Anna kertjében kinyílt egy virág:<br/>Édesanyánk, Mária, kegyes Szűzanyánk.<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kisasszonyunk szép napja már elérkezett,<br/>szentkúti szép Szűzanyánk, hallgass meg minket!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Messze földről eljöttünk hozzád, Szűzanya,<br/>a szentkúti templomnak Hajnalcsillaga.<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eljöttek az özvegyek és a bús árvák,<br/>világbékét adj nekünk, édes Szűzanyánk!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Előtted sír az árva és a sok anya,<br/>töröljed le könnyüket, égi Szűzanya!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gyönyörűen tündöklik drága szentképed,<br/>mosolyogva köszönti a hívő sereg.<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Béke királynője vagy, Egek Leánya,<br/>hazánknak is békét adj, szép Szűz Mária!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Életünknek alkonyán siess mihozzánk,<br/>vidd mennyekbe lelkünket, égi jó Anyánk!<br/>Szép vagy Mária, kegyes pátrónánk,<br/>palástoddal takarj be, úgy vigyázz reánk!<br/>Nem vagyunk árvák, van édesanyánk,<br/>ki a magas mennyekből gondot visel ránk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Mennynek dicsősége</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennynek dicsősége, Verebélynek dísze, csodálatos gyöngyvirág.<br/>Szentek fényességét, csillagok szépségét felülmúló napvilág.<br/>Tehozzád kiáltunk, légy kegyes irántunk, szentkúti szép Szűzanyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drága erényekkel, tiszta erkölcsökkel színig töltött fényedény.<br/>Anyjának választott, keggyel elárasztott a mennyei Vőlegény.<br/>Légy a mi anyánk is, tégy jót miveülnk is, szentkúti szép Szűzanyánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anyja a kegyesnek, mindenütt dicsérnek a hív lelkek tégedet.<br/>Mentsvárnak neveznek, mint anyát szeretnek, kit Isten is szeretett.<br/>Ó védj a bajok közt, a vészes hadak közt, szentkúti szép Szűzanyánk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mivel hozzád fűztél: a szent rózsafüzér, ama drága kötelék,<br/>amellyel örökre hozzád van kötözve búcsújáró magyar nép.<br/>Kik ma hozzád jöttünk, szereteted kérjük, szentkúti szép Szűzanyánk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó szánj meg bűn nélkül, földi szennyek nélkül fogantatott Anyaság.<br/>Hogy jussunk az égbe, égi dicsőségbe, szólj mellettünk Szűzanyánk!<br/>Erősítsd hitünket, hozzád hűségünket, szentkúti szép Szűzanyánk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ezer éve áldunk, Nagyasszonynak hívünk, Pátrónánk velünk maradj.<br/>Nyomorúrágunkban, annyi sok bajunkban kérünk hazánk el ne hagyd.<br/>A rossznak vess véget, adj boldog életet, szentkúti szép Szűzanyánk.</lines>
+    </verse>
+  </lyrics>
+</song>

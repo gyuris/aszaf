@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Készül a koszorú üdvözletből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Készül a koszorú üdvözletből,<br/>mit Gábriel hozott az egekből.<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Midőn az olvasót imádkozzuk,<br/>minden apró szemnél ekként mondjuk:<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vegye hát mindenki a kezébe,<br/>szeretettel zengje örömébe':<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Felvidul a kebel és a lélek,<br/>ha Égi Anyával így beszélhet:<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden rózsának zöld a levele,<br/>rajta van Szűzanyánk ékes neve.<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jertek hát mindnyájan imádkozzuk,<br/>ájtatos lélekkel ekként mondjuk:<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hogyha az életből elköltözünk,<br/>mennyországban is ezt zengje nyelvünk:<br/>Üdvözlégy Mária, Jézus anyja,<br/>szent olvasó ékes Királynéja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Hozzád repül ma hő fohászunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád repül ma hő fohászunk, Nagyasszonyunk, Szűz Mária.<br/>Tekints az égből szánakozva szegény hazánk bús tájira!<br/>Te voltál az, ki védted, óvtad mindenkor híven nemzetünk.<br/>Mutasd meg anyai szerelmed, mikor most búban könnyezünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hazánkat gondjaidra bízta István, a szent, a jó király,<br/>hogy el ne vesszen bajban-vészben, ha rátör szenvedés, viszály.<br/>S te megfogadtad gyermekidnek a harcok hős magyarjait,<br/>s ápoltad értünk szent Szívedben jóságod éber gondjait.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma, mint hazánk Nagyasszonyához kiált hozzád a honfi szó.<br/>Jövendőnk tépő aggodalmán, keservtől, bútól hangozó.<br/>Ne vesd meg a buzgó könyörgést, gyermekeid nagy bánatát!<br/>Ó hallgasd meg a honfi búnak esdeklő, zokogó szavát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Benned remél a hű magyar szív, szerelmedtől vár balzsamot.<br/>Bár rossz utakra s bűnre tértek, örökséged el nem hagyod.<br/>Minket kevélység és a sátán bűnökre elvezethetett,<br/>de Szívednek csodás szerelme hűtlenné hozzánk nem enged.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vezesd erényre, hitre vissza István tévelygő nemzetét!<br/>Istentelenség szörnyű átka ne tépje és ne zúzza szét!<br/>Jóságod áldó melegétől még föl bír majd virágozni.<br/>Legyne jó termő barna földje virágoskerted Hunnia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Légy újra anyja nemzetünknek, balsors veszélyén gyámola!<br/>Ne küldjön pusztulást fejére haragvó égnek ostora!<br/>Engeszteld Isten szent bosszúját, irgalmat esdj e nép iránt!<br/>Mutass szegénynek jobb jövendőt, égbe vivő ösvényt, irányt!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oltalmadat terjeszd hazánkra, tedd boldoggá bús népedet!<br/>Űzzön szét a te szószólásod egünkről gyász s vészfelleget!<br/>Apáink sok nagy érdeméért maradj mindenkor hű anyánk,<br/>hogy újra jó s nagy nép lehessünk, viselj gondot szeretve ránk!</lines>
+    </verse>
+  </lyrics>
+</song>

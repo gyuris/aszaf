@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Boldogságos asszonyunk, Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogságos asszonyunk, Szűz Mária!<br/>Hozzád száll esdő szavunk, Szűz Mária.<br/>Te látod az életünk, látod mennyit szenvedünk,<br/>jöjj, segíts mert elveszünk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívedben is volt tövis, Szűz Mária!<br/>Fájdalom élt benned is, Szűz Mária!<br/>Szánj meg minket, jó anyánk, életünknek zátonyán,<br/>szép reményünk, pátrónánk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Béke királynője vagy, Szűz Mária!<br/>Hazánknak is békét adj, Szűz Mária!<br/>Mert ezután sóvárgunk, tisztaságos Asszonyunk,<br/>békéért imádkozunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Balsorsunkban is szeress, Szűz Mária!<br/>Szent Fiad elé vezess, Szűz Mária!<br/>Tedd kezébe életünk, áldd meg a mi nemzetünk,<br/>és szószólónk légy nekünk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>István király országunk, Szűz Mária,<br/>neked adta, asszonyunk, Szűz Mária!<br/>Ó, fordítsd felénk Anyánk oltalmazó kezedet<br/>és el ne hagyd népedet, Szűz Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Benned bíztak őseink, Szűz Mária!<br/>Megenyhültek szíveik, Szűz Mária.<br/>Most is hozzád fordulunk, bánatunkban vígaszunk,<br/>bajainkban gyámolunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Életünk végóráján, Szűz Mária,<br/>a rideg koporsónál, Szűz Mária,<br/>akkor is állj mellettünk, mennyországba vidd lelkünk,<br/>add, hogy a tied legyünk, Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

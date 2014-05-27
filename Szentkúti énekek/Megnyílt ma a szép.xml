@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Megnyílt ma a szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megnyílt ma a szép mennyország,<br/>üdvözöljük Szűz Máriát!<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyali szent szeretettel<br/>hozzád jöttünk szent örömmel.<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengedező énekszóval<br/>léptünk be szent hajlékodba.<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oltárodnál leborulunk,<br/>tégedet így magasztalunk.<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A mennyei angyalokkal<br/>zengjük az égi karokkal:<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eljöttek az özvegy s árvák,<br/>köszönteni Édesanyánk.<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tárd ki áldó kezeidet,<br/>karold át tisztelőidet!<br/>Köszönteni jöttünk egek Királynéja,<br/>Nagyboldogasszonyunk, Szűz Mária!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ha eljön majd éltünk vége,<br/>ahol te vagy az egekbe,<br/>vezess fel Szűzanyánk, hogy téged dicsérjünk,<br/>a szép mennyországban örvendhessünk!</lines>
+    </verse>
+  </lyrics>
+</song>

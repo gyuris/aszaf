@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Egy óhajtás, egy dicsének</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy óhajtás, egy dicsének zeng ma néped ajkain,<br/>hogy tehozzád fellebegjen angyaloknak szárnyain.<br/>Szűzanyánk sok század óta a magyar nép téged áld,<br/>mint a szentség példaképét, szent hitében hűn csodál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És ha lát virágkehelyben rezegni gyöngyharmatot,<br/>rajta gyémántmilliókban szétragyogni a napot.<br/>Rád tekint és szent örömtől keble hangosan dobog,<br/>mert terajtad, Jézus Anyján, még sugárzóbb fény lobog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged Isten templomának tart, hová bűn nem hatolt,<br/>hervadatlan rózsakertnek, melyre az ég lehajolt.<br/>Benne látja a hegyormon el nem égő tűzbokrot,<br/>melyet a bűn örvényébe soha semmi nem sodort.</lines>
+    </verse>
+  </lyrics>
+</song>

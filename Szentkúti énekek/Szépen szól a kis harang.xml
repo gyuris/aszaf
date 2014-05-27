@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szépen szól a kis harang</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szépen szól a kis harang, szent a zúgása,<br/>ajkainkra rebbenti: Ave Mária!<br/>Köszönti a mi lelkünk az Úr angyalát,<br/>mert ő is köszöntötte szép Szűz Máriát.<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szépen szól a kis harang, szent a zúgása,<br/>egész világ számára hangzik a hangja.<br/>Mind a mennyben, mind földön csak ezt hirdeti:<br/>Az égi szent Királynét ő is köszönti.<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szépen szól a kis harang, szent a zúgása.<br/>A lurdi szent barlangnál áldását szórja.<br/>Mind, aki csak meghallja, sír-zokog rajta.<br/>Ilyen ékes harangszót nem hallott soha!<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szépen szól a kis harang, szent a zúgása.<br/>Mintha angyal szállna be minden lakásba.<br/>Üti már az óra is, ébreszt imára.<br/>Megkondul a harangszó Úrangyalára.<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szépen szól a kis harang, szent a zúgása.<br/>A mennyország ajtaja már ki van nyitva,<br/>letekint a mennyekből Isten mireánk,<br/>és örömmel hallja ezt égi Szűzanyánk!<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szépen szól a kis harang, szent a zúgása.<br/>A mennyország tündöklő, fényes Csillaga<br/>leszállott mihozzánk e siralomvölgybe,<br/>hogy megorvosolhasson testbe-lélekbe!<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szépen szól a kis harang, szent a zúgása.<br/>Gyöngyvirágok nyílnak már Anyánk számára.<br/>Jertek, ültessünk mi is imavirágot,<br/>lábaihoz helyezzünk bűnbánat-csokrot!<br/>Ave, ave Mária, Isten szülője!<br/>Te vagy a bűnösöknek védelmezője.</lines>
+    </verse>
+  </lyrics>
+</song>

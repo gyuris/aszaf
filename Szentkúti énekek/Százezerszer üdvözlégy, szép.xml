@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Százezerszer üdvözlégy, szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Százezerszer üdvözlégy, szép Szűz Mária,<br/>a szentkúti templomnak fényes csillaga.<br/>Fehér rózsaszál, mennyből leszálltál,<br/>a szentkúti templomban kivirágoztál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyönyörűen tündöklik drága szentképed,<br/>a bús, árva szívekben bizalmat gerjeszt.<br/>Fehér rózsaszál, mennyből leszálltál,<br/>a szentkúti templomban kivirágoztál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt ragyogsz az oltáron nagy fényességben,<br/>teelőtted hódol itt a hívősereg.<br/>Fehér rózsaszál, mennyből leszálltál,<br/>a szentkúti templomban kivirágoztál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeplőtelen a neved, megmondtad nekünk,<br/>hogy szent tisztaságodat mi is kövessük.<br/>Fehér rózsaszál, mennyből leszálltál,<br/>a szentkúti templomban kivirágoztál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szép szeretetnek Anyja, kedves csillagunk.<br/>Isten után benned van minden bizalmunk.<br/>Fehér rózsaszál, mennyből leszálltál,<br/>a szentkúti templomban kivirágoztál.</lines>
+    </verse>
+  </lyrics>
+</song>

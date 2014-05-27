@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Isten, hazánkért térdelünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, hazánkért térdelünk Elődbe.<br/>Rút bűneinket jóságoddal född be.<br/>Szent magyaroknak tiszta lelkét nézzed,<br/>érdemét idézzed!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>István királynak szíve gazdagságát,<br/>Szent Imre herceg kemény tisztaságát,<br/>László királynak vitéz lovagságát,<br/>ó, ha csak ezt látnád!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Erzsébetből hős szeretet árad,<br/>Margit imái vezekelve szállnak.<br/>Minket hiába, Uram, ne sirasson<br/>áldott Boldogasszony.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kinga királyné Krisztusáért lángol.<br/>Hedvig egyházat: szent családot ápol.<br/>István, Menyhért, Márk vére magvetése,<br/>lelkünk üdvössége.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Károly királyért, István utódáért,<br/>László szegények szelíd orvosáért,<br/>Vilmos véréért térítsd nemzetünket,<br/>szentelj meg bennünket!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ránk bűnösökre minden verés ráfér,<br/>De könyörögnek ők tépett hazánkért.<br/>Hadd legyünk mink is tiszták, hősök, szentek:<br/>hazánkat így mentsd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

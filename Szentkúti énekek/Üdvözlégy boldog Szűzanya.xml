@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Üdvözlégy boldog Szűzanya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy boldog Szűzanya,<br/>Világ Királyné Asszonya!<br/>Szűzeknek szűze, csillaga,<br/>üdvösségünknek hajnala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi áldással telt edény,<br/>üdvözlégy mennyei remény!<br/>Kinek hatalma szent erény,<br/>égnek és földnek tiszta fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged szemelt ki Istenünk<br/>nagy irgalmának eszközül.<br/>Ki Szentlelkével egyesül,<br/>s örök Igét a földre szül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki által mindent alkotott,<br/>lelkedre fényruhát adott.<br/>Arra gonosz nem hathatott,<br/>homályt az ős szív nem hozott.</lines>
+    </verse>
+  </lyrics>
+</song>

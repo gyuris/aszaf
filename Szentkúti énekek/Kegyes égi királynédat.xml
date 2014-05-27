@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Kegyes égi királynédat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyes égi királynédat tiszteljed, óh magyar!<br/>Hatalma és hűsége véd, szerelme eltakar.<br/>Ő az, ki Istenünk után kegyelmét osztja el,<br/>Őbenne áld vagy sújt az ég, ügyed anyára lel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő az, kinek nevében ős apáid vére folyt,<br/>s kihez minden nagy s szent nevet egy ezredév csatolt.<br/>Nevében győztek szent István, szent László hadai,<br/>és jog harcát nagy Hunyadi nevével vívta ki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szabadság! Győztessé tette szent képed zászlait,<br/>s borostyánt nyert vagy üdvhalált, ki Máriában hitt.<br/>És annyi balszerencse közt, oly sok viszály után,<br/>magyarjait dajkálva ő, él nemzet e hazán!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentek honán az ősi nép, anyánk hozzád könyörög.<br/>Több századévi szenvedés remél most is gyönyört.<br/>Reád bízott apostolunk, fölajánlott néked,<br/>azért elveszni nemzetünk, Anyánk, nem engeded!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az nem lehet, hogy ész, erő és oly szent akarat,<br/>hiába sorvadozzanak egy átoksúly alatt.<br/>Ó add, Anyánk, hogy jöjjön el a jobb kor, mely után<br/>buzgó imádság epedez a magyar nép ajkán!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>S ha jőni kell, hadd jöjjön el a nagyszerű halál,<br/>mely után a hit és ige, mennyben hazát talál.<br/>S a sír, hol néped vérzik el, lesz az új Jozafát,<br/>emberek millióinak örök tanú gyanánt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tiszteljed rendületlenül Királynéd, ó magyar,<br/>míg élsz, Ő véd, s ha elesel, szerelme eltakar.<br/>Ő az, ki Istenünk után kegyelmét osztja el,<br/>őbenne élve és halva, ügyed anyára lel.</lines>
+    </verse>
+  </lyrics>
+</song>

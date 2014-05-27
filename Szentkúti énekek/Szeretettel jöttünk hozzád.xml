@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Szeretettel jöttünk hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretettel jöttünk hozzád szép Szűz Mária,<br/>fogadjál el gyermekednek Jézus szent Anyja.<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Világbékét kérünk tőled szép Szűz Mária,<br/>mert téged nagyon szeretünk egek leánya.<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívünk bánat-koszorúját elédbe rakjuk,<br/>Mária, jó édes anyánk, könyörülj rajtunk!<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Messze útról hozzád jöttek árvák, özvegyek,<br/>édesanyánk, kinyílt rózsa, vígasztald őket!<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Világbékéért könyörgünk szép Szűz Mária,<br/>eszközöld ki szent fiadnál édes Szűzanya!<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A Szentháromság kertjében kinyílt gyöngyvirág,<br/>a Szentlélek gyöngyharmata szállott le reád.<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Édesanyánk szűz fejére kötünk koszorút,<br/>vigasztald meg, Édesanyánk, a sok szomorút!<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gyöngyvirágból, ibolyából, sok-sok fohászból,<br/>csokrot kötünk hű szívünknek imádságából.<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A Szentlélek Úr Istennek szelíd galamja,<br/>te vagy Anyánk, Szűz Mária, Jézus szent anyja.<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Halálunk végóráján siess mihozzánk,<br/>vidd lelkünket mennyországba, édes jó Anyánk!<br/>Édesanyánk, hoztunk neked lángoló szívet,<br/>oltárodra piros rózsát, kék nefelejcset.</lines>
+    </verse>
+  </lyrics>
+</song>

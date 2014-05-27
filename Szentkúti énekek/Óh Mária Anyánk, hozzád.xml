@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Óh Mária Anyánk, hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh Mária Anyánk, hozzád sietünk,<br/>e kegyelemhelyen, hogy megköszöntsünk.<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömünnepedre kik megjelentünk,<br/>zengedező énekszóval üdvözlünk.<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert te vagy, Mária, lelkünk reménye,<br/>benned van bizalmunk, Isten Szülője.<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egy év múlt felettünk, hogy itt szemléltünk,<br/>drága képed előtt itt zengedeztünk.<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden gazdag, szegény örömmel várja,<br/>hogy szép aratást nyerjél meg számunkra.<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldd meg fáradságát a munkásoknak,<br/>kik nagy bizalommal hozzád fordulnak!<br/>Sarlós Boldogasszony, téged kérünk,<br/>nyerj bő áldást szent Fiadtól nékünk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mária, jó Anyánk, sarlósi szent Szűz,<br/>ha majd végső óránk nekünk is eljő,<br/>szent kezeddel nyisd meg az egeket,<br/>mennyországba vezesd be lelkünket!</lines>
+    </verse>
+  </lyrics>
+</song>

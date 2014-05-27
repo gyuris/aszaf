@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Óh Mária, Isten Anyja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh Mária, Isten Anyja, énnekem is jó Anyám.<br/>Szívemnek szent lángbuzgalma dícsér későn és korán.<br/>Bánatomban, örömömben, jó-, balsorsban csak ezt zengem:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajnal keltén, ha megzendül magas tornyon a harang,<br/>mintha szózat szállna mennyből, imára kelt fel e hang.<br/>Megköszöntlek szép szűz hajnal, s ezt rebegem az angyallal:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha délre száll az arany nap, szól a harang újólag.<br/>Érzelmeim hozzád vonnak, ismét téged áldalak.<br/>Áhítattal, csendben, halkan, ezt sóhajtom forró ajkkal:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha felkél az est csillaga s munkámat bevégeztem,<br/>Istenemnek hálát adva feléd tárul két kezem.<br/>Az estéli harangszóra indul nyelvem e szép szóra:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hű gyermeked leszek mindig, ígérem ezt Szűzanyám.<br/>Óh el ne hagyj engem soha, oltalmazó pátrónám.<br/>Benned bízva, téged áldva, csak e szó jön az ajkamra:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldott vagy, ég választottja, az Úr vagyon tevéled.<br/>Szent és áldott, aki lakta szeplőtelen szűz méhed.<br/>Óh halgass meg, kérlek, engem, valahányszor csak ezt zengem:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Óh Mária, Isten Anyja, énnekem is jó Anyám!<br/>Szívem, lelkem lángbuzgalma dicsér későn és korán.<br/>Végórámban állj mellettem, hogy akkor is ezt zenghessem:<br/>Üdvözlégy Szűz Mária, üdvözlégy Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

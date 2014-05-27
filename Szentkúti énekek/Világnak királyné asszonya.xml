@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Világnak királyné asszonya</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világnak királyné asszonya,<br/>költözzél szívünkbe Szűzanya!<br/>Oldozd a szívünkön bűneink láncát,<br/>szüntesd a gyűlölet sátáni táncát!<br/>Mária, Nagyasszony, magyarok anyja,<br/>világnak hatalmas királynéja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűneink éjjelén el ne hagyj,<br/>esengve kérünk, mert tiszta vagy!<br/>Bűnbánat ostoroz, kerget tehozzád,<br/>ne sírjon érettünk szép könnyes orcád!<br/>Mária, Nagyasszony, magyarok anyja,<br/>világnak hatalmas királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vezeklő szívünket meg ne vesd,<br/>Jézushoz bennünket elvezess!<br/>Szent kezed fogja meg roskadó vállunk,<br/>míg Fiad Szívéhez hazatalálunk!<br/>Mária, Nagyasszony, magyarok anyja,<br/>világnak hatalmas királynéja.</lines>
+    </verse>
+  </lyrics>
+</song>

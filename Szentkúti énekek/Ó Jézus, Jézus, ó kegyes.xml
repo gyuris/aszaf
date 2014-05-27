@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ó Jézus, Jézus, ó kegyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézus, Jézus, ó kegyes Jézus,<br/>légy velünk, légy velünk!<br/>Könyörgünk néked, szent békességed<br/>add nekünk, add nekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a bűn éget, ha ver az élet<br/>vihara, vihara,<br/>Csillagunk éjben, segíts a vészben<br/>Mária, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária őre, hű kísérője:<br/>Szent József, Szent József,<br/>a betegágynál és a végórán<br/>védelmezz, védelmezz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha erőnk nincsen, példátok intsen,<br/>Szentcsalád, Szentcsalád!<br/>Ha szívünk tiszta, megnyílik majd a<br/>mennyország, mennyország.</lines>
+    </verse>
+  </lyrics>
+</song>

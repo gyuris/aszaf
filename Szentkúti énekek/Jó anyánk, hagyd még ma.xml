@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Jó anyánk, hagyd még ma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó anyánk, hagyd még ma egyszer megtekintnem képedet!<br/>Szent Fiad csókkal borítom, míg elhagylak tégedet.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hagyj pihenni karjaidban, szent Fiadhoz oly közel,<br/>hol szívéből a gyönyörnek szent forrása felszökell.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arcod látni vágyakoztam s víg léptekkel jöttem el,<br/>de most könnyem elborítja szemeim, mert mennem kell.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog volnék, ha tenálad e szent helyen lakhatnék,<br/>mindennap megláthatnálak és új csokrot hozhatnék.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh anyám, csak könnyes szemmel tudok tőled elválni,<br/>oly nehéz ily jó anyától ily hamar eltávozni.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vedd, Anyám, el zálogodba, vedd kezemből szívemet.<br/>Testemmel eltávozom most, szívem itt hagyom neked.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Míg a gond s az élet árja elsodor s bármerre visz,<br/>szívemnek ez mind ne ártson, virrasszon csak nálad itt.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vedd kezedbe lelkem kulcsát s szívem összes zárait,<br/>hogy ne lássam s meg ne halljam a világnak csábjait.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Éltem útját úgy irányítsd s növeld a reményemet,<br/>hogy tehozzád visszajöjjek s újra lássam képedet.<br/>Ne hagyj, ne hagy el Mária!<br/>Ne hagyj el, Szentkút Csillaga!<br/>Ne hagyj el minket Pátrónánk,<br/>ne hagyj el édes Szűzanyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

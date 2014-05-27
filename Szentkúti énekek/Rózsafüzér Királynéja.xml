@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Rózsafüzér Királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rózsafüzér Királynéja, boldogságos szent Szűz,<br/>a szeretet aranylánca bennünket hozzád fűz.<br/>Azért jöttünk nagy örömmel a te lábaidhoz,<br/>hogy megnyerjük áldásodat minden dolgainkhoz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rózsafüzér Királynéja, virágok virága,<br/>áldást osztó szent Szívednek a földön nincs párja.<br/>Azért kérünk bizalommal, hallgasd meg a dalunk,<br/>hadd lehessen drága neved legkedvesebb szavunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rózsafüzér Királynéja, választott Szép Edény,<br/>vezércsillag te vagy nékünk az élet tengerén.<br/>Üdvözlégy százmilliószor, kegyes Szűz Mária,<br/>ezért áldunk s magasztalunk szünet nélkül mondva.</lines>
+    </verse>
+  </lyrics>
+</song>

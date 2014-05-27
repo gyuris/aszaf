@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>A szent örömnek lángja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A szent örömnek lángja bennünk ébredez,<br/>ajkainkon az ének ekként zengedez.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömében sír bennem a szív és lélek,<br/>hogy téged, égi Anyám, itt köszönthetlek.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád jöttünk, mint gyermek édes anyjához,<br/>mert tudjuk, hogy kegyelmed reánk sugároz.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog, aki tégedet anyjának nevez,<br/>soha el nem felejti drága szép neved.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ezt rebegi szép szavad, kedves jó Anyánk:<br/>„Kik gyermekim vagytuk, jöjjetek hozzám!”<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A bús özvegy és árva tehozzád fordul,<br/>tőled várnak vígaszt, mint édesanyától.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ha megnyílik számunkra a sír éjjele,<br/>haldokló szemeinket kezed fogja le.<br/>Százezerszer üdvözlégy Szentkút Csillaga,<br/>te vagy a mi jó Anyánk, ne hagyj el soha.</lines>
+    </verse>
+  </lyrics>
+</song>

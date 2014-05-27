@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Szeretlek Szűzanyám, szívből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretlek Szűzanyám, szívből téged,<br/>szeretve köszöntöm jóságos szíved!<br/>Legnagyobb boldogság, hogy bátran zengi szám:<br/>Szeretlek örökké, édes Szűzanyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretlek, életem hajnalfénye,<br/>világi utamnak legszebb reménye.<br/>Úgy későn, mint korán örömmel zengi szám:<br/>Szeretlek mindenkor, édes Szűzanyám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretlek, életem csengő hangja,<br/>lelkembe ragyogó tavasz sugara.<br/>Egész nap folyamán boldogan zengi szám:<br/>Szeretlek mindenkor, édes Szűzanyám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretlek, örömem legfőbb pontja,<br/>isteni Megváltóm jó Édesanyja.<br/>Halálom óráján remegve zengje szám:<br/>Szeretlek örökké, édes Szűzanyám!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Égi Anyánk, világ királynője</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égi Anyánk, világ királynője,<br/>pereg könnyed forrón, tündökölve.<br/>S ez a szent könny, amely felénk árad,<br/>nagy intő jel a gonosz világnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vétektenger önti el a földet,<br/>s rút bűneink miatt hull a könnyed.<br/>Szomorítjuk áldott szent Fiadat,<br/>s ömlik egyre a bánatkönny-patak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zokogsz egyre, ó Szűzanyánk drága,<br/>hull könnyed a tévelygő világra.<br/>Látod a bajt és a betegséget,<br/>és hogy mennyi a tömérdek a vétek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem tudsz már, csak értünk sírni-ríni,<br/>hulló könnyed a világot hinti.<br/>Figyeljünk fel bánatkönnyes szódra,<br/>hogy megtérjünk, itt a végső óra!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drága Szíved kérjük esdekelve,<br/>adj gyógyírt a sok-sok üszkös sebre!<br/>Szükségünk van reád, óh Szűzanya,<br/>kell a Szíved szent vigasztalása!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Emelj fel a bűn sarából minket,<br/>nyújts oltalmat hű gyermekeidnek!<br/>Adj irgalmat, hints szét sok kegyelmet,<br/>a pokoltól a lelkeket mentsd meg!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ádáz harag, vad gyűlölet itt lenn,<br/>ne lobogjon az emberi szívben.<br/>Fájó könnyed a bús földet mossa<br/>hófehérre, szépen csillogóra.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mint a mennyben, a földön is végre<br/>uralkodjon mindörökre béke.<br/>Szeplőtelen, áldott szent Szíveddel<br/>egyesüljön minden hívő ember!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A sugárzó Oltáriszentségben<br/>forrjunk össze Fiaddal egészen!<br/>Gyúljon bennünk nem szent szeretet,<br/>s csókoljuk föl szánakozó könnyed!</lines>
+    </verse>
+  </lyrics>
+</song>

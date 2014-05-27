@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Útra készen állunk it, ütött</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Útra készen állunk it, ütött az óra,<br/>Anyánk, eléd járulunk búcsúzó szóra.<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívünk csordult örömét magunkkal visszük.<br/>Anyai Szíved kegyét hisszük, megnyertük!<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Máskor is segíts ide minket, Mária,<br/>közeledben édes lesz a Kálvária!<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldásod és Fiadé maradjon rajtunk!<br/>Dicséreteddel soha nem hagy fel ajkunk.<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Domonkos, mivelünk kérjed Máriát,<br/>hogy Fiánál emelje érettünk szavát!<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Megholtjaink részére sok kegyet kérünk,<br/>a teljes búcsú által ég legyen részük!<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent Ráfáel, jöjj velünk, légy kalauzunk!<br/>Így szerencsés, üdvös lesz haza az utunk.<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Add, hogy utolsó léptünk égbe vezessen!<br/>Szent Fiaddal fogadj majd minket kegyesen!<br/>Olyan jó volt közeledben, szívünk megpihent öledben, édes Szűzanyánk.<br/>Óh, szentkúti Szűz Mária, viselj gondot ránk!</lines>
+    </verse>
+  </lyrics>
+</song>

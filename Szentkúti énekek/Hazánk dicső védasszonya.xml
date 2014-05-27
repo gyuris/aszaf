@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Hazánk dicső védasszonya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hazánk dicső védasszonya,<br/>Üdvözlünk szép Szűz Mária!<br/>Szent ünneped kedves napján,<br/>néped sóhaja hozzád száll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentkút drága Pátrónája,<br/>hazánknak hű Védasszonya!<br/>Ó el ne hagyj, ó el ne hagyj!<br/>Anyai szereteted nagy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édes hazánk ezer évig<br/>védő szárnyad alatt állott,<br/>szép hazánkra s koronánkra<br/>szégyen soha, csak fény szállott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó ne hagyj, jó Védasszonyunk,<br/>ne hagyj minket vészbe-bajba,<br/>a ránk váró jövőben is<br/>fogadj kérünk oltalmadba!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó el ne hagyj, ó el ne hagyj,<br/>hazánknak Védasszonya vagy!<br/>Ó el ne hagyj, ó el ne hagyj!<br/>Anyai szereteted nagy.</lines>
+    </verse>
+  </lyrics>
+</song>

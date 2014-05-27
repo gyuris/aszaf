@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Fájdalomtól roskadozva</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fájdalomtól roskadozva jöttünk, Anyánk, hozzád,<br/>te megérted szenvedésünk, felénk fordul orcád.<br/>Összetörve vérzik szívünk, feljajdul a lelkünk,<br/>tenger bűnünk büntetését segíts elviselnünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazságos haragjában büntet most szent fiad,<br/>értünk, anyánk, közbenjárónk, emeld fel a szavad!<br/>Hullasd a te drága könnyed szent fiad szívére,<br/>úgy könyörögj értünk anyánk, magyarok reménye!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hétfájdalmú édesanyánk, tudjuk, hogy meghallgatsz,<br/>szent fiad a te szavadra még egyszer irgalmaz.<br/>Hogyha mi is bűnbánattal eléje térdelünk,<br/>megbocsátja hűtlenségünk és irgalmat nyerünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha minden magyar ember szereti majd egymást,<br/>kéz a kézben hálálkodva jövünk el tehozzád.<br/>Akkor a mi boldogságunk mosolyogva nézed,<br/>béke lesz a világ felett, ránk ragyog az élet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oltárodnak lépcsőjére zokogva térdelünk,<br/>otthon maradt szeretteink imája jön velünk.<br/>Hajolj fölénk fájdalmas Szűz, hullasd könnyeidet,<br/>könnyeidnek harmatával gyógyítsd sebeinket!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kitárjuk a szívünk-lelkünk előtted, jó anyánk,<br/>ne utálj meg bűneinkért, nézz kegyesen reánk!<br/>Bűneinket szánva-bánva kérjük oltalmadat,<br/>szent fiadnál vesd latba ma anyai szavadat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mondd, hogy láttál minket, anyánk, könnyezve térdelni,<br/>sok szenvedés, bánat között oltárodhoz jönni.<br/>Kérünk téged bízva, hittel, kérleld szent fiadat,<br/>mert már testben és lélekben néped összeroskad!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Most is kérünk fájdalmadra, mit szenvedtél értünk,<br/>hétfájdalmú édesanyánk, mentsd meg síró népünk!<br/>Gyullaszd lelkünk igaz hitre, békés szeretetre,<br/>összecsengjen a magyar szív szent fiad nevére!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>És hogyha majd Jézus neve imádság lesz nékünk,<br/>újra látja a szivárványt békés magyar népünk.<br/>visszatér a magyar égre tündökölve, mint rég,<br/>higgyétek, hogy eljön végre a világ-békesség!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Édesanyánk, Szűz Mária, kinyílott szép rózsa,<br/>a mi bánatos szívünknek szép hajnalcsillaga.<br/>Világbékét adjál nekünk, melyért úgy esdeklünk,<br/>hallgasd meg síró népedet, töröld le a könnyünk.</lines>
+    </verse>
+  </lyrics>
+</song>

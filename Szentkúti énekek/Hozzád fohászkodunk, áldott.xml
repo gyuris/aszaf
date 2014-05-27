@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Hozzád fohászkodunk, áldott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád fohászkodunk, áldott Védasszonyunk,<br/>boldogságos szent Szűz, kegyes Anyánk.<br/>Enyhítni gyermekid fájó keserveit,<br/>üdvöd honából, óh tekints le ránk!<br/>Szemedből egy sugár, ha fájdalminkra száll,<br/>megszűnnek dúlt szívünk keservei,<br/>Anyánk siess értünk könyörgeni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh Anyánk tégedet, ki értünk szenvedett,<br/>Megváltónk, szent Fiad adott nekünk,<br/>hogy éltünk útjain, ha ránk rohan a kín,<br/>öledben a vésztől mentek legyünk.<br/>S nekünk így, akikért keresztfán onta vért,<br/>üdvöt teremjenek gyötrelmei,<br/>Anyánk siess értünk könyörgeni!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E népet és hazát néked Ő adta át,<br/>kit trónra önmaga, az Úr emelt,<br/>hogy te légy gyámola viszont, mint Ő vala,<br/>s legyen híve minden magyar kebel.<br/>S a Szívben így veled egyesült hon felett,<br/>ne győzzenek soha vad elleni,<br/>Anyánk siess értünk könyörgeni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hozzád fohászkodánk, segítő Pátrónánk,<br/>mikor bús gyászban ült szegény hazánk.<br/>S bár száz vész könnyezett, megőrzött szent kezed,<br/>felvirradt hajnalunk, feltámadánk.<br/>Maradj, maradj velünk, óvd, védjed nemzetünk,<br/>te légy a mi pajzsunk ha vész tör ránk!<br/>Segíts továbbra is, jó Pátrónánk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Szűz, ki e hazát elveszni nem hagyád,<br/>óh csak még egy kegyet adj meg nekünk!<br/>Legyen egünk alatt egy hit, egy akarat,<br/>s tehozzád lángoló szeretetünk!<br/>S így bírva kedvedet, mi csak imánk lehet,<br/>beteljenek szívünk reményei!<br/>Anyánk siess értünk könyörgeni!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Májusi királyné, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Májusi királyné, édes Szűzanya!<br/>Neked ragyog e szép hónap hajnala.<br/>Mária, felderült ékes hónapod,<br/>melynek minden napja a te szép napod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neked zengenek az angyali karok,<br/>téged dicsérnek az égi táborok.<br/>Neked illatozik minden szál virág,<br/>neked zeng glóriát az egész világ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged dicsőit a tornyon a harang,<br/>zöld lombok sátrában a kis vadgalamb.<br/>Az aranyméhecskék neked zengenek,<br/>a te kegymosolyod a bájkikelet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ragyogsz, mint a hajnal fényes csillaga,<br/>tündökölsz, mint az ég szép gyöngyharmata.<br/>Alázatodat a szende ibolya,<br/>a tavasznak e szép bájos mosolya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hűségedet jelzi a kis nefelejcs,<br/>földi gyermekeidet, óh, el ne felejtsd!<br/>A fehér liliom s édes illata,<br/>tiszta szüzességed ábrázolata.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szívünk virágaiból mi is szent Szűzünk<br/>szelíd homlokodra koszorút fűzünk.<br/>Minden virágszálon szép neved ragyog,<br/>úgy ünnepeljük e bájos hónapot.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mária, Szűzanyánk, kegyeidbe végy,<br/>szívünk kis kertjének kertésze te légy!<br/>Nevelj benn erényből bájvirágokat:<br/>nefelejcset, rózsát, szép liljomokat!</lines>
+    </verse>
+  </lyrics>
+</song>

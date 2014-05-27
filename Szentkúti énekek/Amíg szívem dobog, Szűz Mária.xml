@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Amíg szívem dobog, Szűz Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amíg szívem dobog, Szűz Mária,<br/>nem szűnik szeretni téged soha.<br/>Szívem szerelme, hódolat szaván<br/>sóhajt fel hozzád: üdvözlégy anyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívem öröm érje, vagy búbánat,<br/>egyik sem nyomja el a szent vágyat,<br/>hogy dícsérjelek, hódolat szaván.<br/>Naponta zengem: üdvözlégy anyám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha a virág ajka beszélhetne,<br/>a legyszebbet hoznám üdvözletre,<br/>hogy ez is zengje, hódolat szaván,<br/>s mondja helyettem: üdvözlégy anyám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha a szivárvány az enyém volna,<br/>lábad elé tenném zsámolyodra,<br/>és mondja néked hódolat szaván:<br/>szebb vagy mindennél, üdvözlégy, anyám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha a csillagtábor megszólalna,<br/>annak is az lenne első szava,<br/>köszöntsön az is hódolat szaván,<br/>s nevemben zengje: üdvözlégy anyám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>És ha elközelget éltem vége,<br/>akkor is te leszel, Szűz, reményem.<br/>Haláltusámban hódolat szaván,<br/>rebegve zengem: hódolat, anyám!</lines>
+    </verse>
+  </lyrics>
+</song>

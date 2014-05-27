@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Térdhajtással, leborulva</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Térdhajtással, leborulva köszöntünk, jó Szűzanyánk!<br/>Templomunknak oltáráról tekintsél le mireánk!<br/>Örömmel és fájó szívvel fohászkodunk fel hozzád:<br/>Legyél velünk, maradj velünk, csodálatos Szent Anyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérjed a te Szent Fiadat, fordítsa felénk arcát!<br/>Őt köszöntve, leborulva oltárod zsámolyánál,<br/>így könyörgünk itt mindnyájan, látod, drága Szűzanyánk.<br/>Legyél velünk, maradj velünk, csodálatos Szent Anyánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Búcsúzunk, mert mennünk kell már, a munka vár mireánk.<br/>Fájó szívvel el kell hagynunk oltárod szent zsámolyát.<br/>Föltekintünk Kegyképedre, így kiáltunk fel hozzád:<br/>Legyél velünk, maradj velünk, csodálatos Szent Anyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

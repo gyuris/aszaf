@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Isten veled Anyánk, már mi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten veled Anyánk, már mi elindulunk,<br/>Talán mostan tőled utolszor búcsúzunk.<br/>Kesereg a szívünk, el kell menni,<br/>drága kegyhelyedet itt kell hagyni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elédbe borulunk, kedves Édesanyánk,<br/>anyai áldásod, kérünk, add most reánk.<br/>Terjeszd ki felettünk szent kezedet,<br/>s álld meg azt, ki téged híven szeret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha innen elmegyünk, ó jöjj te is velünk,<br/>nélküled mindnyájan, szegény árvák leszünk.<br/>Szánd meg az árvákat s özvegyeket,<br/>kik vígasztalásért hozzád jöttek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy szeretetedet szívünkből köszönjük,<br/>sok bajjal terhelten, leborulva kérünk:<br/>mutass be bennünket szent Fiadnak,<br/>szent öledben hordott Magzatodnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megnyugodott szívünk feltörő sóhaja:<br/>nincs e földön mint te, nincs olyan jó anya.<br/>Csak azt kérjük tőled ajándékba:<br/>vígasztalj meg minket, Szűz Mária!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten veled Anyánk, sírva felkiáltunk,<br/>e szent helyen talán utoljára látunk.<br/>Halálunkban jöjj majd segélyünkre,<br/>isteni Fiadhoz vígy mennyekbe.</lines>
+    </verse>
+  </lyrics>
+</song>

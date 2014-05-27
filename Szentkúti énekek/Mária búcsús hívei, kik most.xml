@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Mária búcsús hívei, kik most</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária búcsús hívei, kik most ide jöttetek,<br/>a szentkúti Szűzanyához Isten hozott titeket.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lángoló nagy szeretettel, örömmel jöttünk hozzád,<br/>örömkönnyekkel öntözzük lábaidnak zsámolyát.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint rég látott jó anyjához megy a szerető gyermek,<br/>oly örömmel, oly epedve jött tehozzád hű néped.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A szeretet rózsalánca fűzzön tehozzád minket,<br/>árva lelkünk szent Szíveden találjon nyugvóhelyet.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A hervadt virág epedve várja a harmatcseppet,<br/>mi is szomjazva várjuk a te égi kegyelmedet.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Benned bízunk, mert hisszük, hogy aki tebenned bízik,<br/>reményében, bizalmában soha nem csalatkozik.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ezért életben-halálban mi csak tebenned bízunk,<br/>síron innen és síron túl te légy a mi oltalmunk.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Légy csillagunk, ha a halál éjjele reánk borul,<br/>jöjj el hozzánk, ha testünkre néma sírhant domborul.<br/>Szűz Mária, Egek Gyöngye, adj áldást híveidre,<br/>drágalátos kezeiddel ölelj minket szívedre.</lines>
+    </verse>
+  </lyrics>
+</song>

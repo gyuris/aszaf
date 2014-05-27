@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Nagyasszonyunk, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagyasszonyunk, édes,<br/>téged szomjaz, éhez<br/>szívünk erős hittel,<br/>hogy a veszélyt vedd el,<br/>Boldogasszonyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Annyi özvegy s árva<br/>szívét feléd tárja,<br/>oltalmadat kérve<br/>sóhajt fel az égre,<br/>Boldogasszonyunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi is velük esdünk:<br/>gyógyítsd lelkünk-testünk,<br/>jöjj, hajolj le hozzánk,<br/>égi vigaszt hozz ránk,<br/>Boldogasszonyunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Háborúnak, vésznek<br/>rémitől, ó, védj meg,<br/>esdeklésed által<br/>tartsad tőlünk távol,<br/>Boldogasszonyunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nehéz idők gondja<br/>könnyeinket ontja,<br/>szállj le közénk, hitsd szét<br/>béke áldott kincsét,<br/>Boldogasszonyunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ebben a szent hitben<br/>engedje az Isten:<br/>dicsérhessen téged<br/>szegény magyar néped,<br/>Boldogasszonyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

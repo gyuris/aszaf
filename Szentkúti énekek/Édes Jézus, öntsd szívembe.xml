@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Édes Jézus, öntsd szívembe</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus, öntsd szívembe lángoló szerelmedet,<br/>kiben annak tüze lángol, kárhozott az nem lehet.<br/>Kiben annak lángja lobban, csak feléd tart szűntelen,<br/>bűnbe estem, óh bocsáss meg, Jézus Szíve légy velem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, öntsd szívembe a hithősök jellemét,<br/>hogy hirdessem bátran, fennen szent neved dicséretét.<br/>Mártír hittel a világnak minden kincsét megvetem,<br/>taníts érted élni, halni, Jézus Szíve légy velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édes Jézus, ha a gúnynak nyila sebzi szívemet,<br/>adj erőt, hogy a Golgotán nyugodtan kövesselek.<br/>Adj erőt, hogy érted élve, érted küzdve győztesen,<br/>egykor szép egedbe jussak. Jézus Szíve légy velem!</lines>
+    </verse>
+  </lyrics>
+</song>

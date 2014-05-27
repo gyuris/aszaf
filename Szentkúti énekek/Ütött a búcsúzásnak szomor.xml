@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ütött a búcsúzásnak szomor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ütött a búcsúzásnak szomorú órája,<br/>drágalátos Szűzanyánk, indulunk az útra.<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyes arccal, bús szívvel itt állunk előtted,<br/>lehet már ez életben itt nem látunk téged.<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De ha el is távozunk édes hajlékodból,<br/>szíveinket itt hagyjuk szerelmi zálogul.<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Küldj szent áldást azokra, kik el nem jöhettek,<br/>de akik mi általunk köszöntöttek téged!<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te légy vezércsillagunk, hogy hazatérhessünk,<br/>hogy az otthonlevőkkel téged dicsérhessünk!<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vigyázzon mindnyájunkra anyaságod szeme,<br/>oltalmazzon a bűntől szent Szíved szerelme!<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó fogadj mindnyájunkat szent palástod alá,<br/>hogy a földi életünk váljon szent búcsúvá!<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Most magunkat mindnyájan birtokodban hagyjuk,<br/>és szívünket örökre szent Szívedbe zárjuk.<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Drága képed ragyogjon előttünk mindenütt,<br/>míg utolsó búcsúnkra a végóra nem üt.<br/>Drágalátos szent Szűz, Anyánk, Isten veled!<br/>Szent kezeiddel áldd meg búcsúzó népedet!</lines>
+    </verse>
+  </lyrics>
+</song>

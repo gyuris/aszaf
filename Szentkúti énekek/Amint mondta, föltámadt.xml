@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Amint mondta, föltámadt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Amint mondta, föltámadt, nincsen itt az Úr!”<br/>hangos szóval hirdeti angyal a sírból.<br/>Legyőzte az örök halált, újra vigadunk!<br/>Világvégén nagy örömre mind feltámadunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Negyven napig megjelent sokszor idelent,<br/>áldozócsütörtökön Jézus mennybe ment.<br/>Míg a földön élünk egyre búcsúzkodni kell,<br/>világvégén ítéletre újra így jön el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pünkösd napján mint a szél, zúgás támadott,<br/>a Szűz és a „tizenegy” míg imádkozott.<br/>A Szentlélek osztogatta hét ajándékát,<br/>ma is adja mindenkinek, akik imádják.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hová eddig egyre járt csak a sóhaja,<br/>végre a Fiához szállt szép Szűz Mária.<br/>Teste-lelke dicsőségben ott van örökre,<br/>odavár majd bennünket is fel a mennyekbe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nagy öröm van az égben, zengnek angyalok.<br/>Szűz Mária szent fején korona ragyog.<br/>Drága Fiad felvett téged égi székébe,<br/>vigyázz kérünk, Nagyasszonyunk, szegény népedre!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Megkötöttük koszorúd, óh te drága Szűz,<br/>mindegyik szem bennünket jobban hozzád fűz.<br/>Rólunk meg ne feledkezzél, égi Királyné,<br/>imádkozzál miérettünk, most és örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

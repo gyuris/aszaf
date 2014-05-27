@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Mária! Gyönyörű nevednek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária! Gyönyörű nevednek<br/>százezerszer, meg ezerszer<br/>mondunk üdvözletet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszöntünk születésed napján,<br/>aki hozzánk leszállottál<br/>a szerelem szárnyán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiszta Szűz, mennyei rózsaszál,<br/>ki a szent Anna házában<br/>ma kivirágoztál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ékes Szűz, születésed napján<br/>ragyogjon ránk szent áldásod<br/>rózsaszín hajnala!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akinek Szent Anna úgy örült,<br/>te vagy akit e világra<br/>szeplőtelenül szült.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drága Szűz, mennyország öröme,<br/>az élet tengerén járók<br/>biztos vezetője.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tekints ránk aranyos bölcsődből,<br/>legyünk életben s halálban<br/>tied mindenestől!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ne hagyj el az élet útjain,<br/>maradj velünk s légy mellettünk<br/>minden küzdelmein!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>S ha érünk utolsó óránkhoz,<br/>jöjj el, égi Kisasszonyunk<br/>halálos ágyunkhoz!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Szűz karod terjeszd ki fölöttünk,<br/>hogy a te szent kebeleden<br/>adhassuk ki lelkünk!</lines>
+    </verse>
+  </lyrics>
+</song>

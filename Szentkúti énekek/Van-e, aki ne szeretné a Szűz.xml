@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Van-e, aki ne szeretné a Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van-e, aki ne szeretné a Szűz Máriát,<br/>aki hozzánk így intézé anyai szavát:<br/>Mindnyájan énhozzám jöjjetek,<br/>letörlöm bánatos könnyeiteket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjjön ide a kesergő özvegy és árva!<br/>Itt van a jó édesanya, megvigasztalja.<br/>Mindnyájan énhozzám jöjjetek,<br/>letörlöm bánatos könnyeiteket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjön ide, kit betegség régen gyötör már!<br/>A betegek gyógyítója: a Szűzanya vár!<br/>Mindnyájan énhozzám jöjjetek,<br/>letörlöm bánatos könnyeiteket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Akinek szentséges Szíve mindig tárva van,<br/>meghallgatja kérésünket sok bánatunkban.<br/>Mindnyájan énhozzám jöjjetek,<br/>letörlöm bánatos könnyeiteket!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jertek velem mindnyájan a Szűz Máriához,<br/>a mennyei rózsáskertnek Királynéjához!<br/>Kérjük, hogy anyai kegyébe,<br/>fogadjon be minket örökre! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

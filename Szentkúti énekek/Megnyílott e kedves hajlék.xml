@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Megnyílott e kedves hajlék</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megnyílott e kedves hajlék e mai napon,<br/>minden ajak zengedezzen örömtelt hangon!<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, kedves jó anyánk, hozzád eljöttünk,<br/>hogy drága szent képed előtt kegyelmet nyerjünk.<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oltárod szent zsámolyánál térdre borulunk,<br/>fájó szívvel, könnyes arccal hozzád fordulunk.<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sehol sem találunk tőled jobb édesanyát,<br/>e siralomnak völgyében, ó, tekints le ránk.<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldd meg hű tisztelőidet, kik itt könyörgünk,<br/>drágalátos szent Fiadnál imádkozz értünk!<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ne hagyd el az özvegyeket és az árvákat,<br/>a szent hitben vezéreljen égi jóságod.<br/>Kármelhegynek szép Csillaga, szép Szűz Mária,<br/>te vagy a szent skapuláré legszebb rózsája.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Arra kérünk, Édesanyánk, szép Szűz Mária,<br/>midőn eljő életünknek végső órája,<br/>skapuláréd érdeméért, égi jó anya,<br/>vidd föl a mi lelkünket a szép mennyországba.</lines>
+    </verse>
+  </lyrics>
+</song>

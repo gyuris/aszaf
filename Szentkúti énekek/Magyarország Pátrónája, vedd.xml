@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Magyarország Pátrónája, vedd</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magyarország Pátrónája, vedd szívedbe népedet,<br/>visszasírva dicső múltját, vidd jóra, ha tévedett!<br/>Édesanyja vagy e Honnak, ki megbocsát, mert szeret;<br/>óh Szűzanyánk, esdve kérünk, örködjél e Hon felett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentek égben s a földön mi, nagyoktól lett unokák,<br/>jövünk hozzád ünnepelni s zengni neked szent hálát.<br/>A mi hálánk egy szent eskű: mindörökre hűk leszünk,<br/>hűk tehozzád, hűk e honhoz, Anyánk, édes mindenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

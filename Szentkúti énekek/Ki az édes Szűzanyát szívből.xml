@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Ki az édes Szűzanyát szívből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki az édes Szűzanyát szívből szereti,<br/>szent örömmel siessen Őt köszönteni!<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömében sír bennünk a szív és a lélek,<br/>hogy ím itt köszönthetünk, jó Anyánk, téged.<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyitva áll előttünk a szentkúti templom,<br/>ahol eloszlik minden bú és fájdalom.<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt örömgyönggyé válik a bánat könnye,<br/>lecsendesül a kebel zajló tengere.<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Átvesszük üzenetedet, szentkúti szép Szűz,<br/>katolikus hitünkhöz a szeretet fűz.<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kinek lelke elmerült a bú tengeren,<br/>jöjjön ide, mert itt van a megmentője!<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Itt az árva lelkére égi fény borul,<br/>a bús özvegy élete örömre fordul.<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Érted égő kebelem rózsáskert legyen,<br/>melyben a legszebb virág emléked legyen!<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ha egykor a gyászsírhant reánk domborul,<br/>veled a mennyországban éljünk boldogul!<br/>Üdvözlégy mennyei rózsa, hóliliomszál,<br/>ki a Szentkút csendes völgyén kivirágoztál.</lines>
+    </verse>
+  </lyrics>
+</song>

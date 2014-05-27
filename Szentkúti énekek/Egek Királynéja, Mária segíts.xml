@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Egek Királynéja, Mária segíts</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egek Királynéja, Mária segíts,<br/>Jézusnak szent Anyja, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent fiadra kérünk, Mária segíts,<br/>mert te vagy reményünk, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hitünk védelmében, Mária segíts,<br/>üdvünk szent ügyében, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy az Istent féljük, Mária segíts,<br/>és kegyét megnyerjük, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy neked tetszhessünk, Mária segíts,<br/>s téged követhessünk, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Irgalmasság anyja, Mária segíts,<br/>megtérők oltalma, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Igaz bűnbánatra, Mária segíts,<br/>életjobbulásra, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Erős bizalomra, Mária segíts,<br/>lelki nyugalomra, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Majd az élet fogytán, Mária segíts,<br/>halálunk óráján, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Hogy boldogulhassunk, Mária segíts,<br/>mennyekbe juthassunk, Mária segíts!<br/>Óh segíts mirajtunk, kik hozzád sóhajtunk, Mária segíts!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Égből leszállt arany edény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égből leszállt arany edény: Jézus szent Szíve.<br/>Üdvösséget adó napfény: Jézus szent Szíve.<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiszta vagy te, mint a hajnal, Jézus szent Szíve,<br/>teljes üdvadó malaszttal, Jézus szent Szíve.<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szűz virágnak szent gyümölcse: Jézus szent Szíve,<br/>üdvösségünk ára - kincse: Jézus szent Szíve.<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gyújtsd szívemet égi lángra, Jézus szent Szíve,<br/>hogy csak te légy óhajtása, Jézus szent Szíve!<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oltsd szívembe szerelmedet, Jézus szent Szíve,<br/>egyedül a tied legyek, Jézus szent Szíve!<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Irgalmad égi tüzétől, Jézus szent Szíve,<br/>hadd égjek el szerelmedtől, Jézus szent Szíve!<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Azt a boldogságot add meg, Jézus szent Szíve,<br/>hogy szerelmedben haljak meg, Jézus szent Szíve!<br/>Szerelmednek lánghevével, szívemet mennyei tűzzel,<br/>gyullassza fel szerelmedre Jézus szent Szíve!</lines>
+    </verse>
+  </lyrics>
+</song>

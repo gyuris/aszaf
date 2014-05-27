@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Krisztus Király, a porba</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Király, a porba hullva,<br/>imádva áld a por fia.<br/>Ó sírva, árván, semmisülten<br/>karját feléd kell tárnia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Király, öt szent sebedbe<br/>helyezzük sebzett életünk.<br/>Ó égi béke nagy királya,<br/>szent békességet adj nekünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus Király, csak egy a vágyunk,<br/>tebenned élni s általad.<br/>Hogy minden nyelv csak téged áldjon<br/>az égben, földön s föld alatt.</lines>
+    </verse>
+  </lyrics>
+</song>

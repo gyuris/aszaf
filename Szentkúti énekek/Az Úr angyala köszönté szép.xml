@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Az Úr angyala köszönté szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr angyala köszönté szép Szűz Máriát,<br/>és Szűz méhébe fogadá Isten szent Fiát.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Íme, én vagyok az Úrnak hív szolgálója,<br/>legyen nekem igéd szerint szent akarata.”<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És az Ige testté lett és köztünk lakozék,<br/>Szentlélek Isten malasztja ránk harmatozék.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Imádkozzál mi érettünk Isten szent Anyja,<br/>a mennyei seregeknek szűz Királynéja.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Méltók legyünk szent Fiadnak ígéretre,<br/>bemehessünk tehozzád az örök életbe.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Majd ha eljő életünknek végső órája,<br/>szent nevedre kérünk téged, szép Szűz Mária.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jöjj el akkor, vígasztald meg bús szíveinket,<br/>s holtunk után mennyországba segítsd lelkünket.<br/>Üdvözlégy Szűz Mária, Úr Jézus Édesanyja,<br/>te vagy a mi magyar hazánk Védő Asszonya.</lines>
+    </verse>
+  </lyrics>
+</song>

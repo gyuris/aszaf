@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Fel magyar nép, hőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fel magyar nép, hőn magasztald nemzeted védasszonyát!<br/>Hódoló szép énekünk ma a világot hassa át!<br/>Tenger és hegy ezt kiáltsák, miként hajdan, visszhangozzák;<br/>fel magyar nép, hőn magasztald nemzeted védasszonyát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fel a Tisza-Duna partján s az emberek harsogják,<br/>hirdessék, miként dicséri a magyar Szűz Máriát.<br/>Bíborkelet hűs szellője, ősi határinkra vigye,<br/>fel a Tisza-Duna partján, dícsérjétek Máriát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Máriának országában zengje ajk, szív s orgona,<br/>mennyországnak királynője, magyarok Nagyasszonya!<br/>Ím, dicsőít Isten népe, melyre fényt neved deríte,<br/>Máriának országában zengedezzék a hívek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szép vagy rózsa s liliomként, nagy s dicső vagy, Mária.<br/>Boldog az, ki benned bízik, hisz boldog vagy annyira!<br/>Aki érted lelkesedik, szebb jövőért fáradozik.<br/>Szép vagy rózsa s liliomként, nagy s dicső vagy, Mária.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bárha nem tudunk dicsérni szóval úgy, mint érezünk,<br/>s bárha bánat nyomja lelkünk, s könnybe lábad a szemünk,<br/>miként őseink tiszteltek, úgy tisztel ma is nemzeted,<br/>noha nem tudunk úgy teni szónkkal, úgy, mint érezünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, szeretet asszonyának, Máriának szent Szíve,<br/>lásd megviselt magyar néped hűségét mint tölti be.<br/>Zárd be gazdag szerelmedbe, alázatos szép lelkede,<br/>a szeretet asszonyának, Máriának szent Szíve.</lines>
+    </verse>
+  </lyrics>
+</song>

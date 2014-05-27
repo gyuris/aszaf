@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Adjon Isten jó éjszakát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjon Isten jó éjszakát,<br/>küldje hozzánk őrangyalát,<br/>terjessze ránk szent áldását,<br/>köszöntsük a Szűz Máriát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszöntsük a Szűz Máriát,<br/>vele együtt ő szent Fiát,<br/>Jézus, Mária szent neve,<br/>legyen nekünk örömünkre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, eltűnt a fényes nap,<br/>felkel-e még nekünk holnap?<br/>Még számadásom nem egész,<br/>nem vagyok még útra kész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Íme, sötétben maradok,<br/>jöjjetek élő csillagok,<br/>ragyogjatok élő tüzek,<br/>dicsőült mennyei szentek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te is őrző szent angyalom,<br/>dalold tovább csendes dalom,<br/>míg a testem nyugosztalom,<br/>légy mellettem, oltalmazóm!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mikor a hold fel fog jönni,<br/>Betlehembe fogunk menni,<br/>Betlehembe fogunk menni,<br/>a kis Jézust köszönteni.</lines>
+    </verse>
+  </lyrics>
+</song>

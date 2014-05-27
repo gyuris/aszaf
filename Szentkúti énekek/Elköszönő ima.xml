@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Elköszönő ima</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentkúti Édesanyánk!<br/>Földi életutunkon szent palástoddal óvj meg minket lelki és testi veszedelemtől.<br/>Védelmezz és szeress minket, halálunk óráján pedig állj mellettünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd meg otthonunkat, családunkat, községünket (városunkat), szüleinket, testvéreinket, barátainkat és ellenségeinket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldd meg kezünk munkáját. Térítsd szent fiadhoz a bűnösöket, békítsd meg az ellenségeket, vigasztald meg a szenvedőket és bánkódókat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vedd oltalmadba az árvákat és özvegyeket. Gyámolítsd az elaggottakat és tehetetleneket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gyógyítsd meg a betegeket, vigasztald a haldoklókat.<br/>Nyisd meg a lelki vakok szemeit és törd meg a megátalkodott és hitetlen szívek keménységét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldd meg magyar hazánkat. Adj népednek jobb jövőt, jólétet, békét, boldogságot.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Engedd, hogy Szent István népe az igaz keresztény katolikus hitben egesülve téged – égi Anyánk – szeressen és tiszteljen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szabadítsd ki hatalmas közbenjárásoddal a tisztítótűzben szenvedő lelkeket, kiváltképpen azokat, akik életükben sokszor elzarándokoltak e szent helyre.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Add, hogy Szentkút áldott vize az égi kegyelmek patakja legyen lelkünk és testünk számára.<br/>Engedd, hogy ősi kegyhelyeden még sokszor megláthassuk angyali arcodat, és hódolhassunk szent Fiadnak, az Atyával és Szentlélekkel egyetemben.<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

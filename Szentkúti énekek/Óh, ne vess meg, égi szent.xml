@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:43">
+  <properties>
+    <titles>
+      <title>Óh, ne vess meg, égi szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh, ne vess meg, égi szent Szűz, bennünket,<br/>kik tehozzád emeljük bús szívünket!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged Isten kiválasztott anyjának,<br/>Édesanyja így lettél a világnak.<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erényeid égen-földön ragyognak,<br/>szép hajnali csillaga vagy azoknak.<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Óh, ragyogj hát mielőttünk szüntelen,<br/>vezérfényünk te légy itt az életben!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Testi-lelki kártól ments meg bennünket,<br/>vigasztalj meg, ha baj éri szívünket!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vigasztald a szenvedőket, árvákat,<br/>kit lesújtott a betegség és bánat!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ha velünk vagy, az ellenség nem árthat,<br/>csapásoktól védd meg szegény hazánkat!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Könyörgésünk vidd el te szent Fiadhoz,<br/>halálunkkor végy bennünket magadhoz!<br/>Mária, Mária, Mária, Szűzanya!</lines>
+    </verse>
+  </lyrics>
+</song>

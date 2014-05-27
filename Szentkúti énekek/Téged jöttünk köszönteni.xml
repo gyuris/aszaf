@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:47:42">
+  <properties>
+    <titles>
+      <title>Téged jöttünk köszönteni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentkúti énekek" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged jöttünk köszönteni,<br/>méltóztassál meghallgatni,<br/>óh Szentkút fényes Csillaga,<br/>üdvözlégy szép Szűz Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt tündökölsz az oltáron,<br/>mint a harmat a rózsákon,<br/>ó Szentkút fényes Csillaga,<br/>légy híveid pártfogója.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Végy minket is kegyelmedbe,<br/>te vígasztalj az életbe',<br/>ó szentkúti Szűz Mária,<br/>add áldásod mindnyájunkra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hozzád jöttünk nagy örömmel,<br/>boldogító szerelmeddel,<br/>mennyországnak violája,<br/>ó Szentkút fényes Csillaga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vagy erőnk és oltalmunk,<br/>Isten előtt védő pajzsunk,<br/>szent trónodról nézz le reánk,<br/>Mária, kedves jó anyánk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eljött hozzánk a bús árva,<br/>és zokog az özvegy anya,<br/>szende, szelíd, szép ibolya,<br/>mennyországnak királynéja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mert könny ragyog a szemükben,<br/>bánat honol a szívükben,<br/>összetett kezekkel kérnek<br/>és hozzád így esdekelnek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mária, viselj gondot ránk,<br/>nézz irgalmas szemmel miránk,<br/>te az árváknak jó anyja,<br/>légy szívünk vigasztalója.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oltárodhoz leborulunk,<br/>képed előtt térdet hajtunk,<br/>kérünk álld meg vendégeidet,<br/>a te hű tisztelőidet.</lines>
+    </verse>
+  </lyrics>
+</song>
