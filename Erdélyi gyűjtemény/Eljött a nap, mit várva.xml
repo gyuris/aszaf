@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Eljött a nap, mit várva</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött a nap, mit várva vártunk,<br/>Az égen csillagfény ragyog.<br/>Kis Jézus fáját ím elhozták<br/>A halkan szálló angyalok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönjük neked édes Jézus,<br/>Hogy szíved minket úgy szeret.<br/>Az angyalok karával együtt<br/>Dicsérjük s áldjuk szent neved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha elmúlik majd a Karácsony,<br/>Te akkor is maradj velünk.<br/>Míg élünk, ezt a kis családot<br/>Szeresd ás áldd meg Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

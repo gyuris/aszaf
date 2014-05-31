@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Halld, Szűzanyánk a lelkünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halld, Szűzanyánk a lelkünk sóhaját.<br/>Nézd, bús szívünk ma hét tőr járja át.<br/>Nagyasszonyunk, Te égi vígaszunk<br/>Búnk éjjelén légy Hajnalcsillagunk,<br/>Égi szép Szűz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent pártfogónk, Te kulcsold két kezünk.<br/>Nincs már remény, ha nem jössz, elveszünk!<br/>Gyújts égi fényt a bűnös föld felett,<br/>Hisz magzatod már üdvünk napja lett!<br/>Égi szép Szűz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj Szűz Anyánk, ha végső óra hív,<br/>Mosd meg szívünk, Te legszebb földi szív!<br/>Kérd Jézusunk, ha sorsunk sírba zárt,<br/>Ő nyissa ránk a szent föltámadást.<br/>Égi szép Szűz.</lines>
+    </verse>
+  </lyrics>
+</song>

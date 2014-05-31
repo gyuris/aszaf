@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Mária drága neve, lelkem édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária drága neve, lelkem édes öröme, Mária!<br/>Ha megzendül fülemben, vidámsággal szívemben, Mária!<br/>A buzgó szív, mely hozzád hív, téged kíván dicsérni,<br/>Szereteteddel égni, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buzgósággal vigadván, lelkem Téged óhajtván, Mária!<br/>Gerjed tiszteletedre, fiad szeretetére, Mária!<br/>Mert kegyelmet nem kereshet, nem találhat csak annál,<br/>Kinek Te anyja valál, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged az Isten kedvelt, fia anyjának rendelt, Mária!<br/>Téged illet dicséret, angyalok s szentek felett, Mária!<br/>Óh kegyes szűz, mindent elűzz, ami minket rútíthat,<br/>Istentől eltaszíthat, Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztaság szűz virága, szíveink vidámsága, Mária!<br/>Elesteknek gyámola, bűnösöknek oltalma, Mária!<br/>Óh Mária, Jézus anyja, esedezzél érettünk,<br/>Légy mindenkor mellettünk, Mária!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Segítsd buzó népedet, mely tiszteli nevedet, Mária,<br/>Hogy térjen Istenéhez, üdvének kútfejéhez, Mária.<br/>Édes anya térítsd jóra, kik vétküket szeretik,<br/>És az Istent megvetik, Mária</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Valaki csak gondolja és tiszta szívből valja, Mária,<br/>Add, hogy téged szeressen s élted útján kövessen, Mária.<br/>Kik dicsérünk, arra kérünk, hogy egész életünkben<br/>Írva legyen szívünkben, Mária.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Isten téged választott, nekünk oltalmul hagyott, Mária,<br/>Midőn testtől elválik, lelkünk világból múlik, Mária.<br/>Légy vezérünk, segítségünk, érettünk Jézust kérjed,<br/>Mennyben legyünk tevéled, Mária.</lines>
+    </verse>
+  </lyrics>
+</song>

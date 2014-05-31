@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, áldott légy szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, áldott légy szent test és vér!<br/>Mely kenyér s bor színben elrejteztél.<br/>Lelkünk eledele, bús szívünk öröme,<br/>Megváltó Jézusunk teste s vére.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csodálja ég és föld irgalmadat,<br/>Hogy íly áldozatra adtad magad.<br/>A bűnös emberért, a háládatlanért,<br/>Adtál kín s halállal oly drága bért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, kegyelmes Atyánk nézz fiadra,<br/>S érte fogadj minket irgalmadba.<br/>Az eltévedett juh, a tékozló fiu,<br/>Hozzád tér óh Atyánk, légy irgalmas.</lines>
+    </verse>
+  </lyrics>
+</song>

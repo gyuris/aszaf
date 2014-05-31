@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Jézus szíve, szeretlek én</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.<br/>Ha vihar kél fejem felett,<br/>legyen oltalmam szelíd szíved.<br/>Minden veszélyt elűz egy mosolyod,<br/>lelkem megnyugszik, ha veled vagyok.<br/>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.<br/>Ölelj magadhoz engemet,<br/>hogy mindig jobban szeresselek.<br/>Te légy tanítom, és jó pásztorom.<br/>Szívemet, lelkemet reád bízom.<br/>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.<br/>Dallal kereslek tégedet,<br/>vígasztald meg árva szívemet.<br/>Rózsákat hintek oltárod elé,<br/>hogy szálljon illatuk az ég felé.<br/>Jézus szíve, szeretlek én,<br/>segíts át az élet tengerén.</lines>
+    </verse>
+  </lyrics>
+</song>

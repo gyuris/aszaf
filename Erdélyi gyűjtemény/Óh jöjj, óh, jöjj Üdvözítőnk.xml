@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Óh jöjj, óh, jöjj Üdvözítőnk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh jöjj, óh, jöjj Üdvözítőnk,<br/>Beteljesült már az idő.<br/>Törd át az ég zárt ajtaját,<br/>Vár a világ sóvárgva Rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megnyílt az ég harmatozva,<br/>Megváltónkat, hogy lehozza.<br/>Ég felhői nyíljatok szét,<br/>Hozva Jákób fejedelmét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Föld virulj ki, völgyön, halmon,<br/>Viruló zöld hadd fakadjon.<br/>Nyilj ki földnek szép virága,<br/>Jákób házának királya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hol maradsz már tőlünk, késve,<br/>Világ üdve, reménysége?<br/>A szívekbe vigaszt öntve,<br/>Szállj le e siralom völgybe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh fényes nap, óh szép csillag,<br/>Téged vágyunk mi látni csak.<br/>Kelj fel napunk, fényességed<br/>Üzze el a sötétséget.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Végszükségben itt sinylődünk,<br/>Örök halál van előttünk.<br/>Óh jöjj, óh jöjj, erős kézzel<br/>Boldog hazádba vezess el!</lines>
+    </verse>
+  </lyrics>
+</song>

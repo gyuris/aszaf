@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Mért tépi úgy a bánat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mért tépi úgy a bánat szívedet,<br/>Az élet útján mért ejtsz könnyeket?<br/>Mért jársz úgy mintha nem volna neked<br/>Atyád, ki óvjon s védjen tégedet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó nézd e tiszta szent oltárokon<br/>E nagy szentségben én az Úr lakom.<br/>Ember, töröld hát le a könnyeket,<br/>Remélj, ne csüggedj, megsegítelek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha látod, hogy nincsen már senki más,<br/>Ki adna szívednek vigasztalást.<br/>Ha látod, hogy mindenki elhagyott,<br/>Nincs ki enyhítse tenger bánatod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó nézd e tiszta szent oltárokon<br/>E nagy szentségben én az Úr lakom.<br/>Ember, töröld hát le a könnyeket,<br/>Remélj, ne csüggedj, megsegítelek.</lines>
+    </verse>
+  </lyrics>
+</song>

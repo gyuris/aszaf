@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Feléd ó Istenem, én Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feléd ó Istenem, én Istenem<br/>Vágyódik szüntelen én hű szívem.<br/>Repülnék szárnyakon, hő vágyam, merre vagy.<br/>Fel hozád Istenem, én Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tövises, szűk úton a mennybe fel<br/>Vándorló gyermeked mikor jut el?<br/>Angyalok karján át szállni segíts nekem,<br/>Fel hozád Istenem, én Istenem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küzelebb, közelebb Uram hozzád,<br/>Boldogan ölelem kereszted át.<br/>Édes lesz az nekem, hisz te emelsz ezen,<br/>Közelebb hozzád én Istenem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha vándor utamon a nap leszáll,<br/>Nyugtot fáradt fejem csak nálad talál.<br/>Álmomban rebegem, ó emeld szívemet<br/>Közelebb hozzád én Istenem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tudom, hogy arcodat megláthatom,<br/>Véget ér egykoron sok bánatom.<br/>Sóhajom végszava e hő ima legyen,<br/>Közelebb, közelebb hozzád Istenem.</lines>
+    </verse>
+  </lyrics>
+</song>

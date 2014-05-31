@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Köszönteni jöttünk, Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Köszönteni jöttünk, Szűz Mária,<br/>Csodákkal tündöklő kegyes anya.<br/>Mert te vagy bűnösök szószólója, szószólója,<br/>Szomorú szívek vigasztalója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh mily nagy örömmel telt meg szívünk,<br/>Hogy szent képed elé megérkeztünk.<br/>Add miránk áldásod, óh Mária, óh Mária,<br/>Fogadj mindnyájunkat oltalmadba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézzed az árvákat, özvegyeket,<br/>Mint hullatják forró könnyeiket.<br/>Összekulcsolt kézzel téged kérnek, téged kérnek,<br/>Mint édesanyjukhoz, esedeznek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vedd kedvesen anyánk fáradtságunk,<br/>Mostan bemutatott utazásunk.<br/>Ajánld fel érettünk szent fiadnak, szent fiadnak,<br/>Nyerjél vigasztalást szolgáidnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És ha elérkezik végső óránk,<br/>Szentséges Szűz Anyánk, jöjj el hozzánk.<br/>Karjaidba fogadd mi lelkünket, mi lelkünket,<br/>Hogy mennyben láthassuk szent szívedet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicséret, dicsőség az Atyának,<br/>Érettünk született szent Fiának.<br/>És a vigasztaló Szentléleknek, Szentléleknek,<br/>Tisztelet adassék a szent Szűznek.</lines>
+    </verse>
+  </lyrics>
+</song>

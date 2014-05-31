@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Íme, egykor szent István</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, egykor szent István Istenben felálla,<br/>Bátorsággal zsidóknak, hogy ő prédikálna.<br/>És penitenciára mindent felindítna,<br/>Amint a szentírás ezt nyílván bizonyítja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Krisztus személy szerint neki megjelenék,<br/>Szent István szíve akkor megbátoríttaték.<br/>S mint szép gyémánt Istenben felékesíttetik,<br/>Jézusnak szerelmétől orcája tündöklik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyorsasággal mennyekből angyal leküldetik,<br/>Istennek akaratja neki jelentetik.<br/>Hogy ne féljen haláltól, megerősíttetik,<br/>Mártírságra Istentől mert felszenteltetik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alázatos szent István a megdorgálásban,<br/>Lőn gyönyörű ajakú az igazmondásban.<br/>Hallhatatlan szorgalmas Istennek útjában,<br/>Meg is koronáztaték magas mennyországban.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mivel mennyből, Istentől taníttatott vala,<br/>A zsidók kedve szerint ő nem prédikála.<br/>Azért lőn is őtőlük íly szörnyű halála,<br/>Hogy a Krisztus Jézusról nekiek így szóla.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az Istennek szent Fia, akit megöltetek,<br/>Üdvözítők, minékünk, a Jézust higyjétek!<br/>Őáltala Istenhez bizonnyal elértek,<br/>Nála nélkül üdvösség nem adatik néktek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ezen szókért felindul a zsidók haragja,<br/>Kővel, hogy verjék agyon, ki-ki azt kiáltja.<br/>Szent István a szemeit egekre fordítja,<br/>Az őtet kövezőkért Istent így imádja.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Óh egek drága gyöngye, szerelmes Jézusom,<br/>Bűnösök szép reménye, ártatlan Krisztusom.<br/>Ne nézd a nép vakságát, az én kívánságom,<br/>Bocsásd meg sőt bűnüket, szívemből óhajtom!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsértessék örökké áldott, szép Jézusom,<br/>Ki érettünk születtél, megváltó Krisztusom.<br/>E világon éltünkben légy mi orvosságunk,<br/>Holtunk után engedd meg örök boldogságunk!</lines>
+    </verse>
+  </lyrics>
+</song>

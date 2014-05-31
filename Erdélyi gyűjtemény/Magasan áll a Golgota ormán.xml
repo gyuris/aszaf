@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Magasan áll a Golgota ormán</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasan áll a Golgota ormán<br/>A Szent Kereszt, elhagyottan, árván.<br/>Csak egy anya zokog ott magában,<br/>Elmerülve szíve fájdalmában.<br/>Óh, ha én is ott lehettem volna,<br/>Mint a zápor, a könnyem úgy folyna.<br/>Minden csepp vért százszor megcsókolnék,<br/>S nem mennék el soha többé onnét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vértől ázott keresztfa ágára<br/>Máriának könnye csorog rája.<br/>Szánva néz a töviskoszorúra,<br/>Melytől elhalt az ég és föld Ura.<br/>Óh, ha én is ott lehettem volna,<br/>Folyna könnyem, de nem soká folyna.<br/>Meghasadna, megrepedne szívem,<br/>Ott zokognék a kereszt tövében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, Jézus, légy irgalmas vélünk,<br/>És bocsásd meg tengernyi sok vétkünk.<br/>Zárj kegyesen vérző szent sebedbe,<br/>S juttass egykor hozzád, fel a mennybe.<br/>Adj erőt a rosszat leküzdeni,<br/>Bűneimért méltán vezekelni,<br/>Keresztemet türelemmel vinni,<br/>Téged, Jézus, naponta követni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Szűz, kérünk égő fájdalmadra.<br/>Légy az édes irgalomnak Anyja!<br/>Vérző Szíved öleljen magához,<br/>Ki veled lép a szent keresztfához.<br/>A Golgotán, a kínos keresztfán<br/>Ott függ Jézus, az ártatlan Bárány.<br/>Mindent vállalt üdvödért, te, ember,<br/>Hát szeresd Őt s bűneidet vesd el!</lines>
+    </verse>
+  </lyrics>
+</song>

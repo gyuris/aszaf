@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Tantum ergo</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azért ezt a nagy Szentséget,<br/>Leborulva imádjuk.<br/>Teste s Vére Krisztusunknak,<br/>Hogy itt vagyon, jól tudjuk.<br/>Ha elménkkel fel nem fogjuk,<br/>Hitünkkel megfoghatjuk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Atyának és Fiúnak,<br/>Dicséret és tisztesség.<br/>Szentlélekkel egyetemben,<br/>Áldás, örök dicsőség.<br/>Háromságban egy szent Istent,<br/>Áldjon minden nemzetség! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Bűnös lélek, ide siess, aki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bűnös lélek, ide siess, aki meg vagy terhelve,<br/>Lelki könnyebbséget vehess, bűneidet itt tedd le.<br/>Földig borulj, neki hódolj, kérj kegyelmet, hogy megtisztulj<br/>Bűneid undokságából, lelkiképpen megújulj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oltári drága szentségben itt van a te orvosod,<br/>Kenyérszín alatt elrejtve égi kegyes gyámolod.<br/>Ki meggyógyít bűneidből, csak térj hozzá tiszta szívből,<br/>Vétkeidet megbocsátja irgalma bőségéből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Htalmas Úr mennyen s földön<br/>Erejét mindeneken,<br/>De nagy irgalmát mutatja<br/>A bűnös embereken.<br/>Ki hozzá tér, az sok jót nyer<br/>Mikkel semmi kincs fel nem ér.<br/>Boldog aki szívéből kér,<br/>Kegyelmet nyerve megtér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért tehát keseredett hívek ide jöjjetek,<br/>Ezen drága nagy szentségben áldja Istent lelketek.<br/>Buzgó szívvel itt kérjetek vigasztalást lelketeknek,<br/>S elveszi bűnötök terhét, s így üdvösséget nyertek.</lines>
+    </verse>
+  </lyrics>
+</song>

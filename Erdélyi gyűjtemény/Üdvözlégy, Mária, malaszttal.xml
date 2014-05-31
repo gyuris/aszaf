@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, Mária, malaszttal</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, Mária, malaszttal vagy teljes<br/>Úr vagyon Teveled, irgalmas és kegyelmes.<br/>Áldott vagy Te az aszzonyok között<br/>Szűz méhedbe mert az Úr költözött!<br/>Imádd Istent, bűnösökért, kérünk,<br/>Anyánk, légy reménységünk!</lines>
+    </verse>
+  </lyrics>
+</song>

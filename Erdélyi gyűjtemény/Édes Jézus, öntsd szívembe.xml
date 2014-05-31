@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Édes Jézus, öntsd szívembe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus, öntsd szívembe<br/>Lángoló szerelmedet.<br/>Kiben annak tüze lángol,<br/>Kárhozott az nem lehet.<br/>Kiben annak lángja lobban,<br/>Csak Feléd tart szüntelen.<br/>Bűnbe estem, óh, bocsásd meg!<br/>Jézus Szíve, légy velem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, öntsd szívembe<br/>A hit-hősök jellemét.<br/>Hadd hírdessem bátran, fennen<br/>Szent Neved dícséretét.<br/>Mártír hittel a világnak<br/>Minden kincsét megvetem.<br/>Taníts érted élni, halni!<br/>Jézus Szíve, légy velem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édes Jézus, vésd szívembe<br/>Szent bizalmad horgonyát.<br/>Szegény lelkem hadd remélje<br/>Boldogságát odaát.<br/>Gyenge szívek erős vára<br/>Bátorítsad a szívem,<br/>Hogy a harcot jó megálja,<br/>Jézus szíve légy velem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Édes Jézus, ha a gúnynak<br/>Nyíla sebzi szívemet,<br/>Adj türelmet, a Golgotán<br/>Nyugodtan kövesselek.<br/>Adj erőt, hogy érted élve,<br/>Érted küzdve győztesen,<br/>Egykor szép egedbe jussunk,<br/>Jézus szíve légy velem.</lines>
+    </verse>
+  </lyrics>
+</song>

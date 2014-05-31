@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Népek áldott védasszonya</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Népek áldott védasszonya, mennynek királynéja.<br/>Hozzád száll fel millióknak buzgó szent imája.<br/>Kérd az Istent értünk, őrizd, védd a lelkünk,<br/>Keresztények segítsége, légy a menedékünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogasszony ősi hitünk minket tehozzád fűz.<br/>Segélyt mindig tőled várunk, csillagkoszorús Szűz.<br/>Minden bánatunkban hozzád szállt a lelkünk,<br/>Keresztények segítsége, légy a menedékünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh dicső Szűz Isten anyja, világ királynéja,<br/>Kérve kérünk, nézz ismét e vergődő világra.<br/>Égi pártfogásod meg ne vondd mitőlünk,<br/>Keresztények segítsége, légy a menedékünk.</lines>
+    </verse>
+  </lyrics>
+</song>

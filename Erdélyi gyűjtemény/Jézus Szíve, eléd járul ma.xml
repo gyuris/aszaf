@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Jézus Szíve, eléd járul ma</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szíve, eléd járul ma gyermeked.<br/>Jézus Szíve, fogadd el fáradt lelkemet.<br/>Jézus Szíve, tárd ki Szívednek ajtaját.<br/>Jézus Szíve, hallgasd meg lelkem imáját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Szíve, ne hagyd elveszni lelkemet.<br/>Jézus Szíve, vezéreld jóra léptemet.<br/>Jézus Szíve, vezess az élet tengerén.<br/>Jézus Szíve, segíts! Feléd sietek én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Szíve, ha majd végórám közeleg,<br/>Jézus Szíve, Te csukd be fáradt szememet.<br/>Jézus Szíve, Benned pihenni óhajom.<br/>Jézus Szíve, Te légy utolsó sóhajom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Dicső szent Jánosnak ünnepét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicső szent Jánosnak ünnepét szenteljük,<br/>Az ő szent életét vígan énekeljük.<br/>Kit Krisztus szeretett, s mint szűzet úgy kedvelt,<br/>Buzgón mi is azt tiszteljük.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Jánost a Krisztus annyira kedvelte,<br/>Hogy a végvacsorán maga mellé vette.<br/>És fejét mellére, áldott szent testére<br/>Lahajtani megengedte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S éppen onnan vette azon bölcsességét,<br/>Mellyel úr Jézusnak igaz istenségét<br/>Írásba foglalta és előnkbe adta,<br/>Együtt igaz emberséggel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent János a Krisztust halálig követte,<br/>Kínszenvedésében végig volt mellette.<br/>Édes mesteréhez, szent Teremtőjéhez<br/>Hűségét így ismertette.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És szűznek szűz anyját Krisztus ajánlotta,<br/>Maga szűz szent anyja fiának vallotta.<br/>A keresztfán függvén, érettünk szenvedvén<br/>Mindkettőt így vigasztalta.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent Jánosnak mennybemenetele után,<br/>Semmi szeretetnél nagyobbnak nem tartván.<br/>Hagyta e tanítást, hogy szeressük egymást,<br/>S úgy járjunk az üdvösség útján.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az Úristent tehát szívünkből szeressük,<br/>S egymásszeretetben szent Jánost kövessük.<br/>Hogy az élet után, mennyországba jutván<br/>Vele együtt örvendhessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Szent szűz Anyánk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent szűz Anyánk reménységünk,<br/>Fogadd imánk buzgón kérünk.<br/>Mely szívünkből hozzád száll,<br/>Mely szívünkből hozzád száll.<br/>Isten után benned bízunk,<br/>Benned bízva térdre hullunk.<br/>Hő imánkat meg ne vesd,<br/>Hő imánkat meg ne vesd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Szűz Anyánk, reménységünk,<br/>Fogad imánk, buzgón kérünk.<br/>Légy velünk, anyánk maradj,<br/>Oltalmazz és el ne hagyj.<br/>Isten után benned bízunk,<br/>Benned bízva térdre hullunk.<br/>Hő imánkat meg ne vesd,<br/>Hő imánkat meg ne vesd!</lines>
+    </verse>
+  </lyrics>
+</song>

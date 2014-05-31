@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Porba hullok, Uram, Oltárod</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porba hullok, Uram, Oltárod előtt.<br/>Hogy imádhassalak, adj lelki erőt.<br/>Hiszem, hogy jelen vagy e szentségben!<br/>Éppen úgy, miként a magas Égben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ámbár nem látok mást, mint csak kenyeret.<br/>De már Isten szava zengett efelett!<br/>Ki a nagy világot teremtette,<br/>Annak szent Ígéje testté tette.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imádom, Jézusom, Istenségedet,<br/>Imádom, Jézusom, Tested s Véredet.<br/>Ahány csillag fenn, a magas égben,<br/>Áldásod annyiszor e Szentségben.</lines>
+    </verse>
+  </lyrics>
+</song>

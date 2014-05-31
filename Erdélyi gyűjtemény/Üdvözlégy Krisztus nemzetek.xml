@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Krisztus nemzetek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Krisztus nemzetek királya,<br/>Ma néked hódol a föld és az ég.<br/>Angyalok, hegyek, tengerek dagálya<br/>Zengi ma neved és mi árva nép.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi egykor téged kötélen vezettünk,<br/>S fejedre tettünk tövis koronát.<br/>Ma már a bánat árja jár felettünk,<br/>Hozzád megyünk mi száz világon át.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi egykor nádat adtunk a kezedbe,<br/>S a gúny jogával véreztük szíved.<br/>Ma szent szívedből új erőt merítve<br/>Ég szerelmünk s a sátánt sebzi meg.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A te igéd ma már nekünk a törvény,<br/>Isten országa már a mi hazánk.<br/>Az ég és föld közt zúgjon bár az örvény,<br/>Az Úr minket a csillagokra szánt.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megesküszünk, hogy hű alattvalóid<br/>Akarunk lenni, míg szívünk dobog.<br/>Leküzdjük mind a poklok hordozóit<br/>A szent kereszttel, mely üdvöt hozott.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zászlónk kezünkben, Golgotánk dicsője<br/>S kiáltunk itt a föld határinál.<br/>A csillagok közt menjetek előre,<br/>Ott vár a trónon Krisztus, a király.<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!<br/>Hozsánna néked, kiáltja néped,<br/>Hozsánna néked Krisztus nagy Király!</lines>
+    </verse>
+  </lyrics>
+</song>

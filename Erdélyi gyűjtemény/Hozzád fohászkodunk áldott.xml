@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Hozzád fohászkodunk áldott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád fohászkodunk áldott védasszonyunk,<br/>Boldogságos Szent Szűz, kegyes Anyánk.<br/>Enyhítni gyermekid fájó keserveit,<br/>Üdvöd honából, óh, tekints reánk.<br/>Szemedből egy sugár, ha fájdalminkra száll,<br/>Megszűnnek dúlt keblünk gyötrelmei,<br/>Anyánk, siess értünk könyörgeni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyánk tégedet, ki értünk szenvedett,<br/>Megváltónk, szent Fiad adod nekünk.<br/>Hogy éltünk útjain, ha ránk rohan a kín,<br/>Öledben a vésztől mentek legyünk.<br/>S nekünk így akikért, keresztfán onta vért,<br/>Üdvöt teremjenek gyötrelmei,<br/>Anyánk siess értünk könyörgeni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S e népet, e földet tiednek ismerted,<br/>Irgalmas anyjává az Úr teve.<br/>Hogy lennél gyámola, viszont, mint ő vala,<br/>Legyen híved minden székely kebel.<br/>S a szívben így veled egyesült hon felett<br/>Ne győzzenek soha, kik elleni,<br/>Anyánk siess értünk könyörgeni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Szűz, ki e népet veszni nem engedted,<br/>Óh nyerd ki még e szent kegyet nekünk.<br/>Legyen egünk alatt egy hit, egy akarat,<br/>S tehozzád lángoló szeretetünk.<br/>S így birva tégedet, mi csak imánk lehet,<br/>Beteljenek szívünk reményei,<br/>Anyánk siess értünk könyörgeni!</lines>
+    </verse>
+  </lyrics>
+</song>

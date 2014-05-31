@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Csndes éj, szent ez az éj</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csndes éj, szent ez az éj,<br/>A világ álma mély.<br/>Szűzanya hallod-e csendes a táj,<br/>Isteni gyermeked álmira vár.<br/>Mennyei álom ölén, mennyei álom ölén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Párnája sincs, bölcsője sem,<br/>Mégis míly édesen nyugoszik a kegyes égi szülött.<br/>Emberek, a szabad óra ütött.<br/>Itt vagyon a Messiás, itt vagyon a Messiás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csendes éj, szent nyugalom,<br/>Énekel völgy s halom.<br/>Csendül az angyali alleluja,<br/>Földre leszállt a nagy égnek Ura.<br/>Jöjjetek imádni őt, jöjjetek imádni őt!</lines>
+    </verse>
+  </lyrics>
+</song>

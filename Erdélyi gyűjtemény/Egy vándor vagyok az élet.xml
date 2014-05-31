@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Egy vándor vagyok az élet</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy vándor vagyok az élet tengerén.<br/>Könyörgök, Mária, nyújtsd karod felém.<br/>Fájó szívemet, kérlek gyógyítsd meg,<br/>hő imával hadd dícsérjelek.<br/>Összekulcsolt kezem hozzád felemelem,<br/>édes Jó Anyám vigyázz reám!<br/>Letérdelve kérlek haldd meg esdeklésem,<br/>egész életem csak tied legyen, óh, Mária.</lines>
+    </verse>
+  </lyrics>
+</song>

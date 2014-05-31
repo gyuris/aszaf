@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Ragyogni látom égi fényben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ragyogni látom égi fényben<br/>óh Jézus áldott szívedet,<br/>Mely dúsan önti szét malasztját<br/>az ember milliók felett.<br/>Löveld e fénynek egy sugarát<br/>szívemre mely már dermedez,<br/>És lángtüzén csodás erénnyel,<br/>virágdús édenkertje lesz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Átfúrt szívednek sebnyílásán<br/>szivár'gni látom azt a vért,<br/>Melyet leszállva trónhelyedről<br/>kiöntni jöttél üdvömért.<br/>Ha e kiontott drága vérnek<br/>szívemre csak egy cseppje hull,<br/>Mint tiszta áldozat, tied lesz<br/>örök szerelmi zálogul.</lines>
+    </verse>
+  </lyrics>
+</song>

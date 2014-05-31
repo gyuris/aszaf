@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Óh, Mária, Isten Anyja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh, Mária, Isten Anyja,<br/>Énnekem is jó Anyám.<br/>Szívemnek szent lángbuzgalma<br/>Dícsér későn és korán!<br/>Bánatomban, örömömben,<br/>Jó s balsorsban csak azt zengem:<br/>Üdvözlégy, Szűz Mária!<br/>Üdvözlégy, Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajnal keltén, ha megcsendül<br/>Magas tornyon a harang,<br/>Mintha szózat szállna mennyből,<br/>Imára kelt föl e hang.<br/>Megköszöntlek szép szűz hajnal,<br/>Ezt rebegem az angyallal:<br/>Üdvözlégy, Szűz Mária!<br/>Üdvözlégy, Szűz Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha délre száll az arany nap,<br/>Szól a harang újólag.<br/>Érzelmeim hozzád vonznak,<br/>Ismét téged áldalak.<br/>Áhítattal, csendes ajkkal<br/>Ezt rebegem az angyallal:<br/>Üdvözlégy, Szűz Mária!<br/>Üdvözlégy, Szűz Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha felkel az est csillaga,<br/>Munkámat bevégezem.<br/>Istenemnek hálát adva<br/>Feléd tárom két kezem.<br/>Az estéli harangszóra<br/>Indul nyelvem e szép szóra:<br/>Üdvözlégy, Szűz Mária!<br/>Üdvözlégy, Szűz Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Hzzád jöttünk óh Szűzanyánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hzzád jöttünk óh Szűzanyánk könnyezve,<br/>Mindnyájunknak van valami kérelme.<br/>Mária, Mária, hazánk Nagyasszonya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De mielőtt kérésünket elmondjuk,<br/>Tiszta szívből köszöntünk és kiáltjuk.<br/>Mária, Mária, hazánk Nagyasszonya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kifejezzük tiszteletünk irántad,<br/>Vedd kedvesen szívből jövő imánkat.<br/>Mária, Mária, hazánk Nagyasszonya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vidd fiadhoz, Istenünkhöz a mennybe,<br/>S mondd meg néki, hogy a magyar nép küldte.<br/>Mária, Mária, hazánk Nagyasszonya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eszközöld ki szent Fiadnál a békét,<br/>Mert mi a te gyermekeid vagyunk még.<br/>Mária, Mária, hazánk Nagyasszonya.</lines>
+    </verse>
+  </lyrics>
+</song>

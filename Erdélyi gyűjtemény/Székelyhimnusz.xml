@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Székelyhimnusz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki tudja merre, merre visz a végzet,<br/>Göröngyös úton, sötét éjjelen.<br/>Vezesd még egyszer győzelemre néped,<br/>Csaba királyfi csillag ösvényén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maroknyi székely porlik, mint a szikla,<br/>Népek harcának zajló tengerén.<br/>Fejünk az ár jaj, százszor elborítja,<br/>Ne hagyd elveszni Erdélyt Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Mária, édesanyánk, sereged</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, édesanyánk, sereged dala zeng ma az égig.<br/>Küzdeni, harcba siess, liliom lobogója fehérlik.<br/>Csupa dal, csupa tűz, csupa élet,<br/>Égi reményünk, győzni remélünk,<br/>Mert te velünk vagy és mi tevéled.</lines>
+    </verse>
+  </lyrics>
+</song>

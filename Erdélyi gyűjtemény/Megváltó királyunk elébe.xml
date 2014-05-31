@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Megváltó királyunk elébe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megváltó királyunk elébe megyünk.<br/>Méltó tisztelettel, Urunkhoz legyünk.<br/>Hozsannát kiáltson néki minden hív,<br/>Dícsérettel áldást mondjon nyelv és szív!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Így tisztelte Jézust a zsidó nemzet.<br/>Virágvasárnapján nagy gyülekezet.<br/>Elébe kimentek pálmaágakkal,<br/>Dícsérő énekkel és virágokkal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy a szent városhoz már közelgetett<br/>És fényes pompával bévezettetett.<br/>Ruháját a népség földre teríté,<br/>És útját zöld ággal fölékesíté.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És örvendő szívvel kiáltozának,<br/>Hozsánna, hozsánna Dávid fiának!<br/>Áldott az, ki az Úr szent nevében jön,<br/>Áldják őt a hívek, most és örökkön.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A gyermekek kézbe pálmaágakkat<br/>Vévén, dallal áldják szent királyukat.<br/>Ez az, ki népének jön váltságára,<br/>Minden földi ember boldogságára.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó Isten egyháza, Sion leánya,<br/>Im jő mostan hozzád Isten Báránya.<br/>Húsvéti báránykép hozzánk látogat,<br/>Hogy érettünk lenne égő áldozat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldás néked, édes Isten Báránya,<br/>Ki jőssz e világnak megváltására.<br/>Dicsőség, dicséret, imádás legyen<br/>Néked földön, égen, örökkön, ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

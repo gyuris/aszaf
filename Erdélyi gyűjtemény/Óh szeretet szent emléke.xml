@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Óh szeretet szent emléke</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh szeretet szent emléke,<br/>Jézus szent teste s vére.<br/>Ki jelen vagy az oltáron,<br/>Lelkünknek élelmére.<br/>Vedd szívünk mély imádását,<br/>Lelkünk erős fogadását.<br/>Hála'dásul s viszonzásul,<br/>Neved dicsőségére!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit az utolsó vacsorán<br/>Tanítványidnak adtál.<br/>Annyi kín közt a keresztfán<br/>Érettünk feláldoztál.<br/>Itt van drága tested, véred,<br/>Istenséged, emberséged.<br/>Elrejtezve, te szeretve<br/>Végig velünk maradtál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, ki ennyire szerettél<br/>Élve, halva bennünket,<br/>És az örök boldogságra<br/>Így táplálod lelkünket.<br/>Add, hogy kik most magasztalunk,<br/>Hozzád mindig hűk maradjunk,<br/>Hit, reményben, szeretetben<br/>Tartsd meg végig szívünket.</lines>
+    </verse>
+  </lyrics>
+</song>

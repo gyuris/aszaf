@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Betlehemben szült</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Betlehemben szült Jézus teste s vére,<br/>Kinek születése napja mennyből lőn hírdetve.<br/>Amint hajdan a pásztorok jószolnál imádtak,<br/>Úgy imádunk ez oltáron kenyér színe alatt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, ki mennyekből a földre lejöttél,<br/>Hogy bennünket üdvözíthess, betlehemi istállóban<br/>Szent szűztől születtél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, Istennek szent báránya, légy mindenkor véllünk,<br/>Az egekből hozott békét add mindenkor nékünk.<br/>Alázatos szívet adj és bűntől tiszta lelket,<br/>Mely tégedet hőn szeressen s mindenkor kövessen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Imádunk e nagy szentségben, Jézus, igaz pásztor,<br/>Véghetetlen szerelmedért add, hogy szívünk mindörökké<br/>Dicsérjen és áldjon.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Nagy Szent József, Dávid</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy Szent József, Dávid sarja, a Szent Szűznek gyámola.<br/>Mintha volnál Jézus Atyja, úgy köszöntött Mária.<br/>Tégedet a Szentcsaládnak Isten adott gyámolul.<br/>Minket is végy pártfogásba, gyöngeségünk rádszorul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor láttad, hogy méhébe fogant tiszta Szűz-Arád,<br/>Mert a titkot nem ismerted, gyötrő kétség szállt reád.<br/>Ámde lelked földeríté az angyalnak egy szava,<br/>Légy eröm te, hogyha lelkem kétségek közt ingana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent családnak szent körében folytak élted napjai.<br/>Karjaik közt szüntek is meg szíved dobbanásai.<br/>Úr Jézussal, Máriával, állj mellettem s pártfogolj.<br/>Mikor éltem végsö napján elhív az örök bíró.</lines>
+    </verse>
+  </lyrics>
+</song>

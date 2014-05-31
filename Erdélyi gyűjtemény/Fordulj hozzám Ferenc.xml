@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Fordulj hozzám Ferenc</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fordulj hozzám Ferenc testvér, együgyű szív,<br/>Árva hölgyed, a szorongó szegénység hív.<br/>Kérlek tested öt sebére:<br/>Vezess el az áldott Krisztus kebelére!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem sok szóval prédikálsz te, hanem tettel,<br/>Vándor klastrom, lakva lelkes szeretettel.<br/>Kérlek tested öt sebére:<br/>Vezess el az áldott Krisztus kebelére!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent kezedben még a bot is zeneszerszám,<br/>Gyermek szádból béke és üdv mosolyog rám.<br/>Kérlek tested öt sebére:<br/>Vezess el az áldott Krisztus kebelére!</lines>
+    </verse>
+  </lyrics>
+</song>

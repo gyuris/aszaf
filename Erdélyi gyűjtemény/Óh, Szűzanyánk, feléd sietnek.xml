@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Óh, Szűzanyánk, feléd sietnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh, Szűzanyánk, feléd sietnek<br/>Évának árva gyermeki.<br/>Jól tudván hathatós imádat<br/>Az Isten meg nem vetheti.<br/>Ó nagyhatalmú Isten Anyja,<br/>A bűnösöknek légy olatama.<br/>Reményünk s életünk Te vagy,<br/>Ó Szűzanyánk ó el ne hagyj!<br/>Reményünk s életünk Te vagy,<br/>Ó Szűzanyánk ó el ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh Szűzanyánk, tekintsd, a vétek nyomasztó súlya ránk szakad,<br/>Az ördög test és a világnak horgára hány lélek akad.<br/>E hármas ellenség hatalmát törd meg, ne űzze bűn uralmát.<br/>Óh Szűzanyánk, mi elveszünk, ha tőled nem segíttetünk,<br/>Óh Szűzanyánk, mi elveszünk, ha tőled nem segíttetünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh Szűzanyánk, segíts kegyeddel, hogy űzzük a bűn bajait,<br/>S készen legyünk szenvedni mintsem áthágni ég parancsait.<br/>Te áll mellénk kisértetünkben, ne hagyj el soha veszélyeinkben.<br/>Óh Szűzanyánk hozzád futunk, légy szükségünkben gyámolunk,<br/>Óh Szűzanyánk hozzád futunk, légy szükségünkben gyámolunk.</lines>
+    </verse>
+  </lyrics>
+</song>

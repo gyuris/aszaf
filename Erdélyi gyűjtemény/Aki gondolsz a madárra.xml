@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Aki gondolsz a madárra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki gondolsz a madárra,<br/>Köntöst adsz a kis virágra,<br/>Kegyes szemed legyen rajtunk,<br/>Tebenned van bizodalmunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téli fagyban, hóban, jégben,<br/>Te vagy minden reménységem.<br/>Jön a tavasz, az új élet,<br/>Abban minden újra éled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te, ki hinted igéd magvát,<br/>Kemény szívünk alakítsd át.<br/>Vesd el benne szent igédet,<br/>Abból fakad örök élet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt a tavasz, fák rügyeznek,<br/>Áldd meg a mi vetésünket.<br/>Búzánk, árpánk aratásra,<br/>Hadd szökjön fel dúsan szárba.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kik bajukkal hozzád futnak,<br/>Segítségért folyamodnak,<br/>Nem szenvednek ők szükséget,<br/>Mindig érzik segítséged.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha velünk az Úr áldása,<br/>Nincs gondunk az aratásra.<br/>Százszoros lesz a termésünk,<br/>Áldj meg Urunk, erre kérünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Úr Jézus, ki azt hirdetted,<br/>Ki veled tart el nem veszhet.<br/>Erősítsd meg gyenge lelkünk,<br/>Örök tűzre ne kerüljünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Őszi vihar hogyha kerget<br/>Nyugtot szívünk nálad lelhet.<br/>Édes Jézus, kérünk szépen,<br/>Áldd meg munkánk egész évben.</lines>
+    </verse>
+  </lyrics>
+</song>

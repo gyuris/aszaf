@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Szerelmes, édes Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szerelmes, édes Jézusom imádlak tégedet,<br/>Mert lettél lelki orvosom, adván szent testedet.<br/>Szívem szívednek ajánlom, lelkemet néked kínálom,<br/>Légy őrző pajzsom, légy őrző pajzsom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit sem tengernek vizei meg nem bírhatának,<br/>Sem széles világ részei meg nem foghatának.<br/>Kisded ostyácska színében, kenyér és bornak ízében<br/>Elrejtette magát, elrejtette magát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kilenc hónapig múlattál szűz anyád méhében,<br/>Mivelünk végig maradtál kenyérnek színében.<br/>Lettél lelkünknek vendége, gyarló szívünk erőssége,<br/>Óh kegyes Jézusunk, óh kegyes Jézusunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy ne féljünk nagy fényedtől, homályba rejtőztél,<br/>S áldást vegyünk fölségedtől, kegyesen ránk nézél.<br/>Megelégíted éhségünk, betöltöd minden éhségünk,<br/>Édes Üdvözítőnk, édes Üdvözítőnk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Istennek áldott báránya, ki a bűnt elveszed,<br/>A bűnbánókat megszánva fiaddá őt teszed.<br/>Óh, légy erős bizodalmunk, légy vezérünk, légy oltalmunk,<br/>S töröld el vétkünket, töröld el vétkünket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Adjad, hogy itt szeretettel neked szolgálhassunk,<br/>Urunk, Jézus tiszta szívvel téged imádhassunk.<br/>S majdan égi énekekben, agyali dicséretekben<br/>Áldjunk egykor, ámen, áldjunk egykor ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

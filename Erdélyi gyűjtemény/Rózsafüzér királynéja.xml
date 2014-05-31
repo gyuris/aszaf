@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Rózsafüzér királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rózsafüzér királynéja, édesanyánk, kegyes Szűz,<br/>Kész már az ékes koszorú, mit néped fejedre tűz.<br/>Árva nemzet fonta néked, kivüled nincs támasza,<br/>Zárd be védő karjaidba nagyhatalmú Szűz Anya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öröm kevés jutott nékünk, keserű a kenyerünk,<br/>Fájó panasz, kinek sóhaj, bús, gyötrelmes életünk.<br/>Örvendező Szűz Mária mosolyt küldjél mireánk,<br/>Oszlik az ég, hajnal hasad, fényben úszik szép hazánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fiad keresztje tövében vért hullattál könnyezve,<br/>Bús fájdalom a lelkedet, szíved hét tör vérezte.<br/>Óh fájdalmas Szűz Mária, vérző szíved harmatja,<br/>Huljon a kereszt tövében veled síró magyarra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint hazánknak Nagyasszonya, égi trónon a helyed,<br/>Az angyalok s magyar szentek zengnek hozsannát neked.<br/>Dicsőséges Szűz Mária, kinek Jézus a fia,<br/>Add, hogy ismét felviruljon szép kerted Pannónia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kárpátok az, ahol könnyből fakad minden kis virág,<br/>Erdély bércein is, ahol gyászt öltött fel a világ.<br/>Magyaroknak csonka földjén forrjon össze szív s lélek,<br/>Rózsafüzér királynéja, esdve kér magyar néped.</lines>
+    </verse>
+  </lyrics>
+</song>

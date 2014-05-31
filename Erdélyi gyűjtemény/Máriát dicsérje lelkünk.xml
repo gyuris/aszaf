@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Máriát dicsérje lelkünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriát dicsérje lelkünk, Máriát dicsérje szánk,<br/>Őt, ki által Isten annyi szent malasztja szálla ránk.<br/>Kit Fiának nagy kegyelme kezdet óta őrizett,<br/>S akihez a legparányibb bűnhomály sem férkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindazokra, kikre Éva megcsalatva bűnt hozott,<br/>És a bűnnel a halál és kárhozat leszármazott.<br/>Márián magán nem ejte eredeti bűn sebet,<br/>Kit amannak kára ellen egy magas védpajzs fedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözölt légy feddhetetlen tisztaságú szűz Anya.<br/>Élet, nem halál leánya, boldogasszony, Mária.<br/>Tiszta vagy te, mint a harmat, mely az égből gyöngyözött,<br/>Sérthetetlen liliomként állsz a bűntövis között.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy a csüggedők reménye, a szegények gyámola.<br/>Szenvedők vigasztalója, sebesültek orvosa.<br/>Légy erőnk a bűnveszélyben, a halálban ápolónk,<br/>Lelki üdvünk szent ügyében légy fiadnál pártolónk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh, miképpen zenghetünk, hát néked illő éneket,<br/>Bűnösök mi, kik szívünkön hordozunk oly sok sebet.<br/>Gyöngy mellé a sár nem illik, bűnt utál a szűz erény,<br/>Hogy figyelhetsz hát miránk te éjszakára égi fény?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Óh, de tudjuk, hogy mihozzánk szűz szíved szerelme nagy,<br/>Hisz te, irgalom szülője s bünösöknek anyja vagy.<br/>Óh, tekints le irgalommal szent kegyelmek anyja ránk,<br/>S bár ha vétkezénk nekünk is, bünösöknek légy anyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

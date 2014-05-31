@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Mindenható fölséges, jó Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindenható fölséges, jó Uram, Isten,<br/>Téged áldás, hír, dicséret dicsőítsen!<br/>Neved venni ajkára, ki van méltó magában,<br/>Senki sincsen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sokféle szép teremtményed mind dicsérjen,<br/>Bátyánk, urunk, kedves napunk kiváltképpen.<br/>Hintve arany sugarat, jelenti szent magadat,<br/>Szerelmében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjen Hold asszonynénénk s minden csilag,<br/>Az ég boltján szende fénnyel világolnak.<br/>Odavaló vagyok én, ahol ragyog az a fény,<br/>Biztatólag.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjen jó Szél öcsénk is, frissen fúvó,<br/>Oszthat derűt, hozhat borút, minden szél jó.<br/>Uram, Isten, te tudod, szándékunkat te bírod<br/>Igaz bíró.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjen szép húgocskánk a csobogó Víz,<br/>Alázatos, tisztaságos,csupa jó íz.<br/>Észrevétlen elsuhan, neked hódol, jó Uram,<br/>S minket hódít.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsérjen vad öcskösünk, a daloló Tűz,<br/>Jókedvében messze fénylik, éjet száműz.<br/>Hatalmas és fiatal, lobogó lángjaival,<br/>Ég felé húz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsérjen Föld asszonyanyánk, drága dajka,<br/>Fűvel pompás gyümölcstermő fával tarka.<br/>Keblén zsendül minden ág, ékesíti vadvirág,<br/>Ezer fajta.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérjen, ki szerelmedért béketűrő,<br/>Valamikor betegség vagy háború jő.<br/>Boldog, aki megbocsát, tőled nyer ma koronát.<br/>Könyörülő.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsérjen a testi halál, édes nénénk,<br/>Rosszaknak jaj, értünk is jő, hogy megtérnénk.<br/>Boldog, aki hozzád tért, benned húnyt el kiben élt,<br/>S ma is él még.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Dicsérjétek Istent minden teremtmények,<br/>Hálaszóval hódoljatok szerelmének.<br/>Szolgáljatok, ahogy kell, s alázatos szívekkel,<br/>Szeressétek!</lines>
+    </verse>
+  </lyrics>
+</song>

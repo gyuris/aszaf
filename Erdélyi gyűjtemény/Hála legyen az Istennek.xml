@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Hála legyen az Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hála legyen az Istennek<br/>Ki üdvöt ád az embernek.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus a sírból felkele,<br/>égnek, földnek örömére.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Világ dicső megváltója<br/>a pokollal szembeszálla.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megnyeré a győzedelmet,<br/>hogy megmentsen minden lelket.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zászló lett a szent keresztfa<br/>melyen a harcot kivívta.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zengje vélünk az ég és föld,<br/>melyet dicső Neve betölt.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldjuk a Szentháromságot,<br/>hogy íly örömmel megáldott.<br/>Alleluja, vígadjunk,<br/>Istennek hálát adjunk!</lines>
+    </verse>
+  </lyrics>
+</song>

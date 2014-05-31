@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Szent lakodba jött néped</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent lakodba jött néped,<br/>Buzgón imádni téged.<br/>Kegyes szemmel nézz reánk<br/>Ó mennyei szent Atyánk</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szentmise áldozat<br/>Melyet szolgád bemutat.<br/>Legyen kedves előtted,<br/>Uram, hallgasd meg néped.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőség az Istennek,<br/>Béke az embereknek.<br/>Zengje a föld és az ég,<br/>Urunk, neked dicsőség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hisszük buzgón mind, amit<br/>Jézus egyháza tanít.<br/>Add, hogy hitünkhöz híven<br/>Ragaszkodjunk mindenben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent vagy Urunk, Istenünk,<br/>Zengje a föld s ég velünk.<br/>Áldassék dicső neved,<br/>Mely szent mindenekfelett.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kenyeret s bort áldozunk<br/>Neked, Istenünk s Urunk.<br/>Melyek Jézus Krisztusnak<br/>test- s vérévé változnak.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nyerjen a szent áldozat<br/>Tőled szent malasztokat.<br/>Áraszd ránk kegyelmedet,<br/>Szenteld meg hű népedet.</lines>
+    </verse>
+  </lyrics>
+</song>

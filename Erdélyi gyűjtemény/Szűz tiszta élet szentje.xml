@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Szűz tiszta élet szentje</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz tiszta élet szentje Klára, illatos, drága liliom,<br/>Ferenc testvér hívó szavára nyilt hófehér lélek szirom.<br/>aranyló hajad porba hullott, szíved a földtől elszakadt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy aki égi mirtuszt nyújtott, Jézushoz mindig hű maradj.<br/>Lelkünk hófehér köntösét bűn szennyétől óvjad, ó kérünk!<br/>Égi jegyesed szívénél, Szent Klára könyörögj érettünk!</lines>
+    </verse>
+  </lyrics>
+</song>

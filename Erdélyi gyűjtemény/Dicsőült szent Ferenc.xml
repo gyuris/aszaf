@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Dicsőült szent Ferenc</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőült szent Ferenc, Krisztus jó szolgája,<br/>Alázatosságnak eleven formája.<br/>Tisztaság, szegénység égő szép fáklyája,<br/>Engedelmességnek ragyogó példája.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki ellene mondtál bátran a világnak,<br/>Lelkeket vadászó sátán pompájának.<br/>Hű szolgája voltál a te szent Uradnak,<br/>Nyomdokát követted szenvedő Krisztusnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hűséges, jó vezér, messze fénylő csillag,<br/>Aki a sötétben tündökölsz, mint szép nap.<br/>Mutasd meg minékünk, hol van az igazság,<br/>S tedd, hogy befogadjon az örök boldogság.</lines>
+    </verse>
+  </lyrics>
+</song>

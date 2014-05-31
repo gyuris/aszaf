@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Óh Nagyasszony, nemzetünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh Nagyasszony, nemzetünk reménye,<br/>Rád szegezzük könytelt szemeink.<br/>Veszni indult István öröksége,<br/>Szép kertedben ős erényeink.<br/>Szállj közénk és sírj te is velünk,<br/>Vigasztald és mentsd meg nemzetünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ífjúságunk hófehér virága,<br/>Porba hullott, alszik szent hite.<br/>Hő szerelmed, szereteted lángja<br/>Nem hevít kihült magyar szívet.<br/>Szép Nagyasszony, sírj te is velünk,<br/>Könnyeiddel mentsd meg nemzetünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh magyar nép apraja és nagyja<br/>Ölts magadra bűnbánó ruhát.<br/>Mely kesergő fájdalmaid jaja,<br/>Töltse be a vétkezők karát.<br/>Hozzá sírj csak, sírj hisz még szeret,<br/>Jó Nagyasszony mentsd meg nemzeted.</lines>
+    </verse>
+  </lyrics>
+</song>

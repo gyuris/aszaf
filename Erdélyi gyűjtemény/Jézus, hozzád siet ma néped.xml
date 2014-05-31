@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Jézus, hozzád siet ma néped</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, hozzád siet ma néped,<br/>forró imáját meg ne vesd.<br/>Tárjad ki szíved, hogy mi abban<br/>békét találjunk, mindnyájan.<br/>Sok baj s csapás nyomja szívünk,<br/>lelkünkben sírva mi esdünk:<br/>tekints le ránk, legszentebb Szív,<br/>Jézus Szíve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Szíve, esengve kérünk,<br/>vígasztalást, oh, küldj nekünk.<br/>Parányi fényt a bús kétségben,<br/>el ne vesszünk a vak éjben.<br/>Sok baj s csapás nyomja szívünk<br/>lelkünkben sírva mi esdünk:<br/>tekints le ránk, legszentebb Szív,<br/>Jézus Szíve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édes Jézus, Szíved szerelme,<br/>vezércsillag a sötétben.<br/>Ha ez vezet majd, nem tévedek,<br/>örök fényt látok Tevéled.<br/>Sok baj s csapás nyomja szívünk<br/>lelkünkben sírva mi esdünk:<br/>tekints le ránk, legszentebb Szív,<br/>Jézus Szíve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha eljő a végső óránk,<br/>Te légy lelkünk szent bírája.<br/>Irgalom Atyja, oh, szeretet,<br/>Benned csalódni nem lehet.<br/>Sok baj s csapás nyomja szívünk<br/>lelkünkben sírva mi esdünk:<br/>tekints le ránk, legszentebb Szív,<br/>Jézus Szíve.</lines>
+    </verse>
+  </lyrics>
+</song>

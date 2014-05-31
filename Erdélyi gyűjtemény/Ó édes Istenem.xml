@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Ó édes Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó édes Istenem,<br/>hálát rebeg lelkem,<br/>Hogy egész napon át<br/>úgy szerettél engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bánom sok vétkemet,<br/>szent Fiadnak vére<br/>Mossa meg kegyesen<br/>Szívemet fehérre!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virrasszon fölöttem<br/>gondviselő szemed,<br/>Kérlek, óvd az éjjel<br/>testemet s lekemet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szűzanyám, s őrangyal<br/>legyetek énvelem,<br/>Ha ti rám vigyáztok<br/>Nyugodt lesz éjjelem!<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Béke Fejedelme</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Béke Fejedelme,<br/>Szentséges Istenünk,<br/>Úr Jézus szent Szíve,<br/>Békéért esdeklünk.<br/>Békét adj szívünknek,<br/>Békét családunknak,<br/>Békét nemzetünknek,<br/>Békét a világnak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szűz Mária Szíve,<br/>Béke példaképe,<br/>Fiad szent szívénél<br/>Közbenjárónk légy Te.<br/>Békét adj szívünknek,<br/>Békét családunknak,<br/>Békét nemzetünknek,<br/>Békét a világnak!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Árvák és özvegyek<br/>Sírását hallgasd meg.<br/>Könyörgéseinket<br/>Mária ne vesd meg.<br/>Békét adj szívünknek,<br/>Békét családunknak,<br/>Békét nemzetünknek,<br/>Békét a világnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Derítsd fel hazánkra<br/>A békesség napját.<br/>Adjál világbékét<br/>Mária, Szűzanyánk.<br/>Békét adj szívünknek,<br/>Békét családunknak,<br/>Békét nemzetünknek,<br/>Békét a világnak.</lines>
+    </verse>
+  </lyrics>
+</song>

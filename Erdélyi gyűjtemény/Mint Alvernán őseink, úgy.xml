@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Mint Alvernán őseink, úgy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint Alvernán őseink, úgy gyülünk ma össze itt,<br/>Eléd, Urunk ő vezet, áldott fiad szent Ferenc.<br/>Hármas háza népe hittel jön elébe,<br/>Jézus Krisztus áldozati ünnepére.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alvernán kigyúlt az ég, Ferenc lelke izzva ég,<br/>Tagjain a sebhelyek drágakőként fénylenek.<br/>A kereszt szerelmét, végső győzedelmét<br/>Add Uram, hogy fiai is énekeljék!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amit a szent hagyomány és a Szentírás nyomán<br/>Szentegyházunk tár elénk, hisszük minden tételét.<br/>Szent Ferenccel együtt, szeretjük, követjük,<br/>S minden lelkes teremtménynek meghírdetjük.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mit jóságod úgy adott, a kenyeret és a bort<br/>Eléd hozzuk Istenünk, s mellé tesszük életünk.<br/>S mit nyomorunk nyújthat, fogadalmainkat,<br/>Felajánljuk könnyeinket, harcainkat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mind akiket szent Ferenc kordájával övezett,<br/>Égben, földön, föld alatt téged áld e hű csapat.<br/>Szent, szent, szent vagy Isten, odafönt és itt lenn,<br/>Add, hogy mi is megszenteljünk a szívünkben.</lines>
+    </verse>
+  </lyrics>
+</song>

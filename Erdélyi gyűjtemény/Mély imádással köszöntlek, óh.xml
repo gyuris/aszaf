@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Mély imádással köszöntlek, óh</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mély imádással köszöntlek, óh Jézus szent szíve.<br/>A bánkódó bűnösöknek egyetlen reménye.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hétszeres áldással árad malasztod forrása,<br/>Melyből anyaszentegyházad híveit ellássa.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívednek vérző nyílása szeretet kútfeje,<br/>Szenvedők vigasztalása, lankadók ereje.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ott az árvák segítsége, özvegyek oltalma,<br/>Elhagyottak menedéke, s hív küzdők jutalma.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh szelíd, alázatos szív, melynek szent példája,<br/>Minket oly szeretettel hív az üdvnek útjára.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bírj tehát minket egészen és te légy mindenünk,<br/>Búban, örömben, veszélyben csak hozzád sietünk.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>S te, ki meghaltál érettünk, mint ártatlan bárány,<br/>Add, égi koronát nyernünk halálunk óráján.<br/>Áldj meg, őrizz, adj kegyelmet, ó Jézus szent szíve,<br/>Vigyen hozzád minden lelket váltságod szent vére.</lines>
+    </verse>
+  </lyrics>
+</song>

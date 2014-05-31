@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Téged, Isten, dícsérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged, Isten, dícsérünk!<br/>Áldjuk, Uram, hatalmadat.<br/>Teremtőnknek ismerünk,<br/>magasztaljuk írgalmadat.<br/>Amint voltál öröktől,<br/>úgy vagy Isten vég nélkül!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden élő néz reád:<br/>Kerubok, és szeráfkarok.<br/>Neked buzgó hálát ád,<br/>Áldnak, híven, az angyalok.<br/>Zengedezvén ott, s itten,<br/>Szent vagy, szent vagy, szent Isten!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram irgalmazz nékünk,<br/>Öntsd belénk szent Malasztodat<br/>Benned minden reményünk,<br/>Adjad hét ajándékodat!<br/>Hogy csak Neked szolgáljunk,<br/>s vég nélkül magasztaljunk!</lines>
+    </verse>
+  </lyrics>
+</song>

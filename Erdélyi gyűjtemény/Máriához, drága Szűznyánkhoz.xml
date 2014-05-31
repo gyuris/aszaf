@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Máriához, drága Szűznyánkhoz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriához, drága Szűznyánkhoz tisztelettel járulunk.<br/>Őt dícsérje hangos énekével bizodalmas szózatunk.<br/>Skapuláré szende Királynéja, kármeliták kegyes pártfogója,<br/>Jóra térő bánatos kebellel lábaidhoz borulunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Máriában kelt fel a világnak tiszta fényű csillaga.<br/>Benne támadt lelki üdvösségünk leggyönyörűbb hajnala.<br/>Üdvözölt légy, Kármel ékessége, szétsugárzó kellemek edénye<br/>Telt edény és benne sebeinknek gyógyerejű balzsama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Máriánál, égi pártfogónknál van segítség, oltalom,<br/>Mint a harmat, száll szívéből ránk is csendesítő bizalom.<br/>Hét örömmel áldva Istenünktől, szent öröm közt vált meg életétől,<br/>Elvitetvén mennyek országába, örök élte, vigalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Máriáért lelki fegyverinkkel és vitézül harcolunk,<br/>Mert népünknek ő dicső vezére, ő Királyné asszonyunk.<br/>Bölcs vezére minden harcainknak, ha veszélyek ellenünk rohannak,<br/>Szűz Anyánk végy karjaidba minket, amidőn majd meghalunk.</lines>
+    </verse>
+  </lyrics>
+</song>

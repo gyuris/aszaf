@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Leborulok oltárodnál, nézd</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leborulok oltárodnál, nézd Uram, egész a földig.<br/>Térdeim a porba hullnak, szemem égő könnyben fürdik.<br/>Hálául e csekélységet, két galambot hoztam néked,<br/>egyik szívem, másik lelkem, vedd kedvesen én Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom én, hogy szent ez a hely, ahová most félve léptem,<br/>Mert itt lángolsz az oltáron, mint Hóreb szent tetejében.<br/>Sarumat hát le is öltöm, s úgy imádlak e szent földön,<br/>Bűneimtől kivetkezve, bűneimtől kivetkezve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kenyeret s bort mutatunk fel néked Isten áldozatra,<br/>Ajándékinkkal szívünket tesszük Te szent oltárodra.<br/>Ha Kainok voltunk is mi, akikben nem lehet bízni,<br/>Most Ábelként jöttünk hozzád, most Ábelként jöttünk hozzád.</lines>
+    </verse>
+  </lyrics>
+</song>

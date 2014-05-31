@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Bányászhimnusz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sötét tárna az életünk<br/>Te vezess benne, Istenünk!<br/>A Te védő, áldó kezed<br/>minden veszélyen átvezet.<br/>Szívünk legyen a mécsesünk,<br/>vele csak Téged keresünk.<br/>Ha eljő majd a végóránk<br/>a tárna mélyén várj reánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedd le rólunk a szenvedést.<br/>Adj békés örök-pihenést.<br/>Tehozzád szállunk mi fel, fel!<br/>Szerencse fel!<br/>Szerencse fel!<br/>Szerencse fel!</lines>
+    </verse>
+  </lyrics>
+</song>

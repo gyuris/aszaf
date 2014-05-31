@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Kegyességgel hívsz ó Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyességgel hívsz ó Jézus atyai szent kebledre,<br/>Hozzád megyünk mind ahányan, kik meg vagyunk terheve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért oltárodhoz jöttünk, követvén hívásodat,<br/>Hogy megnyerjük az enyhülést, a te szent malasztodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Engedd, a mennyei lelkek szent karával zengenünk,<br/>Dicsőség, áldás, dicséret neked örök Istenünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Világosítsd fel szívünket Jézus, add malasztodat,<br/>Hogy híven s buzgón kövessük égi tanításodat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kihez menjünk, Uram, Jézus, az út s igazság te vagy?<br/>Benned hiszünk és remélünk, soha, soha el ne hagyj.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Itt van, mit a végvacsorán Jézus értünk szerzettél,<br/>És a kínos szent keresztfán szent véreddel rendeltél.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oltárunkon megújul most amaz örök áldozat,<br/>Mely nekünk áldást, kegyelmet s örök boldogságot ad.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A tiszta szív érzelmével zengjen buzgó énekünk,<br/>Szent az Isten, szent az Isten, szent vagy édes Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

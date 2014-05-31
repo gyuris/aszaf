@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:51">
+  <properties>
+    <titles>
+      <title>Jézus szíve, hiszek Benned</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szíve, hiszek Benned.<br/>Hiszem, hogy szeretsz!<br/>Hogy az égi szép hazába<br/>bizton felvezetsz!<br/>Jézus Szíve, bízom benned<br/>rendületlenül.<br/>Jól tudom,<br/>ki benned bízik, meg nem szégyenül.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus szíve, én szeretlek.<br/>mindenek fölött!<br/>Éltem útján bármi érjen<br/>bú s öröm között!<br/>Jézus Szíve, szent szerelmed<br/>üdvöm hajnala,<br/>fönn az égben boldogságom<br/>örök nappala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldlak Téged és szeretlek.<br/>érted ég szívem!<br/>Óh, növelljed még e lángot<br/>lelkem mélyiben!<br/>Jézus Szíve, bízom benned<br/>rendületlenül.<br/>Jól tudom, ki benned bízik,<br/>meg nem szégyenül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drága Szent Szív, életemet<br/>Neked szentelem!<br/>Szavam, tettem, gondolatom<br/>mind Tied legyen!<br/>Jézus Szíve, óvd meg, kérlek<br/>szívem liliomát.<br/>Hogy majd egykor, hófehéren nyújtsam<br/>Neked át.</lines>
+    </verse>
+  </lyrics>
+</song>

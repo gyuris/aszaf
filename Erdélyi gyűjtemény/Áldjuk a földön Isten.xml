@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:39:50">
+  <properties>
+    <titles>
+      <title>Áldjuk a földön Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjuk a földön Isten szegénykéjét,<br/>Kései társak saruszíját oldva.<br/>Ő már a mennyben követi a bárányt,<br/>Akármerre jár, akármerre jár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otthona nincsen, foltos a ruhája,<br/>Mégis a földet vidám szívvel járja.<br/>Bárhova tér be, áldást ad és békét,<br/>S megnyílik az ég, megnyílik az ég.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyílt szívű gyermek, nem italtól részeg,<br/>Társai nézik Isten bolondjának.<br/>Egykori rongyos koldustarisznyája<br/>Színig tele már, színig tele már.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fekszik a földön, hamu lett az ágya,<br/>Búcsúzik tőle őszi nap sugára.<br/>Mellette állván sok jó kistestvére,<br/>Hullat könnyeket, hullat könnyeket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldog Ferencet énekszóval áldjuk,<br/>Példája éltet, hogy a harcot álljuk.<br/>Jól megtanuljunk élni, halni tőle,<br/>Míg eljön a nap, míg eljön a nap.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldott az Isten, igazán itélő,<br/>Karja a gőgöst méltán megalázza.<br/>Ám a szelídre, az alázatosra<br/>Kitárt karja vár, kitárt karja vár.</lines>
+    </verse>
+  </lyrics>
+</song>
