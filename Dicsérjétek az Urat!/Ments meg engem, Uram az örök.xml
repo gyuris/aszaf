@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ments meg engem, Uram az örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="516"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ments meg engem, Uram az örök haláltól,<br/>ama rettenetes napon minden bajtól,<br/>midőn az ég és föld meg fognak indulni<br/>s eljössz a világot lángokban ítélni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ments meg engem, Uram az örök haláltól,<br/>az utolsó napon őrizz minden bajtól,<br/>midőn az ég és föld meg fognak indulni<br/>s bíróként a földet eljössz megítélni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reszket minden tagom borzadok és félek,<br/>földi pályát végzett szegény, bűnös lélek.<br/>Félek a naptól, mely vizsgálni fog, s dúlni,<br/>midőn az ég és föld meg fognak indulni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Haragnak napja az, ínség s veszély napja,<br/>nagy nap, mely a bűnöst gyötrelemnek adja.<br/>Midőn te, ki mindig éltél és fogsz élni,<br/>eljössz a világot lángokban ítélni</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örök nyugodalmat adj, ó Uram, néki(k),<br/>s örök világosság fényeskedjék néki(k),<br/>hogy szent trónod körül udvarolhassanak, (ő udvarolhasson)<br/>s téged boldogítót örökké áldjanak. (áldhasson)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örök nyugodalmat adj, ó Uram, néki,<br/>s örök világosság fényeskedjék néki,<br/>hogy szent színed előtt ő is hódolhasson<br/>s téged boldogítót örökké áldhasson.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ments meg engem, Uram az örök haláltól,<br/>az utolsó napon őrizz minden bajtól,<br/>midőn az ég és föld meg fognak indulni<br/>s bíróként a földet eljössz megítélni.</lines>
+    </verse>
+  </lyrics>
+</song>

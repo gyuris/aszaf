@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Mennybe ment Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennybe ment Krisztus e napon, alleluja, alleluja,<br/>hogy minden ember vigadjon, alle\_, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk a győztes nagy király, alleluja, alleluja,<br/>teljes lett minden műve már, alle\_, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus a fő, s mi tagjai, alleluja, alleluja,<br/>legyünk a mennyben társai, alle\_, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki most az égbe szálla fel, alleluja, alleluja,<br/>egykor, mint Bíró, így  jön el, alle\_, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Siessünk hálát mondani alleluja, alleluja,<br/>s a Három-Egyet áldani, alle\_, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

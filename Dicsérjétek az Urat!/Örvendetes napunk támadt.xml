@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Örvendetes napunk támadt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendetes napunk támadt,<br/>Jézus Krisztus mert feltámadt.<br/>Örvendjünk, vigadjunk,<br/>Vígan mind most mondjunk<br/>Alle-, alleluját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent asszonyok a kősírhoz<br/>visznek fűszert holt Krisztushoz,<br/>Szívük elfogódott, hogy Uruk nem volt ott,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fájdalmuk nagy örömre vált,<br/>fényes angyal eléjük állt,<br/>Jézusról hirdeti, hogy sír már nem fedi,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Urunkat ha látni vágytok<br/>ti és a hű tanítványok:<br/>Galileában vár, feltámadt, nincs itt már,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézust, hogy ők megtalálták,<br/>szavait is meghallották:<br/>Hívek ne féljetek, békesség véletek!<br/>Alle-, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

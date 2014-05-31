@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Hol vagy, édes Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy, édes Jézus? Szerelmes szülöttem,<br/>Ki nélkül már ez világon holtig árva lettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hol vagy két szememnek tündöklő világa?<br/>Megepedett bús szívemnek csendes boldogsága?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hol vagy én szívemnek buzgó kívánsága,<br/>Életemnek mézzel folyó kedves vigassága.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mondjátok meg nékem, oh, ti magas hegyek,<br/>Szülöttemet hol keressem, vajon merre menjek?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mutassatok utat ó ti olajkertek,<br/>Szülöttemet hol fogták meg, vajon merre menjek?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, ti nagy darabos, éles, köves utak,<br/>Szent fiamnak vércsöppjei látom, itt hullottak.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jaj, ez bizonyára nagy szomorú jele,<br/>Előmbe fúj halálának már az hideg szele.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sírjatok énvelem jó asszony-barátim,<br/>Ez világban kik tudtátok az én árvaságim.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Megepedett szívem, kérlek, ne hagyjátok,<br/>Elfáradtam, nem mehetek, ó jaj, jaj, fogjatok.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Enyhítsd siralmadat, keserves Mária,<br/>Mert szent Fiad harmadnapra feltámad, azt mondta.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mi is keservesen Úr Jézus anyjával<br/>Siránkozzunk szent halálán szerelmes Fiának.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Hogyha hozzád járulunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogyha hozzád járulunk, szemünk könnybe lábad.<br/>Úgy csókoljuk, ó Urunk, drága keresztfádat.<br/>Elgyötört testedet feszítették rája,<br/>Latrok közt függöttél, mindenség Királya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztusnak szent keresztje győzedelmi zászlónk,<br/>Amellyel megszerezte üdvünket Megváltónk.<br/>Itt ragyog előttünk hitünk szent jelvénye,<br/>Űzzön el lelkünkből minden árnyat fénye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezt a sok kínt érettünk szótlan elszenvedted,<br/>Hogy nekünk, kik vétettünk, megnyissad a mennyet.<br/>Bűnbánó szívünket Isten elé tárjuk,<br/>Ezt a bort, kenyeret néki felajánljuk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amikor szent lelkedet, Megváltónk, kiadtad,<br/>A világ megreszketett, megrendült alattad.<br/>Föld és ég hirdették, hogy Te vagy az Isten,<br/>Akit áld és imád a világon minden.</lines>
+    </verse>
+  </lyrics>
+</song>

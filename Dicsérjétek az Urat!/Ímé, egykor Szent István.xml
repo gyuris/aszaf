@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Ímé, egykor Szent István</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ímé, egykor Szent István Istenben felálla,<br/>bátorsággal zsidóknak hogy ő prédikálna,<br/>És penitenciára mindent felindítna,<br/>amint a Szentírás ezt nyilván bizonyítja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alázatos Szent István a megdorgálásban,<br/>lőn gyönyörű ajakú az igazmondásban.<br/>Fáradatlan szorgalmú Istennek útjában,<br/>meg is koronáztaték magas mennyországban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Krisztus személy szerint néki megjelenék,<br/>Szent István szíve akkor megbátoríttatik,<br/>Mártírságra Istentől mert felszenteltetik,<br/>mint szép gyémánt, Istenben felékesíttetik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Ó, egek drága gyöngye, szerelmes Jézusom!<br/>Bűnösök szép váltsága, ártatlan Krisztusom.<br/>Ne nézd e nép vakságát, szívemből óhajtom,<br/>sőt bocsásd meg bűnüket, ez én kívánságom!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsértessél örökké, áldott szép Jézusunk,<br/>ki miértünk születtél, megváltó Krisztusunk.<br/>E világon éltünkben légy mi orvosságunk,<br/>holtunk után engedd meg örök boldogságunk.</lines>
+    </verse>
+  </lyrics>
+</song>

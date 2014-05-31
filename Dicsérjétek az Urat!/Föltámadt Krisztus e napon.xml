@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Föltámadt Krisztus e napon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Föltámadt Krisztus e napon.<br/>Alleluja! Hála légyen az Istennek.<br/>Hogy minden ember vigadjon.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Értünk halált ki szenvedett,<br/>Alleluja! Hála légyen az Istennek.<br/>S megváltott minden lelkeket.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mennek a szent nők sírjához,<br/>Alleluja! Hála légyen az Istennek.<br/>Kenetett visznek Krisztushoz.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fényes szép angyalt látnak ott.<br/>Alleluja! Hála légyen az Istennek.<br/>S hallának boldog szózatot.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ti félénk asszony-emberek,<br/>Alleluja! Hála légyen az Istennek.<br/>Galileába menjetek!<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tudják meg az apostolok,<br/>Alleluja! Hála légyen az Istennek.<br/>Hogy az Úr él, s feltámadott,<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Megjelent ő szent Anyjának,<br/>Alleluja! Hála légyen az Istennek.<br/>Kesergő szent Magdolnának.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Megjelent aztán Péternek,<br/>Alleluja! Hála légyen az Istennek.<br/>Megjelent majd a híveknek.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Húsvéti boldog lélekkel,<br/>Alleluja, hála légyen az Istennek.<br/>Dicsérjük Istent énekkel.<br/>Alleluja, hála légyen az Istennek.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Dicsőség Szentháromságnak,<br/>Alleluja! Hála légyen az Istennek.<br/>Adjunk ma hálát Urunknak.<br/>Alleluja! Hála légyen az Istennek.</lines>
+    </verse>
+  </lyrics>
+</song>

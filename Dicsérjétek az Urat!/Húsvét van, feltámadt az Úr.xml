@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Húsvét van, feltámadt az Úr</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Húsvét van, feltámadt az Úr,<br/>Ma lelkünk gyásza felvidul,<br/>Elárad rajta égi fény<br/>A húsvét áldott ünnepén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltott lelkek, jöjjetek,<br/>az Úrnak hálát zengjetek,<br/>Mert sírunk éjét győzte le<br/>az örök élet Istene.</lines>
+    </verse>
+  </lyrics>
+</song>

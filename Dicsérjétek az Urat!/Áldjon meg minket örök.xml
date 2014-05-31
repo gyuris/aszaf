@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Áldjon meg minket örök</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="546"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjon meg minket örök Atyaisten,<br/>áldjon meg minket kegyes Fiúisten,<br/>áldjon meg, áldjon Szentlélek Úristen,<br/>háromszemélyű igaz, örök Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atya Úristen, aki szent fiadat<br/>bűn váltságára miérettünk adtad,<br/>Szentlélek Istent ki elküldted nékünk<br/>egy örök Isten, irgalmazz minékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

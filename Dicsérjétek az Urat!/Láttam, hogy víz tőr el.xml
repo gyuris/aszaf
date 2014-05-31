@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Láttam, hogy víz tőr el</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="594"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Láttam, hogy víz tőr elő a templomból, annak jobb oldaláról,<br/>s kikhez elért e vízár, megszabadultak, és énekelték:<br/>alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Galileai férfiak, mért néztek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Galileai férfiak, mért néztek az égbe,<br/>Mért, hogy forró könny fakad férfiak szemébe'?<br/>Jézus Krisztus visszajön, Jézus Krisztus él.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Galileai férfiak, mért hogy tétlen álltok?<br/>Vár a Kelet és Nyugat, Krisztus bízta rátok.<br/>Hirdessétek mindenütt: Jézus Krisztus él.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Galileai férfiak, milyen jelre vártok?<br/>Várjatok még tíz napig, Lelkét küldi rátok.<br/>Nem hagy árván, nem hagy el: Jézus Krisztus él.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Galileai férfiak, ha majd jön az óra,<br/>Élőket és holtakat hív majd számadóra:<br/>A nagy Bíró visszajön, Jézus Krisztus él.</lines>
+    </verse>
+  </lyrics>
+</song>

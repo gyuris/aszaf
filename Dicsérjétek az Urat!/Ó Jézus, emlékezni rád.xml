@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Ó Jézus, emlékezni rád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézus, emlékezni rád<br/>a szívnek szent örömet ád,<br/>de minden méznél édesebb<br/>szívünkben bírni tégedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs szó a földön kedvesebb,<br/>nincs dallam zengőbb, édesebb<br/>gondolni szebbet nem lehet,<br/>mint Jézus, édes szent neved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnbánó nálad lel reményt,<br/>könyörgő szív jótéteményt,<br/>ha keresünk, itt jársz velünk,<br/>mi várhat majd, ha fellelünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nyelv azt nem mondhatja ki,<br/>betű ki nem fejezheti,<br/>csak aki érzi, tudja azt,<br/>Jézust szeretni mily malaszt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te légy, ó Jézus, örömünk,<br/>mennyekben gazdag örökünk,<br/>te adj az égben koronát,<br/>most és örök időkön át.</lines>
+    </verse>
+  </lyrics>
+</song>

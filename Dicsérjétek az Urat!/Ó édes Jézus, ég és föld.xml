@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Ó édes Jézus, ég és föld</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="246"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó édes Jézus, ég és föld dicsőséges Királya!<br/>Hozzád repes az angyalok alázatos imája.<br/>Édes igád terhe ellen föllázadt a Gonosz Szellem,<br/>Szívek trónját bitorolja, de mi híven kiáltunk: Jézus a mi Királyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó édes Jézus, keresztény családok szent Királya!<br/>Te vagy, aki a szerelmet s a hűséget megáldja.<br/>Oltárod a család éke, szent Szíved a köteléke.<br/>A gyermekek barátja és jóságos Királya.</lines>
+    </verse>
+  </lyrics>
+</song>

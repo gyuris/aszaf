@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Ó, gyönyörű szép titokzatos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, gyönyörű szép titokzatos éj!<br/>Égszemű gyermek, csöpp rózsalevél,<br/>Kisdedként az édes Úr jászolában megsimul,<br/>Szent karácsony éjjel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, fogyhatatlan csodálatos ér,<br/>Hópehely ostya, csöpp búzakenyér,<br/>Benne, lásd, az édes Úr téged szomjaz, rád borul<br/>Egy világgal ér fel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, drága Jézus, ékes kis virág,<br/>Illatos, kedves, tiszta rózsaág,<br/>Szívem legyen rejteked, reád bízom lelkemet,<br/>Töltsd be békességgel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó gyönyörű szép, titokzatos éj!<br/>Jézushoz menni, szívem, te se félj!<br/>Pásztor, király földre hullj, bűnös ember megjavulj,<br/>Szent karácsony éjjel!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó gyönyörű szép, kicsi Jézusunk,<br/>Eljöttünk hozzád, térdre borulunk.<br/>Köszönjük, hogy jó voltál, értünk földre szállottál<br/>Szent karácsony éjjel!</lines>
+    </verse>
+  </lyrics>
+</song>

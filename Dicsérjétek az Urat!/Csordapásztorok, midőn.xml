@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Csordapásztorok, midőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csordapásztorok, midőn Betlehemben,<br/>csordát őrizének éjjel a mezőben, éjjel a mezőben.<br/>Isten angyali jövének melléjök,<br/>és nagy félelemmel telék meg ő szivök, telék meg ő szivök.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömet mondok, nagy örömet néktek,<br/>mert ma megszületett a ti üdvösségtek, a ti üdvösségtek.<br/>Menjetek el-bé gyorsan a városba,<br/>és ott találjátok Jézust a jászolba', Jézust a jászolba'!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elindulának és el-béjutának,<br/>a Szűz Máriának, jónapot mondának, jónapot mondának.<br/>Hol fekszik Jézus, mondd meg, a jászolban,<br/>akit betakartál mostan a pólyában, mostan a pólyában.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten titeket hozott Uratokhoz,<br/>de én nem szólhatok mostan szent Fiamhoz, mostan szent Fiamhoz.<br/>Mert Ő aluszik, pólyában nyugoszik,<br/>a hideg jászolban szénán bágyadozik, szénán bágyadozik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem fekszik ágyban, sem friss palotában,<br/>hanem a jászolban, romlott istállóban, romlott istállóban.<br/>Aki az ég s föld sarkait föltartja,<br/>nem lel egy kis helyet, hol fejét lehajtsa, hol fejét lehajtsa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Serkentsd fel Jézust, Szent Fiadat nékünk,<br/>mert szent angyaloktól hozzája küldettünk, hozzája küldettünk!<br/>Serkenj fel Fiam! Pásztorok eljöttek,<br/>kik szent angyalidtól tehozzád küldettek, tehozzád küldettek!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Üdvözlégy Jézus, pásztorok Pásztora,<br/>mennynek és a földnek Teremtő Szent Ura, Teremtő Szent Ura!<br/>Ha meg nem utálsz, Te szolgáid vagyunk,<br/>és mi azért jöttünk, hogy Téged imádjunk, hogy Téged imádjunk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérünk Tégedet, mint Üdvözítőnket,<br/>bűnünkért előled el ne űzz bennünket, el ne űzz bennünket!<br/>Mária, te is könyörögj érettünk,<br/>hogy ezen világból boldogul kimenjünk, boldogul kimenjünk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicséret Néked, Örök Atyaisten,<br/>Kicsinyded kis Jézus és Szentlélek Isten, és Szentlélek Isten!</lines>
+    </verse>
+  </lyrics>
+</song>

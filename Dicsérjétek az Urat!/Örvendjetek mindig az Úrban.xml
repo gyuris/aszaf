@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Örvendjetek mindig az Úrban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendjetek mindig az Úrban!<br/>Ismét mondom: örvendjetek!<br/>Mert az Úr immár közel van hozzánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki trónolsz, Uram, a kerubok fölött:<br/>(*)<br/>ébreszd fel a te hatalmadat és jöjj el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondjátok: kicsinyhitűek,<br/>erősödjetek meg, és ne féljetek,<br/>íme, a mi Istenünk eljő,<br/>s megszabadít minket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feltárul az Úrnak dicsősége,<br/>és meglátja majd minden test Istenünknek üdvösségét.</lines>
+    </verse>
+  </lyrics>
+</song>

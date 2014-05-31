@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Jó ügyet védtél, Kapisztráni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="468"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó ügyet védtél, Kapisztráni János,<br/>helyt állva értünk hamuszín darócban.<br/>Fegyvered nem volt, csak a Jézus Krisztus<br/>szent keresztfája.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bárcsak e szent Fát mi is felmutatnánk,<br/>háromszor zengvén: Jézus! Jézus! Jézus!<br/>Jó reménységben sietvén utánad,<br/>menny katonája!</lines>
+    </verse>
+  </lyrics>
+</song>

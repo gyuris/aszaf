@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Hív minket most egy tiszta</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hív minket most egy tiszta szó,<br/>szívek homályán átható,<br/>hagyjátok el már álmotok,<br/>az égből Krisztus ránk ragyog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te kábult elme, ébredezz,<br/>te bűntől sebzett, éledezz,<br/>új napnak fénye tündököl,<br/>fusson az árny e fény elől!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az égi Bárány, íme, jő<br/>a bűneinket elvevő<br/>azért most, hívek, jöjjetek,<br/>bocsánatáért esdjetek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy majd, ha újra itt az Úr,<br/>s a földre félelem borul,<br/>ne légyen akkor büntetőnk,<br/>de őrizőnk és jótevőnk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicséret, áldás illeti<br/>Istent: Atyát és egy Fiút,<br/>s a Lelket is, ki vigaszunk<br/>örökké zengje himnuszunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Feltámadtam, és újból veled</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feltámadtam, és újból veled vagyok, alleluja.<br/>Reám tetted a kezedet, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez az a nap, melyet az Úr szerzett nekünk:<br/>örvendezzünk s vigadjunk rajta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Victimae paschali laudes  immolent Christiani.<br/>Agnus redemit oves:  Christus innocens Patri reconciliavit peccatores.<br/>Mors et vita duello conflixere mirando: dux vitae mortuus regnat vivus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dic nobis Maria, quid vidisti in via?<br/>Sepulchrum Christi viventis,<br/>Et gloriam vidi resurgentis,<br/>Angelicos testes, sudarium et vestes.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Surrexit Christus, spes mea,<br/>Praecedet suos in Galileam.<br/>Scimus Christum surrexisse a mortuis vere:<br/>tu nobis victor Rex, miserere.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Húsvét tiszta áldozatját a hívek áldva áldják.<br/>Bárány megváltja nyáját, és az ártatlan Krisztus már kiengeszteli értünk Atyját.<br/>Élet itt a halállal megvítt csodacsatával.<br/>A holt Életvezér ma úr és él!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mária, szent asszony, mondd, mit láttál utadon?<br/>Az élő Krisztusnak sírját, s a Fölkeltnek láttam glóriáját,<br/>angyali tanúkat, szemfedőt és gyolcsokat.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Feltámadt reményem, Krisztus, Galileába elétek indult.<br/>Tudjuk, Krisztus feltámadott és diadalmas:<br/>ó, győztes Királyunk, légy irgalmas.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Krisztus feltámada mind Ő nagy kínjából.<br/>Ezen mi is örüljünk, Krisztus legyen reményünk, kirj’elejson<br/>Amen, alleluja.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Alleluja! A mi húsvéti Bárányunk, alleluja,<br/>föláldoztatott Krisztus, alleluja, alleluja!<br/>Alleluja! Üljük hát e lakomát, alleluja,<br/>a tisztaság és igazság kovásztalan kenyerével, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Bevezetett titeket az Úr a tejjel s mézzel folyó földre,<br/>Hogy az Úr törvénye legyen mindig ajkatokon,<br/>Allelluja, alleluja.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ha föltámadtatok Krisztussal, alleluja,<br/>azt keressétek, ami fönt van, alleluja,<br/>hol Krisztus ül az Atya jobbján, alleluja.<br/>Ami fönt van, azt ízleljétek, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

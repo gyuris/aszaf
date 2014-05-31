@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Jaj énnekem, jaj szomor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jaj énnekem, jaj szomorú fejemnek!<br/>Ó, jaj nékem, szegény bűnös Péternek!<br/>Mert személyét Mesteremnek<br/>Megtagadtam kedvéért egy embernek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindentudó Jézus, este megmondtad,<br/>Ki szívemnek csalárdságát jól tudtad:<br/>„Péter, magad mire adod?<br/>Isten Fiát háromszor megtagadod!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A kakasszó hasogatja szívemet,<br/>Vádol lelkem, nem találom helyemet,<br/>Ítéletre szólít engem,<br/>Jaj, égre sem merem vetni szememet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az ártatlan Jézust nem felejthetem,<br/>tekintetét szívből ki nem vethetem<br/>Semmiképpen nem tehetem,<br/>Hogy az a szem ne vádoljon szüntelen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amíg élek, ezért sírok hevesen,<br/>Kérem Istent, magától el ne vessen,<br/>Sőt hogy újra fölemeljen,<br/>És ily bűntől minden embert megmentsen!</lines>
+    </verse>
+  </lyrics>
+</song>

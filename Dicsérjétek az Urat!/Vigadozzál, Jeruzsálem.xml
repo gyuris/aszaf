@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Vigadozzál, Jeruzsálem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigadozzál, Jeruzsálem!<br/>Gyűljetek egybe, kik szeretitek őt,<br/>Vigaszának tejével, hogy beteljetek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigadtam, mikor azt mondották nékem:<br/>(*)<br/>„Fölmegyünk az Úr házába!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akik az Úrban bíznak olyanok, mint a Sion hegye. (*) Nem rendül az meg mindörökké, ki Jeruzsálemben lakik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Körülötte hegyek vannak azonképpen az Úr is az ő népe körül (*) mostantól fogva és mindörökké.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeruzsálem mily nagy városnak épült, egybeillik annak minden része.<br/>Oda mennek fel a nemzetségek, nemzetségei az Úrnak.</lines>
+    </verse>
+  </lyrics>
+</song>

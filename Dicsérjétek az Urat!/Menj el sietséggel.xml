@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Menj el sietséggel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Menj el sietséggel, arkangyal, Gábriel,<br/>József jegyeséhez, ékes köszöntéssel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isteni titkaim immár kijelentem,<br/>mert Szűz Máriában jó kedvem telt nekem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy gyors szolgálatban, köszöntve Máriát,<br/>és vidd meg őneki a megváltás titkát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az emberi nemzet hogy megszabaduljon,<br/>s a régi rabságból új életre jusson.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Köszöntsd meg Máriát, ki malaszttal teljes,<br/>mondd: az Úr van vele, mert előtte kedves.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szentlélek Istentől fogantatik fia,<br/>imádandó nevén őt Jézusnak hívja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ő szabadítja meg Izraelnek népét,<br/>neki adom atyja, Dávid király székét.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jákobnak házában Ő fog uralkodni,<br/>s hatalmával mindent magához fog vonni.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Az ő országának soha nem lesz vége,<br/>ő lesz a Megváltó, s világ üdvössége!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ó égi követség! Ó Isten irgalma!<br/>Mily nagy az emberhez jóságod hatalma!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Isteni Megváltó, testté lett szent Ige,<br/>légy urunk, vezérünk örök üdvösségre!</lines>
+    </verse>
+  </lyrics>
+</song>

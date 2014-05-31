@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Két oszlopa igazságnak</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Két oszlopa igazságnak,<br/>két csillaga e világnak:<br/>Péter és Pál, szent hitünknek ültetői,<br/>véretekkel ősi Róma új szülői!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ragyog immár koronátok,<br/>örök égi boldogságtok,<br/>tanítástok az Egyháznak igaz fénye,<br/>segítsetek, el ne térjünk soha tőle!</lines>
+    </verse>
+  </lyrics>
+</song>

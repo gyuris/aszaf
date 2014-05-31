@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Szent Imre herceg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Imre herceg, Magyarország éke,<br/>Szűz-tiszta élet legszebb példaképe.<br/>Serdülő ifjak pajzsa, menedéke:<br/>Kérd Istent értünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó magyar népünk alighogy megtére,<br/>már jeles szentet termett Árpád vére.<br/>Gyors választ adván Isten kegyelmére.<br/>Kérd Istent értünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jól kiművelve ifjúkorba értél,<br/>égi hívásra a szűk útra léptél.<br/>Emberi testben angyal-módra éltél.<br/>Kérd Istent értünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Imre herceg, magyar ifjak pajzsa,<br/>a veszélyt tőlünk karod távol tartsa.<br/>Ne engedj jutnunk kísértésbe, bajba.<br/>Kérd Istent értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

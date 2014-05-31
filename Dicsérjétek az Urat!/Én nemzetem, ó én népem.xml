@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Én nemzetem, ó én népem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én nemzetem, ó én népem, teellened mit vétettem?<br/>Tőled halált mért szenvedtem? Immár felelj meg énnekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én tégedet Egyiptomból kihoztalak nagy rabságból:<br/>Te engemet én hazámból kivetél a szent városból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyiptomból kimentedben nyílást tettem a tengerben:<br/>Te mellemet megnyitottad, piros vérem kiontottad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A pusztában itattalak, és mannával tápláltalak:<br/>Te epével itattál meg, és ecettel kínáltál meg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ellenséged én megvertem, a fáraót elvesztettem:<br/>Te ostorral testem verted, talpig vérbe elkeverted.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én téged nagy méltóságra emeltelek, királyságra:<br/>Te tövissel koronáztál, bársonyoddal megaláztál.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én Kánaán dús földére bevittelek, nagy bőségre:<br/>Te Golgota zord hegyére vittél engem, szenvedésre.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Én szőlőmbe ültettelek, szép esőkkel öntöztelek:<br/>Jó gyümölcsöt nem termettél, latrok közé feszítettél.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Én nemzetem, ó én népem! Többet érted mit tehettem?<br/>Te ellened mit vétettem? Felelj immár meg énnékem!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>De ne essél te kétségbe, bánd meg bűnöd, szállj szívedbe,<br/>Könnyezz és térj Istenedhez, hozzám, te Üdvözítődhöz!</lines>
+    </verse>
+  </lyrics>
+</song>

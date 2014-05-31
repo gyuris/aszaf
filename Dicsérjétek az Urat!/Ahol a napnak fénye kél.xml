@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Ahol a napnak fénye kél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ahol a napnak fénye kél,<br/>s a föld amerre véget ér,<br/>dicsérjük Krisztust, a Vezért,<br/>Szűz Máriának gyermekét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A világ boldog Mestere<br/>szolgai testbe öltözött,<br/>hogy testünk testtel mentse meg,<br/>s ne vesszen el, kit alkotott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szülő titkos rejtekén<br/>belép az égi kegyelem,<br/>a szűz leánynak méhe hord<br/>soha nem ismert titkokat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szemérmes szíve otthona<br/>Istennek lett a temploma,<br/>férfit nem ismervén soha,<br/>hallván igét, fiat fogant.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Világra hozta gyermekét,<br/>kit Gábriel meghirdetett,<br/>kit anyaméhbe zárva még<br/>János titkon megérezett.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szénán feküdni kényszerült,<br/>nem félt jászolban szállni meg,<br/>s kicsinyke tejjel étkezik,<br/>kinél madár sem éhezik.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Örvend a mennyek kórusa,<br/>Istenről zengnek angyalok,<br/>s láthatják, ím, a pásztorok<br/>mindenek Urát, Pásztorát.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(Meghajolva)<br/>Urunk dicsérünk tégedet,<br/>aki a Szűznek Fia vagy,<br/>Atyádat és Szent Lelkedet<br/>örökké minden századon. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

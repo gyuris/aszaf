@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Krisztus virágunk, szép term</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus virágunk, szép termő águnk.<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki feküdt sírban Felkelve vígan.<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felkele fényünk, Krisztus reményünk.<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, hogy felkelt, Szentírás bételt.<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézusnak éljünk, Semmit ne féljünk!<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsőség légyen Istennek égben!<br/>Feltámadt Krisztus, vigadjunk,<br/>A bűnből mink is támadjunk!</lines>
+    </verse>
+  </lyrics>
+</song>

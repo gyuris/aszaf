@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Szent vagy Uram, szent vagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy Uram, szent vagy!<br/>Minden fölött szent vagy!<br/>Jézus kenyér színében,<br/>az Oltáriszentségben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Térdet, fejet hajtok,<br/>néked áldást mondok.<br/>Hiszem, itt vagy valóban<br/>e nagy Szakramentomban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tebenned remélek,<br/>szívemből szeretlek,<br/>Készebb vagyok meghalni,<br/>mint téged megbántani.</lines>
+    </verse>
+  </lyrics>
+</song>

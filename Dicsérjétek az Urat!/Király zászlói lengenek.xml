@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Király zászlói lengenek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Király zászlói lengenek,<br/>Villog titkával a kereszt,<br/>Rá testben fölfeszíttetett,<br/>ki minden testet alkotott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szögekkel verve tagjai,<br/>Kinyújtva lába és keze:<br/>Itt függ a véres áldozat,<br/>Ki a megváltás ára volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A lándzsa szörnyű vashegye<br/>Itten sebezte oldalát,<br/>Vérrel és vízzel áradott,<br/>Lemosni bűneink sarát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Betellett Dávid jóslata,<br/>Amelyet egykor énekelt,<br/>Hirdetvén minden nép között:<br/>"Fáján országol Istenünk!"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó fényességes, drága Fa,<br/>király vérével bíboros,<br/>Te méltó törzsről származol,<br/>hogy érintsd szentelt tagjait.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te áldott, kinek ága közt<br/>váltságunk díja lebegett,<br/>Te lettél teste mérlege,<br/>S a poklot megrabolta fád.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent kérged ont jó illatot,<br/>ízed a nektárt győzi le!<br/>Ezer gyümölcssel boldogan<br/>tapsolnak győztes karjaid!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvözlégy oltár, szent Kereszt,<br/>melyen Ő dicsőn szenvedett,<br/>Rajtad az Élet halt halált,<br/>s holtával szerzett életet.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(meghajolva)<br/>Ó szent Kereszt, te egy remény,<br/>A szenvedés szent idején<br/>Növeld a jókban javaid,<br/>S töröld a bűnös vétkeit!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Háromságos nagy Istenünk,<br/>dicsérnek téged mindenek,<br/>Kiket megvált a szent Kereszt:<br/>vezérelj minket szüntelen. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

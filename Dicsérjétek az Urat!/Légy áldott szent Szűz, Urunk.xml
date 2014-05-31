@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Légy áldott szent Szűz, Urunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy áldott szent Szűz, Urunk édesanyja!<br/>A szép mennyország igaz színaranyja!<br/>Légy nekünk utunk a te szent Fiadhoz:<br/>Kérd Istent értünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó szent Szűz, tiszta minden földi szennytől,<br/>nagy kegyet nyertél Urad-Istenedtől:<br/>mert mint a liljom, tiszta volt lelked.<br/>Kérd Istent értünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy áldott, szent Szűz, új örömnap fénye,<br/>Isten-országnak első kereszténye!<br/>Légy velünk, kérünk, mindennapjainkban!<br/>Kérd Istent értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Mennyországnak Királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyországnak Királynéja,<br/>Irgalmasságnak szent Anyja!<br/>Élet, édesség, reménység!<br/>Üdvözlégy szép Szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Évának árva fiai,<br/>számkivetett maradéki,<br/>siralminak örökösi,<br/>sok nyavalyáknak hajléki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E siralomnak völgyében<br/>kik kesergünk nagy ínségben,<br/>hozzád sóhajtunk mennyégbe<br/>hol vagy örök dicsőségbe’.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért Szószólónk, szemedet,<br/>fordítsd hozzánk kegyelmedet,<br/>és a te bűnös népedet<br/>oltalmazzad, híveidet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó édes Szűz, irgalmadat<br/>éreztesd s kegyes voltodat.<br/>Holtunk után szent Fiadat,<br/>mutasd meg boldogságodat!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>V: Imádkozzál érettünk, Istennek szent Anyja!<br/>R: Hogy méltók lehessünk Krisztus ígéreteire!</lines>
+    </verse>
+  </lyrics>
+</song>

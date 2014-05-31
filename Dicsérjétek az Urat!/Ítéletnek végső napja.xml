@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ítéletnek végső napja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="510"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ítéletnek végső napja<br/>e világot lángba dobja<br/>prófétáknak szava mondja.<br/>Reszket akkor holt meg élő,<br/>ha megjön a nagy Ítélő,<br/>mindeneket számon kérő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csodakürtök zengenek meg,<br/>sírok éjén átremegnek,<br/>ítéletre mindeneknek.<br/>Csodájára a halálnak,<br/>aki rég por, talpra támad,<br/>számot adni bírájának.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kézzel írt könyv nyílik ottan,<br/>világ terhe, minden ott van,<br/>ítéletre felróvottan.<br/>Bíró majd ha széket ül ott,<br/>minden rejtek felderül ott,<br/>zsoldot bűn el nem kerül ott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én szegény ott mit beszéljek,<br/>pártfogómul kit reméljek,<br/>hol még a szentek is félnek?<br/>Nagy Király, kit retteg minden,<br/>de a jót megváltod ingyen,<br/>kegyek kútja, válts meg engem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rólam, Jézus, emlékezzél,<br/>akiért a földre jöttél,<br/>veszni aznap ne engedjél!<br/>Fáradoztál megkeresve,<br/>értem szálltál a keresztre,<br/>ennyi munkád kárba veszne!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ki Magdolnát feloldottad,<br/>és a latrot meghallgattad,<br/>nékem is e reményt adtad.<br/>Nem méltó az én kérésem,<br/>de te jó vagy, tedd kegyesen,<br/>hogy örök tűz ne égessen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Könnyel árad ama nagy nap,<br/>hamvukból ha föltámadnak<br/>a bűnösök, s számot adnak.<br/>Uram, nékik adj jó véget,<br/>kegyes Jézus, kérünk téged,<br/>add meg nekik békességed. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

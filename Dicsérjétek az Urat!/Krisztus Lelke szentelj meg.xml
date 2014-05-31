@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Krisztus Lelke szentelj meg</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Lelke szentelj meg, Krisztus teste gyógyíts meg.<br/>Krisztus vére ihletünk, légy irgalmas Istenünk!<br/>Oldalsebed vize tisztítson szenvedésed erőt árasszon.<br/>Édes Jézus hald meg kérésünk, légy irgalmas Istenünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rejts el sebeidbe jól, ne engedj el magadtól.<br/>Gonosz ellen légy velünk, légy irgalmas Istenünk!<br/>Hívjál engem végső órámon, juttass Hozzád ama nagy napon.<br/>Áldjon ajkam, mint a szenteké, mindörökkön örökké. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

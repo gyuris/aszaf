@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Alleluja! Örvendezzünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja! Örvendezzünk, Krisztus Jézus föltámadt.<br/>És reánk az ő sírjából győzedelmi fény árad.<br/>Áldozzunk hát oltáránál, mint dicsőült sírjánál,<br/>Alleluja! Örvendezzünk, Krisztus Jézus föltámadt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja! Magasztaljuk az isteni Fölséget,<br/>Föltámadván ki meghozta boldog lelki békénket.<br/>Értünk ontott vére árán megmentett a keresztfán.<br/>Alleluja! Magasztaljuk az isteni Fölséget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja! Szent hit fénye ragyog Jézus sírjából,<br/>Ha követjük, üdvösségre támadunk a halálból.<br/>Másra nem lehet szükséged, ő az út és az élet,<br/>Alleluja! Szent hit fénye ragyog Jézus sírjából.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja! Áldozattal járulunk az oltárhoz,<br/>Mint az Isten bárányának égi szent asztalához.<br/>Tudjuk, hogy a szent áldozat a méltóknak üdvöt ad.<br/>Alleluja! Áldozattal járulunk az oltárhoz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluja! Szent az Isten, őt imádja ég és föld,<br/>Mert dicső feltámadása mindent örömmel betölt.<br/>Dicsősége, égi fénye jövő éltünk reménye.<br/>Alleluja! Szent az Isten, őt imádja ég és föld.</lines>
+    </verse>
+  </lyrics>
+</song>

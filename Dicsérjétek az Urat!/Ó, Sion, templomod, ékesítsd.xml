@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Ó, Sion, templomod, ékesítsd</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Sion, templomod, ékesítsd csarnokod,<br/>Így fogadd Krisztusod, Királyod, Pásztorod!<br/>Íme itt jön Szűz Mária, karján lelkünk vigassága:<br/>Úristen szent Fia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A törvényt megtartja, mint az Úr meghagyta,<br/>Fiát bemutatja, Simeon fogadja.<br/>Íme itt jön Szűz Mária, karján lelkünk vigassága:<br/>Úristen szent Fia.</lines>
+    </verse>
+  </lyrics>
+</song>

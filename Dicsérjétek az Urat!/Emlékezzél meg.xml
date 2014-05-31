@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="534"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emlékezzél meg,<br/>ó élő ember,<br/>a te Istenedről;<br/>szólj és ne hallgass<br/>az ő kegyelméről!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi madarak<br/>jókor hajnalban<br/>vígan zengedeznek,<br/>természetükről<br/>el nem feledkeznek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te, pedig, ember,<br/>magadban hordod,<br/>az Istennek képét,<br/>s megkaptad tőle<br/>kiárasztott Lelkét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megáldott téged<br/>teremtő Urad<br/>lelki okossággal,<br/>s megékesített<br/>nyelved szólásával.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért elmédet<br/>restté ne tegyed,<br/>dicsérd Istenedet!<br/>Mert így kívánja:<br/>áldjad Teremtődet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amikor felkelsz,<br/>amikor fekszel,<br/>dicsérd Istenedet,<br/>ne feledkezz meg:<br/>ő teremtett téged!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adja az Isten<br/>nékünk kegyelmét,<br/>ihlető szent Lelkét,<br/>hogy dicsérhessük,<br/>az ő szent Fölségét!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Krisztus az Úr feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus az Úr feltámadott,<br/>alleluja, alleluja.<br/>Reményt minékünk így adott,<br/>alle-, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr Krisztus feltámada,<br/>alleluja, alleluja.<br/>Reménységet nekünk ada,<br/>alle-, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy mi is mind feltámadunk,<br/>Alleluja, alleluja,<br/>Dicsőségébe eljutunk<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy mi is mind feltámadunk,<br/>Alleluja, alleluja,<br/>és ővéle uralkodunk<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Feltámadása Krisztusnak<br/>Alleluja, alleluja,<br/>Romlása lőn a pokloknak<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Maradjon mindig ő velünk,<br/>Alleluja, alleluja,<br/>Kiben megújult életünk,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Éljünk azért az Istennek,<br/>Alleluja, alleluja,<br/>Atya, Fiú, Szentléleknek,<br/>Alle-, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

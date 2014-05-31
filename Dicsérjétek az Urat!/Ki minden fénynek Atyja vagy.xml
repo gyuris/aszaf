@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ki minden fénynek Atyja vagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="537"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki minden fénynek Atyja vagy,<br/>és a napokra fényt derítsz,<br/>s midőn az ősfényt alkotád,<br/>világnak adtál kezdetet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki egy nappá avattad azt,<br/>mi reggelt s estet összeköt:<br/>sötét káosz csúszik reánk,<br/>halljad sírásunk és imánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne kelljen bűnök terhivel,<br/>az életet így hagyni el,<br/>hiú gondolattal teli,<br/>s vétek-bilinccsel küzdeni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkünk egeket ostoroz,<br/>jutalmul élet-kincset ossz,<br/>kerüljük, ami kárt okoz,<br/>tisztuljon minden, ami rossz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ezt teljesítse az Atya,<br/>s vele egylényű Egy Fia,<br/>aki Veled uralkodik:<br/>ó Lélek, minden századig. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

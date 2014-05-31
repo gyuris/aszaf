@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Örvendezzünk, Betlehembe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzünk, Betlehembe menjünk ajándékokkal,<br/>Istállóhoz, barmok jászolyához a pásztorokkal.<br/>Ott született egy kis gyermek, az Isten Fia,<br/>a világnak régtől fogva várt Megváltója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kemény ágyban, hideg jászolyban sír a mi örömünk.<br/>Kiskorában, első órájában már szenved értünk:<br/>Mezítelen testecskéje hóval betelik,<br/>hideg szelek fejecskéjét úgy megdermesztik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, mint fázik, orcája is ázik, sűrű cseppekkel.<br/>Szemeinek, drága gyöngyeinek sok könnyeivel.<br/>Mennyi csöppök, annyi gyöngyök, értünk hullanak,<br/>ezek a mennybéli vizek lelkünkre folynak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezt látjátok, mégis nem szánjátok, bűnös emberek!<br/>Kemény szívvel és száraz szemekkel, hogy tűrhetitek?<br/>Jézus, világ vidámsága, hogy siránkozik,<br/>angyaloknak vigassága, hogy szomorkodik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh vétettünk, sok bűnt cselekedtünk, édes Jézusunk!<br/>De ím, szánjuk, teljes szívvel bánjuk, kegyes Orvosunk!<br/>Ígérjük, hogy soha többé meg nem bántunk már,<br/>Jöjj el édes Jézus! Jöjj el, lelkünk készen vár.</lines>
+    </verse>
+  </lyrics>
+</song>

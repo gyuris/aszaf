@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Szemeim mindenkor az Úrra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szemeim mindenkor az Úrra néznek,<br/>Mert Ő vonja ki a tőrből lábamat.<br/>Tekints reám, Isten<br/>és könyörülj én rajtam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kelj fel, Uram, ne hatalmaskodjék az ember<br/>(*)<br/>állítsd ítéletre a nemzeteket színed elé!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád emelem az én szemeimet, (*) ki a mennyekben lakozol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Íme, miként a szolgáknak szeme az ő uruknak kezére (*) íme, minként a szolgálók szeme asszonyuk kezére.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Úgy tekint a mi szemünk Urunkra, Istenünkre (*) míg csak meg nem könyörül rajtunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Könyörülj rajtunk, ó Uram (*) könyörülj rajtunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A veréb házat talál magának, s a gerlice is fészket, hová fiait helyezze:<br/>én a te oltárodnál, seregek Ura, én királyom, én Istenem.</lines>
+    </verse>
+  </lyrics>
+</song>

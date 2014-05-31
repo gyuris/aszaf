@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Most lett a kenyér Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most lett a kenyér Krisztus testévé,<br/>most vált a színbor Jézus vérévé.<br/>Test már a kenyér, a bor igaz vér,<br/>hiszem ezt, ámbár elmémbe nem fér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt az istenség az emberséggel<br/>ím, megegyezett nagy szövetséggel.<br/>Ebben reménylek, amíg csak élek,<br/>ebben erősíts, Jézusom, kérlek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt a test és vér felmutattatott,<br/>mely a keresztfán értünk ontatott:<br/>Ó nagy szeretet, érted mennyit tett!<br/>Valld meg hát bűnös, mért nem szereted.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezt a számtalan vétek okozta.<br/>Szeretetemet Tőled elvonta.<br/>De már szívemből, igaz lelkemből<br/>bánom bűneim teljes erőmből.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Immár szeretlek: édes Jézusom!<br/>Értem megfeszült drága Krisztusom!<br/>Nyújtsd kegyelmedet, segítségedet,<br/>méltón áldhassam szent Fölségedet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérlek, Jézusom, segíts meg arra:<br/>mikor eljutok végső órámra,<br/>hogy szent testedben s drága véredben<br/>részes lehessek nagy küzdelmemben.</lines>
+    </verse>
+  </lyrics>
+</song>

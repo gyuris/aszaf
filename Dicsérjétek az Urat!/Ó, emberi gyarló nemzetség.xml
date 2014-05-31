@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ó, emberi gyarló nemzetség</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="523"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, emberi gyarló nemzetség,<br/>minden dolgod csak hívság, kétség.<br/>Miben bízol? Arany és ezüst<br/>elenyészik majdan, mint a füst.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem látod-e annyi példában,<br/>hogy a halál siet dolgában.<br/>A sok tisztség s nagy birodalom<br/>elolvad majd, mint a hóhalom.<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs e földön hosszú maradás,<br/>zarándok vagy, sorsod vándorlás,<br/>láss dolgodhoz, míg az úton vagy,<br/>ne játsszál, mert számadásod nagy!<br/>Ó halál, ó halál, ó szörnyű halál!</lines>
+    </verse>
+  </lyrics>
+</song>

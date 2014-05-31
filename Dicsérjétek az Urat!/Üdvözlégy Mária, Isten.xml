@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="482"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, Isten Szülője!<br/>Lelkedhez sosem fért bűnnek szeplője.<br/>Öröktől fogva Isten választott,<br/>vétektől megoltalmazott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó szent Szűz, megrontád a Kígyó fejét,<br/>s megtörted lelkünknek régi ellenét.<br/>Néked nem ártott a bűnnek mérge,<br/>a Sátán vakmerősége.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te lettél szülője Isten Fiának,<br/>ki bűnét elveszi mind e világnak.<br/>Méltó volt azért, hogy ő szülője<br/>az ősbűnt meg ne ismerje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeplőtlen tiszta Szűz, te állj mellettünk,<br/>kik bűnben születtünk, Istenhez térjünk.<br/>Te légy mindnyájunk hívó példája:<br/>Úrnak Szolgálóleánya!</lines>
+    </verse>
+  </lyrics>
+</song>

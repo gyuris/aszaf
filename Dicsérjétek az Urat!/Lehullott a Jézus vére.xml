@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Lehullott a Jézus vére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lehullott a Jézus vére,<br/>A szent keresztfa tövére,<br/>Drágalátos szent testéről,<br/>Öt mélységes sebeiből.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De a földön nem maradott,<br/>Mint piros rózsa kinyílott,<br/>A szent angyalok felszedték,<br/>Alázatosan tisztelték.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondá Jézus az angyalnak;<br/>Vidd fel mennybe, szent Atyámnak,<br/>Mondd meg, keresztfámról küldtem<br/>Fogadja kedvesen tőlem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez a világ drága ára,<br/>Sebeim kinyílt rózsája,<br/>Mit nagy fájdalommal szültem,<br/>Véres könnyekkel öntöztem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nincs már hátra, csak egy órám,<br/>Elvégződik minden munkám,<br/>Kifogy a keserű pohár,<br/>Mely világ kezdetétől vár.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ádám keserű almája<br/>Hozott a kínos halálra,<br/>Jertek az én keresztfámhoz,<br/>Üdvösségtek oltárához.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent keresztfa, be magos vagy,<br/>Jézus testivel terhes vagy,<br/>Három tompa vasszeg tarja,<br/>Fájdalmas szív hogy sírassa.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ádámnak bűnös fiai,<br/>Jertek hozzám imádkozni,<br/>Boruljatok le előmbe,<br/>Szent Atyámhoz könyörögve.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Soha el ne felejtsétek,<br/>Hogy meghaltam érettetek,<br/>Soha el ne felejtsétek,<br/>Hogy meghaltam érettetek.</lines>
+    </verse>
+  </lyrics>
+</song>

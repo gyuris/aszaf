@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Jaj áldott méhemnek drága</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jaj áldott méhemnek drága, édes gyümölcse,<br/>Szegény árva, bús szívemnek egyetlen reménye!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, én Egyszülöttem, ártatlan drága Jézus!<br/>Mi a bűnöd, hogy fán függesz, szelíd, kegyes Krisztus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te szent oldaladból bőven foly a piros vér,<br/>Bűnös Ádám s minden ember számtalan vétkéért.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jaj, mind elhagyának, tieid elfutának,<br/>Mint mezőben egy virágszált, szintúgy elhagyának…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szánjanak meg téged erdők szép violái,<br/>Zokogjanak a hegyeknek zúgó csatornái!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gyászba öltöznek mind a teremtett állatok,<br/>Sirat a nap, óhajt a föld, sírnak a csillagok.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Könnyem ontom érted, fájdalmas, megtört szívvel,<br/>Reád nézvén, téged látván szörnyű sebeiddel.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Legyen vége immár keserves panaszomnak,<br/>Mivel nincsen megszánója az én siralmamnak.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ne sírj áldott szent Szűz, bizakodj, s híven várjad:<br/>Fiad, Jézus harmadnapra holtából feltámad!</lines>
+    </verse>
+  </lyrics>
+</song>

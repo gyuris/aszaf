@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Dicsértessék Jézus Szíve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsértessék Jézus Szíve,<br/>Istenségnek nagy szentélye,<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vasdárdával átdöfött Szív,<br/>dicséretre legméltóbb Szív,<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyalázással megcsúfolt Szív,<br/>béketűrő, irgalmas Szív,<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megtöretett bűneinkért,<br/>engesztelés vétkeinkért,<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mindhalálig engedelmes,<br/>Atyád előtt igen kedves.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ősatyáink kivánsága,<br/>minden szentek boldogsága.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Irgalmasság áradása,<br/>bölcsességnek kincsestára.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Életszentség kútforrása,<br/>erényeknek jó példája.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bő tárháza szeretetnek,<br/>nyílt kapuja a mennyeknek.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Benned bízók üdvössége,<br/>haldoklóknak reménysége<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Életünk, vigasztalásunk,<br/>üdvünk és feltámadásunk.<br/>Jézus Szíve, legszentebb Szív,<br/>téged kérünk, alakítsad Szíved szerint a mi szívünk.</lines>
+    </verse>
+  </lyrics>
+</song>

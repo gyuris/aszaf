@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Christus vincit, Christus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="552"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christus vincit, Christus regnat, Christus imperat!<br/>Krisztus hallgass minket! Isten szent Egyházának üdvösséget és oltalmat!<br/>1. Krisztus király!<br/>Nép: Üdvözíts minket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szűz Mária! N: Védelmezz minket! Christus vincit…<br/>Krisztus, hallgass minket! Szentatyánknak N. római pápának és N. püspökünknek bölcsességet és hosszú életet!<br/>Krisztus király! N: Üdvözíts minket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Péter! N: Védelmezz minket! Christus vincit…<br/>Krisztus hallgass minket! Papjainknak fedhetetlen életet, minden keresztény hívőnek üdvösséget és mennyei békékét!<br/>Krisztus király! N: Üdvözíts minket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Mihály angyal! N: Védelmezz minket! Christus vincit…<br/>Krisztus hallgass minket! Az egész világnak békességet, hazánk és községünk (városunk) minden lakójának boldog napokat!<br/>Krisztus király! N: Üdvözíts minket!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent István király! N: Védelmezz minket! Christus vincit…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Világosságunk, Utunk és Életünk! N: Christus vincit…<br/>Mi erősségünk és igazságunk! N: Christus vincit…<br/>Krisztus békéje jöjjön el!<br/>Krisztus országa jöjjön el!<br/>Egyedül övé az uralom, a dicsőség és a hatalom minden századokon át!<br/>N: Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

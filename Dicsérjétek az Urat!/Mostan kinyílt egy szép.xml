@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Mostan kinyílt egy szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mostan kinyílt egy szép rózsa-virág,<br/>akit régen várt az egész világ.<br/>Betlehemben kibimbózott zöld ág,<br/>királynemből méltóság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mégsem talált szállást a városon,<br/>maradása csak a pusztán vagyon,<br/>Mert a népek inkább az urakon<br/>kaptak, semmint Jézuson.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szűz Mária így kesereg sorsán<br/>Szent Józseffel, csüngve Fia arcán,<br/>Ülvén véle csak egy kevés szalmán,<br/>sűrű könnye csordulván.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, szerelmes, drága királyocskám,<br/>bő illattal teljes patikácskám,<br/>Karom közé búvó alakocskám,<br/>ne nézd sorsom, violám.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bölcsőm volna, elhidd, ringatnálak,<br/>a hidegnek tépni nem hagynálak:<br/>Betakarván, úgy ápolgatnálak:<br/>szolgálnék, mint Uramnak!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De most néked csak az ökör, szamár<br/>udvarolgat, jászol előtt immár:<br/>Oktalanok megismernek, ámbár<br/>ember-szíve el-kizár.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mégse vess meg, hogy későn ismertünk,<br/>mert már hisszük: születtél miértünk,<br/>Szűz méhéből, édes reménységünk!<br/>Vedd szívesen énekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

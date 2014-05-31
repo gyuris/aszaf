@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Szentlélek Isten szállj reánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek Isten szállj reánk,<br/>elmét derítő tiszta láng!<br/>Öntsd lelkeinkbe, melyeket<br/>megszenteltél, kegyelmedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit Isten, mint vigasztalót,<br/>nekünk ajándokul adott,<br/>minden javak bő kútfeje,<br/>lelkünk világa s élete!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te hét ajándok Istene,<br/>az Úr hatalmas jobbkeze,<br/>te, kit nekünk ígért Atya,<br/>nyelvünk kenetdús szózata!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Érzékeinkbe fényt deríts,<br/>kebelt erényre fölhevíts.<br/>Testünk erőtlenségeit<br/>védjék magas kegyelmeid.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kísértésekben el ne hagyj,<br/>szívünkbe békességet adj.<br/>Életünk útján légy vezér,<br/>ne érje népedet veszély.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó hadd, ismerjük az Atyát,<br/>és Egyszülöttjét, szent Fiát.<br/>Kettejük Lelkét, tégedet<br/>imádjanak most mindenek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Legyen dicsőség, ó Atyánk,<br/>neked, s kitől megváltatánk,<br/>Fiadnak, a Vigasztalót<br/>áldván veled, mint egy valót.</lines>
+    </verse>
+  </lyrics>
+</song>

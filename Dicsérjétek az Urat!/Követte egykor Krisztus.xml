@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Követte egykor Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Követte egykor Krisztus csodáját népek sokasága;<br/>tanítván őket, e szavakat mondja:<br/>„Boldogok, akik lelki szegények, és nem hivalkodnak,<br/>mert a mennyország adatik azoknak.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Boldogok, akik szelíd emberek, és nem gyűlölködnek,<br/>Atyám ígéri: ők bírják a földet.”<br/>„Boldogok, akik sírván bánkódnak és károkat vallnak,<br/>mert ők Istentől vigasztalást kapnak.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Boldogok, akik az igazságot éhezik, szomjazzák,<br/>amit kívántak, Istennél találják.”<br/>„Boldogok, akik irgalmas szívvel máson könyörülnek,<br/>irgalmasságot az Istentől nyernek.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Boldogok, akik tiszta szívűek és a bűnt utálják,<br/>mert jövendőben Istent ők meglátják.”<br/>„Boldogok, akik békesség-szerzők, békességben laknak,<br/>gyermekei ők valóban az Úrnak.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>„Boldogok, akik az igazságért üldözést szenvednek,<br/>örökösei lesznek majd a mennynek.”<br/>Boldogok lesztek, mikor énértem emberek gyűlölnek,<br/>és maguk közül titeket kiűznek:”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>„Mondom tinéktek, örvendezzetek, vigadjatok szívből,<br/>jutalmat nyertek Atyámnak kezéből!”</lines>
+    </verse>
+  </lyrics>
+</song>

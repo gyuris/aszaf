@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Hamvazkodjál, hivő lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hamvazkodjál, hivő lélek,<br/>Mert porba tér ez az élet,<br/>Akármennyit örvendeznél,<br/>Ne feledd, hogy porból lettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamvazkodjál, te dúsgazdag,<br/>mert javaid cserbenhagynak!<br/>Hamvazkodjál, szegény ember,<br/>Kérjed Jézust türelemmel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örömeink mind elmúlnak,<br/>Könnyeink is porba hullnak,<br/>Boldogok, kik megjavulnak,<br/>hamvazkodván megindulnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S ha majd egyszer sírba szállunk,<br/>Testünk szerint porrá válunk,<br/>Őrizd romló csontjainkat,<br/>S hamvainknak adj nyugalmat.</lines>
+    </verse>
+  </lyrics>
+</song>

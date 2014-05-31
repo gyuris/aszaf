@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, nagy király</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, nagy király! Előtted térden áll mennyben az angyali kórus.<br/>Tiéd a győzelem, kit illet félelem, ítélet és örök trónus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, nagy Király, kit szívünk úgy kíván, békesség áldott kútfője!<br/>Készítsd föl népedet, lássa meg színedet, emberek üdvözítője.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Himnusszal hódolunk, irgalmas gyámolunk, tekintsd meg esdeklő néped!<br/>Emeld föl szívemet, újítsd meg lelkemet Kenyérnek, Bornak színében!</lines>
+    </verse>
+  </lyrics>
+</song>

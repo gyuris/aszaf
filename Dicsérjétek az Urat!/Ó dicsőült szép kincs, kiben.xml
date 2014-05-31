@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Ó dicsőült szép kincs, kiben</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó dicsőült szép kincs, kiben semmi rút nincs, kihez nem fér sötétség.<br/>Jessze termő törzsén, Dávid háza keblén felkelt boldog fényesség.<br/>Ékes csillagokkal, Nappal és a Holddal vetélkedő dicsőség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajnali szép csillag, ki mindenkor csillog, ha járunk a setétben.<br/>Kinek fényessége bátorság és béke kísértésben, veszélyben:<br/>ragyogj reánk immár, mert az ördög itt jár, keresvén, kit széttépjen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esedezzél értem, hogyha bűnre tértem, önts belém szent félelmet,<br/>hogy estemet szánjam, bűneimet bánjam, szerezz nékem kegyelmet,<br/>hogy Istenhez térjek, tehozzád elérjek s dicsérhessem szent neved.</lines>
+    </verse>
+  </lyrics>
+</song>

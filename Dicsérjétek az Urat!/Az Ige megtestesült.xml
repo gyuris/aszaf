@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Az Ige megtestesült</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Ige megtestesült Názáretben,<br/>Kit Mária szűzen szült Betlehemben.<br/>Itt vagyon elrejtve kenyérszínben,<br/>Imádjuk mindnyájan egyetemben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezt az igaz nagy Isten bölcsessége<br/>Mindeneknek javára cselekedte,<br/>Mely dolgon angyalok csodálkoznak<br/>Emberek, állatok álmélkodnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betlehembe ne menjünk, föltaláljuk:<br/>Jelen van ez oltáron s magasztaljuk!<br/>Mert szívünk, ha tiszta és ártatlan,<br/>Kedvesebb az neki, mint az arany.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőség és dicséret az Atyának,<br/>E világra született szent Fiának,<br/>És vele a kegyes Szentléleknek,<br/>Szentháromságban az egy Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

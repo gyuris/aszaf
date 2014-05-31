@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Ó dicsőséges, ó ékességes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="369"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó dicsőséges, ó ékességes, mint a csillag, fényes!<br/>Úrnőnk s anyánk vagy, drága, szép, erényes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyali szózat, látnoki jóslat, ős királyi magzat!<br/>Bölcs Salamonnál rólad zeng a hangzat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hajnal nyílása, éltünk világa, Nap dicső sugára.<br/>Új fényt fakasztál üdvünk borújára!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menny ékessége, nép dicsősége, vidd szívünk az égbe!<br/>Hogy a száműzött lelje nyugtát végre.</lines>
+    </verse>
+  </lyrics>
+</song>

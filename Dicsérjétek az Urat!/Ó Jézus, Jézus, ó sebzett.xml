@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Ó Jézus, Jézus, ó sebzett</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, Istennek vérző Fia!<br/>Tűrés példája, szentség formája, ó lelkünk drága díja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, mennyeknek édessége!<br/>Hogy meghervadtál, jaj, megfonnyadtál ó lelkünk üdvössége!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, ó hívek ékessége!<br/>Ártatlan tűrtél, s minket megnyertél, ó szívünk édessége!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, mit tettél a világért!<br/>Véredet ontod, testedet rontod Ádámnak rossz magváért!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, szent tested én kötöztem.<br/>Rút életemmel, rút beszédemmel melledet általdöftem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, szent tested, ó, én vertem.<br/>Szeretvén vétket, rút részegséget, eceted én kevertem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, szent véred én ontottam.<br/>Szent fejed szúrtam, kezeid fúrtam, életed én rontottam.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó Jézus, Jézus, ó sebzett Jézus, szenvedek véled méltán.<br/>Kínodat szánom, vétkemet bánom, kereszted mellett sírván.</lines>
+    </verse>
+  </lyrics>
+</song>

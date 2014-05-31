@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Szent arcod ékessége, jaj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent arcod ékessége, jaj, hol van Jézusom?<br/>És hol van szemed fénye? Elrejti fájdalom.<br/>Nincs benned semmi épség, ott haldokolsz a fán,<br/>És tested csupa kékség az ütlegek nyomán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint áldozati bárány, ha oltárra kerül,<br/>Te véred ontod némán, az Írás teljesül.<br/>Ó szánj meg, Uram, nézd el sok balgaságomat,<br/>Megvallom szájjal, szívvel, hogy Isten fia vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

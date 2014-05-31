@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>A keresztet ünnepeljük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A keresztet ünnepeljük,<br/>a keresztnek énekeljük ujjongó dicséretét.<br/>Kereszt a mi győzedelmünk,<br/>itt adatott letepernünk ellenségünk erejét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajta függ a feláldozott,<br/>egy világot ki megmosott az ősbűnnek szennyitől.<br/>Kiterjeszti négyes ágát,<br/>és a földnek négy határát egybefogja, élteti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldják az Úr szent keresztjét,<br/>kik általa megszerezték az életnek kincseit!<br/>Üdvösséges, boldog Oltár<br/>mily tüzesen bíboroltál a Báránynak véritől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűnnek, bajnak üdvös írja,<br/>mit magában meg nem bírna: veled bírja a hívő.<br/>Győztes szent Fa, világosság!<br/>Nincs több ilyen virágos ág, ily koszorús földi tő. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

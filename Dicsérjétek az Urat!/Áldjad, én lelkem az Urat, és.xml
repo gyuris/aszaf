@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:35">
+  <properties>
+    <titles>
+      <title>Áldjad, én lelkem az Urat, és</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="608"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad, én lelkem az Urat, és egész bensőm az ő szent nevét<br/>(*)<br/>el ne felejtsed semmi adományát!</lines>
+    </verse>
+  </lyrics>
+</song>

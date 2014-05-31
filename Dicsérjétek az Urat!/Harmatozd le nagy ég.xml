@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Harmatozd le nagy ég</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozd le nagy ég az Igazat és Jót,<br/>és te föld megnyílván szüld a Szabadítót.<br/>Megáldottad, Uram, a te szent földedet,<br/>és megszabadítád Jákob gyermekedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedd kedvesen, Uram, szívünk áldozatját,<br/>melyet az oltáron felajánl hív szolgád!<br/>Önts lelkünkbe, kérünk, igaz bűnbánatot,<br/>mert csak úgy nyerhetünk tőled bocsánatot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus áldozat lett értünk a kereszten,<br/>hogy bűneink miatt lelkünk el ne vesszen.<br/>Az Ő áldozatját híven megújítjuk,<br/>midőn a kenyeret és bort felajánljuk.</lines>
+    </verse>
+  </lyrics>
+</song>

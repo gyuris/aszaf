@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Imádunk szent ostya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádunk szent ostya, drágalátos manna.<br/>Seregeknek Ura, királyok Királya!<br/>Üdvözlégy angyali Kenyér,<br/>váltságunkért adatott bér.<br/>Drága szent Test és Vér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izrael fiait ki megoltalmaztad,<br/>Ellenségnek földjén mannával tápláltad,<br/>Táplálj minket szent testeddel,<br/>Drágalátos szent véreddel,<br/>Isteni erőddel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halálunk óráján add, hogy téged méltán,<br/>Hittel, reménységgel s buzgó szeretettel<br/>Vehessünk itt ez életben,<br/>Holtunk után az egekben<br/>dicsérjünk szüntelen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjjetek angyalok, mennyei szent karok,<br/>Örömmel áldjátok, szent, szent, kiáltsátok:<br/>Üdvözlégy Oltáriszentség!<br/>Kenyérszínben egy Istenség!<br/>Mennyei nagy Felség!</lines>
+    </verse>
+  </lyrics>
+</song>

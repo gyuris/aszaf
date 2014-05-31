@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Laudate Dominum, omnes gentes</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="543"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Laudate Dominum, omnes gentes<br/>* laudate eum omnes populi!<br/>Quoniam confirmata est super nos misericordia ejus<br/>* et veritas Domini manet in aeternum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gloria Patri et Filio<br/>* et Spiritui Sancto<br/>Sicut erat in principio et nunc et semper<br/>* et in saecula saeculorum. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

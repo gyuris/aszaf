@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Kaszás e földön a Halál</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="518"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kaszás e földön a Halál,<br/>ki mindenütt rendet kaszál,<br/>ereit mutatja, kaszáját forgatja,<br/>virágokat nem szán, kórókkal egybehány.<br/>Jaj, óvd magad, szép virágszál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne félj immár ó szép Virág,<br/>mérges foga mert meg nem rág<br/>s többé reád nem hág, mert kedves utad tág,<br/>úgy jobban zöldült ág, nem bánt háborúság,<br/>környüled a szép boldogság.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Mennyei Virágoskert<br/>jó füveknek szép helyet vert.<br/>Ott meg-virágoztok, kik itt jól vigyáztok,<br/>kaszástól nem féltek, mert örökké éltek.<br/>Szép Virágok, örüljetek. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

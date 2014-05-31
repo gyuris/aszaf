@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>A Szűz egy Fiat szült, kin</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Szűz egy Fiat szült, kin a menny s föld örül:<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Atya küldötte, Gábriel hirdette:<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elhagyta országát, ő nagy gazdagságát.<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ádám vétkét váltja, fennszóval kiáltja:<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent anyja előtt sír, noha mindennel bír.<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Megváltja világot, ő hozott váltságot.<br/>Pásztorok örüljetek, Szabadító földre szállott, örvendjetek!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőség Istennek, ki adója ennek.<br/>Békesség földi népeknek, Szabadító földre szállott, örvendjetek.</lines>
+    </verse>
+  </lyrics>
+</song>

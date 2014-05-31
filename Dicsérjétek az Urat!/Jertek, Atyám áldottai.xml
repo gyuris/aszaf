@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Jertek, Atyám áldottai</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek, Atyám áldottai, és vegyétek az országot,<br/>Mely nektek készíttetett a világ kezdetétől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja! Mint a most született kisdedek, alleluja.<br/>Hamisítatlan szellemi tejre vágyjatok, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja!<br/>Az én feltámadásom napján * előttetek megyek Galileába.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyújtsd ki a kezedet, s érintsd meg a szegek helyét,<br/>és ne légy immár hitetlen, hanem hívő,<br/>alleluja, alleluja, alleluja, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr irgalma betölti a földet,<br/>Az Úr igéje által lettek az egek, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluja!<br/>Megismerték a tanítványok az Urat * a kenyértörésben.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hirdessétek napról napra, alleluja,<br/>az Ő üdvösségét, alleluja.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Énekeljetek az Úrnak, alleluja,<br/>áldjátok az Ő nevét, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

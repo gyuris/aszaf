@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Imádlak és áldlak, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak és áldlak, Isten, rejtelem!<br/>Kenyér és bor színben titkon vagy jelen.<br/>Néked szívem, lelkem átadja magát,<br/>mert téged szemlélve elveszti magát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látás, ízlés, érzék megcsalódhatik,<br/>de a hallás rólad hittel biztosít:<br/>hiszem azt, mit hinnem Isten Fia szab,<br/>Igéd igazánál mi van igazabb!?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A keresztfán rejtéd Isten-voltodat,<br/>itt a színek rejtik ember-arcodat,<br/>de én mind a kettőt hiszem s vallhatom,<br/>kérve, amit kért a bűnbánó lator.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ahogy Tamás látta nem látom sebed<br/>mégis Istenemnek vallak tégedet.<br/>Add, hogy egyre jobban hinni tudjalak,<br/>tebenned reméljek, s téged vágyjalak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Urunk halálára emlékeztető<br/>áldott Kenyér, élő, s embert éltető!<br/>Add, hogy éljen lelkem belőled csupán,<br/>s jó ízét tebenned ne veszítse szám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kegyes pelikánom, Uram Jézusom!<br/>Szennyes vagyok, szennyem véreddel mosom.<br/>Elég volna egy csepp, hogyha hullna rá:<br/>világ minden bűnét meggyógyítaná.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus, kit csak rejtve szemlélhetlek itt!<br/>Mikor lesz, hogy szomjas vágyam jóllakik?<br/>Hogy majd fátyol nélkül nézve arcodat,<br/>leljem szent fényedben boldogságomat! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

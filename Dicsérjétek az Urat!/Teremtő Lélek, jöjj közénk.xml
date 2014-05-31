@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Teremtő Lélek, jöjj közénk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő Lélek, jöjj közénk!<br/>Híveid szívét látogasd,<br/>Töltsd malaszttal a lelkeket,<br/>Kiket hatalmad alkotott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te, kit Védőnek mondanak,<br/>s mellénk a magas ég adott,<br/>Tűz, élő Forrás, Szeretet,<br/>te lelkek lelki olaja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ajándékoddal hétszeres!<br/>Te ujj az Isten jobb kezén!<br/>Atyának ígért Szózata,<br/>ki ajkainkat megnyitod!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Érzékeinkbe gyújts Te fényt,<br/>szívünk szerelmed töltse be,<br/>s mi bennünk testi gyöngeség<br/>örök erőddel izmosítsd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ellenségünket űzzed el,<br/>a békét tüstént hozd közel,<br/>előttünk járva, mint Vezér,<br/>kerüljünk mindent, ami árt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(meghajolva)<br/>Általad tudjuk az Atyát,<br/>s ismerjük, adjad a Fiút,<br/>s ki kettejüknek Lelke vagy:<br/>tebenned higgyünk végtelen! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

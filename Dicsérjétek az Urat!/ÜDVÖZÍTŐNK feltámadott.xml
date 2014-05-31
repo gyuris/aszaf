@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>ÜDVÖZÍTŐNK feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ÜDVÖZÍTŐNK feltámadott,<br/>Alleluja, alleluja,<br/>Szenteljük vígan e napot,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A MESSIÁS feltámadott,<br/>Alleluja, alleluja,<br/>Beteljesült, mi íratott,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ÉLETADÓNK feltámadott,<br/>Alleluja, alleluja,<br/>Kegyelme most kiáradott,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VÍGASZTALÓNK feltámadott,<br/>Alleluja, alleluja,<br/>Elűzte már a bánatot.<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ÖRÖMNAPUNK feltámadott,<br/>Alleluja, alleluja,<br/>Ránk oly szép hajnal virradott,<br/>Alle-, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Az igaz hitben végig</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az igaz hitben végig megmaradjunk,<br/>ámbár e földön szükség nyomorognunk,<br/>sok megalázást érette szenvednünk,<br/>végre meghalnunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Példaként nékünk apostolok állnak,<br/>kiknek szavára a nemzetek vártak,<br/>Krisztushoz megtért sok tévelygő nyája<br/>mind a világnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ők tizenketten telve tudománnyal,<br/>és az ő szívük állhatatossággal,<br/>bennük a Lélek, azért nem gondolnak<br/>senki átkával.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint a méz édes, olyan volt a hangjuk,<br/>mindenütt kedves az ő tanításuk,<br/>Isten szavától bölcs az ő szólásuk,<br/>szent tudományuk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mindig is őket követték a szentek,<br/>sok fáradságot, vereséget tűrtek,<br/>Krisztus hitéért halált is szenvedtek,<br/>úgy örvendeztek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kik most a földön üldözést szenvednek,<br/>Krisztus hitében máris örvendeznek,<br/>majd mennyországban bő jutalmat vesznek,<br/>boldogok lesznek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tisztesség néked, örök Atyaisten,<br/>Úr Jézus Krisztus és Szentlélek Isten,<br/>add meg, hogy mindig maradjunk e hitben,<br/>s áldhassunk. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

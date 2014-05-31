@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Áldjad, ember e nagy jódat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad, ember e nagy jódat,<br/>kenyérszínben Megváltódat!<br/>Itt jelen van szent Testével édes Jézus,<br/>jelen vagyon szent Vérével áldott Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt az Isten gazdagsága,<br/>bűnös lelkek nagy váltsága,<br/>minden jónak nagy bősége, édes Jézus,<br/>gyarló szívek erőssége, áldott Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt az égnek megnyitója,<br/>kegyelemnek meghozója,<br/>egész világ drága díja, édes Jézus,<br/>az Istennek örök Fia, áldott Jézus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem csak jel ez, nem csak emlék:<br/>valóságos szent jelenlét!<br/>Itt van köztünk tested, véred, édes Jézus,<br/>itt van Isten-emberséged áldott Jézus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kérjük, adja ránk áldását,<br/>irgalmának kútforrását,<br/>legyen velünk a végórán édes Jézus,<br/>s üdvözítsen holtunk után, áldott Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

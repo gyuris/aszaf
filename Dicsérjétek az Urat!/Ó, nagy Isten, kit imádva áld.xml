@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ó, nagy Isten, kit imádva áld</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="470"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, nagy Isten, kit imádva áld a mennyei sereg,<br/>kinek méltó dicséretet tiszta lelkek zengenek:<br/>most a Mindenszentek által, kiket úgy tisztelünk,<br/>szálljon dicső színed elé szívből jött dicséretünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindnyájan, ti dicső szentek, kiket örök szeretet<br/>kapcsol hozzánk, kik e földön élünk vándoréletet:<br/>ó, segítsen odajutni kegyes könyörgésetek,<br/>hol ti az Istent imádva vég nélkül örvendeznek.</lines>
+    </verse>
+  </lyrics>
+</song>

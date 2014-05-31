@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Üdvözítőnk édesanyja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözítőnk édesanyja,<br/>mennyeknek megnyílt kapuja,<br/>tengerjárók szép csillaga,<br/>boldogságos szűz Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy segítség hű népednek,<br/>az elesett bűnösöknek,<br/>ki szülője Istenednek,<br/>anyja lettél Teremtődnek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert angyali köszöntésre<br/>rád szállott az Úr Szent Lelke,<br/>ekkor lett az örök Ige<br/>szűz méhednek szűz gyümölcse.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért édes Istenanyja,<br/>légy bűnösök szószólója,<br/>botló lábunk támasztója,<br/>üdvösségünk nyílt kapuja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adjunk hálát az Istennek,<br/>Atya, Fiú, Szentléleknek,<br/>három személy felségének,<br/>egymivoltú Istenségnek.</lines>
+    </verse>
+  </lyrics>
+</song>

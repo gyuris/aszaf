@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ant: Megváltó Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ant: Megváltó Istenem, könyörülj  lelkemen.<br/>V:  - A mélységből kiáltok, Uram, hozzád, Istenem hallgass a szómra.<br/>- Figyelj imádságomra kegyes szívvel, amikor bocsánatodat kérem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ant: Megváltó Istenem, könyörülj  lelkemen.<br/>- Uram, ha vétkeimet számon kéred, színed előtt senki meg nem állhat.<br/>- Ám te megbocsátod minden vétkünk,  hogy áhítattal szolgáljunk téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ant: Megváltó Istenem, könyörülj  lelkemen.<br/>- Mert az Úrnál az irgalom, és bőséges nála a váltság.<br/>- Add meg neki az örök nyugodalmat, és az örök világosság fényeskedjék neki.<br/>Ant: Megváltó Istenem, könyörülj  lelkemen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ant: Mennyország örömébe vigyenek téged az angyalok, és az egykoron szegény Lázárral nyerjél örök életet.<br/>Zsolt: A mélységből kiáltok fel tehozzád, én Uram / hallgasd meg, midőn elődbe esdekelve jut szavam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Földből alkottál engem és testet adtál nékem, támassz fel, Uram s Megváltóm, az idők végén!<br/>- Krisztus feltámadt a halálból, mint elsőszülött a holtak közül. Földből…<br/>- Amint Ádámban mindnyájan meghalunk, úgy Krisztusban mindnyájan életre kelünk. Földből…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nyissátok meg nékem az igazság kapuit, bemenvén azokon hálát adok az Úrnak.<br/>- Krisztus feltámadt a halálból, mint elsőszülött a holtak közül. Nyissátok meg…<br/>- Amint Ádámban mindnyájan meghalunk, úgy Krisztusban mindnyájan életre kelünk. Nyissátok meg…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus mondja: „Én vagyok a feltámadás és az élet, aki bennem hisz, még ha meghalt is, élni fog.<br/>És mindaz, aki él és hisz bennem, nem hal meg mindörökké.”</lines>
+    </verse>
+  </lyrics>
+</song>

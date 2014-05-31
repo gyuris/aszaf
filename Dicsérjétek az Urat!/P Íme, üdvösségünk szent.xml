@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:35">
+  <properties>
+    <titles>
+      <title>P: Íme, üdvösségünk szent</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="616"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>P: Íme, üdvösségünk szent titka!<br/>H: Üdvözíts bennünket, Világ Megváltója,<br/>ki kereszted és feltámadásod által, megmentettél minket.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Mária, Mária, mennyei szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Mária, mennyei szép hajnal,<br/>kit szépen köszöntött Gábriel arkangyal.<br/>Mária, Mária, üdvösség hajnala,<br/>kire felvirradott boldogságunk napja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, Mária, mennyei szép virág,<br/>kit áldva magasztal a mennyei világ.<br/>Mária, Mária, mennyei szép csillag,<br/>ki a gyászos égen értünk szépen csillog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária, Mária, hazánk Védasszonya,<br/>özvegyek és árvák megvigasztalója.<br/>Mária, Mária, gyászban is fényesség,<br/>árva magyaroknak te vagy az ékesség.</lines>
+    </verse>
+  </lyrics>
+</song>

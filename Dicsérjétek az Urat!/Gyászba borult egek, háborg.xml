@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Gyászba borult egek, háborg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="467"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyászba borult egek, háborgó tengerek<br/>csillaga, Mária, csillaga, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozzád fohászkodunk, feléd sóhajtozunk,<br/>szeplőtlen Szűzanya, szeplőtlen Szűzanya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogasszony anyánk, mennyei pátrónánk,<br/>légy velünk, légy velünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sok kiáltásunkra siess oltalmunkra,<br/>ha nem jössz, elveszünk, ha nem jössz, elveszünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nagy szíved fényével, lelked békéjével<br/>hajolj a viharra, hajolj a viharra!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Viharon, vészen át, íme, felzúg hozzád<br/>nyomorunk jajszava, nyomorunk jajszava.</lines>
+    </verse>
+  </lyrics>
+</song>

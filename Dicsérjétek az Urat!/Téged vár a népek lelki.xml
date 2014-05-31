@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Téged vár a népek lelki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged vár a népek lelki sötétsége, Isten.<br/>Nincs, ki nékik küzdelmükben segítene itt lenn.<br/>Ha szentséges arcod ragyog vándorutunk végén,<br/>megnyugszanak egymás mellett a nemzetek békén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sötétség tévelygését oszlasd, Uram, széjjel,<br/>s töltsd be őket szent egyházad igaz igéjével.<br/>Légy mindnyájunk fényessége, hogy egy úton járjunk,<br/>és a mennyek országában egykor rád találjunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott kenyér s bor színébe jöjj, Uram, közénk le,<br/>s tekints szelíd kegyes szemmel e szenvedő népre,<br/>melynek szívét általjárja már a könny s a bánat,<br/>és vezeklő keresője lett az éghazának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örvendezzünk, keresztények, közel van az Isten,<br/>és eléje minden lélek szentül közelítsen,<br/>s az angyalok seregének hangján énekelje:<br/>siess, Uram, jöjj le közénk, kérünk esdekelve.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki elveszed tőlünk a bűnt, adj erőt szívünknek,<br/>hogy ellene mondjunk a ránk leselkedő bűnnek,<br/>és egykoron győzelmesen mehessünk elédbe,<br/>angyalokkal „szent, szent, szent vagy!” zenghessük az égbe’.</lines>
+    </verse>
+  </lyrics>
+</song>

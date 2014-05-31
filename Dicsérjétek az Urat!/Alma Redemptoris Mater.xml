@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Alma Redemptoris Mater</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alma Redemptoris Mater,<br/>quae previa caeli porta manes,<br/>et stella maris, succure cadenti,<br/>surgere qui curat populo:<br/>Tu quae genuisti, natura mirante,<br/>tuum sanctum Genitorem:<br/>Virgo prius, ac posterius,<br/>Gabrielis ab ore summens illud Ave,<br/>peccatorum miserere.</lines>
+    </verse>
+  </lyrics>
+</song>

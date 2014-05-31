@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Légy kegyelmes, Uram, a mi</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="567"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy kegyelmes, Uram, a mi bűneinknek,<br/>(*)<br/>és neved dicsőségéért szabadíts meg minket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, én kősziklám és menedékem,<br/>és szabadítóm, én Istenem, én segítőm!</lines>
+    </verse>
+  </lyrics>
+</song>

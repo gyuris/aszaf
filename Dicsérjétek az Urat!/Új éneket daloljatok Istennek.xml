@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Új éneket daloljatok Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új éneket daloljatok Istennek,<br/>győzelmet és szabadulást Ő szerzett.<br/>Üdvösségét feltárta a népeknek,<br/>igazságát megismerték mindenek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egész világ dalolj néki hangosan,<br/>zeneszóval ünnepeljed boldogan.<br/>Dicsérjétek muzsikával az Urat,<br/>hárfa zengjen, citeraszó, pengjen lant.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fújjatok meg minden kürtöt, harsonát,<br/>ujjongó dal hirdesse az ég Urát.<br/>Harsogjon a tenger, s ami benne él,<br/>Istent áldja vígan minden földi lény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nagy hegyek ujjongjanak az Úrnak,<br/>folyóvizek tapsoljanak, zúgjanak.<br/>Elérkezik közénk az ő országa,<br/>mindeneken uralkodik jósága.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentháromság egy Istennek dicsőség,<br/>Atya, Fiú és Szentlélek áldassék!</lines>
+    </verse>
+  </lyrics>
+</song>

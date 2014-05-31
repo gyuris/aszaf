@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Hallgasd meg, Uram, szavamat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgasd meg, Uram, szavamat, mellyel hozzád kiáltottam, alleluja!<br/>Néked szólott a szívem, az orcám téged keresett, a te orcádat keresem Uram, ne fordítsd el tőlem, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyám, míg velük voltam, én megtartottam őket, akiket nekem adtál, alleluja.<br/>Nem azt kérem tőled, hogy vedd ki őket e világból, hanem hogy megőrizzed őket a gonosztól.</lines>
+    </verse>
+  </lyrics>
+</song>

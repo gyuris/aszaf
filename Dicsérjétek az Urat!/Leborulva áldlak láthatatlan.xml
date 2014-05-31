@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Leborulva áldlak láthatatlan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leborulva áldlak láthatatlan Istenség.<br/>Kenyér- és borszínben elrejtezett emberség!<br/>Noha itt nem láthat, meg nem tapasztalhat az emberi gyöngeség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isteni erődet elrejtéd a keresztfán,<br/>testi gyarlóságnak homályával takarván.<br/>Itt emberi tested előlünk elrejted, színek alatt titkolván.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noha Szent Tamással sebed helyét nem látom,<br/>Uram, igaz hittel jelenléted megvallom.<br/>e szent hitben tarts meg, szent színedet add meg égben egykor meglátnom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Váltságomnak ára, lankadt szívem ereje,<br/>szegény bűnös lelkem megtisztító fürdője,<br/>szomjú, fáradt lelkem megvigasztalója, üdvösségem záloga!</lines>
+    </verse>
+  </lyrics>
+</song>

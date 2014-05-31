@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Téged Isten dicsérünk, Téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="556"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged Isten dicsérünk, Téged Úrnak ismerünk.<br/>Téged, örök Atyaisten, mind egész föld áld és tisztel.<br/>Téged minden szép angyalok, kerubok és szeráfkarok,<br/>Egek és minden hatalmak szüntelenül magasztalnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent vagy, szent vagy, erősséges szent Isten vagy!<br/>Nagyságoddal telve ég s föld, dicsőséged mindent bétölt.<br/>Téged dicsér, egek Ura apostolok boldog kara.<br/>Dicséretes nagy próféták súlyos ajka hirdet és áld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeles mártírseregek magasztalnak tégedet.<br/>Vall tégedet világszerte szent Egyházad ezerszerte.<br/>Ó Atyánk, téged s mérhetetlen nagy fölséged.<br/>S azt, ki hozzánk tőled jött le, Atya igaz egyszülöttje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És áldjuk veled vigasztaló Szentlelkedet.<br/>Krisztus, Isten Egyszülöttje, Király vagy te mindörökre.<br/>Mentésünkre közénk szálltál, szűzi méhet nem utáltál.<br/>Halál mérgét megtiportad, mennyországot megnyitottad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten jobbján ülsz most széket, Atyádéval egy fölséged.<br/>Onnan lészel eljövendő mindeneket itélendő.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Téged azért, Uram, kérünk, mi megváltónk maradj vélünk.<br/>Szentjeidhez végy fel égbe, az örökös dicsőségbe.<br/>Szabadítsd meg Uram, néped áldd meg a te örökséged.<br/>Te kormányozd, te vigasztald, mindörökké felmagasztald.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mindennap dicsérünk téged, szent nevedet áldja néped.<br/>Bűntől e nap őrizz minket, és bocsásd meg vétkeinket.<br/>Irgalmazz, Uram, irgalmazz, híveidhez légy irgalmas.<br/>Kegyes szemed legyen rajtunk, tebenned van bizodalmunk.<br/>Te vagy, Uram, én reményem, ne hagyj soha szégyent érnem.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>P: Áldjuk az Atyát és a Fiút a Szentlélekkel együtt!<br/>H: Dicsérjük és magasztaljuk Őt mindörökké!<br/>P: Áldott vagy Uram az ég erősségében!<br/>H: Dicséretes, dicsőséges és magasztos mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

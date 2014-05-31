@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Születésén Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Születésén Istennek az angyalok örülnek,<br/>víg éneket zengenek: „Dicsőség az Istennek!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Született Emmánuel, kit hirdetett Gábriel,<br/>bizonyít Ezekiel és próféta Dániel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pásztorok őt imádják és megajándékozzák,<br/>pásztoroknak Pásztorát Messiásnak megvallják.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Királyok Őt imádják és megajándékozzák,<br/>királyoknak Királyát Istenüknek megvallják.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örüljetek, nemzetek, Üdvözítőnk érkezett,<br/>Ádám egykor vétkezett, de a Krisztus megmentett!</lines>
+    </verse>
+  </lyrics>
+</song>

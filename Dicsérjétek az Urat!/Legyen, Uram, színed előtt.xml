@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Legyen, Uram, színed előtt</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="492"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen, Uram, színed előtt kedves ez az áldozat,<br/>mit új szolgád az élőkért és holtakért bemutat.<br/>Uram Jézus, szálljon rája kegyelmednek gazdag árja,<br/>kit papságra fölemeltél, add neki irgalmadat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vezéreld, te igazgasd szolgád minden lépteit,<br/>és ha szenved, te enyhítsd meg szíve minden sebeit.<br/>Add, hogy végig jól harcoljon, és a hitben hív maradjon<br/>s az igazság-koronával jutalmazd meg tetteit!</lines>
+    </verse>
+  </lyrics>
+</song>

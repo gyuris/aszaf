@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Dicsőség és dicséret Tenéked</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség és dicséret Tenéked, Megváltó Királyunk,<br/>Kinek gyermeki szép sereg mondott ékes éneket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalseregek a mennyben mindnyájan magasztalnak Téged,<br/>s velük a halandó ember és minden teremtményed dicsér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőség és dicséret Tenéked, Megváltó Királyunk,<br/>Kinek gyermeki szép sereg mondott ékes éneket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A zsidóknak népe pálmákkal jött az úton eléd,<br/>mi is könyörgésekkel eljöttünk íme énekszóval.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség és dicséret Tenéked, Megváltó Királyunk,<br/>Kinek gyermeki szép sereg mondott ékes éneket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Midőn szenvedni mentél, hódolva dicsértek ők Téged,<br/>most, midőn mennyben trónolsz, mi zengjük előtted a himnuszt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőség és dicséret Tenéked, Megváltó Királyunk,<br/>Kinek gyermeki szép sereg mondott ékes éneket.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tetszett seregük néked, tessék ma neked szentelt néped,<br/>mert kegyelmes király vagy, s minden jót tetszéseddel fogadsz.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsőség és dicséret Tenéked, Megváltó Királyunk,<br/>Kinek gyermeki szép sereg mondott ékes éneket.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Ó, én népem! Teellened mit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, én népem! Teellened mit vétettem? - avagy miben szomorítottalak meg?<br/>Felelj nékem!<br/>Én Egyiptom földjéről kihoztalak téged, s te keresztet készítesz Üdvözítődnek?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I. Hágiosz ho Theosz! II. Sanctus Deus!<br/>I. Hágiosz iszkhürosz! II. Sanctus fortis!<br/>I.Hágiosz áthánátosz, eleison imász!<br/>II. Sanctus immortalis, miserere nobis!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent az Isten! Szent és erősséges!<br/>Szent és halhatatlan, irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Negyven éven át a pusztában vezettelek, és mannával tápláltalak téged.<br/>Bevezettelek a megígért földre, s te keresztet készítesz Üdvözítődnek?!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I. Hágiosz ho Theosz! II. Sanctus Deus!<br/>I. Hágiosz iszkhürosz! II. Sanctus fortis!<br/>I.Hágiosz áthánátosz, eleison imász!<br/>II. Sanctus immortalis, miserere nobis!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent az Isten! Szent és erősséges!<br/>Szent és halhatatlan, irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mit kellett volna még cselekednem neked, amit meg nem cselekedtem?<br/>Én igen ékes szőlőmnek ültettelek, de te igen keserűvé lettél!<br/>Szomjamat ecettel oltod, s lándzsával döföd át oldalát Üdvözítődnek!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I. Hágiosz ho Theosz! II. Sanctus Deus!<br/>I. Hágiosz iszkhürosz! II. Sanctus fortis!<br/>I.Hágiosz áthánátosz, eleison imász!<br/>II. Sanctus immortalis, miserere nobis!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szent az Isten! Szent és erősséges!<br/>Szent és halhatatlan, irgalmazz nékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

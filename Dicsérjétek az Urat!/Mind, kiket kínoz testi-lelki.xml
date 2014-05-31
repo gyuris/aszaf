@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Mind, kiket kínoz testi-lelki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mind, kiket kínoz testi-lelki átok.<br/>Mind, kik epedve új csodákra vágytok,<br/>Pádua szentjét jertek ünnepeljük<br/>Dallal köszöntsük.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő maga Isten gyönyörű csodája<br/>szép liliomszál, fényt sugárzó fáklya.<br/>Harminchat évvel, atyai kezével<br/>bizton vezérel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jertek a Szenthez kérjük hát csodáit,<br/>ő kikönyörgi mit a szívünk áhít.<br/>Érte az Isten kenyeret ad s békét<br/>s mi igaz érték.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Antal Atyánk, te jóságos, tekints ránk,<br/>az egy szükségest kérd nekünk leginkább.<br/>Eldobva bűnünk rongyait már itt lent<br/>élvezzük Istent.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott az Isten, ki nekünk őt adta,<br/>benne malasztja mézét megmutatta,<br/>Légy áldva szentünk, Páduai Antal,<br/>minden magasztal.</lines>
+    </verse>
+  </lyrics>
+</song>

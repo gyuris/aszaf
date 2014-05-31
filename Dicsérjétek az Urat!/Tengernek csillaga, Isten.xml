@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Tengernek csillaga, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tengernek csillaga, Isten édesanyja!<br/>Üdvözlégy, mindig szűz, menny boldog kapuja!<br/>Te, kinek Gábriel ajka mondott ÁVÉ-t,<br/>tégy közöttünk békét, fordítsd ÉVA nevét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szabadíts rabokat, adj fényt a vakoknak,<br/>űzd el bajainkat, igényeld javunkat.<br/>Mutasd, hogy anyánk vagy, hallja meg imádat,<br/>ki értünk fiaddá születni nem átallt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiváltságos szent szűz, mindenek közt enyhe,<br/>oldd föl bűneinket, enyhíts, tisztíts minket!<br/>Mosd meg életünket, készítsd el utunkat,<br/>hogy örök örömben lássuk Jézusunkat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istennek dicséret, Krisztusnak dicsőség,<br/>Szentlélekkel együtt, hármas-egy tisztesség.<br/>Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

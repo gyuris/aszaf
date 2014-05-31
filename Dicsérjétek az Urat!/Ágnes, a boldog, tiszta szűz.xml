@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ágnes, a boldog, tiszta szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="420"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ágnes, a boldog, tiszta szűz születésének napja van:<br/>szellemét vérrel szentelé, s úgy küldte vissza ég felé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még férjhezmenni fiatal, vértanúságra már erős<br/>hol annyi férfi-hit meging, és fáradt vénség megtörik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Azt hinnéd, nászra vezetik, oly vidám arccal lépeget,<br/>nászkincse nézd, mi különös: szív-vére lesz a hozomány!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fáklyát kap kézbe s késztetik, bálványnak gyújtson illatot.<br/>S felel: „A Krisztus szűzihez nem ilyen fáklyák illenek.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>„E tűz eloltja a hitet! Ez a láng elfedi a Fényt!<br/>Vágj, pallos, vágj, hogy vérem így az oltár tüzét oltsa ki!”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mily szép volt ott, a vérpadon, magára vonta köntösét,<br/>mikor elesett, térdre hullt, illendőn, szépen, megadón.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Krisztus dicsérünk tégedet, Atyádat és Szent Lelkedet,<br/>kinek tündöklő fényiben, vigadnak szentek szüntelen.  Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

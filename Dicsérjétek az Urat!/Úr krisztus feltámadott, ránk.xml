@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Úr krisztus feltámadott, ránk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr krisztus feltámadott, ránk malasztja áradott,<br/>Szent vérének hullása lőn pokolnak romlása<br/>Megváltotta Isten mind e világot szent halálával.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Első Ádám vétkezett, mindnyájunkat megsebzett,<br/>de a kegyes Úristen könyörült az emberen.<br/>Megváltotta Isten mind e világot szent halálával.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Új Ádám lett szent Fia, életünket újítja,<br/>Poklok zárját megtöri, rabságunkat elveszi.<br/>Megváltotta Isten mind e világot szent halálával.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Méltó azért vigadni, Húsvét titkát dicsérni,<br/>Éljünk az új életnek, adjunk hálát Istennek.<br/>Megváltotta Isten mind e világot szent halálával.</lines>
+    </verse>
+  </lyrics>
+</song>

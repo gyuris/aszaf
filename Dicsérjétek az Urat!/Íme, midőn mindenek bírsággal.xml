@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Íme, midőn mindenek bírsággal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, midőn mindenek bírsággal hívatnak<br/>az Augustus könyvébe szám szerint íratnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciréneus küldeték Betlehem városba,<br/>hogy az egész tartományt venné egy summába.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elindula József is a Szűz Máriával,<br/>Istennek erejéből terhes mátkájával.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Betlehembe hogy juta fáradt állapotban,<br/>szállásról kérdezgetvén minden embert s urat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Betlehembe érkezvén nincs senki barátja,<br/>ki távolról meglátja, ajtaját bezárja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De a sok vendég miatt nincs senki barátja,<br/>ki távolról meglátja, ajtaját bezárja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szállni kényszeríttetik egy rongyos pajtában,<br/>városon kívül levő barmok hajlékában.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Itt éjfélnek idején lőn, nagy hallgatásban,<br/>midőn az ég és a föld fénylenék magában.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A Szűz szülé szent Fiát, váltságunknak díját,<br/>jászolyba helyezteté szerelmes magzatját.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Az ökör és a szamár táplálja meleggel,<br/>nem hagyják a Kisdedet meghalni hideggel.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ó kegyetlen tigrisek, Betlehem városa!<br/>Hogy lehet tinálatok Jézusnak ily sorsa?</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Jézus, József, s Mária, hogyha méltóztattok,<br/>Jöjjetek be énhozzám, szívemben szállástok.</lines>
+    </verse>
+  </lyrics>
+</song>

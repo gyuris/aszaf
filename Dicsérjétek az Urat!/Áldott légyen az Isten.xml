@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Áldott légyen az Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="544"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>- Áldott légyen az Isten, áldott légyen szent neve.<br/>- Áldott légyen Jézus Krisztus, valóságos Isten és valóságos ember.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Áldott légyen Jézus neve, áldott légyen szentséges szíve.<br/>- Áldott légyen Jézus, a legméltóságosabb Oltáriszentségben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>- Áldott légyen Jézus vére,<br/>- Áldott légyen a vigasztaló Szentlélek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Áldott légyen Isten fölséges anyja Mária, áldott légyen szent és szeplőtelen fogantatása.<br/>- Áldott légyen a Szűz és anya neve, Mária, áldott légyen dicsőséges mennybevétele.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>- Áldott légyen Szent József, Mária legtisztább jegyese.<br/>- Áldott légyen az Isten az ő angyalaiban és szentjeiben. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Szeretettel jönnek hozzád</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretettel jönnek hozzád, Atyánk hívő gyermekid,<br/>meghálálni kegyelmednek nagy jótéteményeit.<br/>Az oltár szent zsámolyához buzgó szívünk imádást hoz.<br/>Áldozatul hozza néked legtisztább érzelmeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretetnek szent emléke ez az örök áldozat,<br/>mit most szolgád az oltáron, Uram, neked bemutat.<br/>Add, hogy kik most buzgón áldunk, érted áldozattá váljunk,<br/>szeretetben élve s halva lássuk egykor arcodat.</lines>
+    </verse>
+  </lyrics>
+</song>

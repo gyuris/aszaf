@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Gonosz Heródes, irigyen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gonosz Heródes, irigyen Krisztus jöttére mért remegsz?<br/>Mulandó jót el nem ragad, ki országolni mennyet ad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vonulnak már a Mágusok vezérlő csillag nyomdokán,<br/>Fény által a Fényt keresik, Istenről vall’nak kincseik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hullámain a tiszta víz az égi Bárányt fürdeti,<br/>S a bűnt, mely őt nem illeti, lelkünk tisztítván elveszi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hatalmának ez új jele: piroslik korsók friss vize,<br/>Parancsszavára bor folyik, a víz lényege változik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(meghajolva) Urunk, tenéked glória, ki nemzeteknek, megjelensz,<br/>S Atyádnak, Szent Léleknek is dicsőség minden századon! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

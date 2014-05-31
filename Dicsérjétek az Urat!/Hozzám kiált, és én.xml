@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Hozzám kiált, és én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzám kiált, és én meghallgatom őt;<br/>Megmentem, és megdicsőítem őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalainak parancsolt felőled,<br/>(*)<br/>hogy megőrizzenek téged minden utadon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aki a magasságbelinek oltalmában lakozik (*) a Mindenható árnyékában marad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mondja az Úrnak: menedékem vagy és váram, (*) Istenem, benned bízom én.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>„Mivel hozzám ragaszkodik, megmentem őt (*) fölemelem őt, mert ismeri az én nevemet.”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>„Hozzám kiált, és én meghallgatom őt, a szorongatásban vele vagyok, (*) megmentem és megdicsőítem őt.”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>„Hosszú napokkal betöltöm őt (*) és megmutatom neki az én üdvösségemet!”</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vállaival beárnyékoz téged, s biztos helyed lesz az Ő szárnyai alatt.<br/>Pajzs és páncél az Úrnak hűsége.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Az én titkonvaló bűneimtől ments meg engem, Uram, és a kevélységtől óvd meg a Te szolgád!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Megszületett már mennyei</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megszületett már mennyei Király,<br/>Szűz Máriának tiszta méhéből.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Régen megírták ezt a próféták,<br/>hogy fiat szül majd egy nemes virág.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hatalmas  lesz Ő, a kisded Gyermek,<br/>Eltiporja majd az Ellenséget.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Győzedelmet vesz a kárhozaton,<br/>Győzedelmet vesz örök halálon.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Követte Urát boldog Szent István,<br/>Első mártírja a mi hitünknek.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>János apostol ünnepnapja van,<br/>ő volt Krisztusnak legkedvesebbje.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Aprószenteknek ma van ünnepe,<br/>Akik Krisztusért halált szenvedtek.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szent Tamás mártír Angolországban,<br/>Karácsony napján halt meg Krisztusért.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szilveszter Pápát ma hívta az Úr,<br/>S megkoronázta a mennyországban.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Kiskarácsonynak ma van ünnepe,<br/>Jézus betölti Mózes törvényét.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Jönnek a bölcsek messzi keletről,<br/>Aranyat, tömjént, mirhát áldozván.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Nagy hálát adjunk az Úr Jézusnak,<br/>Az üdvözítő áldott Krisztusnak.<br/>Ünnepet ülvén mi vigadjunk,<br/>újszülött Úrnak hódoljunk!</lines>
+    </verse>
+  </lyrics>
+</song>

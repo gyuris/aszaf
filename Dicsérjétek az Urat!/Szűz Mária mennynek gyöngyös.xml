@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Szűz Mária mennynek gyöngyös</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="388"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária mennynek gyöngyös ékessége,<br/>tiszta szeretetnek aranya, szépsége!<br/>Szeretlek és áldlak, én szívembe zárlak.<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Mária, tenger csillaga, est fénye,<br/>szegény gyarló ember második reménye!<br/>Általad, szűz Szépség, Istennek dicsőség!<br/>Mária, Mária! Bűnösök szószólója</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te szent Szülöttednek földi útját jártad,<br/>minden szavát, tettét te szívedbe zártad.<br/>Ó legyen, míg élünk, élted nyitott könyvünk!<br/>Mária, Mária! Bűnösök szószólója!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Pásztorok, pásztorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok, pásztorok, örvendezve<br/>sietnek Jézushoz, Betlehembe.<br/>Köszöntést mondanak a Kisdednek,<br/>ki váltságot hozott az embernek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok szózata minket is hív,<br/>értse meg ezt tehát minden hű szív.<br/>A kisded Jézuskát mi is áldjuk,<br/>mint a hív pásztorok, magasztaljuk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözlégy, kis Jézus, reménységünk,<br/>aki ma váltságot hoztál nékünk.<br/>Meghoztad az igaz hit világát,<br/>megnyitád szent Atyád mennyországát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőség, imádás az Atyának,<br/>érettünk született szent Fiának,<br/>És a vigasztaló Szentléleknek,<br/>Szentháromságban az egy Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

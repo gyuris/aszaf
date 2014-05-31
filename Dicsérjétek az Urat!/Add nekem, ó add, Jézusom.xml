@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Add nekem, ó add, Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Add nekem, ó add, Jézusom, szentséges szívedet,<br/>téged vágyom csak szeretni, s keresni kedvedet,<br/>ha szívem veled egyesül, és szent szívedben részesül,<br/>magad adod nekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Érettem a Szűz méhében te testbe öltöztél,<br/>a kenyér és bor színében eledelem lettél.<br/>Amit itt látunk, nem csak jel, hanem angyali eledel,<br/>Jézus teste s vére!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szerelmes, édes Jézusom, Oltáriszentségben<br/>jelenléted hiszem, vallom kenyér- és borszínben.<br/>Noha nem látlak, de áldlak, és a hit által imádlak,<br/>Jézus teste s vére!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mennyből kilobbant égő tűz, gyullaszd szeretetem,<br/>érzésem legyen tiszta-szűz, legyen tiszta lelkem.<br/>Ó ragadd el én szívemet, vond hozzád minden kedvemet,<br/>Jézus, én szerelmem!</lines>
+    </verse>
+  </lyrics>
+</song>

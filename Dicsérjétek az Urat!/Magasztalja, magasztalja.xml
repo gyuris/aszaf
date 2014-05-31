@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Magasztalja, magasztalja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztalja, magasztalja,<br/>az én lelkem az Urat,<br/>az én lelkem az Urat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És örvendezett az én lelkem,<br/>az én Üdvözítő Istenemben.<br/>Mert megtekintette az ő szolgálójának alázatosságát,<br/>és íme mostantól fogva boldognak mondanak engem minden nemzetségek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert nagy dolgokat cselekedett nekem,<br/>aki hatalmas, és szent az Ő neve.<br/>És az ő irgalmassága nemzetségről nemzetségre<br/>az őtet félőknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hatalmasságot cselekedett az ő karjával,<br/>elszélyesztette a kevélyeket az ő szivök elméjében.<br/>Levetette a hatalmasokat a székből,<br/>és felmagasztalta az alázatosakat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az éhezőket betöltötte jókkal,<br/>és a gazdagokat üresen bocsátotta.<br/>Felvette Izraelt, az ő szolgáját,<br/>megemlékezvén az ő irgalmasságáról.<br/>Amint szólott az Atyáinknak, Ábrahámnak<br/>és az ő ivadékának örökké.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsőség az Atyának és Fiúnak,<br/>és a Szentlélek Istennek.<br/>Miképpen kezdetben vala most és mindenkor,<br/>és mindörökkön örökké. Ámen!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Magasztalja, magasztalja,<br/>az én lelkem az Urat,<br/>az én lelkem az Urat!</lines>
+    </verse>
+  </lyrics>
+</song>

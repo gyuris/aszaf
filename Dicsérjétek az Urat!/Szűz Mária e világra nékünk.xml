@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Szűz Mária e világra nékünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária e világra nékünk Szent Fiát hozá,<br/>A jászolban helyeztetvén őtet imígyen szóla:<br/>Aludjál én magzatom, nyugodjál virágom,<br/>Így énekelvén és örvendezvén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ökör, szamár reája lehelvén, mintha mondanák:<br/>Úr és Isten most közöttünk fekszik, együtt vigadjunk.<br/>Már az égi madarak és erdei vadak<br/>Őt imádják és magasztalják.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Azért mi is halandó emberek Őt dicsérjük,<br/>Dicsőséges születése napját vígan szenteljük.<br/>Az Atya Úr Istennek, nekünk kegyelmesnek,<br/>Hálákat adjunk, szívből vigadjunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aki hozzánk irgalmasságból szent Fiát küldé,<br/>Hogy a bűnös emberi nemzetet üdvözítené,<br/>Ki mihelyt megszületett, máris üldöztetett,<br/>Kegyes Királyunk, édes Jézusunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh, te kegyes asszonyunk, Mária! Istennek anyja,<br/>Szentháromság eleven temploma, kedves leánya.<br/>Ne feledkezzél rólunk, oh édes gyámolunk!<br/>Te légy oltalmunk, erős pajzsunk!</lines>
+    </verse>
+  </lyrics>
+</song>

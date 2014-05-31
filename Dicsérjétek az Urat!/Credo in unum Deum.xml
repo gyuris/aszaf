@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:35">
+  <properties>
+    <titles>
+      <title>Credo in unum Deum</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="609"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Credo in unum Deum<br/>Patrem omnipotentem.<br/>Factorem caeli et terrae, visibilium omnium, et invisibilium.<br/>Et in unum Dominum, Jesum Christum.<br/>Filium Dei unigenitum; et ex Patre natum ante omnia saecula.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deum de Deo, lumen de lumine, Deum verum de Deo vero.<br/>Genitum, non factum consubstantialem Patri: per quem omnia facta sunt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Qui propter nos homines et propter nostram salutem descendit de caelis.<br/>Et in carnatus est de Spiritu Sancto, ex Maria virgine et homo factus est.<br/>Crucifixus etiam pro nobis sub Pontio Pilato, passus et sepultus est.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Et resurrexit tertia die secundum Scripturas.<br/>Et ascendit in caelum, sedet ad dexteram Patris.<br/>Et iterum venturus est cum gloria judicare vivos et mortuos;<br/>cujus regni non erit finis.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Et in Spiritum  Sanctum, Dominum et vivificantem;<br/>qui ex Patre Filioque procedit.<br/>Qui cum Patre et Filio simul adoratur et conglorificatur,<br/>qui locutus est per Prophetas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Et unam, sanctam, catholicam et apostolicam Ecclesiam.<br/>Confiteor unum baptisma in remissionem peccatorum.<br/>Et expecto resurrectionem mortuorum.<br/>Et vitam venturi saeculi.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:35">
+  <properties>
+    <titles>
+      <title>Pater noster, qui es in</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="617"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pater noster, qui es in coelis,<br/>sanctificetur nomen tuum,<br/>adveniat regnum tuum, fiat voluntas tua,<br/>sicut in caelo et in terra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panem nostrum quotidianum da nobis hodie,<br/>et dimitte nobis debita nostra,<br/>sicut et nos dimittimus debitoribus nostris;<br/>et ne nos inducas in tentationem,<br/>sed libera nos a malo.</lines>
+    </verse>
+  </lyrics>
+</song>

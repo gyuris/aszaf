@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>A mélységből Hozzád kiáltok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mélységből Hozzád kiáltok, Uram:<br/>hallgasd meg én esdő, könyörgő szavam,<br/>mert bűneinket ha számba veszed,<br/>ki maradhat meg, ki maradhat meg?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mert hiszen nálad van a bocsánat,<br/>lelkem elepedve várja az Urat.<br/>Nem várják ilyen reszkető térddel<br/>őrök a reggelt, őrök a reggelt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hát Izrael, bízzál a kegyelembe’,<br/>szabadító erő száll a fejedre.<br/>Kivon az Isten ingyen kegyéből,<br/>minden bűnödből, minden bűnödből.</lines>
+    </verse>
+  </lyrics>
+</song>

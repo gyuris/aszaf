@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek Úristen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, Szentlélek Úristen, áraszd reánk teljesen<br/>mennyből fényességedet, mennyből fényességedet.<br/>Jöjj el, jöjj el, jöjj el,  jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj el, árvák gyámola, jöjj el, szívünk orvosa,<br/>oszd ki égi kincsedet, oszd ki égi kincsedet.<br/>Jöjj el, jöjj el, jöjj el,  jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj el lelki vigaszunk, testi, lelki gyámolunk,<br/>érezzük bőségedet, érezzük bőségedet.<br/>Jöjj el, jöjj el, jöjj el, jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fáradtságban nyugalmunk, hévben hűvös árnyékunk,<br/>sírásunkban örömünk, sírásunkban örömünk.<br/>Jöjj el, jöjj el, jöjj el, jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, Uram, a híveknek, benned bízó népeknek<br/>hétszeres kegyelmedet, hétszeres kegyelmedet.<br/>Jöjj el, jöjj el, jöjj el, jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Esdve kérünk, ó engedd, hogy elnyerjük a mennyet,<br/>s megláthassuk színedet, megláthassuk színedet.<br/>Jöjj el, jöjj el, jöjj el, jöjj el,<br/>Jöjj Szentlélek Úristen!</lines>
+    </verse>
+  </lyrics>
+</song>

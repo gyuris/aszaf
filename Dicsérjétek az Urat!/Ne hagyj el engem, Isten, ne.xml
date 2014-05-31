@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ne hagyj el engem, Isten, ne</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="588"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne hagyj el engem, Isten, ne menj el tőlem,<br/>figyelmezz segítségemre, üdvösségemnek ereje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Befogadtuk, Isten, irgalmasságodat<br/>(*)<br/>templomodnak bensejében.</lines>
+    </verse>
+  </lyrics>
+</song>

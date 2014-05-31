@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Ne hagyj elesnem, felséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne hagyj elesnem, felséges Isten, Keserűségemben,<br/>Te szent nevedért légy segítséggel, Ne essek kétségbe,<br/>mert mindenfelől, látod Úristen, vagyok kísértésben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyermekségemtől fogvást, Úristen, mind ezideiglen<br/>Téged hívtalak én segítségül minden ínségemben,<br/>Mostan sem lehet több bizodalmam sem földön sem mennyben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akármint hányjam, vessem elmémet, felséges Úristen,<br/>Oly vigasztalást sehol nem lelek keserűségemben<br/>Ha nem tebenned, ó nagy Úristen, és szent kegyelmedben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincs is énnékem több bizodalmam, Úristen náladnál,<br/>Akármiképpen cselekedj vélem, csak ne haragudjál,<br/>Mint kegyes Atya fiad dorgáld meg, ó csak meg ne utálj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irgalmasságnak Ura, Istene és kegyes kútfeje,<br/>Kinek szemei e földre néztek, nyomorult ügyemre,<br/>Hozzád kiáltok, légy segítségül minden ínségemben.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add meg, Úristen, te szent nevedért örök életemet,<br/>Töltsd be énrajtam szent Fiad által tett ígéretedet,<br/>A szentlélekkel koronázzad fel én szegény fejemet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicséret neked, Atya-Úristen a te szent Fiaddal,<br/>Áldassál tőlünk a Szentlélekkel, mi vigasztalónkkal,<br/>Most és örökké imádunk téged zengő énekszókkal.</lines>
+    </verse>
+  </lyrics>
+</song>

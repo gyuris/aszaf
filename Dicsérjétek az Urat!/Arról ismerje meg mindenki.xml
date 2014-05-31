@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Arról ismerje meg mindenki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arról ismerje meg mindenki, hogy tanítványaim vagytok, (*) hogy szeretettel vagytok egymás iránt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maradjon meg bennetek e három: a hit, a remény és a szeretet, (*) de legnagyobb köztük a szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most még megmarad e három: a hit, a remény és a szeretet, (*) de legnagyobb köztük a szeretet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeressük tehát egymást, mert a szeretet Istentől való, (*) s aki szereti testvérét az Istentől született.</lines>
+    </verse>
+  </lyrics>
+</song>

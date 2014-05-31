@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Királyi zászlók lobognak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Királyi zászlók lobognak<br/>Fénylik titka Keresztfának:<br/>Kin az élet megöletett<br/>S halálával életet nyert.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kit megsebesített vala,<br/>A bűnnek éles dárdája:<br/>Vérrel, s vízzel foly oldala,<br/>Hogy lelkünk szennyét elmossa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beteljesedett írása,<br/>Dávid királynak mondása:<br/>Népeknek eképpen szólván,<br/>Uralkodott Isten a fán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó áldott Fa, s tekintetes,<br/>Királyi bársonnyal ékes:<br/>Méltó vagy nagy becsületre,<br/>Mert Jézus vére megfeste.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott Fa! kinek ágára,<br/>Függesztetett világ ára:<br/>Úr Jézus testét megmérted,<br/>ördögöt, poklot meggyőzted.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó szent kereszt, reménységünk,<br/>idvezlégy mi békességünk:<br/>Nevelj bennünk igazságot,<br/>Megrontván a gonoszságot.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Eleven kút Szentháromság,<br/>Téged áldunk, minden jóság:<br/>Szent Keresztnek győzedelmét,<br/>Közöld velünk Szent érdemét. Ámen</lines>
+    </verse>
+  </lyrics>
+</song>

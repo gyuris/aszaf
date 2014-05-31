@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Világmegváltó Jézusunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="469"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világmegváltó Jézusunk,<br/>vidd üdvösségre híveid!<br/>Isten szülője Mária,<br/>mennybe segítsd a küszködőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindnyájan angyal-seregek,<br/>ős pátriárkák ékei,<br/>és prófétáknak érdemi<br/>nekünk irgalmat esdjenek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Megváltónak Hírnöke,<br/>s az égi kulcsok Gondnoka,<br/>és mind, apostoltársai<br/>oldják fel vétkünk láncait!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A mártírok szent kórusa,<br/>papok hitvalló élete,<br/>a tisztaságos szent szüzek<br/>mossák fehérre a szívünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szerzetesek és remeték,<br/>az ég minden polgárai<br/>Kérő szavukkal esdjenek,<br/>s nékünk jutalmat nyerjenek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(meghajolva)<br/>Krisztus dicsérünk tégedet,<br/>Atyádat és Szent Lelkedet,<br/>kinek tündöklő fényiben<br/>vigadnak szentek szüntelen. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Dicsérd lelkem dallal a nagy</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérd lelkem dallal a nagy Úristent, alleluja, alleluja.<br/>Nagy voltával nincs, aki vetekedjen, alleluja, alleluja.<br/>Mennybolt az Ő sátra, palástja a fény,<br/>étkét tőle kéri minden földi lény.<br/>Alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arcát rejti, éj lepi a világot, alleluja, alleluja.<br/>Lelkét küldi, föld színe kivirágzott, alleluja, alleluja.<br/>Dicsér minden műved magasságos Úr,<br/>dicsérünk, míg élünk lankadatlanul.<br/>Alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

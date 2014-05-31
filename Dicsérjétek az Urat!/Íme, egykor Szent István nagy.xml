@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Íme, egykor Szent István nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, egykor Szent István nagy hittel fölállott,<br/>És a papi tanácsban bátran ekképp szólott:<br/>„Kit az Írás jövendölt, ti megvetettétek,<br/>A várva-várt Messiást megfeszítettétek!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alázatos Szent István, mikor őket feddi,<br/>Hívó szóval kérleli, bűnbánatra inti,<br/>De ezt hallván felindul mindnyájuk haragja,<br/>„Kövezzék meg!” gonoszul ki-ki azt kiáltja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent István az egekre fölemelvén szemét,<br/>Látja Urát, Krisztusát, bátorítja szívét.<br/>Azokért, kik kövezik, így kéri Istenét:<br/>„Ne nézd a nép vakságát, bocsásd minden bűnét!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérünk most tégedet, Urunk, áldott Jézus,<br/>Ki miértünk születtél, megváltó szent Krisztus!<br/>Hálát adunk tenéked első vértanúdért,<br/>Aki nálad közbenjár küzdő Egyházadért.</lines>
+    </verse>
+  </lyrics>
+</song>

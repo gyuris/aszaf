@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Fényességes, mennybéli nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fényességes, mennybéli nagy Isten,<br/>téged hirdet e világon minden,<br/>az angyalok dicsérnek az égben,<br/>és a föld is szolgál nagy hűségben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erős trónod fenn a magasságban,<br/>semmi sincsen előtted homályban,<br/>híveidnek kegyelmes királya,<br/>s szentjeidnek ékes koronája!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örök Atya, leborulva áldunk,<br/>Fiad által tehozzád kiáltunk,<br/>Szent Lelkeddel éltess e világban,<br/>s adjál helyet örök boldogságban.</lines>
+    </verse>
+  </lyrics>
+</song>

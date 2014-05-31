@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ant. Adj, Uram, őnékik örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="506"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ant. Adj, Uram, őnéki(k) örök nyugodalmat, és az örökkévaló világosság fényeskedjék néki(k)!<br/>V. Hallgasd meg, Uram, imádságomat, minden test Hozzád mégyen! Ant.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár a halál völgyében járok, nem félek a rossztól<br/>(*)<br/>mert te ott vagy vélem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amint kívánkozik a szarvas a forrás vizéhez, (*) úgy kívánkozik a lelkem tehozzád, Istenem!<br/>Szomjazik a lelkem az erős élő Istenhez (*) mikor jutok el, s jelenek meg az Isten orcája előtt.<br/>Mikor jutok el csodálatos hegyére (*) egészen az Isten házáig!?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oldozd fel, Urunk, minden megholt hívednek Lelkét vétkeiknek minden bilincsétől.<br/>És kegyelmed segítségükre sietvén méltók legyenek elkerülni a bosszúállás ítéletét. És az örökkévaló világosság boldogságát élvezhessék.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Én vagyok a feltámadás és az élet, aki bennem hisz, még ha meghalt is, élni fog: és mindaz, aki úgy él, hogy hisz bennem, nem hal meg mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

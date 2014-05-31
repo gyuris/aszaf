@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Kegyes Jézus, keresztfán hét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyes Jézus, keresztfán hét szavakat mondtál,<br/>igéidet kövessük, arra tanítottál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legelőször értük szólsz, kik felfeszítettek,<br/>„Bocsásd meg ezt, szent Atyám, nem tudják mit tesznek!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Másodszor a latorhoz szóltál irgalmadban:<br/>„Velem leszel még e nap égi országomban.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Harmadszor, mint fiú szólsz szeretett anyádhoz:<br/>„Íme, Asszony, a fiad, Jánost vedd magadhoz!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Negyedszerre kiáltasz: „Istenem! Istenem!”<br/>Atyádhoz így sóhajtasz: „Mért hagytál el engem?”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ötödször a kínok közt, Uram, szomjúhoztál,<br/>amikor a keresztfán értünk áldoztattál.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hatodszor így kiáltasz: „Már beteljesedett!”<br/>A régen várt megváltás már végbevitetett.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Végső szavad így hangzott, haldokló Jézusom:<br/>„Atyám, te szent kezedbe lelkemet ajánlom.”</lines>
+    </verse>
+  </lyrics>
+</song>

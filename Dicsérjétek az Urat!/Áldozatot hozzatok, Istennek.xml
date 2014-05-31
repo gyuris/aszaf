@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Áldozatot hozzatok, Istennek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldozatot hozzatok, Istennek fiai,<br/>kenyeret s bort hozzatok, nagy Úrnak szolgái.<br/>Tiszteletet adjatok mindnyájan Istennek,<br/>dicsőséget mondjatok az ő szent nevének!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imádjátok Urunkat az ő hajlékában,<br/>s hallgassátok szent szavát ékes templomában.<br/>Ő királyunk örökké, összegyűjti népét,<br/>Ő ad erőt, Ő áld meg, s adja békességét.</lines>
+    </verse>
+  </lyrics>
+</song>

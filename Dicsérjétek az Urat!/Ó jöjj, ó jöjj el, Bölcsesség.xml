@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Ó jöjj, ó jöjj el, Bölcsesség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó jöjj, ó jöjj el, Bölcsesség,<br/>ó Egyszülött, kit ád az ég,<br/>te gyöngédség és őserő:<br/>amit tudnunk kell, tárd elő!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó jöjj, ó jöjj el, Adonáj,<br/>ki cserjelángból szólalál,<br/>majd kőbe vésted tíz szavad,<br/>jöjj tárt karokkal jó magad!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó jöjj el, Jessze Vesszeje,<br/>rab nemzeteknek fényjele,<br/>Ha szólsz, elnémul földi nagy,<br/>jöjj, szabadítónk csak te vagy.<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Dávid kulcsa, nyitni kész,<br/>ha ajtót nyitsz nem zárja kéz,<br/>halál árnyéka vesz körül,<br/>mirajtunk immár könyörülj!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó jöjj, ó jöjj el, Napkelet,<br/>mert éjben járunk nélküled;<br/>jöjj, igaz Napunk, halld imánk,<br/>és fényességed áraszd ránk!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te Úr vagy minden nép fölött,<br/>és Szegletkő, mely összeköt,<br/>sárból formáltad hívedet,<br/>most jöjj, fejezd be művedet!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó jöjj, ó jöjj, Emmánuel,<br/>csak téged áhít Izrael,<br/>és hozzád sóhajt untalan,<br/>mert Isten híján hontalan!<br/>Eljő, eljő Emmánuel, hogy üdvözüljön Izrael!</lines>
+    </verse>
+  </lyrics>
+</song>

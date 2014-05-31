@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Körülvettek engem a halál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Körülvettek engem a halál kínjai,<br/>az alvilág fájdalmai körülvettek engem.<br/>Szorongatásomban hívtam az Urat,<br/>s meghallotta szavamat szent templomából.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könyörülj rajtam, Isten, könyörülj rajtam,<br/>(*)<br/>mert benned bízik az én lelkem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, ne bűneink szerint cselekedj vélünk (*) és ne gonoszságaink szerint fizess nekünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne emlékezzél régi gonoszságainkra, siessen elénk a Te irgalmasságod (*) mert igen szegényekké lettünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Segíts meg minket mi szabadító Istenünk, és a Te neved dicsőségéért szabadíts meg minket (*) légy kegyelmes a mi bűneinkért a Te nevedért!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ki az Úr törvényén elmélkedik éjjel nappal,<br/>megadja gyümölcsét a maga idejében.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Antifona hamvazásra<br/>Figyelj reánk, Urunk, s könyörülj rajtunk,<br/>Vétkeztünk, Uram, ellened, könyörülj rajtunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Antifona hamvazásra<br/>Tekints reám, és könyörülj rajtam!</lines>
+    </verse>
+  </lyrics>
+</song>

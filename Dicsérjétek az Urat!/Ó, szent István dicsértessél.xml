@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ó, szent István dicsértessél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, szent István dicsértessél, menny és földön tiszteltessél!<br/>De főképpen nálunk ma, mint Országunk Oszlopa!<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még a gyenge gyermekségben, kegyes vala a szentségben<br/>örömére mindennek, példájára népeknek!<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok sánta vette járását, sok vak vette meglátását,<br/>némák kezdtek szólani, süketek es hallani.<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogságos Szűzanyánknak, mint magyarok Asszonyának,<br/>föláldoztad hazánkat, szentelted Koronánkat!<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért is hálaadással, ünnepélyes vigassággal<br/>mi együtt örvendezünk, szívünkből emlékezünk!<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mi, kik Téged Pártfogónknak választottunk Szószólónknak,<br/>szólj Istennél érettünk, légy mindenkor mellettünk!<br/>Kérünk, mint Apostolunkat, és az első Királyunkat:<br/>Szent István nézz mennyből le, a szép magyar népedre!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Könyörülj, Istenem, én bűnös</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Könyörülj, Istenem, én bűnös lelkemen,<br/>Szánakozz immáron szomorú szívemen.<br/>Haragodnak mennykövét, éles hegyes tőrét<br/>Vedd vissza vétkeim büntető vesszőjét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Továbbá mosogasd bűnöktől lelkemet,<br/>Tisztítsd meg, gyógyítsd meg sebektől szívemet,<br/>Bűneimet megvallom, nyilván tapasztalom,<br/>Miattok nem lehet nyugságom, vígságom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vétkeim lelkemet, mint kígyók, úgy marják,<br/>Mint éles tövisek, szívemet átjárják:<br/>Hová fussak színedtől, fegyveres kezedtől?<br/>Félek és rettegek nagy ítéletedtől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenem, egyedül ellened vétkeztem,<br/>Előtted, ellened, gonoszt cselekedtem;<br/>Kegyelmes Úristen! Mi hasznod vesztemen?<br/>Irgalmazz s könyörülj én bűnös lelkemen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>El ne vess engemet isteni színedtől,<br/>Meg ne fossz, könyörgök, a te Szentlelkedtől,<br/>Tiszta szívet énbennem teremts, én Istenem,<br/>Ne tartsd fönn már tovább haragod ellenem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szabadíts ki immár a halál torkából,<br/>Ments ki már bűneim kemény rabságából,<br/>Hogy csak neked élhessek, hozzád siethessek,<br/>Téged magasztalván, benned örvendhessek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nyisd meg, ó, ajkamat szent dicséretedre,<br/>Ébreszd föl szívemet hő szeretetedre;<br/>Csak téged akarjalak, téged óhajtsalak,<br/>Téged szeresselek, téged kiáltsalak.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tudom, hogy bűnbánó szíveket látogatsz,<br/>És kiket ostorral gyakorta sújtogatsz,<br/>Azok néked kedvesek, jóra érdemesek,<br/>Add, Uram, Istenem közülök lehessek.</lines>
+    </verse>
+  </lyrics>
+</song>

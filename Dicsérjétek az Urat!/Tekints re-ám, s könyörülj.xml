@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Tekints re-ám, s könyörülj</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="566"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tekints re-ám, s könyörülj rajtam,<br/>én Uram, Istenem,<br/>mert egyedül vagyok és igen szegény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vesd az Úrra gondodat,<br/>(*)<br/>és Ő majd táplál téged!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én kiáltottam, mert meghallgatsz engem, Isten,<br/>hajtsd hozzám füledet, hallgasd meg beszédemet.</lines>
+    </verse>
+  </lyrics>
+</song>

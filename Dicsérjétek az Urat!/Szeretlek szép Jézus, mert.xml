@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Szeretlek szép Jézus, mert</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretlek szép Jézus, mert fölötte jó vagy,<br/>minden szeretetre bizony te méltó vagy,<br/>jóvoltod s irgalmad a bűnöshöz mily  nagy!<br/>Te gyarló szolgádat, engemet el ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erős kezeiddel ültess jó palántát,<br/>szívedből szívembe kegyelem virágát,<br/>tégy Uram nemessé, oltsd be szívem ágát,<br/>hogy hozzon az égből jó gyümölcsöt, drágát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy, édes Jézus, élet, út, igazság.<br/>Szentség és szeretet, véghetetlen jóság.<br/>Ó mennyei szent tűz, ó te nagy uraság!<br/>Add, hogy legyen részünk az örök boldogság.</lines>
+    </verse>
+  </lyrics>
+</song>

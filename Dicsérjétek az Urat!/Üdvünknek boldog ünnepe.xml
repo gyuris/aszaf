@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Üdvünknek boldog ünnepe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvünknek boldog ünnepe! Ujjongnak mind a századok:<br/>Jézus, megváltó Istenünk világnak gyógyulást hozott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hat nap, hogy Húsvét eljövend, Betániába látogat,<br/>Hol Lázárt sírból kelti fel, ki negyednapja volt halott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága kenettel gazdagon siet az Úrhoz Mária,<br/>Krisztusnak lábát megkeni, s könnyekkel bőven öntözi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S hogy megtörténtek mindezek, Jézus, ki legfőbb Mesterünk,<br/>Szamárcsikóra ülve fel Jeruzsálembe érkezik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten kegyelme mily csodás! Jósága hozzánk végtelen!<br/>Kicsiny szamáron jön közénk, ki a világot alkotá.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Így szólt lélekkel ihletett próféta ősi szózata:<br/>„Sion leánya, vigadozz, ujjongó szívvel várakozz!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Urad, királyod íme jő, nézd mily szerény, mily egyszerű,<br/>szamáron ülve trónol Ő: türelmes és kegyes király!”</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A pálmafák friss ágait, zöld fák levágott lombjait<br/>lengetve mennek mind elé, s köszöntik az örök Királyt.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ujjong körötte nagy tömeg, s Lélekkel telve így kiált:<br/>„Hozsanna néki, üdv legyen Dávid Fiának szüntelen!”</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Levetvén íme köntösük, elé a földre fektetik,<br/>mások, hogy díszes út legyen, hintik virágok szirmait.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Forrong a város nyugtalan, mert hallja hírét jöttinek,<br/>de méltón zengik énekét seregben mind a gyermekek.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ha majd Bíróként újra jő, menjünk mi is az Úr elé,<br/>az üdv pálmáját lengetvén szívünkben zengjük énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Rejtőző Istenség, hittel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="273"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejtőző Istenség, hittel áldalak,<br/>ki elrejtőztél itt bor s kenyér alatt.<br/>Szívem teelőtted megalázkodik,<br/>mert ha téged szemlél, megfogyatkozik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szám, kezem, látásom benned fennakad,<br/>bizton hitem mégis hallásból fakad.<br/>Hiszem mind, amit szól Istennek Fia,<br/>nincs igazabb, mint az igazság szava.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rejté a keresztfa istenségedet,<br/>itt az emberség is elrejtezkedett,<br/>Mind a kettőt vallván és hittel hívén,<br/>mit a jobb lator kért, azért esdek én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sebeid Tamással nem szemlélhetem,<br/>te vagy mégis, vallom, Uram, Istenem.<br/>Add, hogy egyre jobban higgyek teneked,<br/>tebenned reméljelek és szeresselek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram halálának szent emlékjele,<br/>élő kenyér nekünk élet kenyere!<br/>Hogy belőled éljen, késztesd lelkemet:<br/>soha ne feledje édességedet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kegyes pelikánunk, égi szeretet,<br/>véredben, tisztátlant, moss meg engemet.<br/>Egy cseppje elég, ha a mérlegbe hull,<br/>az egész világnak bűnváltságául.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus, most csak arcod leplét láthatom,<br/>add meg, Uram, amit úgy szomjúhozom,<br/>Boldogan, lepletlen lássam színedet,<br/>és dicsőségedben dicsérhesselek. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

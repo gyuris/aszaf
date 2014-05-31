@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Jesu dulcis memoria</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu dulcis memoria,<br/>dans vera cordis gaudia:<br/>sed super mel et omnia<br/>ejus dulcis praesentia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nil canitur suavius,<br/>nil auditur jucundius,<br/>nil cogitatur dulcius<br/>quam Jesus, Dei Filius.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu, spes poenitentibus,<br/>quam pius es petentibus,<br/>quam bonus te quarentibus,<br/>sed quid invenientibus?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nec lingua valet dicere,<br/>nec littera exprimere,<br/>expertus potest credere,<br/>quid sit Jesum diligere.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sis Jesu nostrum gaudium,<br/>qui est futurus praemium,<br/>sit nostra in te gloria,<br/>per cuncta semper saecula. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

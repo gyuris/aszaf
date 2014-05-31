@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Dicső Szent Jánosnak ünnepét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicső Szent Jánosnak ünnepét szenteljük,<br/>ma ő szent életét vígan énekeljük,<br/>Kit a Krisztus Jézus leginkább szeretett,<br/>mi is azt tiszteljük.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Jánost a Krisztus annyira szerette,<br/>hogy a végvacsorán melléje ültette,<br/>És fejét mellére, áldott szent testére<br/>tenni, megengedte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent János jelenté meg Szűz Máriának,<br/>hogy Urunk kezébe esett a zsidóknak,<br/>Keményen megkötték, és úgy fogva vitték,<br/>úgy adták Annásnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Jánost Úr Krisztus adta Szent Anyjának,<br/>a keresztfán függvén vallotta fiának,<br/>És viszont Szent Anyját adta Szent Jánosnak,<br/>Vigasztalójának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Jánost hát mi is mindnyájan kövessük,<br/>édes Istenünket szívünkből szeressük,<br/>Úgy az élet után országában jutván,<br/>Szent színét nézhessük.</lines>
+    </verse>
+  </lyrics>
+</song>

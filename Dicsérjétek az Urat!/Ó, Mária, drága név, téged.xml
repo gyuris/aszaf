@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ó, Mária, drága név, téged</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="455"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, drága név, téged óhajt tiszta szív, Mária!<br/>Ha megcsendül fülemben, vidámság kél szívemben, Mária!<br/>A buzgó szív, mely hozzád hív, téged kíván dicsérni,<br/>szeretetben elégni, Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged Isten megkedvelt, szűz anyának ő rendelt, Mária!<br/>Téged illet dicséret minden angyal s szent felett, Mária!<br/>Ó kegyes Szűz, mindent elűzz, ami minket rútíthat,<br/>Istentől elszakíthat, Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Zálogát adtad ó Jézus, örök</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zálogát adtad ó Jézus, örök szeretetednek,<br/>rendelvén e nagy Szentséget, és adván tieidnek:<br/>hogy teveled egyesüljünk, s Téged viszontszeressünk.<br/>Örök hála és imádás legyen azért nevednek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalmadban nem vizsgáltad a mi gyarlóságunkat,<br/>és ellened elkövetett sok hálátlanságunkat.<br/>Megmenteni így akartál, azért értünk meghaltál,<br/>eltörölvén a keresztfán régi adósságunkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S hogy halálod szent emlékét mindennap megülhessük,<br/>hagytad ezt a nagy Szentséget, hogy magunkhoz vehessük.<br/>Csodálatos kincset adtál, és közöttünk maradtál:<br/>véghetetlen jóságodért add, hogy mindig szeressünk!</lines>
+    </verse>
+  </lyrics>
+</song>

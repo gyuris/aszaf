@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Salve Regina, Mater</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="358"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salve Regina, Mater misericordiae:<br/>vita, dulcedo, et spes nostra, salve.<br/>Ad te clamamus, exules, filii Hevae.<br/>Ad te suspiramus, gementes et flentes, in hac lacrimarum vale.<br/>Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte.<br/>Et Jesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende.<br/>O clemens, o pia, o dulcis  virgo Maria!</lines>
+    </verse>
+  </lyrics>
+</song>

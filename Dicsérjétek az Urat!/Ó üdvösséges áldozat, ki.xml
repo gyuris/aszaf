@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Ó üdvösséges áldozat, ki</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó üdvösséges áldozat, ki mennynek tárod ajtaját,<br/>harcot harcolva szenvedünk, Úr Jézus, kérünk, adj erőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy-Háromságos Istenünk, most dicsőítünk tégedet,<br/>ki országodban minekünk adj mindörökre életet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Mennynek Királyné Asszonya</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennynek Királyné Asszonya, örülj szép Szűz, alleluja.<br/>Mert kit méhedben hordozni méltó voltál, alleluja:<br/>Amint megmondotta vala, föltámadott, alleluja!<br/>Imádd Istent, hogy lemossa bűneinket, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

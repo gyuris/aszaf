@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Hálás szívvel köszönjük meg</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálás szívvel köszönjük meg az Istennek jóságát,<br/>Hogy anyánkul nekünk adta az áldott Szűz Máriát.<br/>Légy velünk, Szűzanya, mennyei szép rózsa, keresztények oltalma!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten népét földi útján híven te oltalmazod,<br/>Őrködöl az Egyház fölött, vigasztalod, oktatod.<br/>Légy velünk, Szűzanya, mennyei szép rózsa, keresztények oltalma!</lines>
+    </verse>
+  </lyrics>
+</song>

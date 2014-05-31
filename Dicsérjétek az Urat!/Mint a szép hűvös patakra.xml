@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Mint a szép hűvös patakra</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint a szép hűvös patakra a szarvas kívánkozik,<br/>lelkem Istent úgy óhajtja, és hozzá fohászkodik.<br/>Tehozzád, én Istenem, szomjúhozik én lelkem:<br/>vajon mikor jutok innen színed elé, élő Isten?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Éjjel-nappal hulló könnyem mindennapi kenyerem,<br/>amidőn azt kérdik tőlem: hol van az én Istenem?<br/>Ezen mélyen bánkódom, és házadat óhajtom,<br/>hol a hívek seregében örvendek szép éneklésben.</lines>
+    </verse>
+  </lyrics>
+</song>

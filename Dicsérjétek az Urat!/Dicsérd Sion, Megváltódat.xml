@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Dicsérd Sion, Megváltódat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérd Sion, Megváltódat, vezéredet, pásztorodat, áldja hangos éneked.<br/>Ahogy bírod, akként merjed, bármi nagynak énekeljed, méltón nem dicsérheted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy titokról szól az ének: élet élő kútfejének, a Kenyérnek hódolunk.<br/>Melyben, midőn halni készül, magát adja örök részül társainak Krisztusunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Legyen teljes, legyen zengő, legyen vidám s hozzá illő szívből fakadt énekünk.<br/>Annak titkát fontolgatva, magát Jézus miképp adta táplálékul minekünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az új Király asztalára Kenyér szállott, égi Pászka, elavult a régi már.<br/>Fut az újtól, ami régi, nap az éjjelt fölcseréli, fut a fénytől a homály.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amit Krisztus tett ez estén, hagyta, hogy rá emlékezvén cselekedjük mi is azt.<br/>Áldás fakadt törvényéből, így lesz borból és kenyérből üdvösséges áldozat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drága titka szent hitünknek, testté-vérré lényegülnek, bor s kenyér mi volt előbb.<br/>Régi rend itt újnak enged, szárnya lankad észnek, szemnek, élő hitből végy erőt!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Más és más, de nem lényegben, csak jel szerint más színekben mennybéli jók rejlenek.<br/>Vére ital, teste étel, mégis ott van teljességgel mindkettőben Istened.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Aki veszi, meg nem osztja, meg nem töri, nem szakasztja, oszthatatlan eledel.<br/>Veszi egy és veszik ezren, rövidséget nem lát egy sem, fogyasztják, és el nem fogy.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Veszik jók és veszik rosszak, csakhogy különféle sorsnak részesei ők vele.<br/>Rossznak halál, jónak élet, ilyen az egyforma étek különböző ereje.</lines>
+    </verse>
+  </lyrics>
+</song>

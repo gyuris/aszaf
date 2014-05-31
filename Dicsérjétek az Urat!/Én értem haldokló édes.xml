@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Én értem haldokló édes</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én értem haldokló édes Jézusom,<br/>Nézz rám, én gyógyító kegyes orvosom:<br/>Nagy bűnökkel telten eléd térdepeltem,<br/>Ó édes Jézusom, tisztítsd meg a lelkem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, édes Jézusom, tied vagyok én,<br/>Mennyei orvosom, egyetlen remény!<br/>Csak egy, amit kérek: majd ha porba térek,<br/>Lássa meg arcodat a megtisztult lélek!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Könyörülj rajtam, Isten, a te</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="532"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>- Könyörülj rajtam, Isten, a te nagy irgalmasságod szerint.<br/>- És a te könyörületed sokasága szerint töröld el gonoszságomat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Moss meg engem mind-inkább gonoszságomból, és bűneimből tisztíts meg engem.<br/>- Mert elismerem gonosz-ságomat, és bűnöm előttem van mindenkoron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>- Egyedül neked vétettem és gonoszt cselekedtem előtted, hogy igaznak találjanak beszédeidben és győzedelmes légy midőn ellened panaszkodnak.<br/>- Hints meg engem izsóppal és megtisztulok, moss meg engem és a hónál fehérebb leszek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Add, hogy örömet és vigasságot halljak: és örvendezzenek megalázott csontjaim.<br/>- Fordítsd el arcodat bűneimről: és töröld el minden gonoszságomat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>- Tiszta szívet adj nekem, ó Isten: és az igaz lelket újítsd meg bennem.<br/>- Ne vess el engem színed elől, és szent lelkedet ne vedd el tőlem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>- Add vissza nekem üdvözítésed örömét: és jeles lélekkel erősíts meg engem.<br/>- Megtanítom útaidra a gonoszokat: és az istentelenek hozzád térnek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>- Szabadíts meg engem a bűntől, Isten, üdvösségem Istene, és nyelvem magasztalni fogja a te igazságodat.<br/>- Uram nyisd meg ajkamat: és szám a te dicséretedet fogja hirdetni.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>- Mert, ha kedvelnéd, bizonyára áldozatot adtam volna: de az égő áldozatokban nem gyönyörködöl.<br/>- Áldozat Istennek a kesergő lélek: a töredelmes és alázatos szívet, ó Isten, nem veted meg.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>- Adj, Uram örök nyugodalmat neki, és az örök világosság fényeskedjék neki.</lines>
+    </verse>
+  </lyrics>
+</song>

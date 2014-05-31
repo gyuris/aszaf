@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Isten, áldd meg a magyart</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="551"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, áldd meg a magyart jókedvvel, bőséggel,<br/>nyújts feléje védő kart, ha küzd ellenséggel.<br/>Balsors, akit régen tép, hozz rá víg esztendőt,<br/>megbűnhődte már e nép a múltat s jövendőt.</lines>
+    </verse>
+  </lyrics>
+</song>

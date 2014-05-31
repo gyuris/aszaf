@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Édes Jézus öntsd szívembe</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus öntsd szívembe lángoló szerelmedet!<br/>Kiben annak tüze lángol, kárhozott az nem lehet.<br/>Kiben annak lángja lobban, csak feléd tart szüntelen.<br/>Bűnbe estem, ó, bocsáss meg, Jézus Szíve, légy velem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Jézus, öntsd szívembe a hithősök jellemét,<br/>hogy hirdessem bátran, fen-nen szent neved dicséretét.<br/>Mártírhittel a világnak minden kincsét megvetem.<br/>Taníts érted élni, halni, Jézus Szíve, légy velem!</lines>
+    </verse>
+  </lyrics>
+</song>

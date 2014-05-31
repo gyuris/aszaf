@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, Jézus szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="393"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, Jézus szent Anyja!<br/>A téged tisztelők hű pártfogója.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyertem vigasztalást, nyertem örömet,<br/>Nyertem, Anyám, tőled, égi kegyelmet.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szerelmed szent tüze hevült keblemen,<br/>Mert te vagy, Mária, éltem s mindenem.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkemnek jegyese egyedül te vagy,<br/>hiszem, hogy jóságod soha el nem hagy.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fogadd hát, Mária, frigyül szívemet,<br/>Zálogul, csak benned élő lelkemet.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Somlyó századokon hű gonddal ápolt,<br/>Szentséges Nevedhez illő helyt adott.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Leborulva esdünk, kérve tégedet,<br/>ne hagyd el a szegény, székely népedet.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Védd anyai kézzel hű gyermekidet,<br/>hogy áldva dicsérjük, Anyánk, nevedet.<br/>Ékes vagy, szent Szűz Mária,<br/>Csíksomlyó fényes csillaga.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Veni sancte Spiritus, et</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veni sancte Spiritus, et emitte coelitus lucis tuae radium.<br/>Veni Pater pauperum, veni, dator munerum, veni, lumen cordium.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Consolator optimae, dulcis hospes animae, dulce refrigerium.<br/>In labore requies, in aestu temperies, in fletu solatium.<br/>O lux beatissima, reple cordis intima tuorum fidelium.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sine tuo numine nihil est in homine, nihil est innoxium.<br/>Lava, quod est sordidum, riga, quod est aridum, sana, quod est saucium.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Flecte, quod est rigidum, fove, quod est frigidum, rege, quod est devium.<br/>Da tuis fidelibus in te confidentibus sacrum septenarium.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Da virtutis meritum, da salutis exitum, da perenne gaudium.<br/>Amen, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jöjj Szentlélek Isten, jöjj, áraszd ki a mennyekből fényességed sugarát.<br/>Jöjj, ki árvák atyja vagy, jöjj, ki szívek lángja vagy ajándékos jóbarát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te vagy a Vigasztalás, drága vendég, lelki Társ, te az édes enyhülés.<br/>Gondok között nyugalom, hőség ellen oltalom, zokogásban könnyülés.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jöjj és töltsd be híveid titkos mélyű szíveit, boldogító égi tűz!<br/>Semmi, semmi Nélküled az emberben nem lehet, semmi tiszta, semmi szűz.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mosd, amit a szenny belep, öntözd, ami eleped, seb fájását csillapítsd!<br/>Ami dermedt, élesztgesd, ami fagyos, melengesd, ami hibás igazítsd!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Benned minden bizalom osszad, osszad pazaron hét szent ajándékodat.<br/>Adj érdemre jobbulást, üdvösséges kimúlást, örök vigasságot adj.<br/>Amen, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Ma új örömben egyesül</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="418"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma új örömben egyesül az egyház szentelt éneke,<br/>s az éggel együtt lelkesül, mely vígan, buzgón zeng vele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi születés e napon hozott új, boldog ünnepet,<br/>mint a tündöklő liliom, a királylány még ékesebb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Margit, mikor még kis leány, kerül mulandó vágyakat,<br/>és gyermekként már jó korán az égi élet vonzza csak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megvetve magas palotát, szigorú klastrom rejtekén,<br/>akit királyi pompa várt, miként a koldus, oly szegény.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add meg nekünk is, Istenünk, kikért szűz Margit esdekel,<br/>hogy mi is véle ott legyünk, a boldog mennybe jutva fel. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

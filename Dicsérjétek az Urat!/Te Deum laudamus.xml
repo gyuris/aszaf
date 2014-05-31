@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Te Deum Laudamus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="557"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te Deum Laudamus!<br/>Téged Isten dicsérünk, * téged Úrnak vallunk.<br/>Téged örök Atyaistent, * minden teremtményed tisztel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Néked mindnyájan az angyalok * néked az egek és minden hatalmasságok.<br/>Néked a Kerub és Szeráf angyalok * szüntelen szóval énekelnek:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent-Szent! Szent-Szent! Szent a seregeknek Ura, Istene!<br/>Teljes az ég és a föld * Felségednek dicsőségével.<br/>Téged az apostoloknak * dicsőséges kara.<br/>Téged a prófétáknak * dicséretes száma,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Téged a mártíroknak * fényes serege dicsér.<br/>Téged széles e világon * vall és dicsér az Anyaszentegyház.<br/>Véghetetlen * felséges Atyaistent,<br/>A te tiszteletre méltó * igaz és egyetlenegy Fiadat,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Szentlelket is * a Vígasztalót.<br/>Te, dicsőségnek * Királya, Krisztus.<br/>Te az Atyaistennek * örökkévaló Fia vagy.<br/>Te a megszabadításért fölvevén az emberi természetet * nem iszonyodtál a Szűznek méhétől.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te meggyőzvén a halál fullánkját * megnyitád híveidnek a mennyországot.<br/>Te az Istennek jobbján ülsz * Atyádnak dicsőségében.<br/>E világra jövendő bírónak * hiszünk, Urunk, téged.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Téged azért kérünk, légy segítsége a te szolgáidnak * kiket szent véreddel megváltottál.<br/>Add meg, hogy az örök boldogságban * a te szenteid közé számláltassunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvözítsd, Uram a te népedet * áldd meg a te örökségedet!<br/>És igazgasd, Uram, és felmagasztaljad * most és mindörökké!<br/>Minden napokon * áldunk tégedet!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>És dicsérjük a te neved örökké. * és mindörökkön örökké.<br/>Méltóztassál, Uram, e mai napon * minden bűntől minket megőrizni.<br/>Könyörülj rajtunk, Úristen, * könyörülj mirajtunk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Legyen a te irgalmasságod mirajtunk * amint tebenned bíztunk.<br/>Tebenned bíztam Uram * soha meg nem szégyenülök. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

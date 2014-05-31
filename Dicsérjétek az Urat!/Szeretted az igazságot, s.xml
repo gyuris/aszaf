@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Szeretted az igazságot, s</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="414"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretted az igazságot, s gyűlölted a gonoszságot,<br/>azért kent föl az Isten az öröm olajával.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megsegítette őt az Isten arcának fényével<br/>(*)<br/>az Isten lakik benne, azért meg nem inoghat.</lines>
+    </verse>
+  </lyrics>
+</song>

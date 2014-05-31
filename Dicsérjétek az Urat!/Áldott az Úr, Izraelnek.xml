@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Áldott az Úr, Izraelnek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="558"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott az Úr, Izraelnek Istene,<br/>(*)<br/>mert egyedül Ő cselekszik nagy csodákat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megismertetted vélem az élet útjait,<br/>az öröm teljességét a te színed előtt, Uram.</lines>
+    </verse>
+  </lyrics>
+</song>

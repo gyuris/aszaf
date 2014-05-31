@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Boldog ház, hol Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog ház, hol Krisztus lakik, onnan Sátán eltávozik.<br/>Ha van is ott keserűség, ott van a lelki édesség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott Jézust mi keressük, feltalálván, hogy tiszteljük.<br/>Őt, mint Istent, hűn imádjuk, dicső nevét buzgón áldjuk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Régi szent példát követünk, ide is avégett jöttünk,<br/>Hogy néktek mondjunk szent áldást, s nyerjünk Krisztustól bő áldást.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Új csillaga új királynak, új áldást hoz e világnak.<br/>E ház abban nagy részt vegyen, szent hitben állandó legyen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus csillagának fénye, bűnösöknek nagy reménye,<br/>Legyen e háznak őrzője, s minden rossznak elűzője.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A lelki arany bősége, tömjén s mirrha elégsége,<br/>Maradjon mindenkor itten, s veletek legyen az Isten!</lines>
+    </verse>
+  </lyrics>
+</song>

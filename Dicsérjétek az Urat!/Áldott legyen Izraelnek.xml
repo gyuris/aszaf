@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Áldott legyen Izraelnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="531"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>- Áldott legyen Izraelnek nagyirgalmú Istene, mert meglátogatta népét és ez megváltást nyere.<br/>- Dávid házának hatalmát Isten felmagasztalá, mint azt prófétája által régentén megjósolá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Hogy vad ellenségeinktől megment bármi vész között, s megemlékezik a frigyről, mit atyáinkkal között.<br/>- Ama frigyről, mellyel egykor Ábrahámnak fogadá, s ellenünk dühétől a várt szabadulást megadá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>- Hogy bátran szolgálva néki tartsuk meg parancsait, és szentségben s igazságban töltsük éltünk napjait.<br/>- És te gyermek a hatalmas Isten prófétája lész, mert utat készítsz az Úrnak, s hírnökül előtte mész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Hogy az ő népének hirdesd, az üdvösség szent tanát, bűneink bocsánatára, mit az Úr irgalma ád.<br/>- Mellyel az, ki a magasból kél, nekünk békét hozand, s a halálnak árnyékában szenvedőknek fényt adand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adj, Uram a megholtnak a sírban szent nyugovást és a végítélet napján adj boldog feltámadást.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oldozd fel, Uram, a te szolgádnak lelkét min-den bűneinek köteléké-ből, hogy a feltámadás dicsőségében a te szentjeid között feltá-masztatván, megújuljon.</lines>
+    </verse>
+  </lyrics>
+</song>

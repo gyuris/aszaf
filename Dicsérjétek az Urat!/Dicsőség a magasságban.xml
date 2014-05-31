@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:35">
+  <properties>
+    <titles>
+      <title>Dicsőség a magasságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="624"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség a magasságban Istennek!<br/>És a földön békesség a jóakaratú embereknek!<br/>Dicsőítünk téged, áldunk Téged,<br/>imádunk Téged, magasztalunk Téged!<br/>Hálát adunk néked nagy dicsőségedért.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk és Istenünk, mennyei Király, mindenható Atyaisten.<br/>Urunk Jézus Krisztus, egyszülött Fiú,<br/>Urunk és Istenünk, Isten Báránya, az Atyának Fia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te elveszed a világ bűneit: irgalmazz nekünk!<br/>Te elveszed a világ bűneit: hallgasd meg könyörgésünket!<br/>Te az Atya jobbján ülsz: irgalmazz nekünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert egyedül te vagy a szent, Te vagy az Úr,<br/>Te vagy az egyetlen Fölség: Jézus Krisztus!<br/>A Szentlélekkel együtt, az Atyaisten dicsőségében.<br/>Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

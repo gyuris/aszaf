@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Én nemzetem, zsidó népem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én nemzetem, zsidó népem, teellened mit vétettem?<br/>Hogy tőled halált szenvedtem? Felelj meg immár énnekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én tégedet Egyiptomból kihoztalak nagy rabságból:<br/>Te engem kedves hazámból, kivetél a szent városból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyiptomból kimentedben nyílást tettem a tengerben:<br/>Te mellemet megnyitottad, lándzsával vérem ontottad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A pusztában itattalak, és mannával tápláltalak:<br/>Engem epével itattál, mérges ecettel kínáltál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ellenségedet megvertem, fáraó népét elűztem:<br/>Te engem ostorral vertél, és talpig vérbe kevertél.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én téged nagy méltóságra emeltelek, királyságra:<br/>Te tövissel koronáztál, csúfos bársonnyal ruháztál.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Téged Kánaán földére vittelek minden bőségre:<br/>Te Kálvária hegyére vittél minden szenvedésre.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Én szőlőmbe ültettelek, szép esőkkel öntöztelek:<br/>Te rossz gyümölcsöt termettél, latrok közé feszítettél.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Én nemzetem, ó én népem! Többet érted mit tehettem?<br/>Te ellened mit vétettem? Felelj immár meg énnékem!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Én nemzetem, zsidó népem, többet mit cselekedhettem?<br/>Te ellened mit vétettem? Felelj meg mostan énnekem.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ne essél mégis kétségbe, Csak légy buzgó megtérésbe,<br/>Könnyezz és térj Istenedhez, hozzám, te Üdvözítődhöz!</lines>
+    </verse>
+  </lyrics>
+</song>

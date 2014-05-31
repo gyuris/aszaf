@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Sion népe! Íme, jő az Úr</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sion népe! Íme, jő az Úr a népek váltságára:<br/>s hallatja dicsőséges hangját szívetek örömére!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sionból ragyog fel az Ő ékes szépsége,<br/>(*)<br/>az Isten nyilván eljő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeruzsálem, kelj fel,<br/>s állj a magaslatra,<br/>lásd a gyönyörűséget,<br/>mely jön már Uradtól néked.</lines>
+    </verse>
+  </lyrics>
+</song>

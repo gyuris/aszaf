@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Szent András az Úr Jézusnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="479"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent András az Úr Jézusnak szerelmes tanítványa.<br/>Igaz Anyaszentegyháznak ragyogó szép gyémántja.<br/>Kinek mai napon üljük dicső halála napját,<br/>mint fiai, úgy neveljük lelki örömünk árját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kereszttel Krisztus nyitott utat a boldogságra.<br/>Szent András is választatott oly hasonlatosságra,<br/>miként Krisztust függesztették egy csúfos keresztfára,<br/>Szent Andrást is szintúgy vitték a keserves halálra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felfeszítve két napig volt Szent András a keresztfán,<br/>hogy fent függve élt s meg nem holt a szerelmes tanítvány;<br/>prédikálta a szent hitet összegyűlő népeknek,<br/>és ajánlta új híveket védelmező egeknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E Szent András a szkíták közt Krisztus hitét hirdette.<br/>Mind ott, mind más pogányok közt szentségével nevelte.<br/>Sok csodának tételével hitelesebbé tette,<br/>végre maga szent vérével aztot megpecsételte.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ily hívséges követője volt András Mesterének,<br/>s példájával serkentője minden keresztényeknek.<br/>Miképp Krisztust, most kövessék e halandó életben,<br/>jutalmukat, hogy vehessék a mennyei székekben.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsértessél az egekben ó áldott Atyaisten!<br/>Itt és minden környékekben Fiú-, s Szentlélek Isten!<br/>Szent Andrásnak nagy szentsége irgalmadhoz vezessen,<br/>irgalmadnak nagy bősége mennyekben részeltessen. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Íme, étke angyaloknak Kenyere</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, étke angyaloknak Kenyere lett vándoroknak,<br/>eledele jó fiaknak, ebnek adni nem való!<br/>Izsák ennek képe, árnya, áldozatra kész oltára,<br/>húsvétbárány áldozása, s hulló manna, égi jó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igaz Kenyér, legfőbb Pásztor, Jézus, óvj az elbukástól,<br/>te táplálj, és te palástolj, s add, hogy a feltámadáskor legyen nálad kész helyünk.<br/>Te, ki mindent bírsz és értesz, földi létben táplálsz, éltetsz,<br/>add, hogy lássunk, Dicsőséges, s társulván a boldog néphez, lakomádban részt vegyünk.<br/>Ámen, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

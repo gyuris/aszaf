@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Az Istennek szent angyala</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Istennek szent angyala<br/>a mennyekből alászálla,<br/>pásztorokhoz hogy eljuta<br/>és őnékik ekképp szóla:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyből jövök most hozzátok,<br/>és íme nagy jó hírt mondok.<br/>Nagy örömet majd hirdetek,<br/>melyen örvend ti szívetek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E mai nap egy kis gyermek<br/>a szent Szűztől megszületett,<br/>Már elhozta az életet,<br/>mely Istennél készíttetett!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez lesz nektek a jel róla:<br/>íme, fekszik a jászolyba<br/>a kis gyermek, kit találtok,<br/>ő teremté a világot!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jertek, mi is örvendezzünk,<br/>pásztorokkal odamenjünk,<br/>lássuk őt, kit adott Isten<br/>hozzánk való szerelmében.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A mennyei magas égben<br/>az Istennek áldás légyen,<br/>ki szent Fiát elküldötte,<br/>az ő népét hogy megmentse.</lines>
+    </verse>
+  </lyrics>
+</song>

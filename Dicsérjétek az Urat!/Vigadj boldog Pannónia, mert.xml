@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Vigadj boldog Pannónia, mert</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="475"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigadj boldog Pannónia, mert Krisztus téged így szeret:<br/>Zengjen a himnusz dallama, mondjál szívedből éneket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiszen belőled származott Erzsébet, ékes asszonyunk,<br/>ki minden földit elhagyott, mert hívta Krisztus, jó Urunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Királyi házba küldetett, de Isten kedves lánya lett,<br/>ezrek közül őt lelte meg, s vezette így az égi kegy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ámul, vigad Türingia, természet rendje változik,<br/>Csodákat láthat sok fia, gyakran, ha ő imádkozik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halott nyer újra életet, betegbe épség visszaszáll,<br/>a béna bátran lépeget, s vakot világít fénysugár.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Méltó dicséret áldja őt, dicsérje szó és zengje dal,<br/>ő pártfogónk az Úr előtt buzgó imádságaival.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsérjük, áldjuk az Atyát, s a Szentlélekkel Egy-Fiát,<br/>hogy bűneink bocsánatát megnyerjük, s majd az ég honát.<br/>Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

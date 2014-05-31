@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Magyarország szép nemes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magyarország szép nemes csillaga,<br/>asszonyi rend tiszteletes tagja,<br/>Szent Erzsébet, András király lánya,<br/>szent hitünknek gyümölcsös szép ága.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dolgos kezét nagy munkára adja,<br/>ujjaival az orsót forgatja,<br/>Szegényeknek ajtaját megnyitja,<br/>éhezőknek a kenyerét nyújtja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gazdagságnak magas pompájában<br/>él a lélek nagy szabadságában,<br/>Uraságát Krisztusért elhagyja,<br/>mint hívságot, lábával tapodja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asszonyoknak te vagy tanítója,<br/>özvegyeknek bölcs útmutatója.<br/>Leányoknak jó példaadója,<br/>mint legyenek kincsek megtartója.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Üdvözlégy hát, országunknak éke,<br/>őseinknek szép és drága dísze,<br/>Hadd kövessünk téged életünkkel,<br/>veled együtt éljünk Istenünkkel!</lines>
+    </verse>
+  </lyrics>
+</song>

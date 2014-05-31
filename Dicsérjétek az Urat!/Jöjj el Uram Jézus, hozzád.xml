@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Jöjj el Uram Jézus, hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="334"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el Uram Jézus, hozzád kiált szavam,<br/>mikor sötétedik, maradj velünk, Uram.<br/>Szálljon imám eléd, mint a tömjénillat,<br/>feléd kitárt karom, mint esti áldozat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arra kérlek, Uram, fogjad fékre a szám,<br/>hatalmas, te őrködj ajkamnak ajtaján.<br/>Ne hagyd, hogy a szívem a rosszra hajoljon,<br/>és a gonoszokkal sürögjön-forogjon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád menekülök, rád emelem szemem,<br/>benned bízom, Uram, tarts életben engem.<br/>Atya, Fiú, Lélek: Szentháromság, néked<br/>utolsó szavammal dicséretet zengek!</lines>
+    </verse>
+  </lyrics>
+</song>

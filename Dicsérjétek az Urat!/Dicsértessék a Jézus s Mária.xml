@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Dicsértessék a Jézus s Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsértessék a Jézus s Mária neve.<br/>Hozzád jöttünk Szűz Anyánk köszöntésedre.<br/>Mondjuk szívből: üdvözlégy mennyei virág,<br/>mert tégedet választott a Szentháromság.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tizenkét szép csillagból koronád vagyon,<br/>Szentháromság malasztja tündöklik azon,<br/>mert Gábriel arkangyal ekképp köszöntött,<br/>Üdvözlégy Szűz Mária, ekképp üdvözlött.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözlégy mifelettünk, szép Szűz Mária,<br/>Te lettél a Szentlélek szép mennyasszonya,<br/>Áldott legyél ezerszer, szép Szűz Mária,<br/>Szent szívedből sugárzik üdvösség napja.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Üdvözlégy Szűz Mária szeplőtelen Szűz,<br/>Tenéked a Szentlélek gyöngykoronát fűz.<br/>Köszöntünk Szűz Mária, nefelejcsvirág,<br/>mert tégedet választott a Szentháromság.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jaj, mily édes volt néked itten zengeni,<br/>Szeplőtelen Szívedet megköszönteni.<br/>Fogadj minket kedvesen, szép Szűz Mária,<br/>Zöldellő szép rozmaring, egek Asszonya.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Angyali szemeiddel nézz le mireánk,<br/>hoztunk neked koronát, égi Pátrónánk!<br/>Üdvözletünk virága tündöklik benne,<br/>legyen nevünk felírva drága kebledbe’!<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hogyha eljön életünk végső órája,<br/>vedd magadhoz lelkünket, szép Szűz Mária!<br/>Ez legyen a mi lelkünk végső óhaja,<br/>hogy Tehozzád juthassunk szép mennyországba.<br/>Egy szívvel zengedezzük, buzgó örömmel,<br/>ó Mária Szűzanyánk, kérünk, ne hagyj el!</lines>
+    </verse>
+  </lyrics>
+</song>

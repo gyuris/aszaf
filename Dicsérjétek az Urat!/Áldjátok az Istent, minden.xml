@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Áldjátok az Istent, minden</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="462"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjátok az Istent, minden angyalai,<br/>ti erős hatalmak, kik hallván hangját,<br/>megteszitek híven az ő parancsát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, mi Urunk!<br/>(*)<br/>mily csodálatos a te neved az egész földön!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Szent Magdolna elmene ama</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Magdolna elmene ama reggel sírva,<br/>az Úr Jézust nem lelé a kinyílott sírba'.<br/>Erre, arra sírva jár, nincsen nyugovása,<br/>elvesztette Jézusát, nincs vigasztalása.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hol lelem fel Jézusom, akit elvesztettem,<br/>merre menjek, én szegény, keserűségemben?<br/>Erdőkön és hegyeken kiáltozom érted,<br/>halmokon és völgyeken csak tégedet kérdlek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tengerekre indulok, örvényekre szállok,<br/>tenger mélye mit nekem, ha nyomodban járok!<br/>Újra a szent városon, mindig egy a jártom:<br/>Jézus, Jézus merre vagy? – szüntelen kiáltom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Merre láttad Őt, felelj fényes nap az égen<br/>te tudod tán merre jár az én fényességem!<br/>Három-király csillaga, mutass nékem utat,<br/>mert amíg fel nem lelem, szívem meg nem nyughat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Volna bár a vállamon szárnyam, mint a sasnak,<br/>édes Jézus, utánad szállnék, a magasnak.<br/>Levették a keresztről, eltemették sírba,<br/>ah, de üres már a sír, elgördült a szikla.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mégis újra visszahív sírjához a lélek,<br/>hátha mégis visszajő? Oda visszatérek.<br/>S míg a kertészt keresem, s „Uram hol van?” kérdem,<br/>Ő megszólít: „Mária!” s megroskad a térdem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó háromszor boldog, én, Uram megismertem,<br/>mennyei szent szeretet elárasztja lelkem.<br/>Jézust látni szüntelen: semmi sincs oly édes,<br/>nincs boldogság fogható lelkem öröméhez.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hogyha enyém Jézusom, enyém lesz az élet,<br/>Engedj Uram, örökké egyesülni Véled!</lines>
+    </verse>
+  </lyrics>
+</song>

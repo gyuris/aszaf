@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>Feltámadott Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feltámadott Krisztus megváltásunkra,<br/>Utat nyitott mennyországba örök boldogságra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ádám bűne miatt mind bűnbe estünk,<br/>Az Istennek kegyelmére méltók nem lehettünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De a Krisztus Jézus terhünk fölvette,<br/>A hatalmas Atyaistent értünk engesztelte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Feltámadott Krisztus!” Sokszor kiáltjuk,<br/>De a bűnnek nagy rútságát, jaj, mégsem utáljuk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogyha bűnben élünk és meg nem térünk,<br/>Akkor Krisztus kínhalála nem használ minékünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Támadjunk fel azért minden bűnünkből,<br/>Hogy örömmel részesüljünk Húsvét kegyelméből.</lines>
+    </verse>
+  </lyrics>
+</song>

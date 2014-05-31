@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Jézus teste, Jézus vére</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus teste, Jézus vére,<br/>édesanyád hű szívére<br/>kérünk Téged, jöjj el hozzánk,<br/>vigasztald meg könnyes orcánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus teste, Jézus vére,<br/>Mennyországod örömére<br/>Maradj nálunk szent Ostyában<br/>Szentlelkeddel és Atyáddal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus teste, Jézus vére,<br/>lelkeink megmentésére,<br/>Ott virrasztasz oltárunkon,<br/>könyörülj meg e világon!</lines>
+    </verse>
+  </lyrics>
+</song>

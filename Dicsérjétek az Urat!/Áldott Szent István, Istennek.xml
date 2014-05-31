@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Áldott Szent István, Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="452"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott Szent István, Istennek szolgája,<br/>Krisztus hitének igaz plántálója,<br/>Bálványozásnak eltávoztatója<br/>és elrontója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalmas Isten kegyes jóvoltából<br/>adaték nékünk magas mennyországból,<br/>utat, hogy lelnék gonosz pogányságból,<br/>régi vakságból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jobbodra kérünk, amely ma is épen,<br/>légy közbenjárónk, szent Király, az égben,<br/>könyörülj újból e veszendő népen<br/>jó atya képpen.</lines>
+    </verse>
+  </lyrics>
+</song>

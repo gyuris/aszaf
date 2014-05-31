@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Örvendezzünk mindnyájan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendezzünk mindnyájan az Úrban, ünnepi napot ülvén (N. szent) -nek tiszteletére;<br/>kinek ünnepén örülnek az angyalok és magasztalják az Istennek Fiát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséges az Isten az Ő szentjeiben,<br/>(*)<br/>csodálatos fölségű, amikor jeleket művel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>- Akik könnyhullatással vetnek * örvendezéssel aratnak.<br/>- Menvén mentek és sírtak * míg elvetni vitték a magokat.<br/>- Megjővén pedig örvendezéssel jönnek * hozván az ő kévéiket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ti szentek, örvendjetek az Úrban,<br/>mert az igazakhoz illik a dicséret!</lines>
+    </verse>
+  </lyrics>
+</song>

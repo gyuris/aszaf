@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>A keresztfához megyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A keresztfához megyek,<br/>Mert máshol nem lelhetek<br/>Nyugodalmat lelkemnek.<br/>S ott talállak ó Szűzanya,<br/>Fájdalom közt bágyadozva,<br/>Tőr veré át lelkedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mely gyötrelem volt neked<br/>Isteni szülöttedet<br/>Látni szegény jászolban.<br/>S midőn annyi ellenségek<br/>Romlására esküvének:<br/>Tőr veré át lelkedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De midőn ezek felett<br/>Láttad mennyit szenvedett,<br/>Szenvedett az ártatlan:<br/>Láttad őt a Kálvárián<br/>Két lator közt a keresztfán,<br/>Kínodat ki mérje meg?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nap elsötétedett,<br/>Ennyi kínt nem nézhetett,<br/>Borzadván rengett a föld<br/>Sírt, kesergett, gyászolt minden<br/>Az egész nagy természetben:<br/>De gyötrelmed nagyobb volt!</lines>
+    </verse>
+  </lyrics>
+</song>

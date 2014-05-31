@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Boldog város, Jeruzsálem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog város, Jeruzsálem, békességes látomás,<br/>melyet égben építettek, élő kőből rakva fel,<br/>s angyaloknak kara díszít: mennyegzői koszorú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megérkezvén a magasból várta menyegzői ház,<br/>hogy az Úrnak eljegyezve Néki éljen egyedül.<br/>Minden fala színaranyból, fénylik minden bástyafok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kapuja, mely gyönggyel ékes, s szentélye, ha megnyílik,<br/>érdemeknek erejéből bebocsátást nyer oda,<br/>aki Krisztus szent nevéért itt a földön gyötretik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jó alapnak, Szegletkőnek Krisztus az, ki küldetett,<br/>ő a házat anyagában kétszeresen megköti,<br/>akit Sion híven vállalt, Benne hívőn fennmarad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szaggatással, gyötretéssel megmunkálva a kövek,<br/>jó helyükre elkerülnek dolgos kezek művivel,<br/>a legszentebb épületnek így lesznek mind részei.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten előtt igen kedves, szent e város szerfölött,<br/>dicsérete széphangzású, s ujjongó az éneke,<br/>amidőn a Három-Egyet énekszóval hirdeti.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó nagy Isten, kérve kérünk, templomodba jöjj közénk,<br/>te kegyelmes jóságoddal kérésünket elfogadd,<br/>s áldásodat bőven áraszd mindenkor e szent helyen!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nyerjék meg itt, amit kérnek esdekelve mindenek, s<br/>amit kaptak, meg is tartsák szentjeid közt szüntelen,<br/>és az égi honba érve békességre jussanak!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(Meghajolva)<br/>Magasságos nagy Istennek légyen áldás, tisztelet,<br/>Atyának és szent Fiának, s velük a Szentléleknek,<br/>Hódolattal, dicsérettel zengjünk minden századon!<br/>Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

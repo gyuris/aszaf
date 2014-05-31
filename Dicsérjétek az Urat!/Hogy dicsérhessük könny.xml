@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Hogy dicsérhessük könny</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="429"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogy dicsérhessük könnyű énekszóval,<br/>s elmondjuk élted tündöklő csodáit:<br/>bűnös nyelvünknek kötelékét oldd meg,<br/>Szent János mártír!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gábriel angyal szólott egykor rólad,<br/>születésedről atyádnak jövendölt,<br/>életed rendjét s nevedet hirdette<br/>mennyei hírrel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ám atyád nem hitt az angyali szónak,<br/>s mert kételkedett, megnémult a nyelve.<br/>De megszületvén feloldottad újra<br/>ajkának zárát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Magzati létben, mikor rejtve voltál<br/>már fölismerted a hozzád jött Krisztust,<br/>kit mindeneknek anyád megjelentett,<br/>tudva a titkot.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Puszta csöndjében éltél gyermekkortól,<br/>világ dolgait hagyván a világra,<br/>lelki kincseid: tisztaság, erősség,<br/>mártír-tanúság.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mind a próféták csak hirdették Krisztust,<br/>s eljövetelét epekedve várták,<br/>de te megláttad, s hittel rámutattál:<br/>„Íme, a Bárány!”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jordán partjánál keresztséget osztva,<br/>folyó vizébe merítetted Jézust,<br/>emberek között nem volt nagyobb nálad,<br/>föld kerekségén.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Segíts, Szent János, pusztában Kiáltó:<br/>teremje lelkünk bűnbánat gyümölcsét,<br/>s örök hon felé vándorlépteinknek<br/>készítsd az ösvényt!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsőség néked, mindenható Isten,<br/>három személyben egylényegű Fölség,<br/>tisztelet, áldás, himnusz illet téged<br/>most és örökké. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

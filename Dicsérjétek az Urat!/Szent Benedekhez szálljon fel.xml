@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Szent Benedekhez szálljon fel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="438"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Benedekhez szálljon fel az ének,<br/>zengjen szívünkből ünnepi dicséret,<br/>jó Atyánk, hozzád, kit szent kegyelmével<br/>Isten megáldott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még ifjú voltál, de szíved már érett,<br/>szent tüzet gyújtott benne a Szentlélek,<br/>testedet példás fegyelembe törted,<br/>győzött a lelked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztusi férfi, te, ki ura lettél<br/>száz szenvedéllyel lázadó magadnak:<br/>Krisztusnak édes igáját te adtad<br/>barbár Nyugatnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most mi is bátran nyomdokodba lépünk,<br/>szent Reguláddal, kérjük, légy vezérünk,<br/>építsünk együtt Istennek országot:<br/>szent  atya, Áldott!</lines>
+    </verse>
+  </lyrics>
+</song>

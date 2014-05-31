@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Krisztus Jézus Nagyanyjának</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="441"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Jézus Nagyanyjának, dicsőséges szent Annának<br/>zengjen buzgó éneket szívünkből a szeretet.<br/>Kérünk te szent magzatodért, és kit ő szült: Megváltónkért.<br/>Szent Anna, szent Anna, Krisztus Jézus nagyanyja,<br/>légy híveid oltalma!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Védelmezze pártfogásod mindenkor az ifjúságot,<br/>családjaink gondjukban éljenek oltalmadban.<br/>Kérünk te szent magzatodért, és kit ő szült: Megváltónkért.<br/>Szent Anna, szent Anna, Krisztus Jézus nagyanyja,<br/>légy híveid oltalma!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigasztald a szenvedőket, az ínséggel küszködőket,<br/>minden árvát s özvegyet segítsen föl szent kezed.<br/>Kérünk te szent magzatodért, és kit ő szült: Megváltónkért.<br/>Szent Anna, szent Anna, Krisztus Jézus nagyanyja,<br/>légy híveid oltalma!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S ha végóránk elközelget, légy halálos ágyunk mellett,<br/>hogy isteni unokád adjon égi koronát.<br/>Kérünk te szent magzatodért, és kit ő szült: Megváltónkért,<br/>Szent Anna, szent Anna, Krisztus Jézus nagyanyja,<br/>légy híveid oltalma!</lines>
+    </verse>
+  </lyrics>
+</song>

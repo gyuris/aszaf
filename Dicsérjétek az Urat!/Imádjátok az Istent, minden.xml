@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Imádjátok az Istent, minden</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="560"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádjátok az Istent, minden angyalai,<br/>és ujjongjanak Júda leányai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Félik majd a népek a te nevedet, Uram,<br/>(*)<br/>a föld királyai tisztelik dicsőségedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csodálkoztak mindnyájan azokon,<br/>amik az Istennek szájából származtak.</lines>
+    </verse>
+  </lyrics>
+</song>

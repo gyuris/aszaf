@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Ó mi Szent Atyánk, irgalmas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó mi Szent Atyánk, irgalmas és kegyes!<br/>Isten szent Fia, Urunk Jézus Krisztus!<br/>Ó Vigasztaló, éltető Szent Lélek:<br/>Egy örök Isten!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Szentháromság, nagy és erős Egység!<br/>Igaz istenség, mérhetetlen jóság!<br/>Angyalok fénye, árva népnek vigasz:<br/>Világ reménye!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amit alkottál, mind tenéked szolgál,<br/>sok teremtményed megdicsőít téged,<br/>mi is tenéked dicséretet zengünk:<br/>hallgasd meg, kérünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőség néked mindenható Isten,<br/>három személyben egylényegű Fölség,<br/>tisztelet, áldás, himnusz illet Téged<br/>most és örökké. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

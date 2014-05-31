@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:30">
+  <properties>
+    <titles>
+      <title>A jó Pásztor táplálja juhait</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A jó Pásztor táplálja juhait, alleluja,<br/>S életét adja értünk, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ujjongjatok Istennek, minden földek, zsoltárt zengjetek nevének,<br/>Adjatok dicséretet dicsőségének, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja!<br/>Váltságot küldött az Úr, * váltságot az ő népének.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én vagyok a jó Pásztor, és ismerem enyéimet,<br/>s ismernek engem enyéim, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kis idő, s nem láttok engem,<br/>ismét kis idő s megláttok engem,<br/>mert az Atyához megyek,<br/>alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Énekeljetek az Úrnak új éneket: csodadolgokat cselekedett, alleluja.<br/>Kinyilatkoztatta igazságát, alleluja, a nemzetek színe előtt, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Alleluja!<br/>Az Úr jobbja győzelmet szerzett, * az Úr jobbja felmagasztalt engem.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Békességet hagyok rátok, alleluja,<br/>Az én békémet adom nektek, alleluja.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>„Én vagyok az igaz szőlőtő”, alleluja,<br/>„s ti a szőlővesszők,” alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

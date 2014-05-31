@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:34">
+  <properties>
+    <titles>
+      <title>Ha a gonoszságokat számon</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="585"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha a gonoszságokat számon tartod, Uram,<br/>ki áll meg akkor teelőtted?<br/>De nálad kegyelem vagyon,<br/>Izrael Istene.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Íme, mily jó és mily gyönyörűséges<br/>(*)<br/>a testvéreknek együtt lakozni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vedd el rólam a szégyent és a megvetést,<br/>mert a te rendeléseidet kutatom, ó Uram,<br/>a te bizonyságaid nekem gyönyörűségem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+  <properties>
+    <titles>
+      <title>Hullassatok egek csillog</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hullassatok egek csillogó harmatot,<br/>Jöjj el, ó, Jézusom, búban elhervadok.<br/>Nyílj meg alvó mező, teremd meg üdvömet,<br/>Jöjj el, ó, Jézusom üdvözíts engemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mézzel csorduljatok álmodó hegyfalak,<br/>Jöjj el, ó, Jézusom szóra nyisd ajkamat.<br/>Holdas szemű leány, hozd el Őt, Mária,<br/>Jöjj el, ó, Jézusom Betlehem csillaga.</lines>
+    </verse>
+  </lyrics>
+</song>

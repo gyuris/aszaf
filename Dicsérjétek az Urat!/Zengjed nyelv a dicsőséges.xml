@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:31">
+  <properties>
+    <titles>
+      <title>Zengjed nyelv a dicsőséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjed nyelv a dicsőséges Test titkát, s a drága Vért,<br/>melyet hullatván értékes váltságul az emberért,<br/>a föld Ura, a fölséges méh gyümölcse nem kímélt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egünk küldte, s nekünk szülte tiszta Szűz, szeplőtelen,<br/>köztünk élt és hinté földre az igét, mely jót terem,<br/>s csodás szertartással ülte búcsúestjét idelenn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert a végső estebédet tartván Ő és társai,<br/>együtt a törvényes étket jámborul fogyasztani,<br/>étkül a tucatnyi népnek önmagát osztotta ki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A kenyeret öntestévé igézte az Ige-Test,<br/>s a bor lett Krisztus vérévé: magyarázni ne keresd!<br/>Hit dolga és igaz szívé, hogy erősen tartsa ezt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Méltó ezt a nagy Szentséget térdrehullva áldani,<br/>és a régi Szövetséget új rítussal váltani,<br/>pótolják a rest érzéket a merész hit szárnyai!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az Atyának és Fiának légyen áldás, dicsőség,<br/>üdv, hozsanna és imádat, ujjongások hirdessék,<br/>s aki Kettejükből árad: a Lélek is áldassék. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

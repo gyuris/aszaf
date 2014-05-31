@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:33">
+  <properties>
+    <titles>
+      <title>Zengje a szívünk, énekelje</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="474"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengje a szívünk, énekelje nyelvünk<br/>Szent Márton püspök életének hírét,<br/>kit három ország magáénak mondhat,<br/>és bízva kérhet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Értelme éles, életében józan,<br/>római császár derék katonája,<br/>s hittanulóként szívében már érik Isten igéje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalmas szívvel meglátja a koldust,<br/>őt felruházván megismeri Krisztust,<br/>majd érett fejjel messzi Galliában<br/>papja lesz néki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És íme: püspök Túrnak (Tours) városában,<br/>nagy méltóságban egyszerűen élvén,<br/>védelmezője ragadozók ellen s atyja a nyájnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Márton, kérünk, ki már célhoz értél,<br/>főpapok dísze, légy a papok őre,<br/>s a magyar földet, hol születtél egykor,<br/>mint atyánk, óvjad!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+  <properties>
+    <titles>
+      <title>Isten, ki az időnek határát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, ki az időnek határát kimérted,<br/>örök bölcsességeddel sorsunkat intézed,<br/>Elődbe most ez évnek estéjén imádva<br/>jő néped és egy szívvel, s lélekkel kiáltja:<br/>Hála tenéked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindenlátó, te láttad minden lépteinket,<br/>Erős jobbod megőrzött a veszélytől minket.<br/>Az élet, az egészség s malasztodnak árja,<br/>mind jóságos hatalmad kegyes adománya.<br/>Hála tenéked!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ah, de mi jóvoltoddal sokszor visszaéltünk,<br/>elhagytunk és a bűnnek ösvényére tértünk.<br/>De te minket jó Pásztor, az örök életre<br/>óhajtottál megnyerni s kerestél szeretve.<br/>Hála tenéked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hívásodat követvén, jobbulást ígérünk,<br/>hogy ebben az újévben csak tenéked élünk.<br/>Segíts meg szándékunkban, hogy azt megtarthassuk,<br/>s élet-esténk, ha eljő, nyugodtan mondhassuk:<br/>Hála tenéked!</lines>
+    </verse>
+  </lyrics>
+</song>

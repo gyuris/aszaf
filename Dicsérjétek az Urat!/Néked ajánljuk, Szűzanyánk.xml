@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+  <properties>
+    <titles>
+      <title>Néked ajánljuk, Szűzanyánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néked ajánljuk, Szűzanyánk,<br/>a legszebb hónap alkonyát,<br/>Ezer nép híven zengi ma:<br/>ó üdvözlégy, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiad legyőzte a halált,<br/>most vigadj, mert a mennybe szállt,<br/>s téged is fölvisz már oda:<br/>ó üdvözlégy, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feledve most a földi bajt,<br/>a húsvétról zeng minden ajk,<br/>és veled örvend Szűzanya:<br/>ó üdvözlégy, Mária.</lines>
+    </verse>
+  </lyrics>
+</song>
