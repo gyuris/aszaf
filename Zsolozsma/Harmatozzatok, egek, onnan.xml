@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Harmatozzatok, egek, onnan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok, egek, onnan felülről, és ti felhők, hullassátok közénk az Igazat! Nyíljék meg a föld, teremje az Üdvözítőt, és sarjadjon vele szabadulás is!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mihelyt meghallottam köszöntésed szavát, az örömtől megmozdult méhemben a gyermek, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Megváltó Krisztusunk azért jött közénk, hogy megtisztítson minket a bűntől. Ör­ vendezve kiáltsunk hozzá: Jöjj el, Urunk, Jézus!<br/>Aki a próféták jövendölése szerint, testben születtél,<br/>- erősíts meg minden jót, amely lelkűnkben születik!<br/>Add meg nekünk, hogy mi, akik a megváltás örömhírét hirdetjük,<br/>- üdvösségünket megtaláljuk benned!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te eljöttél, hogy gyógyítsd a megtört szívűeket,<br/>- orvosold néped lelki sebeit!<br/>Te azért jöttél, hogy engesztelést adj az egész világért,<br/>- engedd el minden büntetésünket az ítélet napján!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, te megszántad az embert, amikor bukásá­val halált érdemelt, és úgy határoztál, hogy Egyszülöttedet küldöd megváltásunkra. Add kérünk, hogy akik alázatos szívvel valljuk a megtestesülés titkát, részesedj ünk a megváltás kegyelmében. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

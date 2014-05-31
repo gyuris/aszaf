@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:25">
+  <properties>
+    <titles>
+      <title>Csillagvilágot alkot</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csillagvilágot alkotó,<br/>hívőknek áldott fénysugár,<br/>mi Megváltónk, jöjj, Krisztusunk,<br/>és halld meg esdő sóhajunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megszánva árva népedet,<br/>nehogy halálban vesszen el,<br/>a bűnre hoztál gyógyulást,<br/>a fásult földnek újulást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A vak világnak éjjelén<br/>mint nászházából vőlegény<br/>a tiszta Szűztől földre lépsz<br/>ki zárt szentélyed volt előbb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Erőd, hatalmad mindenek<br/>tisztelvén térdet hajtanak,<br/>az égiek s a földiek<br/>szent Úrnak téged vallanak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hozzád könyörgünk, Krisztusunk,<br/>ki egykor mint bíró ítélsz,<br/>jöjj, hárítsd el ma őrizőn<br/>az ártó ellen fegyverét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Most néked, Krisztus, nagy Király,<br/>s Atyádnak áldás, tisztelet,<br/>magasztalja a Lelket is<br/>a zengő ének szüntelen. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Íme, eljön, akit várva várnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, eljön, akit várva várnak a nemzetek, és dicsőség tölti be az Úr házát, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj el, Urunk, ne késlekedjél: oldozd fel választott népedet a bűntől!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, elérkezett már az idők teljessége, amikor Isten elküldte Fiát a földre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A békesség Istene szenteljen meg benneteket, hogy tökéletesek legyetek. Őrizze meg szellemeteket, lelketeket és testeteket feddhetetlenül Urunk, Jézus Krisztus eljöveteléig! Aki meghívott benneteket, az hűséges, és végbe is viszi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kedves Testvéreim! Kérjük alázattal és hívjuk örvendezve Jézus Krisztust, aki Szűz Máriától született: Jöjj el, Urunk, Jézus!<br/>Isten egyszülött Fia, te úgy jössz el, mint a szövetség igaz hírnöke, - fogadjon be és ismerjen el téged a világ! Te, az Atya szülötte, eljöttél, és Szűz Mária által testet öltöttél,<br/>- tisztíts meg emberi mivoltunk minden romlottságától!<br/>Te vagy az élet, mégis eljöttél, hogy értünk halált szenvedj,<br/>- ments meg minket az örök halál büntetésétől!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te, aki az ítélet napján jutalmat is hozol,<br/>- sokszor tapasztalt irgalmaddal ébressz bennünk új buzgóságot!<br/>Krisztus Urunk, te haláloddal segítettél a meghaltakon,<br/>- hallgasd meg elhunytjainkért mondott imádságunkat!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérünk téged, Úristen, ontsd lelkűnkbe szent kegyelmedet, hogy akik az angyali üzenet által szent Fiadnak, Jézus Krisztusnak megtestesülését megismertük, az ő kínszenvedése és keresztje által a feltámadás dicsőségébe eljussunk. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Idők rendjét megtartva most</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idők rendjét megtartva most<br/>a harmadik óránk során<br/>szálljon hozzád szívünk szava,<br/>hármas felségű Istenünk,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>hogy szívünkben ma ugyanaz<br/>a Szentlélek vegyen lakást,<br/>ki egykor épp e napszakon<br/>a szent apostolokra szállt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Követve ezt a kezdetet,<br/>egész világnak fénye lett,<br/>és mennyországot alapít,<br/>hol égi díja vár reánk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjük őt, ki jó Atyánk,<br/>és egyszülött örök Fiat,<br/>s a Szentlelket, ki vigaszunk<br/>meg nem szűnő időkön át. Ámen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A próféták megjövendölték: Szűz Máriától születik a Megváltó.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:25">
+  <properties>
+    <titles>
+      <title>Erős városunk minekünk Sión</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erős városunk minekünk Sión, az Üdvözítő lesz benne a kőfal és a sánc: nyissátok ki a kapukat, mert velünk az Isten, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti szomjazok, gyertek a vizekre mind, keressétek az Urat, amíg megtaláljátok, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, eljön az Úr nagy hatalommal, fényt gyújt szolgái szemének, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt az óra, hogy fölébredjünk az álomból: üdvösségünk közelebb van, mint amikor hívők lettünk. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, és oltsuk fel a világosság fegyvereit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>\  V. Krisztus, az élő Isten Fia, * Irgalmazz nekünk! Krisztus.<br/>F. Te eljössz a világra. * Irgalmazz nekünk! Dicsőség az Atyának. Krisztus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nézd, elküldöm hírnökömet, hogy elkészítse előtted az utat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kedves Testvéreim! A mi Urunk Jézus Krisztust, az élők és holtak bíráját imádságos lélekkel kérjük:  Jöjj el, Urunk, Jézus!<br/>Krisztus Urunk, te azért jöttél, hogy üdvözítsd a bű­ nösöket,<br/>- védelmezz minket a kísértések minden támadása ellen!<br/>Hisszük, hogy eljössz ítélni a világot,<br/>- mutasd meg rajtunk üdvözítő hatalmadat!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Add, hogy a lélek erejével teljesítsük parancsaidat,<br/>- és így örvendező szeretettel várjuk eljöveteledet!<br/>Te, aki áldott vagy mindörökké, add, hogy kegyelmedből buzgón és szentül éljünk e világban,<br/>- míg reménykedve várjuk az örök boldogságot és dicsőséges eljöveteledet.<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mindenható, irgalmas Istenünk, segíts, hogy szent vágyakozással siessünk Fiad elé. Örök bölcsességeddel nevelj minket, hogy evilági elfoglaltságaink ne akadályozzanak találkozásunkban szent Fiaddal. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

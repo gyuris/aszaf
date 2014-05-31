@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:28">
+  <properties>
+    <titles>
+      <title>Felragyogott számunkra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felragyogott számunkra az ősidőktől készített megváltásunk és örök boldogságunk új napja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr elküldte szeretetét és hűségét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A földre megszületett nekünk az Úr, a Királyok Királya: íme, már elérkezett a világ Üdvössége, a mi megváltásunk, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ami kezdettől fogva volt, amit hallottunk, amit a szemünkkel láttunk, amit szemléltünk és amit a kezünkkel tapintottunk: az élet Igéjét hirdetjük nektek. Igen, az élet megjelent, láttuk, tanúságot teszünk róla, és hirdetjük nektek az örök életet, amely az Atyánál volt és megjelent nekünk. Amit láttunk és hallottunk, azt nektek is hirdetjük, hogy ti is közösségben legyetek velünk. Mi ugyanis az Atyával és az ő Fiával, Jézus Krisztussal vagyunk közösségben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Boldog az az édesanya, aki az örök Atya Fiát hordozta; boldog, aki keblén táplálta Krisztus Urunkat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az angyalok békét hirdettek a világnak Krisztus születésekor. Ünnepeljük őt örömmel, és áhítatos lélekkel kérjük: Születésed hozza meg a békességet mindnyájunknak!<br/>Halmozd el, Urunk, minden jóval Egyházadat,<br/>- amelyet születésed titka örömmel tölt el!<br/>Te úgy jöttél közénk, mint legfőbb Pásztorunk és lelkünk gondviselője,<br/>- tedd sokféle kegyelmed hűséges közvetítőivé a pápát és a püspököket!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Örökkévalóság Királya, te születéseddel vállaltad a rövidre szabott földi életünket, és megtapasztaltad emberi sorsunkat,<br/>- esendők és halandók vagyunk, tégy minket örökkévalóságod részeseivé!<br/>Téged vártak a századok, és te eljöttél az idők teljességében,<br/>- mutasd meg jelenlétedet azoknak, akik még mindig várnak!<br/>Te emberré lettél, és megújítottad a halál által megrontott emberi természetet,<br/>- add meg az elhunytaknak a teljes megújulást!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mindenható, örök Isten, te vagy híveid világossága. Áraszd jóságosán mennyei dicsőségedet az egész világra, hogy minden nép fölött felragyogjon tiszta fényed. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

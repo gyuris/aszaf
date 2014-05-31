@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Nézzétek, milyen dicsőséges</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézzétek, milyen dicsőséges ő, aki eljön a népek üdvözítésére!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami egyenetlen, váljék egyenessé, ami göröngyös, legyen sima úttá! Jöjj el, Urunk, ne késlekedjél, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uralma nagyra növekszik, és békéje nem lát soha véget, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örüljetek az Úrban szüntelenül! Újra csali azt mondom, örüljetek! Jóságos emberségeteket ismerje meg mindenki! Az Úr közel van!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kedves Testvéreim! Megváltó Krisztusunkat, áld az emberek üdvözítésére jön, kérjük bizalommal: Jöjj el, Urunk, Jézus!<br/>Krisztus Urunk, te megtestesülésed titka által kinyilat­ koztattad a világnak isteni dicsőségedet,<br/>- adj nekünk életet eljöveteled által!<br/>Te magadra vetted gyengeségeinket,<br/>- részesíts minket irgalmadban!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Amikor magadat megalázva először jöttél közénk, megváltottad a világot a bűntől<br/>- második eljöveteledkor ments fel minket bűneink minden terhétől!<br/>Te, alti élsz és mindenen uralkodói,<br/>- engedd jóságosán, hogy birtokba vegyük el nem múló örökségünket!<br/>Te az Atya jobbján ülsz,<br/>- örvendeztesd meg az elhunytak lelkét színed látásával!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérünk téged, Úristen, ontsd lelkűnkbe szent kegyelmedet, hogy akik az angyali üzenet által szent Fiadnak, Jézus Krisztusnak megtestesülését megismertük, az ő kínszenvedése és keresztje által a feltámadás diesőségébe eljussunk. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Nem veszti el Júda</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem veszti el Júda a fejedelmi pálcát, sem utóda a vezérséget, míg el nem jön az Elküldendő, akire a népek várakoznak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten elküldte Gábor angyalt Szűz Máriához, József jegyeséhez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretett Testvéreim! Kérjük Krisztus Urunkat, aki megvilágosít minden embert, és mondjuk örvendezve: Jöjj el, Urunk, Jézus!<br/>Jelenléted fényessége oszlassa el bennünk a sötétséget,<br/>- és tegyen minket méltóvá ajándékaidra!<br/>Erősíts meg minket, Urunk, Istenünk,<br/>- hogy ma is magasztaljuk szent nevedet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lobbantsd lángra szívünket, hogy epedve szomjazzon téged,<br/>- és sóvárogva kívánjon egyesülni veled!<br/>Aki magadra vetted gyengeségeinket,<br/>- siess ma a betegek és a haldoklók megsegítésére!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, az angyali üdvözletkor a te végtelen, örök Igédet úgy fogadta a szeplőtelen Szűz, mint Isten szent temploma, melyet elárasztott a Szentlélek fénye. Engedd, kérünk, hogy példáját követve alázattal vállaljuk szent akaratod teljesítését. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Örüljetek az Úrban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örüljetek az Úrban szüntelenül! Újra csak azt mondom, örüljetek' Jóságos emberségeteket ismerje meg mindenki! Az Úr közel van!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Urunk és népednek vezérlő Fejedelme! Te megjelentél Mózesnek az égő csipkebokorban, és neki a Sínai-hegyen törvényt adtál: Jöjj, válts meg minket kitárt karoddal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Megváltó Krisztusunkat, aki az emberek üdvözítésére jön, kérjük bizalommal: Jöjj el, Urunk, Jézus!<br/>Krisztus Urunk, te megtestesülésed titka által kinyilatkoztattad a világnak isteni dicsőségedet,<br/>- adj nekünk életet eljöveteled által!<br/>Te magadra vetted gyengeségeinket,<br/>- részesíts minket irgalmadban!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amikor magadat megalázva először jöttél közénk, megváltottad a világot a bűntől,<br/>- második eljöveteledkor ments fel minket bűneink minden terhétől!<br/>Te, aki élsz és mindenen uralkodói,<br/>- engedd jóságosán, hogy birtokba vegyük el nem múló örökségünket!<br/>Te az Atya jobbján ülsz,<br/>- örvendeztesd meg az elhunytak lelkét színed látásával!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható Istenünk, a bűn szolgaságra vetett minket, és így ősidőktől fogva igája alatt görnyedünk. Engedd, hogy Fiad születésének várva várt ünnepe szabaddá tegyen minket. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

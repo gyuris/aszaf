@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:28">
+  <properties>
+    <titles>
+      <title>Mária szívébe véste</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária szívébe véste a pásztorok szavait, és el-el­ gondolkodott rajtuk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nép, amely sötétségben jár, nagy fényességet lát; akik a halál országának árnyékában laknak, azoknak világosság támad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V. Meglátta a föld minden határa, alleluja,<br/>F. Istenünk hozott nekünk szabadulást, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

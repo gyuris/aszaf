@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Isten elküldte tulajdon Fiát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten elküldte tulajdon Fiát a bűn miatt a bűnös testhez hasonló alakban, hogy elítélje a testben levő bűnt, és hogy a törvény beteljesedjék rajtunk, akik már nem a test, hanem a Lélek szerint élünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szűz Mária, általad beteljesedett a próféták jövendölése, amelyet Krisztusról hirdettek: szűzen fogantad, és szűzen szülted őt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Kérjük mennyei Atyánkat, áld úgy szeretett minket, hogy egyszülött Fiát küldte hozzánk, és hangos szóval mondjuk: Atyánk, maradjon velünk Fiad kegyelme!<br/>Szeretet Istene, Urunk, Jézus Krisztus Atyja, te megkönyörültél a sötétben tévelygőkön,<br/>- fogadd el könyörgésünket mindnyájunk üdvösségéért!<br/>Emlékezzél meg, Urunk, az egész földkerekségen elterjedt Egyházadról,<br/>- áldd meg keresztény népedet és adj békét neki!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mindenek Atyja, teremts békét a nemzetek között, fordítsd Fiad felé minden nép tekintetét,<br/>- és töltsd el vezetőiket a békesség szellemével!<br/>Fiad eljövetelekor békességet hirdettél a földön,<br/>- adj a megholtaknak örök békességet!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható Istenünk, örök Igéd megtestesülésével új hajnal virradt reánk. Add, hogy a hit fénye, amely lelkünket eltölti, tetteinkben is megnyilvánuljon. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

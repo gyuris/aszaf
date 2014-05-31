@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Íme, eljön az Úr, hogy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, eljön az Úr, hogy az előkelők sorába ül­<br/>jön, és övé legyen a dicsőség széke.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A hegyekről béke áradjon ránk, a dombok teremjenek igazságot, mert az Úr, a világ Világossága hatalmas erejével eljön hozzánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Éljünk szentül és buzgón, várakozzunk boldog reménységgel Urunk eljövetelére!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örüljetek az Úrban szüntelenül! Újra csak azt mondom, örüljetek! Jóságos emberségeteket ismerje meg mindenki! Az Úr közel van!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te vagy-e az eljövendő, vagy mást várjunk? Adjátok tudtul Jánosnak, amit láttok: Vakok látnak, halottak feltámadnak, a szegényeknek pedig hirdetik az evangéliumot, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus Krisztust, Megváltónkat, aki az út, az igazság és az élet, könyörögve kérjük: Jöjj, Urunk, és maradj velünk!<br/>Jézus, a Magasságbeli Fia, akit Szűz Máriának Gábor főangyal hirdetett,<br/>- jöjj, és uralkodjál népeden mindörökké!<br/>Te vagy az Isten Szentje, akit az Előhírnök már meg­ születése előtt ujjongva köszöntött,<br/>- jöjj, és add meg az egész világnak az üdvösség örömét!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szabadító Jézusunk, akinek nevét angyal nyilatkoztatta ki Józsefnek, az igaz férfiúnak,<br/>- jöjj, és szabadítsd meg népedet a bűn rabságából!<br/>Világ Világossága, akit Simeon és minden igaz ember várva várt,<br/>- jöjj, és vigasztalj meg minket!<br/>Felkelő Napunk, rólad jövendölte Zakariás, hogy eljössz hozzánk a magasságból,<br/>- jöjj, és hozz világosságot azoknak, akik a halál árnyékában ülnek!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Istenünk, te látod, milyen hűséges lélekkel várja néped Karácsony ünnepét. Add, kérünk, hogy Üdvözítőnk születésének nagy napjára elérkezve örvendő lélekkel, áhítatosan ünnepeljünk. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

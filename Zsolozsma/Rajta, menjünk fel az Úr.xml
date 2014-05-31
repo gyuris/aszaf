@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Rajta, menjünk fel az Úr</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rajta, menjünk fel az Úr hegyére és Jákob Istenének házába, hadd tanítson meg minket útjaira, hogy járni tudjunk ösvényein, mert Sionból jön a tanítás és Jeruzsálemből az Úr igéje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A világ Üdvözítője felkel, mint a nap, és alászáll a Szűz méhébe, mint harmat a pázsitos rétre, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Kérjük közelgő Megváltónkat, Jé­ zus Krisztust, aki azért jön, hogy a hozzá térőket kiszabadítsa a halál hatalmából. Könyörögjünk tehát: Jöjj el, Urunk, Jézus!<br/>Miközben eljöveteledet hirdetjük, Urunk,<br/>- tisztítsd meg szívünket minden evilági hiúságtól!<br/>Egyházad, Urunk, amelyet te alapítottál,<br/>- magasztaljon téged mindenütt a világon!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Törvényed, Urunk, amely világosságot ad szemünknek,<br/>- vezesse biztos úton a benned hívő népeket!<br/>Urunk te megadod Egyházadnak, hogy eljöveteled örömhírét hirdesse,<br/>- add, hogy készséges lélekkel fogadjunk téged!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, a te dicsőséged ragyogó fénye áradt ránk, amikor Fiad e világra született a Szent Szűztől. Segíts, kérnünk, hogy a megtestesülés nagy titkát mindig teljes hittel valljuk, és áldozatos odaadással ünnepeljük! A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

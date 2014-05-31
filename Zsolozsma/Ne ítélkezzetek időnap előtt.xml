@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Ne ítélkezzetek időnap előtt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="204"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne ítélkezzetek időnap előtt, míg el nem jön az Úr. Ő majd megvilágítja a sötétség titkait, és földeríti a szívek szándékait. Akkor majd mindenki megkapja az elismerést az Istentől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Jöjj, hogy megszabadíts minket, * Urunk, mindenható Istenünk. Jöjj.<br/>F. Ragyogtasd ránk arcodat, és szabadok leszünk! Urunk, mindenható Istenünk. Dicsőség az Atyának. Jöjj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, szent Virradat! Te az örök világosság Fényessége és az igazságosság Napja vagy: jöjj, és világosítsd meg azokat, akik sötétségben és a halál árnyékában ülnek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Jézus Krisztus kiszabadított min­ket a bűn sötétségéből. Kérjük alázattal és hívjuk bizalommal: Jöjj el, Urunk, Jézus!<br/>Gyújtsd egybe, Urunk, a földkerekség minden népét,<br/>- és erősítsd meg velük örök szövetségedet!<br/>Isten Báránya, te egykor azért jöttéi, hogy elvedd a világ bűneit,<br/>- vedd le rólunk a bűn minden terhét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te azért jöttél, hogy visszaszerezd, ami veszendőbe ment,<br/>- amikor ismét eljössz, üdvözítsd, akiket megváltottál!<br/>Hitünkkel téged keresünk,<br/>- amikor eljössz, találjuk meg benned az örök boldogságot!<br/>Aki megítéled az élőket és a holtakat,<br/>- fogadd be jóságosán elhunyt testvéreinket a szentek seregébe!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Urunk, Istenünk, hallgasd meg kegyesen néped kérő imáját! Örvendezve várjuk Egyszülöttedet, aki emberi testben eljött közénk. Add, hogy amikor dicsőségben újra eljön, elnyerjük tőle az örök élet jutalmát. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

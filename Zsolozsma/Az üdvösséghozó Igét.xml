@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Az üdvösséghozó Igét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az üdvösséghozó Igét,<br/>az örök Atya Gyermekét<br/>fogadd méhedbe, Mária,<br/>szeplőtlen, boldog Szűzanya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Lélek rád ragyog ma itt,<br/>árnyéka megtermékenyít,<br/>hogy hordozd a világ Urát,<br/>az Atya egyenlő Fiát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bezárt szentséges templom ez,<br/>és nem nyílik ki senkinek.<br/>A legfőbb Úrnak egyedül<br/>kínálja boldog küszöbét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Akit prófétaszó igért,<br/>s a csillag előtt született,<br/>kiről az angyal szava szól:<br/>Urunk a mennyből földre száll.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vígadnak angyalseregek,<br/>ujjonganak a nemzetek,<br/>a Fölség íme, kicsi lett,<br/>hogy megmentse, mi elveszett.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krisztus, kegyelmes nagy Király,<br/>neked s Atyádnak hódolat,<br/>a Lelket is, ki vígaszunk<br/>örökre áldja hű szavunk. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

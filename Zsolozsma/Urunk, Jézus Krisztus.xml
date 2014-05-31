@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Urunk, Jézus Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Urunk, Jézus Krisztus megjelenését várjuk, aki mindvégig megerősít minket, hogy feddhetetlenek legyünk Urunk, Jézus Krisztus eljövetelének napján. Hűséges az Isten, aki meghívott minket Fiának közösségébe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Jöjj, hogy megszabadíts minket, * Urunk, mindenható Istenünk. Jöjj.<br/>F. Ragyogtasd ránk arcodat, és szabadok leszünk! Urunk, mindenható Istenünk. Dicsőség az Atyának. Jöjj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Dávid kulcsa és Izrael királyi pálcája! Amit te megnyitottál, azt senki be nem zárja, amit te bezártál, azt senki ki nem nyitja: jöjj, szabadítsd ki a börtönből a foglyokat, akik sötétségben és a halál árnyékában ülnek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretett Testvéreim! Krisztus, a mi Urunk és Megvál­ tónk eljön az utolsó napon. Kérjük örvendezve: Jöjj el, Urunk, Jézus!<br/>Urunk és Megváltónk, te emberré lettél, és levetted rólunk az ősi törvény igáját,<br/>- áraszd reánk bőkezűen jóságodat!<br/>Magadra vetted természetünkből mindazt, ami istenségeddel nem ellenkezik,<br/>- isteni gazdagságodból add nekünk, amire vágyakozunk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eljöveteled kegyelmével szenteld meg vágyainkat,<br/>- és szereteted tüzével gyújtsd lángra szívünket!<br/>Hadd örvendezzünk veled a dicsőségben,<br/>- amint itt a földön igaz hittel és tiszta lelkiismerettel szolgálunk neked!<br/>Az elhunytak lelkét fogadd jóságodba,<br/>- harmatozd rájuk enyhítő kegyelmedet!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, az angyali üdvözletkor a te végtelen, örök Igédet úgy fogadta a szeplőtelen Szűz, mint Isten szent temploma, melyet elárasztott a Szentlélek fénye. Engedd, kérünk, hogy példáját követve alázattal vállaljuk szent akaratod teljesítését. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Ezt mondja az Úr: Vezérük</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ezt mondja az Úr: Vezérük Jákobból származik, és fejedelmük is az ő köréből. Színem elé engedem, úgyhogy elém járulhat, így ti az én népem lesztek, én meg a ti Istenetek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, beteljesedett mindaz, amit Szűz Máriáról mondott az angyal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! A mennyei Atya elküldte szent Fiát, hogy üdvözítse az embereket. Forduljunk hozzá bizalommal: Mutasd meg nekünk irgalmasságodat, Urunk!<br/>Mennyei Atyánk, segíts meg jóságosán, hogy szent Fiadat, Jézus Krisztust ne csak szóval magasztaljuk,<br/>- hanem életünkkel is megdicsőítsük!<br/>Aki Fiadat azért küldted, hogy üdvözítsen minket,<br/>- enyhítsd a szenvedést hazánkban és az egész földkerekségen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent Fiad eljövetele örömet árasztott a világra,<br/>- add, hogy minél több ember érezze a megváltás boldogságát!<br/>Add irgalmasan, hogy szentül és buzgón éljünk ezen a világon,<br/>- míg reménykedve várjuk az örök boldogságot és Krisztus Urunk dicsőséges eljövetelét.<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható, örök Isten, Fiad földi születésnapjára készülve egyre közelebb jutunk Karácsony ünnepéhez. Kérünk, hogy irgalmazzon nekünk az örök Ige, aki Szűz Máriától testté lett, és közöttünk élt. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

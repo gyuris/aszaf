@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Te, Betlehem, Júda földje</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te, Betlehem, Júda földje, nem leszel kicsiny többé,<br/>mert belőled származik a Fejedelem, aki kormányozni fogja népemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekintsetek föl, mert elérkezett megyáltástok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holnap elérkezik hozzátok az Üdvözítő,<br/>mondja az Úr, a mindenség Istene.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vessző kél majd Izáj törzsökéből, és hajtás sarjad gyökeréből. Az Úr Lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az erősség lelke; a tudás és a jámborság lelke, s eltölti őt az Úr félelmének lelke.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Holnap * A földön a gonoszság hatalma megtörik. Holnap.<br/>F. És uralkodni fog rajtunk a világ Üdvözítője. * A földön a gonoszság hatalma megtörik. Dicsőség az Atyának. Holnap.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eljött az idő, hogy Mária világra hozza elsőszülött Fiát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szeretett Testvéreim, áhítattal imádjuk Megváltó Krisztusunkat, aki eljön majd nagy hatalommal és dicsőséggel. Könyörögjünk hozzá: Jöjj el, Urunk, Jézus!<br/>Urunk, Jézus Krisztus, aki mennyei erővel érkezel,<br/>- tekints kicsinységünkre, hogy méltók lehessünk ajándékaidra!<br/>Te örömhírt hoztál az embereknek,<br/>- add, hogy állandóan hirdessük megváltó művedet!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Te, aki mindenkor áldott vagy, élsz és kormányozod a mindenséget,<br/>- add, hogy reménykedve várjuk az örök boldogságot és dicsőséges eljöveteledet!<br/>Érkezésedet sóhajtozva várjuk,<br/>- vigasztalj meg minket és részesíts isteni életedben!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kérünk, Urunk, Jézus, siess és ne késlekedjél! Eljöveteled vigasztaló öröme töltsön el minket, mert szerető jóságodban bízva bízunk. Aki élsz.</lines>
+    </verse>
+  </lyrics>
+</song>

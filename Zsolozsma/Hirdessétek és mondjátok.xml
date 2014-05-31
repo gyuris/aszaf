@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:25">
+  <properties>
+    <titles>
+      <title>Hirdessétek és mondjátok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hirdessétek és mondjátok a népeknek:<br/>íme, eljön üdvözítő Istenünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>íme, szentjeivel eljön majd az Úr,<br/>és ragyogó fényesség lesz azon a napon, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljön az Úr nagy hatalommal,<br/>és meglátja őt minden ember.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A békesség Istene szenteljen meg benneteket, hogy tökéletesek legyetek, őrizze meg szellemeteket, lelketeket és testeteket feddhetetlenül Urunk, Jézus Krisztus eljöveteléig! Aki meghívott benneteket, az hűséges, és végbe is viszi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>íme, az Úr messziről érkezik, és ragyogása betölti a földet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ujjongó örömmel várjuk mindnyájan Krisztust, és hívjuk:<br/>Jöjj, Urunk, ne késlekedj! Örömmel várjuk érkezésedet,<br/>- jöjj el, Urunk, Jézus!<br/>Te, aki az idő kezdete előtt létezel,<br/>- jöjj el, hogy az üdvösség útján járjunk földi életünk idején!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Te teremtetted a világot és mindent, ami benne él,<br/>- jöjj el, és mentsd meg kezed alkotását!<br/>Te nem vetetted meg halandó természetünket,<br/>- jöjj el, és ragadj ki minket a halál hatalmából!<br/>Te azért jöttél, hogy minél teljesebb életünk legyen,<br/>- jöjj el, és ajándékozd nekünk örök életedet!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Te minden embert egyesíteni akartál, hogy eljusson országodba,<br/>- jöjj el, és gyújtsd egybe azokat, akik látni szeretnék arcodat!<br/>Mi Atyánk ...</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mindenható, örök Isten, onts híveid szívébe szent elhatározást, hogy jótettekkel siessünk a közelgő' Krisztus elé, ő pedig egykor jobbjára állítson minket országában, és mindnyájan együtt örvendjünk a boldog örökkévalóságban. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

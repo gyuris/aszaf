@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Testvéreim! Legyetek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Testvéreim! Legyetek türelemmel az Úr eljöveteléig! Lám, a földműves türelemmel vár a föld drága termésére, míg a korai és késői eső meg nem érkezik. Legyetek türelemmel ti is! Erősítsétek meg szíveteket, mert az Úr eljövetelének ideje közel van! Nézzétek, a bíró már az ajtóban van.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Jöjj, hogy megszabadíts minket, * Urunk, mindenható Istenünk. Jöjj.<br/>F. Ragyogtasd ránk arcodat, és szabadok leszünk! * Urunk, mindenható Istenünk. Dicsőség az Atyának. Jöjj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, nemzetek Királya és szívük Kívánsága, az Egyház Szegletköve! Te egybekapcsolod ré­ gi és új választott népedet: jöjj, üdvözítsd az embert, altit a föld anyagából alkottál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! Hívjuk Krisztus Urunkat, aki ér­tünk megalázta önmagát, és örvendezve mondjuk: Jöjj el, Urunk, Jézus!<br/>Úr Jézus, te segítségére siettél a világnak,<br/>- tisztítsd meg a bűntől testünket, lelkünket!<br/>Megtestesülésed titka által testvéreidnek fogadtál minket,<br/>- ne engedd, hogy elidegenedjünk tőled!<br/>Megváltó kegyelmeddel alakíts át minket,<br/>- hogy elkerüljük a büntető ítéletet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztusunk, kimeríthetetlenül gazdag a te irgalmas jóságod,<br/>- add, hogy elnyerhessük a dicsőség hervadhatatlan koszorúját!<br/>Irgalmadba ajánljuk, Urunk, azok lelkét, akik a test kötelékeiből kiszabadultak,<br/>- hogy meghalva a világnak, neked éljenek mindörökre!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, te megszántad az embert, amikor bukásával halált érdemelt, és úgy határoztál, hogy Egyszülöttedet küldöd megváltásunkra. Add kérünk, hogy akik alázatos szívvel valljuk a megtestesülés titkát, részesedjünk a megváltás kegyelmében. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

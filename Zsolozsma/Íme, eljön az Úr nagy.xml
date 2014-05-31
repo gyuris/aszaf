@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:25">
+  <properties>
+    <titles>
+      <title>Íme, eljön az Úr nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, eljön az Úr nagy hatalommal az ég fel hőiben, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljön majd az Úr, és nem fog cserbenhagyni;<br/>még ha meg is várakoztat, türelemmel várd, mert eljön, és nem késlekedik, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr a mi törvényhozónk, az Úr a mi Királyunk: ő maga jön el, és üdvözít minket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örüljetek az Úrban szüntelenül! Újra csali azt mondom, örüljetek! Jóságos emberségeteket ismerje meg mindenki! Az Úr közel van!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg.<br/>F. És hozd meg nekünk a szabadulást! * Irgalmasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Boldog vagy, Mária, mert hitted, hogy beteljesedik benned mindaz, amit az Úr mondott neked, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kedves Testvéreim! Megváltó Krisztusunkat, aki az emberek üdvözítésére jön, kérjük bizalommal:  Jöjj el, Urunk, Jézus!<br/>Krisztus Urunk, te megtestesülésed titka által kinyilat­ koztattad a világnak isteni dicsőségedet,<br/>- adj nekünk életet eljöveteled által!<br/>Te magadra vetted gyengeségeinket,<br/>- részesíts minket irgalmadban!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amikor magadat megalázva először jöttél közénk, megváltottad a világot a bűntől,<br/>- második eljöveteledkor ments fel minket bűneink minden terhétől!<br/>Te, aki élsz, és mindenen uralkodói,<br/>- engedd jóságosán, hogy birtokba vegyük el nem múló örökségünket!<br/>Te az Atya jobbján ülsz,<br/>- örvendeztesd meg az elhunytak lelkét színed látásával!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mindenható, irgalmas Istenünk, segíts, hogy szent vágyakozással siessünk Fiad elé. Örök bölcsességeddel nevelj minket, hogy evilági elfoglaltságaink ne akadályozzanak találkozásunkban szent Fiaddal. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

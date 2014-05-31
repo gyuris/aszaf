@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Vessző kél majd Izáj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vessző kél majd Izáj törzsökéből, és hajtás sarjad gyökeréből. Az Úr Lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az erősség lelke; a tudás és a jámborság lelke, s eltold őt az Úr félelmének lelke.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tudjátok meg, hogy közel van az Isten országa. Bizony mondom nektek: Nem késik már soká!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten, a mi mennyei Atyánk öröktől fogva elhatározta, hogy üdvösségre vezeti népét. Kérjük őt, és mondjuk: Urunk, őrizd népedet!<br/>Atyánk, te megígérted, hogy Egyházad az életszentség termőföldje lesz,<br/>- őrizd meg népedet életszentségben!<br/>Atyánk, add, hogy vonzó legyen tanításod az emberek előtt,<br/>- és erősítsd meg híveidet, ne érezzék tehernek a keresztény életet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Őrizd meg bennünk szereteted Lelkét,<br/>- hogy hozzánk érkező szent Fiad irgalmát elnyerjük!<br/>Kegyelemosztó Istenünk, tégy minket mindvégig állhatatossá,<br/>- hogy az Úr Jézus Krisztus eljövetelének napjára készen álljunk!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Teremtő és megváltó Istenünk, akinek akaratából a Szűzanya ménében testet öltött az örök Ige, méltasd figyelemre kérésünket. Engedd, hogy egyszülött Fiad, aki emberi életünket vállalta, adjon részt nekünk isteni életéből. Áld veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

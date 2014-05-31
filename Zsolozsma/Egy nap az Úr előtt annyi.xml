@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Egy nap az Úr előtt annyi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy nap az Úr előtt annyi, mint ezer év, ezer év pedig annyi, mint egy nap. Az Úr nem késik ígéretét teljesíteni, ahogy némelyek késedelmeskedésnek tartják, hogy türelemmel viseltetik irántatok, mert nem akarja, hogy valaki is elvesszen, hanem hogy mindenki bűnbánatot tartson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Jöjj, hogy megszabadíts minket, * Urunk, mindenható Istenünk. Jöjj.<br/>F. Ragyogtasd ránk arcodat, és szabadok leszünk! * Urunk, mindenható Istenünk. Dicsőség az Atyának. Jöjj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>János így tett tanúságot Jézusról: Aki utánam jön, előbb volt, mint én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkünk Pásztorát és Gondviselőjét, Krisztust bizalom­ mal hívjuk segítségül: Jóságodban, Urunk, légy irgalmas hozzánk!<br/>Isten nyájának jó Pásztora,<br/>- jöjj el minden emberhez, és gyújtsd össze őket Egyházadba!<br/>Segítsd, Urunk, zarándoknéped pásztorait,<br/>- hogy gondosan legeltessek nyájadat, amíg el nem jössz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Válassz közülünk tanúságtevő igehirdetőket,<br/>- hogy a föld végső határáig hirdessék evangéliumodat!<br/>Könyörülj minden szenvedőn és azokon, akik ellan­ kadtak az élet útján,<br/>- add, hogy barátokra találjanak, akik gyámolítják őket!<br/>Mutasd meg dicsőségedet a mennyei hazában azoknak,<br/>- akik a földi életben hallgattak szavadra!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható Istenünk, indítson és vezessen mindenkor kegyelmed, hogy földi és örök életünkre segítséget kapjunk tőled, hiszen szívünk forró vágyával várjuk mindnyájan szeretett Fiad eljövetelét. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

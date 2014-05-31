@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Születésünknél fogva mi is</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Születésünknél fogva mi is a harag gyermekei voltunk, akárcsak a többi ember. De a végtelenül irgalmas Isten azzal mutatta meg nagy szeretetét irántunk, hogy Krisztussal életre keltett minket, bűneinkben halottakat is � így kegyelemből kaptátok a megváltást.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szent és tisztaságos Szűztől Isten született nekünk, aki gyenge embertestet öltött, édes anyatejjel táplálkozott: imádjuk mindnyájan, mert a mi üdvösségünkért jött.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten elküldte Fiát, aki édesanyától született és alávetette magát a törvénynek, hogy megváltsa azokat, akik a törvény hatalma alatt éltek. Erősítsen minket ez a remény és kérjük bizalommal: Atyánk, maradjon velünk Fiad kegyelme!<br/>Szeretet és béke Istene, újítsd meg minden keresztényben Fiad megtestesülésének hitét,<br/>- hogy megmaradjanak az állandó hálaadásban!<br/>Növeld a betegek, a szegények és az öregek reményét,<br/>- nyújts segítséget az elnyomottaknak, bizalmat a reményt vesztetteknek, és vigasztalást a gyászolóknak!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Emlékezzél mindazokra, akik a börtönökben sínylődnek,<br/>- és azokra, akik hazájuktól megfosztva élnek!<br/>Fiad születésekor az angyalok téged dicsőítő szózata hangzott,<br/>- add, hogy az elhunytak a mennyei seregekkel együtt örökre dicsérjenek!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, te az emberi természet méltóságát csodálatosan megalkottad, és még csodálatosabban megújítottad. Add, kérünk, hogy részesedjünk Fiad istenségében, aki szeretetből magára vette emberi természetünket. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

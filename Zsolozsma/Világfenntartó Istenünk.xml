@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Világfenntartó Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világfenntartó Istenünk,<br/>te mozdulatlan őserő,<br/>aki a napfény idejét,<br/>időszakonként megszabod,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>világos alkonyt adj nekünk,<br/>ne áldozzék le életünk,<br/>de szent halál jutalmaként<br/>örök dicsőségedbe vígy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add meg, kegyelmes jó Atya,<br/>Atyának egyszülött Fia,<br/>és Szentlélek, Vigasztalónk,<br/>egyetlen Úr, örök király. Ámen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már meglátták szemeim, akit küldtél, az Üdvözítőt. Őt adtad számunkra csodájára minden népnek.</lines>
+    </verse>
+  </lyrics>
+</song>

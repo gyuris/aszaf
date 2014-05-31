@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:28">
+  <properties>
+    <titles>
+      <title>A nép szövetségévé teszlek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nép szövetségévé teszlek, hogy állítsd helyre az országot, és birtokba vedd az elpusztult örökséget; hogy így szólhass a foglyoknak: �Mehettek!" és a sötétben ülőknek: �Jöjjetek a fényre!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Megmutatta az Úr, * Alleluja, alleluja. Megmutatta.<br/>F. Szabadító hatalmát. * Alleluja, alleluja. Dicsőség az Atyának. Megmutatta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A jászolban feküdt, de a fényes égben volt; eljött hozzánk, de az Atyánál maradt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Könyörögjünk Krisztushoz, a mennyből való emberhez, az új Ádámhoz, életünk forrásához, és mondjuk: Uram, irgalmazz!<br/>Krisztusunk, igazság Napja, te az emberiség számára felragyogtattad dicsőségedet, hogy beteljesítsd az Ószövetséget,<br/>- kérünk, árassz el bennünket világosságoddal!<br/>Krisztusunk, téged dicsőítettek az angyalok, hirdettek a pászotorok, megvallott Simeon és Anna,<br/>- tedd készségessé népedet, hogy befogadja az evangélium örömhírét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztusunk, akinek születésekor az angyalok így énekeltek: �Dicsőség a magasságban és békesség a földön!"<br/>- terjeszd ki békességedet az egész földkerekségre!<br/>Krisztusunk, második Ádám, te a régi embert újjáteremtetted és számunkra lakóhelyet készítettél országodban,<br/>- engedd, hogy akik bajok súlya alatt görnyedeznek, benned bízva erőt nyerjenek!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérünk, Urunk, Istenünk, adj rendíthetetlen szilárd hitet nekünk, akik megvalljuk Egyszülöttedet: a dicsőségben veled egy örök Istent, aki valóságos emberként született Szűz Máriától. Szabadíts meg minket a földi bajoktól, és vezess el az örök boldogságra. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

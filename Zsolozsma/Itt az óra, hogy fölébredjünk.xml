@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Itt az óra, hogy fölébredjünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt az óra, hogy fölébredjünk az álomból: üdvösségünk közelebb van, mint amikor hívők lettünk. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, és oltsuk fel a világosság fegyvereit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölöt­ ted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virrasztó szívvel várakozzatok: közel van már Urunk, Istenünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kedves Testvéreim! A mi Urunk Jézus Krisztust, az élők és holtak bíráját imádságos lélekkel kérjük: Jöjj el, Urunk, Jézus!<br/>Krisztus Urunk, te eljöttél, hogy üdvözítsd a bűnösöket,<br/>- védelmezz minket a kísértés minden támadása ellen!<br/>Hisszük, hogy eljössz ítélni a világot,<br/>- mutasd meg rajtunk üdvözítő hatalmadat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, hogy a lélek erejével teljesítsük parancsaidat,<br/>- és így örvendező szeretettel várjuk eljöveteledet!<br/>Te, aki áldott vagy mindörökké, add, hogy kegyelmedből buzgón és szentül éljünk e világban,<br/>- míg reménykedve várjuk az örök boldogságot és dicsőséges eljöveteledet.<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható Istenünk, a bűn szolgaságra vetett minket, és így ősidőktől fogva igája alatt görnyedünk. Engedd, hogy Fiad születésének várva várt ünnepe szabaddá tegyen minket. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

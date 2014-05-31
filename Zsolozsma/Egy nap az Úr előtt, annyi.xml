@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Egy nap az Úr előtt, annyi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy nap az Úr előtt, annyi, mint ezer év, ezer év pe dig annyi, mint egy nap. Az Úr nem késik ígéretét tel jesíteni, ahogy némelyek késedelmeskedésnek tartják, hogy türelemmel viseltetik irántatok, mert nem akarja, hogy valaki is elvesszen, hanem hogy mindenki bűnbánatot tartson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Jöjj, hogy megszabadíts minket, * Urunk, mindenható Istenünk. Jöjj.<br/>F. Ragyogtasd ránk arcodat, és szabadok leszünk! * Urunk, mindenható Istenünk. Dicsőség az Atyának. Jöjj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Emmánuel, törvényhozó Királyunk! Te üdvözíted a reád várakozó népeket: Jöjj és üdvözíts minket, Urunk, Istenünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megváltónkat, aki azért jött, hogy örömhírt vigyen a szegényeknek, kérjük buzgó leiekkel, és mondjuk: Lássa meg mindenki dicsőségedet!<br/>Nyilatkoztasd ki magadat mindazoknak, akik még nem ismernek,<br/>- hogy felismerjék benned üdvösségüket!<br/>Hirdessék nevedet a föld végső határáig,<br/>- hogy eljusson hozzád minden ember!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aki egykor azért jöttél, hogy megváltsd a világot,<br/>- mentsd meg a kárhozattól híveidet, amikor újra eljössz!<br/>Meghoztad a szabadságot azoknak, akik a megváltásravártak,<br/>- őrizd meg lelkünk szabadságát megváltó hatalmaddal!<br/>Emberként születve közénk jöttél, és egykor újra eljössz, hogy ítéld a világot,<br/>- kérünk, adj örök jutalmat a megholtaknak az ítélet napján!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható, örök Isten, Fiad földi születésnapjára készülve egyre közelebb jutunk Karácsony ünnepéhez. Kérünk, hogy irgalmazzon nekünk az örök Ige, aki Szűz Máriától testté lett, és közöttünk élt. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

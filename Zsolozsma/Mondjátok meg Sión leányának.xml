@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:28">
+  <properties>
+    <titles>
+      <title>Mondjátok meg Sión leányának</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondjátok meg Sión leányának: Nézd, eljön Szabadítod, mögötte diadalának jutalma, előtte meg győzelmi jelvénye. Szent népnek hívják majd őket, az Úr megváltottjainak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Megmutatta az Úr, * Alleluja, alleluja. Megmutatta.<br/>F. Szabadító hatalmát. * Alleluja, alleluja. Dicsőség az Atyának. Megmutatta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Ige testté lett, és közöttünk élt, kegyelem és igazság töltötte be; mindnyájan az ő teljességéből részesültünk, kegyelmet kegyelemre halmozva, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megváltónkat, az Isten Fiát, aki Emberfia lett, hogy megújítsa az embert, örvendezve hívjuk segítségül: Légy velünk, Emmánuel!<br/>Jézus, az élő Isten Fia, az Atya fényessége, örök világosság, dicsőség Királya, igazságosság Napja, Szűz Mária Fia,<br/>- megtestesülésed dicsőségével ragyogd be ezt a mai napot!<br/>Jézus, Csodálatos Tanácsadó, Erős Isten, Örök Atya, Béke Fejedelme,<br/>- szent emberségeddel mutass nekünk helyes életutat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus, te mindenható, türelmes, engedelmes, szelíd és alázatos szívű vagy,<br/>- mutasd meg minden embernek szelíd hatalmadat!<br/>Jézus, szegények Atyja, híveid dicsősége, jó Pásztor, igaz világosság, végtelen bölcsesség, mérhetetlen jóság, utunk és életünk,<br/>- add meg Egyházadnak a szegénység szellemét!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenünk, te Fiadnak, a Szent Szűz áldott gyermekének születését mentesítetted az emberi természet gyarlósága alól. Add, kérünk, hogy általa új emberré legyünk, és megszabaduljunk az áteredő bűn következ­ ményeitől. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

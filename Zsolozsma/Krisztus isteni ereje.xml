@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Krisztus isteni ereje</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="273"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus isteni ereje az Isten szerinti jámbor élethez mindent megadott nekünk: megismertük azt, áld dicsőségével és erejével meghívott minket. Értékes és nagy ígéreteket kaptunk, hogy általuk részeseivé legyetek az isteni természetnek, és megmeneküljetek a romlottságtól, amely a világban uralkodik a bűnös kívánság következtében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőítünk téged, Istenszülő Szűz, mert tőled született Krisztus; vezesd az üdvösségre mindazokat, akik dicsérnek téged.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Júda Betleheméből származott Krisztus, a mi vezérünk, hogy kormányozza szent népét. Mondjuk örvendezve: Urunk, maradjon velünk a te kegyelmed!<br/>Üdvözítő Krisztusunk, akit a nemzetek várva vártak, terjeszd el evangéliumodat azokon a vidékeken is, ahol még nem fogadták be az élet igéjét,<br/>- és vonj magadhoz minden embert!<br/>Krisztus Urunk, terjeszd el Egyházadat az egész világon,<br/>- hogy a népek egy családot alkossanak!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Királyok Királya, irányítsd a népek vezetőit, hogy keressék az igazságot és dolgozzanak a népek békéjéért és szabadságáért! Mindenható Urunk, te vagy a gyarló ember erőssége, adj erőt a kísértés idején, emeld fel az elesetteket, védelmezd a veszélyben forgókat,<br/>- vigasztalj a csalódás és reménytelenség idején, erősítsd hitünket a megpróbáltatások között!<br/>Szomorúak vigasztalója, erősítsd a haldoklókat,<br/>- vezesd őket az élő vizek forrásához!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérünk, mindenható Istenünk, hogy egyszülött Fiadnak test szerint való születése a bűn régi rabságából szabadítson meg minket. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

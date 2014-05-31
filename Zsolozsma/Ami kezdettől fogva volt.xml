@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Ami kezdettől fogva volt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ami kezdettől fogva volt, amit hallottunk, amit a szemünkkel láttunk, amit szemléltünk és amit a kezünkkel tapintottunk: az élet Igéjét hirdetjük nektek. Igen, az élet megjelent, láttuk, tanúságot teszünk róla, és hirdetjük nektek az örök életet, amely az Atyánál volt és megjelent nekünk. Amit láttunk és hallottunk, azt nektek is hirdetjük, hogy ti is közösségben legyetek velünk. Mi ugyanis az Atyával és az ő Fiával, Jézus Krisztussal vagyunk közösségben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szűztől született az ég Királya, hogy mennyei országába visszafogadja az elveszett embert.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten, a mi irgalmas Atyánk a Szentlélek kenetével avat ta fel Fiát, hogy hirdesse az evangéliumot a szegényeknek. Kérjük őt: Könyörülő Isten, irgalmazz nekünk!<br/>Kegyes és örök Istenünk, te azt akarod, hogy minden ember üdvözüljön és az igazság ismeretére jusson. Hálát adunk neked, hogy Egyszülöttedet a világnak adtad:<br/>- örvendezzen születésén az egész világ!<br/>Elküldted őt, hogy örömhírt vigyen a szegényeknek, szabadulást hirdessen a foglyoknak, és meghirdesse a kegyelem idejét:<br/>- adj az embereknek szabadságot és békét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fiad imádására vezetted a pogány bölcseket:<br/>- fogadd el hitünk és imádságunk hódolatát!<br/>A sötétségből azóta is csodálatos világosságodra hívsz minden embert, hogy Jézus nevére minden térd meghajoljon:<br/>- tégy minket ennek az örömhírnek tanúivá!<br/>A Betlehemben megszületett Krisztust világosságul állítottad a népek megvilágítására:<br/>- mutasd meg arcod dicsőségét elhunyt testvéreinknek!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható és láthatatlan Istenünk, te elküldted hozzánk a világ Világosságát, hogy eloszlassa a világ sötétségét. Fordítsd felénk jóságos arcodat, és add, hogy méltó tisztelettel ünnepeljük egyszülött Fiad születését. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

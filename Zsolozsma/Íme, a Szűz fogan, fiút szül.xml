@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Íme, a Szűz fogan, fiút szül</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, a Szűz fogan, fiút szül, és Emmánuelnek nevezi el. Aludttej és méz lesz a tápláléka, hogy meg tudja vetni a rosszat, és a jót tudja választani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Fölötted, Jeruzsálem, * Ott ragyog az Úr. Fölötted.<br/>F. És dicsősége megnyilvánul rajtad. * Ott ragyog az Úr. Dicsőség az Atyának. Fölötted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne nyugtalankodjatok: még öt nap, és Urunk eljön hozzátok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretett Testvéreim! Urunk, Jézus Krisztus irgalmas szívvel jön látogatásunkra. Ismételten könyörög­ jünk hozzá örvendező szívvel: Jöjj el, Urunk, Jézus!<br/>Aki Atyád kebléről jöttél a világra, hogy emberi tes­ tünket magadra öltsed,<br/>- orvosold a bűn által megsebzett természetünket!<br/>Aki egykor majd eljössz, hogy választottaid megismerjék dicsőségedet,<br/>- mostani eljöveteleddel mutasd meg irgalmadat a bűnösök iránt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztus Urunk, mi boldogan magasztalunk téged,<br/>- jöjj el hozzánk és üdvözíts minket!<br/>Te a hit által már a világosságra vezettél bennünket,<br/>- add, hogy kegyelmedből jót cselekedve kedvedben járjunk!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Urunk, Istenünk, hallgasd meg kegyesen néped kérő imáját! Örvendezve várjuk Egyszülöttedet, alti emberi testben eljött közénk. Add, hogy amikor dicsőségben újra eljön, elnyerjük tőle az örök élet jutalmát. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

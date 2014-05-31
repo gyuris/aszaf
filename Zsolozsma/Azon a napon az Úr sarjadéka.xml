@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:27">
+  <properties>
+    <titles>
+      <title>Azon a napon az Úr sarjadéka</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azon a napon az Úr sarjadéka ékes lesz és dicsőséges. És a föld gyümölcse díszére és dicsőségére lesz azoknak, akik Izraelből megmaradnak. Aki Sionból megmenekül és Jeruzsálemből életben marad, azt mind szentnek hívjak majd, és feljegyzik Jeruzsálemben az élők közé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Megmutatta az Úr, * Alleluja, alleluja. Megmutatta.<br/>F. Szabadító hatalmát, * Alleluja, alleluja. Dicsőség az Atyának. Megmutatta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mennyei seregek sokasága vette körül az angyalt, és dicsőítette az Istent ezekkel a szavakkal: Dicsőség a magasságban Istennek, és a földön békesség a jóakarata embereknek, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megjelent Krisztus Urunk kegyelme, amely minden emberre üdvöt áraszt. Hálával és bizalommal kérjük: Irgalmazz nekünk, Urunk!<br/>Krisztusunk, aki az idő kezdete előtt Atyád Egyszülötte, dicsőségének fénye, lényének tükörképe vagy, és fenntartod szavaddal a világmindenséget,<br/>- add, hogy a mai napon evangéliumod szerint éljünk!<br/>Krisztusunk, te az idők teljességében a világra születtél, hogy üdvözítsd az emberiséget és megváltsd az egész világot a bűn átkától,<br/>- add meg nekünk az Isten fiainak szabadságát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atyádnak egylényegű Fia, aki a hajnalcsillag előtt születtél és Betlehemben a világra jöttél, hogy beteljesedjenek a Szentírás jövendölései,<br/>- segíts, hogy Egyházad az evangéliumi szegénység útján járjon!<br/>Krisztusunk, te valóságos Isten és valóságos ember, Dá vid Ura és Fia, a jövendölések beteljesitője vagy,<br/>- add, hogy Izrael népe felismerje benned a Messiást!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mindenható, örök Isten, te szent Fiad születésével új módon és tökéletesen magadhoz kapcsoltad az emberiséget. Kérünk, ismerj minket magadénak Fiad kedvé ért, aki az egész emberi nem Üdvözítője. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

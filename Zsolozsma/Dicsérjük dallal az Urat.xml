@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Dicsérjük dallal az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjük dallal az Urat,<br/>buzgó készséggel lelkesen:<br/>az óra, íme, délre jár<br/>s bennünket imádságra hív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez szent idő: az áldozat,<br/>boldog Bárány, keresztre száll<br/>és híveit megváltva most<br/>dicsőségünket szerzi meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E fénytől, mely tűzön ragyog,<br/>homályba hull a déli ég:<br/>szívjuk szívünkbe lelkesen<br/>kegyelme lángját s erejét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjük őt, ki jó Atyánk,<br/>és egyszülött örök Fiat,<br/>s a Szentlelket, ki vigaszunk<br/>meg nem szűnő időkön át. Ámen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gábor angyal így szólt Máriához: Üdvöz légy, kegyelemmel teljes, az Úr van teveled, áldott vagy te az asszonyok között!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:25">
+  <properties>
+    <titles>
+      <title>Ujjongj, Sión leánya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ujjongj, Sión leánya, és zengj éneket, Jeruzsálem népe, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljön Krisztus, a mi Királyunk, a János hirdette eljövendő Bárány.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>íme, hamarosan eljövök, és magammal hozom a jutalmat, hogy megfizessek kinek-kinek cselekedetei szerint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örüljetek az Úrban szüntelenül! Újra csak azt mondom, örüljetek! Jóságos emberségeteket ismerje meg mindenki! Az Úr közel van!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V. Mutasd meg nekünk, * Irgalmasságodat, Urunk. Mutasd meg<br/>F. És hozd meg nekünk a szabadulást! * Irgalinasságodat, Urunk. Dicsőség az Atyának. Mutasd meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ne félj, Mária, kegyelmet találtál Istennél: Gyermeket fogansz, és fiút szülsz, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus Krisztust, Megváltónkat, aki az út, az igazság és az élet, könyörögve kérjük: Jöjj, Urunk, és maradj velünk!<br/>Jézus, a Magasságbeli Fia, akit Szűz Máriának Gábor főangyal hirdetett,<br/>- jöjj, és uralkodjál népeden mindörökké!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Te vagy az Isten Szentje, altit az Előhírnök már megszületése előtt ujjongva köszöntött,<br/>- jöjj, és add meg az egész világnak az üdvösség örömet!<br/>Szabadító Jézusunk, akinek nevét angyal nyilatkoztat­ ta ki Józsefnek, az igaz férfiúnak,<br/>- jöjj, és szabadítsd meg népedet a bűn rabságából!<br/>Világ Világossága, akit Simeon és minden igaz ember várva várt,<br/>- jöjj, és vigasztalj meg minket!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Felkelő Napunk, rólad jövendölte Zakariás, hogy eljössz hozzánk a magasságból,<br/>- jöjj, és hozz világosságot azoknak, akik a halál árnyékában ülnek!<br/>Mi Atyánk...</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mindenható, örök Isten, önts híveid szívébe szent elhatározást, hogy jótettekkel siessünk a közelgő Krisztus elé, ő pedig egykor jobbjára állítson minket országában, és mindnyájan együtt örvendj unit a boldog örökkévalóságban. Aki veled él.</lines>
+    </verse>
+  </lyrics>
+</song>

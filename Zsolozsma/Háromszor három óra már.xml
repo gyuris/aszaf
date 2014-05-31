@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:26">
+  <properties>
+    <titles>
+      <title>Háromszor három óra már</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Háromszor három óra már<br/>az Úr kegyelméből lejár:<br/>ki három és egy teljesen,<br/>őt áldjuk dallal lelkesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten szentséges titkait<br/>hűséggel tartsa tiszta szív:<br/>Szent Péter itt a mesterünk,<br/>gyógyító csodával tanít.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lélekben zsoltározva így<br/>a szent apostolok nyomán,<br/>Krisztustól kérjünk általuk<br/>a gyenge lábnak új erőt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérjük őt, ki jó Atyánk,<br/>és egyszülött örök Fiat,<br/>s a Szendéiket, ki Vigaszunk<br/>meg nem szűnő időkön át. Ámen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária így szólt: Miféle köszöntés ez? Zavar támadt lelkemben: a Királyt fogom megszülni, és mégis szűz maradok?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:48:28">
+  <properties>
+    <titles>
+      <title>Isten a sötétség hatalmából</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten a sötétség hatalmából kiragadott minket, és helyet adott szeretett Fia országában. Benne nyertük el vére által a megváltást, bűneink bocsánatát. Ó a láthatatlan Isten képmása, az egész teremtés elsőszülöttje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V. Az Ige testté lett, * Alleluja, alleluja. Az Ige.<br/>F. És közöttünk élt. * Alleluja, alleluja. Dicsőség az Atyának. Az Ige.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, áldott Gyermek, általad megújult az emberi élet, mert mint a nászházból kilépő vőlegény, megszülettél Szűz Máriától!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten a próféták útján több alkalommal szólt őseinkhez. Végül Fia által beszélt hozzánk. Kérjük, hogy könyörüljön rajtunk: Uram, irgalmazz!<br/>Könyörgünk szent Egyházadért,<br/>- hogy gyermekeid hittel és bátran vallják meg Jézus üdvözítő nevét: Uram, irgalmazz!<br/>Könyörgünk az evangélium hirdetőiért,<br/>- hogy a munkások, akiket te küldesz, teljes bizalommal hirdessék a népeknek Jézus nevét: Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Könyörgünk beteg testvéreinkért,<br/>- hogy Jézus nevét hívják segítségül és meggyógyuljanak: Uram, irgalmazz!<br/>Könyörgünk az üldözött keresztényekért,<br/>- hogy Jézus nevében türelmesen elviseljék a jogtalanságokat: Uram, irgalmazz!<br/>Könyörgünk testvéreinkért, akik emberi mulasztások miatt haltak meg.<br/>- hogy irgalmadból az örök életre jussanak: Uram irgalmazz!<br/>Mi Atyánk…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérünk, Urunk, Istenünk, adj rendíthetetlen szi­ lárd hitet nekünk, akik megvalljuk Egyszülöttedet: a dicsőségben veled egy örök Istent, aki valóságos emberként született Szűz Máriától. Szabadíts meg a földi bajoktól, és vezess el az örök boldogságra. A mi Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>
