@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Ó boldog Betlehem, áldások</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó boldog Betlehem, áldások városa,<br/>ott sír a védtelen, bús árvák támasza.<br/>Földiek öröme, égiek szent gyönyöre.<br/>Ne sírj kis Jézuska!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még a vész fergeteg nem zúg fejed felett,<br/>ölelő szeretet dajkál ényelg veled.<br/>Védnek az angyalok, őriznek a pásztorok.<br/>Ne sírj kis Jézuska!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én is leroskadok jászol trónod előtt,<br/>szánd meg a bánkódót, kérlek ne űzd el őt.<br/>Bűneim bár nagyok, de irgalmad még nagyobb.<br/>Ne sírj kis Jézuska!</lines>
+    </verse>
+  </lyrics>
+</song>

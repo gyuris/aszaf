@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Mikor Máriához az Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor Máriához az Isten angyala Názáret városba az égből leszálla,<br/>kit szent imádságban Gábriel talála, ékes köszöntéssel a Szűzhöz így szóla:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, Mária, kit Isten szeretett, sok nemzetek közül magának eljegyzett,<br/>Készíts azért szállást az Isten Fiának, mert téged választott szentséges Anyjának.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úrnak Igéjét örömmel elvárom, mint Isten akarja én is úgy akarom.<br/>Tiszta hajlékomba, ha tetszik, bezárom, mert szüzességemben tudom, nem lesz károm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Világosítsa meg az Úr én házamat, ragyogó fáklyákkal rakja udvaromat,<br/>Piros hajnal után hozza fel napomat, hogy meglássam én is az én Krisztusomat!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Fenyőgallyas kis Jézuskám</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fenyőgallyas kis Jézuskám, lelkünk drága gyöngye,<br/>A szeretetet fehér szárnyán szállj, siess a földre,<br/>Lelkünkben kis jászolocskát készítettünk Néked<br/>Puha meleg takaróba göngyöégetünk Téged.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szűz Mária, édesanyja, veled egyesülve,<br/>Imádjuk a kis Jézuskát, ó, légy segélyünkre,<br/>Hogy szent Fiad mihozzánk is e napon eljöjjön,<br/>Karácsonyi szent kegyelme belénk erőt öntsön.</lines>
+    </verse>
+  </lyrics>
+</song>

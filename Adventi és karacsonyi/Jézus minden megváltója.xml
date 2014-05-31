@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:18">
+  <properties>
+    <titles>
+      <title>Jézus minden megváltója</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus minden megváltója,<br/>Atyaistennek egy Fia,<br/>Kit, hogy még kezdet nem vala,<br/>csudaképpen szült az Atya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus megváltó Istenünk,<br/>kit szent Atyánk nemzett nekünk,<br/>Egyenlő felségben vele,<br/>előbb, mint fény s világ leve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te Atyádnak fényessége,<br/>mindeneknek reménysége,<br/>tekints ím könyörgésünkre,<br/>Tőled segítségkérőkre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emlékezzél egy védelmünk<br/>megtekintvén a mi testünk,<br/>Szűztől születvén érettünk,<br/>felvevéd mi természetünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ez ünnepnek bizonyítja,<br/>esztendőbeli forgása,<br/>Hogy Atyádtól oltalmunkra,<br/>magad jövél e világra.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ezt menny, föld, tenger és minden,<br/>benne levők áldják szépen,<br/>Mert az Ő jövetelével<br/>vannak nagy éneklésekkel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mi is, akik szent nevedben<br/>megváltattunk szent véreddel,<br/>Ünnepedet nagy örömmel<br/>dicsérjük nagy énekekkel.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsőség Uram, tenéked,<br/>kinek Szűztől születésed<br/>te szent Atyád és Szentlelked<br/>tiszteltessenek Teveled.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:18">
+  <properties>
+    <titles>
+      <title>Az isteni Gyermeket, ki ma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az isteni Gyermeket, ki ma kijelentetett<br/>A három szent bölcs előtt imádjuk és áldjuk őt.<br/>Szép jel és szép csillag, szép napunk támadt,<br/>szép napunk támadt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heródes őt üldözé, a három bölcs tisztelé,<br/>Arany, tömjén, mirhával, s a szív imádásával.<br/>Szép jel és szép csillag, szép napunk támadt,<br/>szép napunk támadt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent hitünknek csillaga minekünk is jelt ada,<br/>Hogy megjelent Királyunk, kit epedve úgy vártunk.<br/>Szép jel és szép csillag, szép napunk támadt,<br/>szép napunk támadt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hit, remény és szeretet, mely tőle nyer életet:<br/>Ez a hármas áldozat, melyet szívünk néki ad.<br/>Szép jel és szép csillag, szép napunk támadt,<br/>szép napunk támadt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten-ember, nagy király! Előtted, ím néped áll,<br/>Kérvén szent malasztodat, hogy áldja jóvoltodat.<br/>Szép jel és szép csillag, szép napunk támadt,<br/>szép napunk támadt!</lines>
+    </verse>
+  </lyrics>
+</song>

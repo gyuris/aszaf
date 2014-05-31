@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Örök Atyának Egy Fia, ő Fény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örök Atyának Egy Fia, ő Fény a Fényből, Krisztusunk!<br/>Te vagy az Úr, az Alkotó, ki ülsz királyi trónuson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Törvényhozónk és Főpapunk, néped tanító Mestere,<br/>ruhádon vérrel írva áll: Királyoknak Királya vagy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A régi ember átka volt nyögni sátáni zsarnokát,<br/>szent Keresztfádon, győztesen szabadságunk te meghozád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uralmad áld és boldogít, tenéked készen hódolunk.<br/>Országod egykor add nekünk, örökre légyen otthonunk.</lines>
+    </verse>
+  </lyrics>
+</song>

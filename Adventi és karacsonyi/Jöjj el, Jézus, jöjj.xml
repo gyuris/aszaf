@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Jöjj el, Jézus, jöjj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el, Jézus, jöjj szerelmem,<br/>Téged áhít az én lelkem<br/>Téged vár a földnek vágy,<br/>Jöjj, ó, Napfény, ragyogj ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Te vagy mennynek éke,<br/>Jöjj el drgága földnek fénye,<br/>Fényes lánggal, lobogással,<br/>Jöjj sietve, Jézusunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nálad nélkül nincs nyugalmunk,<br/>Szomorúan vakoskodunk,<br/>Sóhajtozunk, várva-várunk,<br/>Jöjj, ó, Napfény, ragyogj ránk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Íme, lelkem eléd tárom,<br/>Jöjj, isteni boldogságom,<br/>Gyorsan hát, az édes terhet,<br/>hintsétek ti csillagok!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jöjj el, Jézus, régen várunk,<br/>Világnak adott világunk,<br/>Jöjj sietve hozzánk, élet,<br/>Jöjj siess, ó, futva jöjj!</lines>
+    </verse>
+  </lyrics>
+</song>

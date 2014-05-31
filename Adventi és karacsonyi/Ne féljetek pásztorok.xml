@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Ne féljetek pásztorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne féljetek pásztorok, pásztorok, örömet hirdetek,<br/>Mert ma néktek született, ki megjövendöltetett.<br/>Egy Szűznek méhéből szűzen szült véréből,<br/>Megváltó Istentek, Alle-alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha pedig e csodát, e csodát látni akarjátok,<br/>Betlehembe menjetek és ez leszen jeletek:<br/>Fogtok ott jászolban, takarva pólyába<br/>Kisdedet találni, Alle-alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Városon túl nem messze, nem messze van egy istálócska,<br/>Barmok között ott fekszik, száraz szalmán nyúgoszik.<br/>Mellette Szűz anyja, és az Ő vélt atyja,<br/>József és Mária. Alle-alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

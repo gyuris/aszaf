@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Serkenj lelkem mély álmodból</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serkenj lelkem mély álmodból,<br/>vigyázz magadra,<br/>Mert Urad jő e világra, szép váltságodra,<br/>Drága kincset hoz magával orvoslásodra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örülj immár, hogyha voltál eddig bánatban,<br/>mert Királyod, ki majd eljő nagy hatalommal,<br/>kisgyermekként száll le hozzád, sok irgalommal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teljes szívvel, víg örömmel ma az angyalok<br/>Pásztoroknak megjelentik, hogy az ő uruk<br/>E világra született már<br/>égi királyuk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hegyen-völgyön s erdőn-mezőn lakozó vadak,<br/>Víg madarak, égen játszók, s minden állatok!<br/>Megszületett ti Uratok, jertek, áldjátok!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te is lelkem magasztald Őt, Jézus anyjával,<br/>együtt áldjad angyalokkal, nagy buzgósággal,<br/>örvendetes, vigasságos<br/>szép muzsikákkal!</lines>
+    </verse>
+  </lyrics>
+</song>

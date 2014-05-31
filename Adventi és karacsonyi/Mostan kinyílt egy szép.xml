@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Mostan kinyílt egy szép</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mostan kinyílt egy szép rózsa-virág,<br/>akit régen várt az egész világ.<br/>Betlehemben kibimbózott zöld ág,<br/>királynemből nagy méltóság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki érettünk magad megalázád,<br/>vedd kedvesen szívünk áldozatát<br/>Dicsőséged, megváltó Istenünk<br/>engedd méltóan zengenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

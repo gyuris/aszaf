@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Pásztorok keljünk fel, hamar</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok keljünk fel, hamar induljunk el,<br/>Betlehem városába, rongyos istállócskába<br/>Siessünk, ne késsünk,<br/>hogy még ezen éjjel ottan lehessünk,<br/>s mi Urunknak tiszteletet tehessünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok hirdeték, Messiás születék,<br/>itt van jele fényének, helye születésének:<br/>Pajtában, pólyában,<br/>be vagyon ő takarva posztócskában,<br/>áldott Gyermek szenved már kis korában.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Nagy örömnap ez a nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy örömnap ez a nap: Messiásunk támadt,<br/>Szűzanya szült szent Fiat, váltja fény az árnyat.<br/>Jászolán a csecsemő szívet-lelket megnyerő ő emberségében,<br/>ám ugyancsak elvakít, s nyomban térdre kényszerít ő Istenségében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Éjféltájban születik, ki a napfényt gyújtja,<br/>anyatejre éhezik, ki az üdvöt nyújtja.<br/>Rejtik pólyák szalagok, ki az égre csillagot, milliomot tűzdel,<br/>sírdogál az újszülött, aki ott fenn mennydörög s rémít villám-tűzzel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjük a Gyermeket, ki ma testet öltött,<br/>gyöngeségben született, belénk erőt öntött.<br/>Ha Ő meg nem születik, minden ember elveszik, nem jut üdvösségre.<br/>Ó megváltó Istenünk halálunkkor légy velünk, fogadj be az égbe!</lines>
+    </verse>
+  </lyrics>
+</song>

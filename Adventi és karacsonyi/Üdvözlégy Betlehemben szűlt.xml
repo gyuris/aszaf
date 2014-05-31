@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Betlehemben szűlt</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Betlehemben szűlt Jézus teste, s vére,<br/>Kinek születése napja Mennyből lett hirdetve.<br/>Édes Jézus, ki Mennyekből e földre lejöttél,<br/>Hogy bennünket üdvözíthess, betlehemi istálóban szent szűztől születtél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amint hajdan a pásztorok jászolnál imádtak,<br/>Úgy imádjuk ez oltáron kenyér színe alatt.<br/>Édes Jézus, ki Mennyekből e földre lejöttél,<br/>Hogy bennünket üdvözíthess, betlehemi istálóban szent szűztől születtél.</lines>
+    </verse>
+  </lyrics>
+</song>

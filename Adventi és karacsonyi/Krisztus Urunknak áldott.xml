@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Krisztus Urunknak áldott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Urunknak áldott születésén<br/>angyali verset mondjunk szent ünnepén,<br/>mely Betlehemnek mezejében régen<br/>zengett eképpen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória légyen mennyben az Istennek,<br/>békesség légyen földön az embernek,<br/>jóakaratban élő minden népnek<br/>és nemzetségnek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betlehem ősi nemes városában<br/>eljött a Krisztus szűztől e világra,<br/>áldást árasztott Ádám családjára,<br/>minden fiára.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eljött már az, kit a szent atyák vártak,<br/>a szent királyok akit óhajtottak,<br/>róla jövendőt próféták mondottak,<br/>zsoltárok szóltak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó örök Isten, dicső Szentháromság!<br/>Szálljon szívünkbe mennyei vidámság,<br/>távozzék tőlünk minden szomorúság:<br/>eljött a váltság!</lines>
+    </verse>
+  </lyrics>
+</song>

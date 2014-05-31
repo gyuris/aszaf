@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Hozzád emelem szómat, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád emelem szómat, Istenem!<br/>Téged vár a lelkem, hogy oltalmat nyerjen:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mutasd meg magad, a te utadat,<br/>irgalmad bősége vigyen üdvösségre:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harmatozzatok égi magasok!<br/>Téged vár epedve a halandók lelke:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert az emberek csak tévelygenek,<br/>ha te égi fényed nem vezérli őket:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldás dicséret és hála néked,<br/>mert fényes világunk s legfőbb boldogságunk<br/>te vagy, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ím az áldozat, melyet bemutat<br/>szolgád Fölségednek, jöjj el és szenteld meg:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nyújtsd malasztodat, hogy ez áldozat<br/>bánatot gerjesszen bűnös szíveinkben:<br/>Jöjj el, édes Üdvözítőnk!</lines>
+    </verse>
+  </lyrics>
+</song>

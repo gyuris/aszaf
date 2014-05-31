@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:17">
+  <properties>
+    <titles>
+      <title>Az Úristen Ádám atyánknak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventi és karacsonyi" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úristen Ádám atyánknak,<br/>kegyes vigasztalásnak:<br/>megígérte jövetelét a Messiásnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És az álnok kígyónak mondta<br/>a szép Paradicsomba’,<br/>megtöri majd kemény fejed<br/>egy Asszony magva.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megmondotta Bálám próféta:<br/>Csillag kél e világra,<br/>Jákob ősi nemzetéből, világ javára.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zsoltárokban szent Dávid ajka<br/>akképp szólott biztatva:<br/>székében fog uralkodni királyi magva.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Izajás is így jövendőle:<br/>ímé, Jessze gyökere<br/>vesszőt terem új virágnak nevelésére.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A vesszőnek drága virága,<br/>csillag tiszta világa,<br/>Dávid magva: Máriától jött e világra.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ám arról is megemlékezünk,<br/>bízó szívvel készülünk:<br/>eljön újra világ végén, s megítéltetünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kérjük azért mindnyájunk Urát,<br/>lelkünk kegyes Bíráját,<br/>állítsa majd jobbja felől hívei nyáját.</lines>
+    </verse>
+  </lyrics>
+</song>
