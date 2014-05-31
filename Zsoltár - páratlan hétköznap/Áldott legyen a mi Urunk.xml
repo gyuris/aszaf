@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:26">
+  <properties>
+    <titles>
+      <title>Áldott legyen a mi Urunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott legyen a mi Urunk, * mert meghallgatta könyörgő szavamat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, Istenem, * az ártatlanság útján akarok járni!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El ne feledjétek * Urunknak nagy tetteit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szabadíts meg engem, Uram, * irgalmasságodban!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldogok a lélekben szegények, * mert övék a mennyek országa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Járuljatok az Úr színe elé * vidám énekszóval!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Ne nekünk add, Urunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne nekünk add, Urunk, a dicsőséget, * hanem a te nevednek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te barátaid, Uram, * ismertessék meg országod dicsőségét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten házába indulunk, * örömtől dobban a szívünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hirdessétek minden népnek, * mondjátok el az Úr csodás tetteit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hadd magasztaljalak, Uram, * minden nép között!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örvendezzünk Isten előtt, * az egész föld őt dicsérje.</lines>
+    </verse>
+  </lyrics>
+</song>

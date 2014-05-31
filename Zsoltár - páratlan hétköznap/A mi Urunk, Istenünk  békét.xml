@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:26">
+  <properties>
+    <titles>
+      <title>A mi Urunk, Istenünk * békét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mi Urunk, Istenünk * békét hirdet népének.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmadnak, Uram, * örvend a király.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, eljövök, Uram, * hogy teljesítsem azt, amit kívánsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjad, lelkem, az Urat, * dicsőítsed az Istent!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Íme, ilyen áldásban részesül, * aki féli az Urat.</lines>
+    </verse>
+  </lyrics>
+</song>

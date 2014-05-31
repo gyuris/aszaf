@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Nagyböjt 4</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr az én világosságom, * és ő az én üdvösségem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőítelek téged, Uram, * mivel megmentettél engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velünk van az erős Isten: * Jákob Istene a menedékünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmas a mi Urunk, Istenünk: * könyörületre hajlik szíve.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gondolj ránk, Urunk, * mivel szereted népedet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az Úr közel van azokhoz, * akiknek töredelmes a szívük.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én Uram, Istenem, * csak benned remélek.</lines>
+    </verse>
+  </lyrics>
+</song>

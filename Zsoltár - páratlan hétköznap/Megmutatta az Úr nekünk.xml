@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Megmutatta az Úr nekünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megmutatta az Úr nekünk * üdvözítő jóságát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjad, lelkem, az Urat, * dicsőítsed az Istent!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog az az ember, aki az Urat féli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hűség és igazság, * amit az Úr keze művelt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr mindig megmenti * az igazakat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ízleljétek és lássátok, * milyen édes az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

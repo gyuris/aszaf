@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:26">
+  <properties>
+    <titles>
+      <title>Adjatok hálát az Úrnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjatok hálát az Úrnak, * mert jóságos hozzánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalmas a mi Urunk, Istenünk: * könyörületre hajlik szíve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent vagy, Urunk, * szent vagy, Istenünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily kedves a te hajlékod, * Seregek Ura, Istene!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örvendjetek Istennek, * a mi segítőnknek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hálád adok az Úrnak * minden időben!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ízleljétek és lássátok, * milyen édes az Úr.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Magasztaljanak téged a népek, Istenünk, * magasztaljanak téged az összes nemzetek!</lines>
+    </verse>
+  </lyrics>
+</song>

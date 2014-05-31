@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Pap vagy te mindörökk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pap vagy te mindörökké * Melkizedek rendje szerint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr megemlékezik szövetségéről * örökkön-örökké.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pap vagy te mindörökké * Melkizedek rendje szerint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Íme, eljövök, Uram, * hogy teljesítsem azt, amit kívánsz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A hűség és az irgalmasság * egymásra lelnek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ujjongás közt ment föl Isten, * az Úr égbe emelkedett harsonaszóval.</lines>
+    </verse>
+  </lyrics>
+</song>

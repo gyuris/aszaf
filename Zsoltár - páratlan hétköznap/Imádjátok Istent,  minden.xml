@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Imádjátok Istent, * minden</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádjátok Istent, * minden angyalai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiad hatalmába adtad * kezed minden művét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sohasem felejti az Isten * az ő szövetségét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár hallgatnátok ma Isten szavára: * „Népem, ne légy kemény szívű.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten tetteit * el ne feledjétek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A te tanításod, Uram, * lélek és élet.</lines>
+    </verse>
+  </lyrics>
+</song>

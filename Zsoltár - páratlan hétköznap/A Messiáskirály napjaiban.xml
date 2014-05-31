@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>A Messiáskirály napjaiban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Messiáskirály napjaiban az igazság virága nyílik, * és teljes béke lesz a világ végéig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Messiáskirály napjaiban az igazság virága nyílik, * és teljes béke lesz a világ végéig.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicséretedet szüntelenül zengje ajkam, * téged magasztaljon az ének!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Urunk, Istenünk érkezik: * ő a dicsőség királya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örvendezzetek, igazak, az Úrban! * Új éneket zengjetek néki!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szívem ujjong az Úrban, * megváltó Istenemben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Emeljétek föl fejeteket, és nézzetek az égre, * megváltástok napja közel van!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hadd énekeljem örökké * Urunknak irgalmas jóságát!</lines>
+    </verse>
+  </lyrics>
+</song>

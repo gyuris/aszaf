@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:26">
+  <properties>
+    <titles>
+      <title>Áldott az Úr, atyáink Istene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott az Úr, atyáink Istene, * mert meglátogatta az ő népét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Íme, eljövök, Uram, * hogy teljesítsem azt, amit kívánsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr a mi segítségünk, * aki az eget és a földet alkotta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog az az ember, * aki az Úrban bízik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igazságodra oktass engem, * én Uram, Istenem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ez az istenkeresők népe, * mely látni kívánja arcodat, Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

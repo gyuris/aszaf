@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:26">
+  <properties>
+    <titles>
+      <title>Isten megmenti életem; * ő az</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten megmenti életem; * ő az én dicsőségem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságos az Isten: * kegyes az egész világhoz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akik könnyek között vetnek, * majd ujjongva aratnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenem, te vagy nékem * az  én örökségem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen áldott örökkön-örökké * Urunk, Istenünk szent neve!</lines>
+    </verse>
+  </lyrics>
+</song>

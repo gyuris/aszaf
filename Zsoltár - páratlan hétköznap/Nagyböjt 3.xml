@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Nagyböjt 3</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bár hallgatnátok ma Isten szavára: * „Népem, ne légy kemény szívű!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az élő Isten után szomjazik lelkem, * mikor jelenhetek meg Isten színe előtt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emlékezzél meg, Uram, * irgalmasságodról.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeruzsálem, szentek otthona, * dicsérd fölséges Istened!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bár hallgatnátok ma Isten szavára: * „Népem, ne légy kemény szívű!”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én vagyok a te Urad, Istened: * hallgass az én szavamra!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem áldozatot kívánok tőled, * hanem irgalmas szívet!</lines>
+    </verse>
+  </lyrics>
+</song>

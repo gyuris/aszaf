@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Örvendjen a mi Urunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendjen a mi Urunk, Istenünk, * mindannak, amit alkotott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, mi Urunk, * mily csodálatos a te neved az egész világon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondj áldást, lelkem, * Urunknak, Istenünknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogok mindazok, * akik az Urat félik.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldog az az ember, * akinek az Úr megbocsátotta bűneit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>te lettél, Uram, menedékünk * nemzedékről nemzedékre.</lines>
+    </verse>
+  </lyrics>
+</song>

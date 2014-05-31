@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:25">
+  <properties>
+    <titles>
+      <title>Az Úr a mi segítségünk, * aki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páratlan hétköznap" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr a mi segítségünk, * aki az eget és a földet alkotta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keressétek az Urat, alázatos lelkek, * és szívetek újra éled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalmas a mi Urunk, Istenünk: * könyörületre hajlik szíve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sohasem felejti az Isten * az ő szövetségét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Veszem az üdvösség kelyhét, * és az Úr nevét hívom segítségül.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>* mivel szeretete örökké megmarad.</lines>
+    </verse>
+  </lyrics>
+</song>
