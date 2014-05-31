@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Ne féljetek, pásztorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne féljetek, pásztorok, pásztorok, örömet hirdetek,<br/>Mert ma nektek született, aki jövendöltetett.<br/>Egy szűznek méhéből, szűzen szült véréből,<br/>Megváltó Istentek, alle-, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha pedig e csodát, e csodát látni akarjátok,<br/>Betlehembe menjetek, és ez leszen jeletek:<br/>Fogtok ott jászolban, takarva pólyában<br/>Kisdedet találni, alle-, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Városon kül, nem messze, nem messze van egy istállócska,<br/>Barmok között ott fekszik, száraz szalmán nyugoszik.<br/>Mellette Szűz Anyja, és az ő vélt apja,<br/>József és Mária, alle-, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, szerencsés éjszaka, éjszaka, boldog az az óra,<br/>Mely minden kincsek felett e mennyei kisdedet,<br/>A legszebb virágot, legdrágább gyémántot<br/>hozta e világra, alle-, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

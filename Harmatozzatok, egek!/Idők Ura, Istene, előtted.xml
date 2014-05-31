@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Idők Ura, Istene, előtted</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idők Ura, Istene, előtted térdelünk,<br/>Midőn estéje lenne ez évnek, dicsérünk.<br/>Legyen áldott szent neved, hogy ezen lefolyt évet<br/>Itt könyörgő népednek megérni engedted!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd, Szent Atyánk, előtted fiaid térdelnek,<br/>Bűneinkért tetőled bocsánatot kérnek.<br/>Moss meg Jézus vérével, vétkeinket töröld el,<br/>Védjed örökségedet atyai kezeddel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezután is mindegyre áraszd áldásodat,<br/>Ifjúra és öregre hullasd malasztodat.<br/>Ím, azt szentül fogadjuk, hogy hitünket megtartjuk,<br/>Éltünket és holtunkat neked feláldozzuk.</lines>
+    </verse>
+  </lyrics>
+</song>

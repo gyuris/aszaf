@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Jézus Gecemáni kertben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Gecemáni kertben,<br/>Fönn az Olajfák hegyében<br/>Térden állva imádkozik,<br/>Piros vérrel izzadozik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Virágszombaton este<br/>Mária Fiát kérdezte,<br/>Hogy nagyhéten mi lesz dolga,<br/>Szent Fia neki mondotta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virágvasárnapján mit fogsz tenni,<br/>Szent Fiam, mit fogsz szenvedni?<br/>Akkor, anyám, király leszek,<br/>Jeruzsálembe bemegyek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hát majd hétfőn mit fogsz tenni?<br/>Szent Fiam, mit fogsz szenvedni?<br/>Akkor, anyám, beteg leszek,<br/>A templomba nem mehetek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hát nagykedden mit fogsz tenni?<br/>Szent Fiam, mit fogsz szenvedni?<br/>Akkor, anyám, vándorolok,<br/>Az utakon le s föl járok.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hát nagyszerdán mit fogsz tenni?<br/>Szent Fiam, mit fogsz szenvedni?<br/>Anyám, Getszemáni-kertbe<br/>Fölmék, Olajfák hegyére.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hát nagy-, zöldcsütörtökön<br/>Jaj, szent Fiam, mit szenvedel?<br/>Akkor, anyám, hamis Júdás<br/>Engem harminc pénzért elád.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nagypénteken mit fogsz tenni?<br/>Szent Fiam, mit fogsz szenvedni?<br/>Akkor, anyám, egy keresztre<br/>Föl leszek én majd feszítve.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Te a kereszt alatt leszel,<br/>Kezeiddel el nem érhetsz,<br/>Kezeiddel le nem vehetsz,<br/>Szűz öledbe nem fektethetsz.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nagyszombaton mit fogsz tenni?<br/>Szent Fiam, mit fogsz szenvedni?<br/>Akkor, anyám, koporsómba<br/>Leszállok gyászos síromba.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Húsvét napján mit fogsz tenni?<br/>Szent Fiam, mit fogsz művelni?<br/>Akkor, anyám, föltámadok,<br/>Dicsőségben uralkodok.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Húsvét után ötven napra,<br/>Piros pünkösd hajnalára<br/>Elküldöm a vigasztalót,<br/>A fehér színű galambot.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Pünkösd után nyolcvan napra,<br/>Nagyboldogasszony napjára<br/>Fölviszlek a mennyországba,<br/>A mennyei boldogságba.</lines>
+    </verse>
+  </lyrics>
+</song>

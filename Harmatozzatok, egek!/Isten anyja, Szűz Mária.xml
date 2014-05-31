@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Isten anyja, Szűz Mária</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten anyja, Szűz Mária, szent olvasó királynéja, százszor üdvöz légy!<br/>Hogy anyánk vagy, ne felejtsd el, köszöntésünket fogadd el, szűz kegyedbe végy!<br/>Szívvel és nyelvvel köszöntünk, meg ne vess, Édesanyánk,<br/>Bűneinkért könnyet ontunk, nyerj az égből áldást ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olvasódnak minden ága szent hitünknek szép virága, liliomfüzér,<br/>Angyalodnak üdvözlése s rokonodnak köszöntése ebben a vezér.<br/>Mint fogadtad örömtelve azoknak üdvözlését,<br/>Fogadd most is szent kedvedbe gyermekid esdeklését!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Olvasód dús kegyelemtár, a gyarlóknak édes mentsvár s titkos koszorú,<br/>Lelhet ezzel kész vigalmat, keservében szent irgalmat minden szomorú.<br/>Fölemeljük hát kezünkben e virágos koszorút,<br/>Hogy siralmas életünkben derítsen minden borút.</lines>
+    </verse>
+  </lyrics>
+</song>

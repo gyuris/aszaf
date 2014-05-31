@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Názáretbe vonnak szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Názáretbe vonnak szent vágyaim,<br/>Szállj el, lelkem, a hajnal szárnyain!<br/>Ó, szállj oda, hol a Szüzet<br/>Köszöntötte a mennyei követ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szűz Mária, mennyország ajtaja,<br/>Hozzád lépünk, mint az Úr angyala.<br/>Fogadd, amit nyújtunk neked:<br/>E hajnali édes üdvözletet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott vagy te az asszonyok között,<br/>Mert méhedbe váltságunk költözött.<br/>Áldott, mert az Úr van veled,<br/>Szent malaszttal teljes szűz kebeled.</lines>
+    </verse>
+  </lyrics>
+</song>

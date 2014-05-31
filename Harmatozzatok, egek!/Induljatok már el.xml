@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Induljatok már el</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Induljatok már el<br/>Az élet útjára,<br/>Az igaz boldogság<br/>Édes hajlékába!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog ifjú új pár,<br/>Mit most fogadtatok,<br/>Szívetekbe hűen<br/>Mindig megtartsátok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hófehér koszorú,<br/>Hófehér bokréta,<br/>Vezesd az új párt egy<br/>Boldog életútra!</lines>
+    </verse>
+  </lyrics>
+</song>

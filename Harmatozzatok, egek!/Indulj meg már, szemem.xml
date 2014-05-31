@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Indulj meg már, szemem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indulj meg már, szemem,<br/>Hulló könnyeiddel,<br/>Áradj meg, én szívem,<br/>Bánat tengerével.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siránkozzál, lelkem,<br/>Nagy keserűséggel,<br/>Az éltem halálán<br/>Könnyezz vércseppekkel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az egek királya<br/>Meghal szegénységben,<br/>A szívek öröme<br/>Eleped ínségben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add szent kegyelmedet,<br/>És véred hullása<br/>Legyen az én bűnös<br/>Lelkem újulása!</lines>
+    </verse>
+  </lyrics>
+</song>

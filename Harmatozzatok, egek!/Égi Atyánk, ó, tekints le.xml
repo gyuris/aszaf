@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Égi Atyánk, ó, tekints le</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égi Atyánk, ó, tekints le szép, zöldellő mezeinkre,<br/>Hozzád, édes Istenünk, kulcsolt kezet emelünk.<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy a magot elvetettük, szent nevedet emlegettük,<br/>A te kegyes szózatod eget s földet alkotott.<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mezei szép virágot s a madárkát te ruházod,<br/>Minden lénnyel jót mívelsz, ránk is gondot te viselsz.<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Határunkat koronázza szent szerelmed dús áldása,<br/>Adj bő bort, bő kenyeret, hogy Atyánk vagy, ne feledd!<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen tele csűr s pince, jó voltod azt ne tekintse,<br/>Hogy nincsen rá érdemünk, nézd könnyel telt két szemünk.<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bocsássa meg bűneinket, védje mezeinket<br/>Csapásoktól, jó Atya, nagy hatalmad szózata.<br/>A napsugárt, harmatot s a bő termést te adod.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Malasztodat nyújtsad végre, hogy feljussunk majd az égre,<br/>Hogy az angyal-aratók mint megtisztult, jó magot<br/>Mennycsűrödbe vigyenek, s örvendhessünk ott veled.</lines>
+    </verse>
+  </lyrics>
+</song>

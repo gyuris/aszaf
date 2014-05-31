@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Elmúltak már minden kínjaim</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elmúltak már minden kínjaim,<br/>Itt hagyom már minden javaim,<br/>Hitvestársam, fiam s leányim,<br/>Az én kedves, jó rokonaim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged kérlek, jó hitvestársam,<br/>Legyen tőled takarításom,<br/>Uram Isten, jó útitársam,<br/>Hogy mennyekben legyen jó sorsom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó fiaim, Isten veletek,<br/>Atyátokért Istent kérjétek,<br/>Jutalmat az égben nyerjetek,<br/>Énérettem könyörögjetek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jó leányim, ne sirassatok,<br/>Könnyes szemmel ne zokogjatok,<br/>Atyátokat ápolgassátok,<br/>Koporsóba takargassátok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zárjatok be a koporsóba,<br/>Vigyetek el kényszersíromba,<br/>Öltözzetek szomorú gyászba,<br/>De reménytek legyen Jézusba'.</lines>
+    </verse>
+  </lyrics>
+</song>

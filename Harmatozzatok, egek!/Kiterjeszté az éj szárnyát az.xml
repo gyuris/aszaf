@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Kiterjeszté az éj szárnyát az</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiterjeszté az éj szárnyát az Oljafahegy felett,<br/>E mély csenden fohász száll át, az ég és föld megremeg.<br/>Atyám, hogyha lehetséges, múljék el e kínpohár,<br/>Legyen, kérlek, elégséges a szenvedés árja már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E bús fohász Krisztus ajka szívszaggató hangja volt,<br/>Megindulna a kő rajta, arca halvány, mint a hold.<br/>Atyám, Fiad halni készül, bár félelem szorongat,<br/>Az ellenség vad kezéből kiváltom képmásodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Atyádnál szólj mellettünk, nagy kínt látott szenvedő,<br/>Ha te kéred mihelyettünk, meg nem vethet minket Ő.<br/>Ajánld neki értünk ontott verejtéked gyöngyeit,<br/>S ó, gyógyítsd be bűnbe botlott lelkünk sok mély sebeit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anyám, anyám, hogyha tudnád, hogy halálra megy Fiad,<br/>Mély gyászomat megsiratnád, elalélnál kín miatt.<br/>Anyám, legyen telt vigasszal szíved e zord éjelen,<br/>Nincs, ki engem megvigasztal, nincs senki itt velem.</lines>
+    </verse>
+  </lyrics>
+</song>

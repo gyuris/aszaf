@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Szép májusnak királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szép májusnak királynéja odafönt az égben,<br/>Üdvözöl a virágillat s a madár a légben.<br/>Üdvözöllek én is téged, Isten legszebb lánya,<br/>Mert tőled jön bús szívemnek a vigasztalása.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha betegség vagy bánat ér, te vagy rá a balzsam,<br/>Ha bűnömet megsiratom, te könyörülsz rajtam.<br/>Odaviszed Szent Fiadhoz a hű szívem vágyát,<br/>Ő megadja a könyörgő minden kívánságát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anyám, itt a földi létben szenvedés az éltem,<br/>Könnyezek a kesergőkkel, nem csüggedek mégsem.<br/>Mert tudom, hogy egykor mennybe, odaemelsz engem,<br/>Hol a dicső angyalokkal dicséreted zengem.</lines>
+    </verse>
+  </lyrics>
+</song>

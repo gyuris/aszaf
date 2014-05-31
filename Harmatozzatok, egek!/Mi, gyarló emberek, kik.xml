@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Mi, gyarló emberek, kik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi, gyarló emberek, kik e földön élünk,<br/>Sok szomorúságot és fájdalmat érünk,<br/>E világnak tengerén evezünk.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs nekünk e földön sehol nyugodalmunk,<br/>Nincsen maradandó, bizonyos városunk,<br/>Itt mindnyájan jövevények vagyunk.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak egyedül mennybe igyekezzék szívünk,<br/>Ott készíttetett el állandóság nékünk,<br/>Munka után mi örökös bérünk.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne bízzunk a veszendő világi pompához,<br/>Csalfa reményekkel teljes hiúsághoz,<br/>Mely hasonló múlandó árnyékhoz.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vétkünkért a testet böjttel sanyargassuk,<br/>Hív szolgálat alá szenvedéssel hajtsuk,<br/>És egészen Istenhez hódítsuk.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>És midőn testünktől a tiltott étkeket<br/>Megtagadjuk, és a hiú örömöket,<br/>Őrizzük meg a bűntől lelkünket.<br/>Emlékezzünk, porból lettünk,<br/>És hogy ismét porrá kell majd lennünk.</lines>
+    </verse>
+  </lyrics>
+</song>

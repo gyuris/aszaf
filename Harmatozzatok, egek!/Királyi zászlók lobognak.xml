@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Királyi zászlók lobognak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Királyi zászlók lobognak,<br/>Fénylik titka keresztfának,<br/>Min az élet megöletett,<br/>S halálával nyert életet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vérrel, vízzel foly oldala,<br/>Mit megsebesített vala<br/>Bűneink éles dárdája,<br/>S így mosogat annak árja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím, betelt, amit hirdete<br/>Dávid királynak éneke,<br/>Melyben jövendölt így szólván:<br/>Uralkodik Isten a fán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott fa, mely e nagy király<br/>Szent vérében ragyoghattál!<br/>Jeles gyökér, hogy törzsöke<br/>Ily szent tagokhoz érhete.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldog fa, lelkünk zálogát,<br/>Mely karjaidra felfogád,<br/>S minket kimentve megtöréd<br/>Lelkünk halálos ellenét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, Szent Kereszt, reménységünk,<br/>Üdvöz légy, mi békességünk,<br/>Nyerj a híveknek malasztot,<br/>Bűnösöknek bocsánatot!</lines>
+    </verse>
+  </lyrics>
+</song>

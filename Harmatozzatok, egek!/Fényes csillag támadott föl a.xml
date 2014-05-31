@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Fényes csillag támadott föl a</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fényes csillag támadott föl a keleti égen,<br/>Fénye, gyöngye messze látszik ezen a vidéken.<br/>Eljött Jézus, az új vendég, minden azt jelenti,<br/>Angyal, pásztor ez nagy fenség bő irgalmát zengi.</lines>
+    </verse>
+  </lyrics>
+</song>

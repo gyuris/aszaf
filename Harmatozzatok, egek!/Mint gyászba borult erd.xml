@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Mint gyászba borult erd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint gyászba borult erdő, bánattal van befestve<br/>A fájdalom honában a sírok keresztje.<br/>Adj nyugalmat és irgalmat, szent vigalmat,<br/>Úr Isten, a holtaknak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindenik gyászkeresztre a bánat könnyeivel<br/>A fájdalom angyala e szavakat írta fel:<br/>Adj nyugalmat és irgalmat, szent vigalmat,<br/>Úr Isten, a holtaknak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emeljük az ég felé összekulcsolt kezünket,<br/>Hogy nyerjenek enyhülést az Úrban kimúlt hívek.<br/>Adj nyugalmat és irgalmat, szent vigalmat,<br/>Úr Isten, a holtaknak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyugodjatok békében a csendes temetőben,<br/>Jézus neve ragyogjon sírotok éjjelében.<br/>Adj nyugalmat és irgalmat, szent vigalmat,<br/>Úr Isten, a holtaknak.</lines>
+    </verse>
+  </lyrics>
+</song>

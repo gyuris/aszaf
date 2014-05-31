@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szűz Mária napjának és szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária napjának és szent olvasójának ünnepe.<br/>Jöjjünk tiszteletére, zengjünk dicséretére éneket!<br/>Mert kedveli, ki tiszteli<br/>Az ő kedves szombatját, szent nevét, olvasóját üdvözli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendjünk ma, hívei, kis kertjének rózsái, énekkel!<br/>Mennyben is örvendeznek, angyalok zengedeznek szentekkel.<br/>Olvasóval, szép rózsákkal<br/>Trónusánál üdvözlik koszorúval, tisztelik szüzekkel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Anyaszentegyháznak mi is szent olvasóval dicsérjünk!<br/>Dicsőséges titokkal, szép rózsakoszorúval tiszteljük!<br/>Szép énekkel, üdvözlettel,<br/>Míg élünk e világon, minden szombati napon köszöntsük!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Üdvözlünk az angyallal, mert teljes vagy malaszttal, Mária!<br/>Az Úr vagyon teveled, megáldotta szent méhed, Mária,<br/>Mert te szülted, te nevelted<br/>Az Isten kedves Fiát, a világ Megváltóját, Mária.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Esedezzél érettünk szent fiadnál, könyörgünk, Mária,<br/>Hogy juthassunk mennyégbe, rózsáid seregébe, Mária!<br/>Hol tisztelni, üdvözleni<br/>Soha többé nem szűnünk, örömmel énekelünk, Mária!<br/>Juttass oda, hol már soha<br/>Nem lészen szomorúság, csak öröm és vigasság, Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Nézz e földi jegyesekre</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz e földi jegyesekre, mennyei jeges,<br/>Jöjj alá most a szívekre, s hozz áldást, kegyes.<br/>Hogy benned reméljenek, nagy nevedtől féljenek,<br/>S neked éljenek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Házasoknak sűrű jaját vidd messze tőlük,<br/>Páros élet nagy igáját vinni, légy velük.<br/>Legyen ez a nagy szentség terheikben könnyebbség<br/>És sok boldogság.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Valamint a szőlőtőnek a vessző híve,<br/>Úgy az eggyé vált kettőnek legyen egy szíve.<br/>Ez az első szeretet soha ne lásson véget,<br/>Míg tart az élet.</lines>
+    </verse>
+  </lyrics>
+</song>

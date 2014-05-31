@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, egek, vigadjatok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, egek, vigadjatok,<br/>Jézusért kik sírtatok!<br/>Csillagok, ragyojatok,<br/>Kik homályban voltatok!<br/>Napkelet van, itt a szép fény,<br/>Fölkel a kegyes remény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hála neked, szent Atyánk,<br/>Hogy tekintesz vissza, ránk,<br/>Szent hitünket nyugtatod,<br/>Bánatinkat altatod.<br/>Gyászöléből a halálnak<br/>Kihozod, akik várnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fölkel az, ki megfeszült,<br/>És minekünk éltet szült.<br/>Drága teste fénylik már,<br/>Mint égen a napsugár.<br/>Örömet hoz testeinknek,<br/>Benne kik reménykednek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy velünk, édes Jézus,<br/>Vétkeinkért el ne fuss.<br/>Már ha mostál véreddel,<br/>Szerelmed ne hagyjon el,<br/>Ha fölmentél a keresztre,<br/>Végy porból életre!</lines>
+    </verse>
+  </lyrics>
+</song>

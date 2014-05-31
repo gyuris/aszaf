@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Örök király, élet kútfeje</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örök király, élet kútfeje,<br/>Híveid megváltó Istene,<br/>Meggyőzted a halált, s általa<br/>Dicsőséged új fényt nyert vala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy Úr légy az egeken felül,<br/>Kormányozva örök végt'lenül,<br/>Égen s földön, mennyei Atyád<br/>Neked adta a hatalmat át.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Égi bérünk, édes Jézusunk,<br/>Légy örömünk, míg hozzád jutunk,<br/>Legyen a te hatalmas kezed,<br/>Mely minket a menny útján vezet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zengjen ég s föld örök éneket,<br/>Atya, Fiú s Szentlélek, neked,<br/>Áldva áldják a hármas egyet<br/>Mindörökké minden nemzetek.</lines>
+    </verse>
+  </lyrics>
+</song>

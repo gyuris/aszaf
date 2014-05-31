@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Fiam, Jézus, üdvözítőm</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fiam, Jézus, üdvözítőm,<br/>Vérem, testem, segítőm,<br/>Jaj, bűntelen, jaj, mint jártál,<br/>Gonoszokra akadtál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, ártatlan, szent bárányom,<br/>Drága gyöngyöm, aranyom,<br/>Fiam, édes, jaj, mint jártál,<br/>Gonoszokra akadtál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meghervadtál, édes vérem,<br/>Kínodat én is érzem,<br/>Érted eped, hasad szívem,<br/>Egyetlen igaz hívem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drága szent ártatlanságnak<br/>Bűnét így kell fizetni,<br/>S ma sincs vége hiúságnak,<br/>Méltán lehet siratni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Távozz hát, testünk vígsága,<br/>Jézus miatt epedek,<br/>Vesszen világ hiúsága,<br/>Ki Jézusom megölted.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus, letűnt, szép világom,<br/>Gyönggyel fűzött aranyom,<br/>Soha többé el nem válok,<br/>Tebenned van halálom.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézusom drága vérének<br/>Az árát kik becsülik,<br/>Gyászruhába öltözködnek,<br/>Mert pompa ma nem illik.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Elérkezett ama boldog</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elérkezett ama boldog és szerencsés óra,<br/>Melyben Mária Megváltót szült nekünk világra.<br/>Nagy örömmel vitte e hírt a pásztortanyára,<br/>Az angyal az Atyaisten parancsolatjára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pásztorok a fényes angyalt amidőn meglátták,<br/>Dicsőséges, békességes szavát hogy hallották,<br/>A Megváltó születése helyét tudakolták,<br/>Betlehemben lenni hallván, ott fel is találták.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pásztori ajándékikat eleibe tették,<br/>Összetévén kezeiket úgy dicsőítették.<br/>Jézust az ő Szent Anyjával leborulva kérték,<br/>Adjon áldást mindnyájukra, tőle meg is nyerték.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leborulva kérünk mi is, Úr Jézus, tégedet,<br/>Segéld ezen téged kérő ájtatos népedet.<br/>Örömzajra fakadozva szent születésedet<br/>Tiszteljük, engedd majd végre szemlélni színedet.</lines>
+    </verse>
+  </lyrics>
+</song>

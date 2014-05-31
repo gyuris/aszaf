@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Anyánk, ó, boldogságos Szűz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyánk, ó, boldogságos Szűz, feléd száll sóhajunk,<br/>Bánattelt szívvel járulunk hozzád, s leborulunk.<br/>Fájón sajog szívünk, mert csalódunk szüntelen,<br/>Hitünk s bizalmunk megrendült itt már mindenkiben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyánk, ó, boldogságos Szűz, jöjj közénk, s légy velünk,<br/>Töröld le fájó könnyeink, s nyújtsál vigaszt nekünk.<br/>Ha már nincs itt, e földön boldogság számunkra,<br/>Vezess, ó, Szűzanyánk, mennybe ha jő a végóra.</lines>
+    </verse>
+  </lyrics>
+</song>

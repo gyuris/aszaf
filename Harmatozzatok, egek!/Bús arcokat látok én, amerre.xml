@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Bús arcokat látok én, amerre</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bús arcokat látok én, amerre csak tekintek,<br/>Sír az ifjú, sír a vén, jaj, mit jelentnek ezeke?<br/>Harangok is búsan szólnak, és szomorú,<br/>Tompa hangot adnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látom, sok szegény árva atyját s anyját keresi,<br/>De régen el van zárva előle, és nem leli.<br/>Az özvegy is könnytelt szemmel nézi, hol van<br/>Az, kivel élt örömmel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hű barát barátja emlékének áldozik,<br/>És hogy őt nem láthatja, szíve fáj, sóhajtozik.<br/>Bús tehát itt minden lélek, mondjátok meg,<br/>Ó, mit jelentnek ezek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keresztények, gyásznap ez, mert a megholtak napja,<br/>Szemetek méltán könnyes, s könnyét méltán hullatja.<br/>Tudom, nincs szív közöttetek, imát értük<br/>Hogy mennybe ne küldjetek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tekints le, kegyes Isten, a szenvedő lelkekre,<br/>Halld meg könyörgésünket, és vedd fel a mennyekbe.<br/>Szent véred egy cseppje elég, ó, könyörülj<br/>Rajtuk, Isteni felség.</lines>
+    </verse>
+  </lyrics>
+</song>

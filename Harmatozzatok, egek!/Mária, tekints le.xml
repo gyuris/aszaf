@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Mária, tekints le</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, tekints le<br/>Csillagtrónusodról,<br/>Harmatos a világ<br/>A sok könnyhullástól.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mely omlik az árvák<br/>S özvegyek szeméből,<br/>Kik hozzád esdenek<br/>Siralom völgyéből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jaj de szomorú kert<br/>A gyászos temető,<br/>Sok itt a porló szív,<br/>Sok itt a könnyező.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt az élethatár,<br/>Itt a végelválás,<br/>Itt már nem ébreszt fel<br/>Senkit a zokogás.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mint őszi vihartól<br/>Összetört rózsafa,<br/>A sírok közt úgy jár<br/>A bús, özvegy anya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kis árvájaival<br/>Roskad egy sírhantra,<br/>Mely alatt nyugszik a<br/>Hű társ és jó atya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jaj de csöndes a sír,<br/>Néma a temető,<br/>Mély álmát alussza<br/>A kenyérkereső.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Az atyai szívre<br/>Halál keze borul,<br/>A szerető szívre<br/>Sírhalom domborul.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>De van az égben egy<br/>Mindenható Atya,<br/>Aki az árváknak<br/>Könnyeit számlálja.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Van egy Atya, aki<br/>Maga is árva volt,<br/>Mikor Szent Szülötte<br/>A keresztfán megholt.</lines>
+    </verse>
+  </lyrics>
+</song>

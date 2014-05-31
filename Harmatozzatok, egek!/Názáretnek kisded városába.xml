@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Názáretnek kisded városába</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Názáretnek kisded városába küldé az Úr angyalát,<br/>Követségbe Joákim házába, hogy köszöntse Máriát.<br/>Ki híven, szelíden<br/>Él Istennek kedvében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megkeresvén Gábriel arkangyal így köszönté a szüzet:<br/>Üdvöz légy, mert az Úr felmagasztal, és áldást hit kívüled,<br/>Mert a fiát a világ<br/>Szűz méhedből veszi át.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint lehet ez – a szűz félve kérdi –, hisz férjet nem ismerek,<br/>Elmém a te szavaid nem érti, s szívem rajtuk megremeg.<br/>Szűz leszen életem,<br/>Ez eskü igéretem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem úgy, ne félj – szól tovább az angyal –, szüzességed megmarad,<br/>A Szentlélek betölt szent malaszttal, s rád semmi szenny nem tapad.<br/>Ó, vegyed ezt a jelt,<br/>Liliom illet téged.</lines>
+    </verse>
+  </lyrics>
+</song>

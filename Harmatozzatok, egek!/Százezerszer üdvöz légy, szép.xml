@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Százezerszer üdvöz légy, szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Százezerszer üdvöz légy, szép Szűz Mária,<br/>Te vagy a lurdi barlang fényes csillaga.<br/>Fehér rózsaszál, értünk leszálltál,<br/>A sziklabarlang elött forrást nyitottál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott van a Szűz Mária tiszta fehérben,<br/>Szent olvasó tündöklik drága kezében.<br/>Fehér rózsaszál, értünk leszálltál,<br/>A lurdi barlang előtt kivirágoztál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyönyörűen tündöklik drága, szent képed,<br/>Mosolyogva köszöntött a kis Bernadett:<br/>Mondd meg nevedet, hogy köszöntselek,<br/>Mennyből szállott szűz virág, jöjj hát közelebb!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeplőtelen a nevem, kedves gyermekem,<br/>Buzgóságod, hő imád megtetszett nekem.<br/>Hirdesd a népnek, hogy mind jöjjenek,<br/>A sziklabarlang előtt megjelenjenek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ragyog a sziklabarlang, sötét kőszikla,<br/>Melyben mosolyogva áll a Szűz Mária.<br/>Fehér rózsaszál, értünk leszálltál,<br/>A sziklabarlang előtt forrást nyitottál.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hófehér, szép liliom, szende ibolya,<br/>Szent fejeden tündöklik csillagkorona.<br/>Szép vagy, Mária, mint a hóvirág,<br/>Mert Szentlélek áldása szállott le reád.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Összetette kezeit a kis Bernadett,<br/>Ó, szentséges Szűzanyám, vigy' el hát veled,<br/>Jaj, mert üldöznek, nekem nem hisznek,<br/>Szeplőtelen liliom, égi nefelejcs.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vadrózsa lábad alatt szelídet nyílott,<br/>Drága Szent Szűz, ajkadról ezen szó hangzott:<br/>Itt lesz gyógyforrás a kősziklán, lásd,<br/>Itt a sánták és bénák nyernek gyógyulást.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Most elődbe borulunk, szép Szűz Mária,<br/>Anyai, szent áldásod add mindnyájunkra!<br/>Egykor az égben, dicsőségedben<br/>Imádhassunk tégedet magas mennyekben.</lines>
+    </verse>
+  </lyrics>
+</song>

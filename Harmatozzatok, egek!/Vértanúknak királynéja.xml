@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Vértanúknak királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vértanúknak királynéja, örvendezhetsz ma,<br/>Szűnik immár szíved jajja, szemed siralma.<br/>Itt az öröm édes napja, hit s reménységnek alapja,<br/>Mária, Mária, vigadj, és mondd velünk, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki előbb nagy istenségét ködbe rejtette,<br/>Ma dicső, szent emberségét istenítette.<br/>Szenvedett bár és halt itten, megmutatja ma, hogy Isten.<br/>Mária, Mária, vigadj, és mondd velünk, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Törülgesd le, Szűz, szemedről fájó könnyedet,<br/>Feledkezzél keservedről, s nézd szülöttedet.<br/>Fölkel épen, és hozzád jön, rajta szíved hogy örüljön.<br/>Mária, Mária, vigadj, és mondd velünk, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elmúlt drága, szent Fiadnak minden fájdalma,<br/>Hát keserves fájdalmadnak itt a jutalma.<br/>A hegyes tőr szül rózsákat, könnyed hoz édes órákat.<br/>Mária, Mária, vigadj, és mondd velünk, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

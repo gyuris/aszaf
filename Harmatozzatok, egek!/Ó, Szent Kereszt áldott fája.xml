@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Ó, Szent Kereszt áldott fája</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Szent Kereszt áldott fája,<br/>Drága a te gyümölcsöd:<br/>Istenember, Úr Krisztus,<br/>Rajta függ értünk Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy váltságunk zászlója,<br/>Üdvösségünk záloga,<br/>Rajtad a kín és halál, és halál<br/>Örök éltünkre szolgál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fán kezdődött kárhozatunk,<br/>Fán végződött váltságunk,<br/>Egyik halált okozott, okozott,<br/>A másik éltet hozott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, felséges királyi szék,<br/>Mit nem arany ékesít,<br/>De a szentek szentjének, szentjének<br/>Árja drága vérének.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E vér mossa le vétkünket,<br/>E vér Istent engesztel,<br/>Gyógyít lelki sebeket, sebeket<br/>S megnyitja az egeket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Üdvözlégy hát, ó, Szent Kereszt,<br/>Téged áldva tisztelünk,<br/>Te vagy a mi örömünk, örömünk,<br/>Dicsőségünk s gyönyörünk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te enyhíted fájdalminkat,<br/>Te könnyíted terhünket,<br/>Te vagy erős oltalom, oltalom,<br/>Ha a kínok súlya nyom.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Alattad megindul a szív,<br/>S bánja vétkes tetteit,<br/>Teáltalad az ember, az ember<br/>Az üdvre érdemet nyer.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Azért kérünk, édes Jézus,<br/>Add, hogy a te kereszted<br/>Legyen itt hű vezérünk, vezérünk,<br/>Míg hozzád el nem érünk.</lines>
+    </verse>
+  </lyrics>
+</song>

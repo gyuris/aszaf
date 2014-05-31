@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Halljátok ti, kik a porban</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halljátok ti, kik a porban laktok,<br/>S a könnyek völgyében itt zokogtok.<br/>Harsog a hírnöknek trombitája,<br/>Oszlik az ősi bűn éjszakája.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, kit a gyarlóság rég óhajtott,<br/>Ó, nyiss, bűnös világ, neki ajtót!<br/>Mint harmat gyöngye a liliomra,<br/>Úgy szállt le hozzánk az Úr angyala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Jézus, mindenség boldogsága,<br/>Jöjj, szállj be lelkünknek hajlékába!<br/>Míg a bűn hullámi közt itt élünk,<br/>Malasztot adj, hogy csak neked éljünk!</lines>
+    </verse>
+  </lyrics>
+</song>

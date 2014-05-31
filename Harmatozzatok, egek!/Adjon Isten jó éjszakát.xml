@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Adjon Isten jó éjszakát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjon Isten jó éjszakát,<br/>Bevégeztük a szent munkát.<br/>Már nyugalomra, csendes álomra<br/>Hajtsuk fejünket, adjuk testünket!<br/>Áldj meg, ó, Jézus, bennünket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Engedd csendben, hogy pihenjünk,<br/>Szent szíveden megnyugodjunk.<br/>Virrassz fel minket jó egészségben<br/>Holnapi napra, szolgálatodra,<br/>Adj erőt imádásodra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint a pásztorok imáját,<br/>Három király ajándékát,<br/>Oly kedvesen vedd imádságunkat,<br/>Éneklésünket, kis olvasóinkat,<br/>E csekély fáradságunkat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, Mária, Szent József,<br/>Ha megsemmisül az élet,<br/>Halálunkkor is azt rebeghessük:<br/>Jézus, Mária, József, légy velünk,<br/>Hogy üdvözülhessen lelkünk.</lines>
+    </verse>
+  </lyrics>
+</song>

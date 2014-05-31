@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Van egy gyönyörű kert</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy gyönyörű kert, gyémánt az ajtaja,<br/>Égi rózsát terem, soha nincs bezárva,<br/>Nincs ajtaján lakat, könnyen beleléphetsz,<br/>Ha tiszta a szíved, te is rózsa lehetsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drágakövekkel van az körülkerítve,<br/>Mennyei kő ragyog minden szögletébe,<br/>Közepén tündöklik Mária trónusa,<br/>Melyben ragyogva ül a kert királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A ragyogó kertben háromszínű virág,<br/>Öt fehér, öt piros és öt sárga rózsa,<br/>Nem hervasztja azt el a forró napsugár,<br/>Mindegyik rózsának illata égbe száll.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Angyalok fogják meg mindenkinek kezét,<br/>Aki ezen kertbe igaz hittel belép.<br/>Lépj be, buzgó lélek, de jusson eszedbe,<br/>Hogy ez a Mária szép virágoskertje.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ebben a szép kertben nyílik égi virág,<br/>Melyből az angyalok készítnek koronát.<br/>Örökké ragyog a tündöklő korona,<br/>Mert ez a szent füzér társulatnak tagja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tíz Üdvözlet között egy Miatyánk vagyon,<br/>E percben beléphetsz, ha naponta mondod,<br/>Hol az angyalokkal égi dicsőségben<br/>Koszorút készíthetsz Mária fejére.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jertek, buzgó hívek, lépjünk e szép kertbe,<br/>Örömmel siessünk Mária elébe.<br/>Nem kell oda arany, nem kell bársonyruha,<br/>Csak a tiszta lélek buzgó indulata.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó, menjünk, mert várnak az égi angyalok,<br/>A szent olvasóból fűzzünk szép koszorút.<br/>Akkor e szép kertnek rózsái lehetünk,<br/>A mennyországban is koszorút köthetünk.</lines>
+    </verse>
+  </lyrics>
+</song>

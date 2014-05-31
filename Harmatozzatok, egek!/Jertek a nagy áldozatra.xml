@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Jertek a nagy áldozatra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek a nagy áldozatra, Isten földi gyermeki,<br/>Alázattal, térdet hajtva szolgáljatok itt neki.<br/>A nagy Isten rejlik itten,<br/>Drága szentség, szent Istenség,<br/>Imádjon a mindenség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A hívő nép buzgó keble énkeszóval zengedez<br/>Annak, kit e kenyér leple szemünk elől elfedez.<br/>A nagy Isten rejlik itten,<br/>Drága szentség, szent Istenség,<br/>Imádjon a mindenség.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, hívő szívvel valják híved, ó, nagy titok:<br/>Hogy a kereszt áldozatját naponkint megújítod.<br/>A nagy Isten rejlik itten,<br/>Drága szentség, szent Istenség,<br/>Imádjon a mindenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hajolj meg, ó, ég, felettünk, szálljatok le, angyalok,<br/>Hozsannával mihelyettünk áldjátok a szent valót.<br/>Jézus maga rejlik itten,<br/>Drága szentség, szent Istenség,<br/>Imádjon a mindenség.</lines>
+    </verse>
+  </lyrics>
+</song>

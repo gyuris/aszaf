@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, ó, drága vendég</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, ó, drága vendég,<br/>Kit most küldött a kegyes ég,<br/>Mindeneknek alkotója,<br/>Embereknek Megváltója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigadozzunk új fényednél,<br/>Leborulunk szent színednél,<br/>Szénád közé könnyet öntünk,<br/>Kicsi Jézus, így köszöntünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Földön már új napvilág van,<br/>Dicsőség a magasságban,<br/>Angyal néki ezt kiáltja,<br/>Néma csillag Őt imádja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi is immár angyalokkal,<br/>Tiszta szívű pásztorokkal<br/>Jászlad előtt áldunk téged,<br/>Ó, adj nekünk békességet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szűz Mária, vigadozz már,<br/>Karodon ül csillagod már,<br/>Áldanak a földi népek,<br/>És boldognak hívnak téged.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Födve Fiad arcocskája,<br/>De mi hittel nézünk rája,<br/>Add, hogy éltünk nagy óráján<br/>Láthassuk az ég oltárán.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, egeknek ékessége,<br/>Királyoknak dicsősége,<br/>Most az angyalt mi fölváltjuk,<br/>Istenünk vagy, azt kiáltjuk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Megismerünk jászolodban,<br/>És imádunk istállódban,<br/>Bár homályba rejteztél is,<br/>Igaz Isten vagy te mégis.</lines>
+    </verse>
+  </lyrics>
+</song>

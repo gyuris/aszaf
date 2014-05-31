@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>A kis Jézus aranyalma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A kis Jézus aranyalma,<br/>Boldogságos Szűz az anyja.<br/>Lábaival ringatgatja,<br/>Két karjával ápolgatja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aludj, aludj, én kisdedem,<br/>Betlehemi kis gyermekem.<br/>Nem királyné a te anyád,<br/>Szolgamódból lettem dajkád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézuskának nincs bundája,<br/>Posztóval van bepólyázva.<br/>Elveszett a báránykája,<br/>Miből lett volna bundája.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, te, dudás, mit szundikálsz?<br/>Fényes az ég, nem kell lámpás.<br/>Verjed, verjed a citerát,<br/>Zengj Jézusnak egy szép nótát.</lines>
+    </verse>
+  </lyrics>
+</song>

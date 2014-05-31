@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>A mennyei szent városnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mennyei szent városnak<br/>Gyöngykapui ma megyníltak<br/>Jézus édesanyjának,<br/>Áldott Szűz Máriának.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvend az egész mennyország,<br/>Halhatatlan nagy boldogság<br/>Lett díja Máriának,<br/>Egek királynéjának.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az angyalok dicsérettel<br/>S magasztaló énekekkel<br/>Zengedezve hódolnak<br/>Dicső királynéjuknak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, Nagyboldogasszony,<br/>Méltán boldog e szűz asszony,<br/>Ég s földnek királynéja,<br/>Jézus anyja, Mária.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, dicsőség királynéja,<br/>Nézz reánk is, szolgáidra,<br/>Irgalmasságnak anyja,<br/>Légy híveid oltalma.</lines>
+    </verse>
+  </lyrics>
+</song>

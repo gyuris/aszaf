@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, jaj nekem, bús anyának</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, jaj nekem, bús anyának, ó, jaj nekem, Máriának,<br/>Ki itt állok félig holtan nagy fájdalomban!<br/>Jaj, virágok, bú virága, szűz szívem kitépett ága,<br/>Óh, egyetlen szép reményem, szent Fiam, vérem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nap olyan nem jön az égre, bánatom hogy jutna végre,<br/>Hogy szememből kiapadna könnyeim patakja.<br/>Mint madáré száraz ágon, olyan lett az én világom,<br/>Szívemnek nem lesz nyugalma, mert meg vagy halva.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mostoha zsidó nemzet nekem, ó, mily nagy gyászt szerzett,<br/>Jaj, ki lesz már e világon az én istápom?<br/>Szűz leányok, gyöngyvirágok, ültessetek gyászvirágot<br/>Golgotának tetejére, hol elfolyt vére!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fiamért míg itt búsongok, födjetek be, pálmalombok,<br/>Ellenségek hogy ne lássák könnyeim folyását.<br/>Drága kincsem, boldogságom, szép vonásid már nem látom,<br/>Gyönge karod nem ölelget, kiadtad lelked.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Köszönöm a nagy kegyelmet, mely őrt állott éltem mellett,<br/>Jól pihentem, jól nyugodtam az áldásidban.<br/>Nem nyitod meg már ajtómat, még csak hírt sem hallok rólad,<br/>Kiskertem legszebb virága, elhervadt ága.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vigasztalóm voltál nekem, mindig szántad özvegységem,<br/>Most vagyok csak özvegy-árva: sírba vagy zárva.<br/>Az én lelkem tőrrel rakva, legyen az Úr akaratja,<br/>Míg meglátlak szép hazádban, mennyországodban.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Meghalt Fiam, édes vérem, szent szívedet arra kérem:<br/>Légy vára a bánkódóknak, őre a jóknak.<br/>Enyhítsd búját a világnak, kik szenvedni veled vágynak,<br/>Kik tehozzád jönnek hittel, az égbe vidd fel!</lines>
+    </verse>
+  </lyrics>
+</song>

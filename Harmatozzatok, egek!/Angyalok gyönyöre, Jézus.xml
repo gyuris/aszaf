@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Angyalok gyönyöre, Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angyalok gyönyöre, Jézus, Isten Fia,<br/>Földiek étele, üdvünknek záloga!<br/>Itt vagy ez oltáron, ki minket nagy áron<br/>Szent véreden visszavettél,<br/>Örök haláltól mentettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Közöld itt kincsedet velünk mindenestül,<br/>Átadod lényedet testestül-lelkestül.<br/>Ó, te hív és kegyes, lángszerelmű jegyes,<br/>Íme, Jánossal melleden<br/>Szenderülünk szent szíveden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy árvák ne legyünk zarándokságunkban,<br/>Jézus, itt vagy velünk e vándorlásunkban.<br/>Jegyesed asztalán jelen, későn s korán<br/>Vagy ételünk és italunk,<br/>Veled élünk, veled halunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Testünkkel e kenyér hát összetestesül,<br/>Vérünkkel ez a vér titkosan egyesül.<br/>Hol az a nemzetség, melyhez az Istenség<br/>Ilyen közel adná magát<br/>Véle közölvén jóságát?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vedd ünneplésünket, ó, lelkünknek ára,<br/>Tisztelkedésünket a világ láttára.<br/>Bár szemmel nem látunk, sem meg nem foghatunk,<br/>Hiszünk szavadnak, hogy itten<br/>Isten vagy, mint ember s Isten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Elrejtett Istenség, mennyire kedveltél,<br/>Foghatatlan mélység, reánk mit költöttél.<br/>Mennyei kincsestár, tessék e zöld oltár,<br/>Imád és áld itt minden szív,<br/>Valaki szent szavadhoz hív.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kit most e Szentségben hiszünk elrejtezve,<br/>Majd a dicsőségben lejössz, felfödözve.<br/>Megmondja majd a dél, mit rejt e kis födél,<br/>Hogy e két szín nem bor s kenyér,<br/>Hanem valódi test és vér.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Addig is nevednek mondunk dicséretet,<br/>Drága Szentségednek adunk tiszteletet.<br/>Míg mozog szíverünk, légy a mi kenyerünk,<br/>Táplálj minket, szent eledel,<br/>Míg a sírhalmunk el nem nyel.</lines>
+    </verse>
+  </lyrics>
+</song>

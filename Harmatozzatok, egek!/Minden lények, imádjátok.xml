@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Minden lények, imádjátok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden lények, imádjátok a teljes Szentháromságot,<br/>Atya, Fiú és Szentlélek, téged áldjon minden lélek!<br/>Oszthatatlan Szentháromság, kér a földi alacsonyság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen a hit drága kincsünk, mit el soha ne veszítsünk,<br/>Szűnjék meg a hitetlenség, terjedjen az életszentség,<br/>Oszthatatlan Szentháromság, kér a földi alacsonyság.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Buzgalommal áldd meg néped, hadd szolgáljon vígan néked,<br/>És belássa a halandó, hogy itt minden csak mulandó,<br/>Megfejtetlen Szentháromság, kér a földi alacsonyság.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldásidat dúsan hintsed, csapásoktól ments meg minket,<br/>Ne büntess sok bűnünk végett, bor s búzában adj bőséget,<br/>Megfoghatlan Szentháromság, kér a földi alacsonyság.</lines>
+    </verse>
+  </lyrics>
+</song>

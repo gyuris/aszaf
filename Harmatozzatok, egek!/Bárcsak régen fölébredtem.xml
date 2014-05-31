@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Bárcsak régen fölébredtem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bárcsak régen fölébredtem volna,<br/>Látod, pajtás, most állottam talpra.<br/>Máris csendül a fülembe angyalok mondása:<br/>Hogy a Jézus most született rongyos istálóba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odamenni vagyon bátorságom,<br/>Azt remélem, kis Jézust meglátom.<br/>Gyere, pajtás, induljunk el, legyél te is társunk,<br/>Velünk van a jó furulyás, a régi bojtárunk.</lines>
+    </verse>
+  </lyrics>
+</song>

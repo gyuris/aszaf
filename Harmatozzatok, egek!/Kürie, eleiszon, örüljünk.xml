@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Kürie, eleiszon, örüljünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kürie, eleiszon, örüljünk ezen éjfélben,<br/>Mert született Üdvözítőnk ma Betlehemben.<br/>Az angyalok éneklik, pásztoroknak hirdetik,<br/>Hogy született a Messiás ezen éjfélben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kriszte, ekiron, vigadjunk kegyes Urunkban,<br/>Mi váltságunkra született kis Jézusunkban.<br/>Betlehemi pajtába, betakarva pólyába,<br/>Barmok közé helyeztetett hideg jászolba.</lines>
+    </verse>
+  </lyrics>
+</song>

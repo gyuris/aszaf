@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Mária, Szent József nagy útra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Szent József nagy útra indultak,<br/>Názáret városból mikor elindultak.<br/>Betlehemhez értek, nagyon elfáradtak,<br/>A hideg időben szállást nem találtak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sír a Szűz Mária szíve fájdalmában,<br/>Hol fog megpihenni sötét éjszakában?<br/>Ne sírj, Szűz Mária, én Teremtőm anyja,<br/>Velünk az ég és föld hatalmas királya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betlehemnek népe mért olyan kőszívű,<br/>Nem szánják Máriát, hogy úgy sír egyedül?<br/>A kőnél keményebb annak a kebele,<br/>Aki a Szűz Anyát kizárja belőle.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kitárom szívemet, várlak hajlékomba,<br/>Mert tudom, ó, szent Szűz, hogy kivel jössz oda.<br/>Ne sírj, Szűz Mária, puha ágyat vetek,<br/>A szív szerelmével fel is melegítlek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne sírj, Szűz Mária, én sírok helyetted,<br/>Hogy örök hajlékod lehessen én szívem,<br/>Hozzad szent áldásod a kis gyermekeddel,<br/>Örökös lakásul szívemet fogadd el.</lines>
+    </verse>
+  </lyrics>
+</song>

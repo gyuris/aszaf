@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Ó Isten, ó, Atyánk, élet s</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Isten, ó, Atyánk, élet s halál Ura,<br/>Kérünk, tekints szívünk égő fájdalmira.<br/>Könnyet hullat szemünk, vérző, fájó szívünk,<br/>Midőn a holtakért hozzád esedezünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hány szomorú özvegy könnyezi hű párját,<br/>Hány kesergő szülő szeretett magzatát,<br/>Hány elmaradt árva tekint fel az égre,<br/>És könnyezve borul a sír keresztjére.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Testvér testvéréért kéri az ég Urát,<br/>Hogy enyhítse meg az elholtak nagy kínját.<br/>Barát barátjáért könnyezve kesereg,<br/>S imádkozik azért, ki sírban szendereg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi is így sóhajtunk: Isten, nyugalmat adj,<br/>Vigasz nélkül, kérünk, egy megholtat se hagyj!<br/>Kik a tisztító láng gyötrelmét szenvedik,<br/>Irgalmazz, ó Atyánk, ó, irgalmazz nekik.</lines>
+    </verse>
+  </lyrics>
+</song>

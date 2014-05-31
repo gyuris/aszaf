@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, felséges, nagy Úristen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, felséges, nagy Úristen,<br/>Ismét egy év eltelt itten.<br/>Itt van az esztendő vége,<br/>Borul életünk szépsége.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vétkeinkkel rakva voltak<br/>A napok, melyek elmúltak.<br/>Tátogat ránk a nagy örvény,<br/>Kárhozatot mond a törvény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit fizessünk, szép szerelem,<br/>Hogy ily nagy volt a kegyelem?<br/>Legyen neked annyi hála,<br/>Amennyi fejünk hajszála.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kérünk pedig, a jövőben<br/>Légy velünk minden percünkben.<br/>Ha pedig jő végső óránk,<br/>Légy kegyelmes, édes bíránk.</lines>
+    </verse>
+  </lyrics>
+</song>

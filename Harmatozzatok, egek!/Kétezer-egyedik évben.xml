@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Kétezer-egyedik évben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kétezer-egyedik évben,<br/>Kik virradtunk egészségben,<br/>Áldjuk mindnyájan teremtő Istenünket,<br/>Hogy megadta, megtartotta életünket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A múltban hányan elmentek,<br/>Akik itt velünk örvendeztek,<br/>Hány árva gyermek kesergi apját, anyját,<br/>Hány hitvestárs sóhajtozza elhunyt társát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De minekünk az Úristen<br/>Megadta ezt érnünk itten,<br/>Ez új esztendőben tehát örvendezzünk,<br/>A mi kegyes Teremtőnknek hálát zengjünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egyszersmind buzgó imával,<br/>Kérjük leborult orcával,<br/>Királyunkat, országunkat békességben<br/>Tartsa ez új évnek minden perceiben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Római szentséges pápánk<br/>És helybeli lelki atyánk,<br/>Előljáróinkkal együtt ez új évben,<br/>Kegyelemnek Szent Istene, tartsd épségben!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Minden egyes lakosinkat,<br/>Szegényeket, gazdagokat,<br/>Özvegyeket és árvákat kegyelmedbe<br/>Ajánljuk, fölséges Isten, ez új évben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tűztől, víztől, jégesőtől,<br/>Hadaktól, dögtől, éhségtől<br/>Őrizz, oltalmazz bennünket kárvallástól,<br/>Szent Istenünk, ments meg hirtelen haláltól.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Áldd meg a mi vetésinket,<br/>Gyümölcsfáink, szőlőinket,<br/>Mindennemű jószáginkat tartsd meg velünk<br/>Ez új évben, arra kérünk, nagy Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

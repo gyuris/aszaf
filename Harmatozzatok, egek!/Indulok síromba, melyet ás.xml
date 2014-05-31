@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Indulok síromba, melyet ás</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indulok síromba, melyet ás anyám vétke,<br/>Megyek a poromba, s leszek a férgek étke.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ádám atyánk vétke sürget a sírba szállni,<br/>Éva bűnös lelke kényszerít porrá válni.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velük bár nem éltem az Isten tilalmából,<br/>De bennük vétettem, s jöttem a bűn ágyából.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindenek elhagynak engemet e világon,<br/>A szívek megfagynak, nincsen senki barátom.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Állok a határon, pokol és a menny között,<br/>Sírok a nagy káron, melybe végem ütközött.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De bízom tebenned, ó, szerelmes Jézusom,<br/>Hogy a szereteted leszen az én orvosom.<br/>Jöjj el, édes Megváltóm, jöjj, kegyes szabadítóm,<br/>Légy te most vidámítóm!</lines>
+    </verse>
+  </lyrics>
+</song>

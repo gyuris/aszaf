@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Rózsafűzér Királynője, légy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rózsafűzér Királynője, légy köszöntve általunk,<br/>Kihez oltár zsámolyánál áldozattal hódolunk!<br/>Mennyből hozott szent hitünkön tiszteleted a zománc,<br/>Olvasód, mely szívedhez fűz, imákból font rózsalánc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A legszentebb rózsafüzér minden szemén egyaránt<br/>Ott bimbódzik illatozva édes neved, Szűzanyánk.<br/>Végy bennünket szűz öledbe, hol Jézusod nyugodott,<br/>Zárd szívünket szent szívedbe, mely csak értünk ver s dobog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Váltságunknak nagy emléke a szentmiseáldozat,<br/>Szent olvasód minden titka hitünkből egy ágazat.<br/>Gyémánt s gyöngy a Hiszekegynek minden egyes szent szava,<br/>Egy gyöngysora koronádnak, szűz virágunk, szent anya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rózsafüzér Királynője, szent, szent, zengd te is velünk,<br/>Szent az égben, szent a földön nagy hatalmú Istenünk.<br/>Téged, Szent Szűz, az angyallal áldunk későn és korán,<br/>Jöjj el hozzánk, végy az égbe életünk esthajnalán.</lines>
+    </verse>
+  </lyrics>
+</song>

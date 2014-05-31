@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Kesergő híveid édes vigassága</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kesergő híveid édes vigassága,<br/>Minden magyar szívnek egyetlenegy vágya,<br/>Dicsőséges, mennyben könyörülő Anyánk,<br/>Szánd meg a te néped, s hallgasd meg hő imánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged kik elhagytunk, hálátlan gyermekid<br/>Bűnös nyomorunkban ne hagyjál elveszni.<br/>Hozzád menekülünk nyújts vigaszt, pátrónánk,<br/>Szánd meg a te néped, áldd meg, ó, jó Anyánk.</lines>
+    </verse>
+  </lyrics>
+</song>

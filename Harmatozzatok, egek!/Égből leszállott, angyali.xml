@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Égből leszállott, angyali</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égből leszállott, angyali kenyér, világmegváltó, drága Istenvér,<br/>Gyermeki hittel ha rád tekintek, szívem megdobban, s lelkem megremeg.<br/>Térdre borulva mellemet verem, hogy ily kegyes hozzám én Istenem,<br/>Ki megbocsát, bár bűneim nagyok, Uram, Uram, méltó én nem vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívembe száll az ég és föld Ura, hogy ott legyen királyi trónusa.<br/>Köröttem lengnek tiszta szellemek, és angyalok hozsannát zengenek.<br/>Hódolva így a Legszentebb előtt, egész világ imádva áldja Őt,<br/>Feledve most az emberi bajok, Uram, Uram, méltó én nem vagyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És míg lehajtott fővel térdelek, felettem szétnyílnak a fellegek,<br/>Egy szózat tör a mindenségen át, hallom az Úr vigasztaló szavát:<br/>„Jertek hozzám, kik elfáradtatok, a fáradtaknak enyhe én vagyok.”<br/>Túláradó lelkem most felzokog: Uram, Uram, méltó én nem vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

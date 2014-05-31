@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Megszólalt mennyország</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megszólalt mennyország gyönyörű harangja,<br/>Új hó vasárnapra csendült kedves hangja.<br/>Ünnep ez minekünk, mert új titkot nyerünk<br/>A szent olvasóból, mely erős eszközünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jertek, hív társaim, öltözzünk fehérbe,<br/>Égő gyertyát tartson mindenki kezébe':<br/>Mert ma jön körünkbe mennynek Nagyasszonya,<br/>Ki gyermekeinek, ím, ezeket mondja:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjetek mindnyájan, szép, élő rózsáim,<br/>Gyönyörű mezőben, fiaim, leányim.<br/>Hozzátok vissza a múlt hónapi titkot,<br/>A szép rózsabimbót, melyet megújíttok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A szép, zöldkoszorú megújul mai nap,<br/>Mert minden élő tag gyönyörű titkot kap.<br/>Úgy ragyog a titka, mint a Nap sugára,<br/>S mint majd fényleni fog, égi koronája.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zöld mező közepén van egy trón: rubintos,<br/>Azon van egy rózsa, mely tiszta vérpiros.<br/>Az a piros rózsa a szép Szűz Mária,<br/>Szent olvasónk áldott égi királynéja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent angyalok jönnek kertet keríteni,<br/>Tizenöt rózsával azt körülültetni.<br/>Hull e kertre égből szent malaszt harmatja,<br/>Az égi kegyelmet a Szentlélek adja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mennyországban ma a szentek vigadoznak,<br/>Az ének hangjai örömtől hangoznak:<br/>Ha a buzgó tagok itt mind megjelennek,<br/>És Szűz Máriával új titkot cserélnek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jertek, ti, mindnyájan, nagy örömmel várlak,<br/>Soha el nem hagylak, és szívembe zárlak.<br/>Olvasótok minden gyöngye bizonyítja:<br/>Vígasztal titeket az új hónap titka!</lines>
+    </verse>
+  </lyrics>
+</song>

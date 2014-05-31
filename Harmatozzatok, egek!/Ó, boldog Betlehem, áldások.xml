@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Ó, boldog Betlehem, áldások</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, boldog Betlehem, áldások városa,<br/>Ott sír a védtelen bús árvák támasza.<br/>Földiek öröme, égiek gyönyöre,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még a vész, fergeteg nem zúg fejed felett,<br/>Ölelő szeretet dajkál s enyelg veled.<br/>Védnek az angyalok, őrt állnak a pásztorok,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem Júdás az, ki most csókokkal elborít,<br/>Szűz Anyád az, ki most hű keblére szorít.<br/>Ringatnak karjai, befödöznek szárnyai,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mért zokogsz oly nagyon, messze van még a nap,<br/>Midőn gyászsorsodon gyászba borul a Nap.<br/>Nincs kereszt válladon, melyre bűnünk karja von,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Még gyilkos vérbakók nem tudnak felőled,<br/>Most szelíd állatok állnak körülötted.<br/>Még hűtlen nemzeted kínfára nem feszeget,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent József megveti szalmából ágyadat,<br/>Palástját rád fedi, szemében könny fakad.<br/>Előtted leborul, Máriával udvarol,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én is leroskadok jászol-trónod előtt,<br/>Szánd meg a bánkódót, kérlek, ne űzd el őt.<br/>Bűneim bár nagyok, de irgalmad még nagyobb,<br/>Ne sírj, kis Jézuskám!</lines>
+    </verse>
+  </lyrics>
+</song>

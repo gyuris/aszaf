@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szent József, Úr Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent József, Úr Jézus fölnevelő atyja,<br/>Fogadd e gyöngyfűzért magasztalásodra.<br/>Amit most örömmel neked készítettünk,<br/>Ó, boldog Szent József, vedd kedvesen tőlünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kisded Jézusnak ajánld fel éltünket,<br/>E rózsafüzérrel szívünket, lelkünket.<br/>Tekints le mennyekből tisztelő nyájadra,<br/>Szent József, Úr Jézus felnevelő atyja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérünk, ó, Szent József, vigyázz mindnyájunkra,<br/>Siess a bús árvák vigasztalására.<br/>Halálunk óráján, Szent József, el ne hagyj,<br/>Jézus, Máriával, kérünk, velünk maradj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öleld át lelkünket, mint Jézust ölelted,<br/>Midőn Názáretben öröm közt nevelted.<br/>Ó, boldog Szent József, vezess mennyországba,<br/>Hogy ott is koszorút fűzhessünk számodra.</lines>
+    </verse>
+  </lyrics>
+</song>

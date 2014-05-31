@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Mária az egekből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária az egekből<br/>Nézz le dicsőségedből,<br/>Segítségedet várja<br/>A bús özvegy, az árva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szomorú a temető,<br/>Mert sok ott a könnyező,<br/>Itt a végső elválás,<br/>Azért van a sok sírás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád sóhajt az özvegy,<br/>Ha a temetőbe megy,<br/>Ahol a sírkeresztet<br/>Zokogva öleli meg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A sír virágaira<br/>Könnyharmatát hullatja,<br/>Mely úgy omlik szeméből,<br/>Mint zápor a felhőből.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Midőn a temetőből,<br/>A halottak kertjéből<br/>Hazamegy hajlékába,<br/>Otthon új bánat várja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szíve csaknem meghasad<br/>A bús özvegy anyának,<br/>Midőn körülzokogják<br/>Az apátlan kis árvák.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mert a kenyérkereső,<br/>Tápláló s védelmező<br/>Édes atyai kezek<br/>Koporsóban pihennek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kedves szülőm, sírodból<br/>Kelj fel, gyászkoporsódból,<br/>Csak még egyszer öleld meg<br/>Árván maradt gyermeked!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Én nemzetem, zsidó népem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én nemzetem, zsidó népem,<br/>Teellened mit vétettem,<br/>Hogy tőled halált szenvedtem,<br/>Felelj meg immár énnekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én tégedet Egyiptomból<br/>Kihoztalak nagy rabságból,<br/>Te engem kedves hazámból<br/>Kivetél a szent városból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyiptomból kimentedben<br/>Nyílást tettem a tengerben,<br/>Te mellemet megnyitottad,<br/>Lándzsáddal vérem ontottad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A pusztában itattalak,<br/>És mannával tápláltalak,<br/>Te epével itattál meg,<br/>És ecettel kínáltál meg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ellenséged én megvertem,<br/>A fáraót elvesztettem,<br/>Te ostorral verted testem,<br/>Talpig vérbe elkeverted.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én Kánaán dús földjére<br/>Bevittelek nagy bőségre,<br/>Te Golgota zord hegyére<br/>Vittél engem szenvedésre.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én szőlőmbe ültettelek,<br/>Szép esőkkel öntöztelek,<br/>Jó gyümölcsöt nem termettél,<br/>Latrok közé feszítettél.</lines>
+    </verse>
+  </lyrics>
+</song>

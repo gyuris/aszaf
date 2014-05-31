@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Ó, emeld fel, gyarló nemzet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, emeld fel, gyarló nemzet, gyászba borult fejedet,<br/>Te, kit Ádám bűnben nemzett, nézd, mosolygnak az egek!<br/>Feltűnt üdvöd hajnala, leszállt az Úr angyala,<br/>Megnyílik már a bezárt menny ajtaja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnös, térj meg ma, s ne holnap, vesd le szennyes bűnruhád,<br/>A pusztába kiáltónak hallgasd meg üdvszózatát!<br/>Bukott, árva nemzedék, bezárt szíved oly sötét,<br/>Térj meg, s nyisd föl a fény előtt rejtekét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Világ rég várt drága kincse, üdvözítő Jézusunk,<br/>Ez oltárra, ó, tekints le, rajta néked áldozunk!<br/>Igaz, sokszor megvetünk, bűnből áll ki életünk,<br/>De megtérünk, csak kegyelmet adj nekünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, szent, aki volt, van és lesz, az öröklét Istene,<br/>Szent, ki minket szentekké tesz, ő, ki üdvönk kútfeje.<br/>Áldják az ég angyali, hogy eljő megváltani,<br/>Nem átall egy szűz méhébe szállani.</lines>
+    </verse>
+  </lyrics>
+</song>

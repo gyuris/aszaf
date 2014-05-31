@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Megfizetem én már bűneimnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megfizetem én már bűneimnek zsoldját,<br/>Letettem testemnek romlandó sátorát,<br/>Honnét formáltattam, ölelem föld porát,<br/>Lakom sötét boltját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kik még ez életben szenvedtek, örültök,<br/>Ez lesz majd végetek, mind ide kerültök,<br/>Itt a királyoknak lehull koronájuk,<br/>Eltűnik hatalmuk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Krisztus, ne tekintsd éltemnek hibáit,<br/>Nézd inkább szentséges vérednek hullásit,<br/>Támaszd fel örömre testemnek morzsáit,<br/>Add meg egek fényit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Dicsőség és hála az égi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség és hála az égi királynak,<br/>Ki pénteken meghalt, s vasárnap föltámadt.<br/>Mint Jónás gyomrából, ő is kiszállt mély sírjából,<br/>Alle-, alleluja, győzött a menny Ura!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az egek győzelmi énekeket zengnek,<br/>Örvendnek, vígadnak a mennyei szentek.<br/>Az ég és föld örömmel telt, mert sírjából Krisztus felkelt,<br/>Alle-, alleluja, győzött a menny Ura!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki szent vére árán bennünket megváltott,<br/>Kérjük a hatalmast, a dicső Megváltót:<br/>Hogy tetőzze be üdvünket, vigye égbe majd lelkünket,<br/>Alle-, alleluja, győzött a menny Ura!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj, Uram, malasztot, hogy szentül élhessünk,<br/>Jó véget érhessünk, mennyekbe mehessünk.<br/>S imádhassunk mindörökké ott, hol halál nem lesz többé,<br/>Alle-, alleluja, győzött a menny Ura!</lines>
+    </verse>
+  </lyrics>
+</song>

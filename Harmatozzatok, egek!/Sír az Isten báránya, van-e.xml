@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Sír az Isten báránya, van-e</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sír az Isten báránya, van-e, ki őt sajnálja?<br/>Bűneinket siratja, Szűzanyja így csígatja:<br/>Áj, áj, áj, Jézus, aludjál, Jézus, aludjál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne sírj, én szép alakom, gyenge bimbóm, harmatom,<br/>Szűzi méhem rajlépe, ég és föld ékessége,<br/>Ej, ej, ej, csók kell-e vagy tej, csók kell-e vagy tej?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jaj, de kemény a jászol, kisfiam, jaj, de fázol,<br/>Tél ellen itt nincs bástya, csak Szent József palástja,<br/>Aj, aj, aj, süvölt a szélzaj, süvölt a szélzaj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne sírj, gyönyörűségem, koronám, ékességem,<br/>Szép bölcsődalt zengenek a mennyei seregek,<br/>A, a, a, lelkem sugara, lelkem sugara.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verjen az én keblemben a szív most csendesebben,<br/>Hogy alvó kis galambom, fiam fel ne riadjon,<br/>Áj, áj, áj, Jézus, aludjál, Jézus, aludjál.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, jaj nékem, Máriának</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, jaj nékem, Máriának,<br/>Jaj, keserves egy anyának!<br/>Jaj, mely nagy bánatban vagyok,<br/>Mert már tudom, árva vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rárohantak szent Fiamra,<br/>A farkasok bárányomra,<br/>Jaj, már tudom, hogy megölték,<br/>Keresztre fölfeszítették.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odavan már reménységem,<br/>Kiben bízott az én lelkem.<br/>Jaj, hát most már hova menjek,<br/>Vigasztalást, jaj, hol vegyek?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szánjatok meg, jó barátim,<br/>Kik tudjátok árvaságim,<br/>Jaj, mert megszakad a szívem,<br/>Haldoklik már szép szülöttem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zászló, látom, hogy már lobog,<br/>A zsidóság örül, dobog,<br/>Jaj, fogjatok, mert meghalok,<br/>Lábaimon nem állhatok.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Édes Fiam, jaj, mit szóljak?<br/>Jaj, de nagy kínokban látlak.<br/>Szép szemeid felfordultak,<br/>Szent tetemid elsárgultak.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent lelkedet már kiadtad,<br/>Véredet mind kifolyattad,<br/>Én lelkemet árván hagytad,<br/>De mennyeket megnyitottad.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Testedet bár levehetném,<br/>Karjaimmal ölelhetném!<br/>Jaj, de magas a keresztfa,<br/>El nem érlek, Fiam, rajta!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vajon van-e, ki levenne,<br/>És ölembe helyeztetne?<br/>Ó, jaj, szerelmes magzatom,<br/>Jaj, de sok sebeid látom!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Által van oldalad verve,<br/>Egy dárdával sebesítve.<br/>Én szívem is hegyes tőrrel,<br/>Rakva van keserűséggel.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Nagyfájdalmú Szűz Mária,<br/>Bűnösöknek szószólója,<br/>Esedezz értem Jézusnál,<br/>Most és halálom óráján!</lines>
+    </verse>
+  </lyrics>
+</song>

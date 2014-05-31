@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Jó pásztor, húsvétnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó pásztor, húsvétnak áldozatja,<br/>Új örömnek lettél szent alapja.<br/>Szép fehérvasárnap, örömünnep,<br/>Melyet ma ártatlan lelkek ülnek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Győztél a keresztfa véroltárán,<br/>Megváltál szent véred drága árán,<br/>A kínok tengerén átalkelve,<br/>Nagy dicsőségedet nyelvünk zengje!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, mily végtelen kegyességed,<br/>Tenlényedből készítsz vendégséget.<br/>Szent testedet veszik ma a tiszták,<br/>Báránykák a Bárány vérét isszák.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséret, dicsőség az Atyának<br/>S egyetlen Fiának, ki feltámadt.<br/>A vigasztalóval egyetemben<br/>Neki a mindenség hálát zengjen!</lines>
+    </verse>
+  </lyrics>
+</song>

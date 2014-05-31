@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szeplőtelen Boldogasszony</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeplőtelen Boldogasszony, Mária,<br/>Szívünkből Lurdba száll hozzád szent ima.<br/>Lurdi virágszál, hallgass meg minket,<br/>Zárd a szívedbe hívséges néped!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tizennyolcszor szálltál alá az égből,<br/>Bernadettnek titkot mondtál Istenről.<br/>Lurdi virágszál, felénk hajoltál,<br/>Nagy jóságodból forrást nyitottál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lurdi forrás lassú vize partot mos,<br/>Sok szenvedő, szegény szívnek áldást hoz.<br/>Bénák mozdulnak, bajok gyógyulnak,<br/>Kőkemény szívek sorra lágyulnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeplőtelen Boldogasszony, Mária,<br/>Szívünkből Lurdba száll hozzád szent ima.<br/>Bűnös lelkünknek légy menedéke,<br/>Beteg testünknek légy segítsége.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Csodákat kik látni vágytok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodákat kik látni vágytok, ó, jöjjetek Szent Antalhoz!<br/>Fekélyt, nyomort, vétket, halált, sátánt elűz, gyógyuálst hoz.<br/>Szent Antalnak imájára tenger enged, bilincs törik,<br/>Az elveszett tagot s vagyont ifjú és agg visszanyeri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veszély tűnik, szükség múlik, Páduában ezt hirdetik,<br/>Ezt beszélik, kik érezték Szent Antalnak jótetteit.<br/>Szent Antalnak imájára tenger enged, bilincs törik,<br/>Az elveszett tagot s vagyont ifjú és agg visszanyeri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőséget zengünk néked, Atya, Fiú és Szentlélek,<br/>Szentháromság egy Istennek áldás legyen és dicséret.<br/>Szent Antalnak imájára tenger enged, bilincs törik,<br/>Az elveszett tagot s vagyont ifjú és agg visszanyeri.</lines>
+    </verse>
+  </lyrics>
+</song>

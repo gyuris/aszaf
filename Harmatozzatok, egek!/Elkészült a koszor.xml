@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Elkészült a koszor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elkészült a koszorú,<br/>Kelet gyöngyvirágokból,<br/>A lurdesi Szűzanyánknak<br/>Szívfohászokból.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen ennek itt párja<br/>Széles e nagy világban,<br/>Miatyánkból, Üdvözletből<br/>Van a rózsája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örülj, vigadj, buzgó nép,<br/>Mert itt Mária rád néz,<br/>A te anyád Szűz Mária<br/>Veled sok jót tész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örömünnep ez nekünk,<br/>Melyre itt összejöttünk,<br/>A lurdes-i Szűzanyánknak<br/>Koszorút kötünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Angyalok ékessége,<br/>Szívünk gyönyörűsége,<br/>Fogadd tőlünk e koszorút,<br/>S vidd fel a mennybe!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nincsen ennél szebb rózsa,<br/>Ez el nem hervad soha,<br/>A lurdes-i Szűz Mária<br/>Szép koszorúja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Felviszi koszorúnkat,<br/>Ájtatos fohászunkat<br/>Az egekbe, Isten elé<br/>Imádságunkat.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó, lurdes-i rózsaszál<br/>Érettünk imádkozzál,<br/>Íme, a te buzgó néped<br/>Most előtted áll.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vezess egykor mennyekbe,<br/>Az örök dicsőségbe,<br/>Kérünk téged, Szűz Mária,<br/>Úgy legyen, ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

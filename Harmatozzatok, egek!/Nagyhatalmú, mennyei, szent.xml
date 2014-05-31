@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Nagyhatalmú, mennyei, szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagyhatalmú, mennyei, szent fölség, Mindenható Istenünk s Urunk,<br/>Porba hullva kit imád a föld s ég, ím, oltárod elé borulunk.<br/>Csillagokkal hímzett fénytrónodból,<br/>Ó, tekints ránk kegyes irgalmadból!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Őszbe borult lelki atyánk áll ma szent oltárod fényes zsámolyán,<br/>Ki már hatvan éve (egy fél százada) hűn szolgálja szent ügyedet későn és korán.<br/>Vedd kedvesen gyémánt (arany) áldozatját,<br/>Áraszd rá bő áldásod malasztját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengenek az ünnepelt főpappal az angyalok örömglóriát,<br/>Zengjük mi is buzgó áhítattal magasztalva az Isten Fiát.<br/>Szent tetszésed égi dicssugára<br/>Szálljon le hű szolgád homlokára.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent az Isten, szent az Ő fölsége, háromszor szent dicső, nagy neve,<br/>Zengje a föld egész kereksége, mely szentsége fényével tele.<br/>Láthatatlan, szellemi világok,<br/>Hozsannával ti is Őt áldjátok.</lines>
+    </verse>
+  </lyrics>
+</song>

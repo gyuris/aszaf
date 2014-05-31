@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Szűz Mária, Jézus anyja, nézd</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária, Jézus anyja, nézd tisztelő népedet,<br/>Mely szívéből azt óhajtja, legyen áldott szent neved.<br/>Az egész világ mély hódolattal érdemeidért áld és magasztal,<br/>Légy hű védőnk e világon, esdeklünk szívvel s ajkkal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szólj mellettünk fent az égben, kérd szűz méhed magzatát,<br/>Ki e kenyér s bor színében étkül adja itt magát,<br/>Hogy ha majd eljő halálunk, végünk, ő maga legyen mennyekben bérünk,<br/>S vele együtt, ó, kegyes Szűz, téged is hőn dicsérjünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Hajnal hasadtával felébredék</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hajnal hasadtával felébredék,<br/>Első szavam: Jézus, dicsértessék.<br/>Fölvirradásomért hálát adok,<br/>Istennek is buzgó imát mondok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azonnal megkondul az ércharang,<br/>Szívemből így felel rá a visszhang:<br/>Üdvöz légy, Mária, Úr van veled,<br/>Áldott, kit hordozott szűz kebeled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézust, Szent Fiadat kérjed értem,<br/>Vezérelje e nap minden léptem.<br/>Ha a sötét éjben őrzőm vala,<br/>Legyen ma is velem őrangyala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne engedjen a bűn útján járni,<br/>Sem halálos bűnnel sírba szállni,<br/>Hiszen én is teremtménye vagyok,<br/>Az ő kegyelmei pedig nagyok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alkotóm, Teremtőm, Édesatyám,<br/>Engedd szent utadon futni pályám,<br/>Hogy majd egyser mennyben szent Fiaddal<br/>Áldhassalak dicső angyaliddal.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lelkemre vigyázó őrangyalom,<br/>Ha már rád bízott a nagy hatalom,<br/>Kérlek, légy mellettem, hív őrangyal,<br/>Míg felvirrad mai dicső hajnal.</lines>
+    </verse>
+  </lyrics>
+</song>

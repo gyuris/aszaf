@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Koszorút köt neked minden hív</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Koszorút köt neked minden hív lélek,<br/>Égen s földön rólad zeng ma az ének,<br/>Szent Anna, Szent Anna, Megváltónk nagyanyja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az angyalok királynéját nevelted,<br/>Kit anyjának választott a Legszentebb.<br/>Szent Anna, Szent Anna, Megváltónk nagyanyja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérünk hát, s tiszta szívből köszöntünk,<br/>Szent emléked örök leszen közöttünk.<br/>Szent Anna, Szent Anna, Megváltónk nagyanyja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unokádat s Szülöttedet kérd értünk,<br/>Hogy bűnökkel Istent többé ne sértsük.<br/>Szent Anna, Szent Anna, Megváltónk nagyanyja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szószólásunk, hogyha eljön majd végünk,<br/>Nyisson utat mennyországba minékünk.<br/>Szent Anna, Szent Anna, Megváltónk nagyanyja!</lines>
+    </verse>
+  </lyrics>
+</song>

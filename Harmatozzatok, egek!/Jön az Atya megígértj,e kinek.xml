@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Jön az Atya megígértj,e kinek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jön az Atya megígértj,e kinek jöttét rég remélte a föld vándora.<br/>Az égen új hajnal támad, szállást keres most magának az egek Ura.<br/>Mária tiszta kebele szíves szállás lesz neki,<br/>E földön az Isten kedve, párja nem volt s nincs neki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem méltó rá a bűn földje, tiszta mint a harmat gyöngye s a nap sugara.<br/>Ő reményünk szép, zöld ága, Galilea bájvirága, szende ibolya.<br/>Az alázat szent völgyében elrejtezve ott virul,<br/>Meg is tudnak földön s égen illatozó bájirul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, mi is neked zöngjünk, Gábriellel megköszöntsünk, üdvünk hajnala.<br/>Szíved szívünk üdvözletét elfogadni, ó, ne késsék, lelkünk aranya.<br/>Mennyben honolsz szent fiaddal, boldogságunk csillaga,<br/>Vezéreld fénysugaraddal híveidet is oda.</lines>
+    </verse>
+  </lyrics>
+</song>

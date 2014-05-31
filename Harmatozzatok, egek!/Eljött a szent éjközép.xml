@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Eljött a szent éjközép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött a szent éjközép, melyen Jézus jött közénk.<br/>A világ Megváltója, bűntől szabadítója,<br/>Testet vett, ember lett, Betlehemi istálóban született.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség az Istennek, békesség az embernek.<br/>Az angyalok karával, szívünk buzgóságával,<br/>Vígadva, harsogva zengjük: dicsőség neked, kis Jézuska.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hisszük hitünk szent tanát, a Szentháromság titkát:<br/>Hiszünk Atyaistenben, a dicső Szentlélekben,<br/>S Fiúban, Jézusban, kit Mária szüzen szült istállóban.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, szent vagy, Atyaisten, szent vagy, Szentlélek Isten,<br/>Szent vagy, édes Megváltónk, Isteni szabadítónk.<br/>Hozsanna, hozsanna, Neked, élő Isten Fia, Jézuska!</lines>
+    </verse>
+  </lyrics>
+</song>

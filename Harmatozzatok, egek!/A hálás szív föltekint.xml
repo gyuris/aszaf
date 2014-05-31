@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>A hálás szív föltekint</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A hálás szív föltekint az égre, új örömben fürdik völgy s halom.<br/>Az ó törvény nagy szigorát végre felváltja ma az új irgalom.<br/>Mit ma mennybe felbocsátunk, az újévi szent fohászunk:<br/>Istenünk, te légy velünk, légy velünk, szent Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szép kisded ma Jézus nevet vesz, mely név minket majd megüdvözít.<br/>Nem hasonlít a földi nevekhez, rajt' isteni malaszt gyöngyözik.<br/>Mit ma mennybe felbocsátunk, az újévi szent fohászunk:<br/>Istenünk, te légy velünk, légy velünk, szent Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeressük e szép név hordozóját, mint ő szeret vérontásáig,<br/>Szent keresztjét, véres lobogóját el ne hagyjuk sírunk halmáig.<br/>Mit ma mennybe felbocsátunk, az újévi szent fohászunk:<br/>Istenünk, te légy velünk, légy velünk, szent Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

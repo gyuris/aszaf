@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Örülj, Szűz, kit a Fölséges</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örülj, Szűz, kit a Fölséges arra méltatott,<br/>Hogy te szülnéd amaz édes égi magzatot.<br/>Csodálkozva áldanak a népek a nap alatt,<br/>Hogy épséged, szüzességed sértetlen maradt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözöljük egyetemben a szép kisdedet,<br/>Aki értünk Betlehemben már megszületett.<br/>Hajtsunk térdett itt neki, Ádám bűnös gyermeki,<br/>Leborulva jászolyára hódoljunk neki.</lines>
+    </verse>
+  </lyrics>
+</song>

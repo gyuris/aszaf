@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Páduának dicső szentje</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Páduának dicső szentje, az Istennek nagy kedveltje,<br/>Ó, Szent Antal, dicsér szavunk, szent örömmel magasztalunk!<br/>Özvegy, árva és nyomorú, búban, bajban a szorongó<br/>S betegségnek szenvedője benned talál segítőre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki bízva fordul hozzád, felé fordul ékes orcád,<br/>S lész hűséges pártfogója, Isten előtt szószólója.<br/>Te, ki oly sok csodát tettél, mihez erőt égből nyertél,<br/>Üdvözlésedre járulunk, ó, Szent Antal, magasztalunk.</lines>
+    </verse>
+  </lyrics>
+</song>

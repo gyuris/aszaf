@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Csordapásztorok midőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csordapásztorok midőn Betlehemben<br/>Csordát őriztek éjjel a mezőben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten angyala leszállott melléjük,<br/>Nagy félelemmel telik meg ő szívük.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örömet mondok nektek, ne féljetek,<br/>Mert ma született a ti üdvösségtek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menjetek el hát gyorsan a városba,<br/>Ott találjátok Jézust a jászolba.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem fekszik ágyban, sem friss palotában,<br/>Hanem jászolban, rongyos istállóban.</lines>
+    </verse>
+  </lyrics>
+</song>

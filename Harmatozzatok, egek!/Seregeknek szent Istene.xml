@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Seregeknek szent Istene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="252"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seregeknek szent Istene,<br/>Mennynek és földnek mindene,<br/>Jöjj el, jöjj el, én Krisztusom,<br/>Ne hagyj utolsó órámon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints lelki sebeimre,<br/>Ki teremtettél képedre,<br/>Bűneimnek sokaságát<br/>Ne nézd, Uram, undokságát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkemet neked ajánlom,<br/>Testem föld gyomrának adom,<br/>Ott még egykor az föltámad,<br/>Adj, Uram, adj nyugodalmat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De föltámadok én újra,<br/>Szerelmedtől megújulva,<br/>Jöjj el, jöjj el, én Krisztusom,<br/>Ne hagyj utolsó órámon!</lines>
+    </verse>
+  </lyrics>
+</song>

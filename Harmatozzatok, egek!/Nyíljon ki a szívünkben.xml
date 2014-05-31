@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Nyíljon ki a szívünkben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nyíljon ki a szívünkben az örömvirág,<br/>Zengjétek, hogy hallja meg az egész világ:<br/>Édes Anyánk, hozzád jöttünk lángadozva, mert szeretünk, ó, Szűz Mária,<br/>Hogy köszöntsünk úgy, mint egykor az Úr angyala.<br/>Van nekünk egy Édesanyánk, aki gondot visel reánk, neve Mária,<br/>Mert ő a mi életünknek vezércsillaga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki hittel, reménnyel tebenned bízik,<br/>Az soha életében nem csalatkozik.<br/>Édes Anyánk, hozzád jöttünk lángadozva, mert szeretünk, ó, Szűz Mária,<br/>Hogy köszöntsünk úgy, mint egykor az Úr angyala.<br/>Van nekünk egy Édesanyánk, aki gondot visel reánk, neve Mária,<br/>Mert ő a mi életünknek vezércsillaga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvöz légy, Szűz Mária, szeplőtelen szűz,<br/>Tenéked a Szentlélek gyöngykoszorút fűz.<br/>Édes Anyánk, hozzád jöttünk lángadozva, mert szeretünk, ó, Szűz Mária,<br/>Hogy köszöntsünk úgy, mint egykor az Úr angyala.<br/>Van nekünk egy Édesanyánk, aki gondot visel reánk, neve Mária,<br/>Mert ő a mi életünknek vezércsillaga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anyai szent áldásod oszd ki mireánk,<br/>Hogy tehozzád juthassunk, égi patrónánk.<br/>Édes Anyánk, hozzád jöttünk lángadozva, mert szeretünk, ó, Szűz Mária,<br/>Hogy köszöntsünk úgy, mint egykor az Úr angyala.<br/>Van nekünk egy Édesanyánk, aki gondot visel reánk, neve Mária,<br/>Mert ő a mi életünknek vezércsillaga.</lines>
+    </verse>
+  </lyrics>
+</song>

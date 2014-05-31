@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Harmatozzatok, egek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok, egek, nyíljatok onnan felül,<br/>Esők, essetek és csepegjetek igaz mennyből!<br/>Nyílj meg, föld, és teremtőt teremj, üdvözítőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istent beszélik, tettét hirdetik a próféták,<br/>Keze munkáját, szabadítását a szent atyák.<br/>Limbusban régen várták, eljöttét óhajtják.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Azért Atyának és a Fiúnak nagy dicséret,<br/>A Szentlélekkel, megszentelőnkkel, és tisztelet,<br/>Mindenkoron örökké, s örökkön-örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

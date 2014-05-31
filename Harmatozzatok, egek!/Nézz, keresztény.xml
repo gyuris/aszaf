@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Nézz, keresztény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz, keresztény, a keresztre, ölts sötét gyászt bús lelkedre!<br/>Nézd, mit szenved a legszentebb, s hogy halt meg az, ki bűnt nem tett!<br/>Kálváriahegynek orma a halálnak lőn siralma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keresztfa árnyékában térdre hullva egy világ van.<br/>Nyitva áll a menny fölötte, angyalsereg leng körötte.<br/>A reménység fája zöldell, kibékült az ég a földdel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent keresztfa, átölellek, légy mindig a szívem mellett,<br/>Te vagy kincsem, arany ágom, örömöm és boldogságom.<br/>Nézz, keresztény, a keresztre, ölts sötét gyászt bús lelkedre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, bűnünk zsoldját vedd el, jelölj meg szent kereszteddel!<br/>Ó, szánd meg azt, aki megtér, aki tőled kegyelmet kér,<br/>Részesítsd sok érdemedbe', lelkünket az égbe vidd be!</lines>
+    </verse>
+  </lyrics>
+</song>

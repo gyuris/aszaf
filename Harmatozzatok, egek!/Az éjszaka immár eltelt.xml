@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Az éjszaka immár eltelt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az éjszaka immár eltelt,<br/>És a fényes, szép nap felkelt.<br/>Téged, Isten, buzgósággal<br/>Kérünk, s alázatossággl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Őrizz meg, hogy tiszták legyünk,<br/>Szerinted szóljunk és tegyünk,<br/>Tartsd vissza bűntől nyelvünket,<br/>És hívságtól a szemünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Legyen szívünkben tisztaság,<br/>Munkánkon jókedv s gyorsaság,<br/>És éljünk mértékletesen<br/>A test kevélysége ellen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy midőn majd a nap leszáll,<br/>S a csendes alkonyat beáll,<br/>Meggyőzvén így érzékünket,<br/>Áldjunk téged, Istenünket.</lines>
+    </verse>
+  </lyrics>
+</song>

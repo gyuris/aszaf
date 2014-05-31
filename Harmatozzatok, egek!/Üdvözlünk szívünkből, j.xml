@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Üdvözlünk szívünkből, j</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlünk szívünkből, jó lelkipásztorunk,<br/>Tiszteletedre ma szép koszorút fonunk.<br/>Szép koszorút neked, kit a nagy szeretet,<br/>Az irgalmas Isten közénk helyeztetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pásztor nélkül a nyáj szétzüllött, elhagyott,<br/>Prédaként emésztik az éhes farkasok.<br/>De ha őrt áll híve, nem remeghet szíve,<br/>Ellenség a nyájat sosem győzheti le.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérünk azért téged, jó lelkipásztorunk,<br/>Istápolj bennünket, kik most hozzád futunk.<br/>Légy vezérünk magad, vezéreld nyájadat<br/>Oda, hol az üdvnek kútforrása fakad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne hagyd el az árvát, ne hagyd az özvegyet,<br/>A nyomort s ínséget szíved enyhítse meg.<br/>Betegnek orvosa, gyöngének támasza,<br/>Az eltévedettnek légy intő szózata.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mennyei Szent Atyánk, teremtő Istenünk,<br/>Támogasd szolgádat, szívből esedezünk,<br/>Hogy buzgón és híven járjon ösvényiden,<br/>S magával minket is a mennyekbe vigyen.</lines>
+    </verse>
+  </lyrics>
+</song>

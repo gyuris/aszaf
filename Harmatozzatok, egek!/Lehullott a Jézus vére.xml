@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Lehullott a Jézus vére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lehullott a Jézus vére<br/>A szent keresztfa tövére.<br/>Drágalátos szent testéből,<br/>Öt mélységes sebeiből.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De a földben nem maradtak,<br/>Mint piros rózsák, kinyíltak.<br/>A szent angyalok fölszedték,<br/>Alázatosan tisztelték.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus mondá az angyalnak:<br/>Vidd fel mennybe szent Atyámnak,<br/>Mondjad, keresztfámról küldtem,<br/>Fogadja kedvesen tőlem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez a világ drága ára,<br/>Sebeim kinyílt rózsája,<br/>Mit nagy fájdalmamban szültem,<br/>Véres könnyekkel öntöztem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nincs már hátra, csak egy órám,<br/>Elvégződik minden munkám.<br/>Kifogy a keserű pohár,<br/>Mely világkezdettől rám vár.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ádám keserű almája<br/>Hozott e kínos halálra.<br/>Jertek az én keresztfámhoz,<br/>Üdvösségtek oltárához!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Boruljatok le előtte<br/>Szent Atyámhoz könyörögve,<br/>Soha el ne felejtsétek,<br/>Hogy meghaltam érettetek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvöz légy, Jézus szent vére,<br/>Üdvösségünk drága bére!<br/>Dicsőséges öt mély sebe,<br/>Üdvöz légy, egész szent teste!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Áldott légy, ó, szent keresztfa,<br/>Szent áldozat szent oltára!<br/>Drága kereszteddel kérünk,<br/>Nyisd meg az egeket nékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

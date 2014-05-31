@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Júdea hegyvölgyin túl Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Júdea hegyvölgyin túl Szűz Mária elindul.<br/>A szűk ösvényen sietve mégyen,<br/>Hordozza méhében nagy Istenét,<br/>Örül a kis porszem, amelyre lép.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elér a menny virága Zakariás házába.<br/>Angyali keble szent lánggal telve<br/>Üdvözli örömmel jó rokonát,<br/>Fejére áldásból tesz koronát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Malaszttal, szentlélekkel s édes mézzel tellett el,<br/>Hogy e beszédet hallá Örzsébet.<br/>Repesett méhében kis magzata,<br/>az ószövetség estcsillaga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj hozzánk is, ó, Szent Szűz, szívünkben ég a szent tűz.<br/>Szállást csinálunk, térj be minálunk,<br/>Életünknek te légy itt őrangyala,<br/>Segíts a mennybe föl, kegyes Anya.</lines>
+    </verse>
+  </lyrics>
+</song>

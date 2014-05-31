@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Gyászba borult Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyászba borult Isten csillagvára,<br/>Függönyt vontak a menny ablakára,<br/>Meghalt, meghalt a szeplőtlen Bárány,<br/>Vérrel ázott Szent Kereszt oltárán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Temetésre lejött a mennyország,<br/>Könnytől áznak az angyali orcák.<br/>Sír, zokog a fiavesztett gerle,<br/>Égig ér a Szűzanya keserve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élet Ura, meghaltál lelkünkre,<br/>A sátánnak országa most dőlt le.<br/>Szűzanyádnak fájdalmát tekintsed,<br/>Add meg nekünk a mennyei kincset.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öltözzön ma az öröm is gyászba,<br/>Jaj, kínok közt nézek fel rád, gyász fa,<br/>Ó, hajolj le szentséges terheddel,<br/>Jézusomat éntőlem ne vedd el.</lines>
+    </verse>
+  </lyrics>
+</song>

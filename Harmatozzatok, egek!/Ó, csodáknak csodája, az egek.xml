@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, csodáknak csodája, az egek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, csodáknak csodája, az egek nagy királya,<br/>Fia Istennek értünk ember lett!<br/>Szent örömérzetbe ég s föld merül,<br/>Víg glória hangzik mindenfelül.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne folyjon a bú könnye, gerjedjünk fel örömre,<br/>S a pásztorokkal, szent buzgalommal<br/>Imádjuk Jézuskát, a kisdedet,<br/>Köszöntsük Máriát, Szent Józsefet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Köszönjük, jó gazdánk, j</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Köszönjük, jó gazdánk, jó gazdaasszonyunk,<br/>Hogy befogadtatok, gyertyát gyújtottatok!<br/>Fizesse az Isten a ti jóságitok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönjük hát mi is, drága, jó testvérek,<br/>Hogy ide jöttetek, meg nem vetettetek,<br/>Áldja meg az Isten minden lépésetek!</lines>
+    </verse>
+  </lyrics>
+</song>

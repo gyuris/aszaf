@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Ó, jöjj, ó, jöjj, üdvözítőnk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, jöjj, ó, jöjj, üdvözítőnk,<br/>Beteljesült már az idő!<br/>Törd át az ég zárt ajtaját,<br/>Vár a világ, epedve vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megnyílt az ég harmatozva,<br/>Megváltónkat hogy lehozza,<br/>Ég felhői nyíljatok szét,<br/>Hozva Jákob fejedelmét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Föld, virulj ki földön, halmon,<br/>Viruló zöld hadd fakadjon,<br/>Nyílj ki, föld legszebb virága,<br/>Jákob házának királya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hol maradsz már tőlünk késve,<br/>Világ üdve s reménysége?<br/>A szívekbe vigaszt öntve<br/>Szállj le e siralomvölgybe.</lines>
+    </verse>
+  </lyrics>
+</song>

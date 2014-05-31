@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Vígan zengjetek, citorák</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vígan zengjetek, citorák, Jézus született,<br/>Harsogjatok, dob s trombiták, Isten ember lett.<br/>Ő udvarló szolgái, juhok, barmok pásztori,<br/>Imádják őt a világnak minden urai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cifrás, pompás palotákat ő nem keresett,<br/>Az istállót választotta, abban született.<br/>A Szűz, ki őt hordozá, és méhébe fogadá,<br/>Őtet Gábriel arkangyal áldottnak mondá.</lines>
+    </verse>
+  </lyrics>
+</song>

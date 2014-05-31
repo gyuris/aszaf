@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Jézus, én szerelmesem, mire</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, én szerelmesem, mire jutál, kedvesem, mindeneknek mindene!<br/>Angyaloknak ékessége, csillagoknak fényessége,<br/>Földnek, égnek Istene, földnek, égnek Istene.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, véghetetlen szépség, nincsen orcádon épség, gyászba rejtezik színed.<br/>Hull a zsidók bősz haragja rád, angyalok szent vigalma,<br/>Vért foly' édes mindened, vért foly' édes mindened.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiterjesztve karjaid, hogy bízzanak árváid, s térjenek üdvös útra.<br/>Szent szívedet felénk tárod, a gyarló embert így várod,<br/>Hogy vezesd élő útra, hogy vezesd élő útra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nézz le, kegyes, a fáról, s drága véred áráról szent szemedet le ne vedd!<br/>Kínjaidért, ó, szerelmes, bűnösöknek légy kegyelmes,<br/>És a balról jobbra tedd, és a balról jobbra tedd!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Hej, víg juhászok, csordások</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hej, víg juhászok, csordások,<br/>Csörgedeznek a források.<br/>Be gyönyörű ez az éjjel,<br/>Bárcsak tekintsetek széjjel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézzétek, Betlehem felett<br/>Micsoda nagy fényesség lett,<br/>Egy szép csillag, amint szállott,<br/>A pajta felett megállott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amint mostan felserkentem,<br/>Egy csillagot láttam, s féltem,<br/>Mert nem tudtam mire vélni,<br/>Erre láttam közeledni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Itt ülünk a tűz melegén,<br/>Az a szép, fényes égi lény<br/>Glóriát hirdet s örömet.<br/>Ó, nem találom helyemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rég is fújdogál már szele,<br/>Bizonyára annak jele,<br/>Hogy született a Messiás,<br/>Kit jövendölt a Szentírás.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallgassatok csak reá jól,<br/>Az angyal is éppen így szól,<br/>Isten Fiával dicsekszik,<br/>Hogy az a jászolban fekszik.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ahová ez az út vezet,<br/>Ott találjuk azt a helyet,<br/>Hol a Szűz szülé magzatát,<br/>Fiát és egyszersmind Atyját.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Üdvöz légy, áldott pásztorunk,<br/>Bárányt hoztunk neked, Urunk,<br/>Sajtot, mézet, túrót, tejet,<br/>Ezzel hajtunk térdet s fejet.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Téged dicsér szívünk, ajkunk,<br/>Áldd meg, Jézus, minden nyájunk,<br/>Áldj meg minket s minden határt,<br/>Vedd el a testi s lelki kárt!</lines>
+    </verse>
+  </lyrics>
+</song>

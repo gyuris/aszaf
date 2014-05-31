@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Jézus tiszta, Szent Szíve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus tiszta, Szent Szíve, szeretet oltára,<br/>Piros vérrel lelkemet mosd meg szép tisztára.<br/>Odahajol bús szívem a te jó szívedhez,<br/>Kapcsold az én szívemet örökre tiedhez.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Habár mint az angyalok, úgy szerethetnélek,<br/>Eléggé, én Jézusom, mégsem szeretnélek.<br/>Volna olyan sok szívem, mint csillag az égen,<br/>Szeretni nem tudna, hajh, téged méltóképpen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elhervasztá szívemet a vétek fullánkja,<br/>Adjon bele életet szerelmed tűzlángja.<br/>Ím, erősen fogadom, többé meg nem bántlak,<br/>Nem leendek hűtelen ezután irántad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te légy az én vigaszom, fényem s dicsőségem,<br/>Te légy minden örömem, minden édességem.<br/>S hogyha majd elközeleg éltem végórája,<br/>Te légy, Jézus Szent Szíve, lelkem koronája!</lines>
+    </verse>
+  </lyrics>
+</song>

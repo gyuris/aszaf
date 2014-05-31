@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Mily boldog vagy, Mária kis</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mily boldog vagy, Mária kis háza,<br/>Názáreti hajlék, menny tárháza.<br/>Fényes ösvény vezet hozzád mennyből,<br/>Rajta béke száll le az Istentől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy köszöntve, Mária, áldott Szűz,<br/>Kinek ma az angyal koszorút fűz.<br/>a Szentlélek szűz lelked arája,<br/>Úgy leszesz te Teremtőd dajkája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, tisztaság drága, szűz alakja,<br/>Szűz méhedet Isten Fia lakja,<br/>Szent erényed, tiszta szüzességed<br/>Meghódítá az Égi Fölséget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szűzen szülöd Jézust a világra,<br/>Szüzen jutsz az Istenanyaságra,<br/>Szólj mellettünk, hogy szűz méhed kincse<br/>Sok bűnünknek számát ne tekintse.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Két szép csillag, Róma fénye</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Két szép csillag, Róma fénye, Péter és Pál hős bajnok,<br/>Egyházunk két szeme fénye, mennyet tartó oszlopok.<br/>Hódolat vonz ide minket e tündöklő, szép napon,<br/>Hogy kitárjuk érzelminket esdeklő szívhangokon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, hogy adjunk hálát néktek, lelkeket hőn szeretők,<br/>Áldnak minden ajkú népek, lángbuzgalmú magvetők.<br/>Ti vagytok a gyertyatartók, kikre bizton nézhetünk,<br/>A mennyei aranyajtót ti tárjátok fel nekünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hisszük, amit forró hévvel Péter és Pál hirdetett,<br/>Mit e két szent piros vérrel a szent könyvbe jegyezett.<br/>Ó, mennyország hős polgári, világító két torony,<br/>Ha hitért kell síkra szállni, védjetek az ostromon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent az Úr, a szentek szentje, az örök fény tengere,<br/>Föld az éggel versenyt zengje, szent a szentség Istene.<br/>Szent Péter s Pál, ti a parton koszorúzva állotok,<br/>Míg itt sírunk mi a sarcon, értünk ott, fenn szóljatok.</lines>
+    </verse>
+  </lyrics>
+</song>

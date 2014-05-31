@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szűz Mária, tekints le</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária, tekints le az égből,<br/>Nézd a könnyet, mi hull a szemekből,<br/>Zokog a bús özvegy és az árva,<br/>Mert a bánat szívünkbe van zárva.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyászba borult az özvegy élete,<br/>Zokogva jár a temetőkertbe,<br/>Sírva borul férje gyászhantjára,<br/>Szíve majd meghasad fájdalmába'.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs szomorúbb az árva életnél,<br/>Jaj, mert nincs több édesanya egynél.<br/>Ha ezt az egyet is elvesztette,<br/>Ráborul a fájdalom tengere.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy a világ, se hossza, se vége,<br/>De az árva nem nyer nyugtot benne,<br/>Zokogva sír a zárt ajtók mellett,<br/>De nem talál könyörülő szívet.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kimegyen a gyásztemetőkertbe,<br/>Odaviszi szívének keserve,<br/>Zokogva leroskad a sírdombra,<br/>Mint ősszel a hervadó fák lombja.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A mennyország boldogságnak háza,<br/>Ahol nem jut senki árvaságra,<br/>Amily keserű itt az elválás,<br/>Oly édes lesz ott a viszontlátás.<br/>Ó, ne hagyd el őket, Szűz Mária,<br/>Szomorú árváknak édesanyja.</lines>
+    </verse>
+  </lyrics>
+</song>

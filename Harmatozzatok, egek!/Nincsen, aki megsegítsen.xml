@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Nincsen, aki megsegítsen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincsen, aki megsegítsen, nincsen, aki szánjon minket,<br/>Hozzád térünk hát, nagy Isten, ha te nem, más nem segíthet.<br/>Száraz a rét, szomjas a föld, ha ez így lesz, elveszünk,<br/>Gyászruhát ölt minden ember, Isten, adj esőt nekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az igaz, hogy méltán büntetsz, mert mindnyájan sértünk, bántunk,<br/>De ha minket már el is vetsz, s irgalmas nem lész irántunk,<br/>Szánd meg a kis gyermekünket, kik, ha nem lesz kenyerünk,<br/>Sírva nézik a felhőket, Isten, adj esőt nekünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esőt várnak a vetések, harmatért esd a mezőség,<br/>Nincs virága a kis méhnek, fölégette azt a hőség.<br/>Nincs patakja a madárnak, éhen-szomjan elveszünk,<br/>Ember, állat esőt várnak, Isten, adj esőt nekünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak úgy áztasd meg a földet, mint a könnytől ázik arcunk,<br/>A kenyérből ne adj többet, csak hogy élvén árvát tartsunk.<br/>A koldusok, a szegények sírnak hozzád mivelünk,<br/>Ó, ne tégy ki a veszélynek, Isten, adj esőt nekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

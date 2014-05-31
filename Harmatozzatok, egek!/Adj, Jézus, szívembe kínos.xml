@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Adj, Jézus, szívembe kínos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Jézus, szívembe kínos fájdalmakat,<br/>Legyen ma két szemem könnytől áradt patak!<br/>Hogy én is, mint édes szülőd, kínhalálod gyásza fölött<br/>Tiszta szívből sírhassak, s neked hálát adhassak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, tenger kín hétfájdalmú szüze,<br/>Paradicsomkertnek lehajló, bús füze,<br/>Mely kín dúlta a kebledet, midőn láttad szülöttedet<br/>A szenvedés kínpadján, a megváltás nagy napján.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az egész világnak fájdalmát viseléd,<br/>Átérezted a kín végtelen tengerét.<br/>Ott álltál a kereszt alatt, a vércseppek rád hulltanak.<br/>Ó, hogy le nem roskadtál, szeplőtelen liljomszál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keresztfa virága, megváltó Krisztusom,<br/>Beteg vagyok érted, légy lelki orvosom!<br/>Átvert szíved vércseppjei, Szűzanyádnak gyöngykönnyei<br/>Segítsenek az égbe, a boldogság révébe.</lines>
+    </verse>
+  </lyrics>
+</song>

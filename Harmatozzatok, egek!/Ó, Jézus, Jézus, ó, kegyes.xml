@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Ó, Jézus, Jézus, ó, kegyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Jézus, Jézus, ó, kegyes Jézus, légy velünk,<br/>Könyörgünk néked, szent békességet adj nekünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a bűn éget, ha sújt az élet vihara,<br/>Csillagunk éjben – segíts a vészben – Mária.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária őre, hű kísérője, Szent József,<br/>A betegágynál és a végórán védelmezz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha erőnk nincsen, példátok intsen, Szent Család,<br/>Ha szívünk tiszta, megnyílik majd a mennyország.</lines>
+    </verse>
+  </lyrics>
+</song>

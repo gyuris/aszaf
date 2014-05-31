@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, legszentebb Szív asszonya</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, legszentebb Szív asszonya, el ne fordulj tőlünk soha,<br/>Gyengék vagyunk, bűnben élünk, légy segélyül, maradj velünk.<br/>Isten előtt védelmezz, teéretted legyen hozzánk kegyelmes,<br/>Ó, legszentebb Szív asszonya, Mária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok rosszat szül ez a világ, szeplőtelen égi virág.<br/>Te vagy csupán tiszta jóság, szűzességben állandóság.<br/>Isten előtt védelmezz, teéretted legyen hozzánk kegyelmes,<br/>Ó, legszentebb Szív asszonya, Mária.</lines>
+    </verse>
+  </lyrics>
+</song>

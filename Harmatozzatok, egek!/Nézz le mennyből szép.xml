@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Nézz le mennyből szép</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz le mennyből szép hazánkra, Isten, ég és föld Ura,<br/>Bús ügyünket Szíved szánja, nagy népünk jajpanasza.<br/>Ne hagyj, szent Szív, Jézus Szíve, ne hagyj minket magunkra,<br/>Irgalmadnak nagy voltából hozz békét országunkra,<br/>Hozz békét országunkra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vér födi be a világot, gyűlölet él a szívben,<br/>Jézus Szíve, nagyságodat nem becsüli senki sem.<br/>A mi hazánk hű fiai, hívő néped felkiált,<br/>A bűnözön vérbe fúlt már, küldd a béke angyalát,<br/>Küldd a béke angyalát!</lines>
+    </verse>
+  </lyrics>
+</song>

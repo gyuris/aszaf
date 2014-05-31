@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Pásztorok, nyájaktól keljetek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok, nyájaktól keljetek fel,<br/>Betlehembe gyorsan menjetek el!<br/>Furulyátok megfújjátok, a kis Jézust úgy áldjátok<br/>A jászolba, a jászolba!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha pedig majdan odaértek,<br/>Jézus nevét mindenütt hirdessétek.<br/>Furulyátok megfújjátok, a kis Jézust úgy áldjátok<br/>A jászolba, a jászolba!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tehát, pajtás, mondá ma az angyal,<br/>Betlehembe menjünk pásztorokkal.<br/>Furulyátok megfújjátok, a kis Jézust úgy áldjátok<br/>A jászolba, a jászolba!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ajándékot neki bemutassunk,<br/>Szívünket, lelkünket feláldozzuk.<br/>Furulyátok megfújjátok, a kis Jézust úgy áldjátok<br/>A jászolba, a jászolba!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Köszöntsük mi őtet buzgósággal,<br/>Énekeljünk együtt angyalokkal.<br/>Furulyátok megfújjátok, a kis Jézust úgy áldjátok<br/>A jászolba, a jászolba!</lines>
+    </verse>
+  </lyrics>
+</song>

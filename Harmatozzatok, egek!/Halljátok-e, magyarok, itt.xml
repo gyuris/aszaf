@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Halljátok-e, magyarok, itt</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halljátok-e, magyarok, itt a Tekija!<br/>Itt a templom sarkánál áll egy szép, zöld fa.<br/>Annak a fának három ága van,<br/>Szűz Máriának de szép neve van,<br/>Szűz Máriának de szeép neve van!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az első ág jelezi az Atya Úristent,<br/>A másik ág jelezi a Fiú Úristent,<br/>A harmadik ág a Szentlélek Istent,<br/>Aki leszállott galamb képében,<br/>Testet vett magára Mária méhében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Török szultán azt fogadta Szűz Máriának,<br/>Hogy ő soha a magyart többet sosem bántja,<br/>Török háború, jaj, de szomorú,<br/>A sok honfiú mind rendre borult,<br/>Édes Szűzanyám, csak magam maradtam.</lines>
+    </verse>
+  </lyrics>
+</song>

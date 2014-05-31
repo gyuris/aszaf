@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Üdvözítőnk született</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözítőnk született, örvendezzetek!<br/>Betlehemben e virág érted nyílik, gyászvilág, érted született.<br/>Dicsérd, mint az angyalok, imádd, mint a pásztorok,<br/>E szép kisdedet, e szép kisdedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szánjuk meg a kisdedet, ki ma született,<br/>Szívünk legyen jászolya, s mi is, mint a Szűz Anya, ölelgessük őt.<br/>A fölséges mennybeli lelkünket jő menteni,<br/>Meg ne vessük őt, meg ne vessük őt!</lines>
+    </verse>
+  </lyrics>
+</song>

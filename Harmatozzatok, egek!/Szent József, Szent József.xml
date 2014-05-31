@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szent József, Szent József</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent József, Szent József, drága családatya,<br/>Akire bízva volt az egek rajzata,<br/>Őrizted Máriát, kis Jézusodat is,<br/>Őrizzed a mi kis társulatunkat is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent József, Szent József, csodált sok milliom,<br/>Szent kezedben ragyog a szűzi liliom.<br/>Födözzed ránk, kérünk, atyánk, palástodat,<br/>Mellyel befödözted fogadott Fiadat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent József, Szent József, kegyesek kegyese,<br/>Az Isten anyjának szűzi szent jegyese,<br/>A mi házainknak gondviselője légy,<br/>A Szent Család közé szent oltalmadba végy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent József, Szent József, tiszta, szép napvilág,<br/>Akit atyjának vall a széles, nagy világ,<br/>Terjeszd felénk áldott, ölelő kezedet,<br/>Mellyel átkaroltad Jézust, a kisdedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent József, Szent József, a Szent Család feje,<br/>Mely tápszert és ruhát teáltalad nyere,<br/>Szerezd meg nekünk is a napi kenyeret,<br/>Szeresd, mint kis Jézust, azt, ki téged szeret.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent József, Szent József, elestek támasza,<br/>Halállal küzdőknek utolsó vigasza,<br/>Ha hozzád emelni nem bírom már karom,<br/>Jézus s Máriával jöjj hozzám akkoron.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Mária, tekints reánk mennyből</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, tekints reánk mennyből,<br/>Akik szent képed elébe összesereglettünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, mennyből szállott virág,<br/>Ki a lurdes-i barlangban megmutatta magát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem barlang, hanem szép palota,<br/>A keresztény nemzetségnek gyógyító balzsama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária, aki Bernadettnek<br/>Tizennyolcszor mutattad meg szentséges képedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mária, aki azt mondotta,<br/>Én vagyok a szeplőtelen fogantatás titka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mária, ki fehér öltönyben<br/>Jelentél, hogy minket tisztaságra emlékeztess.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Égszínű szalagot viseltél,<br/>Hogy bennünket a mennyországra emlékeztetnél.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mária, ki rózsákon álltál,<br/>Hogy népedet szenvedésben azzal buzdítanád.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mária, ki a szent olvasót<br/>Szent kezedben felmutattad, hogy mi imádkozzunk.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mária, ki szent szemeidet<br/>Siralmasan bűneinkért az égre vetetted.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mária, ki szent kezeidet<br/>Összetéve miérettünk imára emelted.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Mária, légy szószólónk nékünk,<br/>Holtunk után Bernadettel téged szemlélhessünk.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Dicsőség legyen az Atyának,<br/>Szentlélekkel egyetemben áldott Szent Fiának.<br/>Tisztelet adasség a drága Szűz Máriának.</lines>
+    </verse>
+  </lyrics>
+</song>

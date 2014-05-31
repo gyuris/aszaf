@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Néped büszkesége, Szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néped büszkesége, Szent Erzsébet asszony,<br/>Légy pártfogónk nékünk, Istennél szószólónk!<br/>Esdekelj érettünk, hogy példád kövessük,<br/>S közbenjárásodra sok áldást nyerhessünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oktass szeretetre, Szent Erzsébet asszony,<br/>Kinek szíve mindig irgalomteljes volt.<br/>Habár szegény voltál a földön, s elhagyott,<br/>Mégis segítettél beteget, nyomorgót.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Erzsébet asszony, könyörögj miértünk,<br/>Kik az oltalmadba bizalommal térünk.<br/>Jézusunk áldását általad is kérjük,<br/>Bajban és veszélyben őrizze meg népünk.</lines>
+    </verse>
+  </lyrics>
+</song>

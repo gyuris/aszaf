@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ó, megfoghatatlan</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, megfoghatatlan, ó, elfogyhatatlan, nagyhatalmú Fölség, fő valóság,<br/>Ó, örök igazság, véghetetlen jóság, hitünknek mély titka, Szentháromság.<br/>Egy természetben, három személyben,<br/>Atya-, Fiúisten és Szentlélek,<br/>Kiben él és mozog minden lélek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Föld, tenger és egek, angyali seregek mindenütt hirdetik dicsőséged,<br/>Világ mély rendjében, víznek egy cseppjében egyaránt tündöklik nagy felséged.<br/>Hozzánk kegyes vagy, szereteted nagy,<br/>Adj erőt, hogy viszontszerethessünk,<br/>Minden lépésünkben dicsérhessünk.</lines>
+    </verse>
+  </lyrics>
+</song>

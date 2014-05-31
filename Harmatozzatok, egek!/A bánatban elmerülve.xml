@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>A bánatban elmerülve</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A bánatban elmerülve összesereglett néped,<br/>Szíve gyásszal be van fedve, siránkozik előtted.<br/>Ó, felséges Mindenható, ki vagy egyedül legfőbb jó,<br/>Imád minden halandó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E negyvennapi szent böjtben Szent Fiad kínjairól<br/>Megemlékezünk szívünkben keserves fájdalmiról,<br/>Melyet értünk, bűnösökért, úgymond érdemtelenekért,<br/>Szenvedett váltságunkért.</lines>
+    </verse>
+  </lyrics>
+</song>

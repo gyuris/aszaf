@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Atyám, hogyha lehet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="239"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, hogyha lehet,<br/>Múljék el e pohár,<br/>Halál gyötrelmével<br/>Mely megtöltve van már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Olajfák hegyén<br/>Reszkető kebellel<br/>Így sóhajtott Jézus,<br/>Szörnyű félelemmel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Midőn maga előtt<br/>Meglátta a halált,<br/>Rémítő árnyával<br/>Midőn melléje szállt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rettegés fogta el<br/>Annak látásától,<br/>Leroskadt, s verejték<br/>Hullott szent arcáról.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mert oly rémítő a<br/>Halál ábrázatja,<br/>Hogy halandó ember<br/>Azt ki nem mondhatja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pedig mindenkinek<br/>Át kell rajta esni,<br/>Nem menekülhet meg<br/>Attól soha senki.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldjon meg az Atya,<br/>Fiú és Szentlelélek,<br/>Tegyen boldoggá, ha<br/>Eljő az ítélet.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jézus, Mária és<br/>Szent József nevében<br/>A feltámadásig<br/>Nyugodj békességben.</lines>
+    </verse>
+  </lyrics>
+</song>

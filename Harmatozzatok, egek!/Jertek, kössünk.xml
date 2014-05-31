@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Jertek, kössünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek, kössünk gyöngykoszorút Máriának,<br/>A született kisded Jézus szent anyjának.<br/>Méltó szűzi és anyai koronára,<br/>Örvendezve tegyük föl szűz homlokára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendeztesd kis Jézuskát, királyunkat,<br/>Add át neki szép, virágos koszorúnkat.<br/>Rakjad meleg szíveinket jászolába,<br/>Hogy ne fázzon az egeknek szép virága.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendezzél szent Fiadnak mosolyában,<br/>Az angyalok túlvilági szózatában,<br/>Mulatozzál szülötteddel, teremtőddel,<br/>Üdvünk végett magas mennyből ki ma jött el.</lines>
+    </verse>
+  </lyrics>
+</song>

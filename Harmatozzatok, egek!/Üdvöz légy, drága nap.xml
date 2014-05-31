@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Üdvöz légy, drága nap</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvöz légy, drága nap, napoknak királya,<br/>Te vagy reménységünk fényes koronája.<br/>Üdvöz légy, szép húsvét napja,<br/>Szent hitünknek vagy alapja,<br/>Oszlik lelkünk búja,<br/>Alle-, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy dicsőség legyen az égi Fölségnek,<br/>Ki a gyászhalálnak álmából fölébredt.<br/>Tőled, ó, sír, már nem félünk,<br/>Nem hiú a mi reményünk,<br/>Jézus a tanúja,<br/>Alle-, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

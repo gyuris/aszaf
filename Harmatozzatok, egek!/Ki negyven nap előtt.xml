@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Ki negyven nap előtt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki negyven nap előtt üdvösségünkre<br/>Lejöttél az égből bűnös földünkre,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki a Szűz méhében testbe öltöztél,<br/>Hogy megmentsd az embert, emberré lettél,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki, bár királya vagy az égnek s földnek,<br/>A jászolyt választád szegény bölcsődnek,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki az eget s földet felékesíted,<br/>Itt anyád pólyába takart be téged,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kit a hív pásztorok s a három bölcsek<br/>Buzgó imádással megüdvözöltek,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kit, midőn a negyven napok elmúltak,<br/>Bemutatott Szent Szűz Anyád az Úrnak,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ki megváltásunkért véred ontottad,<br/>Érted egy pár galamb lőn az áldozat,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ki példánk, Istenünk, atyánk, testvérünk,<br/>Védőnk s Megváltónk vagy, irgalmazz nekünk,<br/>Szállj be lelkünk hajlékába,<br/>Ó, világ világossága!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Üdvöz légy, ó, föld öröme</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvöz légy, ó, föld öröme, boldog Szent Anna,<br/>Szűzanyánknak szent szülője, Jézus nagyanyja.<br/>Magtalanok példája, minden szülők fáklyája,<br/>A szüléstől rettegőknek gyámja s dajkája.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvöz légy, ó, föld öröme, boldog Szent Anna,<br/>Szűzanyánknak szent szülője, Jézus nagyanyja.<br/>Tiszta élet példája, minden szülők fáklyája,<br/>A szüléstől rettegőknek gyámja s dajkája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog Anna, olvadoz ma benned a szent szív,<br/>Hogy maradtál, bár zokogva, Istenedhez hív.<br/>Azért jön a kegyelem, azért árad szerelem,<br/>Hogy szüntelen az Úr félelme volt szívedben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Látod immár az egekben azt, akit szültél,<br/>Bús, de buzgó könnyeiddel megérdemeltél.<br/>Nézzed a gyöngyalakot, ki szülöttedben lakott,<br/>Ki nekünk is a mennyekhez szent reményt adott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nézz e földre, vannak itt is hív unokáid,<br/>Néznek a szent égre most is bágyadt árváid.<br/>Érdemidet dicsérik, és követve kísérik,<br/>Menteni kész karjaidat várják és kérik.</lines>
+    </verse>
+  </lyrics>
+</song>

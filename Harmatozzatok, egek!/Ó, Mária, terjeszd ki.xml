@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Ó, Mária, terjeszd ki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, terjeszd ki palástod, tárd ki ránk bő kebelét,<br/>Befogja az az egész világot, mely segélyért esd feléd.<br/>El ne hagyj, el ne hagyj, Ó, Mária, el ne hagyj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És mert olyan a mi gyarlóságunk, súlyos bűnbe botlanánk,<br/>Akkor is te légy a mi istápunk, csodatevő Szűzanyánk.<br/>El ne hagyj, el ne hagyj, Ó, Mária, el ne hagyj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha körülvesz betegség, bú, ínség, mint ellenség tábora,<br/>Ha megindul kebelemben ismét könnyeimnek zápora,<br/>El ne hagyj, el ne hagyj, Ó, Mária, el ne hagyj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha végóránk üt, s a zord halállal csatát kell majd küzdenünk,<br/>Anyai szép szíved irgalmával végpercünkön légy velünk.<br/>El ne hagyj, el ne hagyj, Ó, Mária, el ne hagyj.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Íme, lement a fényes nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Íme, lement a fényes nap,<br/>Feljön-e még nekem holnap?<br/>Még számadásom nem egész,<br/>Nem vagyok még az útra kész.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi lesz velem, ha kimúlok,<br/>Ha hideg sírba szorulok?<br/>Mi lesz velem, ha a halál<br/>Halálos vétekben talál?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betegen halni, véletlen,<br/>Elindulni készületlen?<br/>Készülök hát Istenemhez,<br/>Még le nem jár az életem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Átfutom elmúlt éltemet,<br/>Vizsgálom gyarló lelkemet.<br/>Gyújts fáklyát, édes Istenem,<br/>Hogy lássak mindent szívemben.</lines>
+    </verse>
+  </lyrics>
+</song>

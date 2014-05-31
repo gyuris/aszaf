@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Urunk menvén Olajfák hegyére</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Urunk menvén Olajfák hegyére,<br/>Ottan esék áldott két térdére.<br/>Szent Atyjának, hogy lenne kedvére,<br/>Mondván, így szól engesztelésére:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rakva vagyok véres izzadással,<br/>Félelemmel és szorongatással,<br/>Mindhalálig nagy szomorúsággal,<br/>Betöltettem lelki bágyadtsággal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Láttuk immár, nincsen ékessége,<br/>Úr Jézusnak változó szépsége,<br/>Szent testének lett nagy veresége,<br/>Úgy bánt vele zsidók dühössége.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Régtől fogva kik velem valának,<br/>Jó barátim engem elhagyának,<br/>Tanítványim tőlem távozának,<br/>Álnok zsidók reám rohanának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Végóráján Urunk halálának<br/>Csuda dolgok földön láttatának,<br/>Mert falai templom kárpitjának<br/>Megrepedvén ketté szakadának.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jó szőlőmnek én választottalak,<br/>És mint szőlővesszőt plántáltalak,<br/>Gyermekemnek téged fogadtalak,<br/>Ellenségtől megoltalmaztalak.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Urunk, Jézus most körülvétetik,<br/>Mint ártatlan bárány, megköttetik,<br/>Hóhéroktól halálra vitetik,<br/>Magas hegyre fel is vezettetik.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jeruzsálem, lásd veszedelmedet,<br/>Felébredvén hadd el sok vétkedet!<br/>Változtasd meg szép öltözetedet,<br/>Engeszteljed kegyes Istenedet!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ó, én népem, indulj fájdalomra,<br/>Bús ügyedben gerjedj siralomra,<br/>Tekints, kérlek, kegyes jó voltodra,<br/>Légy már nekem vigasztalásomra.</lines>
+    </verse>
+  </lyrics>
+</song>

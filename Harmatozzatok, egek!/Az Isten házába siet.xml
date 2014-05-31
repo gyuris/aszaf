@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Az Isten házába siet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Isten házába siet az áldott Szűz Mária,<br/>Karjain a kisded Jézus, az Istennek szent Fia.<br/>Hogy a törvényt megtartsa, s magát beavattassa,<br/>Áll a templom ajtajában több asszonyoknak sorában.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő, kit Isten felmagasztal minden asszonyok felett,<br/>Szüzességben szülte Jézust, a törvénynek engedett.<br/>És fiát is bemutatta, s magát beavattatta,<br/>Hogy mások is ezt követnék, és a törvényt meg nem vetnék.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Midőn az öreg Simeon Jézust kezébe vette,<br/>Lelkében az angyaloknak nagy örömét érezte.<br/>Üdvözítőjét ő áldja, és Istenét imádja,<br/>Teljes lévén Szentlélekkel felsóhajt, és így énekel:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most bocsájtod el szolgádat békességben, Istenem,<br/>Mert az ígért Üdvözítő eljött, látta őt szemem.<br/>Kit te adtál a népednek, fényére Izraelnek,<br/>Világ világosságára, minden ember váltságára.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, légy velünk, kegyes Jézus, igaz világosságunk,<br/>Ó, légy velünk, Szűz Mária, mint erős pártfogásunk.<br/>Hogy az ősz Simeon után mondhassuk a végórán:<br/>Most bocsátod el, ó, Isten, te szolgádat békességben.</lines>
+    </verse>
+  </lyrics>
+</song>

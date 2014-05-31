@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Dicsértessék Jézus és a Szűz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsértessék Jézus és a Szűz Mária.<br/>Ezen drága szókkal lépünk a templomba,<br/>Ahol Szűz Mária, a mi Édesanyánk<br/>Kitárt karjaival várakozik reánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boruljunk a földre szent oltárod előtt,<br/>Kérjük mindenkiért azt a jó Teremtőt,<br/>Ki nekünk Máriát anyánknak rendelte,<br/>Az ő színe előtt, értünk esedezne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kedves testvéreim, kik idejöttetek,<br/>Akik Szűz Máriát sírva keresitek,<br/>Jöjjetek hát ide, itt megtaláljátok,<br/>Az ő Szent Fiának ajánl mindnyájatok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenhozzád, Anyánk, most itt megjelentünk,<br/>Drága szent képedtől bocsánatot kérünk.<br/>Elhagytuk éretted házunk, családunkat,<br/>Kedves édesanyánk, áldj meg mindnyájunkat!</lines>
+    </verse>
+  </lyrics>
+</song>

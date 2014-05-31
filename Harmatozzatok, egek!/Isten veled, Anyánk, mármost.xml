@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Isten veled, Anyánk, mármost</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten veled, Anyánk, mármost el kell hagyni,<br/>A te szent népedtől mármost el kell válni.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zálogul hagyjuk itt szívünket, lelkünket,<br/>tenéked szenteljük egész életünket.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak az fáj szívünknek, hogy már el kell hagyni,<br/>Kedves Édesanyánk, tőled meg kell válni.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem tudjuk, hogy többet jöhetünk-e ide,<br/>Nem sötétül-e ránk az Úrnak éjjele.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Búcsút vesz tőled az árva és az özvegy,<br/>Mária, Szűzanyánk, ó, el ne hagyd őket.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gyertek le, angyalok, a csillagos égből,<br/>Hulló könnyeinket szedjétek a földről.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vigyétek azt fel hát a szép mennyországba,<br/>Koszorút kössetek belőle számunkra.<br/>Isten veled, Szűz Mária, mennyei kinyílott rózsa,<br/>Add ránk áldásodat, egek királynéja.</lines>
+    </verse>
+  </lyrics>
+</song>

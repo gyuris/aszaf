@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Ó, ne búsulj, föld árva</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, ne búsulj, föld árva gyermeke,<br/>Ha körülvesz a bajok serege,<br/>Rózsa nyílik a kíntöviseken,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lég közönyös az öröm s bú iránt,<br/>Kövesd Jézust, a szenvedő királyt!<br/>Könnyíthet Ő a te kereszteden,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha szenvedsz, s az Istenben bízol,<br/>Jézusoddal egy pohárból iszol.<br/>Buzdulj fel a dicsőült szenteken,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztítótűz az ínség, nyavalya,<br/>Ha békén tűrsz, szentté válsz általa.<br/>Lelked üdül, ha fekszel betegen,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha szégyenbe dönt ellen s álbarát,<br/>S viselned kell a töviskoronát,<br/>Ha vészfelleg sötétlik egeden,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tűrj békével, ne légy vigasztalan,<br/>A csüggedés nem segít, hasztalan.<br/>Szép szivárvány ragyog a könnyeken,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fogadd el a szenvedés poharát,<br/>Ez szépíti mennyei koronád,<br/>Krisztus is tűrt, hogy úttörőd legyen,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Az alacsony sorsot meg ne utáld,<br/>Sőt, érette magát az Urat áldd.<br/>Példaképed Üdvözítőd legyen,<br/>Nyugodjál meg az égi végzeten,<br/>Nyugodjál meg az égi végzeten.</lines>
+    </verse>
+  </lyrics>
+</song>

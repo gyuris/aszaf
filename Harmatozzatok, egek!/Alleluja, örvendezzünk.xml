@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Alleluja, örvendezzünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, örvendezzünk,<br/>Él Krisztus, a rabság megszűnt!<br/>Sebeink már begyógyultak,<br/>Reményeink megújultak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghalt értünk szerelméből,<br/>Föltámadt önerejéből.<br/>Örvendezzünk, mert hatalma<br/>Nem kisebb, mint volt irgalma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A kősziklán ül az angyal<br/>Fényköntösben, nyájas arccal.<br/>Alleluja, zeng a nagy szó:<br/>Nincs itt, üres a koporsó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szabadulva ennyi vésztül,<br/>Mennyet nyerve menedékül,<br/>Alleluja, hálát zengjünk,<br/>Üdvünk aranynapja föltűnt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E húsvéti ünnepkörbe',<br/>Édes Jézus, szállj szívünkbe.<br/>te légy öröm-áldomásunk,<br/>Életünk, föltámadásunk.</lines>
+    </verse>
+  </lyrics>
+</song>

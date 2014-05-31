@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Leszállottál az oltárra</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leszállottál az oltárra, ó, Jézusom Szent Szíve,<br/>Szent Szívedre, szentségedre meghajlik a föld színe.<br/>Dicsértessék édes neved, ó, szentség szent Istene,<br/>Engedd, hogy buzgón dicsérjünk mindörökkön örökre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, te ember, bűnös ember, nézz Jézus oltárára,<br/>Ott meglátod Megváltódat feszítve keresztfára.<br/>Azért halt meg Ő éretted, hogy a bűntől megmentsen,<br/>Hogy az öröklét útján a mennyekbe vezessen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Jézusom drága Szíve, az élet forrása vagy,<br/>Vedd Szent Szíved oltalmába itt esdeklő nyájadat.<br/>Ha ránk borul szemfödelünk, s mikor minden szív oly bús,<br/>Ott is veled elmondhassuk, dicsértessék a Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

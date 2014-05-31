@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Jertek, Szűz Mária tisztelői</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jertek, Szűz Mária tisztelői,<br/>Szent olvasójával üdvözleni.<br/>Mária a rózsáknak szép rózsája,<br/>Szent olvasónk égi királynéja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyitva áll ajtaja szép kertjének,<br/>Kiterjesztve karja híveinek.<br/>Szentséges titkait ő osztogatja,<br/>Szent olvasónk áldott királynéja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jertek hát, Szent Anyánk kedvesei,<br/>Kik vagytok keresztények rózsái,<br/>Mert ő örökkétig föld s égnek Anyja,<br/>Szent olvasónk kedves királynéja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Új titkokat váltsunk újhold napra,<br/>Újul Szűz Mária koszorúja.<br/>Zöld levele, szép piros a bimbója,<br/>Mert ő a rózsáknak szép rózsája.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Üdvöz légy, egeknek drága szíve,<br/>Szerelmed egy koszorúba fűzve.<br/>Vedd kedvesen tőlünk koszorúnkat,<br/>Neveld, Édesanyánk, rózsáinkat.</lines>
+    </verse>
+  </lyrics>
+</song>

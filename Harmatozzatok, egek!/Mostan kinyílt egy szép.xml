@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Mostan kinyílt egy szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mostan kinyílt egy szép rózsavirág,<br/>Akit régen várt az egész világ,<br/>Betlehemben kibimbódzott zöld ág,<br/>Kiránynemből méltóság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De nem talált szállást a városon,<br/>Maradása lőn csak egy szálláson.<br/>Mert lakosok inkább gazdagokon<br/>Kaptam, mintsem Jézuson.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szűz Mária itt kesereg sorsán<br/>Szent Józseffel szent Fiát altatván.<br/>Nyugszik vele csak egy kevés szénán,<br/>Könnyei kicsordulván.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szánjátok meg, ó, ti keresztények,<br/>Szűz Anyát s megváltó Istenetek,<br/>Ki életet hozott le tinektek,<br/>S befogadja lelketek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, meg ne vess, hogy későn ismerünk,<br/>Mert most hisszük, hogy születtél értünk<br/>Szűz méhéből, mi édes reményünk,<br/>Vedd kedvesen énekünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nagy dicsőség legyen az Atyának,<br/>Megtestesült egyszülött Fiának,<br/>Bús lelkek szent vigasztalójának,<br/>Áldás Szentháromságnak!</lines>
+    </verse>
+  </lyrics>
+</song>

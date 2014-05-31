@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Így fizet az álnok világ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Így fizet az álnok világ,<br/>Sokat ígér, kevesed ád.<br/>Igen hitvány az a kis bér,<br/>Amit nekem ily szűken mér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Négy szál deszka rideg házam,<br/>Zörgő forgács nyugvó ágyam,<br/>Ez az egész keresményem,<br/>Ezzel már most be kell érnem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ámde Jézus, kit szolgáltam,<br/>Örök jót ad mennyországban.<br/>Ábrahám keblére helyez,<br/>Szegény lelkem ott örvendez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ámde Jézus, kit szolgáltam,<br/>Örök bért ad mennyországban.<br/>Én Istenem, én Istenem,<br/>Vidd fel fehér mennybe lelkem.</lines>
+    </verse>
+  </lyrics>
+</song>

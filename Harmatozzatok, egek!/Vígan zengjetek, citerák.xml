@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Vígan zengjetek, citerák</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vígan zengjetek, citerák, Jézus született,<br/>Harsogjatok, dob s trombiták, Isten ember lett!<br/>Egy szép szűz, ki őt hozá, ki méhében hordozá,<br/>Őtet Gábriel arkangyal áldottnak mondá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De az egek Teremtője jászolban fekszik,<br/>Mindenek hatalmas Ura barmok közt nyugszik.<br/>Hogy mi kevélységünket, nagyravágyó lelkünket<br/>Megalázza, megalázza kevélységünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cifra, pompás palotákat, íme, megvetett.<br/>Az istállót választotta, ottan született.<br/>Az udvarló szolgái juhok, barmok pásztori,<br/>Nem mint e gyarló világnak büszke urai.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tehát pásztorok, szegények, örvendezhettek,<br/>Közöttetek a kis Jézust dicsérhetitek.<br/>Ki tőletek nem kincset, csak tiszta szívet, lelket,<br/>Azt kívánja édes Jézus, őt dicsérjétek.</lines>
+    </verse>
+  </lyrics>
+</song>

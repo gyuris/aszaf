@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Hála legyen néked, édes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hála legyen néked, édes Istenünk,<br/>Hogy lakóföldünkre engedtél érnünk!<br/>Minden veszélyektől megőriztél,<br/>Szerencsésen hazavezéreltél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldassék szent neved, Uram, ezekért,<br/>A hozzánk mutatott kegyességekért.<br/>Fogadd el szívünknek hódolatát,<br/>Vedd kedvesen lelkünk háladását.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, kérünk, mindenkor a legjobbakat,<br/>Ne nézd az emberi gyarlóságokat.<br/>Add szent áldásodat határunkra,<br/>Fordítsd kegyes szemed mindnyájunkra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Esedezünk azért, mennyei Atyánk,<br/>Irgalmasságodból adj áldást reánk,<br/>Kérünk szent Fiadnak öt sebéért,<br/>A Szűz Mária hét fájdalmáért.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kegyesen bő termést adj határunkra,<br/>Nézz a bús özvegyek', szegény árvákra.<br/>Légy irgalmas hozzánk mindenekben,<br/>Ki élsz s uralkodol fönn a mennyben.</lines>
+    </verse>
+  </lyrics>
+</song>

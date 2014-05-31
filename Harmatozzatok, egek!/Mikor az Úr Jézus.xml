@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:37">
+  <properties>
+    <titles>
+      <title>Mikor az Úr Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor az Úr Jézus<br/>Ezen a földön járt,<br/>Rongyos ruhájában<br/>Koldulni is eljárt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beméne egy házhoz,<br/>Regina asszonyhoz,<br/>Alamizsnaképpen<br/>Kenyeret kére ott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Regina asszony<br/>Keservesen síra,<br/>Mert hetedmagával<br/>Árvaságra juta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincs több egy pénzinél,<br/>Azt is mástól kapta,<br/>Az Úr szent nevében<br/>Azt is odaadta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megköszönte Jézus<br/>Kapott alamizsnát,<br/>Szent Regina asszony<br/>Szíves adományát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Menj ki, Péter, menj ki,<br/>Tekints fel az égre!<br/>Látom, Uram, látom<br/>Mennyeknek országát,<br/>Szent Regina asszony<br/>Terített asztalát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kivirágzott rajta<br/>A sok alamizsna,<br/>Angyalok leszedik,<br/>Mennyet örvendeztetik.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szent Regina asszony,<br/>Te vagy boldog asszony,<br/>Példádat kövesse<br/>Eztán minden asszony!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szent Jánosnak szép, kegyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Jánosnak szép, kegyes áldása<br/>Szálljon erre tisztességes házra!<br/>Mint régente Úr Jézusnak szállt apostolira,<br/>Szent Jánosé is úgy szálljon reánk, mindnyájunkra!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus töviskoronája<br/>Legyen ezen ajtónak a zárja,<br/>És a három nagy vasszege az ajtó kilincse,<br/>Hogy a gonosz sátán soha ne jöhessen bele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Krisztus drága szent keresztje<br/>Legyen ezen háznak a teteje,<br/>És a négy evangélista álljon négy sarkára,<br/>Ezen háznak védőrzője legyen Szűz Mária.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldd meg, Jézus, e háznak gazdáját,<br/>Egészségben az egész családját,<br/>Hogy míg élnek, hadd éljenek friss, jó egészségbe',<br/>Holtuk után vezesd őket örök dicsőségbe.</lines>
+    </verse>
+  </lyrics>
+</song>

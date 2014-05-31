@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Pásztorok, éjfél van, nem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok, éjfél van, nem illik már szunnyadni!<br/>A jó pásztor ébren van, már nyáját legelteti.<br/>Mária jászolához fussatok, égi szülöttjének hódoljatok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az égen angyalsereg vonul át dicső fényben,<br/>Glóriát zengve lebeg, és siet örömében.<br/>Mária jászolához fussatok, égi szülöttjének hódoljatok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pásztorok, ne féljetek, nagy öröm vár reátok,<br/>Az Úr eljött közétek, megszűnt a régi átok.<br/>Mária jászolához fussatok, égi szülöttjének hódoljatok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Betlehemben épp most lett Dávidnak unokája,<br/>Istenember született a világ váltságára.<br/>Mária jászolához fussatok, égi szülöttjének hódoljatok!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>S ím, az angyalt angyalok sok ezrei környezik,<br/>A boldog égi lakók az Úr művét hirdetik.<br/>Mária jászolához fussatok, égi szülöttjének hódoljatok!</lines>
+    </verse>
+  </lyrics>
+</song>

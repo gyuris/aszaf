@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Szentháromság hős bajnoka</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentháromság hős bajnoka,<br/>Viadalok legnagyobbja,<br/>Ó, Szent Mihály, légy velünk,<br/>Légy pajzsunk és fegyverünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kardod által, dicső bajnok,<br/>A kevélység szégyent vallott.<br/>Ó, Szent Mihály, légy velünk,<br/>Ha sátán küzd ellenünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egek győztes bajvívója,<br/>Sárkány feje megtiprója,<br/>Ó, Szent Mihály, légy velünk,<br/>Ha a bűn küzd ellenünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istápolj, hogy szentül éljünk,<br/>Hogy egykoron mennybe érjünk.<br/>Ó, Szent Mihály, légy velünk,<br/>Koronát csak így nyerünk.</lines>
+    </verse>
+  </lyrics>
+</song>

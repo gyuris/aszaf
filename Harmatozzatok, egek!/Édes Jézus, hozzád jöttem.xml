@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:39">
+  <properties>
+    <titles>
+      <title>Édes Jézus, hozzád jöttem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Jézus, hozzád jöttem,<br/>Nagyon nehéz a keresztem.<br/>testem reszket, lábam remeg,<br/>Emeld meg a keresztemet!<br/>Ma még lehet, ma még szabad,<br/>Borulj le a kereszt alatt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fogadjál el, ahogy vagyok,<br/>Ragyogtasd rám sugallatod,<br/>Nyújtsd a kezed, hogy elérjem,<br/>A Szentlelket küldd el nekem.<br/>Ma még lehet, ma még szabad,<br/>Borulj le a kereszt alatt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus mondja: kellesz nekem,<br/>Aki szeret, az van velem.<br/>Megbocsátom bűneidet,<br/>Letörlöm a könnyeidet.<br/>Ma még lehet, ma még szabad,<br/>Borulj le a kereszt alatt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűnös lélek, ne tévelyegj,<br/>Ha így remélsz, veled leszek.<br/>Most jöjjetek, ne féljetek,<br/>Azért jöttem, megvédjelek.<br/>Ma még lehet, ma még szabad,<br/>Borulj le a kereszt alatt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halott voltam s felébredtem,<br/>Megmentette az életem.<br/>Most már hiszem, most már tudom,<br/>Jézus az én szabadítóm.<br/>Ma még lehet, ma még szabad,<br/>Borulj le a kereszt alatt!</lines>
+    </verse>
+  </lyrics>
+</song>

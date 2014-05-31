@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:38">
+  <properties>
+    <titles>
+      <title>Isten az ószövetségben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten az ószövetségben hajdanán,<br/>Prófétákat választott ki jó korán,<br/>Kik a jövő dolgokat megjósolták,<br/>A Messiás jövetelét és sorát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Illés prófétáknak egyike,<br/>A tündöklő csillagzatok szebbike.<br/>Ki az égbe tüzes kocsin vitetett,<br/>Velem együtt, hívek, róla zengjetek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Illés, ki megnyitottad az eget,<br/>S imáidra hullt az arany permeteg,<br/>Kérd az Urat, aki minden jókat ád,<br/>Ránk is adja szent malasztja harmatát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőítsük a mennyei Szent Atyát,<br/>Dicsőítsük ő Egyszülött magzatát,<br/>Áldjuk a Szentlelket, kinek általa<br/>Illés a jó s nagy titkokról szólt vala.</lines>
+    </verse>
+  </lyrics>
+</song>

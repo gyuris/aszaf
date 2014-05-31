@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:44:36">
+  <properties>
+    <titles>
+      <title>Igazság rég várt hajnala</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igazság rég várt hajnala, köszöntünk, tiszta Szűzanya,<br/>Ki megelőzted a napot, mely Jézusunkban támadott.<br/>Mert szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!<br/>Te szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged köszönt a hit, remény szívünkben e nap reggelén,<br/>Téged köszönt a szeretet, mely minket hozzád elvezet.<br/>Mert szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!<br/>Te szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hisszük szeplőtlen voltodat és szent fogantatásodat,<br/>Mely minden bűntől ment vala, ó, tisztaságos Szűzanya.<br/>Mert szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!<br/>Te szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívünk úgy senkit nem szeret, mint Isten anyja, tégedet.<br/>Ki szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj.<br/>Mert szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!<br/>Te szép szeretet anyja vagy, kérünk, ó, minket el ne hagyj!</lines>
+    </verse>
+  </lyrics>
+</song>
