@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Ujjongj az Úrnak, szolgálj az</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ujjongj az Úrnak, szolgálj az Úrnak nagyvilág boldogan,<br/>dícsérő szóval Istened áldva énekelj hangosan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudja meg minden, hogy Úr az Isten, ki minket alkotott;<br/>semmiből véve lettünk a népe, magunkra nem hagyott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Házadba lépve, szent neved félve, néped ím eléd áll,<br/>hálát ad néked, dicsérve téged, énekünk feléd száll.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy Atyánk áldva szent Fiad által, együtt a Lélekkel,<br/>jóságod látjuk, hűséged valljuk dicsérő énekkel.</lines>
+    </verse>
+  </lyrics>
+</song>

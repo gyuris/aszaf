@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>rizz meg, Istenem, oltalmam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Őrizz meg, Istenem, oltalmam más nincsen,<br/>Uram vagy én javam, egyedüli kincsem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te Uram, könnyű bort töltöttél kelyhembe,<br/>szent kezed így vetett sorsot életemre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó helyre hullottak Uram, a kötelek:<br/>Te magad mérted ki sorsomként e földet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Urat dicsérem, tanácsom tőle van,<br/>titokban Ő tanít az éj óráiban.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akárhol élhetek, rám ragyogsz arcoddal,<br/>soha el nem veszek, átölelsz karoddal.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Megdobban a szívem, felujjong a lelkem,<br/>békében elpihen az Úrban a testem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Halálom nem hagyod, vesztem nem akarod,<br/>az élet ösvényét előttem kitárod.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Örömöd eláraszt, túlcsordul serlegem,<br/>boldogság tölti be jobbodon a lelkem.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Atyánknak dicsőség Krisztusban, Urunkban,<br/>a Lélek áldassék, ki él mindnyájunkban!</lines>
+    </verse>
+  </lyrics>
+</song>

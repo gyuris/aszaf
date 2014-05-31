@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Istenünk hatalmát az egek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenünk hatalmát az egek hirdetik,<br/>ég és föld harsogják kezének műveit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A napok egymással szótlanul beszélnek,<br/>átadja titkait éjszaka az éjnek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem kell szó, sem beszéd, hangot sem hallani,<br/>világot bejárnak mégis a szavai.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nap mint vőlegény, sátrából útrakel,<br/>útját ő bejárja ujjongó örömmel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent az Úr törvénye, lelkeket újító,<br/>bölcsesség fényével értelmet oktató.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Felujjong a szívem egyenes ösvényén,<br/>ragyogó parancsa szememre áraszt fényt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szabálya tiszta, szép, - megmarad örökké,<br/>színtiszta igazság, ahogyan Ő ítél.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vonzóbb az aranynál, színméznél édesebb,<br/>szolgádra fényt derít, s igazi örömet.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hibát és tévedést, Uram, ki érthet meg?<br/>Rejtett bűneimtől tisztíts meg engemet.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ajkamon minden szó szolgáljon tégedet,<br/>kövesse óhajod szívem és életem.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Kősziklám, Megváltóm, Uram vagy énnekem,<br/>Atyával, Lélekkel dicsérjen énekem!</lines>
+    </verse>
+  </lyrics>
+</song>

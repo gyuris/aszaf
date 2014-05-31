@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Boldog az az ember, ki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog az az ember, ki az Urat féli,<br/>lépteit mindenkor ösvényéhez méri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Élvezheted akkor munkád bő gyümölcsét,<br/>Sionnak Istene megáld mindörökké.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint szőlőtőke dúsan termő ága,<br/>olyan lesz asszonyod, házad szép virága.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asztalodhoz ülnek gyermekeid sorba,<br/>mint ékes, illatos olajágak csokra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megadja azt néked s választott népének,<br/>hogy élvezd jóságát, örülj békéjének.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Atya, Fiú, Lélek, magasztalunk téged, -<br/>jól tudjuk, megáldod a nagy mindenséget.</lines>
+    </verse>
+  </lyrics>
+</song>

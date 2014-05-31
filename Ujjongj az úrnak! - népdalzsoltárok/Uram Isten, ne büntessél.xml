@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Uram Isten, ne büntessél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram Isten, ne büntessél,<br/>haragodban el ne vessél.<br/>Meggörnyedtem, leroskadtam:<br/>kezed nagyon súlyos rajtam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fejemre száll minden vétkem,<br/>bűnöm súlyos teher nékem.<br/>Kimerít a gyötrő kétség,<br/>nincs már bennem semmi épség.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elgyengülve, összetörve,<br/>egész nap csak járok körbe.<br/>Panasz tör fel a szívemből,<br/>kialszik a fény szememből.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindenki elnéz felettem,<br/>barátom sem áll mellettem.<br/>én meg süket füllel, némán,<br/>megdermedve állok bénán.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te, ki így hallod szómat,<br/>szívem már csak téged óhajt.<br/>Reám mered, jaj a vétek,<br/>sietve hozz segítséget!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Beismerem minden vétkem,<br/>sírva bánom hűtlenségem.<br/>Egyedüli üdvösségem:<br/>Uram, Isten, ments meg engem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Védelmezz Istenem, ügyemnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Védelmezz Istenem, ügyemnek fogd pártját;<br/>mindenki ellenem, nem lehetnék árvább.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Körülfog minden rossz, gyönge már a lábom,<br/>segítsen szent erőd utaidat járnom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küldd hozzám követed, igazságod fényét,<br/>életem sietve nyomába szegődjék.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vezess föl hegyedre, otthonodba engem,<br/>öröm és vidámság töltse el a lelkem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ifjúság öröme újítja meg szívem,<br/>dicsérlek gitárral oltárodnál, Isten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Atyának, Fiúnak, Szentléleknek hála,<br/>meglátja az Urat, aki várva várja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Aki bízik, aki remél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki bízik, aki remél,<br/>meg nem inog, szíve nem fél;<br/>olyan az, mint Sion hegye,<br/>sziklaszilárd mindörökre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hegyek őrzik, körülállják<br/>a szent Várost, úgy vigyázzák;<br/>mintha ellenségtől óvnák,<br/>körülveszik mint a bástyák.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Népét az Úr öleli,<br/>védelemmel körülveszi.<br/>Mindig hűen átkarolja,<br/>irgalmával beborítja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem lesz mindig úr a gonosz,<br/>igazakon nem győz a rossz;<br/>hacsak az igazak keze<br/>gonoszra nem vetemedne.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tégy jót Uram, az igazzal,<br/>igazszívű fiaiddal.<br/>Béke legyen annak élte,<br/>görbe útra ki nem tér le.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örök Isten, Gondviselő,<br/>hogy lehetne szavam illő?<br/>De a szívem neked dobog,<br/>forró lángja feléd lobog.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>A mélységből kiáltok fel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mélységből kiáltok fel:<br/>Uram, halld meg könyörgésem,<br/>fordulj felém és hallgass meg,<br/>eléd tárom esdeklésem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha felrovod bűneinket,<br/>színed előtt ki állhat meg?<br/>De irgalmad bőven méred,<br/>hogy tiszteljünk, áldjunk téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Törvényedet, uram látom,<br/>igédben van reménységem;<br/>az Urat én jobban várom,<br/>mint hajnal jöttét az őrszem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten népe élj reményből,<br/>végtelen az Úr kegyelme,<br/>Ő oldoz fel bűneidtől,<br/>Ő vezet el üdvösségre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőítünk örök Atyánk,<br/>fölségedet magasztaljuk;<br/>szent Fiaddal s a Lélekkel<br/>dicsőséged együtt valljuk.</lines>
+    </verse>
+  </lyrics>
+</song>

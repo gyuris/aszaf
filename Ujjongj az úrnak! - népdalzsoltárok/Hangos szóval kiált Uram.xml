@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Hangos szóval kiált Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hangos szóval kiált Uram hozzád szívem,<br/>eléd öntöm kínom, tekintsd vergődésem.<br/>Elapad a lelkem, félek járni utam,<br/>titkos csapda rémít, magam vagyok, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem találok senkit, aki gondol velem,<br/>vajon kinek fontos, élek-e még vagy sem?<br/>Zaklatott a szívem, hajszolt az életem,<br/>halld meg könyörgésem, szabadíts meg engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak Te vagy pártfogóm, Te vagy menedékem,<br/>és az élők földjén Te vagy osztályrészem.<br/>Fogadjon be engem szenteidnek köre,<br/>engedd, hogy nevedet áldjam mindörökre.</lines>
+    </verse>
+  </lyrics>
+</song>

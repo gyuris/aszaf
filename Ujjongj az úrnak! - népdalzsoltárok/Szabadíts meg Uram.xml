@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Szabadíts meg Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szabadíts meg Uram, szakadékba estem;<br/>lábam nem ér talajt, csaknem elmerültem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elragad az örvény, összecsap felettem,<br/>feneketlen iszap mélyén elsüllyedtem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Immár kifáradtam a kiáltozásban,<br/>elbágyadt a szemem, amíg reád vártam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Előtted áll Uram, minden balgaságom,<br/>nem marad rejtekben semmi gonoszságom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Érted ócsárolnak gyalázattal engem,<br/>aki bízik benned, ne érje azt szégyen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Testvéreim között idegenné lettem,<br/>saját családomban vándor, ismeretlen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mert a te házadért buzgóság emésztett,<br/>kik ellened vannak, engem is lenéznek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hozzád kiált imám, nézz rám valahára,<br/>ne fulladjak bele feneketlen árba.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szereteted Uram, mértéket nem ismer,<br/>fordítsd felém arcod, könyörülő Isten.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tudod gyalázatom, összetört a szégyen,<br/>meggyötört a kétség, megzavarta szívem.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Nem találtam senkit, aki felkarolna,<br/>kerestem, de nem volt, aki vigasztalna.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ételemül akkor nékem epét adtak,<br/>szomjúságom láttán ecettel itattak.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Kín és baj szakadt rám, mégis benned bízom,<br/>segítséged Uram, bástyám legyen s pajzsom.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Uram, nagy jóságod hadd dicsérjem dalban,<br/>hálaének zengjen, neved magasztaljam.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>A meggyötört szegény, megalázott ember,<br/>keresse az Urat megújult lélekkel.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Mert Ő szegényeit soha el nem hagyja,<br/>övéit az Isten mindig meghallgatja.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Atya, Fiú, Lélek, te vagy boldogságunk,<br/>megmentettél minket, mindörökké áldunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Pásztorom vagy, Uram, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorom vagy, Uram, Isten,<br/>zöld mezőben hagysz pihenni, csendes víz partján.<br/>Felüdíted tikkadt lelkem,<br/>dús mezőkre vezetsz engem, nevedhez illőn.<br/>Zord éjszakán, sötét völgy ölén,<br/>ott sem rémít semmi veszély, pásztorbotod véd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megterítesz asztalodra,<br/>vendégül látsz ellenfelem szemeláttára.<br/>Olaj csordul homlokomra,<br/>édes bor a serlegembe, veled vagyok már.<br/>És elkísér jóság, kegyelem<br/>végig hosszú életemen, s örök otthon vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldd az Atyát, Krisztust, szent Fiát,<br/>s a Szentlelket, örök Istent, századokon át.</lines>
+    </verse>
+  </lyrics>
+</song>

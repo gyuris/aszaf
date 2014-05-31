@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Éjjel-nappal hozzád kiáltok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Éjjel-nappal hozzád kiáltok Megváltóm;<br/>vedd füledbe szavam, halld meg imádságom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eltölti lelkemet halálos gyötrelem,<br/>igen nagy mélységbe süllyedt az életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erőm is elhagyott, olyanná lettem én,<br/>mint ki meggyilkoltan fekszik a sír mélyén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teljes nagy súlyával reámdőlt haragod,<br/>mint kit elfeledtél: jóságod elhagyott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden barátomat messzire elvitted,<br/>utálattal néznek, semmibe se vesznek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nincs szabadulásom, börtönben sínylődöm,<br/>bánkódásom homályt borít rám, gyötrődöm.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én Uram, naponta kitárom karomat,<br/>érjen hozzád imám, mire a nap virrad.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gyötrődöm, jajgatok, reszketek halódva.<br/>Mért fordulsz el tőlem? ne utasíts vissza!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hordoztam halálos borzalmak csapását,<br/>összezavarodtam, félve jövök hozzád.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Atya, Fiú, Lélek, Három-egy Istenem,<br/>halálból támadó életem dicsérjen.</lines>
+    </verse>
+  </lyrics>
+</song>

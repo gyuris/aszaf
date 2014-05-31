@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Urunk nagy nevét áldja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Urunk nagy nevét áldja a világ,<br/>zengje a zsoltár szívünk új dalát,<br/>csodás tetteit hirdesse a föld,<br/>minden dícséret megilleti Őt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengje föld s az ég: eljön már az Úr,<br/>fenség és erő előtte vonul,<br/>szépség követi, fény és méltóság,<br/>boruljon elé az egész világ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ragyogjon az ég, a föld vigadjon,<br/>tenger hulláma vígan harsogjon,<br/>örüljön a rét s minden kis virág<br/>fönn a hegytetőn s erdőben a fák.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hűséges az Úr, közeledik már,<br/>meglátja a föld, akit várva vár,<br/>Általa, Vele, szent vagy Alkotó,<br/>s aki Tőled jött, a Vigasztaló.</lines>
+    </verse>
+  </lyrics>
+</song>

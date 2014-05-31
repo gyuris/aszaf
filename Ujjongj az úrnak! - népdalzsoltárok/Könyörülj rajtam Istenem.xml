@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Könyörülj rajtam Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Könyörülj rajtam Istenem,<br/>mert irgalmad mérhetetlen.<br/>Mosogass ki bűneimből,<br/>tisztogass meg vétkeimtől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gonoszságom elismerem,<br/>szemem előtt áll szüntelen.<br/>Téged sértett minden vétkem,<br/>végzésed így szent előttem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Izsópoddal hints meg, moss meg,<br/>és a hónál tisztább leszek.<br/>Szállj fülembe, víg dal újra,<br/>s öröm megtört csontjaimba!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Arcod fordítsd el bűneimtől,<br/>ments meg Uram, vétkeimtől.<br/>Tiszta szívet teremts bennem,<br/>újítsd, erősítsd meg lelkem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Színed elől ne taszíts el,<br/>szent lelkedtől ne szakíts el.<br/>Hadd élvezzem üdvösséged,<br/>adj nekem király lelket.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A tévelygő rád tekintsen<br/>és a bűnös hozzád térjen.<br/>Uram, ments meg a vérbűntől,<br/>hadd daloljak hűségedről!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Istenem, nyisd szóra ajkam,<br/>fölséged hadd magasztaljam.<br/>Áldozattal tisztelnélek,<br/>de Te abban nem lelsz kedvet.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Égő- s vágóáldozatnál<br/>szebb ajándék, amit vártál:<br/>A megtört szív teelőtted<br/>legkedvesebb áldozat lesz.</lines>
+    </verse>
+  </lyrics>
+</song>

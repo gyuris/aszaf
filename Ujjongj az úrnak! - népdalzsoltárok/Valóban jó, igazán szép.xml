@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Valóban jó, igazán szép</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Valóban jó, igazán szép,<br/>mikor együtt a közösség:<br/>Urunk áldja gazdagon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Együttlétünk boldogsága,<br/>mint üdítő illat árja:<br/>Urunk áldja gazdagon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aszú szívre hulló harmat,<br/>gyógyulást hoz, balzsamként hat:<br/>Urunk áldja gazdagon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atya, Fiú és Szentlélek:<br/>ősforrása az egységnek,<br/>Urunk, áldunk mindenkor!</lines>
+    </verse>
+  </lyrics>
+</song>

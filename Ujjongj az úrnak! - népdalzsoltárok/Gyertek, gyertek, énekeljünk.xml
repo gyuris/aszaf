@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Gyertek, gyertek, énekeljünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyertek, gyertek, énekeljünk az Úrnak,<br/>örvendezzünk üdvözítő Sziklánknak!<br/>Adjunk hálát együtt az Úr nevének,<br/>csendüljön a zsoltár, szóljon az ének!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mérhetetlen nagy az Isten hatalma:<br/>égnek-földnek, isteneknek Királya!<br/>Őt szolgálja földünk minden mélysége,<br/>magas hegyek leborulnak előtte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő alkotta tengerek vad örvényét,<br/>földünknek is keze írta törvényét.<br/>Mondjunk áldást Alkotónk szent nevére,<br/>térdre hullva így hódoljunk előtte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenünk ő, mi meg népe örökre,<br/>jó pásztorként vezet kövér mezőkre.<br/>Bárcsak ma és mindig szavát figyelnéd,<br/>népem, akkor keményszívű nem lennél!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atyáitok Masszánál a pusztában<br/>kísértettek, nem hittek sok csodámban,<br/>Negyven évig keserített e népség,<br/>ki is mondtam: „Szívük csalárd üresség!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Utaimat nem ismerik, nem járják,<br/>- nem fékeztem indulatom nagy lángját,<br/>Súlyos szóval megesküdtem magamnak:<br/>nyugalmamba ezek soha nem jutnak!”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőség az örök Atya nevének,<br/>üdv és áldás Fiának és Lelkének.<br/>Zsoltárunktól váljék minden örömmé,<br/>amint kezdet óta, most és örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

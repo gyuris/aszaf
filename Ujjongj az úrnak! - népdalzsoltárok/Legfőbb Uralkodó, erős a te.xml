@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Legfőbb Uralkodó, erős a te</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legfőbb Uralkodó, erős a te szavad,<br/>szilárdabb mint a föld, örökre megmarad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Létrehívtad Uram, mindazt, ami élő,<br/>szolgád a mindenség, kezedben az idő.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkem benned vigad, igéd örömet ád,<br/>soha nem felejtem életadó szavát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lehajoltál hozzám, tiéd vagyok Uram,<br/>szabadítóm Te vagy, téged követ utam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lombját veszti minden, elmúlik a nagyság,<br/>de törvényed virul, mint örökzöld faág.</lines>
+    </verse>
+  </lyrics>
+</song>

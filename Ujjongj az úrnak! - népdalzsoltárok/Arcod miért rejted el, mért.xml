@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Arcod miért rejted el, mért</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arcod miért rejted el, mért fordultál tőlem el?<br/>Elfog a kétség: van-e még reménység?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gond lakja a lelkemet,<br/>csüggeszti a szívemet.<br/>Meddig lesz rajtam<br/>gonosznak hatalma?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fényt deríts rám Istenem,<br/>nehogy halál meglepjen.<br/>Ne maradj messze,<br/>siess védelmemre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne mondhassa ellenség:<br/>győzött rajtam csúf kétség.<br/>Míg benned élek,<br/>semmitől se félek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irgalmadban bízom én,<br/>jóságodat áldom én,<br/>Dicsérlek Fölség,<br/>most és mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

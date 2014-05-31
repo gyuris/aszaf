@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Jöjj el Uram, siess, hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj el Uram, siess, hozzád kiált szavam,<br/>mikor sötétedik, maradj velünk, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szálljon imám eléd, mint a tömjénillat,<br/>feléd kitárt karom, mint esti áldozat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arra kérlek, Uram, fogjad fékre a szám,<br/>Hatalmas, Te őrködj ajkamnak ajtaján.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne hagyd, hogy a szívem a rosszra hajoljon,<br/>és a gonoszokkal sürögjön-forogjon.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hozzád menekülök, rád emelem szemem,<br/>benned bízom Uram, Te védd meg életem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Atya, Fiú, Lélek: Szentháromság, neked<br/>utolsó szavammal dicséretet zengek.</lines>
+    </verse>
+  </lyrics>
+</song>

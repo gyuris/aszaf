@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Jó dolog az Urat áldani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó dolog az Urat áldani, dicsérni,<br/>nagy neved örök Úr, hálával zengeni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még hajnal alig kél, hirdetem irgalmad,<br/>éjjel is megvallom hűséged, hatalmad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengjen a citera, tízhúrú lant szava.<br/>Énekünk kísérje hárfának dallama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szép műved a világ; boldogan hirdetem,<br/>hálatelt ujjongás eltölti a szívem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mily nagy vagy Istenem, értelmed végtelen,<br/>mélységes terveid ámulva fürkészem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bűnében csillogva járhat az álnokság,<br/>mint a gyom burjánzik, végsorsa pusztulás.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lám, virul az igaz, mint ifjú pálmaág,<br/>mint ősi Libanon csúcsán a cédrusfák.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dús gyümölcs terem rajt, élte van bőséggel,<br/>múlnak bár évei, nem szárad soha el.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jó Atya, téged áld híveid éneke,<br/>áldott légy Megváltónk s Istennek szent Lelke.</lines>
+    </verse>
+  </lyrics>
+</song>

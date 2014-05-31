@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Az Úr Isten nékem fényesség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr Isten nékem fényesség,<br/>oltalmazó bástyám, üdvösség,<br/>Kitől kell hát félnem, remegnem?<br/>Hiába tör bárki ellenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy a vágyam, egyet kértem én:<br/>hogy az Úr házában lakjam én.<br/>Jobb szállásom annál nem lehet,<br/>mintha az Úr őrzi éltemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint a kincset őriz lakhelyén,<br/>elrejt engem sátra rejtekén,<br/>És ha a sok rossz nap végetér,<br/>vele leszek fénylő, szent hegyén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívdobogva arcod keresem,<br/>arcod el ne rejtsed előlem.<br/>Ne taszítsd el szolgád haraggal,<br/>ne hagyj engem végképp magamra!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Apám, anyám árván itt hagyhat,<br/>tudom: az Úr mindig befogad.<br/>Mikor hazug váddal törnek rám,<br/>ösvényedet járjam igazán.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tőled kaptam biztos hitemet,<br/>országodba hívtál engemet.<br/>Szépségedet látnom engeded,<br/>élők között adsz majd lakhelyet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsőítve várom Uramat,<br/>bízva vágyom látni arcodat.<br/>Atya, Fiú, Lélek: Alkotó,<br/>Életadó Élet, örök Jó.</lines>
+    </verse>
+  </lyrics>
+</song>

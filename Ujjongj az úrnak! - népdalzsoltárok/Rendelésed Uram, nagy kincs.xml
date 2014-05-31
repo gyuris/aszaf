@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Rendelésed Uram, nagy kincs</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rendelésed Uram, nagy kincs, igazi jó,<br/>megtartása öröm, csodálatra méltó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ragyog minden szavad, segíts megértenem,<br/>mélyére tekinthet, kiben vétek nincsen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reám tekints Uram, add meg kegyelmedet,<br/>add meg mindazoknak, ki szeretik neved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rádbízom magamat, ments meg a gonosztól,<br/>tekints derűsen rám, Te légy szabadítóm.</lines>
+    </verse>
+  </lyrics>
+</song>

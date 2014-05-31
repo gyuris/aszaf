@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Istenünk, oltalmunk kezdettől</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenünk, oltalmunk kezdettől örökké,<br/>nem hagysz a semmibe visszahullni többé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezer év előtted gyorsan tűnik tova,<br/>mintha egyetlen éj őrváltása volna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Életünk szétfoszló hajnali álomkép,<br/>reggel nyíló virág, amely nem lát estét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emésztő haraggal talán elvetsz minket?<br/>Szemed előtt tartod vajon vétkeinket?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Életünk folyama nyomtalan ködbe vész,<br/>elhajló sóhajként tűnik el az egész.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldd meg bölcs derűvel életünk alkonyát,<br/>taníts számbavenni napjainknak sorát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áraszd ránk irgalmas üdítő kenetként;<br/>Miért késel Uram? Arcod fordítsd felénk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Töltsön el szerelmed hajnal hasadáskor,<br/>egész nap áldhassunk, vigadozva újból.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kárpótold örömmel szenvedésünk napját,<br/>csodás tetteidet hadd lássa meg szolgád.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mi Urunk, jóságod fölöttünk virrasszon,<br/>két kezünk munkája tőled áldást kapjon.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Háromegy Istenünk tied a dicsőség,<br/>amint kezdet óta, most és mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

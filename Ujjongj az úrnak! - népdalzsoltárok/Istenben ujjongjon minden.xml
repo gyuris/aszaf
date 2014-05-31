@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Istenben ujjongjon minden</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenben ujjongjon minden igaz ember,<br/>dícsérő éneket Fölségenek zengjen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog dal csendüljön citerán és hárfán,<br/>új ének szálljon föl vidám zene szárnyán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őszinte igazság az Úr szava s tette,<br/>hűségét tükrözi valamennyi műve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az egek úgy lettek az Úr óhajára,<br/>csillagok születtek egyetlen szavára.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tengernek vizét az Úr egybegyűjti,<br/>a mélység özönét tárházakba tölti.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hódoljon Urának föld minden lakója,<br/>tisztelje világ apraja és nagyja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Így történt: szava szólt, s valóra vált minden,<br/>létrejött, ahogyan akarta az Isten.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gonoszok terveit kudarc éri sorra,<br/>de az Úr szándéka szilárd kezdet óta.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nincs nemzet boldogabb, mint az Isten népe,<br/>amelyet magának választott örökre.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Egekből letekint, Atyánk szeme rajtunk,<br/>szándékunk ismeri, nincs előtte titkunk.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Sose várj győzelmet mástól, mint az Úrtól,<br/>életed megmenti, megőriz a rossztól.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Várunk az Istenre, várakozunk egyre,<br/>benne van bizalmunk, szívünk ujjong benne.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Áraszd ránk Istenünk, bőséges kegyelmed,<br/>dicsérjük nevedet, bízva bízunk benned.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Dicsőség Istenünk: Atya, Fiú, Lélek,<br/>miképpen kezdetben, most is áld az ének.</lines>
+    </verse>
+  </lyrics>
+</song>

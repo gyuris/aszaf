@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Boldog, aki gonosz útra nem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog, aki gonosz útra nem indul.<br/>Nem tart bűnnel, hangoskodva nem űz gúnyt.<br/>Legfőbb gondja az Úr örök törvénye,<br/>Éjjel-nappal azt forgatja elméje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olyan lesz, mint víz partján nőtt gyümölcsfa:<br/>Bő termését idejére meghozza,<br/>El nem hervad, mindig zöld lesz az ága;<br/>Bármihez fog, jó véget ér munkája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gonosznak sorsa más lesz: jaj annak!<br/>Ő csak pelyva, mit a szelek sodornak.<br/>Ítéletkor a gonosz meg nem állhat,<br/>Igazak közt helyet nem lel magának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ismeri az Úr az igaz ösvényét.<br/>Szemmel tartja minden járás-kelését.<br/>A gonosznak életútja pusztulás,<br/>Elenyészik, sorsa örök elmúlás.</lines>
+    </verse>
+  </lyrics>
+</song>

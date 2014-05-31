@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Vágyódva hív szívem, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vágyódva hív szívem, Istenem, én Uram;<br/>sóvárog testem is: adj helyet házadban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fecske fészket rak, veréb is elpihen,<br/>hontalan életem csak benned nyugszik el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog, ki téged áld, ereje tőled van,<br/>boldogan élhet majd örökre a házadban.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiszáradt völgyeken amikor áthalad,<br/>áldásod várja ott: bő forrásvíz fakad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jobb egy nap házadban, mint ezer nélküled;<br/>Fölséges nézz le rám: semmim sincs kívüled.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha benne bízom én, nem tagad meg soha,<br/>kegyelem, békesség az ő ajándoka.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsérünk jó Atya, Atyának egy Fia,<br/>Istennek Lelke, légy lelkünknek sóhaja.</lines>
+    </verse>
+  </lyrics>
+</song>

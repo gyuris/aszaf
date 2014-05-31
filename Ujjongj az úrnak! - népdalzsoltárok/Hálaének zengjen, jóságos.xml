@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Hálaének zengjen, jóságos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálaének zengjen, jóságos az Isten,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindenható Isten, nincs más Úr a mennyben,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bölcsességét áldja tengereknek árja,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő teremtett mindent, eget és a földet,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Éltet minden élőt, napot adott fénylőt,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Csillagot, hold fényét, éjszakáink őrét,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Egyiptom földjéről kimentette népét,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tengert kettészelte, népét átvezette,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A pusztába vitte, ott is óvta-védte,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Elesettet, gyengét felkarol és megvéd,<br/>irgalma él mindörökké!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Hálát adunk néked, magad vagy az Élet,<br/>irgalmad él mindörökké!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Atya, Fiú, Lélek, dicsőít az ének:<br/>irgalmad él mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

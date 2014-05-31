@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Áldott az Úr Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott az Úr Isten, fellegváram, bástyám,<br/>pajzsom, menedékem, reményem és sziklám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, mi az ember, hogy így felkaroltad?<br/>Nélküled csak árnyék, csak egy szélfuvallat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hajolj le az égből, nyújtsd ki jobbod jöjj le,<br/>ne hagyj beleveszni örvénylő vizekbe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csapdájától rossznak, Uram szabadíts meg,<br/>hazug embereknek szavaitól ments meg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálaének, új dal Téged dicsér Isten,<br/>szabadítóm lettél, győzelmedet zengem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fiainkat áldd meg: Legyen élet bennük,<br/>friss hajtásként nőjön jórahajló kedvük.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lányainkat áldd meg: Őrizzék a szépet,<br/>mint sok ékes oszlop, szívük legyen ékes.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Földünket is áldd meg: gazdag termést hozzon,<br/>tele csűreinkből mindenkinek jusson.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Erőszak és rabság szűnjenek meg végre,<br/>jajkiáltás, átok ne törjön az égre.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Néped, Uram várja: uralmaddal jöjj el,<br/>országodban Isten, boldog lesz az ember.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Áldott az Úr Isten: Atya, Fiú, Lélek,<br/>mindörökké zengje jóságodat néped.</lines>
+    </verse>
+  </lyrics>
+</song>

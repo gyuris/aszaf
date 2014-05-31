@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Ha az Úr nem épít, mindhiába</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha az Úr nem épít, mindhiába fárad<br/>házadon az építő;<br/>ha az Úr nem őriz, mindhiába virraszt<br/>városodon őrálló.<br/>Hajnal előtt kelhetsz, éjfél után fekhetsz, kenyered csak könny és kín.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pihentedben is véd, osztja áldott kincsét:<br/>gyermekek nagy bőségét.<br/>Mint a gyors nyílvesszők hős harcos kezében,<br/>olyan a sok ifjú sarj!<br/>Boldog vagy, ha tegzed ily nyilakkal telt meg,<br/>nem ér soha szégyenpír!</lines>
+    </verse>
+  </lyrics>
+</song>

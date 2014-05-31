@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Némaság lett sorsom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Némaság lett sorsom,<br/>gonoszok közt gondom:<br/>visszafogjam nyelvemet,<br/>csapdájukba ne essem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívem ég mint a tűz,<br/>fájdalmak réme űz.<br/>Aggódva feljajdulok,<br/>maholnap meghalhatok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arasznyi az élet,<br/>s jön már az enyészet.<br/>Pára-éltem eloszlik,<br/>ködfelhőként szétfoszlik</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mire jó kincs és fény,<br/>elnyeli az örvény!<br/>Vajon kire hagyhatom<br/>gonddal szerzett vagyonom?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szólítlak, kiáltlak:<br/>reményem tenálad!<br/>Bűneimtől mentsél meg,<br/>gyalázattól védjél meg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Halld meg bús kérésem,<br/>vedd el büntetésem.<br/>Vétkeimért botozol,<br/>testem nyűvöd mint a moly.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fordítsd el haragod,<br/>számonkérő arcod.<br/>Könnyeimen szánakozz,<br/>hajolj zarándokodhoz.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hallgasd meg imámat,<br/>hadd szűnjön a bánat.<br/>Legyen részem megnyugvás,<br/>míg nem jön az elmúlás.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Csak benned remélek<br/>Atya, Fiú, Lélek.<br/>Sátram mikor leomlik,<br/>bízva hozzád hanyatlik.</lines>
+    </verse>
+  </lyrics>
+</song>

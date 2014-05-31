@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>A Hegyre néz pillantásom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Hegyre néz pillantásom,<br/>honnan jöhet megváltásom?<br/>Nem jöhet az senki mástól,<br/>csak az ég és föld Urától!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megrogyni nem hagyja térded,<br/>nem alszik el, őriz téged;<br/>Nem aluszik, nem szunnyad el,<br/>ki őriz téged, Izrael.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oltalom az Úr tenéked,<br/>mint árnyékod, kísér téged.<br/>Nem hagy Ő el, mert jóságos,<br/>jobbodon a Magasságos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem sújt a nap tűzsugara,<br/>nem árthat a hold éjszaka;<br/>Az Úr élted őrzője,<br/>mostantól és mindörökre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Hegyre néz pillantásom,<br/>a háromegy Istent áldom:<br/>Atya, Fiú és Szentlélek,<br/>téged dicsérjen az ének!</lines>
+    </verse>
+  </lyrics>
+</song>

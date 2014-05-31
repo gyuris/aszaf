@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Gyertek, daloljatok vígan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyertek, daloljatok vígan az Úr előtt,<br/>lépjünk együtt hozzá, áldjuk boldogan Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ég és földnek Urát, nagyhatalmú királyt,<br/>dicsérje az ének, üdvünk Kőszikláját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rajta tartja kezét föld mélyének titkán,<br/>felhők között lépdel, magas hegyek ormán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tenger is övé, az ő alkotása,<br/>szárazföldet, eget szent keze formálta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Imádjuk őt, gyertek, boruljunk le elé;<br/>tulajdona vagyunk, kezére bízott nép.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bárcsak népünk ma is meghallaná szavát,<br/>és szívébe vésné minden gondolatát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem ahogy a pusztán ősatyáink tették:<br/>látva a sok csodát, mégis ingerelték.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Így szólt végül az Úr: „Távol tőlem e nép,<br/>soha meg nem látják országomnak földjét”.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Arcodra ha lelnék, ösvényeden járnék,<br/>örökkön-örökké dicsőséged zengném.</lines>
+    </verse>
+  </lyrics>
+</song>

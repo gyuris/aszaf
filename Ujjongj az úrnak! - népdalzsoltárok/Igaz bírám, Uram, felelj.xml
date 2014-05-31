@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Igaz bírám, Uram, felelj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igaz bírám, Uram, felelj, hívlak!<br/>Könnyítsd meg a szívem, adj irgalmat!<br/>Kevés erőm, nagy a szorongásom,<br/>Jó vagy hozzám, halld meg imádságom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti nagyurak, mért bántjátok Istent?<br/>Meddig lesz, hogy bálványoknak hisztek?<br/>Mért bókoltok a sok hitványságnak?<br/>Mi lesz vége a sok hazugságnak?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meglátjátok, eljön az Úr hozzám,<br/>Csodajellel segít a hű szolgán.<br/>Meghallgat majd, mikor felkiáltok,<br/>Bizalmamban kegyelmet találok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy nyugtalan, sirasd meg a vétked,<br/>Áldozattá tedd az egész élted.<br/>Vizsgáld meg a szíved, sírva-sírjál, -<br/>Isten segít, hogy utain járjál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sokan kérdik: esőt ki küld végre,<br/>Mért kerül el Isten arca-fénye?<br/>Panaszosnak bort adj, s búzát bőven;<br/>Töltsd be, Isten, örömmel a szívem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Körülvesz az Úrnak arca-fénye,<br/>Lefekszem és rámborul a béke.<br/>Benned élek Uram, mély az álmom,<br/>Nyugalmamat csak Benned találom.</lines>
+    </verse>
+  </lyrics>
+</song>

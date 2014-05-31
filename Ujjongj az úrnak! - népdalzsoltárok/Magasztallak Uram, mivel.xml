@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Magasztallak Uram, mivel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magasztallak Uram, mivel megmentettél,<br/>mikor mélybe estem, onnan kiemeltél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiáltottam hozzád és meggyógyítottál,<br/>magadhoz emeltél, s új életet adtál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjátok az Urat, zengjen a dicséret,<br/>aki szereti Őt, hálát ad nevének.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Haragjának tüze csak rövid pillanat,<br/>de a jóságából örök élet fakad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki elalszik este síró zokogással,<br/>hajnalban felébred örömujjongással.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Könnyelműen szóltam: „soha el nem esem”,<br/>mikor velem voltál, olyan erős lettem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Elrejtetted arcod, szemem többé nem lát;<br/>megrendültem nagyon, rimánkodva hozzád.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ha már mélybe szálltam, könnyem mit ér neked?<br/>Vajon a sár dicsér? Áldja-e hűséged?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hallgasd meg a szavam, könyörülj meg rajtam,<br/>Uram, Isten, Te légy őriző oltalmam.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sírásomból Uram, perdíts engem táncra,<br/>tépd le darócruhám, öltöztess vígságba.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Téged áldjon dalban mindörökre szívem,<br/>ne csorduljon többé soha már a könnyem.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Atya, Fiú, Lélek most és mindörökké<br/>magasztallak téged, mivel megmentettél.</lines>
+    </verse>
+  </lyrics>
+</song>

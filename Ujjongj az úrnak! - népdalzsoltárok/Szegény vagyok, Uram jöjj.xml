@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Szegény vagyok, Uram jöjj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szegény vagyok, Uram jöjj, figyelj rám;<br/>szünet nélkül szívem csak terád vár.<br/>Híved vagyok, oltalmazd életem,<br/>bízom nagyon benned, én Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajolj felém, tehozzád kiáltok,<br/>szelíd fénnyel derítsd rám világod.<br/>Tedd vidámmá, derűssé lelkemet,<br/>hiszen neked adtam át szívemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nehéz napok mikor rám szakadnak,<br/>csakis nálad találok nyugalmat.<br/>Az irigyek felkeltek ellenem,<br/>hatalmasok gyötrik az életem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tanítsd szívem igaz uton járni,<br/>ösvényedre mindig rátalálni.<br/>Mélységeknek mélyéről kimentesz,<br/>túláradó irgalmad így szeret.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hatalmas vagy, csodáknak szerzője,<br/>boruljon le minden nép elődbe.<br/>Műveidhez fogható nincs semmi,<br/>hozzád, Uram, hasonló nincs senki.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tekints reám irgalmas, kegyelmes,<br/>haragodban megfontolt, türelmes.<br/>Mert Te, Uram, gazdag vagy hűségben,<br/>hálát adok őszintén szívemben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te vagy Atyánk, örökké dicsérünk,<br/>Fiad Jézus szegény lett miértünk,<br/>a Szeretet Lelkétől átjárva<br/>szegény szívünk gazdaggá válhatna.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Istenem, Istenem, miért hogy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, Istenem, miért hogy elhagytál?<br/>Mért veted el szavam, feljajduló magam,<br/>mért nem felelsz immár?<br/>Kiáltozom nappal, de te mélyen hallgatsz,<br/>éjszaka kiáltok, de te néma maradsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Benned bizakodtak őseink is egyre,<br/>felkaroltad őket, megmentetted néped,<br/>Izraelnek Szentje.<br/>De én senki vagyok, nem ember csak féreg,<br/>megvetnek, lenéznek, - vajon meddig élek?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Ha Isten szereti, megmentheti mostan”<br/>- imigyen kacagnak, önmagamra hagynak<br/>a nehéz balsorsban.<br/>De én tied vagyok, mielőtt születtem,<br/>már anyám ölében a te kincsed lettem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincs aki segítsen, ne maradj hát távol.<br/>Ments meg a gonosztól, leselkedő rossztól,<br/>vadállati szájtól.<br/>Mint dühös oroszlán, fenyeget az ellen,<br/>kutyák vesznek körül, - maradj kérlek velem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiöntött víz vagyok, megtörték a csontom.<br/>Szívem mint a viasz, nem remélek vigaszt<br/>a halálba hullón.<br/>Mint az eltört cserép, az erőm is fogytán,<br/>nyelvem odatapad, úgy kiszáradt a szám.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kezemet, lábamat átszögezték, verték.<br/>Köntösöm sorsolták, ruháim eloszták,<br/>mindenem elvették,<br/>és megszámlálhatom egyenként a csontom, -<br/>óvd meg, takarjad el kardjuktól az arcom.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nevedet akarom énekelni áldva;<br/>testvéreim előtt, minden nemzedék közt,<br/>egyenesen állva;<br/>mert te nem veted el, aki siet hozzád,<br/>betöltöd a szegényt, megfordítod sorsát.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amit megígértem, teljesítem én is.<br/>Visszajön Istenhez, leborul, örvendez<br/>mind az összes nép is.<br/>Megtöri a halál hatalmát a Győztes,<br/>életadó Ura minden népnek Ő lesz.</lines>
+    </verse>
+  </lyrics>
+</song>

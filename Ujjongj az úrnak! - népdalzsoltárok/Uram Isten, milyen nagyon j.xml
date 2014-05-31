@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Uram Isten, milyen nagyon j</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram Isten, milyen nagyon jó vagy<br/>mindazokhoz, akik benned bíznak!<br/>Mégis majdnem megbotlott a lábam:<br/>gonoszoknak sorsát megkívántam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy tűnt nékem, boldogabb az álnok,<br/>semmi baj sem nehezedik rájok.<br/>Háborogtam, látva hogyan élnek,<br/>embertől sem, Istentől sem félnek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Balgaság volt, hogy a szívem vérzett,<br/>titkaidból eszem mit sem értett.<br/>Hiszen most is veled vagyok, látod;<br/>kezem biztos tenyeredbe zárod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi kell nékem odafönn az égben?<br/>Veled élek, Te vagy osztályrészem.<br/>Egyéb vágyam itt a földön sincsen,<br/>Sziklaszálam te vagy, örök Isten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Elenyésszen bár a szívem, testem,<br/>jelenléted boldoggá tesz engem.<br/>Benned bízom, Te vagy menedékem,<br/>örök Isten nevedet dicsérem.</lines>
+    </verse>
+  </lyrics>
+</song>

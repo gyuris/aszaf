@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Rám ne támadj Uram, heves</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rám ne támadj Uram, heves indulatban,<br/>Könyörülj meg rajtam, ne bánts haragodban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vívódik a lelkem, minden erőm elhagy,<br/>Hívlak, Uram, gyógyíts, csontom kínban sorvad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, hajolj hozzám, életemet mentsd meg,<br/>Szabadíts meg engem, nagy a kegyességed!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mire jó a halál? - Te ott nem vagy jelen.<br/>Lenn a sírnak mélyén, nincs ki rólad zengjen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sokat sírok éjjel, elbágyad a lelkem,<br/>Könny áztatja párnám, elszorul a szívem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Meghallgattál Uram, megszégyenül a rossz;<br/>Ahol úr az Isten, menekül a gonosz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Betegségem eltűnt, sehol sincs ki bántott;<br/>Atya, Fiú, Lélek, mindörökre áldott!</lines>
+    </verse>
+  </lyrics>
+</song>

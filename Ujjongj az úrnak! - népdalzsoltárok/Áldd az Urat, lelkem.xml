@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Áldd az Urat, lelkem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldd az Urat, lelkem,<br/>mindig Őt dícsérjed,<br/>amit csak teremtett,<br/>ami jót veled tett,<br/>soha ne feledjed!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnöd megbocsátja,<br/>meggyógyít a bajtól,<br/>megmenti életed<br/>jósága, kegyelme<br/>a nagy pusztulásból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szépségét meglátod,<br/>újul ifjúságod,<br/>mint a sasmadáré<br/>visszatér, visszatér,<br/>múló ifjúságod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr igazságos<br/>minden gyötrött szívhez,<br/>ösvényét megnyitja,<br/>Izraelt tanítja,<br/>jó Ő mindenkihez.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó és hosszantűrő,<br/>lassú a haragja,<br/>álnokság tengerét,<br/>sértések sok ezrét,<br/>vissza sose adja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mint az apa gyöngéd<br/>botló gyermekéhez,<br/>Isten oly kegyelmes,<br/>irgalmas, türelmes<br/>szíve gyermekéhez.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mert Ő bizony tudja,<br/>hogy sárból születtünk;<br/>fonnyad mint tört virág,<br/>lehull mint száraz ág,<br/>tűnik-múlik éltünk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Könnyű szél ha támad,<br/>elfúj az is mindent;<br/>de minket hazavár,<br/>megőriz, megtalál<br/>a hűséges Isten.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mennyei Atyánkat<br/>és Fiát hadd zengem,<br/>velük a Szentlelket,<br/>áldjad Istenedet,<br/>áldd az Urat lelkem.</lines>
+    </verse>
+  </lyrics>
+</song>

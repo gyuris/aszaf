@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Zörgető kérés elődbe érjen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zörgető kérés elődbe érjen:<br/>adj nekem fényt, hogy szavadat értsem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengjen a zsoltár, dicséret zengjen,<br/>igazság útján tanítasz engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zavarban, vészben segítsen jobbod,<br/>éljen a lelkem, halljam a hangod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zaklatott lelkem üdvödet várja,<br/>törvényed útját örömmel járja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zord útra tévedt, s megbotlott lábom,<br/>keresd meg szolgád, utadra vágyom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsőség, hála, jó Atya néked,<br/>törvényünk Krisztus, vezet a Lélek.</lines>
+    </verse>
+  </lyrics>
+</song>

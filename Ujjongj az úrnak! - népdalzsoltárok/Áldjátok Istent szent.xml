@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Áldjátok Istent szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjátok Istent szent templomában,<br/>dícsérjétek fölségének égi udvarában.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjátok őt, mert nincs nála szentebb,<br/>dicsérjétek fölségét, mert mindent Ő teremtett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjátok zengő rézharsonával,<br/>dicsérjétek hárfa-szóval, hangos citerával.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjátok őt mind, körtáncot lejtve,<br/>dicsérjétek pengő lanton, lágy fuvolán zengve.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldjátok vígan, cintányér csengjen,<br/>minden Istent magasztalja földön és a mennyben.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mind ami élő, áldja az Istent,<br/>teljes szívből énekelve alleluját zengjen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Bűn nélkül élni lehet-e</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bűn nélkül élni lehet-e másnak,<br/>mint aki útján tőled vár támaszt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beírtam szódat szívembe mélyen,<br/>ne engedj tőle többé eltérnem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bő áldás nékünk törvényed útja,<br/>tanítod lelkünk újra meg újra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Betölti számat dicsérő ének,<br/>törvényed zengem, áldalak téged.</lines>
+    </verse>
+  </lyrics>
+</song>

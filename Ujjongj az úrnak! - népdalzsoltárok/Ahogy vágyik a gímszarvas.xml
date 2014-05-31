@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Ahogy vágyik a gímszarvas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ahogy vágyik a gímszarvas forrás hűs vizére,<br/>úgy vágyódik testem lelkem az ő Istenére.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szomjazza az élő Istent, vágyva vágyja lelkem;<br/>Arcát mikor láthatom meg, mikor hagy betelnem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Éjjel-nappal könny kenyerem, sokan kérdik tőlem:<br/>Hol van Isten, a te Urad, ínséges időkben?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ujjong, örül majd a szívem Isten templomában,<br/>ahol együtt ünnepet ül sok-sok kedves társam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miért vagyok szomorú most, minek sóhajtásom,<br/>amikor én hittel hiszem, hogy Istent meglátom?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mégis mikor hullám harcol, s örvény az örvénnyel,<br/>kérdem: Isten, Sziklaszálam, mért felejtettél el?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gúnyt mért űznek énbelőlem, kik ellenem vannak?<br/>„Hol van Isten, a te Urad?” - egyre mért faggatnak?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Várj az Úrra, várj Istenre, bízzál, hogy meglátod<br/>Őt, ki arcod Üdvössége, legfőbb boldogságod.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Istent várjad, akkor nem vársz semeddig hiába,<br/>Atya, Fiú és Szentlélek, megillet a hála.</lines>
+    </verse>
+  </lyrics>
+</song>

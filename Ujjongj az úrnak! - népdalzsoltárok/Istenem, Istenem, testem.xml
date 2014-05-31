@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Istenem, Istenem, testem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, Istenem, testem lelkem áhít,<br/>mint száraz föld esőt, téged úgy szomjazik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd lássam hatalmad, hadd hirdessem fényed,<br/>jobb a te jóságod, mint maga az élet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjalak míg élek, kitárva a karom,<br/>bőséged elborít, ujjongva zeng dalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rád gondolok Uram, ágyamon pihenve,<br/>virrasztva hajnalig Te jutsz az eszembe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szárnyaddal boríts be, jöjj, légy segítségem,<br/>tarts erős kezeddel, hozzád tapad lelkem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsérjük az Atyát és egyszülött Fiát,<br/>vélük a Szentlelket, minden időkön át.</lines>
+    </verse>
+  </lyrics>
+</song>

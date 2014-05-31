@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Akinek az Úr ad lakást</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Akinek az Úr ad lakást,<br/>a Fölséges biztos szállást,<br/>így szól: Te vagy bástyám, pajzsom,<br/>Istenem vagy benned bízom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tőrből megment, baj nem érhet,<br/>szárnya alá rejt el téged;<br/>nem félsz nyíltól, gyilkos rémtől,<br/>délben dúló titkos vésztől.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezrek hullnak el melletted,<br/>szent hűsége pajzsként óv meg;<br/>lásd, mi bért nyert a gonoszság,<br/>egy szó, s érzed az Úr karját!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sátrad szilárd, az Úr véd meg,<br/>angyalai megőriznek;<br/>tenyerükön úgy hordoznak,<br/>hogy kőbe ne üsd lábadat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eltaposhatsz kígyót, sárkányt,<br/>megtiporhatsz vad oroszlánt;<br/>így szól az Úr: „Bízik bennem,<br/>megvédem, mert vallja nevem”.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hozzám kiált s meghallgatom,<br/>bajban-vészben támogatom:<br/>felövezem dicsőséggel,<br/>sok-sok évvel, üdvösséggel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Atyaisten, valljuk léted,<br/>Szent Fiaddal áldunk téged,<br/>vigasztaló Szentlelkednek<br/>együtt mondunk dicséretet.</lines>
+    </verse>
+  </lyrics>
+</song>

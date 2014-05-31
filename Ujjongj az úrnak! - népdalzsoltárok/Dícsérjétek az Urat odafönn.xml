@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Dícsérjétek az Urat odafönn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dícsérjétek az Urat odafönn az égben,<br/>dícsérjétek angyalok s szentek seregében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjétek nap és hold, díszei az égnek,<br/>dicsérjétek csillagok, szelíd égi fények.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjétek tengerek s minden vízi lények,<br/>dicsérjétek örvények, feneketlen mélyek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jég és tűz dicsérje Őt, hajnali ködfelhő,<br/>száguldozó szélvihar, parancsát cselekvő.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjétek nagy hegyek, dombok, erdők, völgyek,<br/>dicsérjétek gyümölcsfák, cédrusok és tölgyek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsérje az ég Urát erdő-mező vadja,<br/>valamennyi állatfaj, mely a földet lakja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicsérjétek az Urat minden földi népek,<br/>törvényhozó vezetők, tudósok, művészek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérjétek gyerekek, fiatalok, vének,<br/>hatalmas az Úr neve, magasztalja ének.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Atya, Fiú, Szentlélek, tiéd a dicsőség,<br/>ahogy kezdet óta volt, most és mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

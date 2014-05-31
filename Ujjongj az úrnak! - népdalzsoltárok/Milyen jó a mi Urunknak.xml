@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Milyen jó a mi Urunknak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milyen jó a mi Urunknak énekelni, dalolni,<br/>de szép a mi Istenünket áldó szóval dícsérni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr egybegyűjti népét, újjáépül városa,<br/>sebeinket bekötözi, megtört szívünk gyógyítja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő, aki a csillagoknak számát el nem feledi,<br/>számontartja valamennyit, mindet nevén nevezi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy Ő, a mi Urunk, s nincsen erejének határa,<br/>emberi ész fel nem fogja, milyen nagy a tudása.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szegény embert védelmezi, bátorítást ad neki,<br/>de aki a rosszban kitart, magához nem engedi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zengjen lantok víg zenéje, háladal dicsérje Őt,<br/>aki felhőt ad az égre, földre áraszt jó esőt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Füvet sarjaszt, magot érlel hegytetőn és völgy ölén,<br/>tőle kapja eledelét minden, mi a földön él.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gyönyörűsége az Úrnak mindaz, aki féli őt,<br/>aki bízik irgalmában, támasz annak és erő.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsérje az élő Istent az ő népe s nemzete,<br/>hiszen százezerszer áldott minden igaz gyermeke.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Táplál búza legjavával, népének békét ígér,<br/>leküldi a földre szavát, s az mint szélvész, odaér.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Havat terít, mint a gyapjút, dér hamuját hinti szét,<br/>jéggé fagynak mind a vizek, ki bírja el hidegét?</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Szavát újra földre küldi, gyorsan olvad már a jég,<br/>a nagy vizek megáradnak, mikor föltámad a szél.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Kire az Úr szavát bízta, Isten népe az a nép,<br/>legyen érte neve áldott kezdet óta, örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Uram, mikor hívlak, szavam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, mikor hívlak, szavam jusson hozzád,<br/>Uram, hogyha hívlak, vígasztald meg szolgád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kerestem az arcod szenvedésem napján,<br/>vigasztalan szívvel, éjjel-nappal sírván.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Régmúlt napok, évek emlékét idézve<br/>töprengek a múlton szívemmel beszélve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örökké tart vajon Istenünk haragja?<br/>Irgalmas jóságát többé nem mutatja?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megszűnt tán irántunk minden kegyessége?<br/>Megfogyatkozott-e egykor hűsége?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Felidézem újra Isten nagy hatalmát,<br/>elsorolok minden régen történt csodát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bizony, szent az Isten, nincsen nagyobb nála,<br/>erejét, hatalmát népe megcsodálta.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>mennydörgésed hangja visszhangzott a szélben,<br/>villámaid fénye ragyogott az égen.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hatalmadat látva kettévált az örvény,<br/>megrendült a föld is, tengerben nyílt ösvény.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Átvonultál rajta néped előtt járva,<br/>pásztorunk vagy most is, legyen érte hála.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Dicsőséged zengjük Atya, Fiú, Lélek,<br/>csüggedéstől óvjad próbára tett néped.</lines>
+    </verse>
+  </lyrics>
+</song>

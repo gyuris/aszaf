@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Halld meg Isten, mikor hozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halld meg Isten, mikor hozzád kiáltok,<br/>Színed előtt várakozva megállok!<br/>Virradatkor eléd állok ügyemmel,<br/>Feléd tárom kérésemet, ne vesd el!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öntelt ember hogyan jönne tehozzád?<br/>Meg nem állhat színed előtt gonoszság.<br/>Mégis engem könyörülő szerelmed<br/>Dicsőséges hajlékába beenged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tágas helyre, dús meződre vezess el,<br/>Szent ösvényed járhatóvá simítsd el!<br/>Akik hozzád menekülnek, vigadnak,<br/>Hiszen nálad örök otthont találnak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Téged áldunk örök Isten: Atyánk vagy!<br/>Jézus Krisztus elküldted a világnak.<br/>Megváltottak háladala dicsérjen,<br/>Egész szívünk Szentlélekkel beteljen!</lines>
+    </verse>
+  </lyrics>
+</song>

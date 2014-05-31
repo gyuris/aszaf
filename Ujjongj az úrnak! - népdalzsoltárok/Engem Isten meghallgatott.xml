@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Engem Isten meghallgatott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Engem Isten meghallgatott,<br/>szeretete fölém hajolt.<br/>Fülét hozzám fordította,<br/>imádságom elfogadta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálót font a halál körém,<br/>kín és bánat borult fölém.<br/>Kiáltottam: Uram, ments meg!<br/>S az Úr engem szabaddá tett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr jó és igaz nagyon,<br/>minden útja csak irgalom.<br/>Kicsinyeknek oltalma lett,<br/>földre estem, s fölsegített.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkem újra nyugtot talált,<br/>az Úr legyőzte a halált.<br/>Letörte a bilincseket,<br/>letörölte könnyeinket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogyan viszonozzam tehát<br/>hozzánk hajló nagy irgalmát?<br/>Segítségül hívom nevét,<br/>s veszem az Úr áldott kelyhét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hozom áldozatom eléd,<br/>- újra hívom Uram nevét -<br/>Fogadalmam teljesítem,<br/>látod Uram, szolgád lettem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fogadd tőlünk örök Atyánk<br/>Jézus Krisztus áldozatát;<br/>Lelked által, ki bennünk él<br/>magasztalunk mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

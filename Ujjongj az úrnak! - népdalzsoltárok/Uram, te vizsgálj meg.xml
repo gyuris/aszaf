@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Uram, te vizsgálj meg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, te vizsgálj meg, ismerjél meg engem,<br/>látod mit gondolok, látod jártom-keltem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden utaimat vigyázod, ha lépek,<br/>ki se mondtam szavam, de Te máris érted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Előlem, mögülem átölel két karod,<br/>fel nem érem ésszel, olyan nagy tudásod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hová is futhatnék, tőled hogy bujhatnék,<br/>magasban és mélyben arcodra bukkannék.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Napkeletre szállok, ott is rád találok,<br/>a tengeren túl is megragad a jobbod.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Akkor megértettem: éjjel is rám ragyogsz,<br/>éj van avagy nappal, mindenütt felkarolsz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rám gondoltál akkor, mikor megalkottál,<br/>anyám méhén mikor engem megformáltál.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérlek hatalmas, félelmetes Isten,<br/>boruljon le eléd, mit alkottál, minden.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Lelkem minden zugát ismered Te régen,<br/>nincs előtted titok, rejtsem bármi mélyen.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Életem napjait Te fűzted fel sorba,<br/>mielőtt még egy is rámvirradott volna.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Olyan súlyos nekem minden gondolatod,<br/>számon se tarthatom, annyi mint a homok.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Vizsgálj meg Istenem, szívemet fürkészd ki,<br/>más Uram kívüled ne lehessen senki!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Kérünk Urunk, légy irgalmas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kérünk Urunk, légy irgalmas újra népeddel,<br/>minden bűnét megbocsássad, vétkét feledd el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csillapodjék, csituljon el bosszús haragod,<br/>engedj benned vigadoznunk, lássuk jóságod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj életet, hadd hirdessük, amit ígértél,<br/>béke legyen mindazzal, ki hozzád visszatér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogító jelenléted mindig velünk van,<br/>országodnak dicsősége máris köztünk van.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igaz hűség, szelíd jóság így már eggyé vált,<br/>igazságod, áldott békéd bennünk csókot vált.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hűség sarjad aszú földből, égből igazság,<br/>dús gyümölcsöt érlel földünk, gazdag termést ád.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Urunk itt jár újra köztünk, szépség követi,<br/>az igazság előtte jár s jöttét hirdeti.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Atya, Fiú és Szentlélek: teljes Háromság<br/>hála neked, mert irgalmad boldog valóság.</lines>
+    </verse>
+  </lyrics>
+</song>

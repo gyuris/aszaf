@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Csodáid meglátni nyisd meg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodáid meglátni nyisd meg a két szemem,<br/>segíts, hogy megtartsam szavaid hűségben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak egy vágy tölti be egészen a szívem:<br/>törvényed járja át mindenkor életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csúfold meg vádlóim, töröld el szégyenem,<br/>utadon járok én, törvényed hirdetem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csakugyan szép öröm szavaid hallani,<br/>méginkább életem azokhoz tartani.</lines>
+    </verse>
+  </lyrics>
+</song>

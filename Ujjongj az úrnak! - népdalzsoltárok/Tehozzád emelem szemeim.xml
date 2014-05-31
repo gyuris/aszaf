@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:58">
+  <properties>
+    <titles>
+      <title>Tehozzád emelem szemeim</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tehozzád emelem szemeim Istenem,<br/>aki a trónon ülsz, odafönn a mennyben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy a szolga néz urának kezére,<br/>ahogy a szolgáló asszonya kezére.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teremtő Urunkra úgy tekint a szemünk,<br/>amíg csak meghallgat, s irgalmát elnyerjük.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmazz, irgalmazz jó Urunk minekünk,<br/>oly sok gúnyt, megvetést ízlelt már a lelkünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tehozzád emelem szemeim Istenem,<br/>téged áld szüntelen dicsérő énekem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Szól az Úr az én Uramhoz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szól az Úr az én Uramhoz: „Ülj jobbomra, uralkodjál,<br/>minden ártód porba döntöm, s lábad elé hull, mint szolgád!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erős kormánypálcát sarjaszt számodra az Úr Sionból:<br/>{}„Légy úr minden ellenségen, lásd, hogy mind néked hódol,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha véres harcba indulsz, ifjú néped csak rád hallgat,<br/>hajnalcsillag előtt lettél méhemből mint égi harmat.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Esküjét az Úr megtartja, tervét meg nem változtatja;<br/>így szólt: „Pap vagy mindörökké, Melkizedek példájára.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jobbodon az Úr haragja pusztulást oszt sok királynak.<br/>Útközben az ér vízéből iszik, s emelt fővel vágtat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Atya, Fiú, Szentléleknek nagy fölségét zengje minden,<br/>éggel-földdel mi is mondjunk mindörökké áldást, Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

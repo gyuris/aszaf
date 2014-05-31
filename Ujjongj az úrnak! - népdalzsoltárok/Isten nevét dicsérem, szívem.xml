@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Isten nevét dicsérem, szívem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten nevét dicsérem, szívem csupa hála,<br/>együtt mondjunk háladalt, közös ének áldja:<br/>Jóság, hűség kezed minden műve,<br/>szent vagy, jó vagy, áldunk mindörökre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Döbbent szívünk ráeszmél, milyen nagy az Isten:<br/>Erő, Fönség, Hatalom, fénye átjár mindent.<br/>Jóság, hűség...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igaz jóság, irgalom minden rendelése,<br/>csak az érti valóban, aki bízik benne.<br/>Jóság, hűség...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soha el nem felejti ősi szövetségét,<br/>maga őrzi, táplálja, egybegyűjti népét.<br/>Jóság, hűség...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atya, Fiú, Szentlélek, megillet a hála,<br/>csodálkozva, boldogan néped ezt kiáltja:<br/>Jóság, hűség...</lines>
+    </verse>
+  </lyrics>
+</song>

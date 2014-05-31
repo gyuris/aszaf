@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Aki jár utadon, ki a jót</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki jár utadon, ki a jót keresi,<br/>boldog az az ember, ki az Urat féli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj irányt léptemnek, célja légy szívemnek,<br/>akkor nem ér szégyen, életedet élem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldom jó szívedet, szeretem törvényed,<br/>szívem arra hajlik, ami rendelésed.</lines>
+    </verse>
+  </lyrics>
+</song>

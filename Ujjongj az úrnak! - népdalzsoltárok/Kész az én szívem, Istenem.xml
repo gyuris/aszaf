@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:57">
+  <properties>
+    <titles>
+      <title>Kész az én szívem, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kész az én szívem, Istenem,<br/>vedd Uram, áldó énekem.<br/>Ébredj lelkem, hárfám, citerám,<br/>ébresztem a hajnalt fuvolán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemet hála járja át,<br/>hirdetem Isten nagyságát.<br/>Ébredj lelkem...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hűséged oly nagy, int az ég,<br/>jóságod árad szerteszét.<br/>Ébredj lelkem...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent kezed hogyha nem kísér,<br/>emberi nagyság mit sem ér.<br/>Ébredj lelkem...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vezesd minden léptemet,<br/>bűntől, bajtól védjen jobbkezed.<br/>Ébredj lelkem...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fény alkotója, Istenünk:<br/>Szentháromság, áldjon életünk!<br/>Ébredj lelkem...</lines>
+    </verse>
+  </lyrics>
+</song>
