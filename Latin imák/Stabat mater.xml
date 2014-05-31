@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Stabat mater</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stabat Mater dolorosa<br/>Iuxta crucem lacrimosa<br/>Dum pendebat Fílius</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuius animam gementem<br/>Contristatam et dolentem<br/>Pertransivit gladius</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O quam tristis et afflicta<br/>Fuit illa benedicta<br/>Mater unigeniti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quæ mœrebat et dolebat,<br/>Pia Mater, dum videbat<br/>Nati pœnas incliti</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quis est homo qui non fleret,<br/>Matrem Christi si videret<br/>In tanto supplicio?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Quis non posset contristari,<br/>Christi Matrem contemplari<br/>Dolentem cum Filio?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pro peccatis suæ gentis<br/>Vidit Iesum in tormentis,<br/>Et flagellis subditum.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vidit suum dulcem natum<br/>Moriendo desolatum<br/>Dum emisit spiritum.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Eia Mater, fons amoris<br/>Me sentire vim doloris<br/>Fac, ut tecum lugeam.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Fac, ut ardeat cor meum<br/>In amando Christum Deum<br/>Ut sibi complaceam.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Sancta Mater, istud agas,<br/>Crucifixi fige plagas<br/>Cordi meo valide.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Tui nati vulnerati,<br/>Tam dignati pro me pati,<br/>Pœnas mecum divide.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Fac me tecum, pie, flere,<br/>Crucifíxo condolere,<br/>Donec ego vixero.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Iuxta crucem tecum stare,<br/>Et me tibi sociare<br/>In planctu desidero.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Virgo virginum præclara,<br/>Mihi iam non sis amara<br/>Fac me tecum plangere.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Fac, ut portem Christi mortem<br/>Passionis fac consortem,<br/>Et plagas recolere.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Fac me plagis vulnerari,<br/>Fac me cruce inebriari,<br/>Et cruore Filii.</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Flammis ne urar succensus<br/>Per Te, Virgo, sim defensus<br/>In die iudicii.</lines>
+    </verse>
+    <verse name="v19">
+      <lines>Christe, cum sit hinc exire,<br/>Da per Matrem me venire<br/>Ad palmam victoriæ</lines>
+    </verse>
+    <verse name="v20">
+      <lines>Quando corpus morietur,<br/>Fac, ut animæ donetur<br/>Paradisi gloria. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

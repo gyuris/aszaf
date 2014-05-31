@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Pueri Hebræorum</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pueri Hebræorum,<br/>portantes ramos olivarum,<br/>obviaverunt Domino,<br/>clamantes et dicentes:<br/>Hosanna in excelsis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pueri Hebræorum<br/>vestimenta prosternebant<br/>in via et clamabant dicentes:<br/>Hosanna Filio David,<br/>benedictus qui venit in nomini Domini</lines>
+    </verse>
+  </lyrics>
+</song>

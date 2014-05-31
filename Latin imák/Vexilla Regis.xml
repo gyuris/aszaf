@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Vexilla Regis</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vexilla Regis pródeunt:<br/>fulget crucis mysterium<br/>qua vida mortem pértulit,<br/>et morte vitam prótulit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quæ vulnerata lanceæ<br/>mucrone diro, criminum<br/>ut nos lavaret sordibus,<br/>manavit unda et sanguine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Impleta sunt quæ concinit<br/>David fideli cármine,<br/>dicendo nationibus:<br/>regnavit a ligno Deus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Arbor decora et fúlgida.<br/>Ornata Regis purpura,<br/>electa digno stípite<br/>tam sancta membra tangere.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beata cujus brachiis<br/>pretium pependit sæculi:<br/>Statera facta corporis,<br/>tulitque prædam tártari.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O crux, ave, spes unica.<br/>Hoc passionis tempore<br/>piis adauge gratiam,<br/>reisque dele crímina.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te, fons salutis, Trínitas,<br/>collaudet omnis spiritus:<br/>quibus crucis victoriam<br/>largiris, adde præmium. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

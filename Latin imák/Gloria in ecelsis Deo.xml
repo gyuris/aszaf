@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Gloria in ecelsis Deo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Gloria in excelsis Deo!)<br/>Et in terra pax hominibus bonæ voluntatis.<br/>Laudamus te! Benedicimus te! Adoramus te! Glorificamus te!<br/>Gratias agimus tibi propter magnam gloriam tuam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Domine Deus, Rex cælestis, Deus Pater omnipotens.<br/>Domine Fili unigenite, Jesu Christe.<br/>Domine Deus, Agnus Dei, Filius Patris.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Qui tollis peccata mundi, miserere nobis.<br/>Qui tollis peccata mundi, suscipe deprecationem nostram.<br/>Qui sedes ad dexteram Patris, miserere nobis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quoniam tu solus sanctus. Tu solus Dominus. Tu solus Altissimus,<br/>Jesus Christe.<br/>Cum Sancto Spiritu, in gloria Dei Patris. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

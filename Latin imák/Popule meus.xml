@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Popule meus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Popule meus, quid feci tibi? Aut in quo contristavi  te? Responde mihi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quia eduxi te de terra Aegypti:<br/>parasti crucem salvatori tuo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ego propter te flagellavi Aegyptum cum primogenitis suis:<br/>et tu me flagellatum tradidisti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ego te eduxi de Aegypto, demerso Pharaone in mare rubrum:<br/>et tu me tradidisti principibus sacerdotum.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ego ante te aperui mare:<br/>et tu aperuisti lancea latus meum.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ego ante te præivi in columna nubis:<br/>et tu me duxisti ad prætorium Pilati.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ego te pavi manna per desertum:<br/>et tu me cecidisti alapis et flagellis.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ego te potavi aqua salutis de petra:<br/>et tu me potasti felle et aceto.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ego propter te Chananæorum reges percussi<br/>et tu percussisti arundine caput meum.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ego dedi tibi sceptrum regale<br/>et tu dedisti capite meo spineam coronam.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ego te exaltavi magna virtute<br/>et tu me suspendisti in patíbulo crucis.</lines>
+    </verse>
+  </lyrics>
+</song>

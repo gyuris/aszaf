@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Alma Redemptoris Mater</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alma Redemptoris Mater,<br/>quæ pervia cæli porta manes.<br/>Et stella maris, succure cadenti,<br/>surgere qui curat populo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu quæ genuisti, natura mirante,<br/>tuum sanctum Genitorem:<br/>Virgo prius, ac posterius,<br/>Gabrielis ab ore sumens illud Ave,<br/>peccatorum miserere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Angelo Domini nuntiavit mariæ.<br/>Et concepit de Spiritu Sancto.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Post partum Virgo inviolata permansisti.<br/>Dei genitrix intercede pro nobis.</lines>
+    </verse>
+  </lyrics>
+</song>

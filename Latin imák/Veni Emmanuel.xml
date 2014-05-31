@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Veni Emmanuel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veni, veni Emmanuel,<br/>Captivum solve Israel,<br/>Qui gemit in exilio,<br/>Privatus Dei Filio.<br/>Gaude, gaude! Emmanuel<br/>nascetur pro te, Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veni o Jesse Virgula,<br/>Ex hostis tuos ungula,<br/>De specu tuos tartari<br/>Educ et antro barathri,<br/>Gaude, gaude! Emmanuel<br/>nascetur pro te, Israel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veni, veni o Oriens<br/>Solare nos adveniens;<br/>Noctis depelle nebulas,<br/>Dirasque noctis tenebras,<br/>Gaude, gaude! Emmanuel<br/>nascetur pro te, Israel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Veni clavis Davidica;<br/>Regna reclude cælica;<br/>Fac iter tutum superum,<br/>Et claude in ferum.<br/>Gaude, gaude! Emmanuel<br/>nascetur pro te, Israel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Veni veni, Adonai,<br/>Qui populo in Sinai,<br/>Legem dedisti vertice,<br/>In majestate gloriæ.<br/>Gaude, gaude! Emmanuel<br/>nascetur pro te, Israel.</lines>
+    </verse>
+  </lyrics>
+</song>

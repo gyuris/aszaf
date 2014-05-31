@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Adoro te devote, latens</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adoro te devote, latens Deitas,<br/>quæ sub his figuris vere latitas.<br/>Tibi se cor meum totum subjicit,<br/>quia te contemplans totum deficit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Visus, tactus, gustus in te fallitur,<br/>sed auditu solo tuto creditur:<br/>credo, quidquid dixit Dei Filius,<br/>nil hoc verbo Veritatis nihil verius.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In cruce latebat sola Deitas,<br/>ad hic latet simul et humanitas:<br/>ambo tamen credens atque confitens<br/>peto quod petivit latro pænitens.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Plagas, sicut Thomas, non intueor,<br/>Deum tamen meum te confiteor:<br/>fac me tibi semper magis credere,<br/>in te spem habere, te diligere.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O memoriale mortis Domini,<br/>panis vivus vitam præstans homini,<br/>præsta meæ menti de te vivere<br/>et te illi semper dulce sapere!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pie pelicane, Jesu Domine,<br/>me immundum munda tuo sanguine,<br/>cujus una stilla salvum facere<br/>totum mundum quit ab omni scelere.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesu, quem velatum nunc aspicio,<br/>oro fiat illud quod tam sitio;<br/>ut te revelata cernens facie,<br/>visu sim beatus tuæ gloriæ. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

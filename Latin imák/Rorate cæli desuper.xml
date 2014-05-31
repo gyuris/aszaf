@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Rorate cæli desuper</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rorate cæli desuper,<br/>et nubes pluant justum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne irascaris Domine,<br/>ne ultra memineris iniquitatis:<br/>ecce civitas Sancti facta est deserta,<br/>Sion deserta facta est:<br/>Ierusalem desolata est:<br/>domus sanctificationis tuæ<br/>et gloriae tuæ,<br/>ubi laudaverunt te patres nostri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Peccavimus,<br/>et facti sumus tamquam immundus nos,<br/>et cecidimus quasi folium universi;<br/>et iniquitates nostræ<br/>quasi ventus abstulerunt nos:<br/>abscondisti faciem tuam a nobis,<br/>et allisisti nos in manu iniquitatis nostræ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vide, Domini,<br/>afflictionem populi tui,<br/>et mitte quem missurus es,<br/>emitte Agnum dominatorem terræ,<br/>de Petra deserti ad montem filiæ Sion:<br/>ut auferat ipse iugum captivatis nostræ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Consolamini, consolamini,<br/>popule meus:<br/>cito veniet salus tua:<br/>quare mærore consumeris,<br/>quia innovavit te dolor?<br/>Salvabo te, noli timere:<br/>ego enim sum Dominus Deus tuus,<br/>Sanctus Israel, Redemptor tuus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Confiteor Deo omnipotenti</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Confiteor Deo omnipotenti, beatæ Mariæ semper Virgini, beato Michaeli Archangelo, beato Joanni Baptistæ, sanctis Apostolis Petro et Paulo, omnibus Sanctis, et tibi  Pater: quia peccavi nimis cogitatione verbo, et opere:<br/>Mea culpa, mea culpa, mea maxima culpa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ideo precor beatam Mariam semper Virginem, beatum Michaelem Archangelum, beatum Joannem Baptistam, sanctos Apostolos Petrum et Paulum, omnes Sanctos, et te    Pater, orare pro me ad Dominum Deum Nostrum.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Misereatur tui omnipotens Deus, et dimissis peccatis tuis, perducat te ad vitam æternam.)<br/>Amen.<br/>(Indulgentiam † absolutionem, et remissionem peccatorum nostrorum, tribuat nobis omnipotens et misericors Dominus.)<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

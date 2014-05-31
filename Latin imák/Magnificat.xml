@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Magnificat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magnificat<br/>anima mea Dominum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Et exsultavit spiritus meus<br/>in Deo salutari meo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quia respexit humilitatem ancillæ suæ,<br/>ecce enim ex hoc beatam me dicent omnes generationes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quia fecit mihi magna, qui potens est,<br/>et sanctum nomen ejus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Et misericordia ejus a progenie in progenies,<br/>timentibus eum.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fecit potentiam in brachio suo,<br/>dispersit superbos mentes cordis sui.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Deposuit potentes de sede,<br/>et exaltavit humiles.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Esurientes implevit bonis,<br/>et divites dimisit inanes.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Suscepit Israel puerum suum,<br/>recordatus misericordiæ suæ.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sicut locutus est ad patres nostros,<br/>Abraham et semini ejus in sæcula.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Gloria Patri et Filio,<br/>et Spiritui Sancto.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Sicut erat in principio et nunc et semper,<br/>et in sæcula sæculorum. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

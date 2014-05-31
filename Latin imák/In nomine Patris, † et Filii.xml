@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>In nomine Patris, † et Filii</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(In nomine Patris, † et Filii, et Spiritus Sancti.)<br/>Amen<br/>(Introibo ad altare Dei.)<br/>Ad Deum qui lætificat juventutem meam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Judica me, Deus, et discerne causam meam de gente non sancta: ab homine iniquo et doloso erue me.)<br/>Quia tu es, Deus, fortitudo mea: quare me repulisti, et quare tristis incedo, dum affligit me inimicus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Emitte lucem tuam et veritatem tuam: ipsa me deduxerunt et adduxerunt in montem sanctum tuum, et in tabernacula tua.)<br/>Et introibo ad altare Dei: ad Deum qui lætificat juventutem meam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Confitebor tibi in cithara, Deus, Deus meus: quare tristis es anima mea, et quare conturbas me?)<br/>Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.<br/>(Gloria Patri, et Filio, et Spiritui Sancto.)<br/>Sicut erat in principo, et nunc, et semper: et in sæcula sæculorum. Amen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(Introibo ad altare Dei.)<br/>Ad Deum qui lætificat juventutem meam.<br/>(Adjutorium nostrum † in nomine Domini.)<br/>Qui fecit coelum et terram.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(Confiteor Deo omnipotenti ... orare pro me ad Dominum Deum nostrum.)<br/>Misereatur tui omnipotens Deus, et dimissis peccatis tuis, perducat te ad vitam æternam.<br/>(Amen.)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Confiteor Deo omnipotenti, beatæ Mariæ semper Virgini, beato Michaeli Archangelo, beato Joanni Baptistæ, sanctis Apostolis Petro et Paulo, omnibus Sanctis, et tibi  pater: quia peccavi nimis cogitatione verbo, et opere:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>mea culpa, mea culpa, mea maxima culpa. Ideo precor beatam Mariam semper Virginem, beatum Michaelem Archangelum, beatum Joannem Baptistam, sanctos Apostolos  Petrum et Paulum, omnes Sanctos, et te Pater, orare pro me ad Dominum Deum Nostrum.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(Misereatur vestri omnipotens Deus, et dimissis peccatis vestris, perducat vos ad vitam æternam.)<br/>Amen.<br/>(Indulgentiam † absolutionem, et remissionem peccatorum nostrorum, tribuat nobis omnipotens et misericors Dominus.)<br/>Amen.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(Deus, tu conversus vivificabis nos.)<br/>Et plebs tua lætabitur in te.<br/>(Ostende nobis Domine, misericordiam tuam.)<br/>Et salutare tuum da nobis.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>(Domine, exuadi orationem meam.)<br/>Et clamor meus ad te veniat.<br/>(Dominus vobiscum.)<br/>Et cum spiritu tuo.<br/>(Oremus ...)</lines>
+    </verse>
+  </lyrics>
+</song>

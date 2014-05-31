@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Ave verum corpus natum</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ave verum corpus natum<br/>de Maria Virgine,<br/>vere passum, immolatum<br/>in cruce pro homine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuius latus perforatum<br/>fluxit aqua et sanguine:<br/>esto nobis prægustatum<br/>in mortis examine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O dulcis, o pie,<br/>O Iesu, Fili Mariæ,<br/>miserere mei. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

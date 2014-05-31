@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Te Deum laudamus: te Dominum</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te Deum laudamus: te Dominum confitemur.<br/>Te æternum Patrem omnis terra veneratur.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tibi omnes Angeli, tibi Cæli et universæ Potestates:<br/>Tibi Cherubim et Seraphim incessabili voce proclamant:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sanctus: Sanctus: Sanctus Dominus Deus Sabaoth.<br/>Pleni sunt cæli et terra maiestatis gloriæ tuæ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te gloriosus Apostolorum chorus:<br/>Te Prophetarum laudabilis numerus:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te Martyrum candidatus laudat exercitus.<br/>Te per orbem terrarum sancta confitetur Ecclesia:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Patrem immensæ maiestatis:<br/>Venerandum tuum verum et unicum Filium:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sanctum quoque Paraclitum Spiritum.<br/>Tu Rex gloriæ, Christe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tu Patris sempiternus es Filius.<br/>Tu ad liberandum suscepturus hominem,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>non horruisti Virginis uterum.<br/>Tu devicto mortis aculeo,</lines>
+    </verse>
+    <verse name="v10">
+      <lines>aperuisti credentibus regna cælorum.<br/>Tu ad dexteram Dei sedes, in gloria Patris.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Iudex crederis esse venturus. (Kneel)<br/>Te ergo quæsumus, tuis famulis subveni,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>quos pretioso sanguine redemisti.<br/>Aeterna fac cum Sanctis tuis in gloria numerari.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Salvum fac populum tuum Domine,<br/>et benedic hæreditati tuæ.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Et rege eos, et extolle illos usque in æternum.<br/>Per singulos dies, benedicamus te.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Et laudamus nomen tuum in sæculum,<br/>et in sæculum sæculi.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Dignare Domine die isto,<br/>sine peccato nos custodire.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Miserere nostri Domine, miserere nostri.<br/>Fiat misericordia tua Domine super nos,<br/>quem ad modum speravimus in te.</lines>
+    </verse>
+    <verse name="v18">
+      <lines>In te Domine speravi:<br/>non confundar in æternum.</lines>
+    </verse>
+  </lyrics>
+</song>

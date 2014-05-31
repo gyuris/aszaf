@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Alleluia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia, alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle-, alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluia, alleluia, alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluia, alle-, alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

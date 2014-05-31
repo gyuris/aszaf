@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Offertorium - Domine Jesu Christe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Domine, Jesu Christe, Rex gloriæ,<br/>libera animas omnium fidelium defunctorum de poenis inferni et de profundo lacu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Libera eas de ore leonis<br/>ne absorbeat eas tartarus, ne cadant in obscurum;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sed signifer sanctus Michael repræsentet eas in lucem sanctam,<br/>Quam olim Abrahæ promisisti et semini eius.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hostias et preces tibi, Domine laudis offerimus tu suscipe pro animabus illis,<br/>quarum hodie memoriam facimus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fac eas, Domine, de morte transire ad vitam.<br/>Quam olim Abrahæ promisisti et semine eius.</lines>
+    </verse>
+  </lyrics>
+</song>

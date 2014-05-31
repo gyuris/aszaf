@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Ubi caritas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ubi Caritas et amor, Deus ibi est</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Congregavit nos in unum Christi amor.<br/>Exultemus, et in ipso jucundemur.<br/>Timeamus et amemus Deum vivum<br/>Et ex corde diligamus nos sincero<br/>Ubi caritas et amor, Deus ibi est</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Simul ergo cum in unum congregamur:<br/>Ne nos mente dividamur caveamus<br/>Cessent jurgia maligna, cessent lites,<br/>Et in medio nostri sit Christus Deus.<br/>Ubi caritas et amor, Deus ibi est.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Simul quoque cum beatis videamus.<br/>Glorianter vultum tuum, Christe Deus:<br/>Gaudium quod est immensum, atque probum,<br/>Sæcula per infinita sæculorum.<br/>Ubi caritas et amor, Deus ibi est.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:42">
+  <properties>
+    <titles>
+      <title>Gloria, laus et honor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria, laus et honor tibi sit<br/>Rex Christe Redemptor,<br/>cui puerile decus prompsit:<br/>Hosanna pium.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Israel es tu rex , Davidis et ínclita proles:<br/>Nomini que in Domini, rex benedicte, venis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Coetus in excelsis te laudat cælicus omnis,<br/>et mortalis homo, et cuncta creata simul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Plebs hæbrea tibi cum palmis obvia  venit;<br/>cum prece, voto, hymnis, adsumus ecce tibi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hi tibi passuro solvebant munia laudis;<br/>nos tibi regnanti pangimus ecce melos.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hi placuere tibi, placeat devotio nostra;<br/>Rex bone, Rex clemens, cui bona cuncta placent.</lines>
+    </verse>
+  </lyrics>
+</song>

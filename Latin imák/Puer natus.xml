@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Puer natus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Puer natus in Betlehem, alleluja,<br/>Unde gaudet Jerusalem, alleluja, alleluja.<br/>In cordis jubilo Christum natum adoremus,<br/>Cum novo cantico.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Per Gabrielem nuntium, alleluja,<br/>Virgo concepit Filium, alleluja, alleluja.<br/>In cordis jubilo Christum natum adoremus,<br/>Cum novo cantico.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tamquam sponsus de thalame, alleluja,<br/>Processit Matris utero, alleluja, alleluja.<br/>In cordis jubilo Christum natum adoremus,<br/>Cum novo cantico.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hic jacet in præsepio, alleluja,<br/>Qui regnat sine termino, alleluja, alleluja.<br/>In cordis jubilo Christum natum adoremus,<br/>Cum novo cantico.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Laudetur sancta Trinitas, alleluja,<br/>Deo dicamus gratias, alleluja, alleluja.<br/>In cordis jubilo Christum natum adoremus,<br/>Cum novo cantico.</lines>
+    </verse>
+  </lyrics>
+</song>

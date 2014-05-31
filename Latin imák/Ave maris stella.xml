@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Ave maris stella</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ave, maris stella,<br/>Dei mater alma,<br/>atque semper virgo,<br/>felix cœli porta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sumens illud «Ave»<br/>Gabrielis ore,<br/>funda nos in pace,<br/>mutans Evæ nomen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Solve vincla reis,<br/>profer lumen cæcis,<br/>mala nostra pelle,<br/>bona cuncta posce.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Monstra te esse matrem,<br/>sumat per te precem<br/>qui pro nobis natus<br/>tulit esse tuus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Virgo singularis,<br/>inter omnes mitis,<br/>nos culpis solutos<br/>mites fac et castos.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>iter para tutum,<br/>ut videntes Jesum<br/>semper collætemur.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sit laus Deo Patri,<br/>summo Christo decus,<br/>Spiritui Sancto<br/>honor, tribus unus. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Veni, Creator</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veni, Creator Spiritus,<br/>mentes tuorum visita,<br/>imple superna gratia,<br/>quæ tu creasti pectora.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Qui Paraclitus diceris,<br/>Donum Dei altissimi,<br/>Fons vivus ignis, caritas,<br/>et spiritalis unctio.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu septiformis munere,<br/>dextræ Dei tu digitus,<br/>tu rite promissum Patris<br/>sermone ditans guttura.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Accende lumen sensibus,<br/>infund(e) amorem cordibus,<br/>infirma nostri corporis<br/>virtute firmans perpeti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hostem repellas longius,<br/>pacemque dones protinus,<br/>ductore sic te prævio<br/>vitemus omne noxium.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Per te sciamus, da, Patrem,<br/>noscamus atque Filium,<br/>te utriusque Spiritum<br/>credamus omni tempore.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sit laus Patri cum Filio,<br/>Sancto simul Paraclito,<br/>nobisque mittat Filius<br/>charisma Sancti Spiritus. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

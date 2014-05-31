@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Libera me, Domine, de morte</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Libera me, Domine, de morte æterna in die illa tremenda<br/>quando coeli movendi sunt et terra,<br/>dum veneris judicare sæculum per ignem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tremens factus sum ego et timeo, dum discussion venerit atque venture ira:<br/>quando coeli movendi sunt et terra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dies illa dies iræ calamitatis et miseriæ,<br/>dies magna et amara valde,<br/>dum veneris judicare sæculum per ignem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Requiem æternam dona eis Domine:<br/>et lux perpetua luceat eis.</lines>
+    </verse>
+  </lyrics>
+</song>

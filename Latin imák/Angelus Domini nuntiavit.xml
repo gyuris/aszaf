@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>Angelus Domini nuntiavit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angelus Domini nuntiavit Mariæ,<br/>et concepit de Spiritu Sancto.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ave Maria, gratia plena, Dominus tecum,<br/>benedicta tu in mulieribus fructus ventris tui, Jesus.<br/>Sancta Maria, Mater Dei,<br/>ora pro nobis, peccatoribus, nunc, et in hora mortis nostræ. Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ecce ancilla Domini,<br/>fiat muhi secundum verbum tuum.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ave Maria, gratia plena, Dominus tecum,<br/>benedicta tu in mulieribus fructus ventris tui, Jesus.<br/>Sancta Maria, Mater Dei,<br/>ora pro nobis, peccatoribus, nunc, et in hora mortis nostræ. Amen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Et Verbum caro factum est,<br/>et habitavit in nobis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ave Maria, gratia plena, Dominus tecum,<br/>benedicta tu in mulieribus fructus ventris tui, Jesus.<br/>Sancta Maria, Mater Dei,<br/>ora pro nobis, peccatoribus, nunc, et in hora mortis nostræ. Amen</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ora pro nobis sancta Dei Genitrix,<br/>ut digni efficiamur promissionibus Christi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oremus! Gratiam tuam, quæsumus, Domine, mentibus nostris infrunde,<br/>ut qui Angelo nuntiante Christi, Filii tui incarnationem cognovimus,<br/>per passionem ejus et crucem ad resurrectionis gloriam perducamur.<br/>Per eundem Christum Dominum nostrum. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

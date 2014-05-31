@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:46:41">
+  <properties>
+    <titles>
+      <title>O salutaris hostia</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O salutaris hostia,<br/>Quæ cæli pandis ostium;<br/>Bella premunt hostilia,<br/>Da robur, fer auxilium!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uni trinoque Domino<br/>Sit sempiterna gloria,<br/>Qui vitam sine termino<br/>Nobis donet in patria.</lines>
+    </verse>
+  </lyrics>
+</song>
