@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Kelj fel, Uram, * ments meg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kelj fel, Uram, * ments meg engem, Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fordulj felém, Uram, * és hallgass meg engem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bocsásd meg, Uram, bűnömet: * vétkeim terhét vedd el rólam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te uralkodsz mindenen, * Urunk, Istenünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott legyen az Isten, * ő az én üdvösségem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én Uram, Istenem, * taníts meg igazságaidra engem!</lines>
+    </verse>
+  </lyrics>
+</song>

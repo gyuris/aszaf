@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Elhagytad az Urat, * aki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elhagytad az Urat, * aki alkotott téged.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én vagyok, aki lesújtok, * én vagyok, aki életre keltek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr nékem pásztorom, * ínséget nem kell látnom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentjeid hirdetik, Uram, * királyságod fölséges dicsőségét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adjatok hálát az Úrnak, * mivel irgalma örökké megmarad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten dicsősége * lakik majd földünkön.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Ösvényeidre taníts meg engem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ösvényeidre taníts meg engem, * én Uram, Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szegény az Úrhoz kiáltott, * és az Úr meghallgatta őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harmatozzatok, egek, onnan felülről, * és ti, felhők, hullassátok közénk az Igazat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsőítelek téged, Uram, * mivel megmentettél engem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Magasztaljanak téged a népek, Istenünk, * magasztaljanak téged az összes nemzetek.</lines>
+    </verse>
+  </lyrics>
+</song>

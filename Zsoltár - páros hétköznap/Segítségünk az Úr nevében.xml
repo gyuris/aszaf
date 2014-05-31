@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Segítségünk az Úr nevében</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Segítségünk az Úr nevében van, * aki a mennynek és a földnek alkotója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ragyogtasd ránk, Uram, * arcod fényességét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Védelmezz engem, Istenem, * hiszen tebenned bízom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Téged illet a dicséret a Sion hegyén, Istenem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A te arcodat keresem, * én Uram Istenem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Istenem, te vagy nékem * az én örökségem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Vigadozzanak az egek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigadozzanak az egek, * örvendjen az egész világ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigadozzanak az egek, * örvendjen az egész világ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigadozzanak az egek, * örvendjen az egész világ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A föld minden határa látta * üdvözítő Urunknak jóságát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A föld minden határa látta * üdvözítő Urunknak jóságát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A föld minden határa látta * üdvözítő Urunknak jóságát.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ujjongjatok az Úrnak, * minden földek!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérd a te Urad, Istened, * Jeruzsálem, Isten városa!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Népében az Úr kedvét találja, * üdvösségre vezeti a szelídeket.</lines>
+    </verse>
+  </lyrics>
+</song>

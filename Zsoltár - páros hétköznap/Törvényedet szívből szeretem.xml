@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Törvényedet szívből szeretem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Törvényedet szívből szeretem, * én Uram, Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazságos az Isten * minden végzésében.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog az a nemzet, * melyet az Úr örökségül választott magának.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istené az egész világ, * és minden, ami létezik benne.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vagy, Urunk, Istenünk, * az igazak üdvössége.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Közel az Úr azokhoz, * akik oltalmát kérik.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Uram, Istenem, * benned bízom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Istenem, * benned bízom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te lettél, Uram, menedékünk * nemzedékről nemzedékre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozzád emelem szememet, * én Uram, Istenem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Utaidat mutasd meg nékem, * én Uram, Istenem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Békességben élnek, Uram, * akik szeretik törvényedet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ajkam hirdeti * igazságodat, Uram.</lines>
+    </verse>
+  </lyrics>
+</song>

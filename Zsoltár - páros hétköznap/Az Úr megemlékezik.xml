@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Az Úr megemlékezik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr megemlékezik szövetségéről * örökkön-örökké.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem, Uram, * az örök élet biztos útján!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Menjetek el az egész világra, * és hirdessétek az evangéliumot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott az Úr, atyáink Istene, * mert meglátogatta az ő népét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr megemlékezik szövetségéről * örökkön-örökké.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sohasem felejti az Isten * az ő szövetségét.</lines>
+    </verse>
+  </lyrics>
+</song>

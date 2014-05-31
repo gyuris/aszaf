@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Aki szeplőtelenül járja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki szeplőtelenül járja az élet útját, * annak mutatom meg az Isten üdvösségét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akik könnyek között vetnek, * majd ujjongva aratnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ajkam hirdeti * igazságodat, Uram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, Istenem, * nálad van az élet forrása.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr úgy őriz minket, * miként nyáját a pásztor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hálát adok az Úrnak * minden időben!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ízleljétek és lássátok, * milyen édes az Úr.</lines>
+    </verse>
+  </lyrics>
+</song>

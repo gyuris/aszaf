@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:32">
+  <properties>
+    <titles>
+      <title>Hirdessétek minden népnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hirdessétek minden népnek, * mondjátok el az Úr csodás tetteit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazságodat hirdeti ajkam, * és szabadító tetteidet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog az az ember, * aki féli az Istent.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenem, magasztallak téged: * szent nevedet áldom örökkön-örökké.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kegyes az Isten hozzánk: * jóságával eltölt mindent.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Boldog az a nemzet, * melyet az Úr örökségül választott magának.</lines>
+    </verse>
+  </lyrics>
+</song>
