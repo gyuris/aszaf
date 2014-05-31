@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:18">
+  <properties>
+    <titles>
+      <title>Megnyitod kezedet, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megnyitod kezedet, Istenem,<br/>* és táplálsz minket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyei kenyeret<br/>* adott nékik az Úr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, menedékünk lettél<br/>* nemzedékről nemzedékre.</lines>
+    </verse>
+  </lyrics>
+</song>

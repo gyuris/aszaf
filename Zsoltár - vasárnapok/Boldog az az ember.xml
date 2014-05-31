@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:18">
+  <properties>
+    <titles>
+      <title>Boldog az az ember</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog az az ember,<br/>* aki féli az Istent.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Védelmezz engem, Istenem,<br/>* hiszen tebenned bízom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljön az Úr ítélni a földet,<br/>* igazságban ítéli az egész világot.</lines>
+    </verse>
+  </lyrics>
+</song>

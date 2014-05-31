@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:18">
+  <properties>
+    <titles>
+      <title>Napjaiban az igazság virága</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Napjaiban az igazság virága nyíljék,<br/>* és teljes béke legyen a világ végéig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk, mutasd meg nékünk irgalmas szívedet,<br/>* és üdvösségedet add meg nékünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hatalmas dolgot művelt az Úr vélünk,<br/>* azért szívből ujjongunk.</lines>
+    </verse>
+  </lyrics>
+</song>
