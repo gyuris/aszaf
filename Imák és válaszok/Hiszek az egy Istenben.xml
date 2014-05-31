@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Hiszek az egy Istenben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hiszek az egy Istenben, mindenható Atyában,<br/>mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiszek az egy Úrban: Jézus Krisztusban, Isten egyszülött Fiában, aki az Atyától született az idő kezdete előtt.<br/>Isten az Istentől, Világosság a Világosságtól, valóságos Isten a valóságos Istentől.<br/>Született, de nem teremtmény: az Atyával egylényegű és minden általa lett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Értünk emberekért, a mi üdvösségünkért leszállott a mennyből.<br/>(meghajlunk)<br/>Megtestesült a Szentlélek erejéből Szűz Máriától, és emberré lett.<br/>(felegyenesedünk)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Poncius Pilátus alatt értünk keresztre feszítették, kínhalált szenvedett, és eltemették.<br/>Harmadnapra föltámadott az Írások szerint, fölment a mennybe, ott ül az Atyának jobbján,<br/>de újra eljön dicsőségben, ítélni élőket és holtakat, és országának nem lesz vége.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hiszek a Szentlélekben, Urunkban és éltetőnkben, aki az Atyától és a Fiútól származik.<br/>Akit épp úgy imádunk és dicsőítünk, mint az Atyát és a Fiút.<br/>Ő szólt a próféták szavával.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban,<br/>vallom az egy keresztséget a bűnök bocsánatára,<br/>várom a holtak föltámadását és az eljövendő örök életet. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

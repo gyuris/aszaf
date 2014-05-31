@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Dicsőség a magasságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(P: Dicsőség a magasságban Istennek!)<br/>És a földön békesség a jóakaratú embereknek.<br/>Dicsőítünk téged, áldunk téged, imádunk téged, magasztalunk téged, hálát adunk neked nagy dicsőségedért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk és Istenünk! Mennyei Király! Mindenható Atyaisten!<br/>Urunk, Jézus Krisztus: egyszülött Fiú, Urunk és Istenünk, Isten báránya, az Atyának Fia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te elveszed a világ bűneit: irgalmazz nekünk!<br/>Te elveszed a világ bűneit: hallgasd meg könyörgésünket!<br/>Te az Atya jobbján ülsz: irgalmazz nekünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert egyedül Te vagy a Szent, Te vagy az Úr, Te vagy az egyetlen Fölség:<br/>Jézus Krisztus,<br/>a Szentlélekkel együtt az Atyaisten dicsőségében! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Victimæ paschali (ford.Babits Mihály)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Húsvét tiszta áldozatját,<br/>a hívek áldva áldják.<br/>Bárány megváltja nyáját,<br/>és az ártatlan Krisztus<br/>már kiengeszteli értünk Atyját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Élet itt a halállal<br/>megvív csoda csatával,<br/>a holt Élet-Vezér<br/>ma Úr és él!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária, szentasszony,<br/>mondd, mit láttál utadon?<br/>Az élő Krisztusnak sírját,<br/>s Fölkeltnek láttam glóriáját,<br/>angyali tanúkat,<br/>szemfedőt és gyolcsokat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feltámadt reményem, Krisztus,<br/>Gallileába elétek indult.<br/>Tudjuk: Krisztus feltámadott<br/>és diadalmas:<br/>Ó, győztes Királyunk,<br/>légy irgalmas.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztus feltámada<br/>mind ő nagy kínjából.<br/>Ezen mi is örüljünk,<br/>Krisztus legyen reményünk.<br/>Amen, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

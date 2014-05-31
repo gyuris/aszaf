@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Pange lingua (ford. Babits Mihály)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjed nyelv a dicsőséges Test titkát, s a drága Vért,<br/>melyet hullatván értékes váltságul az emberért,<br/>a föld Ur, a fölséges méh gyümölcse nem kímélt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Méltó ezt a nagy Szentséget térdrehullva áldani,<br/>és a régi Szövetséget új rítussal váltani,<br/>pótolják a rest érzéket a merész hit szárnyai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Atyának és Fiának légyen áldás, dicsőség,<br/>üdv, hozsanna és imádat, ujjongások hirdessék,<br/>s aki kettejükből árad: a Lélek is áldassék. Amen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kenyeret adtál nekik a mennyből. (Alleluja.)<br/>Amely minden gyönyörűséggel teljes. (Alleluja.)</lines>
+    </verse>
+  </lyrics>
+</song>

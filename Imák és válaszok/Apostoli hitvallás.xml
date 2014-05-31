@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Apostoli hitvallás</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hiszek egy Istenben, mindenható Atyában, mennynek és földnek Teremtőjében.<br/>És Jézus Krisztusban, az Ő egyszülött Fiában, a mi Urunkban, aki fogantatott Szentlélektől, született Szűz Máriától,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>szenvedett Poncius Pilátus alatt, megfeszítették, meghalt és eltemették.<br/>Alászállt a poklokra, harmadnapon föltámadt a halottak közül, fölment a mennybe, ott ül a mindenható Atyaisten jobbján, onnan jön el ítélni élőket és holtakat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszek Szentlélekben.<br/>Hiszem a katolikus Anyaszentegyházat, a szentek közösségét, a bűnök bocsánatát, a test föltámadását és az örök életet. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

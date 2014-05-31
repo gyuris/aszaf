@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Alleluja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle-, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluja, alle-, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

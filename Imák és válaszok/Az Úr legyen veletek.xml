@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Az Úr legyen veletek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(P: Az Úr legyen veletek!)<br/>H: És a te lelkeddel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(P: Legyen áldott az Úr neve.)<br/>H: Most és mindörökké.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: Az Úr a mi segítségünk.)<br/>H: Aki az eget és a földet alkotta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(P: …az Atya, a Fiú + és a Szentlélek.)<br/>H: Amen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(P: A szentmise véget ért, menjetek békével!)<br/>H: Istennek legyen hála!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(P: …szolgáljátok Istent szeretetben.)<br/>H: Istennek legyen hála!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(P: …küldetésetek van.)<br/>H: Istennek legyen hála!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(P: A szentmise véget ért, menjetek békével, alleluja, alleluja!)<br/>H: Istennek legyen hála, alleluja, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

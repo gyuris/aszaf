@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Úrfelmutatás</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(P: Íme, hitünk szent titka:)<br/>H: Halálodat hirdetjük Urunk, és hittel valljuk feltámadásodat, amíg el nem jössz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(P: Íme, megváltásunk szent titka:)<br/>H: Valahányszor esszük ezt a kenyeret, és iszunk ebből a kehelyből,<br/>halálodat hirdetjük, Urunk, amíg el nem jössz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: Íme, üdvösségünk szent titka:)<br/>H: Üdvözíts bennünket, világ Megváltója,<br/>ki kereszted és föltámadásod által megmentettél minket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(P: …mindörökkön örökké.)<br/>H: Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

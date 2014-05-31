@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Ave maris stella (ford. Babits Mihály)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tengernek csillaga, Isten édesanyja,<br/>üdvözlégy, mindig szűz, menny boldog kapuja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te, kinek Gábriel ajka mondott "Avé"t<br/>tégy közöttünk békét, fordíts "Éva" nevét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szabadíts rabokat, adj fényt a vakoknak,<br/>űzd el bajainkat, igényeld javunkat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mutasd, hogy anyánk vagy! Hallja meg imádat,<br/>ki értünk fiaddá születni nem átallt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiváltságos szent Szűz, mindenek közt enyhe,<br/>oldd föl bűneinket, enyhíts, tisztíts minket!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mosd meg életünket, készítsd el útunkat,<br/>hogy örök örömben lássuk Jézusunkat!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Istennek dicséret, Krisztusnak dicsőség,<br/>Szentlélekkel együtt hármas-egy tisztesség.</lines>
+    </verse>
+  </lyrics>
+</song>

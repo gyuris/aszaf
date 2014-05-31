@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Harmatozzatok, magasságos</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok, magasságos egek,<br/>s a felhők hozzák az Igazat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne haragudj ránk, Urunk,<br/>és ne emlékezzél többé gonoszságunkra;<br/>íme elhagyatottá lőn a Szentnek városa,<br/>pusztasággá Sion,<br/>és árván maradt Jeruzsálem,<br/>a Te szentségednek és dicsőségednek lakóháza,<br/>ahol atyáink téged dicsőítettek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vétkeztünk, s mint a tisztátalanok olyanná lettünk,<br/>s mint falevelek, földre hulltunk.<br/>Íme, gonoszságaink,<br/>mint a szélvész elsodornak minket;<br/>elrejted előlünk arcodat,<br/>és önnön gonoszságunk markába adtál minket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lásd meg, Urunk,<br/>a Te népednek sanyarúságát,<br/>és küldd el az Eljövendőt.<br/>Küldd el a Bárányt, a földkerekség Urát,<br/>küldd el a kősivatagból Sion leányának hegyéhez,<br/>hogy elvegye rólunk fogságunk igáját.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vígasztalódjál, vígasztalódjál én népem!<br/>Hamar eljő üdvösséged.<br/>Miért merülsz a gyászba?<br/>Miért fog el ismét a fájdalom?<br/>Ne félj már! Megmentelek téged,<br/>mivel én vagyok a te Urad és Istened,<br/>Izrael Szentje, a te Megváltód.</lines>
+    </verse>
+  </lyrics>
+</song>

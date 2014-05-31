@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Offertorium - Domine Jesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Urunk Jézus, mennyei dicsőség királya:<br/>védd meg minden meghalt hívő lelkét a pokol büntetésétől,<br/>és szabadítsd ki őket a tisztítóhely kínjaiból.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oltalmazd meg őket a pokol hatalmától:<br/>ne nyelje el őket a pusztulás, ne zuhanjanak bele az örök sötétségbe;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Mihály, az égi seregek vezére, vezesse el őket a világosság országába,<br/>amelyet egykor Ábrahámnak és választottaidnak megígértél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Urunk: dícséretedre bemutatjuk az áldozatot, fölajánljuk könyörgésünket.<br/>Fogadd el azokért a lelkekért, akikről ma megemlékezünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vezesd el őket a halálból az életbe,<br/>amelyet egykor Ábrahámnak és választottaidnak megígértél.</lines>
+    </verse>
+  </lyrics>
+</song>

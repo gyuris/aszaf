@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Mária antifónák</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(P: Az Úr angyala köszönté a Boldogságos Szűz Máriát.)<br/>H: És ő méhébe fogadá Szentlélektől szent Fiát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(P: Születésed után sértetlen szűz maradtál.)<br/>H: Istennek Szent Anyja, könyörögj érettünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: Tégy méltóvá engem, szent Szűz, a te dicséretedre!)<br/>H: Adj erőt ellenségeid ellen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(P: Örülj és örvendezz, Szűz Mária, alleluja!)<br/>H: Mert valóban feltámadott az Úr, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(P: Imádkozzál érettünk, Istennek szent Anyja!)<br/>H: Hogy méltók lehessünk Krisztus ígéreteire!</lines>
+    </verse>
+  </lyrics>
+</song>

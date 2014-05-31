@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Veni Emmanuel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jövel, jövel Emmánuel,<br/>Csak téged áhít Izrael,<br/>És hozzád sóhajt untalan,<br/>Mert Isten híján hontalan.<br/>Meglásd, meglásd! Ó Izrael,<br/>Hogy eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jövel, ó Jessze vesszeje,<br/>És állj a rossznak ellene;<br/>A mélyből, mely már eltemet,<br/>S a tűzből mentsd ki hívedet.<br/>Meglásd, meglásd! Ó Izrael,<br/>Hogy eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jövel, jövel ó napkelet,<br/>Im árva néped költöget;<br/>Törd át a sűrű éj ködét,<br/>És oszlasd gyászát szerteszét.<br/>Meglásd, meglásd! Ó Izrael,<br/>Hogy eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jövel, ó Dávid adta kulcs,<br/>Hogy fényességes napra gyújts;<br/>A mennyországba tárj utat,<br/>És rekeszd el a poklokat.<br/>Meglásd, meglásd! Ó Izrael,<br/>Hogy eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jövel, jövel ó Adonáj,<br/>Ki Sinaj hegyről szólalál,<br/>Hogy törvényt lássál népeden,<br/>Jöjj fenségednek teljiben.<br/>Meglásd, meglásd! Ó Izrael,<br/>Hogy eljövend Emmánuel.</lines>
+    </verse>
+  </lyrics>
+</song>

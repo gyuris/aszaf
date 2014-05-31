@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Reggeli himnusz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Már kél a fénynek csillaga:<br/>Esengve kérjük az Urat,<br/>Járjon ma mindenütt velünk,<br/>Ne rontsa ártás életünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyelvünket fogja fékre ma:<br/>Ne szóljon rút perek szava.<br/>Szemünket védőn óvja meg:<br/>A hívságot ne lássa meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lakjék szívünkben tisztaság,<br/>Távozzék minden dőreség.<br/>A testnek dölyfét törje meg<br/>Étel- s italban hősi fék.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy majd a nap ha távozott,<br/>S az óra újra éjt hozott,<br/>Lemondásunk szent éneke<br/>Legyen az Úr dicsérete.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsérjük az örök Atyát,<br/>Dicsérjük egyszülött Fiát<br/>S a Lelket, a Vígasztalót,<br/>Most és örök időkön át. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

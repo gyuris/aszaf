@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Engesztelés</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott legyen az Isten.<br/>Áldott legyen szent neve.<br/>Áldott legyen Jézus Krisztus, valóságos Isten és valóságos ember.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott legyen Jézus szent Neve.<br/>Áldott legyen Jézus szentséges Szíve.<br/>Áldott legyen Jézus drága szent Vére.<br/>Áldott legyen Jézus az Oltáriszentségben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott legyen a Vígasztaló Szentlélek.<br/>Áldott legyen a szent Szűz és Isten Anyja, Mária.<br/>Áldott legyen az ő szeplőtelen fogantatása.<br/>Áldott legyen az ő dicsőséges mennybevétele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott legyen Szűz Mária szent neve.<br/>Áldott legyen Szent József, a szent Szűz jegyese.<br/>Áldott legyen Isten angyalaiban és szentjeiben. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

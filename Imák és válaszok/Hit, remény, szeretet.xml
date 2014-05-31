@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Hit, remény, szeretet</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, hiszek tebenned, mert örökké igazmondó vagy.<br/>Istenem, remélek tebenned, mert végtelenül hű és irgalmas vagy.<br/>Istenem, mindennél jobban szeretlek téged, mert végtelenül jó és szeretreméltó vagy.</lines>
+    </verse>
+  </lyrics>
+</song>

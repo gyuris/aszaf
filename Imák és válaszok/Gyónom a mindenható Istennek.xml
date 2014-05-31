@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Gyónom a mindenható Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyónom a mindenható Istennek és nektek testvéreim,<br/>hogy sokszor és sokat vétkeztem:<br/>gondolattal, szóval, cselekedettel és mulasztással:<br/>én vétkem, én vétkem, én igen nagy vétkem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérem ezért a Boldogságos, mindenkor szeplőtelen Szűz Máriát,<br/>az összes angyalokat és szenteket, és titeket testvéreim,<br/>hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: Urunk, Istenünk, könyörülj rajtunk!)<br/>H: Mert vétkeztünk ellened.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(P: Urunk, mutasd meg nekünk irgalmasságodat!)<br/>H: És add meg nekünk az üdvösséget.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(P: …Uram, irgalmazz!) H: Uram, irgalmazz!<br/>(P: …Krisztus, kegyelmezz!) H: Krisztus, kegyelmezz!<br/>(P: …Uram, irgalmazz!) H: Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(P: …és vezessen el az örök életre!)<br/>H: Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

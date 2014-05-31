@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:10">
+  <properties>
+    <titles>
+      <title>Misekezdet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(P: Az Atya, a Fiú + és a Szentlélek nevében.)<br/>H: Amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>…És a te lelkeddel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(P: …legyen mindnyájatokkal!)<br/>H: És a te lelkeddel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(P: Az Úr legyen veletek!)<br/>H: És a te lelkeddel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(P: …és Urunktól, Jézus Krisztustól!)<br/>H: És a te lelkeddel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(P: Békesség veletek!)<br/>H: És a te lelkeddel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldott legyen az Isten,<br/>a mi Urunk, Jézus Krisztus Atyja!</lines>
+    </verse>
+  </lyrics>
+</song>

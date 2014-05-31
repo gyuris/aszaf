@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Gyermek született</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyermek született Betlehemben, alleluja,<br/>Melynek örvend Jeruzsálem, alleluja, alleluja.<br/>Milyen csodálatos is ez!<br/>Énekeljetek, mennybéliek, tapsoljatok, emberek,<br/>És csodáljátok az Üdvözítőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emberi formát öltött az Ige,<br/>Mely a Legmagasabb Atya szájából származik.<br/>Milyen csodálatos is ez!<br/>Énekeljetek, mennybéliek, tapsoljatok, emberek,<br/>És csodáljátok az Üdvözítőt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sába királyai eljönnek,<br/>Aranyat, tömjént és mirrhát áldoznak.<br/>Milyen csodálatos is ez!<br/>Énekeljetek, mennybéliek, tapsoljatok, emberek,<br/>És csodáljátok az Üdvözítőt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsértessék a Szentháromság,<br/>Mondjuk hálát Istennek.<br/>Milyen csodálatos is ez!<br/>Énekeljetek, mennybéliek, tapsoljatok, emberek,<br/>És csodáljátok az Üdvözítőt!</lines>
+    </verse>
+  </lyrics>
+</song>

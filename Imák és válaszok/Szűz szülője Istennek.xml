@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:45:11">
+  <properties>
+    <titles>
+      <title>Szűz szülője Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz szülője Istennek, engedd, hogy tied legyek!<br/>Tied élet' s halálban, tied jó és balsorsban,<br/>Tied küzdve szenvedve, Tied most és örökre.<br/>Szűz szülője Istennek, engedd, hogy tied legyek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyám, tebenned bízom és remélek,<br/>Anyám, teutánad epedek,<br/>Anyám, te jóságos, kegyelmezz,<br/>Anyám, te hatalmas, védelmezz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anyám, ó jöjj, segíts imádkozni,<br/>Anyám, ó jöjj, segíts küzdeni,<br/>Anyám, ó jöjj, segíts szenvedni,<br/>Anyám, ó jöjj, s ne hagyj elveszni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiszen tudsz segíteni, ó hatalmas,<br/>Akarsz is segíteni, ó irgalmas;<br/>Kell is segítened, ó hűséges,<br/>Fogsz is segíteni, ó kegyelmes!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Anyám, te vagy a kegyelmek Anyja,<br/>Szomorúak vigasztalója,<br/>Bűnösök oltalma és menedéke,<br/>Föld reménye, mennynek ékessége!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ki kérte még segítségedet hasztalanul?<br/>Ki távozott tőled meghallgatatlanul?<br/>Azért mondom minden szenvedésben:<br/>Mária mindig segít, minden időben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Biztosan állítom életben s halálban:<br/>Mária mindig segít, minden balsorsban.<br/>Azért hiszem, s meghalok ezen hitemben,<br/>Hogy veled leszek, jó Anyám, odafönt a mennyben!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szűz szülője Istennek, engedd, hogy tied legyek!<br/>Tied élet' s halálban, tied jó és balsorsban,<br/>Tied küzdve szenvedve, Tied most és örökre.<br/>Szűz szülője Istennek, engedd, hogy tied legyek! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>
