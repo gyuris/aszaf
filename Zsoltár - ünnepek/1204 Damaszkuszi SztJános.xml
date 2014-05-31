@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:41">
+  <properties>
+    <titles>
+      <title>12.04 Damaszkuszi Szt.János</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr ítéletei igazak, * és mind egyaránt jogosak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te tanításod, Uram, * lélek és élet.</lines>
+    </verse>
+  </lyrics>
+</song>

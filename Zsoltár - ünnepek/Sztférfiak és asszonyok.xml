@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:42">
+  <properties>
+    <titles>
+      <title>Szt.férfiak és asszonyok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog az a férfi, * aki az Úr törvényében leli örömét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent hegyeden, Uram, Istenem, * ki az, aki megpihenhet?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istenem, te vagy nékem * az én örökségem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr nékem pásztorom, * ínséget nem kell látnom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok az Úrnak * minden időben!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ízleljétek és lássátok, * milyen édes az Úr.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Áldjad, én lelkem, * Urunkat, Istenünket!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Boldog az az ember, * aki az Urat féli.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Boldogok mindazok, * akik az Urat félik.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Őrizd meg lelkemet * a te békédben, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

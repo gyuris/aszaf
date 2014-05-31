@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:39">
+  <properties>
+    <titles>
+      <title>Urunk megkeresztelkedése</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldja meg Isten az ő népét, * adjon neki békességet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömmel merítsetek vizet * az üdvösség forrásaiból.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondj áldást lelkem az Úrnak, * mert csodálatos az ő nagysága.</lines>
+    </verse>
+  </lyrics>
+</song>

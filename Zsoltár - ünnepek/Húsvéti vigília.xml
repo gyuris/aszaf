@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:39">
+  <properties>
+    <titles>
+      <title>Húsvéti vigília</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áraszd ránk lelkedet, Istenünk: * újítsd meg a föld színét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Betölti az egész földet * ami Urunknak irgalma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Védelmezz engem, Istenem, * hiszen tebenned bízom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Énekeljünk az Úrnak, * mert dicsőség övezi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőítelek, Uram,* mivel megmentettél engem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örömmel merítsetek vizet * az üdvösség forrásaiból.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uram, Istenem, * örök életet adó igéid vannak.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mint szarvasgím a források vizére, * úgy sóvárog utánad a lelkem, Istenem.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Istenem, kérlek téged, * teremts bennem tiszta szívet.</lines>
+    </verse>
+  </lyrics>
+</song>

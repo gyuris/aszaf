@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:42">
+  <properties>
+    <titles>
+      <title>Évközi vasárnap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Istenem, * örök életet adó igéid vannak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te szavaid, Uram, * lélek és élet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Világosságom az Úr * és üdvösségem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldom az Urat * minden időben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Téged szomjaz a lelkem, * én Uram, Istenem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bárcsak hallgatnátok ma az ő szavára, * „Ne keményítsétek meg szíveteket!”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mi vagyunk az Isten népe, * jó Pásztorunk táplál minket.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Irgalmas a mi Urunk, * könyörületre hajlik szíve.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Istenem és királyom, magasztallak téged: * szent nevedet áldom örökkön-örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

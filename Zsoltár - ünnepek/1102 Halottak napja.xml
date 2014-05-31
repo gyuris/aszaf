@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:41">
+  <properties>
+    <titles>
+      <title>11.02 Halottak napja</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az igazak segítsége * az Úrtól való.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki benned bízik, Uram, * az meg nem szégyenül!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szomjazik a lelkem, * az élő Isten után.</lines>
+    </verse>
+  </lyrics>
+</song>

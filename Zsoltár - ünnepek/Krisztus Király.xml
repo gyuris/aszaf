@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:39">
+  <properties>
+    <titles>
+      <title>Krisztus Király</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr nékem pásztorom, * ínséget nem kell látnom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr országol, * királyi fölségbe öltözött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten házába indulunk, * örömtől dobban a szívünk.</lines>
+    </verse>
+  </lyrics>
+</song>

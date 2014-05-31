@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:06:42">
+  <properties>
+    <titles>
+      <title>Lelkipásztorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - ünnepek" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, te vagy nékem * az én örökségem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr nékem pásztorom, * ínséget nem kell látnom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, eljövök, Uram, * hogy teljesítsem azt, amit kívánsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hadd énekeljem örökké * Urunknak irgalmas jóságát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hirdessétek minden népnek, * mondjátok el az \Úr csodás tetteit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Emlékezzél meg, Uram, mirólunk, * hiszen te népedhez jóságos vagy.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pap vagy te mindörökké * Melkizedek rendje szerint.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Menjetek el az egész világra, * és hirdessétek az evangéliumot!</lines>
+    </verse>
+  </lyrics>
+</song>
