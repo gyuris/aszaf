@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+  <properties>
+    <titles>
+      <title>Szekvencia - magyar [GRAD 624]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy vígadva örvend most a hívők kara, alleluja.<br/>A nagy Királyt megszülte a szűzi anya, ó mily csoda!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Tanácsnak Hírnöke Szűztől közénk születe: Csillag Napja.<br/>Nap, de alkonyt nem tudó, csillag, mindig ragyogó, mindig tiszta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miként csillag sugarát, hozza a Szűz magzatát, titkos forma.<br/>Sem a sugár csillagát, sem a Fiú Szűz anyát meg nem rontja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Libanonnak cédrusa, lesz völgyünknek virága, gyenge sarja.<br/>Magasságos szent Ige gyönge testünk felvevé, alázkodva.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>izaiás hirdeté, zsinagóga őrizé, s íme, mégis elveté vakságába.<br/>Ha nem hiszel fiadnak, hidd legalább pogánynak, ősz Szibilla szavának: Őt jósolta!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, Törvény szózata, betelt már jóslata, el ne ítéljen annak szava.<br/>Hát siess, menj oda, ó nézd meg, a jászolba': Őt szülte nékünk a Szűzanya.<br/>Mária.</lines>
+    </verse>
+  </lyrics>
+</song>

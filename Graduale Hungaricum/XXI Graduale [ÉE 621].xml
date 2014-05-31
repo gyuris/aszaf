@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:51">
+  <properties>
+    <titles>
+      <title>XXI. Graduale [ÉE 621]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó dolog az Urat dícsérni,<br/>zsoltározni a te nevednek, ó Fölséges!</lines>
+    </verse>
+  </lyrics>
+</song>

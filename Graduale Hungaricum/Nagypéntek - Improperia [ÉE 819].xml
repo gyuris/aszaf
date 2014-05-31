@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:49">
+  <properties>
+    <titles>
+      <title>Nagypéntek - Improperia [ÉE 819]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, én népem! Teellened mit vétettem?<br/>avagy miben szomorítottalak meg?<br/>Felelj nékem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Egyiptom földjéről kihoztalak téged,<br/>s te keresztet készítesz Üdvözítődnek?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hágiosz ho Theosz! Sanctus Deus!<br/>Hagiosz iszkhürosz! Sanctus fortis!<br/>Hagiosz átáhánátosz, eleiszon imasz!<br/>Sanctus immortalis, miserere nobis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent az Isten!<br/>Szent és erősséges!<br/>Szent és halhatatlan,<br/>irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Negyven éven át pusztában vezettelek,<br/>és mannával tápláltalak téged.<br/>Bevezettelek a megígért földre,<br/>s te keresztet készítesz Üdvözítődnek?!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hágiosz ho Theosz! Sanctus Deus!<br/>Hagiosz iszkhürosz! Sanctus fortis!<br/>Hagiosz átáhánátosz, eleiszon imasz!<br/>Sanctus immortalis, miserere nobis.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szent az Isten!<br/>Szent és erősséges!<br/>Szent és halhatatlan,<br/>irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mit kellett volna még cselekednem néked,<br/>amit meg nem cselekedtem?<br/>Én igen ékes szőlőmnek ültettelek,<br/>de te igen keserűvé lettél!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szomjamat ecettel oltod,<br/>s lándzsával döföd át oldalát Üdvözítődnek?</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Hágiosz ho Theosz! Sanctus Deus!<br/>Hagiosz iszkhürosz! Sanctus fortis!<br/>Hagiosz átáhánátosz, eleiszon imasz!<br/>Sanctus immortalis, miserere nobis.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Szent az Isten!<br/>Szent és erősséges!<br/>Szent és halhatatlan,<br/>irgalmazz nékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

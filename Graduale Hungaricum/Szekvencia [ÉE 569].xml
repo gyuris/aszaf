@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+  <properties>
+    <titles>
+      <title>Szekvencia [ÉE 569]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="663"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veni sancte Spiritus,<br/>et emitte coelitus<br/>lucis tuæ radium,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veni Pater pauperum,<br/>veni dator munerum,<br/>veni lumen cordium.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consolator optime,<br/>dulcis hospes animæ<br/>dulce refrigerium.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In labore requies,<br/>in æstu temperies,<br/>in fletu solatium.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O lux beatissima,<br/>reple cordis intima<br/>tuorum fidelium.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sine tuo numine<br/>nihil est in homine,<br/>nihil est innoxium.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lava, quod est sordidum,<br/>riga, quod est aridum,<br/>sana, quod est saucium.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Flecte, quod est rigidum,<br/>fove, quod est frigidum,<br/>rege, quod est devium.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Da tuis fidelibus<br/>in te confidentibus<br/>sacrum septenarium.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Da virtutis meritum,<br/>da salutis exitum,<br/>da perenne gaudium.<br/>Amen, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

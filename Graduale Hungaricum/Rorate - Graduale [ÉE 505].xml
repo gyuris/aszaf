@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+  <properties>
+    <titles>
+      <title>Rorate - Graduale [ÉE 505]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kapuk, nyíljatok meg!<br/>Táruljatok fel, örök kapuszárnyak,*<br/>hadd menjen be a dicsőség királya.</lines>
+    </verse>
+  </lyrics>
+</song>

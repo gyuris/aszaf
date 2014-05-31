@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:49">
+  <properties>
+    <titles>
+      <title>Nagyszombat - Körmeneti himnusz [ÉE 826]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tündöklő fényeknek teremtője, Isten!<br/>Az idők ritmusát Te szabod meg bölcsen.<br/>Lement már a nap, ránk tör a rút káosz:<br/>add nekünk fényedet, add meg, jó Vezérünk!</lines>
+    </verse>
+  </lyrics>
+</song>

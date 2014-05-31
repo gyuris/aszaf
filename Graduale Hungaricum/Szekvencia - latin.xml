@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+  <properties>
+    <titles>
+      <title>Szekvencia - latin</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="759"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dies iræ, dies illa<br/>Solvet sæclum in favilla,<br/>Teste David cum Sibylla.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quantus tremor est futurus,<br/>Quando judex est venturus,<br/>Cuncta stricte discussurus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuba mirum spargens sonum<br/>Per sepulcra regionum,<br/>Coget omnes ante thronum.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mors stupebit et natura,<br/>Cum resurget creatura,<br/>Judicanti responsura.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Liber scriptus proferetur,<br/>In quo totum continetur,<br/>Unde mundus judicetur.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Judex ergo cum sedebit,<br/>Quidquid latet apparebit.<br/>Nil inultum remanebit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Quid sum miser tunc dicturus?<br/>Quem patronum rogaturus,<br/>Cum vix justus sit securus?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rex tremendæ majestatis<br/>Qui salvandos salvas gratis<br/>Salva me, fons pietatis.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Recordare, Jesu pie,<br/>Quod sum causa tuæ viæ:<br/>Ne me perdas illa die.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Quærens me, sedisti, lassus;<br/>Redemisti crucem passus;<br/>Tantus labor non sit cassus.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Juste Judex ultionis,<br/>Donum fac remissionis<br/>Ante diem rationis.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Ingemisco tanquam reus,<br/>Culpa rubet vultus meus;<br/>Supplicanti parce, Deus.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Qui Mariam absolvisti,<br/>Et latronem exaudisti,<br/>Mihi quoque spem dedisti.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Preces meæ non sunt dignæ,<br/>Sed tu, bonus, fac benigne,<br/>Ne perenni cremer igne.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Inter oves locum præsta,<br/>Et ab hœdis me sequestra,<br/>Statuens in parte dextra.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Confutatis maledictis<br/>Flammis acribus addictis,<br/>Voca me cum benedictus.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Oro supplex et acclinis,<br/>Cor contritum quasi cinis,<br/>Gere curam mei finis.</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Lacrimosa dies illa,<br/>Qua resurget ex favilla</lines>
+    </verse>
+    <verse name="v19">
+      <lines>Judicandus homo reus.<br/>Huic ergo parce, Deus:</lines>
+    </verse>
+    <verse name="v20">
+      <lines>Pie Jesu Domine:<br/>Dona eis requiem.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

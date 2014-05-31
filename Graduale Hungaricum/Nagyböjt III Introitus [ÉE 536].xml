@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+  <properties>
+    <titles>
+      <title>Nagyböjt III. Introitus [ÉE 536]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szemeim mindenkor az Úrra néznek,<br/>mert Ő vonja ki a tőrből lábamat.<br/>Tekints reám, Isten, és könyörülj énrajtam.</lines>
+    </verse>
+  </lyrics>
+</song>

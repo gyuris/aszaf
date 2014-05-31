@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+  <properties>
+    <titles>
+      <title>Communio</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="666"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zúgás támadt hirtelen az égből,<br/>mint sebesen jövő szélvész,<br/>a házban, ahol ültek, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S beteltek mindnyájan a Szentlélekkel,<br/>s beszélték Isten nagy tetteit,<br/>alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

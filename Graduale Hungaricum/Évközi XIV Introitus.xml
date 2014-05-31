@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:50">
+  <properties>
+    <titles>
+      <title>Évközi XIV. Introitus</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Befogadtuk, Isten, irgalmasságodat<br/>templomodnak bensejében,<br/>alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

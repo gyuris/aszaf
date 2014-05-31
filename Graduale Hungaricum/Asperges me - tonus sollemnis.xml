@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+  <properties>
+    <titles>
+      <title>Asperges me - tonus sollemnis</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="772"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asperges me, Domine, hyssopo, et mundabor:<br/>lavabis me, et super nivem dealbabor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miserere mei, Deus,<br/>secundum magnam misericordiam tuam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Asperges me, Domine, hyssopo, et mundabor:<br/>lavabis me, et super nivem dealbabor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Et secundum multitudinem miserationum tuarum<br/>dele iniquitatem meam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Asperges me, Domine, hyssopo, et mundabor:<br/>lavabis me, et super nivem dealbabor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cor mundum crea in me, Deus<br/>et spiritum rectum innova in visceribus meis.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Asperges me, Domine, hyssopo, et mundabor:<br/>lavabis me, et super nivem dealbabor.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gloria Patri et Filio et Spiritui Sancto.<br/>Sicut erat in principio, et nunc et semper,<br/>et in sæcula sæculorum, amen.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Asperges me, Domine, hyssopo, et mundabor:<br/>lavabis me, et super nivem dealbabor.</lines>
+    </verse>
+  </lyrics>
+</song>

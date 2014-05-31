@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+  <properties>
+    <titles>
+      <title>Graduale [ÉE 682]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="612"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fájdalmas vagy, Szűz Mária, és könnyeinkre méltó,<br/>megváltó Fiadnak keresztje mellett állasz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:49">
+  <properties>
+    <titles>
+      <title>Alleluja visszaadása [ÉE 835]</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A vágyva-vágyott éneket ez éj visszaadja,<br/>mert föltámadt Krisztus.<br/>Hát figyeljetek reám, s vegyétek át tőlem,<br/>hogy együtt zenghessük:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

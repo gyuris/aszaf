@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+  <properties>
+    <titles>
+      <title>Szekvencia [GRAD 637]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="570"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiszta szívvel, szóval, ésszel<br/>zengjük Istent szent beszéddel,<br/>vígadozz, Mgyarország!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi jókkal ékesítve<br/>tiéd az élet igéje,<br/>a felvállalt bizonyság.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Géza vezér volt az atyja,<br/>nevét István mártír adta,<br/>mielőtt megszületett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szül az anya, vígadozik,<br/>nő a gyermek, magasodik,<br/>cédrus Libanon felett.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>S ahogy egyre nő a gyermek,<br/>erényben is gazdagabb, szebb,<br/>Isten Fiát követi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Testben él bár, mint ruhában,<br/>lelke fent jár ég honában,<br/>és a jó hírt hirdeti.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mindig Krisztust prédikálja,<br/>Krisztus hite mind bejárja<br/>az egész Pannóniát.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>S mint Salamon réges-régen,<br/>templomokat rak serényen,<br/>ragyogtatja oltárát.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tanítónak, vezetőnek,<br/>tudós férfit rendel főnek,<br/>a hívőknek javára.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Talentumát így forgatja,<br/>s Isten szívesen fogadja<br/>örök királyságába.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ott él, Jézus a barátja,<br/>Ő vitte íly magasságba,<br/>a mennyei hazába.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Könyörögjünk hű szívekkel,<br/>hogy ott éljünk majd a szenttel<br/>az egek hajlékában!<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+  <properties>
+    <titles>
+      <title>Szekvencia [GRAD 422]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="599"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örülj, Krisztus szent Szülője,<br/>akit Gábor köszöntője<br/>szűz anyának hirdetett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örülj, teljes kegyelemmel,<br/>szültél, de nem gyötrelemmel,<br/>liliomnál ékesebb!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örülj, hiszen Egyszülötted,<br/>bár zokogva eltemetted,<br/>feltámadott ragyogva!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örülj, Fiad mennybe szállott,<br/>láttad, amint e világot<br/>messze hagyta alakja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Örülj, te is hozzá mentél,<br/>s dicsőséggel öveztettél<br/>a mennyei trónusig.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A te méhed szent gyümölcse<br/>lelkünk éhét hogy betöltse,<br/>teáltalad adatik. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

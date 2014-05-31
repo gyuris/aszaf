@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+  <properties>
+    <titles>
+      <title>Introitus [ÉE 684]</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="685"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyáink Istene<br/>e kettőt kösse össze,<br/>mert megkönyörült rajtuk,<br/>kik egyedül voltak.</lines>
+    </verse>
+  </lyrics>
+</song>

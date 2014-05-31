@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:49">
+  <properties>
+    <titles>
+      <title>IV. Communio</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kis idő, s nem láttok engem,<br/>ismét kis idő, s megláttok engem,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>mert az Atyához megyek,<br/>alleluja, alleluja. Alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

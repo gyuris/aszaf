@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+  <properties>
+    <titles>
+      <title>Szekvencia [ÉE 689]</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="758"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ítéletnek végső napja<br/>e világot lángba dobja,<br/>prófétáknak szava mondja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reszket akkor holt meg élő,<br/>ha megjön a nagy Ítélő,<br/>mindeneket számonkérő.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csodakürtök zengenek meg,<br/>sírok éjén átremegnek,<br/>ítéletre mindeneknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csodájára a halálnak,<br/>aki rég por, talpra támad,<br/>számot adni bírájának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kézzel írt könyv nyílik ottan,<br/>világ terhe, minden ott van,<br/>ítéletre felrovottan.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bíró majd ha széket ül ott,<br/>minden rejtek felderül ott,<br/>zsoldot bűn el nem kerül ott.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én szegény ott mit beszéljek,<br/>pártfogómul kit reméljek,<br/>hol még a szentek is félnek?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nagy Király, kit retteg minden,<br/>de a jót megváltod ingyen,<br/>kegyek kútja, válts meg engem!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Rólam, Jézus, emlékezzél,<br/>akiért a földre jöttél,<br/>veszni aznap ne engedjél!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Fáradoztál, megkeresve,<br/>értem szálltál a keresztre,<br/>ennyi munkád kárba veszne!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ki Magdolnát feloldottad,<br/>és a latrot meghallgattad,<br/>nékem is e reményt adtad.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Nem méltó az én kérésem,<br/>de te jó vagy, tedd kegyesen,<br/>hogy örök tűz ne égessen!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Könnyel árad ama nagy nap,<br/>hamvukból, ha föltámadnak,<br/>a bűnösök, s számot adnak.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Uram, nékik adj jó véget,<br/>kegyes Jézus, kérünk téged,<br/>add meg nekik békességed! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

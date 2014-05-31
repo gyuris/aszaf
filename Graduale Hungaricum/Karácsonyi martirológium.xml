@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+  <properties>
+    <titles>
+      <title>Karácsonyi martirológium</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sokezer évvel azután, hogy Isten a mennyet és a földet alkotá,<br/>kétezer évvel Ábrahám születése után,<br/>és 1500 évvel azután, hogy Izráel népe Mózessel Egyiptomból kivonult;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dávidnak királlyá fölkenése után 1032 évvel,<br/>a Dániel jövendölése szerinti 65. évhétben,<br/>a 194. olimpiai szakasz idején,<br/>752 évvel Róma város alapítása után;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Octavianus Augustus császár uralkodásának 42. évében,<br/>amikor a béke az egész földön helyreállt,<br/>az üdvtörténet hatodik korszakában;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekkor Jézus Krisztus, örökkévaló Isten,<br/>az örök Atya Fia,<br/>elhatározva, hogy kegyelemhozó eljövetele<br/>által megszenteli a világot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>FOGANTATÉK A SZENTLÉLEKTŐL,<br/>ÉS FOGANTATÁSA UTÁN KILENC HÓNAPPAL<br/>SZÜLETÉK SZŰZ MÁRIÁTÓL<br/>A JÚDEAI BETLEHEMBEN,<br/>ÉS EMBERRÉ LŐN.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holnap Karácsony,<br/>a mi Urunk, Jézus Krisztus<br/>testszerinti születésének ünnepe.</lines>
+    </verse>
+  </lyrics>
+</song>

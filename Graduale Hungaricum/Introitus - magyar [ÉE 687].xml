@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+  <properties>
+    <titles>
+      <title>Introitus - magyar [ÉE 687]</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="750"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Uram, őnéki(k) örök nyugodalmat,<br/>és az örökkévaló világosság fényeskedjék néki(k)!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallgasd meg, Uram, imádságomat,<br/>minden test hozzád mégyen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj, Uram, őnéki(k) örök nyugodalmat,<br/>és az örökkévaló világosság fényeskedjék néki(k)!</lines>
+    </verse>
+  </lyrics>
+</song>
