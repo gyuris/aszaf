@@ -11,7 +11,7 @@ bekerültek a gyűjteménybe, az továbbra is a keresztény liturgikus könnyűz
 
 A gyűjtemény kiindulópontja a Szent András Evangelizációs Iskola OpenSong 
 formátumú adatbázisa volt. Nagy mennyiségű dalszöveget konvertált Riszterer Tamás 
-a „Diatár - Templomi énekvetítő program” (diatar.eu) adatbázisából. Köszönet 
+a „Diatár - Templomi énekvetítő program” (http://diatar.eu) adatbázisából. Köszönet 
 Rieth Józsefnek, hogy hozzájárult az énektárak OpenLyrics formátumúvá 
 konvertálásához és azok közzétételéhez.
 
