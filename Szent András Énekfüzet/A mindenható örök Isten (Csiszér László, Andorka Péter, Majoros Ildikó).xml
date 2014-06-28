@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">A mindenható örök Isten</title>
+      <title lang="hu">Új élet Krisztusban k. himnusz</title>
+    </titles>
+    <authors>
+      <author>Csiszér László, Andorka Péter, Majoros Ildikó</author>
+    </authors>
+    <songbooks>
+      <songbook entry="285" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mindenható örök Isten<br />hívott téged magához,<br />mert neked, mint gyermekének<br />új életet ajándékoz.<br />Szeretetével megragad<br />és Lelke által szabadságot ad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy új élet, egy új remény,<br />egy új élet, már a tiéd,<br />csak nyisd meg most szíved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mindenható örök Isten<br />hívott engem magához<br />mert nekem, mint gyermekének<br />új életet ajándékoz.<br />Szeretetével megragad<br />és Lelke által szabadságot ad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ez már az új élet,<br />már az új remény,<br />ez már az új élet,<br />már az enyém,<br />mert átadtam szívem.</lines>
+    </verse>
+  </lyrics>
+</song>

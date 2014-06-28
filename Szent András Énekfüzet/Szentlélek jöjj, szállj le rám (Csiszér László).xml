@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szentlélek jöjj, szállj le rám</title>
+      <title lang="hu">Szerelmem Szentlélek</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="314" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek, jöjj, szállj le rám<br />és töltsél el egészen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert csak benned van erő,<br />és benned van élet,<br />szerelmem, drága Szentlélek!</lines>
+    </verse>
+  </lyrics>
+</song>

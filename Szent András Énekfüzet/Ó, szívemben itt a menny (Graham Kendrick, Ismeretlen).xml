@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó, szívemben itt a menny</title>
+      <title lang="en">Heaven Is In My Heart</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="86" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1991 Make Way Music</copyright>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, szívemben itt a menny!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Isten országa van itt, szívemben itt a menny!<br />Ő Úr az én életemben, szívemben...<br />és nagy öröm van bensőmben,...<br />szent, tiszta fénnyel átölel,...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trónjának temploma vagyunk,...<br />kősziklánkká lett Jézusunk,...<br />Ő visszajön, hogy elvigyen,...<br />Szentlélekkel mondjuk: Jöjj el!...</lines>
+    </verse>
+  </lyrics>
+</song>

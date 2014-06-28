@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Isten szeret, örvendj hát</title>
+      <title lang="en">Be Free In The Love Of God</title>
+    </titles>
+    <authors>
+      <author>Dave Bilbrough</author>
+      <author lang="hu" type="translation">Debreceni István</author>
+    </authors>
+    <songbooks>
+      <songbook entry="101" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1991 Thankyou Music</copyright>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Isten szeret, örvendj hát, szabadulj fel Szentlelkében,<br />Isten szeret, örvendj hát, szíved járja át!<br />Isten szeret, örvendj hát, ünnepeljed Nevét tánccal!<br />Isten szeret, örvendj hát, Ő tesz teljessé!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elhívásunk Tőle kaptuk, két kezével őriz minket,<br />és ha megtart, el is hordoz szeretetében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istenünk jó, vezet minket, ereje formál bennünket,<br />eggyé tesz majd Lelke által szeretetében.</lines>
+    </verse>
+  </lyrics>
+</song>

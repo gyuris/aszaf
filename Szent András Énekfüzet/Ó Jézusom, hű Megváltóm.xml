@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó Jézusom, hű Megváltóm</title>
+    </titles>
+    <authors>
+      <author>Ismeretelen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="310" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Jézusom, hű Megváltóm,<br />Árasztod Atyánk szerelmét,<br />Szívünknek nincs nyugalma csak Benned,<br />Ó Jézus, Jézus, Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

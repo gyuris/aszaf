@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Várok Rád, már nyitva</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="316" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Várok Rád, már nyitva a szívem,<br />nevedben bízom, Uram, egyedül.<br />Nincsen más csak Benned van élet,<br />Te vagy az Üdvözítő. Te vagy az Üdvözítő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Várok Rád, hogy meghalljam hangod,<br />érezzem Szentlelked leheletét.<br />Várok Rád, hogy lássam az arcod,<br />izzó szemed, fénylő tekintetét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szeretlek Téged és vágyom Utánad,<br />Tornácaidba, hogy lakhassam Nálad.<br />Asztalt terítesz az ellenségem előtt.<br />Jobb egy nap templomod ajtajában, <br />Mint ezer máshol itt a világban.<br />Imádlak Téged és várom, hogy visszajöjj!</lines>
+    </verse>
+  </lyrics>
+</song>

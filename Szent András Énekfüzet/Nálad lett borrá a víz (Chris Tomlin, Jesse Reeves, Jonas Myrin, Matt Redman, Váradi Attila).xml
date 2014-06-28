@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Nálad lett borrá a víz</title>
+      <title lang="hu">Nincs más Isten</title>
+      <title lang="en">Our God</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin, Jesse Reeves, Jonas Myrin, Matt Redman</author>
+      <author lang="hu" type="translation">Váradi Attila</author>
+    </authors>
+    <songbooks>
+      <songbook entry="289" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2010 Said And Done Music, SHOUT! Music Publishing, sixsteps Music, Thankyou Music, Vamos Publishing, worshiptogether.com songs</copyright>
+    <verseOrder>v1 v2 c1 b1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nálad lett borrá a víz,<br />Holtakat életre hívsz:<br />Nincs más Isten!<br />Nincsen más!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te ragyogod be az éjt,<br />Te hozod el a reményt:<br />Nincs más Isten!<br />Nincsen más!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az Isten, aki nevére<br />leborul minden a földön, az égen!<br />Hegyeket mozdít, beteget gyógyít<br />az Úr ma is!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>(És) hogyha Isten velünk,<br />ember mit árthat nekünk?<br />Mert hogyha Te vagy velünk,<br />ki lehet ellenünk?<br />mi állhat ellenünk?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Úr Jézus, Megváltóm</title>
+      <title lang="hu">Kiálts az Úrnak!</title>
+      <title lang="en">Shout To The Lord</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="106" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1993 Wondrous Worship</copyright>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, Megváltóm, nincs senki olyan, mint Te,<br />minden napon magasztalom<br />a Te szereteted nagy voltát.<br />Vigaszom, oltalmam, menedékem, váram,<br />ami vagyok, egész valóm<br />Téged szomjaz, Téged áld!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiálts az Úrnak, te föld, énekelj,<br />adj dicsőséget a Felségesnek!<br />Hegyek, hódoljatok, zúgj, tenger,<br />a mi Urunk nagy nevének!<br />Éneklem hűséged és kegyelmed,<br />mindig szeretlek, én Istenem!<br />Semmi sem ér fel a Te jelenléteddel!</lines>
+    </verse>
+  </lyrics>
+</song>

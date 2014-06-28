@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Őrhelyemre állok</title>
+    </titles>
+    <authors>
+      <author>Nemes Ákos</author>
+    </authors>
+    <songbooks>
+      <songbook entry="119" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 b1 v2 b1 v3 b1 p1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Őrhelyemre állok, megállok a bástyán,<br />hallgatom, hogy mit szól Isten hangja hozzám.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Úgy vágyom megállni Előtte,<br />úgy vágyom meglátni arcát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint sok víz zúgását, hallani hangját,<br />igazságot szóló Atyának szavát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hófehér haját, bölcs homlokát,<br />izzó szemét, tűz tekintetét.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Meglátjuk majd egyszer Őt,<br />elváltozunk ábrázatára,<br />akiben megvan ez a reménység,<br />önmagát mind megtisztítja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, szent az Úr, halleluja, szent az Úr,<br />halleluja, szent az Úr, szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

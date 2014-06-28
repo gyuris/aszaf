@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Nem ezt vártad, nem így</title>
+      <title lang="hu">Homokba írva</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="315" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem ezt vártad, nem így mondták,<br />mást ígért a szív és mást a száj.<br />Megint tél van, megint fázol,<br />pedig azt mondták, hogy jön már a nyár.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Homokba kell írni a szót, ami annyira fáj,<br />hagyni kell, hadd vigye a szél.<br />Homokba írni a bűnt, amivel megbántott más,<br />mielőtt megjegyezhetnéd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És oda kell menni, megölelni,<br />Akkor is, ha nem te vagy a hibás.<br />Odamenni, esélyt adni,<br />elengedni minden tartozást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyan tudnál tovább lépni,<br />amiben hittél, az már nem a tiéd.<br />Hogy lehetne bekötözni <br />azt a sebet, ami szíveden ég.</lines>
+    </verse>
+  </lyrics>
+</song>

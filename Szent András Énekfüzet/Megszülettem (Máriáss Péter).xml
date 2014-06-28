@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Megszülettem</title>
+    </titles>
+    <authors>
+      <author>Máriáss Péter</author>
+    </authors>
+    <songbooks>
+      <songbook entry="209" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megszülettem, Te adtad életem,<br />megszülettem a semmiből hirtelen,<br />megszülettem, Te engem akartál,<br />megszülettem, feladatot adtál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elindultam életemnek útján,<br />Te szerettél és megbocsátottál.<br />Segítettél, Te bajban nem hagytál,<br />megszülettem, feladatot adtál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, Istenem, neved áldott legyen,<br />világmindenség Istene!<br />Szent vagy, Istenem, neved áldott legyen!<br />Hozsanna szóljon Teneked!</lines>
+    </verse>
+  </lyrics>
+</song>

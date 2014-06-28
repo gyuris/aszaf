@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szívből dicsérlek</title>
+      <title lang="en">My Heart Sings Praises</title>
+    </titles>
+    <authors>
+      <author>Russell Fragar</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="192" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1995 Hillsong Music</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívből dicsérlek,<br />Neved magasztalom,<br />szerelmed mélyebb,<br />mint elmondhatom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Előttem jársz,<br />követlek utadon,<br />minden vágyam,<br />hogy Hozzád szálljon fel dalom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szívemben Te erősítesz meg,<br />éjszaka nem fogy el a fény,<br />minden lélegzetem hirdeti kegyelmedet!<br />Elmémben csak Te vagy a győztes,<br />lelkemben a trón a Tiéd,<br />életem megérintetted, tűzben él.</lines>
+    </verse>
+  </lyrics>
+</song>

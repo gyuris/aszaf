@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Lelkem csak Tebenned lel</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="250" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem csak Tebenned lel nyugalmat, én Istenem,<br />Tőled jön segítségem, Te vagy a reménységem!<br />Úgy vágyom, hogy átölelj,<br />Úgy vágyom, hogy átölelj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békédet kiárasztod, és megtart erős jobbod,<br />Nálad van biztonságban életem s minden napom,<br />oltalmam csak Te vagy,<br />oltalmam csak Te vagy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Menedék nekem csak Istenben van,<br />dicsőségem csak Istenben van,<br />szabadulás nekem csak Istenben van,<br />erősségem Istene Ő, dicsőségem Istene Ő!</lines>
+    </verse>
+  </lyrics>
+</song>

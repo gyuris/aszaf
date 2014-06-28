@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Újjá tette szívem</title>
+      <title lang="hu">Megváltóm él</title>
+      <title lang="en">My Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="158" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1998 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 p1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Újjá tette szívem, vére elrejt engem,<br />elhiszem, elhiszem!<br />Bűntől szabad vagyok, Ő már meggyógyított,<br />elhiszem, elhiszem!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Zászlóm lobogjon, mert Ő legyőzte a sírt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Megváltóm él! Megváltóm él!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Terhem levetted, fölemeltél,<br />hát táncolok, míg eljön majd<br />királyságod hamar!</lines>
+    </verse>
+  </lyrics>
+</song>

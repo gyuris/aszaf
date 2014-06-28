@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Istenem, Te vagy</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="321" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>‖: Istenem,<br />Te vagy a szeretet. Istenem, Te vagy. :‖</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Irgalommal teljes Istenem vagy.<br />Megbocsátó, szent Istenem vagy.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Visszaindulok Atyám házába,<br />ahol erős karja ölelésre tárva.</lines>
+    </verse>
+  </lyrics>
+</song>

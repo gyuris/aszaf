@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ott akarok lenni</title>
+      <title lang="en">I Want To Be Where You Are</title>
+    </titles>
+    <authors>
+      <author>Camp Kirkland, Don Moen</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="36" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1989 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott akarok lenni, ahol Te vagy,<br />minden nap jelenlétedben,<br />nem akarlak távolról látni, vonj magadhoz közel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott akarok lenni, ahol Te vagy,<br />vezess ösvényeden engem,<br />taníts meg a mennyei útra, tölts be Szentlelkeddel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hisz Nálad lenni oly jó, nincs ahhoz hasonló,<br />asztalod terítve, s átjár dicsőséged fénye!<br />Együtt Veled - ez tesz csak boldoggá engem,<br />erre szomjazom, ezután vágyódom én.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, Istenem, Te vagy erősségem s énekem,<br />s mikor megérint Szellemed, új dal fakad szívemben.</lines>
+    </verse>
+  </lyrics>
+</song>

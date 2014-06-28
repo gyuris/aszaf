@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Dicsérem Őt szentélyében</title>
+      <title lang="en">Everything That Has Breath</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="238" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2000 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 b1 c1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérem Őt szentélyében,<br />dicsérem Őt reggel, délben, este,<br />szent nevét zengem.<br />
+        <br />Dicsérem Őt erejéért,<br />hatalmáért, kegyelméért áldom,<br />Ő a Királyom!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A napfelkeltétől szóljon a dicséret,<br />keleten, nyugaton, északon, délen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden lélegzetemmel a nagy Királyt dicsérem,<br />gyerünk most trónja elé, áldjuk Őt!<br />Áldjuk Őt! Áldjuk Őt!<br />Áldjuk Őt! Áldjuk Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

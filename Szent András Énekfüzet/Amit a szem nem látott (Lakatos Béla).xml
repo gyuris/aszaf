@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Amit a szem nem látott</title>
+    </titles>
+    <authors>
+      <author>Lakatos Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="193" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amit a szem nem látott,<br />amit a fül nem hallott,<br />és a szívünk meg se gondolt,<br />az, amit készített nekünk az Úr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretünk Téged, Jézus,<br />Téged vár a szívünk,<br />legyen kedves Előtted dicséretünk,<br />Uram, Tiéd az életünk!</lines>
+    </verse>
+  </lyrics>
+</song>

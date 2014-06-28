@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó Jézusom, én Megváltóm</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="286" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézusom, én Megváltóm,<br />Isten Fia, szabadítóm,<br />ó, Jézusom, én gyógyítóm,<br />minden bűnöm megbocsátod.<br />Köszönöm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Jézusom, az életedet<br />odaadtad s megkínoztak.<br />Sebeidből a véred rám folyt,<br />megtisztított, megszabadított.<br />Köszönöm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Jézusom, én megváltóm,<br />Isten Fia, szabadítóm,<br />ó, Jézusom, megmentettél,<br />a haláltól, a pusztulásból.<br />Köszönöm!</lines>
+    </verse>
+  </lyrics>
+</song>

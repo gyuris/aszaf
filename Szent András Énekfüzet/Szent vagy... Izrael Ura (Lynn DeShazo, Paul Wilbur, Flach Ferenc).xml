@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szent vagy... Izrael Ura</title>
+      <title lang="en">Holy Holy Holy</title>
+    </titles>
+    <authors>
+      <author>Lynn DeShazo, Paul Wilbur</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="268" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2005 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy,<br />szent vagy, Izrael Ura,<br />őseink dicsérnek,<br />mint az angyalok hada.</lines>
+      <lines>A tömjén füstje felszáll<br />a kegyelem trónján.<br />Uram, dicsőítünk,<br />arcod ragyogtasd most ránk! Kiáltunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent vagy, szent vagy,<br />szent vagy, a Menny is énekli,<br />minden élő zengi:<br />Halleluja, Elohim!</lines>
+      <lines>Mindörökké trónolj,<br />uraknak Ura,<br />Sion, emelkedj fel, tárd fel<br />ősi kapudat és kiáltsd!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy, Istenünk!<br />Szent vagy, szent vagy, szent vagy, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

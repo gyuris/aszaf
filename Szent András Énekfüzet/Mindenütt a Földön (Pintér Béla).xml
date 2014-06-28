@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Mindenütt a Földön</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="301" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 v3 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindenütt a Földön, vágynak valami jó után.<br />Minden ember keresi: „Hol a boldogság?”<br />Sok mindent elérhetsz, mégis üres maradhat a szív,<br />ha nincs benne igazi érték, mely mindenen átsegít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az élet néha bonyolult, nem is mindig értem én.<br />De kell, hogy a szívben ott legyen a hit, szeretet, remény.<br />E három dolog közül legnagyobb a szeretet,<br />Mely mindent elhordoz, s ha kell, sok vétket elfedez.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A szeretet nem fogy el sosem,<br />a szeretet átvisz az életen.<br />Mindent elhisz és remél,<br />a szeretet mindennél többet ér!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senki nem tud úgy szeretni, ahogy az Úr szeret.<br />Ha elhagyna mindenki, Ő megmarad neked.<br />Mert nem tud nem szeretni, hiszen Ő a szeretet.<br />Mindent elhordoz, ha kell, sok vétket elfedez.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A szeretet Istene téged is elér, <br />Ha nyitva a szíved és oda még befér.<br />Ha nem vagy telve indulattal, <br />gyűlölettel és haraggal.<br />A szeretet megtalál bárhol is legyél. <br />Nyisd ki a szíved és bízz benne, ne félj! <br />Megváltozhat az életed, <br />úgy, ahogy nem is képzeled.</lines>
+    </verse>
+  </lyrics>
+</song>

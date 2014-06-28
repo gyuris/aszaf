@@ -1,35 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T23:23:22">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Adj célt és értelmet</title>
+      <title lang="hu">Adj célt és értelmet</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1 c2</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="198"/>
+      <songbook entry="198" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>c1 v1 v2 c2 e1</verseOrder>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Adj célt és értelmet egész életemnek,<br/>Teremtő Istenem!</lines>
+      <lines>Adj célt és értelmet egész életemnek,<br />Teremtő Istenem!</lines>
     </verse>
     <verse name="v1">
-      <lines>A múltnak és a jelen pillanatnak,<br/>a mának és az eljövendő napnak,<br/>ami boldoggá tett, vagy boldogságot hoz,<br/>mindannak, ami fájt vagy fájni fog.</lines>
+      <lines>A múltnak és a jelen pillanatnak,<br />a mának és az eljövendő napnak,<br />ami boldoggá tett, vagy boldogságot hoz,<br />mindannak, ami fájt vagy fájni fog.</lines>
     </verse>
     <verse name="v2">
-      <lines>Az éjszakának és a fénynek,<br/>a kiáltásnak és a csendnek,<br/>az elbukásnak s a győzelemnek,<br/>a némaságnak és a könnynek.</lines>
+      <lines>Az éjszakának és a fénynek,<br />a kiáltásnak és a csendnek,<br />az elbukásnak s a győzelemnek,<br />a némaságnak és a könnynek.</lines>
     </verse>
     <verse name="c2">
-      <lines>Benned van értelme, célja életemnek,<br/>feltámadt Krisztusom!</lines>
+      <lines>Benned van értelme, célja életemnek,<br />feltámadt Krisztusom!</lines>
     </verse>
-    <verse name="v3">
-      <lines>Ígéretem Benned lett teljessé,<br/>Benned lettem győztes gyermekeddé,<br/>Tebenned van bocsánat és áldás,<br/>szent véredben örök megtisztulás!</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Krisztus Jézus, életem értelme,<br/>nem én élek, Te élsz már énbennem.<br/>Igaz lettem, nincs rajtam ítélet,<br/>Benned vagyok az örök dicsőségben!</lines>
+    <verse name="e1">
+      <lines>Ígéretem Benned lett teljessé,<br />Benned lettem győztes gyermekeddé,<br />Tebenned van bocsánat és áldás,<br />szent véredben örök megtisztulás!<br />Krisztus Jézus, életem értelme,<br />nem én élek, Te élsz már énbennem.<br />Igaz lettem, nincs rajtam ítélet,<br />Benned vagyok az örök dicsőségben!</lines>
+      <lines />
     </verse>
   </lyrics>
 </song>

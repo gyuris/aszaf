@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Itt állok házadban</title>
+      <title lang="hu">Rám találtál</title>
+      <title lang="en">Now That You're Near</title>
+    </titles>
+    <authors>
+      <author>Marty Sampson</author>
+      <author lang="hu" type="translation">Papp Bernadett</author>
+    </authors>
+    <songbooks>
+      <songbook entry="290" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2002 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 b1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt állok házadban, Téged magasztallak,<br />Csak rád van szükségem,<br />Jézus, már nem kell más.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te értem meghaltál, hogy végre éljek már<br />És most is bennem élsz,<br />Kegyelmed, Jézus, elég!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Kell, hogy átölelj, és ne engedj el,<br />Hadd éljek most már örökké Veled!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te rám találtál,<br />Megváltozott minden,<br />Jézus, Veled minden más.<br />Te jössz és átírod az életem,<br />hát hadd legyek Veled, örökké Veled.</lines>
+    </verse>
+  </lyrics>
+</song>

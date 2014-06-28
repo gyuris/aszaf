@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Uram, szent vagy</title>
+      <title lang="en">You Are Holy</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="237" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, szent vagy, szent vagy,<br />Te vagy az egyetlen.<br />Uram, szent vagy, szent vagy,<br />Tiéd dicséretem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örökké Téged imádlak, szerelmed ad erőt.<br />Közel Hozzád a trónod előtt<br />békét lel szívem, Uram.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">A sátánt legyőzték</title>
+      <title lang="en">I Have Overcome</title>
+    </titles>
+    <authors>
+      <author>Don Potter</author>
+      <author lang="hu" type="translation">Prazsák László, Erős Tibor</author>
+    </authors>
+    <songbooks>
+      <songbook entry="78" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 EagleStar Productions</copyright>
+    <verseOrder>c1 v1 c2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>A sátánt legyőzték a Bárány vérével,<br />és az ő szavuk bizonyságával.<br />Nem kímélték még az életüket sem,<br />ennek örülnek a mennyben.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt a földön üldözés vár majd rátok,<br />mégis örüljetek, mert<br />Én már legyőztem, Én már legyőztem,<br />Én már legyőztem a világot!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>A Sátánt legyőzzük a Bárány vérével,<br />és a mi szavunk bizonyságával.<br />Nem kíméljük még az életünket sem,<br />ennek örülnek a mennyben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt a földön üldözés vár majd ránk is,<br />mégis örvendezünk, mert<br />győztesek vagyunk, győztesek vagyunk,<br />győztesek vagyunk a világ felett!</lines>
+    </verse>
+  </lyrics>
+</song>

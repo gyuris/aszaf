@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Hogyha csak egy</title>
+      <title>Granito De Mostaza</title>
+    </titles>
+    <authors>
+      <author>(Grupo Nueva Vida)</author>
+      <author lang="hu" type="translation">Fábry Kornél</author>
+    </authors>
+    <songbooks>
+      <songbook entry="297" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Hogyha csak egy mustármagnyi hitetek is volna”<br />– ezt mondja a mi Urunk!<br />‖: És így szólnátok a nagy hegyekhez:<br />„Mozduljatok, mozduljatok!” :‖</lines>
+    </verse>
+    <verse name="c1">
+      <lines>‖: Akkor a hegyek megindulnak,<br />Megindulnak, megindulnak. :‖</lines>
+    </verse>
+    <verse name="b1">
+      <lines>‖: Ó jöjj el! Ó, jöjj el! Ó, jöjj el Szentlélek!:‖</lines>
+    </verse>
+  </lyrics>
+</song>

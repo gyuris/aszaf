@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Minden időben áldom</title>
+      <title lang="en">Let Us Exalt His Name Together</title>
+    </titles>
+    <authors>
+      <author>Stuart Dauermann</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="109" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1982 Stuart Dauermann</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden időben áldom, dicsérem az Urat,<br />magasztalom az Ő nevét!<br />Hallják ezt a szegények és együtt örülnek,<br />sietve asztalához ülnek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Érezd és lásd, hogy jó az Úr kegyelme,<br />az Őt félőkön megmarad örökkön-örökké!<br />Érezd és lásd, hogy jó az Úr! Kiáltasz,<br />s mert közel van Ő hozzád, válaszol!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr angyala tábort jár az Őt félők körül,<br />megszabadítja Isten népét!<br />Az oroszlánok szűkölködnek és éheznek,<br />de az Őt keresők bőségben élnek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megkerestem az Urat, s meghallgatott engem,<br />minden félelmemből kimentett.<br />Aki Őreá néz, annak lelke felvidul,<br />s arca szégyentől el nem pirul!</lines>
+    </verse>
+  </lyrics>
+</song>

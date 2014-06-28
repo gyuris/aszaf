@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Vezess engem ösvényeden</title>
+      <title lang="en">Show Me Your Ways</title>
+    </titles>
+    <authors>
+      <author>Russell Fragar</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="69" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1995 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezess engem ösvényeden, ó, Uram,<br />útjaidat ismertesd meg még jobban!<br />A szívem kiáltja, szeretlek Téged,<br />erős karod támogasson minden napon a Te utadon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szelíd hangon szólj hozzám, ó, Uram,<br />friss keneted áradjon rám gazdagon,<br />hogy szívemben égjen szent tüzed,<br />és hűséggel kövesselek minden napon a Te utadon!</lines>
+    </verse>
+  </lyrics>
+</song>

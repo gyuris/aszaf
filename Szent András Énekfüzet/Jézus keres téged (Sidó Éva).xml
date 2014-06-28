@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jézus keres téged</title>
+      <title lang="hu">Legyél igazi! k. himnusz</title>
+    </titles>
+    <authors>
+      <author>Sidó Éva</author>
+    </authors>
+    <songbooks>
+      <songbook entry="298" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus keres téged: kiválasztott,<br />örül neked, értékel, feladatot adott.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Legyél bátran önmagad, ne félj mit mond más!<br />Legyél te is igazi, ne játssz tovább!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nézz Isten szemébe: ott az igazság.<br />Úgy lehetsz csak igazi, ha Isten jár át!</lines>
+    </verse>
+  </lyrics>
+</song>

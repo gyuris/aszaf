@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Tart még a kegyelem</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="252" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tart még a kegyelem és a szívem örül,<br />Jézus eljött hozzám, rajtam megkönyörült.<br />Kinyújtotta karját, szelíden felemelt,<br />amíg élek, azt a percet nem feledem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyitva áll az ajtó, ma is bejöhetek,<br />a trónteremben várnak, nekem ott a helyem.<br />Jézus mellett élni, ez a legjobb dolog,<br />ugrálok és táncolok, mert szabad vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És velem tapsol és táncol a menny,<br />Jézus győzelméről zengek új éneket.<br />És velem tapsol és táncol a menny,<br />a Bárány dicsőségét hirdetem!</lines>
+    </verse>
+  </lyrics>
+</song>

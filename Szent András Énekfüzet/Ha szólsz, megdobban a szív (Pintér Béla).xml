@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ha szólsz, megdobban a szív</title>
+      <title lang="hu">A forrásnál</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="306" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha szólsz, megdobban a szív, kiszárad a száj<br />Téged akar minden porcikám,<br />Egész lényem vágyik Rád!<br />Úgy, mint egy kisfiú, ki várja,<br />Apja mit hozott egy hosszú út után,<br />Odarohanok Hozzád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A forrásnál szívem inni kér,<br />Élő víz fakad, s ömlik rám.<br />A forrásnál lelkünk összeér,<br />S újra az vagyok, akinek álmodtál!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Élő Kútfő, Áldott Jézus forrásunk Te vagy!<br />Minden élet, minden áldás Belőled fakad.</lines>
+    </verse>
+  </lyrics>
+</song>

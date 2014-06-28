@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T11:33:41">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Hazamegyek</title>
+      <title lang="hu">Hazamegyek</title>
     </titles>
-    <verseOrder>v1 c1</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="51"/>
+      <songbook entry="51" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hazamegyek, ez a világ nem a hazám,<br/>tudom, hogy Ő, Jézus Király, vár énreám!</lines>
+      <lines>Hazamegyek, ez a világ nem a hazám,<br />tudom, hogy Ő, Jézus Király, vár énreám!</lines>
     </verse>
     <verse name="c1">
       <lines>Jöjj el, jöjj el, hát! Jöjj el, Jézus Király!</lines>

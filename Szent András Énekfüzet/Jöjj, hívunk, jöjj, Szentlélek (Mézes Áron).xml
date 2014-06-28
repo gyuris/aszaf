@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jöjj, hívunk, jöjj, Szentlélek</title>
+    </titles>
+    <authors>
+      <author>Mézes Áron</author>
+    </authors>
+    <songbooks>
+      <songbook entry="29" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, hívunk, jöjj, Szentlélek, a szívünkbe áradj,<br />jöjj, hívunk, jöjj, mint folyó, amely túlárad!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy várunk, és kiáltunk,<br />áradj szét, áradj szét, áradj szét!</lines>
+    </verse>
+  </lyrics>
+</song>

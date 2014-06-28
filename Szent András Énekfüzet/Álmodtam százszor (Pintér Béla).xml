@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Álmodtam százszor</title>
+      <title lang="hu">Szükségem van Rád</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="293" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 v3 c2 c3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Álmodtam százszor és elképzeltem,<br />Milyen lesz majd, ha eljössz hozzám.<br />Nyílik az ajtó, ott látlak Téged.<br />Mit mondok majd, hogy nézek Rád?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emlékszem, vártam azon az estén,<br />Hogy halljam hangod, beszélj hozzám.<br />Ajtómnál álltál, csendben zörgettél,<br />Az álmom így vált valósággá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beléptél hozzám, asztalhoz ültünk,<br />Elmondtam szívem minden titkát.<br />Néztem az arcod, megtudtam mindent,<br />Azóta szükségem van Rád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljött a reggel, nálam maradtál,<br />Végigbeszéltük az éjszakát.<br />Maradj itt végleg, ezt kértem Tőled,<br />S te boldogan igent mondtál.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Beléptél hozzám, asztalhoz ültünk,<br />Elmondtam szívem, minden titkát.<br />Néztem az arcod s megtudtam mindent,<br />Azóta szükségem van Rád.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Beléptél hozzám… Nézted az arcom…</lines>
+    </verse>
+  </lyrics>
+</song>

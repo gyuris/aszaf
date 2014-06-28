@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Mindnyájan egy legyenek</title>
+      <title lang="hu">Egy legyenek</title>
+    </titles>
+    <authors>
+      <author type="words">Baricz Bíborka, Csiszér László, Kunszabó Zoltán</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="320" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindnyájan egy legyenek,<br />ahogyan én Tebenned.<br />Ők is legyenek mibennünk, Atyám, eggyé,<br />ahogy Te és én egy vagyunk mindörökké.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én bennük, Te énbennem,<br />hogy teljesen egy legyenek.<br />Az a szeretet, ahogy engem szerettél,<br />ez a szeretet tegye teljesen eggyé.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hús a húsomból,<br />csont a csontomból,<br />egy vagy velem, szövetségesem.<br />Véred véremből,<br />lelked lelkemből,<br />egy vagy velem, szövetségesem.</lines>
+    </verse>
+  </lyrics>
+</song>

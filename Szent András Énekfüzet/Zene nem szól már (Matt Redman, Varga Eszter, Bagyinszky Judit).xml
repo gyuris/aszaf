@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Zene nem szól már</title>
+      <title lang="en">The Heart Of Worship</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+      <author lang="hu" type="translation">Varga Eszter, Bagyinszky Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="273" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1999 Thankyou Music</copyright>
+    <verseOrder>v1 p1 c1 v2 p2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zene nem szól már és minden távol jár,<br />jöhetek Hozzád.<br />Mit is mondhatnék, mit hozhatnék Eléd,<br />mi Neked is érték?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Többet, mint egyszerű dalt, ami halkan elhal,<br />hadd hozzam azt, amit vársz!<br />Tudom, hogy mélyebbre látsz puszta felszínen át,<br />bennem Te kincset találsz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Adj nekem, Uram, imádó szívet,<br />ami csak Rólad szól, mi csak Rólad szól, Jézus!<br />Bocsásd meg, kérlek, hogy mássá tettem, ami csak Rólad szól, csak Rólad szól, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szavak nem tudnák elmondani, Atyám,<br />ami méltó Hozzád.<br />Lehet, semmim nincs, mit adhatnék Neked,<br />fogadd lényemet.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Több ez, mint egyszerű dal, ami halkan elhal,<br />hadd hozzam azt, amit vársz!<br />Tudom, hogy mélyebbre látsz puszta felszínen át,<br />bennem Te kincset találsz!</lines>
+    </verse>
+  </lyrics>
+</song>

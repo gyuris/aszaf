@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Bár a bűnöm végtelen</title>
+    </titles>
+    <authors>
+      <author type="words">Szecsődi Tamás</author>
+      <author type="music">Szabó István</author>
+    </authors>
+    <songbooks>
+      <songbook entry="90" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bár a bűnöm végtelen, s méltán kapnám ítéletem.<br />Irgalmazz nekem, Uram, irgalmazz nekem, Uram,<br />irgalmazz nekem, jó Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár vétettem százszor, kegyelmezz, jó Pásztor!<br />Kegyelmezz nekem, Uram, kegyelmezz nekem, Uram<br />kegyelmezz nekem, jó Uram!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megtérek most Hozzád, fordíts felém orcád!<br />Irgalmazz nekem, Uram, irgalmazz nekem, Uram,<br />irgalmazz nekem, jó Uram.</lines>
+    </verse>
+  </lyrics>
+</song>

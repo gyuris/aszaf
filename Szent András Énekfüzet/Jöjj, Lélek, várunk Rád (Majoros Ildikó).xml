@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jöjj, Lélek, várunk Rád</title>
+      <title lang="hu">Kornéliusz k. himnusz</title>
+    </titles>
+    <authors>
+      <author>Majoros Ildikó</author>
+    </authors>
+    <songbooks>
+      <songbook entry="284" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jöjj, Lélek, várunk Rád!<br />(Jöjj, Lélek, várunk Rád!)<br />Jöjj el pünkösd láng!<br />(Jöjj el pünkösd láng!)<br />Tüzedből, színekből<br />(Tüzedből, színekből)<br />szeretetből, reményből<br />(szeretetből, reményből)<br />új közösséggé formálj.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tégy eggyé, Jézus,<br />Szentlélek, tölts most el,<br />hogy Igédből élve<br />testvérekként nőjünk fel.<br />Megbocsátva szeressünk,<br />imában szolgáljuk egymást,<br />hogy felépüljön a Ház!</lines>
+    </verse>
+  </lyrics>
+</song>

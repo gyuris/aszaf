@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">A szívem áld</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="98" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A szívem áld, ó, szent Bárány,<br />Te vetted át az összes bűnömet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghajtom már a térdemet,<br />Jézus Király, Tenéked énekelek!</lines>
+    </verse>
+  </lyrics>
+</song>

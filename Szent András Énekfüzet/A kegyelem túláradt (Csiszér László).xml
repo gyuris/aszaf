@@ -1,29 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-05T22:24:53">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>A kegyelem túláradt</title>
+      <title lang="hu">A kegyelem túláradt</title>
+      <title lang="hu">Damaszkusz k. himnusz</title>
     </titles>
-    <verseOrder>c1 v1 c1 c2 v2 c1 c2</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="261"/>
+      <songbook entry="261" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>c1 v1 c2 v2</verseOrder>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>A kegyelem túláradt,<br/>s a szívemben hit támadt,<br/>Papám lett az Isten,<br/>s én a Lelke által gyermek.<br/>Nekem az élet Krisztus,<br/>a halál nyereség,<br/>Jézus, én Benned élek<br/>mindörökkön-örökké!</lines>
-    </verse>
-    <verse name="c2">
-      <lines>Prófétává tettél,<br/>s a pogányokhoz küldtél,<br/>hogy hirdessem a szavad,<br/>melyből örök élet fakad.<br/>Az életemnél is drágább,<br/>hogy megtegyem, amit mondtál,<br/>kiáltsam: a megváltásunk ajándék,<br/>és ingyen vár reánk!</lines>
+      <lines>A kegyelem túláradt,<br />s a szívemben hit támadt,<br />Papám lett az Isten,<br />s én a Lelke által gyermek.<br />Nekem az élet Krisztus,<br />a halál nyereség,<br />Jézus, én Benned élek<br />mindörökkön-örökké!</lines>
     </verse>
     <verse name="v1">
-      <lines>A megváltásnak fénye<br/>betört a bűnöm sötétjébe,<br/>mert Őt ki bűnt nem ismert,<br/>Isten bűnné tette értem.<br/>A rabságomnak vége,<br/>a halálom legyőzve,<br/>az Élet él énbennem,<br/>örök élet vár a mennyben.</lines>
+      <lines>A megváltásnak fénye<br />betört a bűnöm sötétjébe,<br />mert Őt ki bűnt nem ismert,<br />Isten bűnné tette értem.<br />A rabságomnak vége,<br />a halálom legyőzve,<br />az Élet él énbennem,<br />örök élet vár a mennyben.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Prófétává tettél,<br />s a pogányokhoz küldtél,<br />hogy hirdessem a szavad,<br />melyből örök élet fakad.<br />Az életemnél is drágább,<br />hogy megtegyem, amit mondtál,<br />kiáltsam: a megváltásunk ajándék,<br />és ingyen vár reánk!</lines>
     </verse>
     <verse name="v2">
-      <lines>Krisztus a szabadságra tett<br/>bennünket szabaddá.<br/>Szerethetjük Istent, most már<br/>minden a javunkra szolgál.<br/>Nem akarok vétkezni már,<br/>hiszen szerelmed ereje átjár,<br/>semmi sem választhat el<br/>Tőled, örök Irgalom!</lines>
+      <lines>Krisztus a szabadságra tett<br />bennünket szabaddá.<br />Szerethetjük Istent, most már<br />minden a javunkra szolgál.<br />Nem akarok vétkezni már,<br />hiszen szerelmed ereje átjár,<br />semmi sem választhat el<br />Tőled, örök Irgalom!</lines>
     </verse>
   </lyrics>
 </song>

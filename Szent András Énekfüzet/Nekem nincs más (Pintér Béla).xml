@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:49:53">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Nekem nincs más</title>
+      <title lang="hu">Nekem nincs más</title>
+      <title lang="hu">Hús-vér templom</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Pintér Béla</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="271"/>
+      <songbook entry="271" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Nekem nincs más Rajtad kívül, Jézus,<br/>életem forrása vagy,<br/>kézzel, lábbal, szívvel, szájjal</lines>
+      <lines>Nekem nincs más Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, szívvel, szájjal</lines>
     </verse>
     <verse name="v1">
-      <lines>Ez a hús-vér templom<br/>Érted épült,<br/>Neked ég a tűz<br/>bent oltárainál.<br/>dicsérlek, Uram!</lines>
+      <lines>Ez a hús-vér templom<br />Érted épült,<br />Neked ég a tűz<br />bent oltárainál.<br />dicsérlek, Uram!</lines>
     </verse>
     <verse name="v2">
-      <lines>Ez a hús-vér templom Téged dicsér,<br/>szívem minden húrja Rólad muzsikál.</lines>
+      <lines>Ez a hús-vér templom Téged dicsér,<br />szívem minden húrja Rólad muzsikál.</lines>
     </verse>
   </lyrics>
 </song>

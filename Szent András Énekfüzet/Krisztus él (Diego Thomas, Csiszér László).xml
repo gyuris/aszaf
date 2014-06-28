@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Krisztus él</title>
+      <title>¡Cristo vive!</title>
+    </titles>
+    <authors>
+      <author type="words">Diego Thomas</author>
+      <author type="music">Verbo Ministries</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="22" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus él!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az örök életem, Jézus, Te adtad,<br />úgy imádlak és áldlak!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krisztus él! Krisztus él! Krisztus bennem is él!<br />Krisztus él! Krisztus él! Krisztus közöttünk él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A megújult életem, Jézus, Te adtad,<br />és én hirdetni akarlak!</lines>
+    </verse>
+  </lyrics>
+</song>

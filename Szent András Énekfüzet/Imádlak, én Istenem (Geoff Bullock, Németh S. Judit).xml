@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Imádlak, én Istenem</title>
+      <title lang="en">I'll Worship You</title>
+    </titles>
+    <authors>
+      <author>Geoff Bullock</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="66" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Maranatha! Music, Word Music, LLC</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak, én Istenem,<br />szívemből szól új énekem.<br />Szereteted megragadott,<br />trónod elé leborulok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imádlak szívemből és teljes erőmből,<br />közelséged oly jó nekem, Uram.<br />Imádlak, imádlak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szavam kevés, hogy elmondjam,<br />csodálatos az én Uram!<br />Kend fel ajkam friss kenettel,<br />hogy dicsérjen szent örömmel.</lines>
+    </verse>
+  </lyrics>
+</song>

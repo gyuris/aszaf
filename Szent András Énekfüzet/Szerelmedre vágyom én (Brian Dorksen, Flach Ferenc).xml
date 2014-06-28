@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szerelmedre vágyom én</title>
+      <title lang="hu">Gyújtsd meg újra tüzed</title>
+      <title lang="en">Light The Fire Again</title>
+    </titles>
+    <authors>
+      <author>Brian Dorksen</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="177" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing, Vineyard Songs Canada</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szerelmedre vágyom én, kiáltok:<br />„Gyújtsd meg újra tüzed!"<br />Az álmom csak Benned él, kiáltok:<br />„Gyújtsd meg újra tüzed!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd a szívem, tetteim, kiáltok:<br />„Gyújtsd meg újra tüzed!"<br />Vezessenek karjaid, kiáltok:<br />„Gyújtsd meg újra tüzed!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent tűz járja át szívem aranyát,<br />szegényen, vakon jövök Hozzád.<br />Küldd el a Lelked, és újítsd meg életem!<br />Gyújtsd meg hát szent tüzed!</lines>
+    </verse>
+  </lyrics>
+</song>

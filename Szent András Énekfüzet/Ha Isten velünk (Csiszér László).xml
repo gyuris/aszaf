@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T10:57:36">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Ha Isten velünk</title>
+      <title lang="hu">Ha Isten velünk</title>
     </titles>
-    <verseOrder>c1 v1 v2 e1</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="122"/>
+      <songbook entry="122" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>c1 v1 v2 e1</verseOrder>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Ha Isten velünk, ki ellenünk,<br/>hát hogyne adna mindent nekünk.</lines>
+      <lines>Ha Isten velünk, ki ellenünk,<br />hát hogyne adna mindent nekünk.</lines>
     </verse>
     <verse name="v1">
-      <lines>Fiadat adtad értem, Atyám,<br/>életét nem kímélted,<br/>engem kért a halál magának,<br/>de Fiad halt helyettem.</lines>
+      <lines>Fiadat adtad értem, Atyám,<br />életét nem kímélted,<br />engem kért a halál magának,<br />de Fiad halt helyettem.</lines>
     </verse>
     <verse name="v2">
-      <lines>Ki lenne az, ki vádolna engem,<br/>ki az, ki kárhoztatna,<br/>talán a Krisztus, ki meghalt értem?</lines>
+      <lines>Ki lenne az, ki vádolna engem,<br />ki az, ki kárhoztatna,<br />talán a Krisztus, ki meghalt értem?</lines>
     </verse>
     <verse name="e1">
       <lines>Dicsőség szent nevének!</lines>

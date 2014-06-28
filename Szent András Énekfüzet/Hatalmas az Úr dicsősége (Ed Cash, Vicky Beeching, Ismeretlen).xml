@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Hatalmas az Úr dicsősége</title>
+      <title lang="en">Great Is Your Glory</title>
+    </titles>
+    <authors>
+      <author>Ed Cash, Vicky Beeching</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="265" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2007 Thankyou Music, Wondrously Made Songs</copyright>
+    <verseOrder>c1 v1 v2 v3 v4 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hatalmas az Úr dicsősége örökké,<br />hatalmas az Úr dicsősége.<br />Teljes szívből éneklem<br />a mindenség Urának,<br />hatalmas dicsősége!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istenként értem adta életét. Ámen! Ámen!<br />Emberként testben harcolt az emberért. Ámen! Ámen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kínhalál után újra él! Ámen! Ámen!<br />Atyja jobbján dicsőségben ül. Ámen! Ámen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bűnbe tette bűntelen kezét. Ámen! Ámen!<br />De szögek nem tarthatták vissza Őt! Ámen! Ámen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És most Istenünk kegyelme árad ránk. Ámen! Ámen!<br />Halleluja, újra visszajön! Ámen! Ámen!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Te vagy az Úr, aki volt!<br />Te vagy az Úr, aki van!<br />Te vagy az Úr, aki eljön majd!</lines>
+    </verse>
+  </lyrics>
+</song>

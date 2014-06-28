@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Istenünk, szent vagy</title>
+      <title lang="en">Our God Is Holy</title>
+    </titles>
+    <authors>
+      <author>Don Potter</author>
+      <author lang="hu" type="translation">Debreceni István</author>
+    </authors>
+    <songbooks>
+      <songbook entry="137" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1996 EagleStar Productions</copyright>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenünk, szent vagy, szent és hatalmas,<br />Istenünk, szent vagy!<br />Nyújtsd hát a kezed felénk,<br />érints meg a mennyekből!<br />Küldd el szent seregedet,<br />hozz a földre ébredést!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igaz és szent vagy, szent és hatalmas,<br />igaz és szent vagy!<br />Ítéljen igazságoddal<br />hatalmas jobb kezed.<br />Törd meg az ellenség hatalmát,<br />erődet szabadítsd fel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erős Urunk vagy, szent és hatalmas,<br />erős Urunk vagy!<br />Minden bálvány porba hull előtte,<br />hirdessük hát hatalmát!<br />Bátran vallja minden nyelv,<br />méltó, méltó a Bárány!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Istenünk méltó, hatalmas és jó,<br />Istenünk méltó!</lines>
+    </verse>
+  </lyrics>
+</song>

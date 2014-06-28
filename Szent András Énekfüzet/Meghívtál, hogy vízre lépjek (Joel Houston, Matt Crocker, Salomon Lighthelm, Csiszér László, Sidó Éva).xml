@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Meghívtál, hogy vízre lépjek</title>
+      <title lang="en">Oceans</title>
+    </titles>
+    <authors>
+      <author>Joel Houston, Matt Crocker, Salomon Lighthelm</author>
+      <author lang="hu" type="translation">Csiszér László, Sidó Éva</author>
+    </authors>
+    <songbooks>
+      <songbook entry="309" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2012 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meghívtál, hogy vízre lépjek,<br />hol Nélküled elsüllyedek.<br />Ebben megtalállak Téged,<br />a mélységben megtart hitem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nagy Neved hívom én, és felnézek a vizek fölé.<br />Ott látlak én, a lelkem Benned megpihen.<br />Enyém vagy és én Tied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mélységnél nagyobb kegyelmed,<br />mely elvezet és tart engem.<br />Ha elbuknék és nagyon félnék,<br />Te nem hagysz el, nem inogsz meg.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lélek add, hogy Benned teljesen megbízzak,<br />A vízen bátran Veled járjak, bárhová hívsz, menjek.<br />Vigyél tovább, mint a lábam tudna menni.<br />Taníts teljes hittel járni, jelenlétedben élni.</lines>
+    </verse>
+  </lyrics>
+</song>

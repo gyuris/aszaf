@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szép vagy, Jézus</title>
+    </titles>
+    <authors>
+      <author>Csiszér László, Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="312" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szép vagy, Jézus,<br />szent arcodban gyönyörködöm.<br />Benned teljes az öröm,<br />vágyom, hogy szívem eltöltsd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szép vagy, Jézus,<br />békesség árad lényedből.<br />Nem félek most már semmitől.<br />Követlek teljes szívemből.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hófehér szent ruhádon ragyog a fény.<br />Te rajtad látom az Atya dicsőségét.<br />Kitárom teljes szívem, élj bennem,<br />szentséged átjárja az életemet.</lines>
+    </verse>
+  </lyrics>
+</song>

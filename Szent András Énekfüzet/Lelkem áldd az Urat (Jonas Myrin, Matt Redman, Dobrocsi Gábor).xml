@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Lelkem áldd az Urat</title>
+      <title lang="en">10,000 Reasons</title>
+    </titles>
+    <authors>
+      <author>Jonas Myrin, Matt Redman</author>
+      <author lang="hu" type="translation">Dobrocsi Gábor</author>
+    </authors>
+    <songbooks>
+      <songbook entry="287" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2011 Said And Done Music, SHOUT! Music Publishing, sixsteps Music, Thankyou Music, worshiptogether.com songs</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lelkem, áldd az Urat, áldd az Urat,<br />Egyedül Őt imádd!<br />Zengj úgy, mint soha még, Őt dicsérd!<br />A lelkem csak Téged áld!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy új nap kél, és már ébred minden,<br />Itt az idő, hogy áldjalak,<br />És bármi ér, bármit rejt az út előttem,<br />Hadd zengjek este is majd hálával.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmed nagy, és türelmed hosszú,<br />Szerelmed mély, és az égig ér,<br />Nem szűnök énekelni jóságodról,<br />Tízezer okom van, hogy zengjek még.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És egy nap majd ez a test elgyengül,<br />Erőm elhagy, s utam véget ér,<br />A lelkem mégis téged áld vég nélkül:<br />Tízezer évig és mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

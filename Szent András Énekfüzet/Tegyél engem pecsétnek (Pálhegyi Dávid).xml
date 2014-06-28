@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Tegyél engem pecsétnek</title>
+      <title lang="hu">Lángok</title>
+    </titles>
+    <authors>
+      <author>Pálhegyi Dávid</author>
+    </authors>
+    <songbooks>
+      <songbook entry="155" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tegyél engem pecsétnek, tegyél a karodra,<br />legyek pecsét örökké szívedre forrasztva!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erősebb e szeretet a kínhalálnál,<br />és e buzgó szerelem keményebb a sírnál!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert e lángok, e lángok, mint a tűz lángjai,<br />érted égnek, csak érted égnek az Úrnak lángjai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tenger el nem borítja, sok víz el nem oltja,<br />Istenemnek szerelmét sok kincs nem pótolja.</lines>
+    </verse>
+  </lyrics>
+</song>

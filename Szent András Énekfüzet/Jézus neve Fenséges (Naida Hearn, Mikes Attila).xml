@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jézus neve Fenséges</title>
+      <title lang="en">Jesus Name Above All Names</title>
+    </titles>
+    <authors>
+      <author>Naida Hearn</author>
+      <author lang="hu" type="translation">Mikes Attila</author>
+    </authors>
+    <songbooks>
+      <songbook entry="175" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1974, 1978 Scripture In Song</copyright>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus neve Fenséges,<br />Drága Megváltó, Nagy Alkotó,<br />Emmánuel, nem hagy Ő el, Igéje áldott, élő Szó.</lines>
+    </verse>
+  </lyrics>
+</song>

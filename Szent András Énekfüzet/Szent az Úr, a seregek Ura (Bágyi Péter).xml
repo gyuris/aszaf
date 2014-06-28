@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szent az Úr, a seregek Ura</title>
+    </titles>
+    <authors>
+      <author>Bágyi Péter</author>
+    </authors>
+    <songbooks>
+      <songbook entry="89" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1 c1 v2 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Szent az Úr, a seregek Ura,<br />méltó, hogy dicsérjük Őt, Királyunkat!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A remény megmarad bennünk,<br />a hitünkről vallást teszünk,<br />és hirdetjük, Jézus a Krisztus!<br />Őt követjük, Vele megyünk, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A gonosszal szembeszállunk,<br />erőt az Úr ad nekünk,<br />és hűséggel kitartunk végig,<br />s a mennyben majd Vele leszünk, halleluja</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ő a nagy Király! Ő csak egyedül méltó!<br />Dicsérjük Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

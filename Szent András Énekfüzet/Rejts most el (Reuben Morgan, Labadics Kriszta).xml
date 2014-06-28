@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Rejts most el</title>
+      <title lang="en">Still</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Labadics Kriszta</author>
+    </authors>
+    <songbooks>
+      <songbook entry="227" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2002 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejts most el a szárnyad alá,<br />erős kézzel takarj be engem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tenger tombol, zúg, süvít a szél,<br />Te emelsz fel a vihar fölé,<br />uralkodsz hullámok habjain,<br />szívem nem fél, Benned remél!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak Istenben bízz, én lelkem,<br />mert Ő él és nagyobb mindennél!</lines>
+    </verse>
+  </lyrics>
+</song>

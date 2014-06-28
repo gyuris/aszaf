@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Az élet hajnalán</title>
+      <title lang="hu">Jöjj ma Atyádhoz</title>
+      <title lang="en">So You Would Come</title>
+    </titles>
+    <authors>
+      <author>Russel Fragar</author>
+      <author lang="hu" type="translation">Batta Katalin</author>
+    </authors>
+    <songbooks>
+      <songbook entry="165" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1996 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet hajnalán már gondolt rád Atyád,<br />Ő tudja jól, ha sírsz, hát ne szégyelld, ha fáj,<br />mert úgy szeretett Isten, hogy egyszülött Fiát<br />érted áldozta, jöjj ma Hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmit sem tehetsz, hogy jobban szeressen,<br />és bármit is tettél, ne félj, Ő nem küld el.<br />Mert úgy szeretett Isten, hogy egyszülött Fiát<br />érted áldozta, jöjj ma Hozzá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj ma Atyádhoz, bárhogyan is állsz,<br />összetört életed add Neki ma át!<br />A halál óráján így szólt a Golgotán:<br />„Elvégeztetett!" - Jöjj ma Hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

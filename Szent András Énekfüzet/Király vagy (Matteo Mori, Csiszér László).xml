@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Király vagy</title>
+      <title>Tu sei Re!</title>
+    </titles>
+    <authors>
+      <author>Matteo Mori</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="13" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 Új Jeruzsálem Közösség</copyright>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Király vagy,<br />Király vagy,<br />Jézus Király!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most felemeljük a szívünket,<br />most felemeljük kezeinket,<br />trónod elé járulunk, imádva légy!</lines>
+    </verse>
+  </lyrics>
+</song>

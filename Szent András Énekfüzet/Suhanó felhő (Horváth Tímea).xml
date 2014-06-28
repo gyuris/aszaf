@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Suhanó felhő</title>
+    </titles>
+    <authors>
+      <author>Horváth Tímea</author>
+    </authors>
+    <songbooks>
+      <songbook entry="73" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Suhanó felhő, puha, lágy szellő,<br />érzem, itt vagy, tudom, hogy itt vagy,<br />lehajtom fejem, hangod figyelem,<br />szólj, Szent Szellem, taníts engem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sebem begyógyul, könnyem már nem hull,<br />örömöt adtál, befogadtál.<br />A bánat elröpül, sok gond eltörpül,<br />vakon követlek, mint egy gyermek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vezess hát tovább, egész életemen át,<br />úgy vágyom, vágyom Terád!<br />Nekem bárhogy jössz, úgy jó,<br />lehetsz tűz, vagy hűs folyó,<br />nekem csakis, csakis Veled jó!</lines>
+    </verse>
+  </lyrics>
+</song>

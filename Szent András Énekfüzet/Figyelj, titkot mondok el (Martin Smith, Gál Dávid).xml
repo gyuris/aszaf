@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Figyelj, titkot mondok el</title>
+      <title lang="en">Jesus' Blood</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+      <author lang="hu" type="translation">Gál Dávid</author>
+    </authors>
+    <songbooks>
+      <songbook entry="275" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2000 Curious? Music UK</copyright>
+    <verseOrder>v1 p1 c1 v2 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Figyelj, titkot mondok el, a szeretet titkát,<br />szívem mélye rejti el, életem ez formálta át.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Halleluja, örök Királyom, társam, Megváltóm!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Értem folyt ki a vére, értem folyt ki a vére,<br />értem folyt ki a vére, vére folyt, értem folyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Titkom halkan terjed el,<br />eléri a világ négy sarkát,<br />minden férfi, minden nő<br />feltartja szétszakadt láncát.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szabad ének zengjen, dicsérd Őt a mennyel,<br />szeret, megtart téged, vére folyt, érted folyt!</lines>
+    </verse>
+  </lyrics>
+</song>

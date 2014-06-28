@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Igazságban, szellemben</title>
+      <title lang="en">I Will Offer Up My Life</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+      <author lang="hu" type="translation">Matt Edwards</author>
+    </authors>
+    <songbooks>
+      <songbook entry="100" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Thankyou Music</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igazságban, szellemben életem átadom,<br />szerelmemnek olaját s teljes hódolatom,<br />mindent átadok Neked, fogadd el, Istenem,<br />oltárodra hadd tegyem, itt van megtört szívem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, hű jó barát, mondd, mit adhatok?<br />Szerető nagy Király, vajon mit hozhatok?<br />Mit mondhatnék Neked, miről szóljon dalom?<br />Neved dicséretét hozom ajkaimon.<br />Hálám elmondani minden szó szegény,<br />hiszen oly nagy szeretettel tartozom Neked én!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Értem adtad életed, Tiéd vagyok ma már,<br />meghaltál a keresztfán, ez volt értem az ár.<br />Ott győzted le bűneim, lemostad szégyenem,<br />a mennybe ajtót nyitottál és behívtál engem.</lines>
+    </verse>
+  </lyrics>
+</song>

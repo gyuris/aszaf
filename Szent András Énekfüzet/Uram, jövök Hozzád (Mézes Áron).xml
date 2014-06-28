@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Uram, jövök Hozzád</title>
+      <title lang="hu">Ima a magyar népért</title>
+    </titles>
+    <authors>
+      <author>Mézes Áron</author>
+    </authors>
+    <songbooks>
+      <songbook entry="230" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, jövök Hozzád e nemzetért,<br />a magyar népért könyörgök.<br />Add, hogy megtaláljon Téged,<br />s megláthasson a problémák között!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bocsásd meg vétkeinket!<br />Gyógyítsd meg sebeinket!<br />Szentlélek, söpörj végig az országon,<br />hozd az ébredést és a felüdülést!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hozd a gyógyulást és a szabadulást!</lines>
+    </verse>
+  </lyrics>
+</song>

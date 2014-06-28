@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Hallgasd meg, kérlek, imám</title>
+      <title lang="hu">Semmi sem szebb nevednél</title>
+      <title lang="fr">Je veux n'être qu'à Toi</title>
+    </titles>
+    <authors>
+      <author>Chris Christensten, Thierry Ostrini</author>
+      <author lang="hu" type="translation">(Chemin Neuf Közösség)</author>
+    </authors>
+    <songbooks>
+      <songbook entry="324" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 v3 v4 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgasd meg, kérlek, imám, Istenem,<br />Neved eltéved lelkemnek békét üzen.<br />Csak terád vágyom én, imádlak, Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérlek, fogadd el a vakságomat,<br />hiszen oly gyakran nem látom oltalmadat.<br />Csak terád vágyom én, imádlak, Jézus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Semmi sem szebb Nevednél,<br />nincs szentebb üdvöt hozó vérednél.<br />Csak terád vágyom én, Uram, Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add meg, Uram, hogy dicsérhesselek,<br />azt, hogy áldhassam hűséged és szent Neved.<br />Csak terád vágyom én, imádlak, Jézus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gondom kereszted tövéhez teszem,<br />ahol megtisztul szívem, mert nálad pihen.<br />Csak terád vágyom én, imádlak, Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

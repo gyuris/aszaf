@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Teljes lényem Téged áld</title>
+      <title lang="en">Sing Of Your Great Love</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="269" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1999 Wondrous Worship</copyright>
+    <verseOrder>v1 v2 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teljes lényem Téged áld,<br />dicséri szent neved,<br />csak Rólad szól az egész életem.</lines>
+      <lines>Kihoztál a sötétből,<br />a fényed bennem ég,<br />szerelmed éneklem örökké,<br />szerelmed éneklem örökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőséged lássa meg<br />minden nemzet, nép,<br />színed előtt hajtsa meg térdét.</lines>
+      <lines>Jézus, kérlek, olvaszd fel<br />a dermedt szíveket,<br />hogy megízleljék békéd, szereteted,<br />hogy megízleljék békéd, szereteted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy, Uram!<br />Szent vagy, szent vagy, szent vagy, Uram!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És a kürtök felzúgnak,<br />és a menny majd meglátja,<br />hogy eljött már az óra,<br />hol a Menyasszony vár rá,<br />az ő helyén, és meghalljuk<br />az angyalok énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

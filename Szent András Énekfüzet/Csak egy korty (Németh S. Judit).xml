@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Csak egy korty</title>
+    </titles>
+    <authors>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="116" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Csak egy korty az Úr vizéből,<br />egy villanás dicsőségéből,<br />és megtelsz új élettel,<br />egészen más emberré leszel.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsérjük hát a mennyei Atyát és az egyszülött Fiát<br />ó, Szentlélek, jöjj tüzeddel, amely szüntelen lobog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te gyógyító érintésed járja át bensőnket!<br />s ahogy Téged szemlélünk, Urunk,<br />minden újjá lesz bennünk.</lines>
+    </verse>
+  </lyrics>
+</song>

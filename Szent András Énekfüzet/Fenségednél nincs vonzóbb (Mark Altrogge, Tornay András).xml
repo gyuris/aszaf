@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Fenségednél nincs vonzóbb</title>
+      <title lang="en">I Stand in Awe</title>
+    </titles>
+    <authors>
+      <author>Mark Altrogge</author>
+      <author lang="hu" type="translation">Tornay András</author>
+    </authors>
+    <songbooks>
+      <songbook entry="118" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1987 Sovereign Grace Praise</copyright>
+    <verseOrder>v1 b1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fenségednél nincs vonzóbb e földön,<br />se dal, se szó, se kép,<br />és nem találnék Nálad szebbet,<br />bármerre is indulnék.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Benned van a szeretet fénye,<br />csak Te vagy az egyetlen út.<br />Benned ott találok minden választ,<br />nagy Király és győztes Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most csak nézlek és csodállak, tiszta szívből áldlak,<br />minden tisztelet csak Hozzád száll,<br />imádlak, hű Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

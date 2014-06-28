@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Minden nép Hozzád kiált</title>
+      <title lang="en">God Is Great</title>
+    </titles>
+    <authors>
+      <author>Marty Sampson</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="214" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2001 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 v3 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden nép Hozzád kiált,<br />szellemben és igazságban áld,<br />dicsőség a Királynak, az Isten Fiának!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden nemzet meghajol,<br />Hozzád jön, Eléd borul,<br />nincsen Rajtad kívül más, Te vagy a nagy Király!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felmagasztaljuk Neved,<br />itt ég bennünk szent tüzed,<br />Jézus, tanítsd népedet,<br />hogy halljunk, lássunk mindnyájan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten jó megtartó, hűséges, erős harcos,<br />nagyszerű, mindenben tökéletes,<br />az Úr tökéletes!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szent vagy, Istenünk, a szívem így énekel!<br />Szent vagy, Istenünk, a házam népe így énekel!<br />Szent vagy, Istenünk, a városunk így énekel!<br />Szent vagy, Istenünk, az egész Föld így énekel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szent, szent, szent a Seregek</title>
+    </titles>
+    <authors>
+      <author>(Signum)</author>
+    </authors>
+    <songbooks>
+      <songbook entry="305" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br />végtelen felettünk hatalma,<br />mégis úgy néz le ránk, mint a pásztor nyájára,<br />hallja népét, mindig figyel a szavára.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott légy, Uram áldott légy, mindezért,<br />vezess el országodba angyalaid közé.<br />Ó vezess át angyalaid közé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br />elkísér egy életen oltalma.<br />Bennem él, benned él, hisz Ő a szívek királya,<br />nincsen országának sehol határa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br />hidd el, véget nem ér irgalma.<br />Hangja szól az éjen át, minden vétket megbocsát,<br />hogyha eltaszítod Őt, akkor is vár Rád.</lines>
+    </verse>
+  </lyrics>
+</song>

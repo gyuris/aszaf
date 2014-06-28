@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Csak Tiéd a legelső hely</title>
+      <title lang="en">Highest Place</title>
+    </titles>
+    <authors>
+      <author>Ramon Pink</author>
+      <author lang="hu" type="translation">Harkai Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook entry="197" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1983 Scripture In Song</copyright>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Tiéd a legelső hely,<br />mert Te, Te vagy a hű Főpap,<br />rangod magasabb minden rangnál,<br />trónodhoz jövünk, imádunk, szent Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

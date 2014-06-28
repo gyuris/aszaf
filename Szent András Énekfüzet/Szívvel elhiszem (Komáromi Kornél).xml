@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Szívvel elhiszem</title>
+    </titles>
+    <authors>
+      <author>Komáromi Kornél</author>
+    </authors>
+    <songbooks>
+      <songbook entry="244" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívvel elhiszem, szájjal megvallom,<br />hogy Jézus Krisztus Úr.<br />Nem hallgatok, mert jól tudom,<br />igen, él a Megváltóm!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincsen távol, nem rejtőzik el,<br />keze nyújtva van felém.<br />Válaszol, ha hívom Őt,<br />ezért megvallom nevét,<br />igen, én hirdetem nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Leteszem az életem</title>
+      <title lang="hu">Nincs más</title>
+      <title lang="en">One Way</title>
+    </titles>
+    <authors>
+      <author>Joel Houston, Jonathon Douglass</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="300" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2003 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leteszem az életem, csak Te vagy az egyetlen.<br />Minden percben szükségem van Rád.<br />Futok hozzád minden nap, tudom jól, Te el nem hagysz.<br />Te vagy minden, amiről álmodtam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincs más, csak Jézus.<br />Ő az, akiért a szívem dobban.<br />Nincs más, csak Jézus.<br />Ő az, akiért a szívem dobban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy minden mindenben, Te vagy Úr a szívemben.<br />Bármit nézek, szemem téged lát.<br />Soha meg nem változol, Te uralkodsz mindenhol.<br />Te vagy egyedül a hatalmas Király!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Te vagy az Út, Te vagy a cél.<br />Hitben járok, futok a győzelemért.<br />A szívem érted ég.</lines>
+    </verse>
+  </lyrics>
+</song>

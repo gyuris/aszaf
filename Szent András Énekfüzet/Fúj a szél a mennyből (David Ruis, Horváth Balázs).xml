@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Fúj a szél a mennyből</title>
+      <title lang="en">Sweet Wind</title>
+    </titles>
+    <authors>
+      <author>David Ruis</author>
+      <author lang="hu" type="translation">Horváth Balázs</author>
+    </authors>
+    <songbooks>
+      <songbook entry="39" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing, Vineyard Songs Canada</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fúj a szél a mennyből át a földeken,<br />friss, üdítő szellő újra fújni kezd.<br />Nem tudom, honnan jön, és hogy merre tart,<br />csak fújjon rajtam át!<br />Ó, friss szél, fújj most rajtam át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott felhők gyűlnek a száraz föld felett,<br />drága égi zápor újra hullni kezd.<br />Fordítsd arcod a mennybe, tárd ki két kezed,<br />hadd áztasson el!<br />Ó, lágy eső, jöjj, és áztass el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tűz száll ránk az égből, az Úrnak Szelleme,<br />újra lángra gyújtja az első szeretetet.<br />Tartsd a szíved készen, mint egy égő áldozat,<br />engedd, hogy égjen a láng!<br />Ó, drága tűz, forrósíts ma át!</lines>
+    </verse>
+  </lyrics>
+</song>

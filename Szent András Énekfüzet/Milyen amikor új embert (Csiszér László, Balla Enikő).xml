@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Milyen amikor új embert</title>
+      <title lang="hu">Gyere, ismerd meg a Megváltót</title>
+    </titles>
+    <authors>
+      <author>Csiszér László, Balla Enikő</author>
+    </authors>
+    <songbooks>
+      <songbook entry="288" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milyen amikor új embert ismersz meg?<br />Milyen, ha várod a szerelmed?<br />Milyen, amikor találkozol vele?<br />Ugye szeretnéd ha Isten is így tenne?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten meghívott ma is téged.<br />Gyere, ismerd meg a szeretetet!<br />Találkozz azzal, aki megteremtett.<br />Gyere, ismerd meg a szeretetet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyere, ismerd meg a Megváltót!<br />Gyere, ismerd meg, aki megváltott!<br />Jöjj és lásd meg, hol lakik az Isten!<br />Gyere, ismerd meg személyesen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Krisztus új életre hív ma,<br />hittel válaszolj az Ő szavára.<br />Itt van végre a találkozásod napja,<br />nála jobban senki sem akarja.</lines>
+    </verse>
+  </lyrics>
+</song>

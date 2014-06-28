@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T10:11:25">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Én még mit sem tudtam</title>
+      <title lang="hu">Én még mit sem tudtam</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Pintér Béla</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="149"/>
+      <songbook entry="149" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Én még mit sem tudtam Rólad, Te már akkor szerettél,<br/>anyám méhétől fogva rám gondot viseltél.<br/>A magam útját jártam, mikor szelíden hívtál,<br/>a szívemre beszéltél, és megváltoztattál.</lines>
+      <lines>Én még mit sem tudtam Rólad, Te már akkor szerettél,<br />anyám méhétől fogva rám gondot viseltél.<br />A magam útját jártam, mikor szelíden hívtál,<br />a szívemre beszéltél, és megváltoztattál.</lines>
     </verse>
     <verse name="c1">
-      <lines>Jézus, Te vagy minden álmom,<br/>éjszakám és nappalom,<br/>Te vagy igaz szó a számban,<br/>az én hajnalcsillagom.<br/>Jézus, Te vagy minden kincsem,<br/>sokat jelentesz nekem.<br/>Köszönöm, hogy minden nap<br/>megtart a kegyelem!</lines>
+      <lines>Jézus, Te vagy minden álmom,<br />éjszakám és nappalom,<br />Te vagy igaz szó a számban,<br />az én hajnalcsillagom.<br />Jézus, Te vagy minden kincsem,<br />sokat jelentesz nekem.<br />Köszönöm, hogy minden nap<br />megtart a kegyelem!</lines>
     </verse>
     <verse name="v2">
-      <lines>Engedd meg, hogy mindig itt maradjak lábaid előtt,<br/>nézhesselek Téged és nyerjek új erőt.<br/>Meggyógyul a lelkem, megváltozik életem,<br/>ha jelenlétedben ruhádat megérinthetem.</lines>
+      <lines>Engedd meg, hogy mindig itt maradjak lábaid előtt,<br />nézhesselek Téged és nyerjek új erőt.<br />Meggyógyul a lelkem, megváltozik életem,<br />ha jelenlétedben ruhádat megérinthetem.</lines>
     </verse>
   </lyrics>
 </song>

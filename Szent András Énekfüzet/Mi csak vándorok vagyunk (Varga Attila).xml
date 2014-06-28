@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Mi csak vándorok vagyunk</title>
+    </titles>
+    <authors>
+      <author>Varga Attila</author>
+    </authors>
+    <songbooks>
+      <songbook entry="28" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi csak vándorok vagyunk itt a földön,<br />vándorként éljük életünk,<br />és a szívünk úgy vágyik égi hazánkba,<br />Jézushoz, mert Ő az Úr.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldunk Téged, imádunk Téged,<br />mert szent kereszted által<br />megváltottad a világot!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És ha földi sátrunk egyszer összedől,<br />s az életünk majd véget ér,<br />az angyaloknak kórusához társul énekünk,<br />s a szentekkel zengjük örökké:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Bemegyek a Szentek</title>
+      <title lang="en">For Your Name is Holy</title>
+    </titles>
+    <authors>
+      <author>Jim Cowan</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="259" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1999 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bemegyek a Szentek Szentjébe,<br />bemegyek a Bárány vérén át.<br />Bemegyek, csak Téged dicsérlek,<br />bemegyek, hogy hódoljak Neked.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, dicsérlek, dicsérlek,<br />Uram, dicsérlek, dicsérlek!<br />Neved áldom, szent, szent Uram,<br />Neved áldom, szent, szent Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

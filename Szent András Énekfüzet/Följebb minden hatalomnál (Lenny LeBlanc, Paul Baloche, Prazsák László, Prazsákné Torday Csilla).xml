@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Följebb minden hatalomnál</title>
+      <title lang="en">Above All</title>
+    </titles>
+    <authors>
+      <author>Lenny LeBlanc, Paul Baloche</author>
+      <author lang="hu" type="translation">Prazsák László, Prazsákné Torday Csilla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="216" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1999 Integrity's Hosanna! Music, LenSongs Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Följebb minden hatalomnál,<br />följebb minden teremtett dolognál,<br />bölcsességnél és emberi tudásnál,<br />Te előbb léteztél a világnál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Följebb minden királyságnál,<br />följebb minden drága ragyogásnál,<br />gazdagságnál és földi kincseknél,<br />a Te értéked nagyobb mindennél.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szenvedtél fönn, a keresztfán,<br />azért éltél, hogy értem meghaljál.<br />Mint rózsaszál a sárba taposva,<br />Te bűnhődtél helyettem, ó, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

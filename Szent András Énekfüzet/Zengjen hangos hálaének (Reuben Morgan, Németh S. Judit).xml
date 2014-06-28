@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Zengjen hangos hálaének</title>
+      <title lang="en">Hear Our Praises</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="213" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1998 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjen hangos hálaének,<br />szívünket töltse be öröm!<br />Ujjongjunk az Ő győzelmének,<br />Jézusnak hódoljon a föld!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A hegyekről, sík mezőkről<br />új dal száll fel az ég felé!<br />És a Mennyből kürtszó zendül,<br />együtt áldjuk szent Nevét, szent Nevét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felragyog világosságod,<br />igazságod, mint a dél,<br />békességed, mint folyó árad,<br />Úr s Király vagy örökké!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Halleluja! Halleluja! Halleluja! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

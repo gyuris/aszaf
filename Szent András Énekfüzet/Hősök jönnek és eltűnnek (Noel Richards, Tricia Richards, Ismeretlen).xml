@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Hősök jönnek és eltűnnek</title>
+      <title lang="en">Champion</title>
+    </titles>
+    <authors>
+      <author>Noel Richards, Tricia Richards</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="207" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Thankyou Music</copyright>
+    <verseOrder>v1 c1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hősök jönnek és eltűnnek, de Jézus örök példakép.<br />Ő a Királyok Királya, Urak hatalmas Ura.<br />Mégis úgy jött, mint egy szolga,<br />értünk adta életét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Köszöntse minden nép a győztesek Győztesét,<br />Előtte hódol az egész világ!<br />Köszöntse minden nép a győztesek Győztesét,<br />Előtte hódol mindaz, ki él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Mindenség Ura a hősünk, megtöri a bűn bilincsét.<br />Mennyei ragyogás árad, szűnik már a sötétség.<br />Győztes harcba vezet minket,<br />kardján megcsillan a fény!</lines>
+    </verse>
+  </lyrics>
+</song>

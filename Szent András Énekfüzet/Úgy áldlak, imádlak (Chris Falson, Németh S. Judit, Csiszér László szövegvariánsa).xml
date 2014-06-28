@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Úgy áldlak, imádlak</title>
+      <title lang="en">All Honour</title>
+    </titles>
+    <authors>
+      <author>Chris Falson</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="243" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1990 Maranatha Praise, Inc.</copyright>
+    <verseOrder>i1 v1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy áldlak, imádlak, szeretlek, ó, Uram!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mennyei Atyánk, dicsőítünk,<br />drága Bárány, Tiéd életünk!<br />Szentlélek, töltsd be szívünk,<br />Szentlélek, töltsd be szívünk,<br />Szentlélek, töltsd be szívünk,<br />friss tűzzel, friss tűzzel!</lines>
+    </verse>
+  </lyrics>
+</song>

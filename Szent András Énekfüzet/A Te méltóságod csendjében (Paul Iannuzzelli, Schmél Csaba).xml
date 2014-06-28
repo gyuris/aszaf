@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">A Te méltóságod csendjében</title>
+      <title lang="en">In The Silence</title>
+    </titles>
+    <authors>
+      <author>Paul Iannuzzelli</author>
+      <author lang="hu" type="translation">Schmél Csaba</author>
+    </authors>
+    <songbooks>
+      <songbook entry="45" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1993 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Te méltóságod csendjében,<br />szentséged fenségében,<br />dicsőséged nyugalmában<br />hadd halljam meg hangod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ölelj körül engem teljesen,<br />hadd érezzem bensőmben<br />a Te kedves jelenléted,<br />hadd halljam meg hangod!<br />Lágyan csengő, szelíd suttogásod, Atyám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy vágyom Eléd állni, jelenlétedben lenni,<br />és Téged dicsérni egyedül, szüntelen.<br />Kezeimet nyújtom Feléd,<br />az életem már csak a Tiéd!<br />Hadd halljam meg hangod!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Nem kell, hogy tökéletes</title>
+      <title lang="hu">Mondd, hogy Jézus</title>
+      <title lang="en">Jesus Lover Of My Soul</title>
+    </titles>
+    <authors>
+      <author>Becky Fender, Lindell Cooley</author>
+      <author lang="hu" type="translation">Bagyinszky Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="323" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 Music Missions Publishing and Brownsville Music</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem kell, hogy tökéletes légy.<br />Hogy hozzá jöjj, egy szó is elég:<br />Jézus, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elsuttoghatod vagy sírhatod,<br />Ha köztünk vagy,<br />Ha magadra hagyott, mondd, hogy:<br />Jézus, Jézus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, nincsen más név.<br />Csak Jézus, kiben van üdvösség,<br />Jézus, Te vagy Uram és Megváltóm!<br />Jézus, az éjből kihoztál,<br />Ó, Jézus, új életet adtál,<br />Jézus, a Te házadban lakom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Áldás, méltóság és erő</title>
+      <title lang="en">Filled With the Glory</title>
+    </titles>
+    <authors>
+      <author>Leonard Jones</author>
+      <author lang="hu" type="translation">Prazsák László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="110" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 EagleStar Productions</copyright>
+    <verseOrder>v1 p1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldás, méltóság és erő, minden a Tiéd, Uram!<br />Dicséret, tündöklés, bölcsesség, minden a Tiéd!<br />Imádás, tisztesség, rajongás, minden a Tiéd, Uram!<br />A hála örökkön-örökké, minden a Tiéd!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Betölti dicsőséged az egész föld színét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Telve legyen,<br />telve legyen a fényeddel!</lines>
+    </verse>
+  </lyrics>
+</song>

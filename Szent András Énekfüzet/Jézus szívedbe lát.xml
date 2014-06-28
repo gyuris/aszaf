@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jézus szívedbe lát</title>
+      <title>Ismeretlen</title>
+    </titles>
+    <authors>
+      <author type="music">(Spirituálé)</author>
+    </authors>
+    <songbooks>
+      <songbook entry="313" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szívedbe lát!<br />Mi az, mit ott talál?<br />Mi az, mit benne, benne ott talál?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus szemedbe néz!<br />Mi az, mi benned él?<br />Mi az, mi benned, benned, benned él?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus az útra néz!<br />Nézi, hogy merre mész!<br />Nézi, hogy merre, merre, merre mész!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus fogja kezed!<br />Segít és megy veled!<br />Segít és együtt, együtt megy veled!</lines>
+    </verse>
+  </lyrics>
+</song>

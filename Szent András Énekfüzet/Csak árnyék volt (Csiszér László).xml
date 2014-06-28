@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T09:21:32">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Csak árnyék volt</title>
+      <title lang="hu">Csak árnyék volt</title>
     </titles>
-    <verseOrder>v1 v2 p1 c1</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="181"/>
+      <songbook entry="181" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Csak árnyék volt az életem Nélküled,<br/>sűrű felhők gyűltek fölöttem.<br/>Egyszer vihar jött, féltem, elborít,<br/>de Jézus, Te szóltál, csend és béke lett!</lines>
+      <lines>Csak árnyék volt az életem Nélküled,<br />sűrű felhők gyűltek fölöttem.<br />Egyszer vihar jött, féltem, elborít,<br />de Jézus, Te szóltál, csend és béke lett!</lines>
     </verse>
     <verse name="v2">
-      <lines>Csak bolyongtam, de nem találtam kiútra,<br/>szomjaztam, de nem leltem forrásra.<br/>Sok szorongás és rettegés,<br/>de Jézus, Te szóltál, hogy „ne félj"!</lines>
+      <lines>Csak bolyongtam, de nem találtam kiútra,<br />szomjaztam, de nem leltem forrásra.<br />Sok szorongás és rettegés,<br />de Jézus, Te szóltál, hogy „ne félj"!</lines>
     </verse>
     <verse name="p1">
-      <lines>Emelj magadhoz közel, emelj karoddal fel,<br/>végre ilyen közel Hozzád!</lines>
+      <lines>Emelj magadhoz közel, emelj karoddal fel,<br />végre ilyen közel Hozzád!</lines>
     </verse>
     <verse name="c1">
       <lines>Hozzád simul, én Istenem, az én lelkem.</lines>

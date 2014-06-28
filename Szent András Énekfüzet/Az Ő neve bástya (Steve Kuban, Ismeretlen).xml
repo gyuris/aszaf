@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Az Ő neve bástya</title>
+      <title lang="en">For The Lord Is My Tower</title>
+    </titles>
+    <authors>
+      <author>Steve Kuban</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="226" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1995 Kuban, Steve</copyright>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Ő neve bástya, erős vár, az igaz Hozzá fut, és megmenekül.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott legyen az Ő neve, áldott legyen az Ő neve,<br />áldott legyen az Ő neve, örökké, (örökké)!</lines>
+    </verse>
+  </lyrics>
+</song>

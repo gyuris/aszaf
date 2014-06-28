@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Istenem, nem értem</title>
+      <title lang="en">I Will Sing Your Praises</title>
+    </titles>
+    <authors>
+      <author>Ian Smale</author>
+      <author lang="hu" type="translation">Simonfalvi Zsolt</author>
+    </authors>
+    <songbooks>
+      <songbook entry="224" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1984 Thankyou Music</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, nem értem, hogyan létezhettem Nélküled,<br />nem ismerve a kegyelmed, és féltő szereteted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De Te gyermekeddé fogadtál, új életet ajándékoztál,<br />nem kínoz már a félelem, hisz mindig itt vagy velem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldom nagy kegyelmed, Téged ünnepellek,<br />Téged és senki mást, amíg csak élek!</lines>
+    </verse>
+  </lyrics>
+</song>

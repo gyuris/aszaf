@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:14:49">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Levetem a régi embert</title>
+      <title lang="hu">Levetem a régi embert</title>
     </titles>
-    <verseOrder>v1 c1 e1</verseOrder>
     <authors>
       <author>Majoros Ildikó</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="283"/>
+      <songbook entry="283" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 c1 e1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Levetem a régi embert,<br/>leteszem régi életem.<br/>Krisztust öltöm most magamra,<br/>mert Ő él már a szívemben.</lines>
+      <lines>Levetem a régi embert,<br />leteszem régi életem.<br />Krisztust öltöm most magamra,<br />mert Ő él már a szívemben.</lines>
     </verse>
     <verse name="c1">
-      <lines>Hisz a bűn már meghalt,<br/>nincs uralma többé felettem,<br/>Krisztus lett szívem Királya,<br/>palástja beterít engem.</lines>
+      <lines>Hisz a bűn már meghalt,<br />nincs uralma többé felettem,<br />Krisztus lett szívem Királya,<br />palástja beterít engem.</lines>
     </verse>
     <verse name="e1">
-      <lines>Új teremtésként élhetek,<br/>te vagy Jézus minden, mit kérhetek,<br/>minden nap, minden nap.</lines>
+      <lines>Új teremtésként élhetek,<br />te vagy Jézus minden, mit kérhetek,<br />minden nap, minden nap.</lines>
     </verse>
   </lyrics>
 </song>

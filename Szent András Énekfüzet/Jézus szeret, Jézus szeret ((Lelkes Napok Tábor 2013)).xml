@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jézus szeret, Jézus szeret</title>
+    </titles>
+    <authors>
+      <author type="words">(Lelkes Napok Tábor 2013)</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="311" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jézus szeret, Jézus szeret, Jézus nagyon szeret!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dobd el a mankót, jöjj és táncolj,<br />Tolószékből állj fel végre!<br />Higgy Isten szeretetében!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd meg az Isten csodáit,<br />Nézz az égre és fogadd el,<br />A bűneidből téged megmentett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szólít az Isten, hallgasd szavát,<br />Nyisd ki a füled, téged megáld.<br />Engedd, hogy a lelked járja át!</lines>
+    </verse>
+  </lyrics>
+</song>

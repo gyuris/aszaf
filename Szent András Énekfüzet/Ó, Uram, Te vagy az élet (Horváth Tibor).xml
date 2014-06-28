@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó, Uram, Te vagy az élet</title>
+    </titles>
+    <authors>
+      <author>Horváth Tibor</author>
+    </authors>
+    <songbooks>
+      <songbook entry="91" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Uram, Te vagy az élet,<br />Te vagy a feltámadás.<br />Ó, Uram, én szeretlek Téged,<br />Te vagy és nincs senki más.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Uram, a szívemhez szóltál,<br />megérintett lágy szavad.<br />Ó, Uram, én nem akarom már<br />elhagyni házadat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te vagy az élet és Te vagy az út,<br />Te vagy az ösvény, mely a mennybe fut,<br />Te vagy a váram, kősziklám,<br />fordítsd az orcád mindig reám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Itt van az idő dicsérni Őt</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="205" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 e1 c1 v2 e1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt van az idő dicsérni Őt<br />az Ő Szentlelkének szentélyében!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Figyeljünk Őreá, és áldjuk most Nevét,<br />és az Úrnak dicsősége szálljon ránk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldjuk Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő népének dicséretében él,<br />és kedveli, ha hívjuk szent Nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

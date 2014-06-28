@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">A magas hegyről</title>
+      <title lang="en">The River Is Here</title>
+    </titles>
+    <authors>
+      <author>Andy Park</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="103" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A magas hegyről jön a folyó,<br />vize frissítően túláradó,<br />a völgyeken és a mezőkön át<br />a folyó rohanva elér hozzád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A mennyei folyó most táncra perdít,<br />a mennyei folyó most felvidít,<br />a mennyei folyó most megtölti szívünk<br />és örvendezünk, mert az Úr van itt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr hegyére felmenni jó,<br />mert a jelenléte békét adó.<br />És a folyó mentén ha futkározunk,<br />vígan táncolva áldjuk ott a Fiút!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten folyója az élő víz,<br />hogyha megérinted, életre hív.<br />És a partjára hogyha sokszor lejársz,<br />egyre jobban szomjazol az Úr után.</lines>
+    </verse>
+  </lyrics>
+</song>

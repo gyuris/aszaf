@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Csodálatos, szent</title>
+      <title lang="en">The Potter’s Hand</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="180" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 Wondrous Worship</copyright>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodálatos, szent és fenséges,<br />Megváltóm vagy, kegyelmed éltet,<br />sorsom Tiéd, szelíden hívtál, s itt vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem Szentlelked által,<br />taníts, Uram, világosságra,<br />kedves szavad megragad és vonz Hozzád!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ó, alakíts és változtass el képmásodra,<br />Te mennyei Mester,<br />szereteted égjen szívemben!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj hát, járj át, szólj és formálj,<br />légy Úr bennem, várlak szüntelen!<br />Kelj fel, ó, Uram, jöjj és áldj meg újra,<br />Szentlelkedet tűzzel áraszd rám!</lines>
+    </verse>
+  </lyrics>
+</song>

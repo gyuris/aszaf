@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Van egy folyó</title>
+    </titles>
+    <authors>
+      <author>Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="37" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 p1 c1 b1 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy folyó a szent városban, az élet folyója,<br />ott, ahol népe együtt él örökké az Úrral,</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Isten van közöttük, Ő von föléjük sátort.<br />Nincs többé könny és gyász,<br />mert az elsők már elmúltak!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nagy vigasság, hangos öröm van az Úr házában!<br />Nagy vigasság, hangos öröm van az Úr házában!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nem múlik el, soha nem múlik el,<br />bizony nem múlik el a Fölkent országa!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nagy vigasság, hangos öröm van az Úr házában!<br />Nagy vigasság, hangos öröm van az Úr házában!<br />...a Menny királyságában!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Kegyelmeddel megváltottál</title>
+      <title>Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Jonas Myrin, Marty Sampson</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="302" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2003 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 p1 c1 c2 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelmeddel megváltottál,<br />irgalmaddal új életre hívtál.<br />Körbevesz mindennap szerelmed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hűséged megújul minden reggel,<br />elárasztasz békességeddel.<br />Körbevesz mindennap szerelmed.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Arcod fénye rám ragyog, teljesen Tiéd vagyok!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Felkelek és hirdetem dicsőséged!<br />Azért élek, hogy áldjalak, nagy Király Élő Isten Fia!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Angyalaid a trón körül zengik: Szent Vagy!<br />Egyetlen hatalmas Úr, éneklik: Halleluja!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Halleluja! Halleluja! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

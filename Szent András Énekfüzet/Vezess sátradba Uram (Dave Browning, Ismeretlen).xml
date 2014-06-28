@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Vezess sátradba Uram</title>
+      <title lang="en">Take Me In</title>
+    </titles>
+    <authors>
+      <author>Dave Browning</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="308" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1987 Dayspring Music, LLC</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezess sátradba Uram, szüntelen hívlak.<br />Én Istenem vagy Te, úgy vágyom utánad.<br />Engedd hallanom hangod, hiszen Tőled van az élet.<br />Nem ad boldogságot más, csak a Te jelenléted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tisztíts meg, ó, Uram szent tüzeddel,<br />Szentelj meg a Bárány vérével!<br />Vedd izzó parazsad a Mennyei Oltárról,<br />Érintsd meg ajkaim, hogy szent legyen!<br />Érintsd meg ajkaim, hogy szent legyen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szólj Uram, hallja szolgád, a Te kedves beszéded<br />szívem mélyére rejtem, hogy ne vétkezzem többé.<br />Készen állok előtted, hogy tegyem amit parancsolsz.<br />Amit rám bízol, Uram, hogy örömmel elvégezzem.</lines>
+    </verse>
+  </lyrics>
+</song>

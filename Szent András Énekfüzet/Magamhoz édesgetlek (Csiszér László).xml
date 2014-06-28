@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-02-06T15:17:54">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title>Magamhoz édesgetlek</title>
+      <title lang="hu">Magamhoz édesgetlek</title>
     </titles>
-    <verseOrder>v1 c1</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Énekfüzet" entry="104"/>
+      <songbook entry="104" name="Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Magamhoz édesgetlek, a pusztába elvezetlek,<br/>hogy szívedre beszéljek.<br/>Ami elveszett, visszaadom, reményed megújítom,<br/>mert nagyon szeretlek!</lines>
+      <lines>Magamhoz édesgetlek, a pusztába elvezetlek,<br />hogy szívedre beszéljek.<br />Ami elveszett, visszaadom, reményed megújítom,<br />mert nagyon szeretlek!</lines>
     </verse>
     <verse name="c1">
-      <lines>És azt mondom én, hogy „Népem vagy Te",<br/>és te válaszolsz majd: „Istenem vagy"!<br/>És azt mondom én, hogy „Népem vagy Te",<br/>és te válaszolsz majd: „Istenem vagy"!</lines>
+      <lines>És azt mondom én, hogy „Népem vagy Te",<br />és te válaszolsz majd: „Istenem vagy"!<br />És azt mondom én, hogy „Népem vagy Te",<br />és te válaszolsz majd: „Istenem vagy"!</lines>
     </verse>
   </lyrics>
 </song>

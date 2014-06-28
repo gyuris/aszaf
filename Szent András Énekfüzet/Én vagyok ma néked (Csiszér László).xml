@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Én vagyok ma néked</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="171" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én vagyok ma néked az igaz világosság,<br />érkezem most hozzád, az éjszakádnak vége már.<br />Ha te követsz Engem, nem a sötétben jársz,<br />hanem a tiéd lesz az élet világossága.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha tanításomban megmaradsz, enyém vagy,<br />benned élek mindörökké s tanítlak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És megismered az igazságot,<br />s az igazság teljes szabadságot hoz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezért hát áldjuk Őt, imádjuk Őt,<br />imádjuk Jézust teljes szívünkből!</lines>
+    </verse>
+  </lyrics>
+</song>

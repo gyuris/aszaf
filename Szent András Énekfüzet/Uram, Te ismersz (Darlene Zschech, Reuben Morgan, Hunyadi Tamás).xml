@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Uram, Te ismersz</title>
+      <title lang="en">At The Cross</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech, Reuben Morgan</author>
+      <author lang="hu" type="translation">Hunyadi Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook entry="304" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2006 Hillsong Music Publishing, Wondrous Worship</copyright>
+    <verseOrder>v1 v2 c1 v3 b1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Te ismersz, \tlátod szívem.<br />Ezerszer elbuktam, mégis szerettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jelenléteddel körülveszel, minden időben,<br />mégis szerettél, mindig szerettél.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meghajlok keresztednél, itt folyt ki a drága vér,<br />nincs mi ennél többet ér.<br />Értem győzted le a sírt, megnyitottad a Szentélyt.<br />Semmi el nem választ már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te jársz előttem, Oltalmazó!<br />Kezedben őrzöl. Szeretsz, tudom jól!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Megnyílt a menny, elvégeztetett,<br />A kárpit szétrepedt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És ha majd egyszer lezárul szemem,<br />Ott állsz előttem, mert úgy szerettél, mindig szerettél.</lines>
+    </verse>
+  </lyrics>
+</song>

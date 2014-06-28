@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Kell, hogy végre érezd</title>
+      <title lang="en">Mighty To Save</title>
+    </titles>
+    <authors>
+      <author>Ben Fielding, Reuben Morgan</author>
+      <author lang="hu" type="translation">Hunyadi Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook entry="299" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2006 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kell, hogy végre érezd, mennyire szeret az Isten,<br />Kegyelme éltet.<br />Kell, hogy végre átéld, ahogy a megbocsátás<br />Átformál egy népet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Győztes, hegyeket mozdít el,<br />Király és Szabadító, ítél és megsegít.<br />Megváltó, üdvösség szerzője,<br />Mert Ő legyőzte a sírt, Ő legyőzte a sírt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hibáztam, Te védj meg, ölelj át, ha félek,<br />Töltsd be életem.<br />Meghajlok előtted, szívemből követlek,<br />Csak Érted élek!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>‖: Életünkkel mondjuk el, hogy élsz.<br />Hirdetjük Megváltónk dicsőségét! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

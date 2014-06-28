@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Erőt adsz minden</title>
+      <title lang="hu">Jézus, hű bárány</title>
+      <title lang="en">You Are My All In All</title>
+    </titles>
+    <authors>
+      <author>Dennis Jernigan</author>
+      <author lang="hu" type="translation">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="325" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1991 Shepherd's Heart Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erőt adsz minden helyzetben,<br />Te vagy a kincsem, életem,<br />Te vagy a mindenem.<br />Kereslek, mert oly drága vagy,<br />nincs mivel pótolhatnálak,<br />Te vagy a mindenem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, hű Bárány, áldom szent neved!<br />Jézus, hű Bárány, áldom szent neved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elvetted bűnöm, szégyenem, <br />köszönöm, hogy újjá lettem,<br />Te vagy a mindenem.<br />Felemelsz hogyha elbukom, <br />Szentlelked betölt jól tudom,<br />Te vagy a mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Imádunk Téged, Istenünk</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook entry="186" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádunk Téged, Istenünk, ó, igen!<br />Jézus nevében dicsérünk,<br />mert Te vagy méltó, örökkévaló,<br />Téged áldunk, fenséges Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hódolunk Néked, szent Fiú!<br />Dicsérünk Téged, legfőbb Úr,<br />mert Te vagy méltó, Te vagy a Megváltó,<br />Téged áldunk, fenséges Úr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérünk Téged, Szentlélek!<br />Imádat, hála Néked zeng,<br />mert Te vagy méltó, égi Pártfogó,<br />Téged áldunk, fenséges Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Bennem ég egy tűz</title>
+      <title lang="en">Spirit and the Bride</title>
+    </titles>
+    <authors>
+      <author>Tom Dickson</author>
+      <author lang="hu" type="translation">Bagyinszky Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="162" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1997 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1 p1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bennem ég egy tűz, mely nem hal el,<br />Érted ég itt benn a mélységben.<br />Halld, Uram, szívünk vágyódását,<br />hadd lehessünk ott, ahol Te vársz!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Itt vagy közel, jelenléted körülvesz,<br />hadd lássuk végre arcodat! Ragadj magaddal!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lelkünk úgy kiált, Hozzád kiált,<br />Jézus, Hozzád kiált, jöjj gyorsan!<br />Eljön a nap, mikor látjuk arcodat,<br />színről-színre arcodat, jöjj gyorsan!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Amíg eljössz, Te tarts meg!</lines>
+    </verse>
+  </lyrics>
+</song>

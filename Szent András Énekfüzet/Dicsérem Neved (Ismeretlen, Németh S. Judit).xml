@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Dicsérem Neved</title>
+      <title>Ismeretlen</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="63" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérem Neved, míg csak élek, míg élek,<br />kősziklám vagy Te, melyen állok s nem rendülök meg.<br />Magas helyeken járatsz engem, oly jó Veled,<br />mert Te vagy igazságom, hűséges Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ígéretedet elrejtettem a szívembe,<br />parancsolatod megőriztem és nem felejtem,<br />rendeléseid szemem előtt vannak szüntelen,<br />nem távozom el utadról sohasem!</lines>
+    </verse>
+  </lyrics>
+</song>

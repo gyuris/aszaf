@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Az Úrnak Szelleme</title>
+      <title lang="en">Spirit Of The Sovereign Lord</title>
+    </titles>
+    <authors>
+      <author>Andy Park</author>
+      <author lang="hu" type="translation">Németh Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="168" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing, Vineyard Songs Canada</copyright>
+    <verseOrder>c1 v1 c2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az Úrnak Szelleme van énrajtam,<br />felkent, hogy a szegényeknek örömhírt mondjak,<br />elküldött, hogy bekössem a megtört szíveket,<br />hogy szabadságot hirdessek a foglyoknak.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jókedvének esztendejét - itt az idő!<br />Bosszúállása napját - itt az idő!<br />Fogadd el hát kegyelmét - itt az idő!<br />Vesd le hamar a gyászruhát!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ez az a nap, mikor szól hozzád az Úr,<br />ez az a perc, mikor szíved megnyithatod,<br />ne várj tovább, oly bőséges irgalma,<br />még nem késő, ez az üdvösség napja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jókedve esztendeje még tart - itt az idő!<br />De már nincs messze a harag - itt az idő!<br />Fogadd el hát kegyelmét - itt az idő!<br />Siess hamar az Úr elé!</lines>
+    </verse>
+  </lyrics>
+</song>

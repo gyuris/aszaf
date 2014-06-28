@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Meggyógyítod, aki szenved</title>
+    </titles>
+    <authors>
+      <author>Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="120" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meggyógyítod, aki szenved, mennyei erővel,<br />ha fájdalmas lelkünk, betöltöd örömmel.<br />Úr Jézus, életünk felett végy teljes uralmat,<br />hogy szent népedhez méltón várjuk nagy napodat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, éhezem a Te igazságodat,<br />szomjazom a Szentlélek vizét,<br />Jézus, töltsd tele a lámpásomat,<br />hadd világítson, míg visszatérsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentlélek, erősíts meg, újíts meg, friss kenet,<br />hogy megtegyem akaratod, adj még több kegyelmet,<br />hogy hűséggel harcoljam meg a hit nemes harcát,<br />utam végén meglássam az én Uram arcát!</lines>
+    </verse>
+  </lyrics>
+</song>

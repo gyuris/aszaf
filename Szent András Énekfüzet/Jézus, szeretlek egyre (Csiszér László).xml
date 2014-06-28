@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jézus, szeretlek egyre</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="303" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>i1 v1 v2 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus szeretlek egyre jobban.<br />Jézus szeretlek mind jobban.<br />Jézus imádlak egyre jobban.<br />Jézus imádlak mind jobban.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha kísértés ért, Jézus,<br />mindig győztes voltál.<br />Így mutattál nékünk példát:<br />a győzelem vár reánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak Lelke fölkent Téged,<br />a szegény örömhírt hall.<br />Minden fogoly szabaddá lett,<br />a vakok újra látnak!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szabadon bocsátod a megtörteket.<br />És hirdeted az Úr kedves esztendejét,<br />kedves esztendejét!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A béke esztendejét,<br />A jóság…<br />Az öröm…<br />A tisztaság… <br />Az igazság… <br />A szeretet…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó, Uram, a Te Igéd</title>
+      <title lang="en">Thy word</title>
+    </titles>
+    <authors>
+      <author>Amy Grant, Michael W. Smith</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook entry="65" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1984 Word Music, LLC, Meadowgreen Music Company</copyright>
+    <verseOrder>c1 v1</verseOrder>
+    <variant>Csiszér László szövegvariánsa (olaszból fordítva)</variant>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, Uram, a Te Igéd lámpás, utamon a fényforrás!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nem felejtem el, hogy Te itt vagy közel,<br />Jézus van itt, énmellettem.<br />Nincs olyan veszély, amit Te ne ismernél,<br />Te vagy, Ki mindig szívemben él!</lines>
+    </verse>
+  </lyrics>
+</song>

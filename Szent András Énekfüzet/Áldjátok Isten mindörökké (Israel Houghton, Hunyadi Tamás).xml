@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Áldjátok Isten mindörökké</title>
+      <title lang="hu">Mi áldjuk Őt</title>
+      <title lang="en">You Are Good</title>
+    </titles>
+    <authors>
+      <author>Israel Houghton</author>
+      <author lang="hu" type="translation">Hunyadi Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook entry="322" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2001 Integrity's Praise! Music, Sound Of The New Breed</copyright>
+    <verseOrder>v1 p1 c1 b1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjátok Isten mindörökké tartó kegyelmét.<br />Kik házában álltok, dicsérjétek örök hűségét.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hirdesse minden nemzet és nép<br />jóságát irgalmát szeretetét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi áldjuk Őt hallelujah, hallelujah!<br />Mi áldjuk Őt örökké!<br />Mi áldjuk Őt hallelujah, hallelujah!<br />Mi áldjuk Őt örökké!<br />Ő az Úr!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jó az Úr, örökké hirdetjük kegyelmét!</lines>
+    </verse>
+  </lyrics>
+</song>
