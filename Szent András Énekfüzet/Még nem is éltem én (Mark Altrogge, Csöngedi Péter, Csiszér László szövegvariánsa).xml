@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-29T22:28:40" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Még nem is éltem én</title>
@@ -18,7 +18,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Még nem is éltem én, Te már úgy szerettél,<br />hogy esendő emberként eljöttél.<br />Nem vártad meg azt, hogy Hozzád kiáltsak,<br />de megengedted, hogy halljam a hangodat.</lines>
+      <lines>Még nem is éltem én, Te már úgy szerettél,<br />hogy egyszerű emberként eljöttél.<br />Nem vártad meg azt, hogy Hozzád kiáltsak,<br />de megengedted, hogy halljam a hangodat.</lines>
     </verse>
     <verse name="c1">
       <lines>Zengjen hát a hálám Neked,<br />zengjen hát a hálám a keresztért,<br />zengjen hát a hálám Neked, mert Te eljöttél,<br />hogy megkeress és megmentsél.</lines>
