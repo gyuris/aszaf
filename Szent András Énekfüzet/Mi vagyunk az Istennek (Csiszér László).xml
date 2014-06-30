@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T11:12:41" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Mi vagyunk az Istennek</title>
@@ -11,7 +11,7 @@
     <songbooks>
       <songbook entry="123" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1 c2</verseOrder>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -21,7 +21,7 @@
       <lines>Nyisd meg a szíved, és hallgass Rá,<br />nyisd meg a szíved, és hallgass Rá,<br />nyisd meg a szíved, és hallgass Rá,<br />mert a Mester hozzád szól.</lines>
     </verse>
     <verse name="c2">
-      <lines>Megnyitom a szívem és hallgatok Rá…<br />mert az Isten hozzám szól.</lines>
+      <lines>Megnyitom a szívem és hallgatok Rá,<br />megnyitom a szívem és hallgatok Rá,<br />megnyitom a szívem és hallgatok Rá,<br />mert az Isten hozzám szól.</lines>
     </verse>
   </lyrics>
 </song>

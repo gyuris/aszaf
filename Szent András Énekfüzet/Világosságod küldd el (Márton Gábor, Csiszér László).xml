@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T12:43:43" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Világosságod küldd el</title>
@@ -11,6 +11,7 @@
       <songbook entry="156" name="Énekfüzet" />
     </songbooks>
     <verseOrder>v1 p1 c1</verseOrder>
+    <variant>Csiszér László</variant>
   </properties>
   <lyrics>
     <verse name="v1">
