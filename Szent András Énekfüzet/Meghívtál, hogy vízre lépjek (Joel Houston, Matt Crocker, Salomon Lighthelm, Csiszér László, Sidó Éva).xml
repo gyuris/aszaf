@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T15:22:43" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:22:13" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Meghívtál, hogy vízre lépjek</title>
       <title lang="en">Oceans</title>
     </titles>
     <authors>
-      <author>Joel Houston, Matt Crocker, Salomon Lighthelm</author>
-      <author lang="hu" type="translation">Csiszér László, Sidó Éva</author>
+      <author>Joel Houston</author>
+      <author>Matt Crocker</author>
+      <author>Salomon Lighthelm</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+      <author lang="hu" type="translation">Sidó Éva</author>
     </authors>
     <songbooks>
       <songbook entry="309" name="Énekfüzet" />
@@ -29,7 +32,7 @@
       <lines>Lélek add, hogy Benned teljesen megbízzak,<br />A vízen bátran Veled járjak, bárhová hívsz, menjek.<br />Vigyél tovább, mint a lábam tudna menni.<br />Taníts teljes hittel járni, jelenlétedben élni.</lines>
     </verse>
     <verse name="c2">
-      <lines>Nagy Neved hívom én, és felnézek a vizek fölé.<br />A lelkem Benned megpihen. <br />Enyém vagy és én Tiéd.</lines>
+      <lines>Nagy Neved hívom én, és felnézek a vizek fölé.<br />A lelkem Benned megpihen.<br />Enyém vagy és én Tiéd.</lines>
     </verse>
   </lyrics>
 </song>

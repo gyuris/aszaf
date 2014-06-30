@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:11:46" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A fény királya Ő</title>
       <title lang="en">How Great Is Our God</title>
     </titles>
     <authors>
-      <author>Chris Tomlin, Ed Cash, Jesse Reeves</author>
+      <author>Chris Tomlin</author>
+      <author>Ed Cash</author>
+      <author>Jesse Reeves</author>
       <author lang="hu" type="translation">Lakatos Péter</author>
     </authors>
     <songbooks>

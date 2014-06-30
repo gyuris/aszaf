@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:37:32" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Ó, Uram, a Te Igéd</title>
       <title lang="en">Thy word</title>
     </titles>
     <authors>
-      <author>Amy Grant, Michael W. Smith</author>
+      <author>Amy Grant</author>
+      <author>Michael W. Smith</author>
       <author lang="hu" type="translation">Németh S. Judit</author>
     </authors>
     <songbooks>

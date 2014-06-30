@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T00:04:31" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:10:30" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Szent vagy… Izrael Ura</title>
       <title lang="en">Holy Holy Holy</title>
     </titles>
     <authors>
-      <author>Lynn DeShazo, Paul Wilbur</author>
+      <author>Lynn DeShazo</author>
+      <author>Paul Wilbur</author>
       <author lang="hu" type="translation">Flach Ferenc</author>
     </authors>
     <songbooks>

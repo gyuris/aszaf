@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:00:55" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Világos az út</title>
     </titles>
     <authors>
-      <author type="words">Csiszér László, Kiss Juhász István</author>
+      <author type="words">Csiszér László</author>
+      <author type="words">Kiss Juhász István</author>
       <author type="music">Sting (Gordon Matthew Thomas Sumner)</author>
     </authors>
     <songbooks>

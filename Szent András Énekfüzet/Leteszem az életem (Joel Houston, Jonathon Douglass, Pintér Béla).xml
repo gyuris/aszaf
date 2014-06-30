@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:18:54" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Leteszem az életem</title>
@@ -7,7 +7,8 @@
       <title lang="en">One Way</title>
     </titles>
     <authors>
-      <author>Joel Houston, Jonathon Douglass</author>
+      <author>Joel Houston</author>
+      <author>Jonathon Douglass</author>
       <author lang="hu" type="translation">Pintér Béla</author>
     </authors>
     <songbooks>

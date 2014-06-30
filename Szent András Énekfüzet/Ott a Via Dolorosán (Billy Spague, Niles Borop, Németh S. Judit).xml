@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T00:09:47" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:36:28" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Ott a Via Dolorosán</title>
       <title lang="en">Via Dolorosa</title>
     </titles>
     <authors>
-      <author>Billy Spague, Niles Borop</author>
+      <author>Billy Spague</author>
+      <author>Niles Borop</author>
       <author lang="hu" type="translation">Németh S. Judit</author>
     </authors>
     <songbooks>

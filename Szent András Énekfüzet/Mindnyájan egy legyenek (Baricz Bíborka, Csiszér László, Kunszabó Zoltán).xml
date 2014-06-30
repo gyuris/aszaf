@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:23:38" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Mindnyájan egy legyenek</title>
       <title lang="hu">Egy legyenek</title>
     </titles>
     <authors>
-      <author type="words">Baricz Bíborka, Csiszér László, Kunszabó Zoltán</author>
+      <author type="words">Baricz Bíborka</author>
+      <author type="words">Csiszér László</author>
+      <author type="words">Kunszabó Zoltán</author>
       <author type="music">Csiszér László</author>
     </authors>
     <songbooks>

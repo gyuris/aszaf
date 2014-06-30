@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:59:08" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Áldás, hála</title>
       <title lang="en">Blessing Honour And Glory</title>
     </titles>
     <authors>
-      <author>David Reidy, Geoff Bullock</author>
+      <author>David Reidy</author>
+      <author>Geoff Bullock</author>
       <author lang="hu" type="translation">Debreceni István</author>
     </authors>
     <songbooks>
