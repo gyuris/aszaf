@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T23:13:11" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Barátom lettél</title>
-      <title lang="en">What A Friend (Jesus Friend Forever)</title>
+      <title lang="en">What A Friend</title>
+      <title lang="en">Jesus Friend Forever</title>
     </titles>
     <authors>
       <author>Martin Smith</author>

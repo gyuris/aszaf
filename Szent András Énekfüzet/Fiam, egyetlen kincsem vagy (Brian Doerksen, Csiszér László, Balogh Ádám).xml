@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:30:45" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T23:11:57" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Fiam, egyetlen kincsem vagy</title>
       <title lang="en">Father To Son</title>
+      <title lang="en">Every Song</title>
     </titles>
     <authors>
       <author>Brian Doerksen</author>

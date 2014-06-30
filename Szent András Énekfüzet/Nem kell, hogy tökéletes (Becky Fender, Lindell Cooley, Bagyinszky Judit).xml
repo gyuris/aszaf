@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:24:18" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T23:26:12" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem kell, hogy tökéletes</title>
       <title lang="hu">Mondd, hogy Jézus</title>
       <title lang="en">Jesus Lover Of My Soul</title>
+      <title lang="en">Jesus How I Love The Name</title>
     </titles>
     <authors>
       <author>Becky Fender</author>

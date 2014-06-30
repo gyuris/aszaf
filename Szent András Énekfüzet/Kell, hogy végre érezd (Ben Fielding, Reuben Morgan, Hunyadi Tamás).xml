@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:17:48" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T23:23:30" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Kell, hogy végre érezd</title>
       <title lang="en">Mighty To Save</title>
+      <title lang="en">Everyone Needs Compassion</title>
     </titles>
     <authors>
       <author>Ben Fielding</author>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:19:35" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T23:24:21" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Kegyelmeddel megváltottál</title>
-      <title>Hallelujah</title>
+      <title lang="en">Hallelujah</title>
+      <title lang="en">I Stand In Awe Of You</title>
     </titles>
     <authors>
       <author>Jonas Myrin</author>
