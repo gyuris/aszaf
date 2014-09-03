@@ -6,8 +6,8 @@
       <title lang="he">Shaalu Shalom Yerushalayim</title>
     </titles>
     <authors>
-      <author>Ismeretlen</author>
-      <author lang="hu" type="translation">Ismeretlen</author>
+      <author>ismeretlen szerző</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
       <songbook entry="87" name="Énekfüzet" />
