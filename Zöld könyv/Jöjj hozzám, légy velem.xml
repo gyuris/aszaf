@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>|:Jöjj hozzám, légy velem,<br/>Örök békéd, örök békéd add nekem!:|</lines>
+      <lines>‖: Jöjj hozzám, légy velem,<br/>Örök békéd, örök békéd add nekem! :‖</lines>
     </verse>
     <verse name="v2">
       <lines>Szeretetre vágyom, kell egy hű barát,<br/>Aki velem van és nem hagy el, a nehéz napokon át.<br/>Ne féllj hát! Ő megsegít. Figyeljed szavát,<br/>Tedd kezébe életed, s a békét add tovább!</lines>
     </verse>
     <verse name="v3">
-      <lines>|:Jöjj hozzám, légy velem,<br/>Örök békéd, örök békéd add nekem!:|<br/>Jöjj hozzám!</lines>
+      <lines>‖: Jöjj hozzám, légy velem,<br/>Örök békéd, örök békéd add nekem! :‖<br/>Jöjj hozzám!</lines>
     </verse>
   </lyrics>
 </song>

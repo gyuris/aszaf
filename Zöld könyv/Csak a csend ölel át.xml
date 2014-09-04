@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>|:Csak a csend ölel át:|</lines>
+      <lines>‖: Csak a csend ölel át :‖</lines>
     </verse>
     <verse name="v2">
       <lines>Nyisd, nyisd meg a csend kapuját,<br/>Tárd, tárd fel a fény csarnokát,<br/>Válaszd szét az óceánt,<br/>Hadd keljek át, hadd keljek át!</lines>
     </verse>
     <verse name="v3">
-      <lines>|:Csak a csend ölel át:|<br/>Csak a csend ölel át.<br/>|:Jöjj Lélek! Töltsd be életünk életeddel!<br/>Jöjj Lélek! Töltsd be életünk, töltsd be lényegünk<br/>Lényeddel:|<br/>|:Csak a csend ölel át:|<br/>Csak a Lélek ölel át!</lines>
+      <lines>‖: Csak a csend ölel át :‖<br/>Csak a csend ölel át.<br/>‖: Jöjj Lélek! Töltsd be életünk életeddel!<br/>Jöjj Lélek! Töltsd be életünk, töltsd be lényegünk<br/>Lényeddel :‖<br/>‖: Csak a csend ölel át :‖<br/>Csak a Lélek ölel át!</lines>
     </verse>
   </lyrics>
 </song>
