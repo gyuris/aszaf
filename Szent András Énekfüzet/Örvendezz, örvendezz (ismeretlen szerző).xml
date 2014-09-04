@@ -10,13 +10,11 @@
     <songbooks>
       <songbook entry="38" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Örvendezz, örvendezz, mert él az Úr!</lines>
-    </verse>
-    <verse name="c1">
+      <lines>‖: Örvendezz, örvendezz, mert él az Úr! :‖</lines>
       <lines>Feltámadott, sírja üres maradt, ahogy<br />megmondta, bizony úgy lesz majd örökké!</lines>
     </verse>
   </lyrics>

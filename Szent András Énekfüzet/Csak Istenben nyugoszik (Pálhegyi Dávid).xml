@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Csak Istenben nyugoszik meg szívem,<br />csak Tőle van az én segítségem,<br />Ő az én kőszálam és menedékem,<br />erősen tart kezeiben.</lines>
+      <lines>Csak Istenben nyugoszik meg szívem,<br />csak Tőle van az én segítségem,<br />‖: Ő az én kőszálam és menedékem,<br />erősen tart kezeiben. :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Hogyha jőnek rettenetes napok,<br />oltalmat csak Istentől kapok,<br />Nem felejt el az én hű szabadítóm,<br />őriz, ha bajba jutok.</lines>
+      <lines>Hogyha jőnek rettenetes napok,<br />oltalmat csak Istentől kapok,<br />‖: Nem felejt el az én hű szabadítóm,<br />őriz, ha bajba jutok. :‖</lines>
     </verse>
     <verse name="v3">
-      <lines>Eljő a nap, amikor meghalok,<br />de örökre sírban nem maradok!<br />Tudom, hogy él az én hű Megváltóm,<br />feltámaszt majd ama napon!</lines>
+      <lines>Eljő a nap, amikor meghalok,<br />de örökre sírban nem maradok!<br />‖: Tudom, hogy él az én hű Megváltóm,<br />feltámaszt majd ama napon! :‖</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,16 +11,14 @@
     <songbooks>
       <songbook entry="228" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1 e1</verseOrder>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Jézus köztünk jár, mindenkit átformál,<br />minden szívet megérint.<br />Eltűnik gyász és könny, betölt a szent öröm,<br />ne félj, ma Jézus téged hív!</lines>
     </verse>
     <verse name="c1">
-      <lines>Állítsd meg hát az életed,<br />hogy meghalld Őt, ki úgy szeret!</lines>
-    </verse>
-    <verse name="e1">
+      <lines>‖: Állítsd meg hát az életed,<br />hogy meghalld Őt, ki úgy szeret! :‖</lines>
       <lines>Jézus közel jön, itt kopogtat már,<br />nyisd ki szíved ajtaját!</lines>
     </verse>
   </lyrics>

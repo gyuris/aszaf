@@ -10,14 +10,14 @@
     <songbooks>
       <songbook entry="44" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>c1 v1</verseOrder>
   </properties>
   <lyrics>
-    <verse name="v1">
+    <verse name="c1">
       <lines>Kelj fel, mert a Fény eljött,<br />íme, eljött világosságod!</lines>
     </verse>
-    <verse name="c1">
-      <lines>Az Úr dicsősége rajtad feltámadt,<br />az Ő fénye benned ég, és ragyog örökké!</lines>
+    <verse name="v1">
+      <lines>Az Úr dicsősége rajtad feltámadt,<br />az Ő fénye benned ég.<br />Az Úr dicsősége rajtad feltámadt,<br />és ragyog örökké!</lines>
     </verse>
   </lyrics>
 </song>

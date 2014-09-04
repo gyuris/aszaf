@@ -13,7 +13,7 @@
       <songbook entry="130" name="Énekfüzet" />
     </songbooks>
     <copyright>© 1995 Hillsong Music Publishing</copyright>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1 c1 e1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -21,6 +21,9 @@
     </verse>
     <verse name="c1">
       <lines>Uram, Neked adom az életemet,<br />mert csak Érted élek!<br />Kérlek, vezess engem az ösvényeden,<br />minden nap Veled!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden nap Veled…</lines>
     </verse>
   </lyrics>
 </song>

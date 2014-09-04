@@ -17,10 +17,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kadosh, kadosh, kadosh,...<br />Adonai, Elohim, tz'va'ot,...<br />Asher hayah v'hoveh v'yavo.</lines>
+      <lines>‖: Kadosh, kadosh, kadosh, :‖<br />‖: Adonai, Elohim, tz'va'ot. :‖<br />‖: Asher hayah v'hoveh v'yavo. :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Szent az Úr, dicsérem, mert szent az Úr,...<br />Adonai, élő Úr, seregek Istene,...<br />Aki volt, Aki van s Aki eljövendő!</lines>
+      <lines>‖: Szent az Úr, dicsérem, mert szent az Úr, :‖<br />‖: Adonaj, élő Úr, seregek Istene. :‖<br />‖: Aki volt, Aki van s Aki eljövendő! :‖</lines>
     </verse>
   </lyrics>
 </song>

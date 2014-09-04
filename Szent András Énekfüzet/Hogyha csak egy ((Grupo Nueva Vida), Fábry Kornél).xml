@@ -17,13 +17,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>„Hogyha csak egy mustármagnyi hitetek is volna”<br />– ezt mondja a mi Urunk!<br />‖: És így szólnátok a nagy hegyekhez:<br />„Mozduljatok, mozduljatok!” :‖</lines>
+      <lines>„Hogyha csak egy mustármagnyi hitetek is volna”<br />– ezt mondja a mi Urunk!<br />‖: És így szólnátok a nagy hegyekhez:<br />„Mozduljatok, mozduljatok!” :‖</lines>
     </verse>
     <verse name="c1">
-      <lines>‖: Akkor a hegyek megindulnak,<br />Megindulnak, megindulnak. :‖</lines>
+      <lines>Akkor a hegyek megindulnak,<br />Megindulnak, megindulnak.</lines>
     </verse>
     <verse name="b1">
-      <lines>‖: Ó jöjj el! Ó, jöjj el! Ó, jöjj el Szentlélek!:‖</lines>
+      <lines>Ó jöjj el! Ó, jöjj el! Ó, jöjj el Szentlélek!</lines>
     </verse>
   </lyrics>
 </song>
