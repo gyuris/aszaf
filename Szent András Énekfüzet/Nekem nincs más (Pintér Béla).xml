@@ -11,16 +11,14 @@
     <songbooks>
       <songbook entry="271" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
-    <verse name="c1">
-      <lines>Nekem nincs más Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, szívvel, szájjal</lines>
-    </verse>
     <verse name="v1">
-      <lines>Ez a hús-vér templom<br />Érted épült,<br />Neked ég a tűz<br />bent oltárainál.<br />dicsérlek, Uram!</lines>
+      <lines>Nekem nincs más Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, szívvel, szájjal<br />dicsérlek, Uram!</lines>
     </verse>
-    <verse name="v2">
+    <verse name="c1">
+      <lines>Ez a hús-vér templom Érted épült,<br />Neked ég a tűz bent oltárainál.</lines>
       <lines>Ez a hús-vér templom Téged dicsér,<br />szívem minden húrja Rólad muzsikál.</lines>
     </verse>
   </lyrics>
