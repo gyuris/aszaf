@@ -14,7 +14,7 @@
       <songbook entry="170" name="Énekfüzet" />
     </songbooks>
     <copyright>© 1983 Ariose Music, Gaither Music Company</copyright>
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -28,6 +28,9 @@
     </verse>
     <verse name="v3">
       <lines>Az Úr kinyújtja kezét, és nincs többé gonosz,<br />az emléke is ködbe vész.<br />Virágzik a puszta, visszhangozzák a hegyek<br />a megváltottak hálaénekét.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Az Úrnak népe mi vagyunk, az Úrnak népe mi vagyunk.<br />Nem felejt el bennünket és soha nem hagy el,<br />mert szeme fénye mi vagyunk.</lines>
     </verse>
   </lyrics>
 </song>

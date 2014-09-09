@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-09-09T21:19:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nekem nincs más</title>
@@ -15,11 +15,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nekem nincs más Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, szívvel, szájjal<br />dicsérlek, Uram!</lines>
+      <lines>Nekem nincs más <br />Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, <br />szívvel, szájjal<br />dicsérlek, Uram!</lines>
     </verse>
     <verse name="c1">
-      <lines>Ez a hús-vér templom Érted épült,<br />Neked ég a tűz bent oltárainál.</lines>
-      <lines>Ez a hús-vér templom Téged dicsér,<br />szívem minden húrja Rólad muzsikál.</lines>
+      <lines>Ez a hús-vér templom Érted épült,<br />Neked ég a tűz bent oltárainál.<br />Ez a hús-vér templom Téged dicsér,<br />szívem minden húrja Rólad muzsikál.</lines>
     </verse>
   </lyrics>
 </song>

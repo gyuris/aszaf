@@ -2,7 +2,7 @@
 <song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
-      <title lang="hu">Hála legyen, hála Neked</title>
+      <title lang="hu">Hála legyen, hála legyen</title>
     </titles>
     <authors>
       <author>ismeretlen szerző</author>
@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hála legyen, hála Neked!<br />Hála legyen, hála Neked!<br />‖: Ó, végtelen Isten a földön az égen,<br />áldott legyen a Te szent neved! :‖</lines>
+      <lines>Hála legyen, hála legyen!<br />Hála legyen, hála legyen!<br />‖: Ó, végtelen Isten a földön az égen,<br />áldott legyen a Te szent neved! :‖</lines>
     </verse>
   </lyrics>
 </song>

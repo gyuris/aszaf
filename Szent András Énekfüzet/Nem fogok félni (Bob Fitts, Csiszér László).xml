@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-09-09T20:50:28" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem fogok félni</title>
@@ -13,11 +13,15 @@
       <songbook entry="88" name="Énekfüzet" />
     </songbooks>
     <copyright>© 2001 Integrity's Hosanna! Music</copyright>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nem fogok félni,<br />nem fogok félni.<br />A Te szereteted elmossa félelmem,<br />a Te szereteted elmossa félelmem.</lines>
+      <lines>‖: Nem fogok félni,<br />nem fogok félni. :‖3×<br />Én Atyám!<br />
+      </lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Te szereteted elmossa félelmem,<br />a Te szereteted elmossa félelmem.</lines>
     </verse>
   </lyrics>
 </song>

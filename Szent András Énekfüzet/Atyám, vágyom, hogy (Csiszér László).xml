@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-09-09T21:16:19" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Atyám, vágyom, hogy</title>
@@ -10,11 +10,14 @@
     <songbooks>
       <songbook entry="255" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>v1 v2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Atyám, vágyom, hogy szeress.<br />Jöjj közel és ölelj át.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, a szívembe jöttél,<br />Bennem élsz, a Tied vagyok.</lines>
     </verse>
   </lyrics>
 </song>
