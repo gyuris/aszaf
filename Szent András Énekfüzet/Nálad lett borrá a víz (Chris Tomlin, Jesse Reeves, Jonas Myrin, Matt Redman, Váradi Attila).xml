@@ -30,8 +30,11 @@
     <verse name="c1">
       <lines>Te vagy az Isten, aki nevére<br />leborul minden a földön, az égen!<br />Hegyeket mozdít, beteget gyógyít<br />az Úr ma is!</lines>
     </verse>
+    <verse name="c2">
+      <lines>Te vagy az Isten, aki nevére<br />leborul minden a földön, az égen!<br />Szíveket hódít, sebeket gyógyít<br />az Úr ma is!</lines>
+    </verse>
     <verse name="b1">
-      <lines>(És) hogyha Isten velünk,<br />ember mit árthat nekünk?<br />Mert hogyha Te vagy velünk,<br />ki lehet ellenünk?<br />mi állhat ellenünk?</lines>
+      <lines>‖: (És) hogyha Isten velünk,<br />ember mit árthat nekünk?<br />Mert hogyha Te vagy velünk,<br />ki lehet ellenünk? :‖<br />Mi állhat ellenünk?</lines>
     </verse>
   </lyrics>
 </song>
