@@ -25,6 +25,8 @@ importálása. A letöltött énektár tartalmaz néhány vetítési témát (h�
 szintén telepíthetünk. Ehhez vállasszuk ki OpenLP-ben a `Fájl > Importálás > Téma` menüpontot. 
 A felugró ablakba tallózuk be az előbb letöltött és kicsomagolt könyvtárak között a `Témák` 
 könyvtárban található `.otz` kiterjesztésű állományokat. Ezzel a témák megjelennek a Témakezelőben.
+Több téma néhány nem megszokott betűtípust igényel, melyek fel vannak sorolva a Témák leírásában,
+ezeket telepítsük az operációs rendszerre.
 
 A gyűjtemény nyitott, így ebben a műfajban bármi hozzáadható. Lépj 
 velünk kapcsolatba, ha van OpenLyrics állományod, amit szeretnél
