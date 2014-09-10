@@ -10,7 +10,7 @@ szükséges a téma telepítéséhez:
 * Encode Sans Compressed http://www.fontsquirrel.com/fonts/encode-sans
   - Átlászó, Nyugalom tengere
 * Antonio http://www.fontsquirrel.com/fonts/antonio
-  - Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban
+  - Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban, Biblia
 * Dosis http://www.fontsquirrel.com/fonts/dosis
   - Hideg, Magányos lány, Koldus
 * Gentium Basic http://www.fontsquirrel.com/fonts/Gentium-Basic
