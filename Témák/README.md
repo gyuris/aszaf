@@ -2,7 +2,8 @@ OpenLP témák
 ============
 
 Néhány OpenLP példa téma az Énekfüzethez. A témák 1024×768-as képernyőre vannak optimalizálva 
-10 sor diánkénti mérettel. Az „Átlászó” téma videóháttér feletti vetítésre való.
+10 sor diánkénti mérettel. Az „Átlászó” téma videóháttér feletti vetítésre való. A „Biblia”
+téma pedig igék vetítésére.
 
 SIL Open Font License-es betűcsaládok, amelyeket az alábbi témák alkamaznak és letöltésük 
 szükséges a téma telepítéséhez:
@@ -27,6 +28,7 @@ Creative Commons licencű fotók:
 * Tengerpart fával:  http://www.flickr.com/photos/freefoto/7589947666/
 * Szív:              http://www.flickr.com/photos/shellysblogger/4742831061
 * Szív a kosárban:   http://www.flickr.com/photos/marionzetta/5906153472
+* Biblia:            http://www.flickr.com/photos/sukisuki/3293817448
 
 Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 * Szikla:            http://www.pexels.com/photo/2440/
