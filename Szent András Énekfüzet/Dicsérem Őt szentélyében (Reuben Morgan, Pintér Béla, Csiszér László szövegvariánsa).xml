@@ -13,7 +13,7 @@
       <songbook entry="238" name="Énekfüzet" />
     </songbooks>
     <copyright>© 2000 Hillsong Music Publishing</copyright>
-    <verseOrder>v1 p1 c1</verseOrder>
+    <verseOrder>v1 p1 c1 e1</verseOrder>
     <variant>Csiszér László szövegvariánsa</variant>
   </properties>
   <lyrics>
@@ -25,7 +25,10 @@
       <lines>A napfelkeltétől szóljon a dicséret,<br />keleten, nyugaton, északon, délen!</lines>
     </verse>
     <verse name="c1">
-      <lines>Minden lélegzetemmel a nagy Királyt dicsérem,<br />gyerünk most trónja elé, áldjuk Őt!<br />Áldjuk Őt! Áldjuk Őt!<br />Áldjuk Őt! Áldjuk Őt!</lines>
+      <lines>Minden lélegzetemmel a nagy Királyt dicsérem,<br />gyerünk most trónja elé, áldjuk Őt!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Áldjuk Őt! Áldjuk Őt!<br />Áldjuk Őt! Áldjuk Őt!</lines>
     </verse>
   </lyrics>
 </song>

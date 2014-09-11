@@ -10,14 +10,17 @@
     <songbooks>
       <songbook entry="46" name="Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1 c1 c2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Uram, mind jobban szeretlek,<br />ahogy a napok telnek.<br />Szereteted áthatol, és a bensőm lángra gyúl!</lines>
     </verse>
     <verse name="c1">
-      <lines>Csendesen jössz mindig hozzám,<br />és szelíden átölelsz.<br />Halk szavaddal bátorítasz,<br />hogy sose csüggedjek el.<br />Nem taszítasz el magadtól,<br />tudom, nem, Te nem hagysz el!<br />Hűséged tart, mint a páncél, és én élek!</lines>
+      <lines>Csendesen jössz mindig hozzám,<br/>és szelíden átölelsz.<br/>Halk szavaddal bátorítasz,<br/>hogy sose csüggedjek el.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nem taszítasz el magadtól,<br/>tudom, nem, Te nem hagysz el!<br/>Hűséged tart, mint a páncél, és én élek!</lines>
     </verse>
   </lyrics>
 </song>
