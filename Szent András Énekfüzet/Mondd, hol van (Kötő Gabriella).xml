@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:55:21" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Mondd, hol van</title>
+    </titles>
+    <authors>
+      <author>Kötő Gabriella</author>
+    </authors>
+    <songbooks>
+      <songbook entry="335" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mondd, hol van az, akit úgy keres,<br />mondd, hol van az, akit úgy szeret<br />az én lelkem, az én lelkem.<br />Mondd, hol van az, akit úgy követ,<br />mondd, hol van az, akit úgy ölel<br />az én lelkem, az én lelkem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Végigjártam a várost,<br />az utcát, tereket,<br />és nem találtam Őt,<br />akit szívem keres.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Végigjártam a tengert,<br />folyókat, vizeket,<br />de nem találtam Őt,<br />akit szívem szeret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Végigjártam a hegyet,<br />mezőket, réteket<br />és nem találtam Őt,<br />akit szívem szeret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végigjártam a várost,<br />az utcát, tereket.<br />Végre megtaláltam Őt,<br />akit szívem keres.</lines>
+    </verse>
+  </lyrics>
+</song>

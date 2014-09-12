@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:38:18" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Megváltóm, Szabadítóm</title>
+      <title lang="en">For All You've Done</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="329" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 2004 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 p1 c1 e1 b1 p1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megváltóm, Szabadítóm,<br />a porból felemeltél,<br />Soha többé nem leszek már<br />az az ember, aki régen voltam én.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nyitva áll az ajtó, elkészült az út<br />a mennyország felé!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Értem jöttél, legyőzted a halált,<br />megnyílt már az út, Te új reményt hoztál.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Halleluja – az életért.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Látom már…</lines>
+    </verse>
+  </lyrics>
+</song>

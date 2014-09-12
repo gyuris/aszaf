@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:58:10" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Az Úrnak lelke rám száll</title>
+      <title lang="en">When The Spirit Of The Lord</title>
+      <title lang="en">Dance Like David</title>
+    </titles>
+    <authors>
+      <author>Fred Hammond</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook entry="336" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© Bridge Building Music, Inc.</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />éneklek miként Dávid.<br />‖: Éneklek, éneklek,<br />éneklek, miként Dávid. :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />táncolok miként Dávid.<br />‖: Táncolok, táncolok,<br />táncolok, miként Dávid. :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />ujjongok miként Dávid.<br />‖: Ujjongok, ujjongok,<br />ujjongok, miként Dávid. :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />tapsolok miként Dávid.<br />‖: Tapsolok, tapsolok,<br />tapsolok, miként Dávid. :‖</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />ugrálok miként Dávid.<br />‖: Ugrálok, ugrálok,<br />ugrálok, miként Dávid. :‖</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />örvendek miként Dávid.<br />‖: Örvendek, örvendek,<br />örvendek, miként Dávid. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

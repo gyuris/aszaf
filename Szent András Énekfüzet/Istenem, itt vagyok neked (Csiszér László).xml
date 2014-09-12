@@ -2,12 +2,15 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-11T10:14:27">
   <properties>
     <titles>
-      <title>Istenem, itt vagyok neked</title>
+      <title lang="hu">Istenem, itt vagyok neked</title>
     </titles>
     <verseOrder>v1 v2 v3 c1 v4 v5 c2 c3 v6 c4 v7 c5 v8 v9 c6 v10 v11 v12 v13 c6 v14 v15 c6 v16 c7 b1 c7 v17 c8 v18 c9 v19 v20 v21 c9 v22 v23 v24 c9 v25 v26 v27 c9 v28 v29 v30 c9 v31 v32 c9 v33 c10 v34 c10</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="332"/>
+    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">

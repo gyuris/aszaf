@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:41:47" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Nem volt reményem</title>
+      <title lang="hu">Megtalált az Úr</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook entry="330" name="Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem volt reményem<br />és nem volt barátom,<br />egyedül voltam<br />itt a világon,<br />nem ismertem Őt,<br />de közel jött hozzám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új reményt adott<br />és átformált engem.<br />Ami volt elmúlt,<br />új ember lettem,<br />drága Szellemét<br />küldte el hozzám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Megtalált az Úr,<br />és elhívott engem.<br />Mindenem övé,<br />a gyermeke lettem.<br />Megtalált az Úr,<br />és elmúlt minden félelmem!</lines>
+      <lines>Megtalált az Úr <br />és viszem a jó hírt,<br />Jézus ma is él <br />és nevemen szólít,<br />Megtalált az Úr <br />és elmúlt minden félelmem!<br />Jézus él a szívemben.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Megtalált az Úr!<br />Megtalált az Úr!<br />Megtalált az Úr!<br />Jézus él a szívemben!</lines>
+    </verse>
+  </lyrics>
+</song>

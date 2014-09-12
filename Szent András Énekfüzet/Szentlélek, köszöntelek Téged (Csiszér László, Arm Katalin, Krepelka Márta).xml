@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-12T19:12:18">
+  <properties>
+    <titles>
+      <title lang="hu">Szentlélek, köszentelek Téged</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+      <author>Arm Katalin</author>
+      <author>Krepelka Márta</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek, köszöntelek Téged.<br/>Szentlélek, áldom Szent Neved.<br/>Eljöttél, hogy erősítsd hitem,<br/>Bennem élsz és békéd végtelen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentlélek, Te vagy, ki vigasztalsz,<br/>Szentlélek, Te bátorságot adsz.<br/>Szentlélek, Te vagy az oltalom,<br/>ha kérdezlek, Te mindig válaszolsz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szentlélek, a szívem csak Tied,<br/>Szentlélek, vezesd az életem.<br/>Ha bennem élsz, én már nem félek,<br/>Minden nap Te vagy a reményem.</lines>
+    </verse>
+  </lyrics>
+</song>

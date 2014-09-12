@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-12T19:19:39">
+  <properties>
+    <titles>
+      <title lang="hu">Megszülettem én is e világra</title>
+      <title lang="hu">Atyámhoz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 e1 v3 v5 e1</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Énekfüzet" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megszülettem én is e világra,<br/>gyermekként az álmaimban jártam.<br/>Gond nélkül teltek el ezek az évek,<br/>a hegyről szabadon rohantam le rétre.<br/>Soha nem féltem…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De hol vannak már azok a boldog percek?<br/>Emlékeimben megfakultak e képek.<br/>S a szívemben ma valami furcsa űr van,<br/>hogy mondja már valaki: „Szeretlek, úgy ahogy vagy”,<br/>Bármilyen vagy…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elfáradtam a hosszú vándorlásban,<br/>amint lényem mélyén szeretetre vágytam.<br/>S e szomjam testi vággyal fojtogattam,<br/>de üresebb lettem, mint amilyen voltam.<br/>S nagyon fájtam…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Valaki szeressen őszintén, <br/>ne csak a testem s pénzem, <br/>ne az álarcomat, <br/>amit éppen most tettem fel.<br/>Mert játszottam bohócot, <br/>vallásos jófiút komor arccal,<br/>de elég volt s egy napon összetörten álltam. <br/>Néma voltam…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Valaki szeressen őszintén, <br/>ne csak a testem s pénzem, <br/>ne az álarcomat, <br/>amit éppen most tettem fel.<br/>Mert játszottam bohócot, <br/>vallásos jófiút komor arccal,<br/>de elég volt s egy napon őszintén megálltam. <br/>Néma voltam…</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ekkor Isten megszólalt:<br/>Az Én gyermekem vagy,<br/>jöjj vissza hozzám, tárt karom rád vár.<br/>Mert örök szeretettel szeretlek téged,<br/>Nem kell már félned semmitől.<br/>Én nem feledtelek el, felépítlek téged,<br/>hisz Istened vagyok, a Szeretet!</lines>
+    </verse>
+  </lyrics>
+</song>

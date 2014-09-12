@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:53:03" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Vonj közel hozzád</title>
+      <title lang="en">Draw Me Close</title>
+    </titles>
+    <authors>
+      <author>Kelly Carpenter</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook entry="334" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vonj közel Hozzád.<br />El nem hagylak már.<br />Most mindenem Eléd viszem,<br />és bármit kérsz, én megteszem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozzád tartozom.<br />Nem kell más nekem.<br />Csak vond közel az életem,<br />és bármi ér, én elhiszem…</lines>
+    </verse>
+    <verse name="p1">
+      <lines>hogy mindig van egy út,<br />mi visszavisz Hozzád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az Úr!<br />Tudom, szükségem van Rád.<br />Te vagy az Út!<br />Maradj közel hozzám.</lines>
+    </verse>
+  </lyrics>
+</song>

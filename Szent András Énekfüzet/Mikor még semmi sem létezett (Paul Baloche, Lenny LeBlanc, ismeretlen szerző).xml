@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T22:00:03" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Mikor még semmi sem létezett</title>
+      <title lang="en">Above All</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche</author>
+      <author>Lenny LeBlanc</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook entry="337" name="Énekfüzet" />
+    </songbooks>
+    <copyright>© 1999 Integrity's Hosanna! Music, LenSongs Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor még semmi nem létezett,<br />nemzetek, népek, királyok és bölcsek,<br />nem volt még ember, és földi élet sem,<br />Te akkor már szerettél engem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmak jöttek, és tűntek el,<br />de oly csodát mint Te senki nem tehet.<br />A Földnek kincse nem érhet fel Veled,<br />és senki másé nem lesz már szívem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljöttél, feláldoztad magad!<br />Szenvedtél, azért, hogy célt mutass.<br />Helyettem meghaltál, hogy éljek<br />és ezért követlek bárhová!</lines>
+    </verse>
+  </lyrics>
+</song>
