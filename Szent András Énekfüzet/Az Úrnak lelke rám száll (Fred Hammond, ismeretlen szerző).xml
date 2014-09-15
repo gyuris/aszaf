@@ -14,26 +14,30 @@
       <songbook entry="336" name="Szent András Énekfüzet" />
     </songbooks>
     <copyright>© Bridge Building Music, Inc.</copyright>
-    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />éneklek miként Dávid.<br />‖: Éneklek, éneklek,<br />éneklek, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />éneklek, miként Dávid.<br />‖: Éneklek, éneklek,<br />éneklek, miként Dávid. :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />táncolok miként Dávid.<br />‖: Táncolok, táncolok,<br />táncolok, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />táncolok, miként Dávid.<br />‖: Táncolok, táncolok,<br />táncolok, miként Dávid. :‖</lines>
     </verse>
     <verse name="v3">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />ujjongok miként Dávid.<br />‖: Ujjongok, ujjongok,<br />ujjongok, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />ugrálok, miként Dávid.<br />‖: Ugrálok, ugrálok,<br />ugrálok, miként Dávid. :‖</lines>
     </verse>
     <verse name="v4">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />tapsolok miként Dávid.<br />‖: Tapsolok, tapsolok,<br />tapsolok, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />ujjongok, miként Dávid.<br />‖: Ujjongok, ujjongok,<br />ujjongok, miként Dávid. :‖</lines>
     </verse>
     <verse name="v5">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />ugrálok miként Dávid.<br />‖: Ugrálok, ugrálok,<br />ugrálok, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />örvendek, miként Dávid.<br />‖: Örvendek, örvendek,<br />örvendek, miként Dávid. :‖</lines>
     </verse>
     <verse name="v6">
-      <lines>Az Úrnak lelke rám száll a magasból,<br />örvendek miként Dávid.<br />‖: Örvendek, örvendek,<br />örvendek, miként Dávid. :‖</lines>
+      <lines>Az Úrnak lelke rám száll a magasból,<br />tapsolok, miként Dávid.<br />‖: Tapsolok, tapsolok,<br />tapsolok, miként Dávid. :‖</lines>
     </verse>
+    <verse name="v7">
+      <lines>Az Úrnak lelke rám száll a magasból,<br />harcolok, miként Dávid.<br />‖: Harcolok, harcolok,<br />harcolok, miként Dávid. :‖</lines>
+    </verse>
+
   </lyrics>
 </song>
