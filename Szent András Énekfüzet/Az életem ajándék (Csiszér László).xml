@@ -4,7 +4,7 @@
     <titles>
       <title lang="hu">Az életem ajándék</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Csiszér László</author>
     </authors>
@@ -13,10 +13,10 @@
     </songbooks>
   </properties>
   <lyrics>
-    <verse name="c1">
+    <verse name="v1">
       <lines>Az életem ajándék,<br/>amit Tőled kaptam én.<br/>Ma téged választ a szívem,<br/>hogy örökre bennem élj.</lines>
     </verse>
-    <verse name="v1">
+    <verse name="c1">
       <lines>Elfogadom a sok jót, <br/>amit adsz nekem.<br/>Elfogadom ma tőled, <br/>mert Te vagy Istenem.</lines>
     </verse>
     <verse name="v2">
