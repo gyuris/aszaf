@@ -8,6 +8,9 @@
     <authors>
       <author>Ismeretlen</author>
     </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok" />
+    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
