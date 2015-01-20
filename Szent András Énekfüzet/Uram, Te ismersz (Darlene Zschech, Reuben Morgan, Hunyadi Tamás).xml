@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:21:22" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:33" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Uram, Te ismersz</title>
       <title lang="en">At The Cross</title>
     </titles>
     <authors>
-      <author>Darlene Zschech</author>
-      <author>Reuben Morgan</author>
-      <author lang="hu" type="translation">Hunyadi Tamás</author>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
     </authors>
     <songbooks>
       <songbook entry="304" name="Szent András Énekfüzet" />

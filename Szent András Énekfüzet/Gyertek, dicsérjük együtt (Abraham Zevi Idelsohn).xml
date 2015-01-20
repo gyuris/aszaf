@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-29T23:37:56" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Gyertek, dicsérjük együtt</title>
       <title lang="he">Hava Nagila</title>
     </titles>
     <authors>
-      <author>Abraham Zevi Idelsohn</author>
+      <author type="words">Abraham Zevi Idelsohn</author>
+      <author type="music">Abraham Zevi Idelsohn</author>
     </authors>
     <songbooks>
       <songbook entry="10" name="Szent András Énekfüzet" />

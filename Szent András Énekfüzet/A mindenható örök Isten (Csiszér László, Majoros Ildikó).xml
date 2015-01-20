@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:12:26" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A mindenható örök Isten</title>
       <title lang="hu">Új élet Krisztusban k. himnusz</title>
     </titles>
     <authors>
-      <author>Csiszér László</author>
-      <author>Majoros Ildikó</author>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+      <author type="words">Majoros Ildikó</author>
+      <author type="music">Majoros Ildikó</author>
     </authors>
     <songbooks>
       <songbook entry="285" name="Szent András Énekfüzet" />

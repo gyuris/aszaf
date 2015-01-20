@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-12T19:14:26">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:20" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Az életem ajándék</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1</verseOrder>
     <authors>
-      <author>Csiszér László</author>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook name="Szent András Énekfüzet" entry="339"/>
+      <songbook entry="339" name="Szent András Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Az életem ajándék,<br/>amit Tőled kaptam én.<br/>Ma téged választ a szívem,<br/>hogy örökre bennem élj.</lines>
+      <lines>Az életem ajándék,<br />amit Tőled kaptam én.<br />Ma téged választ a szívem,<br />hogy örökre bennem élj.</lines>
     </verse>
     <verse name="c1">
-      <lines>Elfogadom a sok jót, <br/>amit adsz nekem.<br/>Elfogadom ma tőled, <br/>mert Te vagy Istenem.</lines>
+      <lines>Elfogadom a sok jót, <br />amit adsz nekem.<br />Elfogadom ma tőled, <br />mert Te vagy Istenem.</lines>
     </verse>
     <verse name="v2">
-      <lines>Szólj szívemhez Jézus, <br/>vezessen szavad,<br/>mert boldogságot nékem <br/>jelenléted ad.</lines>
+      <lines>Szólj szívemhez Jézus, <br />vezessen szavad,<br />mert boldogságot nékem <br />jelenléted ad.</lines>
     </verse>
   </lyrics>
 </song>

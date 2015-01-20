@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:50:29" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:29" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem választ semmi el</title>
@@ -7,9 +7,10 @@
       <title lang="en">Your Love Never Fails</title>
     </titles>
     <authors>
-      <author>Anthony Skinner</author>
-      <author>Chris McClarney</author>
-      <author lang="hu" type="translation">Dobner Illés</author>
+      <author type="words">Anthony Skinner</author>
+      <author type="music">Anthony Skinner</author>
+      <author type="words">Chris McClarney</author>
+      <author type="music">Chris McClarney</author>
     </authors>
     <songbooks>
       <songbook entry="333" name="Szent András Énekfüzet" />
@@ -17,24 +18,16 @@
     <copyright>© 2008 Thankyou Music, Integrity's Alleluia! Music, Out Of The Cave Music</copyright>
     <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
   </properties>
-  <format>
-    <tags application="OpenLP">
-      <tag name="y">
-        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
-        <close>&lt;/span&gt;</close>
-      </tag>
-    </tags>
-  </format>
   <lyrics>
     <verse name="v1">
-      <lines>Nem választ semmi el,<br/>ha elfutnék, nem engedsz el,<br/>szerelmed nem fogy el. <br/>Tudom, még vétkezem, de<br/>mindennap új irgalmat adsz nekem,<br/>mert szerelmed nem fogy el.</lines>
+      <lines>Nem választ semmi el,<br />ha elfutnék, nem engedsz el,<br />szerelmed nem fogy el. <br />Tudom, még vétkezem, de<br />mindennap új irgalmat adsz nekem,<br />mert szerelmed nem fogy el.</lines>
     </verse>
     <verse name="c1">
-      <lines break="optional">Mindörökké ugyanaz vagy.<br/>Szerelmed bőven árad.<br/>Ha éjjel bánat emészt,<br/>új öröm vár rám reggel.</lines>
-      <lines>És ha tenger zúdul rám, <br/>nem kell többé félnem már,<br/>hiszen Te úgy szeretsz engem, <br/>és szerelmed nem fogy el. </lines>
+      <lines>Mindörökké ugyanaz vagy.<br />Szerelmed bőven árad.<br />Ha éjjel bánat emészt,<br />új öröm vár rám reggel.</lines>
+      <lines>És ha tenger zúdul rám, <br />nem kell többé félnem már,<br />hiszen Te úgy szeretsz engem, <br />és szerelmed nem fogy el. </lines>
     </verse>
     <verse name="v2">
-      <lines>A vihar tombol és a víz is mély, de<br/>Te itt vagy velem és ez épp elég,<br/>mert szerelmed nem fogy el.<br/>Oly távol kerültem én,<br/>nem gondoltam, hogy egyszer utolérsz,<br/>de szerelmed nem fogy el.</lines>
+      <lines>A vihar tombol és a víz is mély, de<br />Te itt vagy velem és ez épp elég,<br />mert szerelmed nem fogy el.<br />Oly távol kerültem én,<br />nem gondoltam, hogy egyszer utolérsz,<br />de szerelmed nem fogy el.</lines>
     </verse>
     <verse name="b1">
       <lines>(Benned) Mindig minden javamra válik.</lines>

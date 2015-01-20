@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:57:26" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:30" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Ó, Uram, a Te Igéd</title>
@@ -7,9 +7,10 @@
       <title lang="en">Psalm 119</title>
     </titles>
     <authors>
-      <author>Amy Grant</author>
-      <author>Michael W. Smith</author>
-      <author lang="hu" type="translation">Németh S. Judit</author>
+      <author type="words">Amy Grant</author>
+      <author type="music">Amy Grant</author>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
     </authors>
     <songbooks>
       <songbook entry="65" name="Szent András Énekfüzet" />

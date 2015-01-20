@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Jézus, Jézus, Te vagy a válasz</title>
       <title lang="en">Jesus You're The Answer</title>
     </titles>
     <authors>
-      <author>Tommy Walker</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
     </authors>
     <songbooks>
       <songbook entry="294" name="Szent András Énekfüzet" />

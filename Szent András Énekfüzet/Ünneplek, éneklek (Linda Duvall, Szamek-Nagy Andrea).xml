@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:33" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Ünneplek, éneklek</title>
       <title lang="en">I Will Celebrate</title>
     </titles>
     <authors>
-      <author>Linda Duvall</author>
-      <author lang="hu" type="translation">Szamek-Nagy Andrea</author>
+      <author type="words">Linda Duvall</author>
+      <author type="music">Linda Duvall</author>
     </authors>
     <songbooks>
       <songbook entry="134" name="Szent András Énekfüzet" />

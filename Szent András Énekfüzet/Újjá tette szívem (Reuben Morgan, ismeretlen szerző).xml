@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Újjá tette szívem</title>
@@ -7,8 +7,8 @@
       <title lang="en">My Redeemer Lives</title>
     </titles>
     <authors>
-      <author>Reuben Morgan</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
     </authors>
     <songbooks>
       <songbook entry="158" name="Szent András Énekfüzet" />

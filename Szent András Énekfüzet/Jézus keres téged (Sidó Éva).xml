@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Jézus keres téged</title>
       <title lang="hu">Legyél igazi! k. himnusz</title>
     </titles>
     <authors>
-      <author>Sidó Éva</author>
+      <author type="words">Sidó Éva</author>
+      <author type="music">Sidó Éva</author>
     </authors>
     <songbooks>
       <songbook entry="298" name="Szent András Énekfüzet" />

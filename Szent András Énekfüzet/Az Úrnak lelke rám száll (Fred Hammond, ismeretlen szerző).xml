@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:58:10" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:21" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Az Úrnak lelke rám száll</title>
@@ -7,8 +7,8 @@
       <title lang="en">Dance Like David</title>
     </titles>
     <authors>
-      <author>Fred Hammond</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Fred Hammond</author>
+      <author type="music">Fred Hammond</author>
     </authors>
     <songbooks>
       <songbook entry="336" name="Szent András Énekfüzet" />
@@ -38,6 +38,5 @@
     <verse name="v7">
       <lines>Az Úrnak lelke rám száll a magasból,<br />harcolok, miként Dávid.<br />‖: Harcolok, harcolok,<br />harcolok, miként Dávid. :‖</lines>
     </verse>
-
   </lyrics>
 </song>

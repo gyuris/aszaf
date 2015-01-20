@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:59:53" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Te vagy az, akiből élet árad</title>
     </titles>
     <authors>
-      <author>Balogh Mihály</author>
-      <author>Pajor Tamás</author>
+      <author type="words">Balogh Mihály</author>
+      <author type="music">Balogh Mihály</author>
+      <author type="words">Pajor Tamás</author>
+      <author type="music">Pajor Tamás</author>
     </authors>
     <songbooks>
       <songbook entry="239" name="Szent András Énekfüzet" />

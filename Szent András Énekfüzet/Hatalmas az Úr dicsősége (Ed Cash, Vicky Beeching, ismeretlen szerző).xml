@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T22:02:04" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Hatalmas az Úr dicsősége</title>
       <title lang="en">Great Is Your Glory</title>
     </titles>
     <authors>
-      <author>Ed Cash</author>
-      <author>Vicky Beeching</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Vicky Beeching</author>
+      <author type="music">Vicky Beeching</author>
     </authors>
     <songbooks>
       <songbook entry="265" name="Szent András Énekfüzet" />

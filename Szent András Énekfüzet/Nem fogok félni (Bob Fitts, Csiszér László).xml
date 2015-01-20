@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-09-09T20:50:28" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:29" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem fogok félni</title>
       <title lang="en">I Will Not Be Afraid</title>
     </titles>
     <authors>
-      <author>Bob Fitts</author>
-      <author lang="hu" type="translation">Csiszér László</author>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
     </authors>
     <songbooks>
       <songbook entry="88" name="Szent András Énekfüzet" />

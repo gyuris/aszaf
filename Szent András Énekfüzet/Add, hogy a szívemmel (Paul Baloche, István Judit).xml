@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:18" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Add, hogy a szívemmel</title>
       <title lang="en">Open the Eyes of My Heart</title>
     </titles>
     <authors>
-      <author>Paul Baloche</author>
-      <author lang="hu" type="translation">István Judit</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
     </authors>
     <songbooks>
       <songbook entry="210" name="Szent András Énekfüzet" />

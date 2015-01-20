@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:39:35" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Hívlak, Uram, mert</title>
       <title lang="en">I Need You More</title>
     </titles>
     <authors>
-      <author>Bruce Haynes</author>
-      <author>Lindell Cooley</author>
-      <author lang="hu" type="translation">Varga Eszter</author>
+      <author type="words">Bruce Haynes</author>
+      <author type="music">Bruce Haynes</author>
+      <author type="words">Lindell Cooley</author>
+      <author type="music">Lindell Cooley</author>
     </authors>
     <songbooks>
       <songbook entry="129" name="Szent András Énekfüzet" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T23:23:30" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:26" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Kell, hogy végre érezd</title>
@@ -7,9 +7,10 @@
       <title lang="en">Everyone Needs Compassion</title>
     </titles>
     <authors>
-      <author>Ben Fielding</author>
-      <author>Reuben Morgan</author>
-      <author lang="hu" type="translation">Hunyadi Tamás</author>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
     </authors>
     <songbooks>
       <songbook entry="299" name="Szent András Énekfüzet" />

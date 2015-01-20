@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Itt vagyok most, jó Uram</title>
@@ -7,8 +7,8 @@
       <title lang="en">I Love You Lord</title>
     </titles>
     <authors>
-      <author>The Continental Singers</author>
-      <author lang="hu" type="translation">Bodrics Erika</author>
+      <author type="words">The Continental Singers</author>
+      <author type="music">The Continental Singers</author>
     </authors>
     <songbooks>
       <songbook entry="57" name="Szent András Énekfüzet" />

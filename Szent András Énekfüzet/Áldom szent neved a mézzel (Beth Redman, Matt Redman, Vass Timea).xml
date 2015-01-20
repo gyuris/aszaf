@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:14:52" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Áldom szent neved a mézzel</title>
       <title lang="en">Blessed Be Your Name</title>
     </titles>
     <authors>
-      <author>Beth Redman</author>
-      <author>Matt Redman</author>
-      <author lang="hu" type="translation">Vass Timea</author>
+      <author type="words">Beth Redman</author>
+      <author type="music">Beth Redman</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
     </authors>
     <songbooks>
       <songbook entry="291" name="Szent András Énekfüzet" />

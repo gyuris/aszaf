@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Jézus, ünnepeljük</title>
       <title lang="en">Jesus We Celebrate Your Victory</title>
     </titles>
     <authors>
-      <author>John Gibson</author>
-      <author lang="hu" type="translation">Németh S. Judit</author>
+      <author type="words">John Gibson</author>
+      <author type="music">John Gibson</author>
     </authors>
     <songbooks>
       <songbook entry="82" name="Szent András Énekfüzet" />

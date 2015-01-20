@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:24:56" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Hallgasd meg, kérlek, imám</title>
@@ -7,9 +7,10 @@
       <title>Je veux n'être qu'à Toi</title>
     </titles>
     <authors>
-      <author>Chris Christensten</author>
-      <author>Thierry Ostrini</author>
-      <author lang="hu" type="translation">(Chemin Neuf Közösség)</author>
+      <author type="words">Chris Christensten</author>
+      <author type="music">Chris Christensten</author>
+      <author type="words">Thierry Ostrini</author>
+      <author type="music">Thierry Ostrini</author>
     </authors>
     <songbooks>
       <songbook entry="324" name="Szent András Énekfüzet" />

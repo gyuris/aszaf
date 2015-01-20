@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T22:00:03" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:28" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Mikor még semmi sem létezett</title>
       <title lang="en">Above All</title>
     </titles>
     <authors>
-      <author>Paul Baloche</author>
-      <author>Lenny LeBlanc</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
     </authors>
     <songbooks>
       <songbook entry="337" name="Szent András Énekfüzet" />

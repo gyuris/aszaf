@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:57:53" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Följebb minden hatalomnál</title>
       <title lang="en">Above All</title>
     </titles>
     <authors>
-      <author>Lenny LeBlanc</author>
-      <author>Paul Baloche</author>
-      <author lang="hu" type="translation">Prazsák László</author>
-      <author lang="hu" type="translation">Prazsákné Torday Csilla</author>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
     </authors>
     <songbooks>
       <songbook entry="216" name="Szent András Énekfüzet" />

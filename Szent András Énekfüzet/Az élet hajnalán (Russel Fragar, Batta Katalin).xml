@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:20" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Az élet hajnalán</title>
@@ -7,8 +7,8 @@
       <title lang="en">So You Would Come</title>
     </titles>
     <authors>
-      <author>Russel Fragar</author>
-      <author lang="hu" type="translation">Batta Katalin</author>
+      <author type="words">Russel Fragar</author>
+      <author type="music">Russel Fragar</author>
     </authors>
     <songbooks>
       <songbook entry="165" name="Szent András Énekfüzet" />

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-09-09T20:38:34" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Te vagy méltó</title>
       <title lang="en">We Rejoice In You</title>
     </titles>
     <authors>
-      <author>David Boyd</author>
-      <author lang="hu" type="translation">Szőcs Gergely</author>
+      <author type="words">David Boyd</author>
+      <author type="music">David Boyd</author>
     </authors>
     <songbooks>
       <songbook entry="81" name="Szent András Énekfüzet" />

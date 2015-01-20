@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:20" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A Te méltóságod csendjében</title>
       <title lang="en">In The Silence</title>
     </titles>
     <authors>
-      <author>Paul Iannuzzelli</author>
-      <author lang="hu" type="translation">Schmél Csaba</author>
+      <author type="words">Paul Iannuzzelli</author>
+      <author type="music">Paul Iannuzzelli</author>
     </authors>
     <songbooks>
       <songbook entry="45" name="Szent András Énekfüzet" />

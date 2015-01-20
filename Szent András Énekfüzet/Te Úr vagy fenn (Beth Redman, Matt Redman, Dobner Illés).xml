@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T21:50:27" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Te Úr vagy fenn</title>
       <title lang="en">Let My Words Be Few</title>
     </titles>
     <authors>
-      <author>Beth Redman</author>
-      <author>Matt Redman</author>
-      <author lang="hu" type="translation">Dobner Illés</author>
+      <author type="words">Beth Redman</author>
+      <author type="music">Beth Redman</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
     </authors>
     <songbooks>
       <songbook entry="191" name="Szent András Énekfüzet" />

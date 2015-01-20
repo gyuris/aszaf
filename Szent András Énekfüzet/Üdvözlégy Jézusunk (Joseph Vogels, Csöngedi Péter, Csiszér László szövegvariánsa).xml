@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.4" modifiedDate="2014-06-30T22:53:40" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.4" modifiedDate="2015-01-20T14:23:33" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Üdvözlégy Jézusunk</title>
@@ -7,8 +7,8 @@
       <title lang="en">Hail Jesus</title>
     </titles>
     <authors>
-      <author>Joseph Vogels</author>
-      <author lang="hu" type="translation">Csöngedi Péter</author>
+      <author type="words">Joseph Vogels</author>
+      <author type="music">Joseph Vogels</author>
     </authors>
     <songbooks>
       <songbook entry="1" name="Szent András Énekfüzet" />

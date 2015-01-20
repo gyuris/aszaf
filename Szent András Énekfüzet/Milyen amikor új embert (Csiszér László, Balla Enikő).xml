@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2014-06-30T22:13:26" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:28" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Milyen amikor új embert</title>
       <title lang="hu">Gyere, ismerd meg a Megváltót</title>
     </titles>
     <authors>
-      <author>Csiszér László</author>
-      <author>Balla Enikő</author>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+      <author type="words">Balla Enikő</author>
+      <author type="music">Balla Enikő</author>
     </authors>
     <songbooks>
       <songbook entry="288" name="Szent András Énekfüzet" />

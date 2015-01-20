@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2014-09-12T21:41:35" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Állok és Téged csodállak</title>
       <title lang="en">The Stand</title>
     </titles>
     <authors>
-      <author>Joel Houston</author>
-      <author lang="hu" type="translation">ismeretlen szerző</author>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
     </authors>
     <songbooks>
       <songbook entry="331" name="Szent András Énekfüzet" />

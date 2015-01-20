@@ -1,28 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-12T19:12:18">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:30" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Szentlélek, köszöntelek Téged</title>
     </titles>
-    <verseOrder>v1 v2 c1</verseOrder>
     <authors>
-      <author>Csiszér László</author>
-      <author>Arm Katalin</author>
-      <author>Krepelka Márta</author>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+      <author type="words">Arm Katalin</author>
+      <author type="music">Arm Katalin</author>
+      <author type="words">Krepelka Márta</author>
+      <author type="music">Krepelka Márta</author>
     </authors>
     <songbooks>
-      <songbook name="Szent András Énekfüzet" entry="338"/>
+      <songbook entry="338" name="Szent András Énekfüzet" />
     </songbooks>
+    <verseOrder>v1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szentlélek, köszöntelek Téged.<br/>Szentlélek, áldom Szent Neved.<br/>Eljöttél, hogy erősítsd hitem,<br/>Bennem élsz és békéd végtelen!</lines>
+      <lines>Szentlélek, köszöntelek Téged.<br />Szentlélek, áldom Szent Neved.<br />Eljöttél, hogy erősítsd hitem,<br />Bennem élsz és békéd végtelen!</lines>
     </verse>
     <verse name="v2">
-      <lines>Szentlélek, Te vagy, ki vigasztalsz,<br/>Szentlélek, Te bátorságot adsz.<br/>Szentlélek, Te vagy az oltalom,<br/>ha kérdezlek, Te mindig válaszolsz.</lines>
+      <lines>Szentlélek, Te vagy, ki vigasztalsz,<br />Szentlélek, Te bátorságot adsz.<br />Szentlélek, Te vagy az oltalom,<br />ha kérdezlek, Te mindig válaszolsz.</lines>
     </verse>
     <verse name="c1">
-      <lines>Szentlélek, a szívem csak Tied,<br/>Szentlélek, vezesd az életem.<br/>Ha bennem élsz, én már nem félek,<br/>Minden nap Te vagy a reményem.</lines>
+      <lines>Szentlélek, a szívem csak Tied,<br />Szentlélek, vezesd az életem.<br />Ha bennem élsz, én már nem félek,<br />Minden nap Te vagy a reményem.</lines>
     </verse>
   </lyrics>
 </song>

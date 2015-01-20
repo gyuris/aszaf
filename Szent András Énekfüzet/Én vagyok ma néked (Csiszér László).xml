@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:22" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Én vagyok ma néked</title>
     </titles>
     <authors>
-      <author>Csiszér László</author>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
     </authors>
     <songbooks>
       <songbook entry="171" name="Szent András Énekfüzet" />

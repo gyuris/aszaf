@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-28T13:05:15" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Te éltetsz engem</title>
       <title lang="en">Breathe</title>
     </titles>
     <authors>
-      <author>Marie Barnett</author>
-      <author lang="hu" type="translation">Bodogán Dóri</author>
+      <author type="words">Marie Barnett</author>
+      <author type="music">Marie Barnett</author>
     </authors>
     <songbooks>
       <songbook entry="280" name="Szent András Énekfüzet" />
