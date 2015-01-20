@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:39:54" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Áldjátok Isten mindörökké</title>
@@ -9,6 +9,7 @@
     <authors>
       <author type="words">Israel Houghton</author>
       <author type="music">Israel Houghton</author>
+      <author lang="hu" type="translation">Hunyadi Tamás</author>
     </authors>
     <songbooks>
       <songbook entry="322" name="Szent András Énekfüzet" />

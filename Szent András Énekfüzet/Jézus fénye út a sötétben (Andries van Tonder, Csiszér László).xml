@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:59" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Jézus fénye út a sötétben</title>
@@ -9,6 +9,7 @@
     <authors>
       <author type="words">Andries van Tonder</author>
       <author type="music">Andries van Tonder</author>
+      <author lang="hu" type="translation">Csiszér László</author>
     </authors>
     <songbooks>
       <songbook entry="125" name="Szent András Énekfüzet" />

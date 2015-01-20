@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:55" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A sátánt legyőzték</title>
@@ -8,6 +8,8 @@
     <authors>
       <author type="words">Don Potter</author>
       <author type="music">Don Potter</author>
+      <author lang="hu" type="translation">Prazsák László</author>
+      <author lang="hu" type="translation">Erős Tibor</author>
     </authors>
     <songbooks>
       <songbook entry="78" name="Szent András Énekfüzet" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:34" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:40:07" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Vonj közel hozzád</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Kelly Carpenter</author>
       <author type="music">Kelly Carpenter</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
       <songbook entry="334" name="Szent András Énekfüzet" />

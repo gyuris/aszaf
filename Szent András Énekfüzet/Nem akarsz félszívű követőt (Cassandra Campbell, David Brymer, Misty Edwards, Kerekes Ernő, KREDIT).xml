@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:29" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:40:03" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem akarsz félszívű követőt</title>
@@ -13,6 +13,8 @@
       <author type="music">David Brymer</author>
       <author type="words">Misty Edwards</author>
       <author type="music">Misty Edwards</author>
+      <author lang="hu" type="translation">Kerekes Ernő</author>
+      <author lang="hu" type="translation">KREDIT</author>
     </authors>
     <songbooks>
       <songbook entry="292" name="Szent András Énekfüzet" />

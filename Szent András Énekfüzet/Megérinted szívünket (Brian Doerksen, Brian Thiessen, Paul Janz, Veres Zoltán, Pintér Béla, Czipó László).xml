@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:27" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:01" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Megérinted szívünket</title>
@@ -13,6 +13,9 @@
       <author type="music">Brian Thiessen</author>
       <author type="words">Paul Janz</author>
       <author type="music">Paul Janz</author>
+      <author lang="hu" type="translation">Veres Zoltán</author>
+      <author lang="hu" type="translation">Pintér Béla</author>
+      <author lang="hu" type="translation">Czipó László</author>
     </authors>
     <songbooks>
       <songbook entry="143" name="Szent András Énekfüzet" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:20" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:55" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A Te méltóságod csendjében</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Paul Iannuzzelli</author>
       <author type="music">Paul Iannuzzelli</author>
+      <author lang="hu" type="translation">Schmél Csaba</author>
     </authors>
     <songbooks>
       <songbook entry="45" name="Szent András Énekfüzet" />

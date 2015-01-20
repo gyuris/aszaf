@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:23" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:57" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Fiam, egyetlen kincsem vagy</title>
@@ -9,6 +9,8 @@
     <authors>
       <author type="words">Brian Doerksen</author>
       <author type="music">Brian Doerksen</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+      <author lang="hu" type="translation">Balogh Ádám</author>
     </authors>
     <songbooks>
       <songbook entry="145" name="Szent András Énekfüzet" />

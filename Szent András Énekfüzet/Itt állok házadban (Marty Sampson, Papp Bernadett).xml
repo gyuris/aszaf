@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:25" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:39:59" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Itt állok házadban</title>
@@ -9,6 +9,7 @@
     <authors>
       <author type="words">Marty Sampson</author>
       <author type="music">Marty Sampson</author>
+      <author lang="hu" type="translation">Papp Bernadett</author>
     </authors>
     <songbooks>
       <songbook entry="290" name="Szent András Énekfüzet" />

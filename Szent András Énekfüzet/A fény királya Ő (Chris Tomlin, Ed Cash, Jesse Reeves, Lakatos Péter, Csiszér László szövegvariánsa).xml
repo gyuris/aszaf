@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:18" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:54" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">A fény királya Ő</title>
@@ -12,6 +12,7 @@
       <author type="music">Ed Cash</author>
       <author type="words">Jesse Reeves</author>
       <author type="music">Jesse Reeves</author>
+      <author lang="hu" type="translation">Lakatos Péter</author>
     </authors>
     <songbooks>
       <songbook entry="272" name="Szent András Énekfüzet" />

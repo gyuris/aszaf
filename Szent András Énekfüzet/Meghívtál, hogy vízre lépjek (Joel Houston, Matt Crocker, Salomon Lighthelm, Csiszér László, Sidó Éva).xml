@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:27" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:40:01" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Meghívtál, hogy vízre lépjek</title>
@@ -13,6 +13,8 @@
       <author type="music">Matt Crocker</author>
       <author type="words">Salomon Lighthelm</author>
       <author type="music">Salomon Lighthelm</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+      <author lang="hu" type="translation">Sidó Éva</author>
     </authors>
     <songbooks>
       <songbook entry="309" name="Szent András Énekfüzet" />

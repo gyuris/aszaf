@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:06" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Te vagy szerelme</title>
@@ -10,6 +10,8 @@
       <author type="music">Noel Richards</author>
       <author type="words">Tricia Richards</author>
       <author type="music">Tricia Richards</author>
+      <author lang="hu" type="translation">Bágyi Péter</author>
+      <author lang="hu" type="translation">Simonfalvi Enikő</author>
     </authors>
     <songbooks>
       <songbook entry="93" name="Szent András Énekfüzet" />

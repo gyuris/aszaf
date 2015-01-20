@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:32" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:06" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Teljes lényem Téged áld</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Darlene Zschech</author>
       <author type="music">Darlene Zschech</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
     </authors>
     <songbooks>
       <songbook entry="269" name="Szent András Énekfüzet" />

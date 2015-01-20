@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:19" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:54" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Amikor hozzám értél</title>
@@ -9,6 +9,7 @@
     <authors>
       <author type="words">Raymond Badham</author>
       <author type="music">Raymond Badham</author>
+      <author lang="hu" type="translation">Pajor Tamás</author>
     </authors>
     <songbooks>
       <songbook entry="199" name="Szent András Énekfüzet" />

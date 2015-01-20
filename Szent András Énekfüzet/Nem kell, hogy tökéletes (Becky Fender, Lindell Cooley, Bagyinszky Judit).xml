@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:23:29" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLyrics Python Library 0.2" modifiedDate="2015-01-20T14:40:03" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem kell, hogy tökéletes</title>
@@ -12,6 +12,7 @@
       <author type="music">Becky Fender</author>
       <author type="words">Lindell Cooley</author>
       <author type="music">Lindell Cooley</author>
+      <author lang="hu" type="translation">Bagyinszky Judit</author>
     </authors>
     <songbooks>
       <songbook entry="323" name="Szent András Énekfüzet" />

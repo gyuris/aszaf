@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:22" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:57" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Emlékezzél meg az Úr</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Walt Harrah</author>
       <author type="music">Walt Harrah</author>
+      <author lang="hu" type="translation">Németh S. Judit</author>
     </authors>
     <songbooks>
       <songbook entry="61" name="Szent András Énekfüzet" />

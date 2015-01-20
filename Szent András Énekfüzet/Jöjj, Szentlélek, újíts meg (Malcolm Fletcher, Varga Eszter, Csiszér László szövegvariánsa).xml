@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:26" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:00" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Jöjj, Szentlélek, újíts meg</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Malcolm Fletcher</author>
       <author type="music">Malcolm Fletcher</author>
+      <author lang="hu" type="translation">Varga Eszter</author>
     </authors>
     <songbooks>
       <songbook entry="195" name="Szent András Énekfüzet" />

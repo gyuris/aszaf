@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:27" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:01" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Ma csak álmodom arról</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Bart Millard</author>
       <author type="music">Bart Millard</author>
+      <author lang="hu" type="translation">Kerekes Ernő</author>
     </authors>
     <songbooks>
       <songbook entry="279" name="Szent András Énekfüzet" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:26" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:00" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Kelj fel, Uram, jöjj</title>
@@ -8,6 +8,7 @@
     <authors>
       <author type="words">Paul Wilbur</author>
       <author type="music">Paul Wilbur</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
     </authors>
     <songbooks>
       <songbook entry="262" name="Szent András Énekfüzet" />

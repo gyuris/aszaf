@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:23:29" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+<song createdIn="OpenLP 2.0.5" modifiedDate="2015-01-20T14:40:03" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
   <properties>
     <titles>
       <title lang="hu">Nem választ semmi el</title>
@@ -11,6 +11,7 @@
       <author type="music">Anthony Skinner</author>
       <author type="words">Chris McClarney</author>
       <author type="music">Chris McClarney</author>
+      <author lang="hu" type="translation">Dobner Illés</author>
     </authors>
     <songbooks>
       <songbook entry="333" name="Szent András Énekfüzet" />
