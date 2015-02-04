@@ -9,7 +9,7 @@ dicsőítő, imádó, hitvalló és evangelizáló dalokat egy helyen meg lehess
 (http://www.openlyrics.info/). Bár a későbbiekben más jellegű dalszövegek is 
 bekerültek a gyűjteménybe, az továbbra is a keresztény liturgikus könnyűzenére koncentrál.
 Noha a létrehozók katolikusak, az adatbázis nyitott más felekezet gyűjteményei előtt is, 
-hiszen elég sok dalunk már is közös.
+hiszen elég sok dalunk máris közös.
 
 A gyűjtemény kiindulópontja a Szent András Evangelizációs Iskola OpenSong 
 formátumú „Énekfüzet” adatbázisa volt. Nagy mennyiségű dalszöveget konvertált Riszterer Tamás 
