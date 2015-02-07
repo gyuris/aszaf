@@ -32,6 +32,7 @@ ezeket telepítsük az operációs rendszerre.
 
 A gyűjtemény nyitott, így ebben a műfajban bármi hozzáadható. Lépj 
 velünk kapcsolatba, ha van OpenLyrics állományod, amit szeretnél
-feltölteni.
+feltölteni: Gyuris Gellért bubu kukac ujevangelizacio pont hu
 
-Gyuris Gellért bubu kukac ujevangelizacio pont hu
+Ez a mű a [Creative Commons Nevezd meg! - Így add tovább! 4.0 Nemzetközi Licenc (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+feltételei szerint felhasználható, terjeszthető, módosítható.
