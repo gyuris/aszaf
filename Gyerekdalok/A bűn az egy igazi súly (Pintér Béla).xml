@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.1.2" modifiedIn="OpenLP 2.1.2" modifiedDate="2015-02-17T23:37:38">
+  <properties>
+    <titles>
+      <title>A bűn az egy igazi súly</title>
+      <title>Mr. Bűn</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A bűn az egy igazi súly, <br/>annyira nyomni tudja a szívet meg a vállat,<br/>Neked megy, felöklel, teljesen kicsinál, <br/>mint egy felbőszült vadállat.<br/>A bűn, tudod, sose kopog, <br/>mindig ajtóstul ront be a házba,<br/>Felforgat mindent, s csak akkor nyugszik meg, <br/>ha teljesen porig alázhat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyere, szabaduljunk meg a bűntől, <br/>gyorsan dobjuk ki a szűrét,<br/>Valljuk meg az életünknek <br/>minden apró bűnét,<br/>Van Isten az égben, <br/>Aki megbocsájtja vétkünk,<br/>Nem kell többé bűnök miatt <br/>rettegnünk és félnünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A bűn sokszor nagyon édes, <br/>azt hazudja, ő a te legjobb barátod,<br/>Sose higgy neki, mert sumák, és kegyetlen, <br/>ott szúr meg, ahol nem várod.<br/>A bűn sose lesz jó haver, <br/>rabul ejti, és fogva tarthatja szíved,<br/>Elgáncsol, neked megy, rád mászik, <br/>nem enged Istenhez közel téged.</lines>
+    </verse>
+    <verse name="b1">
+      <lines break="optional">A hasamat fogom a nevetéstől, <br/>mikor feltűnik Mr. Bean,<br/>De csak a fejemet fogom a szégyenkezéstől, <br/>ha előjön Mr. Bűn.<br/>Először úgy tűnik, minden oké, <br/>de ha nyeregbe kerül, mint egy zsoké,<br/>Akkor mondhat szépeket a szája, <br/>a végén megszúr, mint egy tüskés rája.</lines>
+      <lines break="optional">Mr. Bűn az életem <br/>legnagyobb ellensége, <br/>ezért szükségem van <br/>minden nap Isten segítségére.<br/>Ő már legyőzte a bűnt, <br/>kihúzta méregfogát, <br/>azóta búcsút inthetek <br/>minden bűnnek: Csá, csumi, good-bye.</lines>
+      <lines>Good-bye, Mr. Bűn!</lines>
+    </verse>
+  </lyrics>
+</song>
