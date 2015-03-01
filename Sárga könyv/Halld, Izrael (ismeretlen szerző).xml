@@ -4,7 +4,7 @@
     <titles>
       <title>Halld, Izrael</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>ismeretlen szerző</author>
     </authors>
@@ -18,6 +18,9 @@
     </verse>
     <verse name="v2">
       <lines>Sema Jiszraél: Adonáj Elohénu Adonáj echád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halld, magyar nép, az Úr nékünk<br/>Istenünk, az egyetlen Úr!<br/>Halld, magyar nép, az Úr nékünk<br/>Istenünk, az egyetlen Úr!<br/>Halld, magyar nép, az Úr nékünk<br/>Istenünk, Ő az Egyetlen!<br/>Halld, magyar nép, az Úr nékünk<br/>Istenünk, az egyetlen Úr!</lines>
     </verse>
   </lyrics>
 </song>
