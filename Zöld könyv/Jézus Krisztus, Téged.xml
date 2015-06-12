@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Jézus Krisztus, Téged</title>
@@ -9,18 +9,18 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="34"/>
+      <songbook name="ZöldKönyv" entry="252"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jézus Krisztus, Téged elküldött az Atya,<br/>Hogy gyógyísd a megtört szívüeket,<br/>‖: Uram irgalmazz nekünk :‖×3</lines>
+      <lines>Jézus Krisztus, Téged elküldött az Atya,<br/>Hogy gyógyísd a megtört szívüeket,<br/>||: Uram irgalmazz nekünk :||x3</lines>
     </verse>
     <verse name="v2">
-      <lines>Jézus Krisztus, Te eljöttél hozzánk,<br/>Hogy hívjad a bűnös embereket,<br/>‖: Krisztus kegyelmezz nekünk :‖×3</lines>
+      <lines>Jézus Krisztus, Te eljöttél hozzánk,<br/>Hogy hívjad a bűnös embereket,<br/>||: Krisztus kegyelmezz nekünk :||x3</lines>
     </verse>
     <verse name="v3">
-      <lines>Jézus Krisztus, Te az Atya jobbján ülsz,<br/>Hogy értünk örökre közbenjárj.<br/>‖: Uram irgalmazz nekünk :‖×3</lines>
+      <lines>Jézus Krisztus, Te az Atya jobbján ülsz,<br/>Hogy értünk örökre közbenjárj.<br/>||: Uram irgalmazz nekünk :||x3</lines>
     </verse>
   </lyrics>
 </song>

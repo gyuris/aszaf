@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Ne aggodalmaskodjál, nézz</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="41"/>
+      <songbook name="ZöldKönyv" entry="256"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ne aggodalmaskodjál, nézz Istenedre fel!<br/>Ő felruház és táplál, rád gondot is visel.<br/>‖: Dicső Király, az ég és föld Ura,<br/>Szívem Tiéd, légy annak is Ura! :‖</lines>
+      <lines>Ne aggodalmaskodjál, nézz Istenedre fel!<br/>Ő felruház és táplál, rád gondot is visel.<br/>||: Dicső Király, az ég és föld Ura,<br/>Szívem Tiéd, légy annak is Ura! :||</lines>
     </verse>
   </lyrics>
 </song>

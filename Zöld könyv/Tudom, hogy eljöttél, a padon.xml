@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Tudom, hogy eljöttél, a padon</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="270"/>
+      <songbook name="ZöldKönyv" entry="469"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -23,13 +23,13 @@
       <lines>Betonkorsóba zárva félve pihen a víz.<br/>Álmodik Csillagos Arcról, ó mondd még miben hisz?<br/>De gyűrűket fon reá a könnyező ég:<br/>Megrándul az Arc, szabaddá tettél!</lines>
     </verse>
     <verse name="v4">
-      <lines>‖: Ha nem könnyezne az ég, mondd miből élnél még? :‖</lines>
+      <lines>||: Ha nem könnyezne az ég, mondd miből élnél még? :||</lines>
     </verse>
     <verse name="v5">
       <lines>Gyönge a fűszál, az égre tör, földhöz ragad újra.<br/>Ezer s ezer ujját Feléd az égre nyújtja.</lines>
     </verse>
     <verse name="v6">
-      <lines>‖: Ha nem könnyezne az ég, mondd miből élnél még? :‖</lines>
+      <lines>||: Ha nem könnyezne az ég, mondd miből élnél még? :||</lines>
     </verse>
   </lyrics>
 </song>

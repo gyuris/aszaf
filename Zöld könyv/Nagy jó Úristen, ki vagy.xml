@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
   <properties>
     <titles>
       <title>Nagy jó Úristen, ki vagy</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="49"/>
+      <songbook name="ZöldKönyv" entry="261"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -26,7 +26,7 @@
       <lines>Áldjon a szelíd, aki megenged társának,<br/>Békén tűr ha kell, s a betegágyon hálát ad:<br/>Ékes koronát jutalomképpen érette<br/>Méltán kap.</lines>
     </verse>
     <verse name="v5">
-      <lines>Áldjon a halál, kapukat táró testvérünk;<br/>Karja fölsegít, amikor Hozzád megtérünk.<br/>‖: Téged, Fennvaló, gyermeki szívvel, ámulva<br/>Dicsérünk. :‖<br/>Dicsérünk.</lines>
+      <lines>Áldjon a halál, kapukat táró testvérünk;<br/>Karja fölsegít, amikor Hozzád megtérünk.<br/>||: Téged, Fennvaló, gyermeki szívvel, ámulva<br/>Dicsérünk. :||<br/>Dicsérünk.</lines>
     </verse>
   </lyrics>
 </song>

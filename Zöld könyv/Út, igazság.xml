@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Út, igazság</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="129"/>
+      <songbook name="ZöldKönyv" entry="334"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Út, igazság!<br/>Út, élet! :‖</lines>
+      <lines>||: Út, igazság!<br/>Út, élet! :||</lines>
     </verse>
     <verse name="v2">
       <lines>Te vagy az út,<br/>Te vagy az igazság,<br/>Te vagy nekem az élet!<br/>Te vagy az Úr,<br/>Szívem csak téged lát,<br/>Veled soha nem félek!</lines>
@@ -26,7 +26,7 @@
       <lines>Hogyha elborít az árny,<br/>Egyedül téged hív a szám.<br/>Te vagy a biztos útirány:<br/>Veled meglátom hazám!</lines>
     </verse>
     <verse name="v5">
-      <lines>‖: Út, igazság!<br/>Út, élet! :‖</lines>
+      <lines>||: Út, igazság!<br/>Út, élet! :||</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Szeretlek Jézus, jobban</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="236"/>
+      <songbook name="ZöldKönyv" entry="436"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Szeretlek Jézus, jobban mindennél! :‖<br/>‖: Tiéd a szívem, tiéd az életem! :‖<br/>‖: Tiéd az ország, a hatalom és<br/>Nincs más kihez mehetnék,<br/>Te vagy az egyetlen menedék! :‖</lines>
+      <lines>||: Szeretlek Jézus, jobban mindennél! :||<br/>||: Tiéd a szívem, tiéd az életem! :||<br/>||: Tiéd az ország, a hatalom és<br/>Nincs más kihez mehetnék,<br/>Te vagy az egyetlen menedék! :||</lines>
     </verse>
     <verse name="v2">
       <lines>Jézus a biztos szikla!<br/>Ki rajta áll, annak jöhet szél<br/>és árvíz, szilárdan áll a ház!<br/>Jézus a biztos szikla!<br/>Rajta állok már!<br/>Így hát jöhet szél és árvíz,<br/>szilárdan áll a ház.</lines>

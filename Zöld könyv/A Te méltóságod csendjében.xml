@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>A Te méltóságod csendjében</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="224"/>
+      <songbook name="ZöldKönyv" entry="424"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Ölelj körül engem teljesen,<br/>Hadd érezzem bensőmben,<br/>A Te kedves jelenlétedet!<br/>Hadd halljam meg hangod,<br/>Lágyan csengő szelíd<br/>suttogásod, Atyám!</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Úgy vágyom eléd állni,<br/>Jelenlétedben lenni,<br/>És Téged dicsérni, egyedül,<br/>szüntelen!<br/>Kezeimet nyújtom Feléd,<br/>Az életem már csak a Tiéd!<br/>Hadd halljam meg hangod! :‖</lines>
+      <lines>||: Úgy vágyom eléd állni,<br/>Jelenlétedben lenni,<br/>És Téged dicsérni, egyedül,<br/>szüntelen!<br/>Kezeimet nyújtom Feléd,<br/>Az életem már csak a Tiéd!<br/>Hadd halljam meg hangod! :||</lines>
     </verse>
   </lyrics>
 </song>

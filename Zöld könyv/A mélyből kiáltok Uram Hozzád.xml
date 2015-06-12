@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>A mélyből kiáltok Uram Hozzád</title>
@@ -9,18 +9,18 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="37"/>
+      <songbook name="ZöldKönyv" entry="255A"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>A mélyből kiáltok Uram Hozzád,<br/>Ne hagy el, szabadíts meg!<br/>Mutasd meg magad Végtelen Isten,<br/>Ne hagyj elveszni bűneimben!<br/>‖: Uram irgalmazz! :‖×4</lines>
+      <lines>A mélyből kiáltok Uram Hozzád,<br/>Ne hagy el, szabadíts meg!<br/>Mutasd meg magad Végtelen Isten,<br/>Ne hagyj elveszni bűneimben!<br/>||: Uram irgalmazz! :||x4</lines>
     </verse>
     <verse name="v2">
-      <lines>Te elküldted hozzánk fiadat, Jézust,<br/>Ki kereszten szenvedett értünk.<br/>De közénk jön most a kenyérben, borban,<br/>A búcsúvacsorán ígérte nékünk!<br/>‖: Krisztus kegyelmezz! :‖×4</lines>
+      <lines>Te elküldted hozzánk fiadat, Jézust,<br/>Ki kereszten szenvedett értünk.<br/>De közénk jön most a kenyérben, borban,<br/>A búcsúvacsorán ígérte nékünk!<br/>||: Krisztus kegyelmezz! :||x4</lines>
     </verse>
     <verse name="v3">
-      <lines>A mélyből kiáltok Uram Hozzád,<br/>Hol zarándokútját járja néped!<br/>A kereszt jelével homlokunkon<br/>Fiad nevében kérünk Téged!<br/>‖: Uram irgalmazz! :‖×4</lines>
+      <lines>A mélyből kiáltok Uram Hozzád,<br/>Hol zarándokútját járja néped!<br/>A kereszt jelével homlokunkon<br/>Fiad nevében kérünk Téged!<br/>||: Uram irgalmazz! :||x4</lines>
     </verse>
   </lyrics>
 </song>

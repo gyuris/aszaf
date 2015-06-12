@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Uram, Tehozzád futok</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="9"/>
+      <songbook name="ZöldKönyv" entry="227"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Én pedig szüntelen remélek,<br/>egyre jobban dicsérlek,<br/>ajkam beszéli a Te igazságodat.</lines>
     </verse>
     <verse name="v3">
-      <lines>Hadd legyen most a dalom<br/>Jó illat oltárodon.<br/>‖: Nagyon szeretlek Téged :‖<br/>Jézusom</lines>
+      <lines>Hadd legyen most a dalom<br/>Jó illat oltárodon.<br/>||: Nagyon szeretlek Téged :||<br/>Jézusom</lines>
     </verse>
   </lyrics>
 </song>

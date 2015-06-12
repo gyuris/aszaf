@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
   <properties>
     <titles>
       <title>Köszönöm neked, Istenem</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="94"/>
+      <songbook name="ZöldKönyv" entry="303"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -23,7 +23,7 @@
       <lines>Ennél is még tovább mentél,<br/>örökre hozzám költöztél,<br/>elmentél, hogy eggyé váljunk,<br/>Te vagy minden boldogságunk!<br/>Á-á-á... La, la...</lines>
     </verse>
     <verse name="v4">
-      <lines>Á-á-á... Atyánk vagy!<br/>Á-á-á... Barátunk vagy, a lelked velünk,<br/>olyan jó nekünk, a lelked velünk, olyan jó nekünk<br/>‖: olyan jó nekünk! :‖</lines>
+      <lines>Á-á-á... Atyánk vagy!<br/>Á-á-á... Barátunk vagy, a lelked velünk,<br/>olyan jó nekünk, a lelked velünk, olyan jó nekünk<br/>||: olyan jó nekünk! :||</lines>
     </verse>
   </lyrics>
 </song>

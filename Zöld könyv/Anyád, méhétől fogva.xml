@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Anyád, méhétől fogva</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="141"/>
+      <songbook name="ZöldKönyv" entry="346"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Anyád, méhétől fogva kiválasztottalak,<br/>‖: az enyém vagy :‖3x :‖<br/>‖: A hajnalból szültelek Téged<br/>körülvettelek és dédelgettelek<br/>kezemben hordom életed<br/>angyalaimmal őrzöm tetteidet. :‖</lines>
+      <lines>||: Anyád, méhétől fogva kiválasztottalak,<br/>||: az enyém vagy :|||3x :||<br/>||: A hajnalból szültelek Téged<br/>körülvettelek és dédelgettelek<br/>kezemben hordom életed<br/>angyalaimmal őrzöm tetteidet. :||</lines>
     </verse>
   </lyrics>
 </song>

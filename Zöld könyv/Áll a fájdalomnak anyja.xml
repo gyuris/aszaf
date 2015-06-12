@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
   <properties>
     <titles>
       <title>Áll a fájdalomnak anyja</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="52"/>
+      <songbook name="ZöldKönyv" entry="264"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Ki ne sírna, melyik ember,<br/>Hogy ennyi gyötrelemben<br/>Látja lankadozni őt?<br/>Ki ne sírna Máriával,<br/>Hogyha látja szent Fiával<br/>Szenvedni a szent szülőt?<br/>Simeon szólt Máriához:<br/>A te lelked is tőr járja át!</lines>
     </verse>
     <verse name="v3">
-      <lines>Krisztusom, ha jő halálom,<br/>Anyád szeme rám találjon<br/>És elhívjon engemet.<br/>Hogyha testem porba tér meg,<br/>Lelkem a nagy égnek<br/>Dicsőségét lelje meg.<br/>‖: Simeon szólt Máriához:<br/>A te lelked is tőr járja át! :‖</lines>
+      <lines>Krisztusom, ha jő halálom,<br/>Anyád szeme rám találjon<br/>És elhívjon engemet.<br/>Hogyha testem porba tér meg,<br/>Lelkem a nagy égnek<br/>Dicsőségét lelje meg.<br/>||: Simeon szólt Máriához:<br/>A te lelked is tőr járja át! :||</lines>
     </verse>
   </lyrics>
 </song>

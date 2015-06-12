@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
   <properties>
     <titles>
       <title>Megújult a szívünk, megáldja</title>
@@ -9,30 +9,30 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="106"/>
+      <songbook name="ZöldKönyv" entry="313"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :‖</lines>
+      <lines>||: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :||</lines>
     </verse>
     <verse name="v2">
       <lines>Jézus adta a fényt szívünkbe,<br/>s arra kér, hogy adjuk tovább.<br/>Mert e fény, ha a földre árad,<br/>újra éled e szép világ.</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :‖</lines>
+      <lines>||: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :||</lines>
     </verse>
     <verse name="v4">
       <lines>Ím az éjszaka véget ért már:<br/>itt a nappali fényesség.<br/>Menjünk el a világ végéig,<br/>s adjuk hírül, hogy Jézus él!</lines>
     </verse>
     <verse name="v5">
-      <lines>‖: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :‖</lines>
+      <lines>||: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :||</lines>
     </verse>
     <verse name="v6">
       <lines>Téged áld az imánk, oh Jézus,<br/>s néked adjuk az életünk!<br/>Száll a háladalunk most hozzád,<br/>mert Te megszabadítottál.</lines>
     </verse>
     <verse name="v7">
-      <lines>‖: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :‖</lines>
+      <lines>||: Megújult a szívünk, megáldja életünk<br/>Ő, aki él. Alleluja! :||</lines>
     </verse>
   </lyrics>
 </song>

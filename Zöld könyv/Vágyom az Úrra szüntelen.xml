@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Vágyom az Úrra szüntelen</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="153"/>
+      <songbook name="ZöldKönyv" entry="358"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>Vágyom az Úrra szüntelen,<br/>Úgy várom az Urat!<br/>Ő kell nekem, és senki más,<br/>Őt imádom csak!<br/>Éhezem Őt és szomjazom,<br/>lelkem vágyik rá.<br/>Hívlak én Uram, jöjj közel,<br/>látogass meg már!</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Hadd teljek be a Te lényeddel,<br/>Jöjj, ne késlekedj!<br/>Áraszd Lelked a szívembe,<br/>Kérlek, ébressz fel! :‖</lines>
+      <lines>||: Hadd teljek be a Te lényeddel,<br/>Jöjj, ne késlekedj!<br/>Áraszd Lelked a szívembe,<br/>Kérlek, ébressz fel! :||</lines>
     </verse>
     <verse name="v3">
       <lines>Átkarolsz szerelmeddel,<br/>Jézus add, hogy éljek én,<br/>Tested, véred, szent erőd,<br/>áradjon bennem szét!<br/>Felém tartom a két kezem, szívem csak a Tiéd,<br/>Áldd meg kérlek az életem,<br/>csak Neked éljek én!</lines>

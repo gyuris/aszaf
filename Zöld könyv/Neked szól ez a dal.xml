@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Neked szól ez a dal</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="133"/>
+      <songbook name="ZöldKönyv" entry="338"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -29,7 +29,7 @@
       <lines>Miként Dávid király,<br/>Ajkam zsoltárt zeng Feléd!<br/>Neked hála a világon mindenért!<br/>Igen, hallod imám,<br/>Ha nyílik a szám,<br/>Ha peng már a húr,<br/>Ha szól a gitár!</lines>
     </verse>
     <verse name="v6">
-      <lines>Neked hála! Dicsér a nép!<br/>Neked hála! Kiáltja gyermek, és mondja a vén!<br/>Dicsérik mind-mind az Úr nevét!<br/>Neked hála! Dicsérlek én!<br/>Neked hála! Dicsér a Föld és mind, aki él!<br/>Dicsérik mind-mind az Úr nevét!<br/>‖: Neked hála! Hála! :‖</lines>
+      <lines>Neked hála! Dicsér a nép!<br/>Neked hála! Kiáltja gyermek, és mondja a vén!<br/>Dicsérik mind-mind az Úr nevét!<br/>Neked hála! Dicsérlek én!<br/>Neked hála! Dicsér a Föld és mind, aki él!<br/>Dicsérik mind-mind az Úr nevét!<br/>||: Neked hála! Hála! :||</lines>
     </verse>
   </lyrics>
 </song>

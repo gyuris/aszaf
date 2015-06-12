@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
   <properties>
     <titles>
       <title>Király vagy, király vagy</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="88"/>
+      <songbook name="ZöldKönyv" entry="297"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Király vagy, király vagy, Jézus Király! :‖<br/>‖: Most felemeljük a szívünket,<br/>Most felemeljük kezeinket,<br/>A trónod elé járulunk, imádva légy! :‖</lines>
+      <lines>||: Király vagy, király vagy, Jézus Király! :||<br/>||: Most felemeljük a szívünket,<br/>Most felemeljük kezeinket,<br/>A trónod elé járulunk, imádva légy! :||</lines>
     </verse>
   </lyrics>
 </song>

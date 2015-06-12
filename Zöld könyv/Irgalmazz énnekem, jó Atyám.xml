@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Irgalmazz énnekem, jó Atyám</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="273"/>
+      <songbook name="ZöldKönyv" entry="472"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -23,13 +23,13 @@
       <lines>Mindenségnek Istene,<br/>égen, földön, minden lélek<br/>dicsérettel van tele,<br/>zeng a lelkem is vele!</lines>
     </verse>
     <verse name="v4">
-      <lines>‖: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :‖</lines>
+      <lines>||: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :||</lines>
     </verse>
     <verse name="v5">
       <lines>Áldott az Úr nevében,<br/>Itt jön égi fennségben<br/>égnek és földnek Istene<br/>Hozsannázzunk mind vele!</lines>
     </verse>
     <verse name="v6">
-      <lines>‖: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :‖</lines>
+      <lines>||: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :||</lines>
     </verse>
     <verse name="v7">
       <lines>Bűneinket égi Bárány<br/>szent vérednek drága árán<br/>mind elveszed<br/>Irgalmazz nekem!</lines>

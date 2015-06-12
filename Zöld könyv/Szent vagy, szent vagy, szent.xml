@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Szent vagy, szent vagy, szent</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="204"/>
+      <songbook name="ZöldKönyv" entry="405"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>Szent vagy, szent vagy, szent vagy,<br/>Szent vagy, szent vagy, szent vagy,<br/>Szent vagy, szent vagy, szent vagy,<br/>Jahve Sabaoth.</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Az ég és föld zengje áldott nevedet. :‖<br/>‖: Hozsanna a magasságban, hozsanna! :‖<br/>‖: Ó áldott aki jön az Úr nevében! :‖<br/>‖: Hozsanna a magasságban, hozsanna! :‖</lines>
+      <lines>||: Az ég és föld zengje áldott nevedet. :||<br/>||: Hozsanna a magasságban, hozsanna! :||<br/>||: Ó áldott aki jön az Úr nevében! :||<br/>||: Hozsanna a magasságban, hozsanna! :||</lines>
     </verse>
   </lyrics>
 </song>

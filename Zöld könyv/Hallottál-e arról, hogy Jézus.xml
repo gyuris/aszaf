@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Hallottál-e arról, hogy Jézus</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="23"/>
+      <songbook name="ZöldKönyv" entry="241"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>Hallottál-e arról, hogy Jézus újra visszajön, hogy Jézus újra visszajön?<br/>Hallottál-e arról, hogy nemsokára visszajön, hogy nemsokára visszajön?</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Egy nap, amit úgy vár a szívem,<br/>Hogy Jézus innen elvigyen.<br/>Egy nap, amit úgy vár a szívem,<br/>Hogy Jézus innen elvigyen :‖</lines>
+      <lines>||: Egy nap, amit úgy vár a szívem,<br/>Hogy Jézus innen elvigyen.<br/>Egy nap, amit úgy vár a szívem,<br/>Hogy Jézus innen elvigyen :||</lines>
     </verse>
     <verse name="v3">
       <lines>Hallottál-e arról, hogy Jézus újra visszajön, hogy Jézus újra visszajön?<br/>Hallottál-e arról, hogy nemsokára visszajön, hogy nemsokára visszajön?</lines>

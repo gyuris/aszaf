@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Dicsőség</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="38"/>
+      <songbook name="ZöldKönyv" entry="255B"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Dicsőség!<br/>Istenünkhöz, jó Atyánkhoz szálljon fel!<br/>Békesség!<br/>Béke, öröm legyen minden emberrel!</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Dicsőség neked Istenünk,<br/>mert megváltottad életünk! :‖<br/>Dicsőség! Békesség!</lines>
+      <lines>||: Dicsőség neked Istenünk,<br/>mert megváltottad életünk! :||<br/>Dicsőség! Békesség!</lines>
     </verse>
   </lyrics>
 </song>

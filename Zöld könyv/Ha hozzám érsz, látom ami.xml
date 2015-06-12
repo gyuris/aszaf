@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Ha hozzám érsz, látom ami</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="269"/>
+      <songbook name="ZöldKönyv" entry="468"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -26,7 +26,7 @@
       <lines>Ha hozzám érsz, értem ami érthetetlen.<br/>Ha hozzám érsz, befogad a Mérhetetlen.<br/>Ha hozzám érsz, kitágul végre ez a lét,<br/>s beköltözik lelkembe az Ég. Betölt az Ég!</lines>
     </verse>
     <verse name="v5">
-      <lines>‖: A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Felébrednek, szárnyra kelnek!<br/>A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Országodba elvezetnek. :‖</lines>
+      <lines>||: A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Felébrednek, szárnyra kelnek!<br/>A hangok a lelkemből,<br/>A hangok a Lelkedből,<br/>Felébrednek, szárnyra kelnek!<br/>Országodba elvezetnek. :||</lines>
     </verse>
   </lyrics>
 </song>

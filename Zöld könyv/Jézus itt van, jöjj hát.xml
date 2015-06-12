@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Jézus itt van, jöjj hát</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="151"/>
+      <songbook name="ZöldKönyv" entry="356"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Jézus itt van, jöjj hát!<br/>Szentlélek szállj ránk!<br/>Atyánkat imádjuk,<br/>a kegyelem áradjon szét! :‖</lines>
+      <lines>||: Jézus itt van, jöjj hát!<br/>Szentlélek szállj ránk!<br/>Atyánkat imádjuk,<br/>a kegyelem áradjon szét! :||</lines>
     </verse>
     <verse name="v2">
       <lines>Tudom régóta már,<br/>Te vagy a Király: Jézus!<br/>Szívem befogadott,<br/>én a Tied vagyok!<br/>Maradj hát velem!</lines>

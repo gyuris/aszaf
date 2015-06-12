@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Hát nem tudod és nem</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="148"/>
+      <songbook name="ZöldKönyv" entry="353"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>Hát nem tudod és nem hallottad,<br/>hogy örökké való Isten az Úr?<br/>Ő alkotta a mindenséget.<br/>Erőt ad a megfáradtnak és az erőtlent<br/>erőssé teszi.</lines>
     </verse>
     <verse name="v2">
-      <lines>Ellankadnak az ifjak,<br/>még a bátrak is megbotlanak,<br/>‖: De akik az Úrban bíznak,<br/>erejük megújul,<br/>szárnyra kelnek, mint a saskeselyűk,<br/>futnak és nem lankadnak el,<br/>járnak, és nem fáradnak el.<br/>Napról-napra Benne bíznak :‖</lines>
+      <lines>Ellankadnak az ifjak,<br/>még a bátrak is megbotlanak,<br/>||: De akik az Úrban bíznak,<br/>erejük megújul,<br/>szárnyra kelnek, mint a saskeselyűk,<br/>futnak és nem lankadnak el,<br/>járnak, és nem fáradnak el.<br/>Napról-napra Benne bíznak :||</lines>
     </verse>
   </lyrics>
 </song>

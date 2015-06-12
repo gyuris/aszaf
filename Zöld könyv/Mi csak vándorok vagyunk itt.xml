@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Mi csak vándorok vagyunk itt</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="36"/>
+      <songbook name="ZöldKönyv" entry="254"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>S ha földi sátrunk egyszer összedől,<br/>S az életünk majd véget ér,<br/>Az angyalok kórusához társul énekünk,<br/>A szentekkel zengjük örökké.</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Áldunk Téged, Imádunk Téged,<br/>Mert szent kereszted által<br/>Megváltottad a vilá - got. :‖</lines>
+      <lines>||: Áldunk Téged, Imádunk Téged,<br/>Mert szent kereszted által<br/>Megváltottad a vilá - got. :||</lines>
     </verse>
   </lyrics>
 </song>

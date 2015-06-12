@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Én Uram Istenem vigyázz ránk</title>
@@ -9,18 +9,18 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="275"/>
+      <songbook name="ZöldKönyv" entry="474"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Én Uram Istenem vigyázz ránk!<br/>Ne hagyjad elveszni a hazát!<br/>‖: Sírva kér két szemünk,<br/>Irgalmazz mi nekünk!<br/>Emeld fel magadhoz Nemzetünk! :‖</lines>
+      <lines>Én Uram Istenem vigyázz ránk!<br/>Ne hagyjad elveszni a hazát!<br/>||: Sírva kér két szemünk,<br/>Irgalmazz mi nekünk!<br/>Emeld fel magadhoz Nemzetünk! :||</lines>
     </verse>
     <verse name="v2">
-      <lines>Szeretet fénye ég mibennünk!<br/>Míg élünk hiszünk és remélünk!<br/>‖: Vigyázz ránk, nyújtsd kezed,<br/>Oltalmazd népedet:<br/>Az ősi, nagy Magyar Nemzetet! :‖<br/>Szűzanyánk szeplőtlen Mária<br/>Hozzád száll sok magyar sóhaja,</lines>
+      <lines>Szeretet fénye ég mibennünk!<br/>Míg élünk hiszünk és remélünk!<br/>||: Vigyázz ránk, nyújtsd kezed,<br/>Oltalmazd népedet:<br/>Az ősi, nagy Magyar Nemzetet! :||<br/>Szűzanyánk szeplőtlen Mária<br/>Hozzád száll sok magyar sóhaja,</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Kérd értünk Fiadat,<br/>Megváltó Urunkat<br/>Védje, s őrizze Országunkat. :‖<br/>Míg igaz magyar él a földön,<br/>Nem hagyjuk, hogy a rossz legyőzzön!<br/>‖: Bármi volt, bármi lesz,<br/>A magyar magyar lesz!<br/>Így éled fel újra a Nemzet. :‖ ×3</lines>
+      <lines>||: Kérd értünk Fiadat,<br/>Megváltó Urunkat<br/>Védje, s őrizze Országunkat. :||<br/>Míg igaz magyar él a földön,<br/>Nem hagyjuk, hogy a rossz legyőzzön!<br/>||: Bármi volt, bármi lesz,<br/>A magyar magyar lesz!<br/>Így éled fel újra a Nemzet. :||x3</lines>
     </verse>
   </lyrics>
 </song>

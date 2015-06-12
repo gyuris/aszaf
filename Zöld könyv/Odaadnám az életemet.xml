@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
   <properties>
     <titles>
       <title>Odaadnám az életemet</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="131"/>
+      <songbook name="ZöldKönyv" entry="336"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>A bűnömet bánom. Utamat járom,<br/>Célomat látom, az te vagy nekem,<br/>Csak benned bízom, és nem félek én,<br/>Életem kék egén Te vagy a fény!</lines>
     </verse>
     <verse name="v3">
-      <lines>Odaadom az életemet.<br/>Így most már jó, mert óvja kezed.<br/>De látod, mily' bűnös az,<br/>Több ott a rossz, a gaz, nézd!<br/>Csak ezt adhatom neked én.<br/>‖: Életem gyönge, de neked adom.<br/>Fogadd el, fogadd el! :‖</lines>
+      <lines>Odaadom az életemet.<br/>Így most már jó, mert óvja kezed.<br/>De látod, mily' bűnös az,<br/>Több ott a rossz, a gaz, nézd!<br/>Csak ezt adhatom neked én.<br/>||: Életem gyönge, de neked adom.<br/>Fogadd el, fogadd el! :||</lines>
     </verse>
   </lyrics>
 </song>

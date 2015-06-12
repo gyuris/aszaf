@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Tested Jézus értünk függött</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="25"/>
+      <songbook name="ZöldKönyv" entry="243"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Tested Jézus értünk függött. :‖×4<br/>‖: Véred Jézus értünk ömlött. :‖×4</lines>
+      <lines>||: Tested Jézus értünk függött. :||x4<br/>||: Véred Jézus értünk ömlött. :||x4</lines>
     </verse>
   </lyrics>
 </song>

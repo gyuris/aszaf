@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
       <title>Gyertyaláng, tiszta fény</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="21"/>
+      <songbook name="ZöldKönyv" entry="239"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,13 +17,13 @@
       <lines>Gyertyaláng, tiszta fény, csonkig égő áldozás,<br/>áldozatban pusztulás, Isten oltárainál.<br/>Gyertyaláng, tiszta fény, embert hívó lángolás,<br/>végső percig lobogás áldozatunk asztalán.</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Gyertyaláng, tiszta fény, önpusztító lobogás,<br/>nem is akar lenni más, nem is kíván semmi mást,<br/>nem is lehet soha más! :‖</lines>
+      <lines>||: Gyertyaláng, tiszta fény, önpusztító lobogás,<br/>nem is akar lenni más, nem is kíván semmi mást,<br/>nem is lehet soha más! :||</lines>
     </verse>
     <verse name="v3">
       <lines>Szelíden, könnyesen, minden új dal győzelem<br/>Ezer gyötrődésemen, minden gyöngeségemen.<br/>Gyertyaláng életem, könnyű széltől megremeg,<br/>De amit lehet megteszek, áldozattá így leszek!</lines>
     </verse>
     <verse name="v4">
-      <lines>‖: Gyertyaláng, tiszta fény, önpusztító lobogás,<br/>nem is akar lenni más, nem is kíván semmi mást,<br/>nem is lehet soha más! :‖ …Gyertyaláng!</lines>
+      <lines>||: Gyertyaláng, tiszta fény, önpusztító lobogás,<br/>nem is akar lenni más, nem is kíván semmi mást,<br/>nem is lehet soha más! :||…Gyertyaláng!</lines>
     </verse>
   </lyrics>
 </song>

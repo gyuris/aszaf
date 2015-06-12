@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:34:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
   <properties>
     <titles>
       <title>Hazamegyek, ez a világ nem</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="ZöldKönyv" entry="231"/>
+      <songbook name="ZöldKönyv" entry="431"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Hazamegyek, ez a világ nem a hazám.<br/>Tudom hogy Ő, Jézus király vár én reám. :‖<br/>‖: Jöjj el jöjj el hát! :‖<br/>Jézus király!</lines>
+      <lines>||: Hazamegyek, ez a világ nem a hazám.<br/>Tudom hogy Ő, Jézus király vár én reám. :||<br/>||: Jöjj el jöjj el hát! :||<br/>Jézus király!</lines>
     </verse>
   </lyrics>
 </song>
