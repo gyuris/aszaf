@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:46">
   <properties>
     <titles>
       <title>II. Graduale [ÉE 534]</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry="105"/>
+      <songbook name="Graduale Hungaricum" entry="89"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szívem háborúságai megsokasodtak, *<br/>az én nyomorúságomból ments ki engem, Uram!</lines>
+      <lines>Szívem háborúságai megsokasodtak, * <br/>az én nyomorúságomból ments ki engem, Uram!</lines>
     </verse>
   </lyrics>
 </song>

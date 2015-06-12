@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:50">
   <properties>
     <titles>
       <title>Graduale [GRAD 139]</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry="606"/>
+      <songbook name="Graduale Hungaricum" entry=""/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Krisztus engedelmes volt értünk mindhalálig, *<br/>a kereszthalálig.</lines>
+      <lines>Krisztus engedelmes volt értünk mindhalálig, * <br/>a kereszthalálig.</lines>
     </verse>
   </lyrics>
 </song>

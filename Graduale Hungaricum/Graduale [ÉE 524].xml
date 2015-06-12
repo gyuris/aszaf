@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:48">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:46">
   <properties>
     <titles>
       <title>Graduale [ÉE 524]</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry="76"/>
+      <songbook name="Graduale Hungaricum" entry="57"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mind eljőnek Sábából<br/>aranyat és tömjént hozván *<br/>és hírdetik az Úr dicsőségét.</lines>
+      <lines>Mind eljőnek Sábából<br/>aranyat és tömjént hozván * <br/>és hírdetik az Úr dicsőségét.</lines>
     </verse>
   </lyrics>
 </song>

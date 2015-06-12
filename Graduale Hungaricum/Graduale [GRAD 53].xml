@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:07:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:51">
   <properties>
     <titles>
       <title>Graduale [GRAD 53]</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry="757"/>
+      <songbook name="Graduale Hungaricum" entry=""/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Egyet kértem az Úrtól<br/>és azt keresem:*<br/>hogy az Úr házában lakjam életemnek minden napján.</lines>
+      <lines>Egyet kértem az Úrtól<br/>és azt keresem:* <br/>hogy az Úr házában lakjam életemnek minden napján.</lines>
     </verse>
   </lyrics>
 </song>
