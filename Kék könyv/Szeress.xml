@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Szeress!</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="261"/>
+      <songbook name="Kék Könyv" entry="195"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Megértek mindent, a fény eláraszt,<br/>egyetlen szó csak, mit súgsz felénk.</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Szeress és eltölt friss erő,<br/>szeress már minden érthető,<br/>szeress és nem lesz fájdalom<br/>dalod száll újból. :‖</lines>
+      <lines>||: Szeress és eltölt friss erő,<br/>szeress már minden érthető,<br/>szeress és nem lesz fájdalom<br/>dalod száll újból. :||</lines>
     </verse>
     <verse name="v4">
       <lines>Szeress, a társad jóbarát,<br/>szeresd és hordozd bánatát,<br/>keressd az önfeláldozást,<br/>vállald mások sorsát!</lines>

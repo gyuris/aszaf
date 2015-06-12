@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Váratlanul</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="403"/>
+      <songbook name="Kék Könyv" entry="318"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Leültettél asztalodhoz újra, föláldozva jó hírneved.<br/>Bűnösöknek lettél a barátja, hogy fölemeld az eleseteket.<br/>Hálás szívvel megyek eléd, megváltóm Uram, Istenem, kérlek téged, mutasd meg nékem hová szántad az életem!<br/>Ref.</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Váratlanul felém tártad kezed asztalodnál elém adtad borod, kenyered.<br/>Borod, kenyered. Nem vagyok én méltó, Uram, látod.<br/>Tisztelettel hogy fogadjalak?<br/>Úgy lehetnék én is a barátod, ha Tested Véred megtisztítanak! :‖</lines>
+      <lines>||: Váratlanul felém tártad kezed asztalodnál elém adtad borod, kenyered.<br/>Borod, kenyered. Nem vagyok én méltó, Uram, látod.<br/>Tisztelettel hogy fogadjalak?<br/>Úgy lehetnék én is a barátod, ha Tested Véred megtisztítanak! :||</lines>
     </verse>
   </lyrics>
 </song>

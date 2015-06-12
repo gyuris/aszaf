@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Gyertek, áldjuk Őt</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="358"/>
+      <songbook name="Kék Könyv" entry="277"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Gyertek ‖: áldjuk Őt, az Urat, mert megváltott már. Gyertek, :‖ már. Áldjuk Őt, ahogy a csillagok, folyók és tavak. Áldjuk Őt, ahogy az angyalok minden nap.</lines>
+      <lines>Gyertek I: áldjuk Őt, az Urat, mert megváltott már. Gyertek, :I már. Áldjuk Őt, ahogy a csillagok, folyók és tavak. Áldjuk Őt, ahogy az angyalok minden nap.</lines>
     </verse>
     <verse name="v2">
       <lines>Keressétek Őt és az Ő igazságát, mert az Ő országa köztünk van már, dicsérjétek hát!</lines>

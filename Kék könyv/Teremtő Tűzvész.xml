@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Teremtő Tűzvész</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="399"/>
+      <songbook name="Kék Könyv" entry="314"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Tűz teljessége, tünemény, hét lánggal égő fáklyafény! Szólj, Szerelem! Szólj nyelveken! Lángol és zeng a Végtelen.<br/>Fényár, mely bennünk fölfakad, te légy a boldog prikadat: légy új varázs! Légy óriás! Te légy a testnek gyógyulás.</lines>
     </verse>
     <verse name="v3">
-      <lines>Kergesd el tőlünk a Gonoszt, szívünkbe békéd harmatozd, Szent Lángeső!<br/>Szent Próbakő! Légy útjainkon vezető.<br/>Benned az Atya titka ég, s a Fiú adja mindenét:<br/>‖: ó Tűzaránk! Ó tiszta Láng! Kettőjük Lelke, szállj le ránk! :‖</lines>
+      <lines>Kergesd el tőlünk a Gonoszt, szívünkbe békéd harmatozd, Szent Lángeső!<br/>Szent Próbakő! Légy útjainkon vezető.<br/>Benned az Atya titka ég, s a Fiú adja mindenét:<br/>||: ó Tűzaránk! Ó tiszta Láng! Kettőjük Lelke, szállj le ránk! :||</lines>
     </verse>
   </lyrics>
 </song>

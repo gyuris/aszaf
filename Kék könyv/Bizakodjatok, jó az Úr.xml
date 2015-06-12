@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Bizakodjatok, jó az Úr</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="318"/>
+      <songbook name="Kék Könyv" entry="244"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Confitemini Domino, quoniam bonus, confitemini Domino. Alleluia :‖<br/>‖: Bizakodjatok, jó az Úr, jósága éltet, bizakodjatok, jó az Úr. Alleluja! :‖</lines>
+      <lines>||: Confitemini Domino, quoniam bonus, confitemini Domino. Alleluia :||<br/>||: Bizakodjatok, jó az Úr, jósága éltet, bizakodjatok, jó az Úr. Alleluja! :||</lines>
     </verse>
   </lyrics>
 </song>

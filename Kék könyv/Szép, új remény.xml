@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
       <title>Szép, új remény</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="50"/>
+      <songbook name="Kék Könyv" entry="33B"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,13 +20,13 @@
       <lines>Hallgasd meg újra a hangom, fogd meg a két kezem!<br/>Ne engedj elveszni, űzd el az éjt a lelkemben,<br/>adj fényt nekem!</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Lobbanj fel, új remény!<br/>Lángolj fel, égi fény!<br/>Adj erőt, éltetőt!<br/>Szállj rám, gyönyörű szép új remény! :‖</lines>
+      <lines>||: Lobbanj fel, új remény!<br/>Lángolj fel, égi fény!<br/>Adj erőt, éltetőt!<br/>Szállj rám, gyönyörű szép új remény! :||</lines>
     </verse>
     <verse name="v4">
       <lines>Semmibe hullnak az évek, ha nincs bennem égi fény,<br/>hinnem kell, bíznom kell újra és újra,<br/>hogy  kell az énekem, az életem!</lines>
     </verse>
     <verse name="v5">
-      <lines>‖: Lobbanj fel, új remény!<br/>Lángolj fel, égi fény!<br/>Adj erőt, éltetőt!<br/>Szállj rám, gyönyörű szép új remény! :‖</lines>
+      <lines>||: Lobbanj fel, új remény!<br/>Lángolj fel, égi fény!<br/>Adj erőt, éltetőt!<br/>Szállj rám, gyönyörű szép új remény! :||</lines>
     </verse>
   </lyrics>
 </song>

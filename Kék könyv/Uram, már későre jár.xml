@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Uram, már későre jár</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="289"/>
+      <songbook name="Kék Könyv" entry="216"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Uram, már későre jár, a nap lassan véget ér.<br/>Köszönöm mindazt, amit tettél, mindig segítettél.<br/>Kezed legyen fejünk fölött most és mindörökké.<br/>‖: La, la…Uram, ha ma is vétkeztem, bocsáss meg nekem.<br/>Kérlek, hadd ajánljam fel egész életem. :‖</lines>
+      <lines>Uram, már későre jár, a nap lassan véget ér.<br/>Köszönöm mindazt, amit tettél, mindig segítettél.<br/>Kezed legyen fejünk fölött most és mindörökké.<br/>||: La, la…Uram, ha ma is vétkeztem, bocsáss meg nekem.<br/>Kérlek, hadd ajánljam fel egész életem. :||</lines>
     </verse>
   </lyrics>
 </song>

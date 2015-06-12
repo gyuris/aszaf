@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Várj és ne félj</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="327"/>
+      <songbook name="Kék Könyv" entry="253"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Wait for the Lord, whose day is near.<br/>Wait for the Lord: keep watch, take heart! :‖<br/>‖: Várj és ne félj, az Úr jön már.<br/>Várj és ne félj: hű szívvel várj! :‖</lines>
+      <lines>||: Wait for the Lord, whose day is near.<br/>Wait for the Lord: keep watch, take heart! :||<br/>||: Várj és ne félj, az Úr jön már.<br/>Várj és ne félj: hű szívvel várj! :||</lines>
     </verse>
   </lyrics>
 </song>

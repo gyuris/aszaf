@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Ne félj, mert megváltottalak!</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="432"/>
+      <songbook name="Kék Könyv" entry="344"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Ne félj, mert megváltottalak, neveden szólítottalak, karjaimba zártalak, örökre enyém vagy! :‖</lines>
+      <lines>||: Ne félj, mert megváltottalak, neveden szólítottalak, karjaimba zártalak, örökre enyém vagy! :||</lines>
     </verse>
     <verse name="v2">
       <lines>Viruló réteken át, hűs forrás felé vezetlek, pásztorod vagyok, elveszni senkit nem hagyok.<br/>Karom feléd tárom, kiárad áldásom.<br/>Nem rejtőzöm el, szívem a szívednek felel, amikor úgy érzed, nyomaszt az élet.<br/>Refr.</lines>

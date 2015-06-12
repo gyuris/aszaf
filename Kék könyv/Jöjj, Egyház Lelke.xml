@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Jöjj, Egyház Lelke</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="370"/>
+      <songbook name="Kék Könyv" entry="289"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Töltsd el a szívünket, töltsd el életerővel!<br/>Adj erőt, hogy utam járjam, adj erőt, vinni a társam!<br/>Jöjj, hívunk, jöjj, jöjj, Egyház Lelke!</lines>
     </verse>
     <verse name="v3">
-      <lines>Együtt megyünk az úton, vár ránk az égi otthon, vállamon az élet fája, vállalom most már a társam.<br/>‖: Jöjj, hívunk, jöjj, jöjj, Egyház Lelke! :‖<br/>Jöjj, hívunk, jöjj, jöjj, Egyház Lelke!</lines>
+      <lines>Együtt megyünk az úton, vár ránk az égi otthon, vállamon az élet fája, vállalom most már a társam.<br/>||: Jöjj, hívunk, jöjj, jöjj, Egyház Lelke! :||<br/>Jöjj, hívunk, jöjj, jöjj, Egyház Lelke!</lines>
     </verse>
   </lyrics>
 </song>

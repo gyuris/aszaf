@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Hit, remény, szeretet</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="363"/>
+      <songbook name="Kék Könyv" entry="282"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Egy szív, egy lélek :‖  4x<br/>Nem lesz abból semmi, ha csak nézed az eget! De ha felkelsz és a sorsod kezedbe veszed, kiderül a láthatár, a szíved újra él, megújulsz, az erőd újra visszatér!<br/>Ref.</lines>
+      <lines>||: Egy szív, egy lélek :I  4x<br/>Nem lesz abból semmi, ha csak nézed az eget! De ha felkelsz és a sorsod kezedbe veszed, kiderül a láthatár, a szíved újra él, megújulsz, az erőd újra visszatér!<br/>Ref.</lines>
     </verse>
     <verse name="v2">
       <lines>Jön a szó, egy gondolat, s követi a tett. Jön a perc, a Végtelen fogja a kezed. Ez a szó, mely alakit, és veled él, megmarad tebenned a Hit és a Remény!<br/>Ref.</lines>

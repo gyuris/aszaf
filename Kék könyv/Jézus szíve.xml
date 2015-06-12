@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
   <properties>
     <titles>
       <title>Jézus szíve</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="140"/>
+      <songbook name="Kék Könyv" entry="101"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Jézus szíve, fogadd be életünk! :‖<br/>Hűségünk hozzád elvigyen,<br/>örömünk örömöd legyen!<br/>Benned éljen életünk,<br/>míg országodba megérkezhetünk!</lines>
+      <lines>||: Jézus szíve, fogadd be életünk! :||<br/>Hűségünk hozzád elvigyen,<br/>örömünk örömöd legyen!<br/>Benned éljen életünk,<br/>míg országodba megérkezhetünk!</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Jézus szíve, fogadd be életünk! :‖<br/>Irgalmad kiáradt reánk,<br/>húsvéti, fénylő, tiszta láng;<br/>világítsd az életünk, míg<br/>országodba megérkezhetünk!<br/>‖: Jézus szíve, fogadd be életünk! :‖</lines>
+      <lines>||: Jézus szíve, fogadd be életünk! :||<br/>Irgalmad kiáradt reánk,<br/>húsvéti, fénylő, tiszta láng;<br/>világítsd az életünk, míg<br/>országodba megérkezhetünk!<br/>||: Jézus szíve, fogadd be életünk! :||</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
       <title>Hűség</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="118"/>
+      <songbook name="Kék Könyv" entry="81"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Amióta ember él a földön,<br/>mennyien és hányszor meghazudtak,<br/>én drága kincsem szívem mélyén őrzöm,<br/>és semmi áron, soha el nem hagylak.<br/>‖: Hűség, drága kincsem,<br/>hogyha már semmim nincsen,<br/>hűség, drága kincsem,<br/>én őrizlek a szívemben! :‖</lines>
+      <lines>Amióta ember él a földön,<br/>mennyien és hányszor meghazudtak,<br/>én drága kincsem szívem mélyén őrzöm,<br/>és semmi áron, soha el nem hagylak.<br/>||: Hűség, drága kincsem,<br/>hogyha már semmim nincsen,<br/>hűség, drága kincsem,<br/>én őrizlek a szívemben! :||</lines>
     </verse>
     <verse name="v2">
-      <lines>Amióta létrehoztál engem,<br/>rám bíztad a kincset, Teremtőm,<br/>hogy hűségemet hozzád megőrizzem,<br/>és szeretetben ő lesz majd erőd!<br/>‖: Hűség, drága kincsem,<br/>hogyha már semmim nincsen,<br/>hűség, drága kincsem,<br/>én őrizlek a szívemben! :‖</lines>
+      <lines>Amióta létrehoztál engem,<br/>rám bíztad a kincset, Teremtőm,<br/>hogy hűségemet hozzád megőrizzem,<br/>és szeretetben ő lesz majd erőd!<br/>||: Hűség, drága kincsem,<br/>hogyha már semmim nincsen,<br/>hűség, drága kincsem,<br/>én őrizlek a szívemben! :||</lines>
     </verse>
   </lyrics>
 </song>

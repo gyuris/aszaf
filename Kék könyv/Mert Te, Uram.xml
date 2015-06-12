@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
   <properties>
     <titles>
       <title>Mert Te, Uram</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="197"/>
+      <songbook name="Kék Könyv" entry="145"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mert Te, Uram fenséges vagy a földön,<br/>és felmagasztaltattál minden Isten fölött.</lines>
+      <lines>Mert Te, Uram fenséges vagy a földön,<br/>és felmagasztaltattál minden Isten fölött. 2x</lines>
     </verse>
     <verse name="v2">
       <lines>Imádunk Téged, imádunk Téged,<br/>imádunk Téged, ó Urunk.</lines>

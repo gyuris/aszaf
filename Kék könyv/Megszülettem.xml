@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Megszülettem</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="406"/>
+      <songbook name="Kék Könyv" entry="321"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>Megszülettem, Te adtad életem.<br/>Megszülettem, a semmiből hirtelen.<br/>Megszülettem, Te engem akartál, megszülettem, feladatot adtál.</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Szent vagy, Istenem, neved áldott legyen, világmindenség Istene, szent vagy, Istenem, neved áldott legyen, hozsanna szóljon Teneked. :‖</lines>
+      <lines>||: Szent vagy, Istenem, neved áldott legyen, világmindenség Istene, szent vagy, Istenem, neved áldott legyen, hozsanna szóljon Teneked. :||</lines>
     </verse>
     <verse name="v3">
       <lines>Elindultam életemnek útján, Te szerettél és megbocsátottál, segítettél, Te\ bajban nem hagytál, megszülettem, feladatot adtál.<br/>Refr.</lines>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
       <title>Rajta, dicsérjétek az Úr nevét!</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="126"/>
+      <songbook name="Kék Könyv" entry="87A"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Rajta, dicsérjétek az Úr nevét, ti mindnyájan, kik hűen szolgáljátok Őt,<br/>áldjátok hát háromszor szent nevét, magasztaljátok énekszóval örökké! :‖<br/>Igen, tudom, Istenünk hatalmas, végbevisz mindent, amit csak akar,<br/>a hegyektől a tenger mélyéig, a földtől az égbolt magasságáig.</lines>
+      <lines>||: Rajta, dicsérjétek az Úr nevét, ti mindnyájan, kik hűen szolgáljátok Őt,<br/>áldjátok hát háromszor szent nevét, magasztaljátok énekszóval örökké! :||<br/>Igen, tudom, Istenünk hatalmas, végbevisz mindent, amit csak akar,<br/>a hegyektől a tenger mélyéig, a földtől az égbolt magasságáig.</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Rajta, dicsérjétek az Úr nevét, ti mindnyájan, kik hűen szolgáljátok Őt,<br/>áldjátok hát háromszor szent nevét, magasztaljátok énekszóval örökké! :‖<br/>Lássátok hát, mily irgalmas hozzánk, jóságos Úr és hűséges király,<br/>énekeljétek hát az Ő nevét, Istent dicsérje minden nemzedék!</lines>
+      <lines>||: Rajta, dicsérjétek az Úr nevét, ti mindnyájan, kik hűen szolgáljátok Őt,<br/>áldjátok hát háromszor szent nevét, magasztaljátok énekszóval örökké! :||<br/>Lássátok hát, mily irgalmas hozzánk, jóságos Úr és hűséges király,<br/>énekeljétek hát az Ő nevét, Istent dicsérje minden nemzedék!</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Ó, hála Néked</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="423"/>
+      <songbook name="Kék Könyv" entry="337"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Ó, hála Néked, hála Néked mindenért!<br/>Ujjongva áldunk, magasztalunk,mert életedet adtad az emberért.<br/>Húsvét hajnalán feltámadtál, s mennyországba meghívtál, alleluját dalolunk Néked, mert midnörökre köztünk maradtál. :‖<br/>Alleluját dalolunk Néked, mert midnörökre köztünk maradtál.<br/>Alleluját dalolunk Néked, mert köztünk maratál. :‖</lines>
+      <lines>||: Ó, hála Néked, hála Néked mindenért!<br/>Ujjongva áldunk, magasztalunk,mert életedet adtad az emberért.<br/>Húsvét hajnalán feltámadtál, s mennyországba meghívtál, alleluját dalolunk Néked, mert midnörökre köztünk maradtál. :||<br/>Alleluját dalolunk Néked, mert midnörökre köztünk maradtál.<br/>Alleluját dalolunk Néked, mert köztünk maratál. :||</lines>
     </verse>
   </lyrics>
 </song>

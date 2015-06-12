@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
   <properties>
     <titles>
       <title>Mondjunk éneket</title>
@@ -9,18 +9,18 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="217"/>
+      <songbook name="Kék Könyv" entry="162"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Mondjunk éneket örömmel:<br/>zengjen Halleluja! :‖<br/>Széles, kacagó jókedvében táncra perdül a lélek.<br/>Pengő húrokon dobpergésben éled hálaének.</lines>
+      <lines>||: Mondjunk éneket örömmel:<br/>zengjen Halleluja! :||<br/>Széles, kacagó jókedvében táncra perdül a lélek.<br/>Pengő húrokon dobpergésben éled hálaének.</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Mondjunk éneket örömmel: zengjen Halleluja! :‖<br/>A szentek kórusa velünk együtt szívét dalokba önti,<br/>szárnyas sípokon velünk együtt Istenét köszönti.</lines>
+      <lines>||: Mondjunk éneket örömmel: zengjen Halleluja! :||<br/>A szentek kórusa velünk együtt szívét dalokba önti,<br/>szárnyas sípokon velünk együtt Istenét köszönti.</lines>
     </verse>
     <verse name="v3">
-      <lines>‖: Mondjunk éneket örömmel: zengjen Halleluja! :‖<br/>Vígság kútfeje, boldog Isten: Atya, Fiú és Lélek.<br/>Öröm nélkül sehol nincsen, áldás szent nevének.<br/>‖: Mondjunk éneket örömmel: zengjen Halleluja! :‖<br/>Zengjen Halleluja!</lines>
+      <lines>||: Mondjunk éneket örömmel: zengjen Halleluja! :||<br/>Vígság kútfeje, boldog Isten: Atya, Fiú és Lélek.<br/>Öröm nélkül sehol nincsen, áldás szent nevének.<br/>||: Mondjunk éneket örömmel: zengjen Halleluja! :||<br/>Zengjen Halleluja!</lines>
     </verse>
   </lyrics>
 </song>

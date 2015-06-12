@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Tied vagyunk</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="285"/>
+      <songbook name="Kék Könyv" entry="213"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>A Föld és az ég, asztalunknál összeér, értünk lett Élet ez a bor és a  kenyér!<br/>Őáltala, Ővele, Őbenne tied vagyunk, tied vagyunk, tied vagyunk, tied vagyunk!<br/>‖: Ments meg minket, táplálj minket. :‖<br/>Ments meg minket!<br/>‖: Jézus vére és teste az Élet itala és étele. :‖<br/>‖: Táplálj minket, ments meg minket! :‖</lines>
+      <lines>A Föld és az ég, asztalunknál összeér, értünk lett Élet ez a bor és a  kenyér!<br/>Őáltala, Ővele, Őbenne tied vagyunk, tied vagyunk, tied vagyunk, tied vagyunk!<br/>||: Ments meg minket, táplálj minket. :||<br/>Ments meg minket!<br/>||: Jézus vére és teste az Élet itala és étele. :||<br/>||: Táplálj minket, ments meg minket! :||</lines>
     </verse>
   </lyrics>
 </song>

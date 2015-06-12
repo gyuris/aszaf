@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:42">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
       <title>Az Isten jósága (Drága a te kegyelmed)</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="116"/>
+      <songbook name="Kék Könyv" entry="79B"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Drága a te kegyelmed, Uram.<br/>Menedéket nálad találtam.<br/>‖: Házad javaiból jóllakom,<br/>örömöd forrását ihatom. :‖</lines>
+      <lines>Drága a te kegyelmed, Uram.<br/>Menedéket nálad találtam.<br/>||: Házad javaiból jóllakom,<br/>örömöd forrását ihatom. :||</lines>
     </verse>
     <verse name="v2">
-      <lines>Tenálad van az élet forrása,<br/>a te fényed az ember lámpása,<br/>‖: jóságod tartsa meg,<br/>kik tisztelnek téged, őrizd meg, :‖</lines>
+      <lines>Tenálad van az élet forrása,<br/>a te fényed az ember lámpása,<br/>||: jóságod tartsa meg,<br/>kik tisztelnek téged, őrizd meg, :||</lines>
     </verse>
     <verse name="v3">
       <lines>Istenem, Istenem.<br/>Itt az egész életem.<br/>A világot is csak tebenned<br/>és veled érthetem.<br/>Istenem, Istenem, itt az egész életem.</lines>

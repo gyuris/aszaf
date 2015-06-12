@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Csak a csönd</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="407"/>
+      <songbook name="Kék Könyv" entry="322"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Csak a csönd ölel át, csak a csönd ölel át, nyisd meg a csönd kapuját, tárd föl a fény csarnokát!<br/>Válaszd szét az óceánt, hadd\ keljek át, hadd keljek át!<br/>‖: Jöjj, Lélek, töltsd be életünk életeddel! Jöjj Lélek, töltsd be életünk, töltsd be lényegünk lényegeddel! :‖</lines>
+      <lines>Csak a csönd ölel át, csak a csönd ölel át, nyisd meg a csönd kapuját, tárd föl a fény csarnokát!<br/>Válaszd szét az óceánt, hadd\ keljek át, hadd keljek át!<br/>||: Jöjj, Lélek, töltsd be életünk életeddel! Jöjj Lélek, töltsd be életünk, töltsd be lényegünk lényegeddel! :||</lines>
     </verse>
   </lyrics>
 </song>

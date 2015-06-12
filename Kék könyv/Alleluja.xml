@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Alleluja</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="394"/>
+      <songbook name="Kék Könyv" entry="309"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Alleluja :‖ x5<br/>Áldjátok az Istent, dicsérjétek nagy nevét,<br/>magasztaljuk együtt, Atyánk, áldott légy!<br/>Ref.</lines>
+      <lines>||: Alleljua :I x5<br/>Áldjátok az Istent, dicsérjétek nagy nevét,<br/>magasztaljuk együtt, Atyánk, áldott légy!<br/>Ref.</lines>
     </verse>
     <verse name="v2">
       <lines>Zendüljön az ének, ünnepeljünk dalolva, amen, alleluja!<br/>Ref.</lines>
@@ -23,7 +23,7 @@
       <lines>Hatalmas Isten,erős várként tündököl, megsegíti népét, fölkarolja őt!<br/>Ref.</lines>
     </verse>
     <verse name="v4">
-      <lines>A gonosz erejének nincs fölötte hatalma, amen, alleluja!<br/>Ref.</lines>
+      <lines>A gonosz erejének nincs fölötte hatalma, amen, elleluja!<br/>Ref.</lines>
     </verse>
   </lyrics>
 </song>

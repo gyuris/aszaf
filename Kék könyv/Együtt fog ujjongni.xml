@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Együtt fog ujjongni...</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="414"/>
+      <songbook name="Kék Könyv" entry="328B"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Együtt fog ujjongni fiatal és öreg is, és örömében táncot lejt a lány. láj-láj-láj-láj-lá-lá,láj-lá-láj-lá...<br/>És gyászukat ünnepre fordítom, és nem búsulnak ezután.‖: Vidámmá teszem a szívüket, hogy örvendezzenek a bánatuk helyett. :‖</lines>
+      <lines>Együtt fog ujjongni fiatal és öreg is, és örömében táncot lejt a lány. láj-láj-láj-láj-lá-lá,láj-lá-láj-lá...<br/>És gyászukat ünnepre fordítom, és nem búsulnak ezután.I: Vidámmá teszem a szívüket, hogy örvendezzenek a bánatuk helyett. :||</lines>
     </verse>
   </lyrics>
 </song>

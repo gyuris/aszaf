@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Volt egyszer egy király</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="302"/>
+      <songbook name="Kék Könyv" entry="228"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -23,7 +23,7 @@
       <lines>Volt egyszer egy király, velünk élt, köztünk járt,<br/>az emberek gyűlölték, elfogták, megölték;<br/>de feltámadt, visszatért, negyven nap köztünk élt,<br/>győzött a szeretet, halálból élet lett!</lines>
     </verse>
     <verse name="v4">
-      <lines>‖: Elment a jó király, de országa nyitva áll.<br/>Hallgasd a csend szavát, meghallod hívását.<br/>Ő soha nem hagy el, szólj csak és átölel,<br/>tán észre sem veszed, úgy fogja két kezed! :‖</lines>
+      <lines>||: Elment a jó király, de országa nyitva áll.<br/>Hallgasd a csend szavát, meghallod hívását.<br/>Ő soha nem hagy el, szólj csak és átölel,<br/>tán észre sem veszed, úgy fogja két kezed! :||</lines>
     </verse>
   </lyrics>
 </song>

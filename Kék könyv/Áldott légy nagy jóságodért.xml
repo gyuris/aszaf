@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Áldott légy nagy jóságodért</title>
@@ -9,18 +9,18 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="434"/>
+      <songbook name="Kék Könyv" entry="346"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Áldott légy nagy jóságodért,<br/>áldott légy Uram,<br/>műveidért és<br/>felmagasztaltassál, ó<br/>‖: Alleluja :‖×3</lines>
+      <lines>Áldott légy nagy jóságodért,<br/>áldott légy Uram,<br/>műveidért és<br/>felmagasztaltassál, ó<br/>||: Alleluja x3 :||</lines>
     </verse>
     <verse name="v2">
-      <lines>keresd őt, míg megleled, hívd, míg közel van,<br/>térj vissza az Úrhoz, mert megkönyörül rajtad, ó<br/>‖: Alleljuja :‖×3</lines>
+      <lines>keresd őt, míg megleled, hívd, míg közel van,<br/>térj vissza az Úrhoz, mert megkönyörül rajtad, ó<br/>||: Alleljuja x3 :||</lines>
     </verse>
     <verse name="v3">
-      <lines>Ujjongjon a föld az Úrnak ujjongva dicsérje szent nevét, felmagasztaltassál Urunk és Istenünk, ó<br/>‖: Allleluja :‖×3</lines>
+      <lines>Ujjongjon a föld az Úrnak ujjongva dicsérje szent nevét, felmagasztaltassál Urunk és Istenünk, ó<br/>||: Allleluja x3 :||</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Jézus életem - In the Lord</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="322"/>
+      <songbook name="Kék Könyv" entry="248"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: In the Lord I'll be ever thankful, in the Lord I will rejoice!<br/>Look to God, do not be afraid; lift up your voices,<br/>the Lord is near, lift up your voices, the Lord is near. :‖</lines>
+      <lines>||: In the Lord I'll be ever thankful, in the Lord I will rejoice!<br/>Look to God, do not be afraid; lift up your voices,<br/>the Lord is near, lift up your voices, the Lord is near. :||</lines>
     </verse>
     <verse name="v2">
-      <lines>‖: Jézus életem, erőm, békém, Jézus társam, örömöm.<br/>Benned bízom, Te vagy az Úr, már nincs mit félnem,<br/>mert bennem élsz, már nincs mit félnem, mert bennem élsz. :‖</lines>
+      <lines>||: Jézus életem, erőm, békém, Jézus társam, örömöm.<br/>Benned bízom, Te vagy az Úr, már nincs mit félnem,<br/>mert bennem élsz, már nincs mit félnem, mert bennem élsz. :||</lines>
     </verse>
   </lyrics>
 </song>

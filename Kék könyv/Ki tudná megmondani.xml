@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
       <title>Ki tudná megmondani</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="373"/>
+      <songbook name="Kék Könyv" entry="292"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Szeretném, ha mindenki körülöttem boldog lenne! Szeretném, ha minden ember boldogan, békében élne! Akkor is, ha életünk nehéz gondok közé tetted: Dicsőség és hála Uram, Neked!</lines>
     </verse>
     <verse name="v3">
-      <lines>Barátaim, testvéreim, ne legyetek többé vakok,<br/>Szeressétek nagyon egymást, így lehetek csak boldogok!<br/>Jöjjetek és mindnyájan együtt mondjunk éneket: Dicsőség és hála Uram, Neked!<br/>Dicsőség és hála Uram, Neked! ×3</lines>
+      <lines>Barátaim, testvéreim, ne legyetek többé vakok,<br/>Szeressétek nagyon egymást, így lehetek csak boldogok!<br/>Jöjjetek és mindnyájan együtt mondjunk éneket: Dicsőség és hála Uram, Neked!<br/>Dicsőség és hála Uram, Neked! x3</lines>
     </verse>
   </lyrics>
 </song>

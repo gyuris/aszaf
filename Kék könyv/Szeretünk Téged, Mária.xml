@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T16:27:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
   <properties>
     <titles>
       <title>Szeretünk Téged, Mária</title>
@@ -9,15 +9,15 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="266"/>
+      <songbook name="Kék Könyv" entry="199"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nap, hold, csillagok szépen ragyogjatok,<br/>Máriához száll most az ének,<br/>kéklő tengerek, égig érő nagy hegyek,<br/>Máriát velünk köszöntsétek!<br/>‖: Szeretünk Téged Mária, Mária, :‖<br/>Te minden ember anyja vagy,<br/>az úton, ‖: kérünk el ne hagyj, el ne hagyj az úton… :‖</lines>
+      <lines>Nap, hold, csillagok szépen ragyogjatok,<br/>Máriához száll most az ének,<br/>kéklő tengerek, égig érő nagy hegyek,<br/>Máriát velünk köszöntsétek!<br/>||: Szeretünk Téged Mária, Mária, :||<br/>Te minden ember anyja vagy,<br/>az úton,||: kérünk el ne hagyj, el ne hagyj az úton… :||</lines>
     </verse>
     <verse name="v2">
-      <lines>Édesanyánk melegét, gyermekének örömét,<br/>s mindent megköszönünk Néked,<br/>hét tőr fájdalmát, szent fiad halálát,<br/>s mindent megköszönünk Néked.<br/>‖: Szeretünk Téged Mária, Mária, :‖<br/>Te minden ember anyja vagy,<br/>az úton, ‖: kérünk el ne hagyj, el ne hagyj az úton… :‖</lines>
+      <lines>Édesanyánk melegét, gyermekének örömét,<br/>s mindent megköszönünk Néked,<br/>hét tőr fájdalmát, szent fiad halálát,<br/>s mindent megköszönünk Néked.<br/>||: Szeretünk Téged Mária, Mária, :||<br/>Te minden ember anyja vagy,<br/>az úton,||: kérünk el ne hagyj, el ne hagyj az úton… :||</lines>
     </verse>
   </lyrics>
 </song>
