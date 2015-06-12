@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T15:25:18">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:44:51">
   <properties>
     <titles>
       <title>In dulci jubilo ékes</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Adventi és karacsonyi" entry="58"/>
+      <songbook name="Adventi és karacsonyi" entry="54"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,7 +17,7 @@
       <lines>In dulci jubilo (ékes ujjongással), zengjen víg énekszó,<br/>Üdvözítőnk nyugszik itt in praesepio (a jászolban),<br/>Fénylik, mint a fényes nap matris in gremio! (Anyjának ölén)<br/>Alpha est et O, Alpha est et O! (Ő a kezdet és a vég)</lines>
     </verse>
     <verse name="v2">
-      <lines>Ubi sunt Gaudia (ahol az igazi örömök vannak), az égi hajlékba’,<br/>Nagy örömmel éneklik nova cantica (az új éneket),<br/>Mind a mennyei karok in Regis curia. (Isten udvarában)<br/>Eja gloria! Eja gloria! (Dicsőség!)</lines>
+      <lines>Ubi sunt Gaudia (ahol az igazi örömök vannak), az égi hajlékba’,<br/>Nagy örömmel éneklik nova cantica (az új éneket), <br/>Mind a mennyei karok in Regis curia. (Isten udvarában)<br/>Eja gloria! Eja gloria! (Dicsőség!)</lines>
     </verse>
     <verse name="v3">
       <lines>Mater et filia (egyszerre anya és leány) a szép szűz Mária!<br/>Rég mind elvesztünk volna per nostra crimina, (bűneink miatt)<br/>Ám ő nékünk megnyerte caelorum gaudia. (a menny örömeit)<br/>Eja, qualia! Eja qualia! (Ó, mily nagyokat!)</lines>
