@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Alleluja (148.zsoltár)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja…<br/>Dicsérjétek az Urat,<br/>áldjátok a magasságban,<br/>dicsérjétek angyalok,<br/>égnek seregei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja…<br/>Dicsérjétek, Nap és Hold,<br/>dicsérjétek, csillagai!<br/>Dicsérjétek szent nevét,<br/>mert megtartja ígéretét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja…<br/>Dicsérjétek, tűz és jég,<br/>áldjátok, vihar és szél,<br/>gyümölcsfák és cédrusok,<br/>havas magaslatok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja…<br/>Magasztalja mindenki,<br/>gyermekek és öregek is!<br/>Mind meglássák hűségét,<br/>Isten szeretetét!<br/>Alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>
