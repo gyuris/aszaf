@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus Király, itt vagyunk már</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="A"/>Jézus Ki<chord name="Hm"/>rály, <chord name="D"/>itt vagyunk <chord name="A"/>már,<br/>aki <chord name="D"/>Téged keres, <chord name="E"/>mindig megta<chord name="A"/>lál<chord name="E7"/>! :||<br/>Sokszor <chord name="H7"/>elbuktunk a rögös úton, <chord name="E"/>Uram irgalmazz!<br/><chord name="H7"/>Megbántottunk sokszor Téged, <chord name="E"/>Krisztus kegyelmezz!</lines>
+    </verse>
+  </lyrics>
+</song>

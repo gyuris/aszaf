@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Tégy engem békéd eszközév</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Tégy engem békéd eszközévé! Hol gyűlölet van, oda szeretetet vi<chord name="G"/>gyek.<br/>Hol <chord name="G7"/>neheztelés, békességet, hol széthúzás, egysége<chord name="C"/>det.<br/><chord name="C"/>Tégy engem békéd eszközévé! A kétkedés helyett hitet vi<chord name="G"/>gyek.<br/>A <chord name="G7"/>kétségbeesés helyett reményt, a sötétségbe fénye<chord name="C"/>det.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó <chord name="F"/>Mester, add, hogy vígasztaljak <chord name="C"/>mást,<br/>és <chord name="G"/>ne csak magam<chord name="G7"/>nak keressek <chord name="C"/>vi<chord name="C7"/>gaszt!<br/>Legyek <chord name="F"/>megértő, ne csak megér<chord name="C"/>tett,<br/>szeres<chord name="D"/>sek, ahogy <chord name="D7"/>Te szerettél <chord name="G"/>min<chord name="G7"/>ket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Tégy engem békéd eszközévé,<br/>mert ha megbocsátunk, nyerünk bocsána<chord name="G"/>tot!<br/>Ha <chord name="G7"/>adunk, akkor kapunk igazán,<br/>és ha meghalunk, kapunk örök éle<chord name="C"/>tet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó <chord name="F"/>Mester, add, hogy vígasztaljak <chord name="C"/>mást,<br/>és <chord name="G"/>ne csak magam<chord name="G7"/>nak keressek <chord name="C"/>vi<chord name="C7"/>gaszt!<br/>Legyek <chord name="F"/>megértő, ne csak megér<chord name="C"/>tett,<br/>szeres<chord name="D"/>sek, ahogy <chord name="D7"/>Te szerettél <chord name="G"/>min<chord name="G7"/>ket!</lines>
+    </verse>
+  </lyrics>
+</song>

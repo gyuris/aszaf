@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Minden kincsem az, hogy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>dicsérlek Téged, <chord name="Dm"/>Jézu<chord name="G4"/>som<chord name="G"/>.<br/>Minden <chord name="G"/>kincsem az, hogy <chord name="G7"/>dicsérlek Téged, <chord name="C6"/>Jézusom<chord name="C7"/>.<br/>Dicsérni <chord name="F"/>mind job<chord name="Em"/>ban, dicsérni <chord name="Dm"/>mind <chord name="G"/>job<chord name="C"/>ban!<br/>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>dicsérlek Téged, <chord name="Dm"/>Jé<chord name="G"/>zu<chord name="C"/>som.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>áldalak Téged, <chord name="Dm"/>Jézu<chord name="G4"/>som<chord name="G"/>.<br/>Minden <chord name="G"/>kincsem az, hogy <chord name="G7"/>áldalak Téged, <chord name="C6"/>Jézusom<chord name="C7"/>.<br/>Áldani <chord name="F"/>mind job<chord name="Em"/>ban, áldani <chord name="Dm"/>mind <chord name="G"/>job<chord name="C"/>ban!<br/>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>áldalak Téged, <chord name="Dm"/>Jé<chord name="G"/>zu<chord name="C"/>som.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>szeretlek Téged, <chord name="Dm"/>Jézu<chord name="G4"/>som<chord name="G"/>.<br/>Minden <chord name="G"/>kincsem az, hogy <chord name="G7"/>szeretlek Téged, <chord name="C6"/>Jézusom<chord name="C7"/>.<br/>Szeretni <chord name="F"/>mind job<chord name="Em"/>ban, szeretni <chord name="Dm"/>mind <chord name="G"/>job<chord name="C"/>ban!<br/>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>szeretni Téged, <chord name="Dm"/>Jé<chord name="G"/>zu<chord name="C"/>som.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>szolgállak Téged, <chord name="Dm"/>Jézu<chord name="G4"/>som<chord name="G"/>.<br/>Minden <chord name="G"/>kincsem az, hogy <chord name="G7"/>szolgállak Téged, <chord name="C6"/>Jézusom<chord name="C7"/>.<br/>Szolgálni <chord name="F"/>mind job<chord name="Em"/>ban, szolgálni <chord name="Dm"/>mind <chord name="G"/>job<chord name="C"/>ban!<br/>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>szolgállak Téged, <chord name="Dm"/>Jé<chord name="G"/>zu<chord name="C"/>som.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>imádlak Téged, <chord name="Dm"/>Jézu<chord name="G4"/>som<chord name="G"/>.<br/>Minden <chord name="G"/>kincsem az, hogy <chord name="G7"/>imádlak Téged, <chord name="C6"/>Jézusom<chord name="C7"/>.<br/>Imádni <chord name="F"/>mind job<chord name="Em"/>ban, imádni <chord name="Dm"/>mind <chord name="G"/>job<chord name="C"/>ban!<br/>Minden <chord name="C"/>kincsem az, hogy <chord name="Am"/>imádlak Téged, <chord name="Dm"/>Jé<chord name="G"/>zu<chord name="C"/>som.</lines>
+    </verse>
+  </lyrics>
+</song>

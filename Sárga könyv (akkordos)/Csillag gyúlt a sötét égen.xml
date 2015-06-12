@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Csillag gyúlt a sötét égen</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :||<br/><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>megszülettél <chord name="Hm"/>szép Reményem.<br/><chord name="C"/>Csendben <chord name="Hm"/>pihensz <chord name="C"/>Anyád karján<br/><chord name="D"/>reménységünk <chord name="C"/>éjsza<chord name="D"/><chord name="C"/>ká<chord name="Em"/>ján.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>aludj csendben <chord name="Hm"/>szép Reményem!<br/><chord name="C"/>Atyád <chord name="Hm"/>őrzi <chord name="C"/>édes álmod,<br/><chord name="D"/>mint ahogy Te <chord name="C"/>a vi<chord name="D"/><chord name="C"/>lá<chord name="Em"/>got.<br/>||: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Szeretetét érzem reggel</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: Szere<chord name="C"/>tetét érzem reggel. Délben <chord name="C"/>Ő örül ben<chord name="G"/>nem.<br/>Este <chord name="G"/>Ő van a szívemben, a <chord name="G7"/>sötétlő éjfél<chord name="C"/>ben.<br/>Ő a <chord name="C"/>szőlőtő, én vessző, Ő fa<chord name="C7"/>zekas, én a<chord name="F"/>gyag.<br/>Drága <chord name="F"/>Mesteremtől <chord name="C"/>semmi el nem <chord name="G"/>választ<chord name="C"/>hat. :||</lines>
+    </verse>
+  </lyrics>
+</song>

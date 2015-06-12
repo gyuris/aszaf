@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Tüzed, Uram Jézus, szítsd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Am"/>Tüzed, <chord name="Am7"/>Uram <chord name="Am"/>Jézus, <chord name="Dm"/>szítsd a <chord name="G"/>szívem<chord name="C"/>ben,<br/><chord name="D7"/>Láng<chord name="E7"/>ja lo<chord name="Am"/>bog<chord name="Am7"/>jon <chord name="Dm6"/>ele<chord name="E"/>veneb<chord name="Am"/>ben!<br/><chord name="Am"/>Ami <chord name="Am7"/>vagyok <chord name="Am"/>és mind, <chord name="Dm7"/>ami <chord name="G"/>az e<chord name="C"/>nyém,<br/><chord name="D7"/>tartsd <chord name="E"/>a ke<chord name="Am"/>zed<chord name="Am7"/>ben <chord name="Dm6"/>iga<chord name="E"/>zi he<chord name="Am"/>lyén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Életem <chord name="Dm"/>kút<chord name="Dm7"/>ja, <chord name="G"/>örök örö<chord name="C"/>mem.<br/><chord name="Am"/>Fény a sö<chord name="Dm"/>tétben <chord name="G"/>csak Te vagy ne<chord name="C"/>kem.<br/><chord name="D7"/>Hal<chord name="E7"/>lod i<chord name="Am"/>mám, <chord name="Am7"/>és <chord name="Dm"/>bármi <chord name="G7"/>fenye<chord name="C"/>get,<br/><chord name="D7"/>nem <chord name="E7"/>hagy el <chord name="Am"/>en<chord name="Am7"/>gem, <chord name="Dm6"/>tart a <chord name="E"/>Te ke<chord name="Am"/>zed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Am"/>Szoron<chord name="Am7"/>gat a <chord name="Am"/>Sátán, <chord name="Dm7"/>de Te <chord name="G"/>velem <chord name="C"/>vagy,<br/><chord name="D7"/>hű <chord name="E7"/>szaba<chord name="Am"/>dí<chord name="Am7"/>tó, <chord name="Dm6"/>aki <chord name="E"/>el nem <chord name="Am"/>hagy.<br/><chord name="Am"/>Ennek <chord name="Am7"/>a vi<chord name="Am"/>lágnak <chord name="Dm7"/>feke<chord name="G"/>te e<chord name="C"/>gén<br/><chord name="D7"/>lé<chord name="E7"/>nyed a <chord name="Am"/>csil<chord name="Am7"/>lag, <chord name="Dm6"/>suga<chord name="E"/>rad a <chord name="Am"/>fény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Am"/>Életem <chord name="Dm"/>kút<chord name="Dm7"/>ja, <chord name="G"/>örök örö<chord name="C"/>mem.<br/><chord name="Am"/>Fény a sö<chord name="Dm"/>tétben <chord name="G"/>csak Te vagy ne<chord name="C"/>kem.<br/><chord name="D7"/>Hal<chord name="E7"/>lod i<chord name="Am"/>mám, <chord name="Am7"/>és <chord name="Dm"/>bármi <chord name="G7"/>fenye<chord name="C"/>get,<br/><chord name="D7"/>nem <chord name="E7"/>hagy el <chord name="Am"/>en<chord name="Am7"/>gem, <chord name="Dm6"/>tart a <chord name="E"/>Te ke<chord name="Am"/>zed!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="Am"/>Jön az <chord name="Am7"/>örök <chord name="Am"/>nap már, <chord name="Dm7"/>köze<chord name="G"/>ledik <chord name="C"/>Ő,<br/><chord name="D7"/>men<chord name="E7"/>nyei <chord name="Am"/>hon<chord name="Am7"/>ba <chord name="Dm6"/>haza<chord name="E"/>vinni <chord name="Am"/>jő.<br/><chord name="Am"/>Röpke <chord name="Am7"/>pilla<chord name="Am"/>nat, míg <chord name="Dm7"/>tart a <chord name="G"/>kese<chord name="C"/>rű,<br/><chord name="D7"/>Jé<chord name="E7"/>zus e<chord name="Am"/>lém <chord name="Am7"/>jön, <chord name="Dm6"/>örök <chord name="E"/>a de<chord name="Am"/>rű.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="Am"/>Életem <chord name="Dm"/>kút<chord name="Dm7"/>ja, <chord name="G"/>örök örö<chord name="C"/>mem.<br/><chord name="Am"/>Fény a sö<chord name="Dm"/>tétben <chord name="G"/>csak Te vagy ne<chord name="C"/>kem.<br/><chord name="D7"/>Hal<chord name="E7"/>lod i<chord name="Am"/>mám, <chord name="Am7"/>és <chord name="Dm"/>bármi <chord name="G7"/>fenye<chord name="C"/>get,<br/><chord name="D7"/>nem <chord name="E7"/>hagy el <chord name="Am"/>en<chord name="Am7"/>gem, <chord name="Dm6"/>tart a <chord name="E"/>Te ke<chord name="Am"/>zed!</lines>
+    </verse>
+  </lyrics>
+</song>

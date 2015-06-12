@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Mivel én vagyok a te Urad</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mivel <chord name="Em"/>én vagyok <chord name="H7"/>a te U<chord name="Em"/>rad,<br/>A <chord name="Em"/>jobb kezed fo<chord name="H7"/>gom, s mondom ne<chord name="Em"/>ked<chord name="D"/>:<br/>Ne <chord name="G"/>félj, ne <chord name="D"/>félj, az <chord name="G"/>én Lelkem ve<chord name="D"/>led!<br/>Ne <chord name="G"/>félj férgecs<chord name="D"/>ke, Jákob, ma<chord name="Em"/>roknyi Izra<chord name="H7"/>el,<br/>mert én <chord name="Em"/>ve<chord name="H7"/>led le<chord name="Em"/>szek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mivel <chord name="Em"/>én vagyok <chord name="H7"/>a te U<chord name="Em"/>rad,<br/>A <chord name="Em"/>jobb kezed fo<chord name="H7"/>gom, s mondom ne<chord name="Em"/>ked<chord name="D"/>:<br/>Te <chord name="G"/>légy e<chord name="D"/>rős, az <chord name="G"/>én Lelkem ve<chord name="D"/>led!<br/>Te <chord name="G"/>légy e<chord name="D"/>rős, báto<chord name="Em"/>rodjék a szí<chord name="H7"/>ved,<br/>mert én <chord name="Em"/>meg<chord name="H7"/>segíte<chord name="Em"/>lek!</lines>
+    </verse>
+  </lyrics>
+</song>

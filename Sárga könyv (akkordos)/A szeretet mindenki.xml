@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>A szeretet mindenki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A <chord name="G"/>szeretet mindenkié, a <chord name="D"/>szeretet mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>szeretet <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az <chord name="G"/>öröm mindenkié, az <chord name="D"/>öröm mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, az <chord name="G"/>öröm <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A <chord name="G"/>békesség mindenkié, a <chord name="D"/>békesség mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>békesség <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A <chord name="G"/>türelem mindenkié, a <chord name="D"/>türelem mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>türelem <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A <chord name="G"/>kedvesség mindenkié, a <chord name="D"/>kedvesség mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>kedvesség <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A <chord name="G"/>jóság mindenkié, a <chord name="D"/>jóság mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>jóság <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A <chord name="G"/>hűség mindenkié, a <chord name="D"/>hűség mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>hűség <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A <chord name="G"/>szelídség mindenkié, a <chord name="D"/>szelídség mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>szelídség <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>A <chord name="G"/>tisztaság mindenkié, a <chord name="D"/>tisztaság mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>tisztaság <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>A <chord name="G"/>szeretet mindenkié, a <chord name="D"/>szeretet mindenkié,<br/>csak <chord name="G"/>meg kell keresni a <chord name="C"/>forrását, a <chord name="G"/>szeretet <chord name="D"/>mindenki<chord name="G"/>é.</lines>
+    </verse>
+    <verse name="v11">
+      <lines><chord name="G"/>Jézus mindenkié, <chord name="D"/>Jézus mindenkié,<br/><chord name="G"/>csak meg kell fogni a <chord name="C"/>két kezét, <chord name="G"/>Jézus <chord name="D"/>mindenki<chord name="G"/>é!</lines>
+    </verse>
+  </lyrics>
+</song>

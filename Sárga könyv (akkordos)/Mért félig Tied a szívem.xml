@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Mért félig Tied a szívem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Mért <chord name="F"/>fé<chord name="C"/>lig <chord name="Em"/>Tied a szívem, az <chord name="G"/>éle<chord name="C"/>tem?<br/>Mért <chord name="G"/>félig, <chord name="G7"/>miért csak <chord name="C"/>félig?<br/>Hiszen e<chord name="F"/>gészen Teneked <chord name="Em"/>adtam, maradék <chord name="Am"/>nélkül teljes ma<chord name="G"/>gam.<br/><chord name="G7"/>Most szívem <chord name="C"/>mégis visszara<chord name="F"/>gadtam.<br/>Hűtlen az <chord name="Em"/>éjjem, s <chord name="F7#"/>nappa<chord name="G"/>lom, könyörülj <chord name="C"/>rajtam, <chord name="F"/>Jézu<chord name="C"/>som!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Mért <chord name="F"/>fé<chord name="C"/>lig <chord name="Em"/>kerülöm el a bűn <chord name="G"/>ajta<chord name="C"/>ját?<br/>Mért <chord name="G"/>félig, <chord name="G7"/>miért csak <chord name="C"/>félig?<br/>Sajnálom <chord name="F"/>én is, hogy megta<chord name="Em"/>gadtam sokszor Ne<chord name="Am"/>ved, és szégyellte<chord name="G"/>lek.<br/><chord name="G7"/>Nem jó így <chord name="C"/>nékem megosztva <chord name="F"/>élnem. Hűtlen az <chord name="Em"/>éjjem, s <chord name="F7#"/>nappa<chord name="G"/>lom,<br/>könyörülj <chord name="C"/>rajtam, <chord name="F"/>Jézu<chord name="C"/>som!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Mért <chord name="F"/>fé<chord name="C"/>lig <chord name="Em"/>követem az utat, <chord name="G"/>hol Te <chord name="C"/>jársz?<br/>Mért <chord name="G"/>félig, <chord name="G7"/>miért csak <chord name="C"/>félig?<br/>Magam is <chord name="F"/>látom, nem ez az <chord name="Em"/>élet, ami be<chord name="Am"/>tölti napjai<chord name="G"/>mat.<br/><chord name="G7"/>Idegen <chord name="C"/>tűzben égek el, <chord name="F"/>érzem. Hűtlen az <chord name="Em"/>éjjem, s <chord name="F7#"/>nappa<chord name="G"/>lom,<br/>könyörülj <chord name="C"/>rajtam, <chord name="F"/>Jézu<chord name="C"/>som!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="C"/>Nem <chord name="F"/>fé<chord name="C"/>lig <chord name="Em"/>állt a kereszted a <chord name="G"/>Golgo<chord name="C"/>tán.<br/>Nem <chord name="G"/>félig, <chord name="G7"/>nem is csak félig.<br/>Vállaltad <chord name="F"/>értem teljes e<chord name="Em"/>gészen bűneim <chord name="Am"/>súlyát, ítéle<chord name="G"/>tét.<br/><chord name="G7"/>Mit adok <chord name="C"/>érte oda cse<chord name="F"/>rébe?! Hűtlen az <chord name="Em"/>éjjem, s <chord name="F7#"/>nappa<chord name="G"/>lom,<br/>könyörülj <chord name="C"/>rajtam, <chord name="F"/>Jézu<chord name="C"/>som!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="C"/>Nem <chord name="F"/>fé<chord name="C"/>lig <chord name="Em"/>Tied a szívem, az <chord name="G"/>éle<chord name="C"/>tem.<br/>Nem <chord name="G"/>félig, <chord name="G7"/>már nem csak <chord name="C"/>félig!<br/>Szabaddá <chord name="F"/>lettem, Te győztél <chord name="Em"/>bennem! Add, hogy csak <chord name="Am"/>Téged szolgálja<chord name="G"/>lak!<br/><chord name="G7"/>Dicső Ki<chord name="C"/>rályom, szent Neved <chord name="F"/>áldom! Boldog az <chord name="Em"/>éjjem, s <chord name="F7#"/>nappa<chord name="G"/>lom,<br/>betölti <chord name="C"/>lényed, <chord name="F"/>Jézu<chord name="C"/>som!</lines>
+    </verse>
+  </lyrics>
+</song>

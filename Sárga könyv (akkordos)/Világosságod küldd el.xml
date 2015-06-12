@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Világosságod küldd el</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> <chord name="D2"/> <chord name="D"/> <chord name="D2"/><br/>||: Világos<chord name="D"/>ságod küldd <chord name="D"/>el<chord name="D2"/>!<chord name="D"/><br/>Hűséged<chord name="Em"/>ben így ve<chord name="F#m"/>zess szent hegyed<chord name="G"/>re, hajlékod<chord name="A"/>ba!<br/>Beme<chord name="G"/>gyek Isten oltá<chord name="D"/>rához ujjon<chord name="Hm"/>gón, <chord name="G"/>örömöm Iste<chord name="A"/>néhez<chord name="G"/>.<br/>Hadd magasz<chord name="D"/>taljalak,<chord name="G"/> én Iste<chord name="A"/>nem<chord name="Em"/>!<br/>Amíg csak <chord name="D"/>élek<chord name="F#m"/> bízhassak <chord name="G"/>Benned<chord name="Gm"/>, Szabadí<chord name="D"/>tó<chord name="D2"/>!<chord name="D"/> :||<br/>||: Világos<chord name="D"/>ságod küldd <chord name="D"/>el<chord name="D2"/>!<chord name="D"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

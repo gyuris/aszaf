@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Atya teremtő szeretet Lelke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="F"/>Atya teremtő <chord name="H-"/>szeretet Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Fiú megváltó <chord name="H-"/>szeretet Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Egyház vezető <chord name="H-"/>szeretet Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Szentség pecsétje, <chord name="H-"/>szeretet Lelke<chord name="C7"/>, áradj <chord name="F"/>szét!<br/><chord name="F"/>Áradj <chord name="Am"/>szét, Lélek<chord name="H-"/>, áradj <chord name="C7"/>szét,<br/><chord name="F"/>Áradj szét, töltsd be <chord name="H-"/>minden <chord name="C7"/>hívő szí<chord name="F"/>vét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="F"/>Szívből jövő <chord name="H-"/>imádság Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Mélyből fakadó <chord name="H-"/>sóhaj Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Isteni üzenet <chord name="H-"/>dicső Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Megbocsátás <chord name="H-"/>irgalmas Lelke<chord name="C7"/>, áradj <chord name="F"/>szét!<br/><chord name="F"/>Áradj <chord name="Am"/>szét, Lélek<chord name="H-"/>, áradj <chord name="C7"/>szét,<br/><chord name="F"/>Áradj szét, töltsd be <chord name="H-"/>minden <chord name="C7"/>hívő szí<chord name="F"/>vét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="F"/>Szabadságom <chord name="H-"/>tüzes Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Imádságom <chord name="H-"/>kitartó Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Szenvedésem <chord name="H-"/>tűrő Lelke<chord name="Am"/>, áradj <chord name="C7"/>szét!<br/><chord name="F"/>Békességem <chord name="H-"/>gyönyörű Lelke<chord name="C7"/>, áradj <chord name="F"/>szét!<br/><chord name="F"/>Áradj <chord name="Am"/>szét, Lélek<chord name="H-"/>, áradj <chord name="C7"/>szét,<br/><chord name="F"/>Áradj szét, töltsd be <chord name="H-"/>minden <chord name="C7"/>hívő szí<chord name="F"/>vét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="F"/>Dicsőítelek <chord name="H-"/>Atya Lelke<chord name="Am"/>, szent kegye<chord name="C7"/>lem!<br/><chord name="F"/>Magasztallak <chord name="H-"/>Fiú Lelke<chord name="Am"/>, örök örö<chord name="C7"/>mem!<br/><chord name="F"/>Téríts meg engem <chord name="H-"/>Isten Lelke<chord name="Am"/>, legyél éle<chord name="C7"/>tem!<br/><chord name="F"/>Tarts meg engem <chord name="H-"/>szeretet Lelke<chord name="C7"/>, te vagy Iste<chord name="F"/>nem!<br/><chord name="F"/>Áradj <chord name="Am"/>szét, Lélek<chord name="H-"/>, áradj <chord name="C7"/>szét,<br/><chord name="F"/>Áradj szét, töltsd be <chord name="H-"/>minden <chord name="C7"/>hívő szí<chord name="F"/>vét!</lines>
+    </verse>
+  </lyrics>
+</song>

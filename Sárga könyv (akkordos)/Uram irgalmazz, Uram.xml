@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Uram irgalmazz, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="177"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Uram<chord name="Am"/> irgal<chord name="D"/>mazz,<chord name="Em"/> Uram <chord name="C"/>irgal<chord name="D"/>mazz,<chord name="G"/> Uram <chord name="Hm"/>irgalmazz ne<chord name="Am"/>kem<chord name="C"/>!<chord name="D"/><br/>||: <chord name="G"/>Jézus,<chord name="Em"/> Dávid fi<chord name="Hm"/>a, <chord name="C"/>könyörülj <chord name="D"/>rajtam! :||<br/>Add, hogy <chord name="C"/>lássak, add, hogy <chord name="Hm"/>lássak, Add, hogy <chord name="Am"/>lássak<chord name="C"/>!<chord name="D"/><chord name="G"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Krisztus<chord name="Am"/> kegyel<chord name="D"/>mezz,<chord name="Em"/> Krisztus <chord name="C"/>kegyel<chord name="D"/>mezz,<chord name="G"/> Krisztus <chord name="Hm"/>kegyelmezz ne<chord name="Am"/>kem<chord name="C"/>!<chord name="D"/><br/>||: <chord name="G"/>Jézus,<chord name="Em"/> Dávid fi<chord name="Hm"/>a, <chord name="C"/>könyörülj <chord name="D"/>rajtam! :||<br/>Add, hogy <chord name="C"/>lássak, add, hogy <chord name="Hm"/>lássak, Add, hogy <chord name="Am"/>lássak<chord name="C"/>!<chord name="D"/><chord name="G"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Uram<chord name="Am"/> irgal<chord name="D"/>mazz,<chord name="Em"/> Uram <chord name="C"/>irgal<chord name="D"/>mazz,<chord name="G"/> Uram <chord name="Hm"/>irgalmazz ne<chord name="Am"/>kem<chord name="C"/>!<chord name="D"/><br/>||: <chord name="G"/>Jézus,<chord name="Em"/> Dávid fi<chord name="Hm"/>a, <chord name="C"/>könyörülj <chord name="D"/>rajtam! :||<br/>Add, hogy <chord name="C"/>lássak, add, hogy <chord name="Hm"/>lássak, Add, hogy <chord name="Am"/>lássak<chord name="C"/>!<chord name="D"/><chord name="G"/><br/><chord name="G"/>Jézus,<chord name="Em"/> Dávid fi<chord name="Hm"/>a, <chord name="C"/>könyörülj <chord name="G"/>rajtam<chord name="Em"/>! Á-<chord name="Hm"/>á-<chord name="C"/>á-<chord name="G"/>á!</lines>
+    </verse>
+  </lyrics>
+</song>

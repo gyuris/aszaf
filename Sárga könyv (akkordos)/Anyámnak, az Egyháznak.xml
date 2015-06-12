@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Anyámnak, az Egyháznak</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: Anyám<chord name="Gm"/>nak, az Egyház<chord name="F"/>nak szí<chord name="E-"/>vé<chord name="Dm"/>ben <chord name="D"/>szeretet le<chord name="Gm"/>szek. :||<br/>Leg<chord name="Cm"/>főbb óhajom, hogy <chord name="Gm"/>Téged szeresselek,<br/>hogy <chord name="Cm"/>Téged szeresse<chord name="Eo"/>lek mindhalá<chord name="D7"/>lig!</lines>
+    </verse>
+  </lyrics>
+</song>

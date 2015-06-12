@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus, áldott legyél</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Jé<chord name="G"/>zus, áldott le<chord name="D4"/>gyél,<br/><chord name="D"/>áldott le<chord name="C9"/>gyél <chord name="C"/>mindö<chord name="G"/>rökké!<br/><chord name="G"/>Áldott le<chord name="D4"/>gyél, <chord name="D"/>áldott le<chord name="C9"/>gyél<chord name="C"/>!<br/>Amíg csak <chord name="G"/>élek dicsérlek <chord name="D4"/>én,<br/><chord name="D"/>dicsérlek <chord name="C9"/>én mindö<chord name="G"/>rökké!<br/>Mindö<chord name="D4"/>rökké <chord name="D"/>áldott le<chord name="Em"/>gyél!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Em"/>Jé<chord name="G"/>zus! Mindenki áldjon, U<chord name="D4"/>ram<chord name="D"/>!<br/>Minden <chord name="C9"/>ember <chord name="C"/>dicsérjen <chord name="G"/>Téged!<br/><chord name="G"/>Dicsérjék neved a <chord name="D4"/>földön,<br/><chord name="D"/>dicsérjék neved a <chord name="C9"/>mennyben<chord name="C"/>!<br/>Minden <chord name="G"/>ember Néked <chord name="D4"/>zengjen <chord name="C9"/>dicsőítő, <chord name="C"/>szent <chord name="G"/>éneket<chord name="Em"/>! :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Az Úr megtörve függ</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az <chord name="Am"/>Úr meg<chord name="E"/>törve <chord name="Am"/>függ,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/>A <chord name="Am"/>fán függ <chord name="E"/>Iste<chord name="Am"/>nünk,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/><chord name="A"/>Sose' <chord name="C"/>szólt, sose' <chord name="H"/>szólt, sose' <chord name="Am"/>szólt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Föl<chord name="Am"/>lszegzik <chord name="E"/>bűne<chord name="Am"/>ink,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/>Gyöt<chord name="Am"/>rődve <chord name="E"/>ránk te<chord name="Am"/>kint,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/><chord name="A"/>Sose' <chord name="C"/>szólt, sose' <chord name="H"/>szólt, sose' <chord name="Am"/>szólt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Le<chord name="Am"/>hajtja <chord name="E"/>szent fe<chord name="Am"/>jét,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/>Meg<chord name="Am"/>halt az <chord name="E"/>én U<chord name="Am"/>ram,<br/>ímé <chord name="Em"/>nem szól ajka <chord name="H"/>korholó <chord name="Em"/>szót.<br/><chord name="A"/>Sose' <chord name="C"/>szólt, sose' <chord name="H"/>szólt, sose' <chord name="Am"/>szólt.</lines>
+    </verse>
+  </lyrics>
+</song>

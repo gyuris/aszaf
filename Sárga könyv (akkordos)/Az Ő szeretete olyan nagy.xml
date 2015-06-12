@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Az Ő szeretete olyan nagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Ő <chord name="Em"/>szeretete olyan nagy, hogy <chord name="Am"/>fel sem mérhetem,<br/><chord name="Am"/>nem tudja felfogni az em<chord name="Em"/>beri értelem.<br/>Mikor <chord name="Em"/>bűneim súlya alatt a <chord name="Am"/>Golgotára ment,<br/>meghalt <chord name="Em"/>azért, hogy én <chord name="Am"/>örökké él<chord name="Em"/>jek.<chord name="Am"/><chord name="Em"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: Ó, <chord name="D"/>Jézus, ó <chord name="Em"/>Jézus,<br/>ó <chord name="D"/>Jézus, Megvál<chord name="Em"/>tó! :||</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Ő <chord name="Em"/>szeretete olyan nagy, hogy <chord name="Am"/>fel sem mérhetem,<br/><chord name="Am"/>nem tudja felfogni az em<chord name="Em"/>beri értelem.<br/>Mikor <chord name="Em"/>szívem ajtaja előtt <chord name="Am"/>megállt és zörgetett,<br/>befo<chord name="Am"/>gadtam, s adott <chord name="Am"/>örök éle<chord name="Em"/>tet.<chord name="Am"/><chord name="Em"/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>||: Ó, <chord name="D"/>Jézus, ó <chord name="Em"/>Jézus,<br/>ó <chord name="D"/>Jézus, Megvál<chord name="Em"/>tó! :||</lines>
+    </verse>
+  </lyrics>
+</song>

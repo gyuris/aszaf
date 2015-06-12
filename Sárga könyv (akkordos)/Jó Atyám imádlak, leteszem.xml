@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jó Atyám imádlak, leteszem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Jó A<chord name="F#m"/>tyám i<chord name="H"/>mád<chord name="E"/>lak, leteszem életem. Úgy szeretlek!<br/><chord name="E"/>Úr Jé<chord name="F#m"/>zus i<chord name="H"/>mád<chord name="E"/>lak, leteszem életem. Úgy szeretlek!<br/><chord name="E"/>Szentlé<chord name="F#m"/>lek, úgy <chord name="H"/>vár<chord name="E"/>lak, leteszem életem. Úgy szeretlek!</lines>
+    </verse>
+  </lyrics>
+</song>

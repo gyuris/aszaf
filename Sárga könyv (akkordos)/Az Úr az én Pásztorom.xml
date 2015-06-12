@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Az Úr az én Pásztorom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az <chord name="Am"/>Úr az én <chord name="G"/>Pásztorom, <chord name="Am"/>nyomában <chord name="Em"/>járok<chord name="Am"/>,<br/>mellette <chord name="G"/>nem szűkölkö<chord name="Am"/>döm.<br/>Zöldellő réteken pihentet engem,<br/>csendes vizekre terelget.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Jézus, drága <chord name="G"/>jó Pásztorom,<br/>Úr <chord name="Am"/>Jézus, Te tudod <chord name="F"/>mindnyájunk ne<chord name="E"/>vét.<br/><chord name="Am"/>Jézus, köve<chord name="G"/>tünk bárhová is mondod,<br/><chord name="Am"/>Jézus, mi is <chord name="F"/>halljuk, halljuk hango<chord name="Am"/>dat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkemben felvidít nevéhez híven,<br/>az igazság útján vezet.<br/>Nem érhet soha semmi baj, mindig<br/>velem vagy, botod oly biztonságot ad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Am"/>Jézus, drága <chord name="G"/>jó Pásztorom,<br/>Úr <chord name="Am"/>Jézus, Te tudod <chord name="F"/>mindnyájunk ne<chord name="E"/>vét.<br/><chord name="Am"/>Jézus, köve<chord name="G"/>tünk bárhová is mondod,<br/><chord name="Am"/>Jézus, mi is <chord name="F"/>halljuk, halljuk hango<chord name="Am"/>dat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az ellenségeim előtt asztalt terítesz,<br/>olajjal elárasztod fejem.<br/>Jóságod, s kegyelmed Uram, követnek engem,<br/>amíg csak tart az életem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>||: <chord name="Am"/>Jézus, Téged <chord name="G"/>vár ez a nép vissza!<br/><chord name="Am"/>Jézus, Te mondod: <chord name="F"/>Ne félj kicsi <chord name="E"/>nyáj! :||<br/><chord name="Am"/>La-la<chord name="G"/>…<chord name="Am"/> <chord name="F"/> <chord name="E"/> <chord name="Am"/></lines>
+    </verse>
+  </lyrics>
+</song>

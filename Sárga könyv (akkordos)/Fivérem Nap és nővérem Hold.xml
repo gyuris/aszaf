@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Fivérem Nap és nővérem Hold</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> <chord name="D4"/> <chord name="D"/> <chord name="D4"/><br/><chord name="D"/>Fivérem <chord name="F#m"/>Nap és <chord name="G"/>nő<chord name="A"/>vérem <chord name="D"/>Hold,<br/><chord name="Hm"/>oly ritkán <chord name="F#m"/>látlak, s <chord name="G"/>hallom <chord name="A"/>hango<chord name="D"/>tok.<br/><chord name="Hm"/>Nyomaszt a <chord name="F#m"/>sok <chord name="G"/>gyötre<chord name="A"/>lem és <chord name="D"/>gond.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Fivérem <chord name="F#m"/>Szél és <chord name="G"/>Leve<chord name="A"/>gő<chord name="D"/>ég,<br/><chord name="Hm"/>nyisd ki <chord name="F#m"/>szemem, hogy <chord name="G"/>lássam, <chord name="A"/>ami <chord name="D"/>szép!<br/><chord name="Hm"/>Körülö<chord name="F#m"/>lel a <chord name="G"/>ragyo<chord name="A"/>gás, dics<chord name="D"/>fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Em"/>Mert Isten <chord name="F#m"/>műve <chord name="G"/>minden teremt<chord name="D"/>mény,<br/><chord name="Hm"/>érzem jó<chord name="F#m"/>ságát, és <chord name="G"/>szívem újra <chord name="A4"/>él<chord name="A"/>!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Fivérem <chord name="F#m"/>Nap és <chord name="G"/>nő<chord name="A"/>vérem <chord name="D"/>Hold,<br/><chord name="Hm"/>most végre <chord name="F#m"/>látok, s <chord name="G"/>hallom <chord name="A"/>hango<chord name="D"/>tok!<br/><chord name="Hm"/>Megölel<chord name="F#m"/>ném az <chord name="G"/>egész <chord name="A"/>vilá<chord name="D"/>got!</lines>
+    </verse>
+  </lyrics>
+</song>

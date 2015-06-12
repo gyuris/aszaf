@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Tégy engem tisztává, tégy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>Jé<chord name="E"/>zus!<br/><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="G"/>Jé<chord name="C"/>zus!<br/><chord name="Am"/>Nyisd meg szemem vi<chord name="Eo"/>lá<chord name="Dm"/>gát, hogy <chord name="G"/>lásson <chord name="G7"/>Téged, Te <chord name="C"/>hű<chord name="E"/>!<br/>S <chord name="Am"/>ne lásson <chord name="Dm"/>Tenálad <chord name="G"/>szeb<chord name="C"/>bet, és <chord name="Am"/>legyen u<chord name="E"/>tált a <chord name="Am"/>bűn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>U<chord name="E"/>ram!<br/><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="G"/>U<chord name="C"/>ram!<br/><chord name="Am"/>Mutasd meg ösvé<chord name="Eo"/>nye<chord name="Dm"/>det, hogy <chord name="G"/>ne té<chord name="G7"/>velyedjek <chord name="C"/>el<chord name="E"/>!<br/>És <chord name="Am"/>ezer <chord name="Dm"/>veszélyen <chord name="G"/>ál<chord name="C"/>tal <chord name="Am"/>Tehozzád <chord name="E"/>juthassak <chord name="Am"/>el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>kér<chord name="E"/>lek!<br/><chord name="Am"/>Tégy engem <chord name="Dm"/>tisztává, <chord name="Am"/>tégy engem <chord name="Dm"/>tisztává, <chord name="G"/>kér<chord name="C"/>lek!<br/><chord name="Am"/>Sátán karma<chord name="Eo"/>i<chord name="Dm"/>ból <chord name="G"/>erőddel <chord name="G7"/>szabadíts <chord name="C"/>meg<chord name="E"/>!<br/>Az <chord name="Am"/>én lelke<chord name="Dm"/>met a <chord name="G"/>bűn<chord name="D"/>től <chord name="Am"/>hit által <chord name="E"/>Te tisztítsd <chord name="Am"/>meg!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Napnál ragyogóbb, csillagok</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Napnál ragyogóbb,<chord name="D"/> csillagok királynője,<br/><chord name="F#m"/>Édesa<chord name="Em"/>nyánk,<chord name="A"/> könyörögj <chord name="D"/>értünk<chord name="A"/>!<br/>||: <chord name="Em"/>Vezess engem szent Fiad<chord name="F#m"/>hoz, <chord name="Em"/>oltalmazd éle<chord name="A"/>tem<chord name="A4"/>!<chord name="A"/><br/>Anyács<chord name="D"/>kánk, Mári<chord name="F#m"/>a, vigyázz re<chord name="Em"/>ánk Szeplőte<chord name="A"/>len,<br/>magyarok <chord name="D"/>Nagyasszonya, szívemnek királynő<chord name="A"/>je, Mári<chord name="D"/>a! :||</lines>
+    </verse>
+  </lyrics>
+</song>

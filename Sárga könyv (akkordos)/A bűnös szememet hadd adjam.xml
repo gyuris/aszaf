@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>A bűnös szememet hadd adjam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A <chord name="D"/>bűnös szememet hadd adjam néked!<br/>A <chord name="A"/>bűnös szememet <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös szememet hadd adjam néked!<br/><chord name="A"/>Ó <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A <chord name="D"/>bűnös ajkamat hadd adjam néked!<br/>A <chord name="A"/>bűnös ajkamat <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös ajkamat hadd adjam néked!<br/><chord name="A"/>Ó, <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Tiszta szívvel kikiáltom, <chord name="D"/>szent a Te ne<chord name="Hm"/>ved!<br/><chord name="G"/>Szentlelkednek szent tüzével <chord name="A"/>tisztítasz en<chord name="A7"/>gem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A <chord name="D"/>bűnös kezemet hadd adjam néked!<br/>A <chord name="A"/>bűnös kezemet <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös kezemet hadd adjam néked!<br/><chord name="A"/>Ó <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A <chord name="D"/>bűnös testemet hadd adjam néked!<br/>A <chord name="A"/>bűnös testemet <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös testemet hadd adjam néked!<br/><chord name="A"/>Ó <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="G"/>Tiszta szívvel kikiáltom, <chord name="D"/>szent a Te ne<chord name="Hm"/>ved!<br/><chord name="G"/>Szentlelkednek szent tüzével <chord name="A"/>tisztítasz en<chord name="A7"/>gem!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A <chord name="D"/>bűnös szívemet hadd adjam néked!<br/>A <chord name="A"/>bűnös szívemet <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös szívemet hadd adjam néked!<br/><chord name="A"/>Ó <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A <chord name="D"/>bűnös lelkemet hadd adjam néked!<br/>A <chord name="A"/>bűnös lelkemet <chord name="A7"/>hadd adjam néked!<br/>A <chord name="Hm"/>bűnös lelkemet hadd adjam néked!<br/><chord name="A"/>Ó <chord name="A4"/>U<chord name="A7"/>ram!</lines>
+    </verse>
+    <verse name="v9">
+      <lines><chord name="G"/>Tiszta szívvel kikiáltom, <chord name="D"/>szent a Te ne<chord name="Hm"/>ved!<br/><chord name="G"/>Szentlelkednek szent tüzével <chord name="A"/>tisztítasz en<chord name="A7"/>gem!</lines>
+    </verse>
+  </lyrics>
+</song>

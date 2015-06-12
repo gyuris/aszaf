@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Kegyelmed, Úr Jézus oly</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Kegyelmed, Úr <chord name="Am"/>Jé<chord name="C"/>zus <chord name="D"/>oly végte<chord name="G"/>len,<br/><chord name="G"/>nem hagytál el<chord name="Am"/>vesz<chord name="C"/>ni <chord name="D"/>bűn mélyé<chord name="G"/>ben!<br/>||: <chord name="Am"/>Keresztfádnak titkait mondtad el,<br/><chord name="C"/>és meg is <chord name="G"/>értette szívem,<br/><chord name="Hm"/>hogy drága <chord name="D"/>véred <chord name="Em"/>folyt a <chord name="C"/>bűnei<chord name="G"/>mért! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Szentségben <chord name="Am"/>él<chord name="C"/>ni <chord name="D"/>Veled, U<chord name="G"/>ram.<br/><chord name="G"/>Szolgálni <chord name="Am"/>Té<chord name="C"/>ged <chord name="D"/>nincs boldo<chord name="G"/>gabb.<br/>||: <chord name="Am"/>Küldd le ránk áldott Szellemed,<br/><chord name="C"/>töltsd be, Úr <chord name="G"/>Jézus a szíveket,<br/><chord name="Hm"/>hogy együtt <chord name="D"/>áldjuk <chord name="Em"/>drága, <chord name="C"/>szent Ne<chord name="G"/>ved! :||</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Oly közel az <chord name="Am"/>ó<chord name="C"/>ra, <chord name="D"/>úgy várunk <chord name="G"/>Rád,<br/><chord name="G"/>hogy elvidd ma<chord name="Am"/>gad<chord name="C"/>dal <chord name="D"/>Eklézsi<chord name="G"/>ád!<br/>||: <chord name="Am"/>Ott többé nem lesz már fájdalom,<br/><chord name="C"/>És könny sem <chord name="G"/>csorog az arcokon,<br/><chord name="Hm"/>csak zeng az <chord name="D"/>ének: <chord name="Em"/>Glóri <chord name="C"/>Hallelu<chord name="G"/>ja! :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Legyen áldott az Úr, legyen</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/> <chord name="F"/> <chord name="G"/><br/><chord name="G"/>Legyen <chord name="C"/>áldott az Úr, legyen <chord name="F"/>áldott az <chord name="G"/>Ő Ne<chord name="C"/>ve!…<br/><chord name="C"/>Áldott az Úr, és <chord name="F"/>áldott az <chord name="G"/>Ő né<chord name="C"/>pe!…<br/>||: <chord name="C"/>Jé<chord name="F"/>zus alle<chord name="C"/>luja, Jé<chord name="G"/>zus alle<chord name="C"/>lu'! :||<br/><chord name="Am"/>Ki ne <chord name="G"/>félne <chord name="Am"/>Téged, U<chord name="E"/>ram,<br/>ki ne <chord name="Am"/>dicsőíte<chord name="D"/>né a Ne<chord name="G"/>ved<chord name="G7"/>?!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Legyen <chord name="C"/>áldott az Úr, legyen <chord name="F"/>áldott az <chord name="G"/>Ő Ne<chord name="C"/>ve!…<br/><chord name="C"/>Áldott az Úr, és <chord name="F"/>áldott az <chord name="G"/>Ő né<chord name="C"/>pe!…<br/>||: <chord name="C"/>Jé<chord name="F"/>zus alle<chord name="C"/>luja, Jé<chord name="G"/>zus alle<chord name="C"/>lu'! :||<br/><chord name="Am"/>Adja<chord name="G"/>tok há<chord name="Am"/>lát minde<chord name="E"/>nért,<br/>ne szo<chord name="Am"/>morítsátok <chord name="D"/>Isten Szentlel<chord name="G"/>két<chord name="G7"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Legyen <chord name="C"/>áldott az Úr, legyen <chord name="F"/>áldott az <chord name="G"/>Ő Ne<chord name="C"/>ve!…<br/><chord name="C"/>Áldott az Úr, és <chord name="F"/>áldott az <chord name="G"/>Ő né<chord name="C"/>pe!…<br/>||: <chord name="C"/>Jé<chord name="F"/>zus alle<chord name="C"/>luja, Jé<chord name="G"/>zus alle<chord name="C"/>lu'! :||<br/><chord name="Am"/>Már csak <chord name="G"/>rövid, <chord name="Am"/>nagyon rövid az i<chord name="E"/>dő,<br/>és nem <chord name="Am"/>késik az <chord name="D"/>eljöven<chord name="G"/>dő<chord name="G7"/>!</lines>
+    </verse>
+  </lyrics>
+</song>

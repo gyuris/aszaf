@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus az Isten Báránya</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Eo"/> <chord name="Dm"/> <chord name="C"/> <chord name="Dm"/> :||<br/><chord name="Dm"/>Jézus az Isten <chord name="C"/>Báránya,<br/><chord name="Gm"/>bűnösöknek lett <chord name="Dm"/>váltsága.<br/><chord name="Dm"/>Meghalt azért, hogy <chord name="C"/>élhessünk,<br/>hogy <chord name="Gm"/>örökös társai <chord name="Dm"/>lehessünk.<br/>||: <chord name="C"/>Aki hisz Benne, az <chord name="Dm"/>él! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Dm"/>Jézus az élet <chord name="C"/>forrása,<br/><chord name="Gm"/>örök élet <chord name="Dm"/>van nála.<br/><chord name="Dm"/>Kapuja számunkra <chord name="C"/>nyitva áll,<br/><chord name="Gm"/>nem árthat így nekünk <chord name="Dm"/>a halál!<br/>||: <chord name="C"/>Aki hisz Benne, az <chord name="Dm"/>él! :||<br/>||: <chord name="C"/>Jézus csak téged <chord name="Dm"/>vár! :||<br/><chord name="C"/>Jézus csak terád <chord name="D"/>vár<chord name="C"/><chord name="Dm"/>!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Ez az én szerelmes Fiam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="E"/>Ez az én szerelmes Fi<chord name="C#m"/>am,<br/>kiben <chord name="A"/>én gyönyörkö<chord name="E"/>döm.<br/><chord name="H"/>Ez az én szerel<chord name="A"/>mes Fiam,<br/>mindig <chord name="E"/>Őt hall<chord name="H"/>gassá<chord name="E"/>tok! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő tud <chord name="E"/>mindent, Ő ha<chord name="H"/>talmas,<br/>igen, <chord name="E"/>Jézus ha<chord name="A"/>talmas.<br/>Tu<chord name="E"/>dom, hogy Néki <chord name="H"/>gondja van re<chord name="E"/>ám<chord name="A"/><chord name="E"/>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő <chord name="A"/>gyógyít fájó szívet,<br/>meg<chord name="E"/>törte a bűn átkát.<br/>A <chord name="F#"/>béna újra lépdel,<br/>a <chord name="H"/>vak ujjongva <chord name="H7"/>lát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő tud <chord name="E"/>mindent, Ő ha<chord name="H"/>talmas,<br/>igen, <chord name="E"/>Jézus ha<chord name="A"/>talmas.<br/>Tu<chord name="E"/>dom, hogy Néki <chord name="H"/>gondja van re<chord name="E"/>ám<chord name="A"/><chord name="E"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

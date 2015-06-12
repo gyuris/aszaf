@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Nézz testvér fel, az Úr van</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/>Nézz testvér fel, az <chord name="F#m"/>Úr van itt,<br/><chord name="G"/>lángol<chord name="A"/>jon a szí<chord name="D"/>vünk!<br/><chord name="G"/>Közel van már <chord name="F#m"/>üdvössé<chord name="Hm"/>günk,<br/><chord name="G"/>jöjj el <chord name="Em"/>Jézu<chord name="A"/>sunk, <chord name="G"/>jöjj el <chord name="A7"/>Jézu<chord name="D"/>sunk! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Kerestem arcodat U<chord name="F#m"/>ram,<br/>leha<chord name="G"/>joltál <chord name="A"/>énhoz<chord name="D"/>zám.<br/><chord name="D"/>Félelmek, bűnök tép<chord name="F#m"/>tek,<br/>de Te <chord name="G"/>meggyó<chord name="A"/>gyítot<chord name="D"/>tál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>Nézz testvér fel, az <chord name="F#m"/>Úr van itt,<br/><chord name="G"/>lángol<chord name="A"/>jon a szí<chord name="D"/>vünk!<br/><chord name="G"/>Közel van már <chord name="F#m"/>üdvössé<chord name="Hm"/>günk,<br/><chord name="G"/>jöjj el <chord name="Em"/>Jézu<chord name="A"/>sunk, <chord name="G"/>jöjj el <chord name="A7"/>Jézu<chord name="D"/>sunk! :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Figyelme szeretőn kí<chord name="F#m"/>sér,<br/>meghall<chord name="G"/>gatja <chord name="A"/>az i<chord name="D"/>mánk.<br/><chord name="D"/>Gyötrelmeinkben vígaszt <chord name="F#m"/>nyújt,<br/>ezért <chord name="G"/>áldja <chord name="A"/>Őt a <chord name="D"/>szánk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>||: <chord name="D"/>Nézz testvér fel, az <chord name="F#m"/>Úr van itt,<br/><chord name="G"/>lángol<chord name="A"/>jon a szí<chord name="D"/>vünk!<br/><chord name="G"/>Közel van már <chord name="F#m"/>üdvössé<chord name="Hm"/>günk,<br/><chord name="G"/>jöjj el <chord name="Em"/>Jézu<chord name="A"/>sunk, <chord name="G"/>jöjj el <chord name="A7"/>Jézu<chord name="D"/>sunk! :||</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="D"/>Jöjjön, ki szomjas és i<chord name="F#m"/>gyék,<br/>aki <chord name="G"/>hisz, <chord name="A"/>élni <chord name="D"/>fog.<br/><chord name="D"/>Szívének rejtett mélyé<chord name="F#m"/>ből<br/>az <chord name="G"/>élő víz <chord name="A"/>felbu<chord name="D"/>zog!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>||: <chord name="D"/>Nézz testvér fel, az <chord name="F#m"/>Úr van itt,<br/><chord name="G"/>lángol<chord name="A"/>jon a szí<chord name="D"/>vünk!<br/><chord name="G"/>Közel van már <chord name="F#m"/>üdvössé<chord name="Hm"/>günk,<br/><chord name="G"/>jöjj el <chord name="Em"/>Jézu<chord name="A"/>sunk, <chord name="G"/>jöjj el <chord name="A7"/>Jézu<chord name="D"/>sunk! :||</lines>
+    </verse>
+  </lyrics>
+</song>

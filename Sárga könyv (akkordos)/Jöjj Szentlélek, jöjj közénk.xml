@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jöjj Szentlélek, jöjj közénk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Jöjj <chord name="D"/>Atyánk <chord name="Em"/>Lelke, <chord name="D"/>hozz fényt ne<chord name="Em"/>künk!<br/><chord name="D"/>Küldd el a <chord name="G"/>mennyből <chord name="D"/>Lelked <chord name="Em"/>nagy e<chord name="D"/>re<chord name="Em"/>jét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Jöjj <chord name="D"/>éle<chord name="Em"/>tünkbe, <chord name="D"/>hozz gyógyu<chord name="Em"/>lást!<br/><chord name="D"/>Szívünk és a <chord name="G"/>testünk <chord name="D"/>égi <chord name="Em"/>kenet<chord name="D"/>re <chord name="Em"/>vár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Öröm<chord name="D"/>teli <chord name="Em"/>Lélek, <chord name="D"/>Egyház örö<chord name="Em"/>me.<br/><chord name="D"/>Fakaszd fel szí<chord name="G"/>vünkből a <chord name="D"/>Bárány <chord name="Em"/>üze<chord name="D"/>ne<chord name="Em"/>tét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Ismer<chord name="D"/>tesd meg <chord name="Em"/>vélünk <chord name="D"/>Atyánk szerete<chord name="Em"/>tét!<br/><chord name="D"/>Tárd fel e<chord name="G"/>lőttünk <chord name="D"/>Krisztus <chord name="Em"/>tekin<chord name="D"/>te<chord name="Em"/>tét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Mindent <chord name="D"/>betöl<chord name="Em"/>tő Fény, <chord name="D"/>életvíz For<chord name="Em"/>rás.<br/><chord name="D"/>Általad ki<chord name="G"/>áltson a <chord name="D"/>néped <chord name="Em"/>alle<chord name="D"/>lu<chord name="Em"/>ját!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="Em"/>Jöjj Szentlélek, jöjj kö<chord name="Hm"/>zénk, <chord name="Em"/>jöjj el fényessé<chord name="D"/>günk!<br/><chord name="G"/>Jöjj tüzes <chord name="D"/>Lélek, <chord name="Hm"/>lobbantsd lángra szí<chord name="Em"/>vünk!<br/><chord name="Em"/>Igaz <chord name="D"/>tanú, <chord name="Em"/>Lélek, <chord name="D"/>magaddal ra<chord name="Em"/>gadsz!<br/><chord name="D"/>Hirdessük a <chord name="G"/>földön, hogy <chord name="D"/>Jézus <chord name="Em"/>velünk <chord name="D"/>ma<chord name="Em"/>radt!</lines>
+    </verse>
+  </lyrics>
+</song>

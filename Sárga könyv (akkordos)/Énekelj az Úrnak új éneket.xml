@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Énekelj az Úrnak új éneket</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="C"/>Énekelj az Úrnak <chord name="G"/>új éneket!<br/><chord name="F"/>Énekelj az <chord name="G"/>Úrnak egész <chord name="C"/>Föld! :||<br/><chord name="F"/>Éne<chord name="G"/>kelj az <chord name="Am"/>Úr<chord name="Dm"/>nak, <chord name="F"/>áldjad nagy Ne<chord name="C"/>vét<chord name="C7"/>!<br/><chord name="F"/>Hirdesd <chord name="G"/>napról-<chord name="Am"/>nap<chord name="Dm"/>ra az <chord name="G"/>Ő di<chord name="G7"/>csősé<chord name="C"/>gét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="C"/>Énekelj az Úrnak <chord name="G"/>új éneket!<br/><chord name="F"/>Énekelj az <chord name="G"/>Úrnak egész <chord name="C"/>Föld! :||<br/><chord name="F"/>Ékes<chord name="G"/>ség, és <chord name="Am"/>fen<chord name="Dm"/>ség <chord name="F"/>van Őelőt<chord name="C"/>te<chord name="C7"/>.<br/><chord name="F"/>Tisztes<chord name="G"/>ség, és <chord name="Am"/>méltó<chord name="Dm"/>ság az <chord name="G"/>Ő <chord name="G7"/>szent he<chord name="C"/>lyén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="C"/>Énekelj az Úrnak <chord name="G"/>új éneket!<br/><chord name="F"/>Énekelj az <chord name="G"/>Úrnak egész <chord name="C"/>Föld! :||<br/><chord name="F"/>Ujjong<chord name="G"/>jon az <chord name="Am"/>ég<chord name="Dm"/>, <chord name="F"/>örvendjen a <chord name="C"/>Föld<chord name="C7"/>!<br/><chord name="F"/>Harsog<chord name="C"/>jon a <chord name="Am"/>ten<chord name="Dm"/>ger és <chord name="G"/>minden <chord name="G7"/>benne é<chord name="C"/>lő!</lines>
+    </verse>
+  </lyrics>
+</song>

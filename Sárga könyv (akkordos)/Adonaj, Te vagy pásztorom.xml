@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Adonaj, Te vagy pásztorom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adonaj, Te vagy pásztorom,<br/>Tebenned megvan mindenem.<br/>Dús legelőkre, nyugodt vizekhez<br/>terelsz, és felüdíted lelkem.<br/>A-do-naj, A-do-naj,<br/>A-do-naj, A-do-naj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adonaj, Te vagy pásztorom,<br/>lépteim mindig megtartod.<br/>Igaz ösvényen nevedért járhatok,<br/>a halál völgyében sem félek a bajtól.<br/>A-do-naj, A-do-naj,<br/>A-do-naj, A-do-naj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adonaj, Te vagy pásztorom,<br/>vessződ és pásztorbotod vígasztalnak.<br/>Asztalt terítesz, olajjal gyógyítasz,<br/>örömmel tölt el a Te közelséged.<br/>A-do-naj, A-do-naj,<br/>A-do-naj, A-do-naj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adonaj, Te vagy pásztorom,<br/>jósággal végigkíséred életem napjait.<br/>Poharam túlcsordul, házadban lakhatom<br/>örökkön-örökké tartó boldogságban.<br/>A-do-naj, A-do-naj,<br/>A-do-naj, A-do-naj.</lines>
+    </verse>
+  </lyrics>
+</song>

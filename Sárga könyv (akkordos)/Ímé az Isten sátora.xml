@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Ímé az Isten sátora</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Gm"/> <chord name="Dm"/> <chord name="Gm"/> <chord name="Dm"/> <chord name="Gm"/> <chord name="F"/> <chord name="H-"/> <chord name="D"/><br/><chord name="Gm"/>Ímé az Isten <chord name="Dm"/>sátora az <chord name="Gm"/>emberekkel <chord name="Dm"/>van.<br/>És <chord name="Gm"/>maga az Isten <chord name="F"/>lesz velük, az <chord name="H-"/>ő Iste<chord name="D"/>nük<chord name="D4"/><chord name="D"/>.<br/><chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Király!<br/><chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Ki<chord name="Gm"/>rály!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Gm"/>Isten letörli a <chord name="Dm"/>könnyeket az <chord name="Gm"/>ő szemeik<chord name="Dm"/>ről.<br/><chord name="Gm"/>Halál nem lesz <chord name="F"/>már többé, sem <chord name="H-"/>gyász, sem fájda<chord name="D"/>lom<chord name="D4"/><chord name="D"/>.<br/><chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Király!<br/><chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Ki<chord name="Gm"/>rály!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Gm"/>Ki győz, örökségül <chord name="Dm"/>nyer mindent,<br/><chord name="Gm"/>szívébe írom Ne<chord name="Dm"/>vem.<br/><chord name="Gm"/>Annak Iste<chord name="F"/>ne leszek, s <chord name="H-"/>fiam lesz ő né<chord name="D"/>kem<chord name="D4"/><chord name="D"/>.<br/>||: <chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Király!<br/><chord name="Gm"/>Jézus, Te <chord name="F"/>vagy a Ki<chord name="Gm"/>rály! :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus néz rám a két szemedből</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Jézus <chord name="D"/>néz rám a <chord name="Em"/>két szemed<chord name="Hm"/>ből.<br/>Arra <chord name="Am"/>kér, arra <chord name="D"/>vár, hogy megért<chord name="G"/>sem<chord name="D7"/>.<br/><chord name="G"/>Jézus <chord name="D"/>néz rám a <chord name="Em"/>két szemed<chord name="Hm"/>ből.<br/>Arra <chord name="C"/>kér, arra <chord name="D7"/>vár, hogy szeres<chord name="G"/>sem<chord name="D7"/><chord name="G"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Jézus <chord name="F#"/>arra <chord name="H"/>kér,<br/>mert <chord name="G"/>bennünk <chord name="F#"/>emberekben <chord name="H"/>él,<br/>hogy <chord name="G"/>meglás<chord name="G7"/>sam és <chord name="C"/>szeres<chord name="C7"/>sem,<br/>ha <chord name="G"/>eljön hozzám <chord name="D7"/>valaki<chord name="G"/>ben<chord name="D7"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

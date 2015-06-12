@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Szerelmeddel felhatolsz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Szerelmed<chord name="G"/>del fel<chord name="A"/>hatolsz az e<chord name="D"/>gekig.<br/>A Te hű<chord name="G"/>séged fel<chord name="E"/>ér a felhők<chord name="A"/>ig<chord name="A4"/>.<chord name="A"/><br/>Igazsá<chord name="G"/>god, mint <chord name="A"/>a magas hegy<chord name="D"/>csúcsok,<br/>és böl<chord name="F#m"/>csességed, <chord name="Hm"/>mint a tenger, <chord name="A"/>mély<chord name="A4"/>.<chord name="A"/><br/>Magadhoz vet<chord name="G"/>tél<chord name="D"/>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="D"/>Betöltöd <chord name="G"/>szívem <chord name="A"/>igaz boldog<chord name="D"/>sággal.<br/>Békesség <chord name="G"/>van a Te <chord name="E"/>szárnyaid a<chord name="A"/>latt<chord name="A4"/>.<chord name="A"/><br/>Kenyere<chord name="G"/>met az <chord name="A"/>asztalodról <chord name="D"/>eszem,<br/>vizem az <chord name="F#m"/>élet for<chord name="Hm"/>rásából fa<chord name="A"/>kad<chord name="A4"/>.<chord name="A"/><br/>Királyom <chord name="G"/>vagy<chord name="D"/>. :||</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Lá... <chord name="F#m"/>lá... <chord name="Hm"/>lá... <chord name="Em"/>lá... <chord name="Eo"/>lá... <chord name="D"/>lá... <chord name="E"/>lá... <chord name="G"/>lá... <chord name="E"/>lá... <chord name="G"/>lá...<br/><chord name="D"/>lá... <chord name="G"/>lá... <chord name="D"/>lá...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Teremts bennem tiszta szívet</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="G"/>Teremts bennem <chord name="D"/>tiszta szí<chord name="C"/>vet, ó U<chord name="G"/>ram!<br/>Az <chord name="Em"/>erős lelket <chord name="D"/>újítsd meg ben<chord name="G"/>nem! :||GG7;<br/>||: <chord name="Am"/>Ne vess el en<chord name="D"/>gem a Te or<chord name="G"/>cád e<chord name="Em7"/>lől!<br/><chord name="Am"/>Szentlelkedet <chord name="D"/>ne vond meg tő<chord name="G"/>lem<chord name="G7"/>!<br/><chord name="Am"/>Támogass az <chord name="D"/>engedelmes<chord name="G"/>ség lelké<chord name="Em7"/>vel!<br/><chord name="Am7"/>Szabadításod <chord name="D7"/>örömét add ne<chord name="G"/>kem!<chord name="G7"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

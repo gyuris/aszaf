@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus, Jézus, Jézus, Jézus</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/> <chord name="H7"/> <chord name="H7"/> <chord name="Em"/><br/>Jé<chord name="Em"/>zus, Jézus, Jé<chord name="H7"/>zus, Jé<chord name="H7"/>zus, Jézus, Jé<chord name="Em"/>zus.<br/>Ez a <chord name="Am"/>név, amit a szívem <chord name="Em"/>szeret,<br/>mert <chord name="Em"/>másképp nem is <chord name="H7"/>lehet, hisz erre terem<chord name="Em"/>tetett<chord name="E"/>!<br/>Alle<chord name="Am"/>luja, a szívem telve <chord name="Em"/>Vele.<br/>Úgy imádom e <chord name="H7"/>nevet, Jézus a Te ne<chord name="Em"/>ved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jé<chord name="Em"/>zus, Jézus, Jé<chord name="H7"/>zus, Jé<chord name="H7"/>zus, Jézus, Jé<chord name="Em"/>zus.<br/>Ez a <chord name="Am"/>név, amit az ajkam <chord name="Em"/>kiált,<br/>hogy <chord name="Em"/>ismerje meg <chord name="H7"/>Urát, mind az egész <chord name="Em"/>világ<chord name="E"/>!<br/>Alle<chord name="Am"/>luja, a szívem telve <chord name="Em"/>Vele.<br/>Úgy kiáltom e <chord name="H7"/>nevet, Jézus a Te ne<chord name="Em"/>ved!</lines>
+    </verse>
+  </lyrics>
+</song>

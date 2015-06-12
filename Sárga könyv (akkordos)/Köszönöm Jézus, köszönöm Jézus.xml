@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Köszönöm Jézus, köszönöm Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Köszönöm Jézus, <chord name="D"/>köszönöm Jézus<br/><chord name="D"/>Köszönöm U<chord name="G"/>ram, hogy szeretsz en<chord name="D"/>gem.<br/><chord name="D"/>Köszönöm <chord name="F#m7"/>Jézus, köszönöm <chord name="Hm"/>Jé<chord name="G"/>zus<br/>Köszönöm U<chord name="D"/>ram, <chord name="A"/>hogy sze<chord name="A7"/>retsz en<chord name="D"/>gem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A <chord name="D"/>Golgotára ment, és <chord name="D"/>meghalt értem.<br/><chord name="D"/>Köszönöm U<chord name="G"/>ram, hogy szeretsz en<chord name="D"/>gem.<br/>A <chord name="D"/>Golgotára <chord name="F#m7"/>ment, és meghalt <chord name="Hm"/>ér<chord name="G"/>tem.<br/>Köszönöm U<chord name="D"/>ram, <chord name="A"/>hogy sze<chord name="A7"/>retsz en<chord name="D"/>gem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A <chord name="D"/>harmadik napon, <chord name="D"/>Ő feltámadott.<br/><chord name="D"/>Köszönöm U<chord name="G"/>ram, hogy szeretsz en<chord name="D"/>gem.<br/>A <chord name="D"/>harmadik <chord name="F#m7"/>napon, Ő feltá<chord name="Hm"/>ma<chord name="G"/>dott.<br/>Köszönöm U<chord name="D"/>ram, <chord name="A"/>hogy sze<chord name="A7"/>retsz en<chord name="D"/>gem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Ó, halleluja, <chord name="D"/>ó, halleluja!<br/><chord name="D"/>Köszönöm U<chord name="G"/>ram, hogy szeretsz en<chord name="D"/>gem.<br/><chord name="D"/>Ó halle<chord name="F#m7"/>luja, ó, halle<chord name="Hm"/>lu<chord name="G"/>ja!<br/>Köszönöm U<chord name="D"/>ram, <chord name="A"/>hogy sze<chord name="A7"/>retsz en<chord name="D"/>gem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Csillagpuha éjben titkot súg</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Csillagpuha <chord name="Em"/>éjben <chord name="F"/>titkot súg a <chord name="C"/>csend,<br/><chord name="G"/>angyalkórus <chord name="Am"/>ajkán <chord name="F"/>alleluja <chord name="Em"/>zeng.<br/><chord name="Am"/>Szűzi <chord name="G"/>virág <chord name="C"/>árasztja <chord name="F"/>illatát,<br/><chord name="C"/>Jessze ősi <chord name="Am"/>törzsén <chord name="F"/>kivirul az <chord name="Em"/>ág.<br/>Á-<chord name="C"/>á-<chord name="Am"/>á-<chord name="Hm"/>á-<chord name="Hm"/>á-<chord name="Em"/>á-<chord name="Em"/>á...</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Csillagpuha <chord name="Em"/>éjben <chord name="F"/>csupa fény az <chord name="C"/>ég,<br/><chord name="G"/>jászol bölcső<chord name="Am"/>jében <chord name="F"/>Isten földre <chord name="Em"/>lép.<br/><chord name="Am"/>Szűzi <chord name="G"/>virág <chord name="C"/>árasztja <chord name="F"/>illatát,<br/><chord name="C"/>leborul a <chord name="Am"/>lélek, s <chord name="F"/>tártmagasba <chord name="Em"/>lát.<br/>Á-<chord name="C"/>á-<chord name="Am"/>á-<chord name="Hm"/>á-<chord name="Hm"/>á-<chord name="Em"/>á-<chord name="Em"/>á...</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Csillagpuha <chord name="Em"/>éjben <chord name="F"/>ember <chord name="C"/>született,<br/><chord name="G"/>pásztorszemek <chord name="Am"/>nézik <chord name="F"/>a megnyílt e<chord name="Em"/>get.<br/><chord name="Am"/>Szűzi <chord name="G"/>virág <chord name="C"/>árasztja <chord name="F"/>illatát,<br/><chord name="C"/>szeretve <chord name="Am"/>ébred <chord name="F"/>a szomjas vi<chord name="Em"/>lág.<br/>Á-<chord name="C"/>á-<chord name="Am"/>á-<chord name="Hm"/>á-<chord name="Hm"/>á-<chord name="Em"/>á-<chord name="Em"/>á...</lines>
+    </verse>
+  </lyrics>
+</song>

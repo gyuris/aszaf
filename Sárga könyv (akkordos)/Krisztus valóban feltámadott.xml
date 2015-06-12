@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Krisztus valóban feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Em"/>Krisztus valóban feltámadott<br/><chord name="Em"/>Krisztus valóban feltámadott,<br/><chord name="D"/>Krisztus valóban feltámadott:<br/>le<chord name="Hm"/>győzte a ha<chord name="Em"/>lált! :||<br/>El<chord name="Em"/>jött közénk Fiá<chord name="D"/>ban, e<chord name="Em"/>rőt adott szavá<chord name="D"/>ban.<br/>Kik <chord name="G"/>hallgatnak reá, <chord name="D"/>szüntelen kiált<chord name="Em"/>ják<chord name="H7"/>:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Em"/>Krisztus valóban feltámadott<br/><chord name="Em"/>Krisztus valóban feltámadott<br/><chord name="D"/>Krisztus valóban feltámadott:<br/>le<chord name="Hm"/>győzte a ha<chord name="Em"/>lált! :||<br/>Áld<chord name="Em"/>játok Istenün<chord name="D"/>ket, hó<chord name="Em"/>doljatok nevé<chord name="D"/>nek!<br/>Fel<chord name="G"/>támadott, <chord name="D"/>örök életet hagyott <chord name="Em"/>ránk<chord name="H7"/>!</lines>
+    </verse>
+  </lyrics>
+</song>

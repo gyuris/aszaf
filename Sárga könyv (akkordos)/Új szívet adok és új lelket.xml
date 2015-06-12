@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Új szívet adok és új lelket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="C"/> <chord name="G"/> <chord name="Dm"/> <chord name="F"/> <chord name="Dm7"/> <chord name="G7"/> <chord name="C"/> <chord name="G7"/> :||<br/>||: <chord name="C"/>Új szívet <chord name="G"/>adok és <chord name="Dm"/>új lel<chord name="F6"/>ket,<br/>hogy <chord name="F"/>bűneitek<chord name="Dm7"/>ből <chord name="G7"/>megtérje<chord name="C"/>tek<chord name="G7"/>!<br/><chord name="C"/>Elveszem <chord name="G"/>kőszí<chord name="Dm"/>vei<chord name="F6"/>tek,<br/>és <chord name="F"/>hús-szíve<chord name="Am7"/>ket <chord name="H47"/>oltok belé<chord name="E"/>tek! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Tiszta vizet <chord name="Em"/>hintek reá<chord name="C"/>tok<chord name="E7"/>,<br/>hogy <chord name="Am"/>minden szennytől <chord name="G"/>megtisztulja<chord name="Am"/>tok<chord name="E7"/>!<br/>És <chord name="Am"/>élő Lelkem <chord name="Em"/>oltom belé<chord name="C"/>tek<chord name="E7"/>,<br/>hogy <chord name="Am"/>törvényeim <chord name="G"/>szerint élje<chord name="Am"/>tek<chord name="G7"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="C"/> <chord name="G"/> <chord name="Dm"/> <chord name="F"/> <chord name="Dm7"/> <chord name="G7"/> <chord name="C"/> <chord name="G7"/> :||<br/>||: <chord name="C"/>Új szívet <chord name="G"/>adok és <chord name="Dm"/>új lel<chord name="F6"/>ket,<br/>hogy <chord name="F"/>bűneitek<chord name="Dm7"/>ből <chord name="G7"/>megtérje<chord name="C"/>tek<chord name="G7"/>!<br/><chord name="C"/>Elveszem <chord name="G"/>kőszí<chord name="Dm"/>vei<chord name="F6"/>tek,<br/>és <chord name="F"/>hús-szíve<chord name="Am7"/>ket <chord name="H47"/>oltok belé<chord name="E"/>tek! :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Am"/>Összegyűjtlek <chord name="Em"/>ezer ország<chord name="C"/>ból<chord name="E7"/>.<br/><chord name="Am"/>Visszahozlak <chord name="G"/>minden nép kö<chord name="Am"/>zül<chord name="E7"/>,<br/>hogy <chord name="Am"/>atyáitok <chord name="Em"/>földjét lakjá<chord name="C"/>tok<chord name="E7"/>.<br/><chord name="Am"/>Népem vagy, és <chord name="G"/>Urad én va<chord name="Am"/>gyok<chord name="E7"/>!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>||: <chord name="C"/> <chord name="G"/> <chord name="Dm"/> <chord name="F"/> <chord name="Dm7"/> <chord name="G7"/> <chord name="C"/> <chord name="G7"/> :||<br/>||: <chord name="C"/>Új szívet <chord name="G"/>adok és <chord name="Dm"/>új lel<chord name="F6"/>ket,<br/>hogy <chord name="F"/>bűneitek<chord name="Dm7"/>ből <chord name="G7"/>megtérje<chord name="C"/>tek<chord name="G7"/>!<br/><chord name="C"/>Elveszem <chord name="G"/>kőszí<chord name="Dm"/>vei<chord name="F6"/>tek,<br/>és <chord name="F"/>hús-szíve<chord name="Am7"/>ket <chord name="H47"/>oltok belé<chord name="E"/>tek! :||</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A <chord name="Am"/>népek pedig <chord name="Em"/>csodáim lát<chord name="C"/>tán<chord name="E7"/><br/><chord name="Am"/>megtudják, hogy <chord name="G"/>én vagyok az <chord name="Am"/>Úr<chord name="E7"/>.<br/><chord name="Am"/>Tisztelik majd <chord name="G"/>érte neve<chord name="C"/>met<chord name="E7"/>.<br/><chord name="Am"/>Én az Úr mondom, és <chord name="G"/>végbe is vi<chord name="Am"/>szem<chord name="E7"/>!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>||: <chord name="C"/> <chord name="G"/> <chord name="Dm"/> <chord name="F"/> <chord name="Dm7"/> <chord name="G7"/> <chord name="C"/> <chord name="G7"/> :||<br/>||: <chord name="C"/>Új szívet <chord name="G"/>adok és <chord name="Dm"/>új lel<chord name="F6"/>ket,<br/>hogy <chord name="F"/>bűneitek<chord name="Dm7"/>ből <chord name="G7"/>megtérje<chord name="C"/>tek<chord name="G7"/>!<br/><chord name="C"/>Elveszem <chord name="G"/>kőszí<chord name="Dm"/>vei<chord name="F6"/>tek,<br/>és <chord name="F"/>hús-szíve<chord name="Am7"/>ket <chord name="H47"/>oltok belé<chord name="E"/>tek! :||</lines>
+    </verse>
+  </lyrics>
+</song>

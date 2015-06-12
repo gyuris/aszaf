@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Az Isten szeret, az Isten</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: Az <chord name="C"/>Isten szeret, az <chord name="F"/>Isten minket sze<chord name="G"/>ret<chord name="G7"/>.<br/>Az <chord name="E"/>Isten <chord name="E7"/>minket <chord name="Am"/>elszeret az <chord name="F6"/>apánktól, az <chord name="Dm"/>anyánktól,<br/>a <chord name="E"/>házunkból, a <chord name="Am"/>hazánkból.<br/><chord name="F6"/>Attól, mit <chord name="Dm"/>szerettünk, <chord name="E"/>és amit <chord name="Am"/>műveltünk.<br/><chord name="F6"/>Igen, Ő <chord name="G"/>elszeret! :||…és <chord name="G7"/>házába ve<chord name="C"/>zet<chord name="E"/>.<br/>Igen, Ő <chord name="Am"/>elszeret, és <chord name="G"/>házába ve<chord name="C"/>zet<chord name="F"/>.<chord name="Fm"/><chord name="C"/></lines>
+    </verse>
+  </lyrics>
+</song>

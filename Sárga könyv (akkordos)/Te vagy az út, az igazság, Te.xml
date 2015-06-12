@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Te vagy az út, az igazság, Te</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Te vagy az <chord name="H7"/>út, az igaz<chord name="A"/>ság, Te vagy az <chord name="E"/>élet!<br/><chord name="E"/>Hozzád <chord name="H7"/>megyek áldom Ne<chord name="A"/>ved, általad <chord name="E"/>élek.<br/>||: <chord name="A"/>Megszabadítot<chord name="F#m"/>tál, <chord name="E"/>kenyeret s bort ad<chord name="C#m"/>tál.<br/><chord name="E"/>Tested és véred <chord name="H7"/>táplál, hűséged <chord name="E"/>éltet, alleluja! :||</lines>
+    </verse>
+  </lyrics>
+</song>

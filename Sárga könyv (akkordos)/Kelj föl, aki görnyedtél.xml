@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Kelj föl, aki görnyedtél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Kelj föl, aki <chord name="G"/>görnyedtél, mert <chord name="Hm"/>győzött az <chord name="A7"/>é<chord name="D"/>let:<br/>a hatalom és a dicsőség örökre övé lett.<br/><chord name="G"/>Győ<chord name="D"/>zött, <chord name="A"/>győ<chord name="Hm"/>zött az <chord name="Em"/>é<chord name="A7"/><chord name="D"/>let!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Nyisd ki a szemed, <chord name="G"/>hunyorgó, mert <chord name="Hm"/>itt a gyógyító nap<chord name="A7"/>su<chord name="D"/>gár,<br/>szelíd fényétől nincs mit félni már!<br/><chord name="G"/>Győ<chord name="D"/>zött, <chord name="A"/>győ<chord name="Hm"/>zött az <chord name="Em"/>é<chord name="A7"/><chord name="D"/>let!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Em"/>Lehull a bilincs a <chord name="G"/>rabokról, <chord name="Hm"/>nyílnak a <chord name="A7"/>zá<chord name="D"/>rak,<br/>virágözönben hajnali szélben az új tavasz illata árad.<br/><chord name="G"/>Győ<chord name="D"/>zött, <chord name="A"/>győ<chord name="Hm"/>zött az <chord name="Em"/>é<chord name="A7"/><chord name="D"/>let!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Em"/>Tedd le a szerszámot, <chord name="G"/>kőműves, <chord name="Hm"/>tudós, csukd be a köny<chord name="A7"/>ve<chord name="D"/>det,<br/>langyos párában úszik a föld, odafönn tiszta fény lebeg.<br/><chord name="G"/>Győ<chord name="D"/>zött, <chord name="A"/>győ<chord name="Hm"/>zött az <chord name="Em"/>é<chord name="A7"/><chord name="D"/>let!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="Em"/>Jöjjetek éne<chord name="G"/>kelni mind, <chord name="Hm"/>jöjjetek virágokat hin<chord name="A7"/>te<chord name="D"/>ni,<br/>mert az öröm napfénye tündököl, és eltűntek a sötétség szörnyei.<br/><chord name="G"/>Győ<chord name="D"/>zött, <chord name="A"/>győ<chord name="Hm"/>zött az <chord name="Em"/>é<chord name="A7"/><chord name="D"/>let!</lines>
+    </verse>
+  </lyrics>
+</song>

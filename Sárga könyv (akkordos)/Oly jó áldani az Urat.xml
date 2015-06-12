@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Oly jó áldani az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/> <chord name="D"/> <chord name="G"/> <chord name="D"/><br/><chord name="G"/>Oly jó <chord name="G"/>ál<chord name="D"/>da<chord name="G"/>ni <chord name="G"/>az <chord name="D"/>U<chord name="G"/>rat,<br/><chord name="D"/>ujjongó<chord name="G"/>an <chord name="D"/>jó <chord name="D"/>Is<chord name="G"/>ten<chord name="D"/>nek <chord name="D"/>zen<chord name="G"/>ge<chord name="C"/>ni zsoltáro<chord name="G"/>kat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Már kora <chord name="G"/>reg<chord name="D"/>ge<chord name="G"/>len <chord name="G"/>jó<chord name="D"/>sá<chord name="G"/>gát,<br/>és <chord name="D"/>éjszaká<chord name="G"/>kon <chord name="D"/>át <chord name="D"/>hir<chord name="G"/>de<chord name="D"/>tem <chord name="D"/>szün<chord name="G"/>te<chord name="C"/>len nagy irgal<chord name="G"/>mát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Pengő <chord name="G"/>hang<chord name="D"/>sze<chord name="G"/>ren, <chord name="G"/>lan<chord name="D"/>to<chord name="G"/>kon,<br/><chord name="D"/>ujjongó<chord name="G"/>an <chord name="D"/>jó <chord name="D"/>Is<chord name="G"/>ten<chord name="D"/>nek <chord name="D"/>zen<chord name="G"/>ge<chord name="C"/>ni hála<chord name="G"/>szót.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="G"/>Az öröm <chord name="G"/>hang<chord name="D"/>ja<chord name="G"/>i <chord name="G"/>szól<chord name="D"/>ja<chord name="G"/>nak,<br/><chord name="D"/>gitár húrja<chord name="G"/>in <chord name="D"/>ma<chord name="D"/>gasz<chord name="G"/>ta<chord name="D"/>lom <chord name="D"/>uj<chord name="G"/>jong<chord name="C"/>va csodái<chord name="G"/>dat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="G"/>Uram <chord name="G"/>jó <chord name="D"/>vol<chord name="G"/>tál <chord name="G"/>én<chord name="D"/>hoz<chord name="G"/>zám,<br/><chord name="D"/>életem<chord name="G"/>ben <chord name="D"/>nagy <chord name="D"/>dol<chord name="G"/>go<chord name="D"/>kat <chord name="D"/>mű<chord name="G"/>vel<chord name="C"/>tél sok év so<chord name="G"/>rán.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="G"/>Sziklám, <chord name="G"/>ol<chord name="D"/>tal<chord name="G"/>mam <chord name="G"/>Te <chord name="D"/>vol<chord name="G"/>tál,<br/><chord name="D"/>oly irgalmasan <chord name="G"/>jó, <chord name="D"/>gon<chord name="D"/>dos<chord name="G"/>ko<chord name="D"/>dó <chord name="D"/>Is<chord name="G"/>te<chord name="C"/>nem, égi A<chord name="G"/>tyám.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="G"/>Hála, <chord name="G"/>di<chord name="D"/>cső<chord name="G"/>ség <chord name="G"/>Ne<chord name="D"/>ved<chord name="G"/>nek,<br/><chord name="D"/>most és ö<chord name="G"/>rök<chord name="D"/>ké <chord name="D"/>az <chord name="G"/>é<chord name="D"/>gen, <chord name="D"/>a <chord name="G"/>föl<chord name="C"/>dön. A<chord name="G"/>men!</lines>
+    </verse>
+  </lyrics>
+</song>

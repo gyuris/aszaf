@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Indulj a harcba, ne félj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="F"/>Indulj a <chord name="G"/>harcba, ne <chord name="Am"/>félj alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Trombiták <chord name="C"/>adjatok <chord name="G"/>jelt!<br/><chord name="F"/>Krisztus győzel<chord name="G"/>met ad ne<chord name="Am"/>künk, alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Romba <chord name="G"/>dől Jeri<chord name="Am"/>kó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Krisztus <chord name="G"/>Teste vi<chord name="D"/>gyáz <chord name="Am"/>ránk,<br/><chord name="F"/>megszabadít <chord name="G"/>vétkeink<chord name="Am"/>től.<br/><chord name="C"/>Reménységet, <chord name="D"/>fényt, <chord name="Am"/>szabadságot ad:<br/><chord name="F"/>Jézus <chord name="G"/>hatalmas Ki<chord name="Am"/>rály!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="F"/>Indulj a <chord name="G"/>harcba, ne <chord name="Am"/>félj alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Trombiták <chord name="C"/>adjatok <chord name="G"/>jelt!<br/><chord name="F"/>Krisztus győzel<chord name="G"/>met ad ne<chord name="Am"/>künk, alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Romba <chord name="G"/>dől Jeri<chord name="Am"/>kó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="C"/>Járjunk <chord name="G"/>az Ő ere<chord name="D"/>jé<chord name="Am"/>ben!<br/><chord name="F"/>Isten <chord name="G"/>Lelke ve<chord name="Am"/>zet.<br/><chord name="C"/>Krisztus köré <chord name="D"/>gyűlve <chord name="Am"/>harcoljunk Vele,<br/><chord name="F"/>míg tart a <chord name="G"/>küzdés ide<chord name="Am"/>je!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="F"/>Indulj a <chord name="G"/>harcba, ne <chord name="Am"/>félj alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Trombiták <chord name="C"/>adjatok <chord name="G"/>jelt!<br/><chord name="F"/>Krisztus győzel<chord name="G"/>met ad ne<chord name="Am"/>künk, alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Romba <chord name="G"/>dől Jeri<chord name="Am"/>kó.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="C"/>La-la-<chord name="G"/>la-la-<chord name="D"/>la-la-<chord name="Am"/>la…<br/><chord name="F"/>la-la-<chord name="G"/>la-la-<chord name="Am"/>la...<br/><chord name="C"/>la-la-<chord name="D"/>la-la-<chord name="Am"/>la-la...<br/><chord name="F"/>la-la-<chord name="G"/>la-la-<chord name="Am"/>la...</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="F"/>Indulj a <chord name="G"/>harcba, ne <chord name="Am"/>félj alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Trombiták <chord name="C"/>adjatok <chord name="G"/>jelt!<br/><chord name="F"/>Krisztus győzel<chord name="G"/>met ad ne<chord name="Am"/>künk, alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Romba <chord name="G"/>dől Jeri<chord name="Am"/>kó.</lines>
+    </verse>
+    <verse name="v8">
+      <lines><chord name="C"/>Hirdesd <chord name="G"/>szerte a <chord name="Am"/>földön,<br/><chord name="F"/>Jézus <chord name="G"/>feltáma<chord name="Am"/>dott!<br/><chord name="C"/>Életét <chord name="D"/>adta <chord name="Am"/>üdvösségünkért,<br/><chord name="F"/>győzött az <chord name="G"/>élet U<chord name="Am"/>ra!</lines>
+    </verse>
+    <verse name="v9">
+      <lines><chord name="F"/>Indulj a <chord name="G"/>harcba, ne <chord name="Am"/>félj alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Trombiták <chord name="C"/>adjatok <chord name="G"/>jelt!<br/><chord name="F"/>Krisztus győzel<chord name="G"/>met ad ne<chord name="Am"/>künk, alle<chord name="G"/>lu<chord name="Am"/>ja!<br/><chord name="F"/>Romba <chord name="G"/>dől Jeri<chord name="Am"/>kó.</lines>
+    </verse>
+  </lyrics>
+</song>

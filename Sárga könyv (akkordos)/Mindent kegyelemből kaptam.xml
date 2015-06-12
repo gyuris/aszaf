@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Mindent kegyelemből kaptam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Mindent kegye<chord name="G"/>lemből kaptam, <chord name="A"/>mindent kegye<chord name="D"/>lemből kaptam,<br/><chord name="D7"/>mindent kegye<chord name="G"/>lemből kaptam <chord name="D"/>én<chord name="A"/>!<chord name="D"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Jézus, e név a <chord name="G"/>biztos szikla, <chord name="A"/>Jézus, e név a <chord name="D"/>biztos szikla,<br/><chord name="D7"/>Jézus, e név a <chord name="G"/>biztos szikla, építs te is <chord name="D"/>Rá<chord name="A"/>!<chord name="D"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Csak állj rá az Ő <chord name="G"/>ígéretére, <chord name="A"/>csak állj rá az Ő <chord name="D"/>ígéretére,<br/><chord name="D7"/>csak állj rá az Ő <chord name="G"/>ígéretére, most is állj csak <chord name="D"/>Rá<chord name="A"/>!<chord name="D"/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Minden szavát <chord name="G"/>beteljesíti, <chord name="A-"/>minden szavát <chord name="D"/>beteljesíti,<br/><chord name="D7"/>minden szavát <chord name="G"/>beteljesíti, ígérete betelje<chord name="D"/>sül<chord name="A"/>!<chord name="D"/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>S <chord name="D"/>mindezt kegye<chord name="G"/>lemből kaptuk, s <chord name="A"/>mindezt kegye<chord name="D"/>lemből kaptuk,<br/>s <chord name="D7"/>mindezt kegye<chord name="G"/>lemből kaptuk, mi mindnyá<chord name="D"/>jan<chord name="A"/>!<chord name="D"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

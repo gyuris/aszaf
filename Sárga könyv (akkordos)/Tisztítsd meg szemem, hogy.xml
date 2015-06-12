@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg szemem, hogy</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Dm"/>Tisztítsd meg szemem, hogy Téged <chord name="Gm"/>lásson<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Tisztítsd meg fülem, hogy Téged <chord name="Gm"/>halljon<chord name="Gm6"/>!<chord name="Dm"/><br/>||: <chord name="C7"/>Nyisd meg a <chord name="F"/>szívem, hogy <chord name="Gm"/>befogadjon! :||(3x)<br/><chord name="C7"/>Nyisd meg a <chord name="F"/>szívem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Dm"/>Vidd a lábamat, hogy Hozzád <chord name="Gm"/>érjen<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Emeld két karom, hogy átö<chord name="Gm"/>leljen<chord name="Gm6"/>!<chord name="Dm"/><br/>||: <chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem, hogy <chord name="Gm"/>Benned éljek! :||(3x)<br/><chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem!</lines>
+    </verse>
+  </lyrics>
+</song>

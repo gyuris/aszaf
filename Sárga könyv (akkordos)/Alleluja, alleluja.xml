@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Alleluja, alleluja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Gm"/>Alleluja, <chord name="Dm"/>allelu<chord name="Gm"/>ja! :||<br/><chord name="Gm"/>Mária, <chord name="Gm"/>igaz leány!<br/><chord name="Gm"/>Ne félj, nézd, <chord name="Gm"/>Rád te<chord name="Dm"/>kint az <chord name="Gm"/>Úr!<br/><chord name="Gm"/>Téged hív, hogy <chord name="Gm"/>légy az anyja <chord name="Gm"/>Fiának!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Gm"/>Alleluja, <chord name="Dm"/>allelu<chord name="Gm"/>ja! :||<br/><chord name="Gm"/>Mária, <chord name="Gm"/>áldott Anya,<br/><chord name="Gm"/>Isten reád <chord name="Gm"/>Lelkét <chord name="Dm"/>áraszt<chord name="Gm"/>ja!<br/><chord name="Gm"/>Boldog vagy, mert <chord name="Gm"/>hittél az Ő <chord name="Gm"/>szavának!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="Gm"/>Alleluja, <chord name="Dm"/>allelu<chord name="Gm"/>ja! :||<br/><chord name="Gm"/>Mária, <chord name="Gm"/>szent Szűzanya!<br/><chord name="Gm"/>Asszony nincs <chord name="Gm"/>nálad <chord name="Dm"/>áldot<chord name="Gm"/>tabb!<br/><chord name="Gm"/>És áldott Jé<chord name="Gm"/>zus, akit a világ<chord name="Gm"/>ra szültél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>||: <chord name="Gm"/>Alleluja, <chord name="Dm"/>allelu<chord name="Gm"/>ja! :||<br/><chord name="Gm"/>Mária, <chord name="Gm"/>édesanya!<br/><chord name="Gm"/>Jézus Krisztust <chord name="Gm"/>méhed <chord name="Dm"/>hordoz<chord name="Gm"/>ta!<br/><chord name="Gm"/>Várva-várjuk <chord name="Gm"/>áldott Fiadat, <chord name="Gm"/>Jézust!</lines>
+    </verse>
+  </lyrics>
+</song>

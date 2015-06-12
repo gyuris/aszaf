@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Add a kezed, hogy zengjünk az</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Add a kezed, hogy <chord name="A"/>zengjünk az <chord name="E"/>Úrnak, <chord name="A"/>zengjünk az <chord name="E"/>Úrnak <chord name="H7"/>alleluját!<br/><chord name="E"/>Add a kezed, hogy <chord name="A"/>zengjünk az <chord name="E"/>Úrnak, <chord name="A"/>zengjünk az <chord name="E"/>Úrnak <chord name="H7"/>allelu<chord name="E"/>ját!<br/><chord name="A"/>Alleluja, <chord name="E"/>alleluja, <chord name="H7"/>alleluja, <chord name="E"/>allelu<chord name="E7"/>ja!<br/><chord name="A"/>Alleluja, <chord name="E"/>alleluja, <chord name="H7"/>alleluja, <chord name="E"/>alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="E"/>Kitárt karokkal <chord name="A"/>mindenki <chord name="E"/>áldja, <chord name="A"/>mindenki <chord name="E"/>áldja az <chord name="H7"/>élet Urát!<br/><chord name="E"/>Kitárt karokkal <chord name="A"/>mindenki <chord name="E"/>áldja, <chord name="A"/>mindenki <chord name="E"/>áldja az <chord name="H7"/>élet U<chord name="E"/>rát!<br/><chord name="A"/>Alleluja, <chord name="E"/>alleluja, <chord name="H7"/>alleluja, <chord name="E"/>allelu<chord name="E7"/>ja!<br/><chord name="A"/>Alleluja, <chord name="E"/>alleluja, <chord name="H7"/>alleluja, <chord name="E"/>alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

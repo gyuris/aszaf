@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Hatalmas Atyám, dicsőítlek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatalmas <chord name="G"/>Atyám, dicső<chord name="C"/>ítlek Té<chord name="G"/>ged<chord name="C"/><chord name="G"/>!<br/>Hatalmas <chord name="G"/>Atyám, dicső<chord name="Em"/>ítlek Té<chord name="Am"/>ged<chord name="D7"/>!<br/>Sze<chord name="G"/>retlek, i<chord name="F"/>mádlak, meg<chord name="C"/>hajlom e<chord name="Cm"/>lőtted.<br/>Hatalmas <chord name="G"/>Atyám, dicső<chord name="D"/>ítlek Té<chord name="G"/>ged<chord name="C"/><chord name="G"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megvál<chord name="G"/>tóm, mily' cso<chord name="C"/>dálatos <chord name="G"/>vagy<chord name="C"/><chord name="G"/>!<br/>Megvál<chord name="G"/>tóm, mily' cso<chord name="Em"/>dálatos <chord name="Am"/>vagy<chord name="D7"/>!<br/>É<chord name="G"/>letem meg<chord name="F"/>váltottad, s Szent<chord name="C"/>lelked nekem <chord name="Cm"/>adtad.<br/>Megvál<chord name="G"/>tóm, mily' cso<chord name="D"/>dálatos <chord name="G"/>vagy<chord name="C"/><chord name="G"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szentlé<chord name="G"/>lek, megvi<chord name="C"/>gasztalsz en<chord name="G"/>gem<chord name="C"/><chord name="G"/>.<br/>Szentlé<chord name="G"/>lek, megvi<chord name="Em"/>gasztalsz en<chord name="Am"/>gem<chord name="D7"/>.<br/>Te <chord name="G"/>vezetsz, ve<chord name="F"/>zérelsz, meg<chord name="C"/>újítod a <chord name="Cm"/>szívem.<br/>Szentlé<chord name="G"/>lek, megvi<chord name="D"/>gasztalsz en<chord name="G"/>gem<chord name="C"/><chord name="G"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

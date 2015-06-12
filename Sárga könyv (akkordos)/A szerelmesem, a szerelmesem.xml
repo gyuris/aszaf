@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>A szerelmesem, a szerelmesem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: A <chord name="Gm"/>szerelmesem, a <chord name="Gm"/>szerelmesem, a <chord name="Gm"/>szerelme<chord name="Cm"/>sem ímé <chord name="D"/>im<chord name="D7"/>hol <chord name="Gm"/>jő. :||<br/><chord name="Gm"/>Által ugrik <chord name="F"/>a he<chord name="Gm"/>gyeken, <chord name="F"/>ál<chord name="H-"/>tal <chord name="F"/>hág a <chord name="H-"/>dom<chord name="F"/>bo<chord name="D"/>kon.<br/><chord name="Gm"/>Által ugrik <chord name="F"/>a he<chord name="Gm"/>gyeken, <chord name="F"/>ál<chord name="H-"/>tal <chord name="Cm"/>lép a <chord name="D"/>halmo<chord name="G"/>kon.</lines>
+    </verse>
+  </lyrics>
+</song>

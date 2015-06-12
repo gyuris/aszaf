@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Aaalleluja, dicsőség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> <chord name="D4"/> <chord name="D"/> <chord name="D4"/> <chord name="G"/> <chord name="A"/> <chord name="D"/> <chord name="D4"/><br/>||: <chord name="D"/>A-<chord name="G"/>a-<chord name="A"/>alle<chord name="D"/>luja, <chord name="G"/>dicsőség a <chord name="A"/>mennyben Iste<chord name="D"/>nünknek,<br/>és <chord name="G"/>békes<chord name="A"/>ség a földön <chord name="G"/>néped<chord name="A"/>nek! :||<br/><chord name="D"/>A<chord name="G"/>tyánk, <chord name="A"/>jóságos <chord name="D"/>Atya,<br/><chord name="G"/>minden <chord name="A"/>dicsőség a <chord name="D"/>Tiéd,<br/><chord name="G"/>szere<chord name="A"/>tő Atya <chord name="G"/>Is<chord name="A"/>ten!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="D"/>A-<chord name="G"/>a-<chord name="A"/>alle<chord name="D"/>luja, <chord name="G"/>dicsőség a <chord name="A"/>mennyben Iste<chord name="D"/>nünknek,<br/>és <chord name="G"/>békes<chord name="A"/>ség a földön <chord name="G"/>néped<chord name="A"/>nek! :||<br/><chord name="D"/>Jé<chord name="G"/>zus, <chord name="A"/>Jézus <chord name="D"/>Krisztus,<br/><chord name="G"/>kitárjuk <chord name="A"/>feléd a <chord name="D"/>szívünk,<br/><chord name="G"/>Isten <chord name="A"/>egyszülött <chord name="G"/>Fi<chord name="A"/>a!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>A-<chord name="G"/>a-<chord name="A"/>alle<chord name="D"/>luja, <chord name="G"/>dicsőség a <chord name="A"/>mennyben Iste<chord name="D"/>nünknek,<br/>és <chord name="G"/>békes<chord name="A"/>ség a földön <chord name="G"/>néped<chord name="A"/>nek! :||<br/><chord name="D"/>Lé<chord name="G"/>lek, <chord name="A"/>Isten Szent<chord name="D"/>lelke,<br/><chord name="G"/>jöjj és <chord name="A"/>taníts meg <chord name="D"/>minket<br/><chord name="G"/>élni, <chord name="A"/>alkotó <chord name="G"/>Lé<chord name="A"/>lek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>||: <chord name="D"/>A-<chord name="G"/>a-<chord name="A"/>alle<chord name="D"/>luja, <chord name="G"/>dicsőség a <chord name="A"/>mennyben Iste<chord name="D"/>nünknek,<br/>és <chord name="G"/>békes<chord name="A"/>ség a földön <chord name="G"/>néped<chord name="A"/>nek! :||<br/><chord name="D"/>Ti<chord name="G"/>éiddel <chord name="A"/>együtt a <chord name="D"/>földön,<br/>s az <chord name="G"/>égen, az <chord name="A"/>angyalok kóru<chord name="D"/>sával<br/><chord name="G"/>dicsér<chord name="A"/>jük a Te <chord name="G"/>ne<chord name="A"/>ved!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>||: <chord name="D"/>A-<chord name="G"/>a-<chord name="A"/>alle<chord name="D"/>luja, <chord name="G"/>dicsőség a <chord name="A"/>mennyben Iste<chord name="D"/>nünknek,<br/>és <chord name="G"/>békes<chord name="A"/>ség a földön <chord name="G"/>néped<chord name="A"/>nek! :||<br/><chord name="G"/>Dicső <chord name="A"/>az <chord name="D"/>Úr<chord name="D4"/>! <chord name="D"/> <chord name="D4"/> <chord name="D"/> <chord name="D4"/> <chord name="D"/></lines>
+    </verse>
+  </lyrics>
+</song>

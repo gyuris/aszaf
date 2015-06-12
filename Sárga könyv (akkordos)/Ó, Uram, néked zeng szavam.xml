@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Ó, Uram, néked zeng szavam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Am"/>Ó, Uram, néked <chord name="C"/>zeng szavam, Téged <chord name="Dm"/>áldalak, ó, U<chord name="Am"/>ram! :||<br/><chord name="G"/>Ahová a <chord name="Em"/>kezed ér<chord name="E7"/>, ott <chord name="Am"/>gyümölcs sarjad,<br/>amit <chord name="H7"/>megérintesz, élet<chord name="E"/>re fakad<chord name="E7"/>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Am"/>Ó, Uram, néked <chord name="C"/>zeng szavam, Téged <chord name="Dm"/>áldalak, ó, U<chord name="Am"/>ram! :||<br/><chord name="G"/>Közelséged <chord name="Em"/>felüdít<chord name="E7"/> és <chord name="Am"/>megvigasztal engem,<br/>szent <chord name="H7"/>igéd megújít<chord name="E"/>ja lelkem<chord name="E7"/>.<br/>||: <chord name="Am"/>Ó, Uram, néked <chord name="C"/>zeng szavam, Téged <chord name="Dm"/>áldalak, ó, U<chord name="Am"/>ram! :||</lines>
+    </verse>
+  </lyrics>
+</song>

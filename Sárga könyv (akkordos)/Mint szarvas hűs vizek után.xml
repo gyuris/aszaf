@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Mint szarvas hűs vizek után</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Mint szarvas <chord name="G"/>hűs<chord name="Am"/> vizek u<chord name="G"/>tán,<br/>szívem e<chord name="Em"/>ped,<chord name="Am"/> vágyik Hoz<chord name="D"/>zád<chord name="D7"/>!<br/>Lelkem re<chord name="G"/>pes<chord name="C"/> az élő Úr fe<chord name="G"/>lé,<br/><chord name="Am"/>mikor jössz <chord name="D"/>el<chord name="D7"/>, hogy el<chord name="G"/>vi<chord name="C"/>gyél<chord name="G"/>?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Könnyek kö<chord name="G"/>zött<chord name="Am"/> telt éle<chord name="G"/>tem,<br/>mert az U<chord name="Em"/>rat<chord name="Am"/> nem ismer<chord name="D"/>tem<chord name="D7"/>.<br/>Szomjaztam <chord name="G"/>én<chord name="C"/> az Igazság u<chord name="G"/>tán,<br/>s <chord name="Am"/>nem tudtam, <chord name="D"/>hogy<chord name="D7"/> Ő rég <chord name="G"/>várt <chord name="C"/>rám<chord name="G"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Szelíd hang<chord name="G"/>ja<chord name="Am"/> megraga<chord name="G"/>dott,<br/>és fele<chord name="Em"/>melt<chord name="Am"/>, magához <chord name="D"/>vont<chord name="D7"/>.<br/>Kiválasz<chord name="G"/>tott<chord name="C"/>, hogy meglássam ar<chord name="G"/>cát,<br/><chord name="Am"/>ó, Jézus, <chord name="D"/>jöjj<chord name="D7"/>, úgy vá<chord name="G"/>runk <chord name="C"/>Rád<chord name="G"/>!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="G"/>Mint szarvas <chord name="G"/>hűs<chord name="Am"/> vizek u<chord name="G"/>tán,<br/>szívem e<chord name="Em"/>ped,<chord name="Am"/> vágyik Hoz<chord name="D"/>zád<chord name="D7"/>!<br/>Lelkem re<chord name="G"/>pes<chord name="C"/> az élő Úr fe<chord name="G"/>lé,<br/><chord name="Am"/>mikor jössz <chord name="D"/>el<chord name="D7"/>, hogy el<chord name="G"/>vi<chord name="C"/>gyél<chord name="G"/>?</lines>
+    </verse>
+  </lyrics>
+</song>

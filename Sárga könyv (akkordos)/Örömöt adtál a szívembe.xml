@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Örömöt adtál a szívembe</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="F"/> <chord name="G"/> <chord name="A7"/> <chord name="Dm"/> <chord name="F"/> <chord name="A"/> <chord name="Dm"/><br/><chord name="F"/>Örömöt <chord name="G"/>adtál a <chord name="A7"/>szívem<chord name="Dm"/>be, <chord name="F"/>köszönöm <chord name="G"/>Neked, U<chord name="Dm"/>ram!<br/><chord name="F"/>Teveled <chord name="G"/>élni <chord name="A7"/>oly jó ne<chord name="F6"/>kem, <chord name="F"/>köszönöm, hogy <chord name="A"/>szeretsz, <chord name="Dm"/>Uram!<br/>||: <chord name="C"/>Nélküle már nem <chord name="F"/>kell a világ, <chord name="C"/>utamat <chord name="A7"/>csak vele <chord name="Dm"/>járom.<br/><chord name="C"/>Boldog<chord name="A7"/>ságom <chord name="Dm"/>nem keresem, <chord name="C"/>tudom, hogy <chord name="A"/>Nála ta<chord name="Dm"/>lálom! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="F"/>Boldogan <chord name="G"/>élek, <chord name="A7"/>nem taga<chord name="Dm"/>dom, <chord name="F"/>semmi baj <chord name="G"/>nem érhet <chord name="Dm"/>engem.<br/>A <chord name="F"/>könnyeket <chord name="G"/>én már <chord name="A7"/>nem isme<chord name="F6"/>rem, mert <chord name="F"/>Jézus él <chord name="A"/>a szívem<chord name="Dm"/>ben.<br/>||: <chord name="C"/>Nélküle már nem <chord name="F"/>kell a világ, <chord name="C"/>utamat <chord name="A7"/>csak vele <chord name="Dm"/>járom.<br/><chord name="C"/>Boldog<chord name="A7"/>ságom <chord name="Dm"/>nem keresem, <chord name="C"/>tudom, hogy <chord name="A"/>Nála ta<chord name="Dm"/>lálom! :||</lines>
+    </verse>
+  </lyrics>
+</song>

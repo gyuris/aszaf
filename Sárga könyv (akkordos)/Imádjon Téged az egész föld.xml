@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Imádjon Téged az egész föld</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Imádjon Téged az <chord name="Hm"/>egész föld,<br/>és <chord name="C"/>zengje dicsé<chord name="Em"/>rete<chord name="C"/>det, jó U<chord name="Hm"/>ram,<br/><chord name="C"/>magasztalja <chord name="D"/>szent neve<chord name="Em"/>det!<br/><chord name="C"/>Én is dicsérlek <chord name="Hm"/>szüntelen,<br/>mert <chord name="C"/>megváltottad <chord name="Em"/>bűnei<chord name="C"/>met, jó U<chord name="Hm"/>ram<br/>és <chord name="C"/>megmentetted <chord name="D"/>halott lelke<chord name="Em"/>met.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Ezért <chord name="C"/>dicsérlek <chord name="D"/>én, mindig <chord name="G"/>dicsérlek <chord name="Hm"/>én,<br/>bárhol <chord name="C"/>éljek, s bármi <chord name="D"/>történjék ve<chord name="Em"/>lem.<br/><chord name="Em"/>Ezért <chord name="C"/>dicsérlek <chord name="D"/>én, mindig <chord name="G"/>dicsérlek <chord name="Hm"/>én<br/>elég <chord name="C"/>nékem a <chord name="D"/>Te kegyel<chord name="Em"/>med.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Imádjon Téged az <chord name="Hm"/>egész föld,<br/>és <chord name="C"/>zengje dicsé<chord name="Em"/>rete<chord name="C"/>det, jó U<chord name="Hm"/>ram,<br/><chord name="C"/>magasztalja <chord name="D"/>szent neve<chord name="Em"/>det!<br/><chord name="C"/>Harsogjon hát <chord name="Hm"/>Tenéked,<br/><chord name="C"/>dicsőítő <chord name="Em"/>éne<chord name="C"/>kem, jó U<chord name="Hm"/>ram!<br/><chord name="C"/>Téged szomjaz, <chord name="D"/>vár a lel<chord name="Em"/>kem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Em"/>Ezért <chord name="C"/>dicsérlek <chord name="D"/>én, mindig <chord name="G"/>dicsérlek <chord name="Hm"/>én,<br/>bárhol <chord name="C"/>éljek, s bármi <chord name="D"/>történjék ve<chord name="Em"/>lem.<br/><chord name="Em"/>Ezért <chord name="C"/>dicsérlek <chord name="D"/>én, mindig <chord name="G"/>dicsérlek <chord name="Hm"/>én<br/>elég <chord name="C"/>nékem a <chord name="D"/>Te kegyel<chord name="Em"/>med,<br/>elég <chord name="C"/>nékem a <chord name="D"/>Te szerel<chord name="Em"/>med.</lines>
+    </verse>
+  </lyrics>
+</song>

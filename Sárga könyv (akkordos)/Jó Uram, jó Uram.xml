@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jó Uram, jó Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldogan.<br/><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldo<chord name="A"/>gan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="F#"/>Bocsásd meg nekem a <chord name="G"/>hosszú éveket,<br/><chord name="F#"/>amikor én még <chord name="H"/>nem kerestelek.<br/>Ó-<chord name="E"/>ó, nem kereste<chord name="A"/>lek<chord name="C#"/><chord name="F#"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="F#"/>Bocsásd meg nekem, hogy <chord name="G"/>néma volt a szám,<br/><chord name="F#"/>amikor arcod <chord name="H"/>hívón nézett rám.<br/>Ó-<chord name="E"/>ó, hívón nézett <chord name="A"/>rám<chord name="C#"/><chord name="F#"/>.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldogan.<br/><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldo<chord name="A"/>gan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="F#"/>Bocsásd meg nekem a <chord name="G"/>hosszú éveket,<br/><chord name="F#"/>amikor én még <chord name="H"/>félve néztelek.<br/>Ó-<chord name="E"/>ó, félve nézte<chord name="A"/>lek<chord name="C#"/><chord name="F#"/>.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="F#"/>Bocsásd meg nekem, hogy <chord name="G"/>elkerültelek,<br/><chord name="F#"/>amikor hívtál, <chord name="H"/>nem kerestelek.<br/>Ó-<chord name="E"/>ó, nem kereste<chord name="A"/>lek<chord name="C#"/><chord name="F#"/>.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldogan.<br/><chord name="A"/>Jó Uram, <chord name="D"/>jó Uram,<br/><chord name="A"/>megyek már <chord name="E"/>boldo<chord name="A"/>gan.</lines>
+    </verse>
+  </lyrics>
+</song>

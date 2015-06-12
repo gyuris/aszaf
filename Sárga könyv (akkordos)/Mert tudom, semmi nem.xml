@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Mert tudom, semmi nem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mert tu<chord name="D"/>dom, semmi <chord name="G"/>nem szakaszthat <chord name="D"/>el az én <chord name="G"/>Uram szerelmé<chord name="D"/>től.<br/>Sem <chord name="D"/>élet, sem ha<chord name="G"/>lál nem választ <chord name="D"/>el sem <chord name="G"/>ma, sem <chord name="D"/>holnap.<br/>Mert az <chord name="D"/>angyalok <chord name="G"/>visznek őhoz<chord name="D"/>zá,<br/>s a po<chord name="F#m"/>kol e<chord name="Hm"/>rői sem <chord name="G"/>állítnak <chord name="A"/>meg<chord name="A4"/>.<chord name="A"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem <chord name="G"/>számít, ha hegyte<chord name="D"/>tőn állok meg vagy a <chord name="Hm"/>sík ten<chord name="G"/>ger part<chord name="A"/>ján,<br/>mert az <chord name="D"/>Úr alkotta <chord name="Hm"/>mindezt, és <chord name="G"/>minden az ö<chord name="A"/>vé.<br/>És tu<chord name="D"/>dom, semmi <chord name="G"/>nem szakaszthat <chord name="D"/>el az én <chord name="G"/>Uram szerelmé<chord name="D"/>től.</lines>
+    </verse>
+  </lyrics>
+</song>

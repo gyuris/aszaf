@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Sok mindent megpróbáltam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Sok mindent megpró<chord name="C#m"/>báltam, á-<chord name="F#m"/>á,<br/>sokszor <chord name="E"/>rossz úton <chord name="A"/>jártam, <chord name="E"/>á-<chord name="A"/>á.<br/><chord name="A"/>A világtól sokat <chord name="C#m"/>vártam, á-<chord name="F#m"/>á,<br/>a vi<chord name="E"/>lágban pórul <chord name="A"/>jártam, <chord name="E"/>á-<chord name="A"/>á.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most már <chord name="A"/>látom,<chord name="A7"/> most már látom, ó <chord name="D"/>Jé<chord name="E"/>zus,<chord name="E7"/><br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét a <chord name="E"/>lelkemnek,<br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét az <chord name="E"/>életem<chord name="A"/>be.<chord name="E"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Sok mindent megta<chord name="C#m"/>nultam, á-<chord name="F#m"/>á,<br/>mikor <chord name="E"/>kellett mégsem <chord name="A"/>tudtam, <chord name="E"/>á-<chord name="A"/>á.<br/><chord name="A"/>De sok mindent megte<chord name="C#m"/>hettem, á-<chord name="F#m"/>á,<br/>mikor <chord name="E"/>kellett, mégsem <chord name="A"/>tettem, <chord name="E"/>á-<chord name="A"/>á.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most már <chord name="A"/>látom,<chord name="A7"/> most már látom, ó <chord name="D"/>Jé<chord name="E"/>zus,<chord name="E7"/><br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét a <chord name="E"/>lelkemnek,<br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét az <chord name="E"/>életem<chord name="A"/>be.<chord name="E"/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="A"/>Szenvedésben vígasz <chord name="C#m"/>voltál, á-<chord name="F#m"/>á.<br/>Minden <chord name="E"/>bajban mellém <chord name="A"/>álltál, <chord name="E"/>á-<chord name="A"/>á.<br/><chord name="A"/>Magányomban társam <chord name="C#m"/>lettél, á-<chord name="F#m"/>á.<br/>Olyan <chord name="E"/>jó, hogy közénk <chord name="A"/>jöttél, <chord name="E"/>á-<chord name="A"/>á.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Most már <chord name="A"/>látom,<chord name="A7"/> most már látom, ó <chord name="D"/>Jé<chord name="E"/>zus,<chord name="E7"/><br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét a <chord name="E"/>lelkemnek,<br/>hogy <chord name="F#m"/>egyedül csak <chord name="E"/>Te hozol <chord name="F#m"/>békét az <chord name="E"/>életem<chord name="A"/>be.<chord name="E"/></lines>
+    </verse>
+  </lyrics>
+</song>

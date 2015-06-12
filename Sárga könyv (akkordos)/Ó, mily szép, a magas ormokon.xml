@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Ó, mily szép, a magas ormokon</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="F"/> <chord name="E"/> <chord name="Am"/> :||<br/>Ó, mily <chord name="Am"/>szép, a <chord name="D"/>magas ormokon<br/>a <chord name="F"/>hírhozó lépte, ki <chord name="C"/>békességet <chord name="E"/>hirdet.<br/>Ki <chord name="Am"/>örömhírt mond, ki <chord name="D"/>vigasztalást nyújt,<br/>és <chord name="F"/>kiáltja, hogy <chord name="G"/>közel van az <chord name="Am"/>Úr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Am"/>Ujjongj! Isten <chord name="G"/>megváltott!<br/><chord name="Em"/>Levette rólad <chord name="F"/>bűneid jármát,<br/><chord name="Am"/>szabadulást szerzett, <chord name="G"/>üdvöt hozott,<br/><chord name="Em"/>Szentlelkét árasztotta <chord name="Am"/>rád. :||</lines>
+    </verse>
+  </lyrics>
+</song>

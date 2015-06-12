@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Vágyom hinni, bízni, élni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Vágyom <chord name="Em"/>hinni, <chord name="Am"/>bízni, <chord name="D"/>élni Tebenned!<br/><chord name="G"/>Vágyom a <chord name="Em"/>forrásodból <chord name="Am"/>inni és <chord name="D"/>élni Tene<chord name="G"/>ked<chord name="Em"/>!<br/><chord name="Am"/>Küldd el hát <chord name="D"/>Lelkedet!<br/><chord name="G"/>Küldd <chord name="Em"/>el Szent<chord name="Am"/>lelke<chord name="D"/>det! <chord name="G"/>Á-<chord name="Em"/>á-<chord name="C"/>á-<chord name="G"/>ámen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Miért nem <chord name="G"/>ég <chord name="Em"/>bennem a <chord name="Em"/>tűz,<br/>mely <chord name="G"/>Téged a <chord name="Am"/>halálba vitt <chord name="D"/>fel?<br/><chord name="G"/>Miért nem <chord name="G"/>lobog, <chord name="Em"/>lángol a <chord name="Em"/>tűz,<br/>hisz <chord name="G"/>Jézus, Te <chord name="Am"/>énértem jöt<chord name="D"/>tél el!<br/>Csak <chord name="G"/>vitt, egyre <chord name="Em"/>vitt <chord name="Am"/>Téged Szere<chord name="D"/>tet<br/>a <chord name="G"/>Golgotára, <chord name="Am"/>válladon a ke<chord name="D"/>reszt,<br/>hogy <chord name="G"/>el<chord name="Em"/>vedd <chord name="Am"/>minden <chord name="D"/>bűnömet<chord name="G"/>!<chord name="Em"/><chord name="Am"/><chord name="D"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Miért nin<chord name="G"/>csen <chord name="Em"/>bennem oly <chord name="Em"/>hit,<br/>mely <chord name="G"/>egy szóval <chord name="Am"/>hegyeket mozdít <chord name="D"/>el?<br/><chord name="G"/>Miért nem <chord name="G"/>vagyok <chord name="Em"/>teljesen Ti<chord name="Em"/>éd,<br/>hisz <chord name="G"/>Jézus, Te <chord name="Am"/>énértem jöt<chord name="D"/>tél el!<br/>Ott <chord name="G"/>állt, fent <chord name="Em"/>állt <chord name="Am"/>a hegyen a ke<chord name="D"/>reszt.<br/><chord name="G"/>Megfeszí<chord name="Em"/>tettek <chord name="Am"/>Téged, Szere<chord name="D"/>tet,<br/>hogy <chord name="G"/>elve<chord name="Em"/>gyed <chord name="Am"/>minden <chord name="D"/>bűnömet<chord name="G"/>!<chord name="Em"/><chord name="Am"/><chord name="D"/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nézz le rám, jó Uram,<br/>előtted állok koldusan!<br/>Nem vagyok semmi sem,<br/>míg lángot nem csiholsz bennem.<br/>Csak nézel, nézel rám a keresztről,<br/>üdvözítő vér folyik sebeidből.<br/>Mindent felemésztő Lángod leheld rám!<br/>Küldd el Szentlelkedet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak nézted, nézted a hűtlen világot!<br/>Gyógyírt csak Te adsz nékünk, Megváltónk!<br/>Mindent felemésztő Lángod leheld ránk!<br/>Küldd el Szentlelkedet!<br/>Vágyom hinni, bízni, élni Tebenned!<br/>Vágyom a forrásodból inni és élni Teneked! Küldd el hát Lelkedet!<br/>Küldd el Szentlelkedet! Á-á-á-ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

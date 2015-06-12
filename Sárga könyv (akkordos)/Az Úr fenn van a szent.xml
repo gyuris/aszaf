@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Az Úr fenn van a szent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az <chord name="Em"/>Úr <chord name="D"/>fenn van a <chord name="C"/>sze<chord name="H7"/>nt helyén, <chord name="Em"/>dicsér<chord name="G"/>jük az U<chord name="Em"/>rat!<br/><chord name="Em"/>Az Úr <chord name="D"/>itt van az <chord name="C"/>Ő <chord name="H7"/>népe közt, <chord name="Em"/>dicsér<chord name="G"/>jük az U<chord name="Em"/>rat!<br/><chord name="Am"/>Dicsérjük, <chord name="Em"/>dicsérjük, <chord name="D"/>dicsér<chord name="Hm"/>jük az U<chord name="Em"/>rat!<br/><chord name="Am"/>Dicsérjük, <chord name="Em"/>dicsérjük, <chord name="D"/>di<chord name="Hm"/>csérjük <chord name="Em"/>Jézust!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az <chord name="Em"/>Úr <chord name="D"/>fenn van a <chord name="C"/>sze<chord name="H7"/>nt helyén, <chord name="Em"/>imád<chord name="G"/>juk az U<chord name="Em"/>rat!<br/><chord name="Em"/>Az Úr <chord name="D"/>itt van az <chord name="C"/>Ő <chord name="H7"/>népe közt, <chord name="Em"/>imád<chord name="G"/>juk az U<chord name="Em"/>rat!<br/><chord name="Am"/>Imádjuk, <chord name="Em"/>imádjuk, <chord name="D"/>imád<chord name="Hm"/>juk az U<chord name="Em"/>rat!<br/><chord name="Am"/>Imádjuk, <chord name="Em"/>imádjuk, <chord name="D"/>i<chord name="Hm"/>mádjuk <chord name="Em"/>Jézust!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az <chord name="Em"/>Úr fenn van a <chord name="C"/>sze<chord name="H7"/>nt helyén, <chord name="Em"/>szolgál<chord name="G"/>junk az Úr<chord name="Em"/>nak!<br/><chord name="Em"/>Az Úr <chord name="D"/>itt van az <chord name="C"/>Ő <chord name="H7"/>népe közt, <chord name="Em"/>szolgál<chord name="G"/>junk az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Szolgáljunk, <chord name="Em"/>szolgáljunk, <chord name="D"/>szolgál<chord name="Hm"/>junk az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Szolgáljuk, <chord name="Em"/>szolgáljuk, <chord name="D"/>szol<chord name="Hm"/>gáljuk <chord name="Em"/>Jézust!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az <chord name="Em"/>Úr <chord name="D"/>fenn van a <chord name="C"/>sze<chord name="H7"/>nt helyén, <chord name="Em"/>örvend<chord name="G"/>jünk az Úr<chord name="Em"/>nak!<br/><chord name="Em"/>Az Úr <chord name="D"/>itt van az <chord name="C"/>Ő <chord name="H7"/>népe közt, <chord name="Em"/>örvend<chord name="G"/>jünk az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Örvendjünk, <chord name="Em"/>örvendjünk, <chord name="D"/>örvend<chord name="Hm"/>jünk az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Örvendjünk, <chord name="Em"/>örvendjünk, <chord name="D"/>ör<chord name="Hm"/>vendjünk <chord name="Em"/>Jézusnak!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az <chord name="Em"/>Úr <chord name="D"/>fenn van a <chord name="C"/>sze<chord name="H7"/>nt helyén, <chord name="Em"/>zengjünk <chord name="G"/>dalt az Úr<chord name="Em"/>nak!<br/><chord name="Em"/>Az Úr <chord name="D"/>itt van az <chord name="C"/>Ő <chord name="H7"/>népe közt, <chord name="Em"/>zengjünk <chord name="G"/>dalt az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Zengjünk dalt, <chord name="Em"/>zengjünk dalt, <chord name="D"/>zengjünk <chord name="Hm"/>dalt az Úr<chord name="Em"/>nak!<br/><chord name="Am"/>Zengjünk dalt, <chord name="Em"/>zengjünk dalt, <chord name="D"/>zeng<chord name="Hm"/>jünk dalt <chord name="Em"/>Jézusnak!</lines>
+    </verse>
+  </lyrics>
+</song>

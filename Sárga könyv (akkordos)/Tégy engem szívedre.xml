@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Tégy engem szívedre</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Tégy engem <chord name="C"/>szívedre <chord name="D"/>pecsét<chord name="G"/>nek, <chord name="G"/>tégy engem <chord name="C"/>pecsétnek <chord name="D"/>karodra!<br/><chord name="C"/>Szerelmed <chord name="G"/>erős, mint a végzet, <chord name="C"/>könyörtelen a <chord name="D"/>féltés pok<chord name="G"/>la!<br/><chord name="Am"/>Tűznek bokra, <chord name="Hm"/>sziporkák csokra,<br/><chord name="C"/>merítsd bár <chord name="D"/>sistergő <chord name="G"/>habokba,<br/>a <chord name="C"/>tenger alatt is <chord name="D"/>lobog<chord name="G"/>na!</lines>
+    </verse>
+  </lyrics>
+</song>

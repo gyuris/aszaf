@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Áldásoddal megyünk, megyünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Áldásoddal <chord name="G"/>megyünk, <chord name="Em"/>megyünk innen <chord name="A"/>el.<br/><chord name="D"/>Néked éneke<chord name="G"/>lünk <chord name="Em"/>boldog éne<chord name="A"/>ket.<br/><chord name="F#m"/>Te vagy mindig <chord name="G"/>velünk, <chord name="F#m"/>ha útra <chord name="G"/>kelünk.<br/><chord name="F#m"/>Őrizd éle<chord name="G"/>tünk minden <chord name="A"/>nap<chord name="A7"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Mindennap di<chord name="G"/>csérünk <chord name="Em"/>Téged, jó U<chord name="A"/>ram.<br/><chord name="D"/>Néked éneke<chord name="G"/>lünk <chord name="Em"/>vígan, boldo<chord name="A"/>gan.<br/><chord name="F#m"/>Maradj mindig <chord name="G"/>velünk, <chord name="F#m"/>ha útra <chord name="G"/>kelünk!<br/><chord name="F#m"/>Őrizd éle<chord name="G"/>tünk minden <chord name="A"/>nap<chord name="A7"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>La, la, la, la-la, <chord name="G"/>la, <chord name="Em"/>la, la, la, la, <chord name="A"/>la! :||<br/><chord name="F#m"/>Maradj mindig <chord name="G"/>velünk, <chord name="F#m"/>ha útra <chord name="G"/>kelünk!<br/><chord name="F#m"/>Őrizd éle<chord name="G"/>tünk minden <chord name="A"/>nap, minden <chord name="G"/>nap!</lines>
+    </verse>
+  </lyrics>
+</song>

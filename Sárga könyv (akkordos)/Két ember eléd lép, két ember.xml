@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Két ember eléd lép, két ember</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Két ember <chord name="A"/>eléd lép, <chord name="G"/>két ember <chord name="A"/>Téged kér, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="D"/>Két ember <chord name="A"/>eléd áll, <chord name="G"/>két ember <chord name="A"/>Téged vár, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="A"/>Végtelen <chord name="D"/>Istenünk, <chord name="H"/>áldd meg az <chord name="E"/>életünk!<br/><chord name="C#"/>Végtelen <chord name="F#"/>Istenünk, <chord name="H"/>áldd meg az <chord name="E"/>életünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Két ember <chord name="A"/>útra kész, <chord name="G"/>két ember <chord name="A"/>Terád néz, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="D"/>Két ember <chord name="A"/>benned él, <chord name="G"/>két ember <chord name="A"/>így remél, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="A"/>Végtelen <chord name="D"/>Istenünk, <chord name="H"/>kösd össze <chord name="E"/>életünk!<br/><chord name="C#"/>Végtelen <chord name="F#"/>Istenünk, <chord name="H"/>áldd meg a <chord name="E"/>szerelmünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Két ember egy <chord name="A"/>útra tér, <chord name="G"/>egy testet-<chord name="A"/>lelket kér, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="D"/>Két ember <chord name="A"/>benned él, <chord name="G"/>két ember <chord name="A"/>így remél, <chord name="D"/>áldd <chord name="A"/>meg, <chord name="G"/>áldd <chord name="D"/>meg!<br/><chord name="A"/>Végtelen <chord name="D"/>Istenünk, <chord name="H"/>áldd meg a <chord name="E"/>szerelmünk!<br/><chord name="C#"/>Végtelen <chord name="F#"/>Istenünk, <chord name="H"/>kösd össze <chord name="E"/>életünk!</lines>
+    </verse>
+  </lyrics>
+</song>

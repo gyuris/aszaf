@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Ruah, Ruah, Ruah</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Gm"/> <chord name="Cm"/> <chord name="D"/> <chord name="D7"/> <chord name="Gm"/> :||<br/>||: <chord name="Gm"/>Ruah, <chord name="Cm7"/>Ruah, <chord name="D"/>Ru<chord name="D7"/>-<chord name="Gm"/>ah! :||<br/>||: <chord name="Gm"/>Nem erőszakkal, hata<chord name="Cm7"/>lommal<chord name="Cm"/>,<br/><chord name="D"/>de Jézus <chord name="D7"/>Lelkével <chord name="Gm"/>élünk. :||</lines>
+    </verse>
+  </lyrics>
+</song>

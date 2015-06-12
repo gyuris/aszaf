@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Minden, mi él csak Téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Minden, mi él csak Téged hirdet,<br/><chord name="Hm"/>Minden dicsér, mert mind a műved.<br/><chord name="G"/>Azzal, hogy él ezt zengi Néked:<br/>„<chord name="A"/>Dicsérlek én, dicsérlek <chord name="A7"/>Téged!”<br/><chord name="D"/>Dicsér az ég, nap, hold és csillagok,<br/><chord name="Hm"/>fény és sötét, nap, éj és hajnalok.<br/><chord name="G"/>Dicsér a szél, felhő és hóvihar,<br/><chord name="A"/>a víz, s a tűz megannyi <chord name="A7"/>tiszta dallal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Minden, mi él csak Téged hirdet,<br/><chord name="Hm"/>Minden dicsér, mert mind a műved.<br/><chord name="G"/>Azzal, hogy él ezt zengi Néked:<br/>„<chord name="A"/>Dicsérlek én, dicsérlek <chord name="A7"/>Téged!”<br/><chord name="D"/>Dicsér a föld, dicséri szent Neved,<br/><chord name="Hm"/>mint jó anyánk táplál, s ad eledelt.<br/><chord name="G"/>Virág, gyümölcs, zöld fű, fa, hegyvidék,<br/><chord name="A"/>tó és folyó, síkság és <chord name="A7"/>büszke bérc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Minden, mi él csak Téged hirdet,<br/><chord name="Hm"/>Minden dicsér, mert mind a műved.<br/><chord name="G"/>Azzal, hogy él ezt zengi Néked:<br/>„<chord name="A"/>Dicsérlek én, dicsérlek <chord name="A7"/>Téged!”<br/><chord name="D"/>A nagyvilág létével énekel,<br/><chord name="Hm"/>szavunkra vár, hogy hangja dal legyen.<br/><chord name="G"/>Zúgjuk tehát ég és föld énekét,<br/><chord name="A"/>Zengjük velük: Nagy Isten, <chord name="A7"/>áldott légy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Minden, mi él csak Téged hirdet,<br/><chord name="Hm"/>Minden dicsér, mert mind a műved.<br/><chord name="G"/>Azzal, hogy él ezt zengi Néked:<br/>„<chord name="A"/>Dicsérlek én, dicsérlek <chord name="A7"/>Téged! <chord name="D"/>Dicsérlek én!”</lines>
+    </verse>
+  </lyrics>
+</song>

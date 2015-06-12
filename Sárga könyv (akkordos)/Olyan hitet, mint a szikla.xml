@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Olyan hitet, mint a szikla</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olyan <chord name="E"/>hitet, mint a szikla, olyan <chord name="A"/>hitet, mint a szikla,<br/>olyan <chord name="E"/>hitet kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>hitet, mint a szikla, olyan <chord name="A"/>hitet, mint a szikla,<br/>olyan <chord name="E"/>hitet kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olyan <chord name="E"/>reményt, mint a tavasz, olyan <chord name="A"/>reményt, mint a tavasz,<br/>olyan <chord name="E"/>reményt kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>reményt, mint a tavasz, olyan <chord name="A"/>reményt, mint a tavasz,<br/>olyan <chord name="E"/>reményt kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Olyan <chord name="E"/>szeretetet, mint a tenger, olyan <chord name="A"/>szeretetet, mint a tenger,<br/>olyan <chord name="E"/>szeretetet kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>szeretetet, mint a tenger, olyan <chord name="A"/>szeretetet, mint a tenger,<br/>olyan <chord name="E"/>szeretetet kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Olyan <chord name="E"/>békét, mint a folyó, olyan <chord name="A"/>békét, mint a folyó,<br/>olyan <chord name="E"/>békét kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>békét, mint a folyó, olyan <chord name="A"/>békét, mint a folyó,<br/>olyan <chord name="E"/>békét kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Olyan <chord name="E"/>örömöt, mint a forrás, olyan <chord name="A"/>örömöt, mint a forrás,<br/>olyan <chord name="E"/>örömöt kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>örömöt, mint a forrás, olyan <chord name="A"/>örömöt, mint a forrás,<br/>olyan <chord name="E"/>örömöt kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Olyan <chord name="E"/>szomjat, mint a szarvas, olyan <chord name="A"/>szomjat, mint a szarvas,<br/>olyan <chord name="E"/>szomjat kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>szomjat, mint a szarvas, olyan <chord name="A"/>szomjat, mint a szarvas,<br/>olyan <chord name="E"/>szomjat kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Olyan <chord name="E"/>derűt, mint a napfény, olyan <chord name="A"/>derűt, mint a napfény,<br/>olyan <chord name="E"/>derűt kaptam <chord name="E"/>Tőled lelkem<chord name="H7"/>be.<br/>Olyan <chord name="E"/>derűt, mint a napfény, olyan <chord name="A"/>derűt, mint a napfény,<br/>olyan <chord name="E"/>derűt kaptam <chord name="H7"/>Tőled lelkem<chord name="E"/>be.</lines>
+    </verse>
+  </lyrics>
+</song>

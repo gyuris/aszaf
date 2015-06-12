@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Sziklavár, sziklavár</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/>Szikla<chord name="G"/>vár, <chord name="A7"/>szikla<chord name="D"/>vár, <chord name="D"/>szikla<chord name="G"/>vár a <chord name="A"/>mi U<chord name="D"/>runk<chord name="G"/>.<chord name="D"/><br/><chord name="D"/>Erős <chord name="G"/>Ő, <chord name="A7"/>megtart <chord name="D"/>Ő, <chord name="D"/>bízd rá <chord name="G"/>hát<chord name="A"/> te is ma<chord name="D"/>gad<chord name="G"/>!<chord name="D"/> :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Betölti szívem <chord name="G"/>az öröm,<br/><chord name="A"/>Jézusom ezt meg<chord name="D"/>köszönöm,<br/>ó <chord name="D"/>hála, ó <chord name="G"/>hála,<br/><chord name="A"/>Jézus a szívem ki<chord name="D"/>rálya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>Szikla<chord name="G"/>vár, <chord name="A7"/>szikla<chord name="D"/>vár, <chord name="D"/>szikla<chord name="G"/>vár a <chord name="A"/>mi U<chord name="D"/>runk<chord name="G"/>.<chord name="D"/><br/><chord name="D"/>Erős <chord name="G"/>Ő, <chord name="A7"/>megtart <chord name="D"/>Ő, <chord name="D"/>bízd rá <chord name="G"/>hát<chord name="A"/> te is ma<chord name="D"/>gad<chord name="G"/>!<chord name="D"/> :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Betölti szívem <chord name="G"/>a szeretet,<br/><chord name="A"/>Jézusom Tőled <chord name="D"/>kaptam ezt.<br/>Ó <chord name="D"/>hála, ó <chord name="G"/>hála,<br/><chord name="A"/>Jézus a szívem ki<chord name="D"/>rálya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>||: <chord name="D"/>Szikla<chord name="G"/>vár, <chord name="A7"/>szikla<chord name="D"/>vár, <chord name="D"/>szikla<chord name="G"/>vár a <chord name="A"/>mi U<chord name="D"/>runk<chord name="G"/>.<chord name="D"/><br/><chord name="D"/>Erős <chord name="G"/>Ő, <chord name="A7"/>megtart <chord name="D"/>Ő, <chord name="D"/>bízd rá <chord name="G"/>hát<chord name="A"/> te is ma<chord name="D"/>gad<chord name="G"/>!<chord name="D"/> :||</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="D"/>Betölti szívem <chord name="G"/>a remény,<br/><chord name="A"/>ez a legnagyobb <chord name="D"/>nyeremény.<br/>Ó <chord name="D"/>hála, ó <chord name="G"/>hála,<br/><chord name="A"/>Jézus a szívem ki<chord name="D"/>rálya!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>||: <chord name="D"/>Szikla<chord name="G"/>vár, <chord name="A7"/>szikla<chord name="D"/>vár, <chord name="D"/>szikla<chord name="G"/>vár a <chord name="A"/>mi U<chord name="D"/>runk<chord name="G"/>.<chord name="D"/><br/><chord name="D"/>Erős <chord name="G"/>Ő, <chord name="A7"/>megtart <chord name="D"/>Ő, <chord name="D"/>bízd rá <chord name="G"/>hát<chord name="A"/> te is ma<chord name="D"/>gad<chord name="G"/>!<chord name="D"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

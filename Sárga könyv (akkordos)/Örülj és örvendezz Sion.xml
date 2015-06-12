@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Örülj és örvendezz Sion</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/>Örülj és <chord name="A"/>örvendezz <chord name="G"/>Sion leánya<chord name="A"/>! <chord name="D"/>Örülj és <chord name="A"/>örvendj az <chord name="G"/>Úrnak<chord name="A"/>! :||<br/><chord name="D"/>A fényen <chord name="C"/>át, a <chord name="G"/>Nap tü<chord name="D"/>zén, <chord name="D"/>követem <chord name="C"/>Őt az <chord name="G"/>ú<chord name="D"/>ton.<br/><chord name="A"/>Fiává <chord name="D"/>tett<chord name="A"/> a Boldog<chord name="D"/>ság, <chord name="G"/>gyermeke <chord name="A"/>lettem az <chord name="D"/>Úrnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="D"/>Örülj és <chord name="A"/>örvendezz <chord name="G"/>Sion leánya<chord name="A"/>! <chord name="D"/>Örülj és <chord name="A"/>örvendj az <chord name="G"/>Úrnak<chord name="A"/>! :||<br/><chord name="D"/>Csodák kö<chord name="C"/>zött <chord name="G"/>élem az éle<chord name="D"/>tem, <chord name="D"/>Jézusom <chord name="C"/>kísér az <chord name="G"/>ú<chord name="D"/>ton.<br/><chord name="A"/>Egymás <chord name="D"/>kezét<chord name="A"/> fogva lépke<chord name="D"/>dünk, <chord name="G"/>a Pásztor <chord name="A"/>vezeti az Ő <chord name="D"/>népét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>Örülj és <chord name="A"/>örvendezz <chord name="G"/>Sion leánya<chord name="A"/>! <chord name="D"/>Örülj és <chord name="A"/>örvendj az <chord name="G"/>Úrnak<chord name="A"/>! :||<br/><chord name="D"/>Egy titkos <chord name="C"/>éjjelen <chord name="G"/>eljön az <chord name="D"/>Úr, <chord name="D"/>szeretet, s <chord name="C"/>fény ragyog a <chord name="G"/>föl<chord name="D"/>dön.<br/><chord name="A"/>Elviszi <chord name="D"/>népét<chord name="A"/> a szeretet Iste<chord name="D"/>ne <chord name="G"/>angyalok <chord name="A"/>között <chord name="D"/>dalolva.</lines>
+    </verse>
+  </lyrics>
+</song>

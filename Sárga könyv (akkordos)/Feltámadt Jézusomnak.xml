@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Feltámadt Jézusomnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fel<chord name="G"/>támadt Jézu<chord name="C"/>somnak szolgá<chord name="G"/>lok, <chord name="C"/>Ő a <chord name="G"/>cél.<br/>Ő <chord name="G"/>itt van a vi<chord name="Em"/>lágban, tu<chord name="Am"/>dom, tudom, hogy <chord name="D7"/>él.<br/>Látom kegyelme karját, hallom szelíd szavát.<br/>Si<chord name="A"/>etve jön, ha <chord name="A7"/>hívom, Ő a <chord name="Am"/>leghűbb ba<chord name="D7"/>rát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő <chord name="G"/>él, Ő <chord name="H"/>él, Úr <chord name="C"/>Jézus ma is <chord name="G"/>él.<br/>Be<chord name="D7"/>szél velem, és <chord name="G"/>jár velem a <chord name="A"/>keskeny ösvé<chord name="D7"/>nyen.<br/>Ő <chord name="G"/>él, Ő <chord name="H"/>él, üd<chord name="C"/>vöt hozott ne<chord name="H"/>kem.<br/>Kér<chord name="Em"/>ded: „Honnan tu<chord name="A"/>dod, hogy él ?”<br/>Mert <chord name="D7"/>él a szívem<chord name="G"/>ben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A<chord name="G"/>merre nézek <chord name="C"/>látom e gon<chord name="G"/>dos <chord name="C"/>hű ke<chord name="G"/>zet.<br/>Bár <chord name="G"/>szívem néha <chord name="Em"/>gyengül, de <chord name="Am"/>mégsem csügged <chord name="D7"/>el.<br/>Viharban, fergetegben Ő a legdrágább erő.<br/>Min<chord name="A"/>den veszélyen <chord name="A7"/>átvisz, a<chord name="Am"/>míg vissza<chord name="D7"/>jő.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő <chord name="G"/>él, Ő <chord name="H"/>él, Úr <chord name="C"/>Jézus ma is <chord name="G"/>él.<br/>Be<chord name="D7"/>szél velem, és <chord name="G"/>jár velem a <chord name="A"/>keskeny ösvé<chord name="D7"/>nyen.<br/>Ő <chord name="G"/>él, Ő <chord name="H"/>él, üd<chord name="C"/>vöt hozott ne<chord name="H"/>kem.<br/>Kér<chord name="Em"/>ded: „Honnan tu<chord name="A"/>dod, hogy él ?”<br/>Mert <chord name="D7"/>él a szívem<chord name="G"/>ben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uj<chord name="G"/>jongj azért te <chord name="C"/>szent nép, harsog<chord name="G"/>jon <chord name="C"/>éne<chord name="G"/>ked!<br/>Jé<chord name="G"/>zusnak, a ki<chord name="Em"/>rálynak alle<chord name="Am"/>luját zengje<chord name="D7"/>tek!<br/>Ő mindenek reménye, így senki nem szeret.<br/>Nincs <chord name="A"/>nála senki <chord name="A7"/>jobb, szebb, <chord name="Am"/>nincs kedve<chord name="D7"/>sebb.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ő <chord name="G"/>él, Ő <chord name="H"/>él, Úr <chord name="C"/>Jézus ma is <chord name="G"/>él.<br/>Be<chord name="D7"/>szél velem, és <chord name="G"/>jár velem a <chord name="A"/>keskeny ösvé<chord name="D7"/>nyen.<br/>Ő <chord name="G"/>él, Ő <chord name="H"/>él, üd<chord name="C"/>vöt hozott ne<chord name="H"/>kem.<br/>Kér<chord name="Em"/>ded: „Honnan tu<chord name="A"/>dod, hogy él ?”<br/>Mert <chord name="D7"/>él a szívem<chord name="G"/>ben.</lines>
+    </verse>
+  </lyrics>
+</song>

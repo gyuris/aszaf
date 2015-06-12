@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Tárd ki a szíved az Úr előtt</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Dm"/>Tárd ki a szíved az Úr előtt, <chord name="C"/>készítsd ösvé<chord name="Dm"/>nyét! :||<br/><chord name="G"/>Ne kövesd a hitetlen <chord name="Dm"/>lépteit!<br/><chord name="G"/>Keresd az igazak <chord name="A"/>tette<chord name="A4"/>it<chord name="A"/>!<br/>Míg <chord name="Dm"/>jártok az Úrnak útjain,<br/><chord name="C"/>hirdessétek <chord name="Dm"/>Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Dm"/>Tárd ki a szíved az Úr előtt, <chord name="C"/>készítsd ösvé<chord name="Dm"/>nyét! :||<br/><chord name="G"/>Gyógyítsd a betegek <chord name="Dm"/>sebeit!<br/><chord name="G"/>Űzd ki a gonosz <chord name="A"/>lelke<chord name="A4"/>ket<chord name="A"/>!<br/><chord name="Dm"/>Támaszd fel a halottat,<br/><chord name="C"/>hisz erőt kaptál <chord name="Dm"/>rá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="Dm"/>Tárd ki a szíved az Úr előtt, <chord name="C"/>készítsd ösvé<chord name="Dm"/>nyét! :||<br/><chord name="G"/>Ne vígy az útra <chord name="Dm"/>ezüstöt,<br/><chord name="G"/>ruhát, se <chord name="A"/>útrava<chord name="A4"/>lót<chord name="A"/>!<br/>Ne <chord name="Dm"/>félj, az Isten veled van,<br/><chord name="C"/>őrzi éle<chord name="Dm"/>ted!</lines>
+    </verse>
+  </lyrics>
+</song>

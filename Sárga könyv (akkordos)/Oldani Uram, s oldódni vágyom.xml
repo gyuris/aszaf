@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Oldani Uram, s oldódni vágyom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> <chord name="D#o"/> <chord name="Em"/> <chord name="A6"/> <chord name="A7"/><br/><chord name="D"/>Oldani Uram,<chord name="D#o"/> s oldódni <chord name="A7"/>vágyom.<br/><chord name="A7"/>Üdvözíteni, és <chord name="A7"/>üdvözülni <chord name="D"/>vágyom!<br/><chord name="G"/>Alkotni <chord name="D"/>Uram,<chord name="A7"/> s alakulni <chord name="D"/>vágyom,<br/><chord name="Em"/>alkotni <chord name="A6"/>Uram, s <chord name="A7"/>alakulni <chord name="D"/>vágyom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/> <chord name="D#o"/> <chord name="Em"/> <chord name="A6"/> <chord name="A7"/><br/><chord name="D"/>Ékesíteni,<chord name="D#o"/> és ékesedni <chord name="A7"/>vágyom!<br/><chord name="A7"/>Dalolni Uram, és <chord name="A7"/>dallá lenni <chord name="D"/>vágyom!<br/><chord name="G"/>Követeddé <chord name="D"/>lenni,<chord name="A7"/> Érted tenni <chord name="D"/>vágyom!<br/><chord name="Em"/>Követeddé <chord name="A6"/>lenni,<chord name="A7"/> Érted tenni <chord name="D"/>vágyom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/> <chord name="D#o"/> <chord name="Em"/> <chord name="A6"/> <chord name="A7"/><br/><chord name="D"/>Lámpád vagyok,<chord name="D#o"/> ha látsz <chord name="A7"/>engem.<br/><chord name="A7"/>Ajtód vagyok, ha <chord name="A7"/>zörgetsz <chord name="D"/>bennem.<br/><chord name="G"/>Ki látod, <chord name="D"/>mit teszek, <chord name="A7"/>hallgass el <chord name="D"/>engem!<br/><chord name="Em"/>Ki látod, <chord name="A6"/>mit teszek, <chord name="A7"/>hallgass el <chord name="D"/>engem!</lines>
+    </verse>
+  </lyrics>
+</song>

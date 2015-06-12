@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jól vigyázz, kicsi kéz, mit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi kéz, mit te<chord name="A"/>szel!<br/>Jól vi<chord name="A7"/>gyázz, kicsi kéz, mit te<chord name="D"/>szel!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi kéz, mit te<chord name="D"/>szel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi láb, hova <chord name="A"/>lépsz!<br/>Jól vi<chord name="A7"/>gyázz, kicsi láb, hova <chord name="D"/>lépsz!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi láb, hova <chord name="D"/>lépsz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi szem, mit le<chord name="A"/>sel!<br/>Jól vi<chord name="A7"/>gyázz, kicsi szem, mit le<chord name="D"/>sel!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi szem, mit le<chord name="D"/>sel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi fül, mit fü<chord name="A"/>lelsz!<br/>Jól vi<chord name="A7"/>gyázz, kicsi fül, mit fü<chord name="D"/>lelsz!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi fül, mit fü<chord name="D"/>lelsz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi száj, mit be<chord name="A"/>szélsz!<br/>Jól vi<chord name="A7"/>gyázz, kicsi száj, mit be<chord name="D"/>szélsz!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi száj, mit be<chord name="D"/>szélsz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi szív, mit hi<chord name="A"/>szel!<br/>Jól vi<chord name="A7"/>gyázz, kicsi szív, mit hi<chord name="D"/>szel!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz kicsi szív, mit hi<chord name="D"/>szel!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jól vi<chord name="D"/>gyázz, kicsi én, nagy ne <chord name="A"/>légy!<br/>Jól vi<chord name="A7"/>gyázz, kicsi én, nagy ne <chord name="D"/>légy!<br/>Mert a <chord name="G"/>te jó Atyád a menny<chord name="D"/>ből néz le rád,<br/>jól vi<chord name="A7"/>gyázz te nagy én, kicsi <chord name="D"/>légy!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Hálát adok az esti órán</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok az <chord name="Em7"/>esti <chord name="A6"/>órán,<br/><chord name="D"/>hálát <chord name="D7"/>adok, hogy <chord name="G"/>itt az <chord name="A7"/>éj.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>szívem <chord name="Gm"/>mélyén <chord name="D"/>hála <chord name="A7"/>dala <chord name="D"/>kél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok a <chord name="Em7"/>csillag<chord name="A6"/>fényért,<br/><chord name="D"/>hálát <chord name="D7"/>a sűrű <chord name="G"/>éjjel<chord name="A7"/>ért.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>nem vagy <chord name="Gm"/>messze, <chord name="D"/>most is <chord name="A7"/>küldesz <chord name="D"/>fényt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok, hogy <chord name="Em7"/>küldtél <chord name="A6"/>testvért<br/><chord name="D"/>társként, <chord name="D7"/>aki ma <chord name="G"/>mellém <chord name="A7"/>állt.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>megen<chord name="Gm"/>gedted <chord name="D"/>azt is, <chord name="A7"/>ami <chord name="D"/>fájt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok, hogy <chord name="Em7"/>Tested <chord name="A6"/>táplált,<br/><chord name="D"/>hálát, <chord name="D7"/>hogy ma is <chord name="G"/>szólt sza<chord name="A7"/>vad.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>lelkem <chord name="Gm"/>biztos <chord name="D"/>cél fe<chord name="A7"/>lé ha<chord name="D"/>lad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok, hogy <chord name="Em7"/>mellém <chord name="A6"/>álltál,<br/><chord name="D"/>hálát, <chord name="D7"/>hogy szép az <chord name="G"/>ottho<chord name="A7"/>nom.<br/><chord name="D"/>Hálát, <chord name="D7"/>hogy munkám <chord name="G"/>elvé<chord name="Gm"/>geztem, s <chord name="D"/>békén <chord name="A7"/>alha<chord name="D"/>tom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok, a <chord name="Em7"/>sok-sok <chord name="A6"/>jóért,<br/><chord name="D"/>hálát <chord name="D7"/>adok, hogy <chord name="G"/>megbo<chord name="A7"/>csátsz.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>el nem <chord name="Gm"/>hagytál, s <chord name="D"/>újabb <chord name="A7"/>útra <chord name="D"/>vársz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="D"/>Hálát <chord name="Hm"/>adok, hogy <chord name="Em7"/>szemed <chord name="A6"/>rajtam,<br/><chord name="D"/>hálát <chord name="D7"/>adok, hogy <chord name="G"/>reményt <chord name="A7"/>adsz.<br/><chord name="D"/>Hálát <chord name="D7"/>adok, hogy <chord name="G"/>biztos <chord name="Gm"/>eljössz, <chord name="D"/>mint a <chord name="A7"/>virra<chord name="D"/>dat!</lines>
+    </verse>
+  </lyrics>
+</song>

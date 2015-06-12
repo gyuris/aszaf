@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Hála Jézus, hála, hogy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Hála <chord name="Em7"/>Jézus, <chord name="E"/>hála, hogy eljöt<chord name="A"/>tél<chord name="A#"/>,<br/><chord name="D"/>és<chord name="D7"/> véredet<chord name="G"/> ontot<chord name="Em"/>tad a mi <chord name="A"/>bűnös <chord name="A7"/>életün<chord name="D"/>kért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/>Hála <chord name="Em7"/>Jézus, <chord name="E"/>hála, hogy oly nagyon sze<chord name="A"/>retsz<chord name="A#"/>,<br/><chord name="D"/>és<chord name="D7"/> hogy elküldted<chord name="G"/> szeretet<chord name="Em"/>ből nekünk <chord name="A"/>vigasztaló <chord name="A7"/>Lelke<chord name="D"/>det.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="D"/>Hála <chord name="Em7"/>Jézus, <chord name="E"/>hála, hogy Te vagy az út és <chord name="A"/>cél<chord name="A#"/>.<br/>||: <chord name="D"/>Hála<chord name="D7"/>, hogy megbo<chord name="G"/>csátsz minden<chord name="Em"/>kor, és hogy <chord name="A"/>szívünkben <chord name="A7"/>háladal <chord name="D"/>kél! :||</lines>
+    </verse>
+  </lyrics>
+</song>

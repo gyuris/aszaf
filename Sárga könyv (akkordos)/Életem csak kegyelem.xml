@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Életem csak kegyelem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/>Éle<chord name="A7"/>tem csak <chord name="D"/>kegyelem, <chord name="G"/>önér<chord name="A"/>demem <chord name="D"/>nincs. :||<br/>||: „Ve<chord name="D7"/>led va<chord name="G"/>gyok napon<chord name="A"/>ta, kezei<chord name="D"/>det <chord name="F#7"/>megfog<chord name="Hm"/>va,<br/>te csak bíz<chord name="Em"/>zál karom<chord name="A"/>ban!” – mondja az <chord name="D"/>Úr.<chord name="D7"/> :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="D"/>Régi <chord name="A7"/>énem <chord name="D"/>leküzdöm <chord name="G"/>nagy e<chord name="A"/>rejé<chord name="D"/>vel. :||<br/>||: „Ve<chord name="D7"/>led va<chord name="G"/>gyok napon<chord name="A"/>ta, kezei<chord name="D"/>det <chord name="F#7"/>megfog<chord name="Hm"/>va,<br/>te csak bíz<chord name="Em"/>zál karom<chord name="A"/>ban!” – mondja az <chord name="D"/>Úr.<chord name="D7"/> :||</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>Szere<chord name="A7"/>tete <chord name="D"/>igazgat, <chord name="G"/>ellát <chord name="A"/>tanác<chord name="D"/>csal. :||<br/>||: „Ve<chord name="D7"/>led va<chord name="G"/>gyok napon<chord name="A"/>ta, kezei<chord name="D"/>det <chord name="F#7"/>megfog<chord name="Hm"/>va,<br/>te csak bíz<chord name="Em"/>zál karom<chord name="A"/>ban!” – mondja az <chord name="D"/>Úr.<chord name="D7"/> :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines>||: <chord name="D"/>Hűen <chord name="A7"/>vezet <chord name="D"/>utamon, <chord name="G"/>nem hagy <chord name="A"/>magam<chord name="D"/>ra. :||<br/>||: „Ve<chord name="D7"/>led va<chord name="G"/>gyok napon<chord name="A"/>ta, kezei<chord name="D"/>det <chord name="F#7"/>megfog<chord name="Hm"/>va,<br/>te csak bíz<chord name="Em"/>zál karom<chord name="A"/>ban!” – mondja az <chord name="D"/>Úr.<chord name="D7"/> :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Legyen a béke teveled, legyen</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen a <chord name="Dm"/>béke teveled, legyen a <chord name="Gm"/>béke teveled,<br/>legyen a <chord name="A"/>béke te<chord name="Dm"/>veled, legyen a <chord name="A"/>béke, béke, béke teve<chord name="Dm"/>led!<br/>Hevenu shalom aleikhem, hevenu shalom aleikhem,<br/>hevenu shalom aleikhem, hevenu shalom, shalom, shalom aleikhem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hevenu <chord name="Dm"/>shalom aleikhem, hevenu <chord name="Gm"/>shalom aleikhem,<br/>hevenu <chord name="A"/>shalom a<chord name="Dm"/>leikhem, hevenu <chord name="A"/>shalom, shalom, shalom aleik<chord name="Dm"/>hem!</lines>
+    </verse>
+  </lyrics>
+</song>

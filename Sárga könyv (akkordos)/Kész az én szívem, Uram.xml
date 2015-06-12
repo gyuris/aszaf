@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Kész az én szívem, Uram</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Am"/>Kész az én szívem, U<chord name="Dm"/>ram, Néked zeng a <chord name="Am"/>dalom.<br/>Elő <chord name="Am"/>hát hárfa, lant, hadd kelt<chord name="G"/>sem fel a haj<chord name="E"/>nalt<chord name="E4"/><chord name="E"/>!<br/>Szent az <chord name="Am"/>Úr, jó az Úr, hirde<chord name="Dm"/>tem a népek <chord name="Am"/>között,<br/>mert az <chord name="Am"/>Ő kegyel<chord name="Dm"/>me felhőkig <chord name="Am"/>ér<chord name="E"/><chord name="E4"/><chord name="E"/>.<chord name="Am"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Igazság, hatalom i<chord name="Dm"/>géid minden egyes <chord name="Am"/>szava.<br/>Szí<chord name="Am"/>vemben rejtem el, soha <chord name="G"/>el ne felejt<chord name="E"/>sem<chord name="E4"/><chord name="E"/>!<br/>Szent az <chord name="Am"/>Úr, jó az Úr, hirde<chord name="Dm"/>tem a népek <chord name="Am"/>között,<br/>mert az <chord name="Am"/>Ő hűsé<chord name="Dm"/>ge az égig <chord name="Am"/>ér<chord name="E"/><chord name="E4"/><chord name="E"/>!<chord name="Am"/></lines>
+    </verse>
+  </lyrics>
+</song>

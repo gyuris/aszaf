@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Irgalmazz, Uram irgalmazz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Irgalmazz, <chord name="D"/>Uram irgal<chord name="A"/>mazz!<br/><chord name="A"/>Uram, irgalmazz ne<chord name="E"/>kem!<br/><chord name="A"/>Tenger a bűnöm, <chord name="D"/>jöjj, segíts,<br/><chord name="A"/>erős kezeddel <chord name="E"/>ments meg!<br/><chord name="A"/>Irgalmazz, <chord name="E"/>irgalmazz <chord name="A"/>nekem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/>Kegyelmezz, <chord name="D"/>Krisztus kegyel<chord name="A"/>mezz!<br/><chord name="A"/>Krisztus, kegyelmezz ne<chord name="E"/>kem!<br/><chord name="A"/>Ha bármit tettem <chord name="D"/>ellened<br/><chord name="A"/>bocsásd meg, <chord name="E"/>kérlek!<br/><chord name="A"/>Kegyelmezz, <chord name="E"/>kegyelmezz <chord name="A"/>nekem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Irgalmazz, <chord name="D"/>Uram irgal<chord name="A"/>mazz!<br/><chord name="A"/>Uram, irgalmazz ne<chord name="E"/>kem!<br/><chord name="A"/>Elestem, de <chord name="D"/>felállok<br/>és <chord name="A"/>indulok <chord name="E"/>Feléd!<br/><chord name="A"/>Irgalmazz, <chord name="E"/>irgalmazz <chord name="A"/>nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

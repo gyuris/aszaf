@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Álltok szótlanul</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Álltok <chord name="A7"/>szótla<chord name="D"/>nul,<br/>a <chord name="G"/>dárda <chord name="A7"/>földre <chord name="D"/>hull,<br/>itt <chord name="G"/>más e<chord name="A7"/>rő az <chord name="D"/>Úr<chord name="Hm"/>,<br/>itt <chord name="Em"/>más e<chord name="A7"/>rő az <chord name="D"/>Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az <chord name="D"/>éj az <chord name="A7"/>hosszú <chord name="D"/>volt,<br/>de <chord name="G"/>eltűnt <chord name="A7"/>már a <chord name="D"/>Hold,<br/>a <chord name="G"/>hajnal <chord name="A7"/>felsi<chord name="D"/>kolt<chord name="Hm"/>,<br/>a <chord name="Em"/>hajnal <chord name="A7"/>felsi<chord name="D"/>kolt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja<chord name="D7"/>!<br/><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="D"/>Elég volt <chord name="A7"/>már, e<chord name="D"/>lég,<br/><chord name="G"/>fénnyel <chord name="A7"/>hinti az <chord name="D"/>ég<br/>az <chord name="G"/>új nap <chord name="A7"/>regge<chord name="D"/>lét<chord name="Hm"/>,<br/>az <chord name="Em"/>új nap <chord name="A7"/>regge<chord name="D"/>lét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="D"/>Virágban <chord name="A7"/>áll a <chord name="D"/>rét,<br/><chord name="G"/>virágos <chord name="A7"/>úton <chord name="D"/>át<br/><chord name="G"/>valaki <chord name="A7"/>jön fe<chord name="D"/>léd<chord name="Hm"/>,<br/><chord name="Em"/>valaki <chord name="A7"/>jön fe<chord name="D"/>léd.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja<chord name="D7"/>!<br/><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="D"/>Virágban <chord name="A7"/>áll a <chord name="D"/>rét,<br/><chord name="G"/>virágos <chord name="A7"/>úton <chord name="D"/>át<br/><chord name="G"/>Jézus <chord name="A7"/>jön fe<chord name="D"/>léd<chord name="Hm"/>,<br/><chord name="Em"/>Jézus <chord name="A7"/>jön fe<chord name="D"/>léd.</lines>
+    </verse>
+    <verse name="v8">
+      <lines><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja<chord name="D7"/>!<br/><chord name="G"/>Föltá<chord name="A7"/>madt <chord name="D"/>alle<chord name="Hm"/>luja,<br/><chord name="Em"/>föltámadt <chord name="A7"/>allelu<chord name="D"/>ja!</lines>
+    </verse>
+  </lyrics>
+</song>

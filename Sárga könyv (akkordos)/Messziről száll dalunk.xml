@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Messziről száll dalunk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Am"/>Messziről <chord name="Dm"/>száll dalunk,<br/><chord name="Am"/>halld meg, ó <chord name="Dm"/>szent Urunk!<br/><chord name="Am"/>Csak feléd <chord name="G"/>indulunk <chord name="Am"/>vágyakoz<chord name="E"/>va.<br/><chord name="Am"/>Éle<chord name="F6"/>tünk <chord name="Am"/>töltse <chord name="F6"/>el <chord name="Am"/>Lelked <chord name="G"/>szent hatal<chord name="Am"/>ma<chord name="E"/>!<br/><chord name="Am"/>Így fogadj <chord name="F6"/>el, <chord name="Am"/>bűneink<chord name="F6"/>kel, <chord name="Am"/>Krisztusunk, <chord name="G"/>vígy magas<chord name="Am"/>ba<chord name="E7"/>! :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Áldott Istenünk a szívünket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="C"/> <chord name="Em"/> <chord name="Dm"/> <chord name="G"/> <chord name="C"/> <chord name="G"/> <chord name="C"/> <chord name="G"/> :||<br/><chord name="C"/>Ál<chord name="Em"/>dott <chord name="Em"/>Iste<chord name="G"/>nünk a szí<chord name="C"/>vünket <chord name="C7"/>fogadd e<chord name="F"/>l!<br/>Fela<chord name="C"/>jánl<chord name="Em"/>juk <chord name="Dm"/>munkánk <chord name="G"/>a kenyér<chord name="C"/>rel<chord name="Em"/>.<chord name="Dm"/><chord name="G"/><br/><chord name="C"/>Ké<chord name="Em"/>rünk, <chord name="Dm"/>fogadd <chord name="G"/>el ezt a <chord name="C"/>fehér <chord name="C7"/>kenye<chord name="F"/>ret,<br/>hisz ez<chord name="C"/>ál<chord name="Em"/>tal <chord name="Dm"/>leszünk <chord name="G"/>eggyé Ve<chord name="C"/>led<chord name="C7"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Dm"/>Verejtékes <chord name="G"/>munka <chord name="C"/>áldott gyümöl<chord name="A"/>cse,<br/>és <chord name="Dm"/>sok millió <chord name="F"/>ember éle<chord name="G"/>te<chord name="G4"/>.<chord name="G"/><br/>Te <chord name="C"/>egyszerű és <chord name="C7"/>köztünk élő <chord name="F"/>valóság,<br/><chord name="Am"/>így jössz <chord name="Em"/>közénk <chord name="F"/>Te is Jézu<chord name="G"/>sunk<chord name="G4"/>!<chord name="G"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Ál<chord name="Em"/>dott <chord name="Dm"/>Iste<chord name="G"/>nünk, a ke<chord name="C"/>helybe <chord name="C7"/>bort ön<chord name="F"/>tünk,<br/>fela<chord name="C"/>jánl<chord name="Em"/>juk <chord name="Dm"/>Néked <chord name="G"/>minden örö<chord name="C"/>münk<chord name="Em"/>.<chord name="Dm"/><chord name="G"/><br/><chord name="C"/>Ké<chord name="Em"/>rünk, <chord name="Dm"/>fogadd <chord name="G"/>el ezt a <chord name="C"/>kehely <chord name="C7"/>fehér <chord name="F"/>bort,<br/>hisz a <chord name="C"/>vé<chord name="Em"/>red <chord name="Dm"/>egykor <chord name="G"/>miértünk <chord name="C"/>folyt<chord name="C7"/>!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Dm"/>Átnyújtjuk most <chord name="G"/>Neked <chord name="C"/>szívünk, minde<chord name="A"/>nünk,<br/><chord name="Dm"/>fogadd el hát <chord name="F"/>egész éle<chord name="G"/>tünk<chord name="G4"/>!<chord name="G"/><br/>Te <chord name="C"/>nagyszerű és <chord name="C7"/>üdvözítő <chord name="F"/>valóság,<br/><chord name="Am"/>kérünk, <chord name="Em"/>jöjj el <chord name="F"/>közénk Jézu<chord name="G"/>sunk<chord name="G4"/>!<chord name="G"/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Lábamat az igaz útra teszem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/> <chord name="E4"/> <chord name="E"/> <chord name="E4"/><br/><chord name="E"/>Lábamat az <chord name="E4"/>igaz útra <chord name="E"/>teszem,<chord name="E4"/><br/><chord name="E"/>kenyérért <chord name="E4"/>nyújtom feléd <chord name="E"/>kezem.<chord name="E4"/><br/><chord name="E"/>Szerelmemet <chord name="E4"/>megvallom, <chord name="E"/>Istenem.<chord name="E4"/><br/><chord name="E"/>Örökkéva<chord name="H7"/>ló neved di<chord name="E"/>csérem<chord name="E4"/>.<chord name="E"/><br/>||: <chord name="G"/>Alleluját <chord name="D"/>zengjetek, s <chord name="H"/>megtelik a <chord name="Em"/>szíve<chord name="C"/>tek az <chord name="G"/>Úr<chord name="D"/> Lelké<chord name="G"/>vel<chord name="D"/>! :||<br/><chord name="C"/>Á-<chord name="A"/>á-<chord name="E"/>á</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Ó, Te vagy Uram, vágyam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/><chord name="D"/><chord name="A"/><chord name="D"/><chord name="A"/><chord name="F#m"/><chord name="C#m"/><chord name="D"/><chord name="Hm"/><chord name="D"/><chord name="E"/><chord name="E7"/><br/>||: Ó, <chord name="A"/>Te vagy U<chord name="D"/>ram<chord name="A"/>, vágyam <chord name="D"/>és örö<chord name="A"/>möm<chord name="F#m"/>, Te <chord name="C#m"/>vigyázol <chord name="D"/>rám<chord name="Hm"/>!<chord name="D"/><chord name="E"/><chord name="E7"/> :||<br/><chord name="A"/>Mikor az <chord name="D"/>Úr ránk ta<chord name="A"/>lált <chord name="D"/>úgy tűnt, mintha álmod<chord name="A"/>nánk.<br/>A <chord name="C"/>szánk megtelt nevetés<chord name="G"/>sel, és <chord name="D"/>nyelvünk <chord name="Hm"/>ujjongás<chord name="E"/>sal<chord name="G"/>!<chord name="E"/><chord name="E7"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: Ó, <chord name="A"/>Te vagy U<chord name="D"/>ram<chord name="A"/>, vágyam <chord name="D"/>és örö<chord name="A"/>möm<chord name="F#m"/>, Te <chord name="C#m"/>vigyázol <chord name="D"/>rám<chord name="Hm"/>!<chord name="D"/><chord name="E"/><chord name="E7"/> :||<br/><chord name="A"/>Hatalmasat <chord name="D"/>tett ve<chord name="A"/>lünk, <chord name="D"/>szívünkből örvende<chord name="A"/>zünk!<br/>Kik <chord name="C"/>könnyek között vet<chord name="G"/>nek, ví<chord name="D"/>gadva <chord name="Hm"/>kévét szed<chord name="E"/>nek<chord name="G"/>.<chord name="E"/><chord name="E7"/></lines>
+    </verse>
+  </lyrics>
+</song>

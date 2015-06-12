@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Csendes este szállt le ránk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Csendes este <chord name="F"/>szállt le ránk, U<chord name="G"/>ram, <chord name="G7"/>ez a nap <chord name="C"/>véget ért már.<br/><chord name="C"/>Elfáradtam <chord name="F"/>már nagyon, U<chord name="G"/>ram, <chord name="G7"/>sorsomat már <chord name="C"/>rád hagyom.<br/>||: <chord name="F"/>Adj szép álmot <chord name="C"/>Istenem, hisz <chord name="F"/>oly nehéz az <chord name="G"/>életem!<br/><chord name="C"/>Csendes este <chord name="F"/>szállt le ránk, U<chord name="G"/>ram,<br/>nyugodalmas <chord name="C"/>jó éjszakát, U<chord name="F"/>ram, jó <chord name="G7"/>éjsza<chord name="C"/>kát! :||</lines>
+    </verse>
+  </lyrics>
+</song>

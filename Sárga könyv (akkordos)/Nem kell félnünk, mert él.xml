@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Nem kell félnünk, mert él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Nem kell félnünk, mert <chord name="A"/>él a mi U<chord name="E"/>runk,<br/><chord name="H7"/>él a mi Urunk, <chord name="E"/>él a mi Urunk!<br/><chord name="E"/>Nem kell félnünk, mert <chord name="A"/>él a mi U<chord name="E"/>runk, az urak <chord name="H7"/>U<chord name="E"/>ra!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="E"/>Látni fogják majd, mert <chord name="A"/>él a mi U<chord name="E"/>runk,<br/><chord name="H7"/>él a mi Urunk, <chord name="E"/>él a mi Urunk!<br/><chord name="E"/>Látni fogják majd, mert <chord name="A"/>él a mi U<chord name="E"/>runk, az urak <chord name="H7"/>U<chord name="E"/>ra!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="E"/>A mennybe megyünk, mert <chord name="A"/>él a mi U<chord name="E"/>runk,<br/><chord name="H7"/>él a mi Urunk, <chord name="E"/>él a mi Urunk!<br/><chord name="E"/>A mennybe megyünk, mert <chord name="A"/>él a mi U<chord name="E"/>runk, az urak <chord name="H7"/>U<chord name="E"/>ra!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="E"/>Ez az örömhír, mert <chord name="A"/>él a mi U<chord name="E"/>runk,<br/><chord name="H7"/>él a mi Urunk, <chord name="E"/>él a mi Urunk!<br/><chord name="E"/>Ez az örömhír, mert <chord name="A"/>él a mi U<chord name="E"/>runk, az urak <chord name="H7"/>U<chord name="E"/>ra!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="E"/>Szívem túlcsordul <chord name="A"/>nagy örömé<chord name="E"/>ben,<br/><chord name="E"/>mint forrásból élő víz <chord name="F#"/>fakad belő<chord name="H"/>le,<br/><chord name="E"/>mikor látom Jézust és <chord name="A"/>amit tett ér<chord name="E"/>tem!<br/><chord name="E"/>Szívem túlcsordul <chord name="H7"/>nagy örömé<chord name="E"/>ben!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>||: <chord name="E"/>Hála, hála Jézus, <chord name="A"/>hála, hála <chord name="E"/>Jézus,<br/><chord name="E"/>hála, hála Jézus az igé<chord name="H7"/>ért! :||<br/>||: <chord name="E"/>Hála, hála Jézus, <chord name="A"/>hála, hála <chord name="E"/>Jézus,<br/><chord name="E"/>hála, hála Jézus az <chord name="H7"/>éle<chord name="E"/>tért! :||</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="E"/>Jézussal járok <chord name="A"/>minden <chord name="E"/>napon,<br/>Jézussal <chord name="E"/>élek minde<chord name="H7"/>nütt!<br/>Minden <chord name="E"/>reggel, minden <chord name="E7"/>este,<br/>minden <chord name="A"/>nappal, minden <chord name="Am"/>éjjel<br/>Jézus<chord name="E"/>sal va<chord name="H7"/>gyok e<chord name="E"/>gyütt.</lines>
+    </verse>
+    <verse name="v8">
+      <lines><chord name="E"/>Szívem túlcsordul <chord name="A"/>nagy örömé<chord name="E"/>ben,<br/><chord name="E"/>mint forrásból élő víz <chord name="F#"/>fakad belő<chord name="H"/>le,<br/><chord name="E"/>mikor látom Jézust és <chord name="A"/>amit tett ér<chord name="E"/>tem!<br/><chord name="E"/>Szívem túlcsordul <chord name="H7"/>nagy örömé<chord name="E"/>ben!</lines>
+    </verse>
+  </lyrics>
+</song>

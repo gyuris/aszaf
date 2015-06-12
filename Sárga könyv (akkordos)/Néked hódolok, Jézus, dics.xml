@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Néked hódolok, Jézus, dics</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="A"/>Néked hódo<chord name="Hm"/>lok, Jé<chord name="E"/>zus, dicső ki<chord name="A"/>rály<chord name="D"/>!<chord name="E"/> :||<br/>Ujjongj, da<chord name="Hm"/>lolj, szí<chord name="E"/>vem és imádjad <chord name="A"/>Őt<chord name="F#m"/>!<br/>Ujjongj, da<chord name="Hm"/>lolj szí<chord name="E"/>vem és imádjad <chord name="A"/>Őt<chord name="D"/>!<chord name="A"/></lines>
+    </verse>
+  </lyrics>
+</song>

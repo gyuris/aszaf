@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Koldusként jövök Hozzád</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus va<chord name="Dm"/>gyok. :||<br/>||: <chord name="Dm"/>Koldusok <chord name="C"/>királya, Jézus, <chord name="Dm"/>mentsd meg a <chord name="A"/>lelkem! :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :||<br/>||: <chord name="Dm"/>Rongyai<chord name="C"/>mat Néked a<chord name="Dm"/>dom, fogadd el <chord name="C"/>hát,<br/>hadd legyen <chord name="F"/>életem Ti<chord name="Am"/>éd!<br/>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :||</lines>
+    </verse>
+  </lyrics>
+</song>

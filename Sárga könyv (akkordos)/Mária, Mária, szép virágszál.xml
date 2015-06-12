@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Mária, Mária, szép virágszál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Mária, <chord name="Dm"/>Mária, <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Szeplőtlen <chord name="Dm"/>fogantatott <chord name="Em"/>ártatlan <chord name="F"/>lány, <chord name="C"/>Könyörögj <chord name="F"/>érettünk <chord name="G"/>Anyánk<chord name="G7"/>!<br/><chord name="C"/>Mária, <chord name="Dm"/>Mária <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Védelmezz <chord name="Dm"/>magyarok <chord name="Em"/>Nagyasszo<chord name="F"/>nya! <chord name="C"/>Imádkozz <chord name="G7"/>érettünk <chord name="C"/>Anyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd, <chord name="Am"/>önzésünk <chord name="Dm"/>mély, sötét <chord name="G"/>börtönbe <chord name="C"/>zár,<br/>A <chord name="Am"/>hűtlenség <chord name="Dm"/>kígyója <chord name="G"/>szívünkre <chord name="A"/>vár.<br/><chord name="Dm"/>Erőtlen <chord name="C"/>gyermeked <chord name="F6"/>Hozzád ki<chord name="F"/>ált,<br/><chord name="C"/>Ne <chord name="Dm"/>hagyj el, jöjj, segíts <chord name="G"/>már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Mária, <chord name="Dm"/>Mária, <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Szeplőtlen <chord name="Dm"/>fogantatott <chord name="Em"/>ártatlan <chord name="F"/>lány, <chord name="C"/>Könyörögj <chord name="F"/>érettünk <chord name="G"/>Anyánk<chord name="G7"/>!<br/><chord name="C"/>Mária, <chord name="Dm"/>Mária <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Védelmezz <chord name="Dm"/>magyarok <chord name="Em"/>Nagyasszo<chord name="F"/>nya! <chord name="C"/>Imádkozz <chord name="G7"/>érettünk <chord name="C"/>Anyánk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A <chord name="Am"/>szeretet <chord name="Dm"/>hűsége <chord name="G"/>szívedben <chord name="C"/>ég,<br/>Mint <chord name="Am"/>hajnali <chord name="Dm"/>verőfény, <chord name="G"/>oly tiszta, <chord name="A"/>szép.<br/><chord name="Dm"/>Lánglelked <chord name="C"/>tűzjelét <chord name="F6"/>ragyogtasd <chord name="F"/>ránk,<br/><chord name="C"/>Utunkon <chord name="Dm"/>előttünk <chord name="G"/>járj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="C"/>Mária, <chord name="Dm"/>Mária, <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Szeplőtlen <chord name="Dm"/>fogantatott <chord name="Em"/>ártatlan <chord name="F"/>lány, <chord name="C"/>Könyörögj <chord name="F"/>érettünk <chord name="G"/>Anyánk<chord name="G7"/>!<br/><chord name="C"/>Mária, <chord name="Dm"/>Mária <chord name="G7"/>szép virág<chord name="C"/>szál, <chord name="C"/>Mária, <chord name="F"/>szikrázó <chord name="G"/>Nap.<br/><chord name="C"/>Védelmezz <chord name="Dm"/>magyarok <chord name="Em"/>Nagyasszo<chord name="F"/>nya! <chord name="C"/>Imádkozz <chord name="G7"/>érettünk <chord name="C"/>Anyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

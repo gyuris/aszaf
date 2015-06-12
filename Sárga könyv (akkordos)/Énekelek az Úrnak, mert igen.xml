@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>Énekelek az Úrnak, mert igen</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/> <chord name="F"/> <chord name="Am"/> :||<br/><chord name="Am"/>Énekelek az Úrnak, mert <chord name="C"/>igen fönséges.<br/><chord name="D"/>Erőm és éne<chord name="F"/>kem az Úr, mert <chord name="Am"/>megszabadított <chord name="Em"/>engem.<br/><chord name="Am"/>Ő az én Istenem, Őt <chord name="C"/>magasztalom.<br/><chord name="D"/>Atyáim Iste<chord name="F"/>ne, Őt <chord name="Am"/>dicsőí<chord name="Em"/>tem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="D"/> <chord name="F"/> <chord name="Am"/> :||<br/>||: <chord name="F"/>Jósággal terelgeted <chord name="Am"/>megváltott néped,<br/><chord name="F"/>hűséggel vezeted őket <chord name="H7"/>szent legelőd<chord name="E"/>re<chord name="E7"/>.<br/><chord name="F"/>Így vonul át a néped, kit <chord name="Am"/>Te választottál.<br/><chord name="F"/>Felviszed a hegyre, mely <chord name="H7"/>szent öröksé<chord name="E"/>ge<chord name="E7"/>. :||</lines>
+    </verse>
+  </lyrics>
+</song>

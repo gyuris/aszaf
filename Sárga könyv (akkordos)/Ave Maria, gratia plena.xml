@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Ave Maria, gratia plena</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>A<chord name="D"/>ve Ma<chord name="C"/>ri<chord name="D"/>a, <chord name="G"/>gra<chord name="Am"/>tia <chord name="C"/>ple<chord name="D"/>na,<br/><chord name="G"/>Domi<chord name="Am"/>nus <chord name="D"/>te<chord name="G"/>cum, <chord name="C"/>Bene<chord name="D"/>dicta <chord name="G"/>tu...</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Jézus <chord name="D"/>nékünk <chord name="C"/>adtál <chord name="D"/>anyát.<br/>Ő <chord name="G"/>kér és <chord name="Hm"/>áld, ha <chord name="C"/>szívünk <chord name="D"/>fáj.<br/><chord name="G"/>Hála Jé<chord name="Am"/>zus, <chord name="D"/>hála <chord name="G"/>Néked,<br/>mert <chord name="C"/>van egy <chord name="D"/>drága i<chord name="G"/>mánk<chord name="D7"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>A<chord name="D"/>ve Ma<chord name="C"/>ri<chord name="D"/>a, <chord name="G"/>gra<chord name="Am"/>tia <chord name="C"/>ple<chord name="D"/>na,<br/><chord name="G"/>Domi<chord name="Am"/>nus <chord name="D"/>te<chord name="G"/>cum, <chord name="C"/>Bene<chord name="D"/>dicta <chord name="G"/>tu...</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="G"/>Térden <chord name="D"/>állva <chord name="C"/>hívunk Té<chord name="D"/>ged,<br/><chord name="G"/>vidd el <chord name="Hm"/>álmunk <chord name="C"/>Krisztus e<chord name="D"/>lé!<br/><chord name="G"/>Jézus Any<chord name="Am"/>ja, <chord name="D"/>hű Mári<chord name="G"/>a,<br/>ó, <chord name="C"/>add, hogy <chord name="D"/>lássuk Fi<chord name="G"/>ad<chord name="D7"/>!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="G"/>A<chord name="D"/>ve Ma<chord name="C"/>ri<chord name="D"/>a, <chord name="G"/>gra<chord name="Am"/>tia <chord name="C"/>ple<chord name="D"/>na,<br/><chord name="G"/>Domi<chord name="Am"/>nus <chord name="D"/>te<chord name="G"/>cum, <chord name="C"/>Bene<chord name="D"/>dicta <chord name="G"/>tu...</lines>
+    </verse>
+  </lyrics>
+</song>

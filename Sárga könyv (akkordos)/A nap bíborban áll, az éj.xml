@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
+  <properties>
+    <titles>
+      <title>A nap bíborban áll, az éj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Am"/> <chord name="G"/> <chord name="Am"/> <chord name="Am"/> <chord name="C"/> <chord name="G"/> <chord name="C"/> <chord name="E"/><br/><chord name="C"/> <chord name="G"/> <chord name="C"/> <chord name="Am"/> <chord name="Am"/> <chord name="G"/> <chord name="Am"/> <chord name="Am"/><br/>A <chord name="Am"/>nap bíborban <chord name="G"/>áll, az <chord name="Dm"/>éj messze <chord name="C"/>szállt.<br/><chord name="Am"/>Ne félj, te kicsiny <chord name="G"/>nyáj, a <chord name="Dm"/>Pásztor a Ki<chord name="Am"/>rály!<br/>A <chord name="G"/>jó Pásztor <chord name="C"/>vigyáz rád, az <chord name="G"/>elveszett megke<chord name="C"/>rül.<br/>A <chord name="G"/>jó Pásztor <chord name="C"/>vigyáz rád, a <chord name="G"/>gonosz elke<chord name="Am"/>rül.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az <chord name="G"/>Atya ül a <chord name="C"/>trónusán, az <chord name="G"/>ország készen <chord name="C"/>áll.<br/>Az <chord name="G"/>angyalok <chord name="C"/>dalolják a <chord name="G"/>szeretet <chord name="C"/>himnuszát.<br/><chord name="G"/>Allelu<chord name="Am"/>ja, <chord name="G"/>allelu<chord name="Am"/>ja, <chord name="G"/>allelu<chord name="Am"/>ja<chord name="E"/>!<chord name="E7"/><br/>||: <chord name="Am"/>Szent, szent az <chord name="E7"/>Úr, a di<chord name="Am"/>cső,<chord name="E7"/><br/>Aki <chord name="Am"/>volt, aki <chord name="E7"/>van, s eljö<chord name="Am"/>vendő<chord name="E7"/>!<br/><chord name="Am"/>Méltó az <chord name="Dm"/>Úr <chord name="G"/>minden di<chord name="E"/>csé<chord name="E7"/>retre,<br/><chord name="Am"/>szent, szent az <chord name="E7"/>Úr, a di<chord name="Am"/>cső<chord name="E7"/>! :||<br/><chord name="Am"/> <chord name="G"/> <chord name="Am"/> <chord name="Am"/> <chord name="Am7"/></lines>
+    </verse>
+  </lyrics>
+</song>

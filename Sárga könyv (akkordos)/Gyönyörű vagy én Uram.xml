@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Gyönyörű vagy én Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyö<chord name="Dm"/>rű vagy <chord name="C"/>én U<chord name="F"/>ram,<br/>szívem <chord name="Gm"/>mélyéből <chord name="C7"/>álda<chord name="Dm"/>lak,<br/>szívem <chord name="Gm"/>mélyéből <chord name="C7"/>álda<chord name="Dm"/>lak.<br/>Alleluja, alleluja...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megi<chord name="Dm"/>gézted <chord name="C"/>szíve<chord name="F"/>met,<br/>megé<chord name="Gm"/>rintetted <chord name="C7"/>benső<chord name="Dm"/>met…<br/>Táncot <chord name="Dm"/>járva <chord name="C"/>ámu<chord name="F"/>lok,<br/>megvál<chord name="Gm"/>tásomra <chord name="C7"/>gondo<chord name="Dm"/>lok…<br/>Alleluja, alleluja…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelked <chord name="Dm"/>betölti <chord name="C"/>éle<chord name="F"/>tem,<br/>Benned <chord name="Gm"/>ujjong, da<chord name="C7"/>lol szí<chord name="Dm"/>vem…<br/>Tegyél <chord name="Dm"/>szívedre <chord name="C"/>pecsé<chord name="F"/>tül,<br/>örök <chord name="Gm"/>életet <chord name="C7"/>adj vé<chord name="Dm"/>gül…<br/>||: Alleluja, alleluja... :||</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Jézus, köszöntlek, itt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Jézus, köszöntlek, <chord name="F"/>itt a reggel,<br/>a <chord name="G"/>Nap benéz az <chord name="F"/>ablako<chord name="G"/>mon.<br/><chord name="C"/>Jézus, köszöntlek, <chord name="F"/>itt a reggel,<br/><chord name="G"/>légy velem ezen a <chord name="F"/>mai na<chord name="C"/>pon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Ahogy a <chord name="F"/>Nap ra<chord name="G"/>gyogja <chord name="C"/>fényed vissza,<br/>s a <chord name="F"/>madarak <chord name="G"/>éne<chord name="C"/>kelnek,<br/><chord name="F"/>úgy ra<chord name="G"/>gyogjak <chord name="Em"/>és da<chord name="Am"/>loljak <chord name="D"/>Ró<chord name="G"/>lad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Jézus, köszöntlek, <chord name="F"/>itt a reggel,<br/>ahogy <chord name="G"/>Te köszöntesz <chord name="F"/>kedve<chord name="G"/>sen.<br/><chord name="C"/>Mert fényed kiárad <chord name="F"/>minden helyre,<br/>s <chord name="G"/>szereteted <chord name="F"/>átö<chord name="G"/>lel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="C"/>Ahogy a <chord name="F"/>Nap ra<chord name="G"/>gyogja <chord name="C"/>fényed vissza,<br/>s a <chord name="F"/>madarak <chord name="G"/>éne<chord name="C"/>kelnek,<br/><chord name="F"/>úgy ra<chord name="G"/>gyogjak <chord name="Em"/>és da<chord name="Am"/>loljak <chord name="D"/>Ró<chord name="G"/>lad!</lines>
+    </verse>
+  </lyrics>
+</song>

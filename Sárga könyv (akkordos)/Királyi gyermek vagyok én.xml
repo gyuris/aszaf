@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Királyi gyermek vagyok én</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki<chord name="Em"/>rályi gyermek vagyok <chord name="H7"/>én, van <chord name="H7"/>nékem koro<chord name="Em"/>nám.<br/>Meg<chord name="Em"/>váltóm kegyelme e<chord name="H7"/>nyém, nem <chord name="H7"/>hagy el soha <chord name="Em"/>már.<br/><chord name="Em"/>Jézussal <chord name="Am"/>járom utamat, <chord name="C"/>megfogva a ke<chord name="H7"/>zét.<br/>Ki<chord name="Em"/>rályi gyermek vagyok <chord name="H7"/>én,<br/>és <chord name="H7"/>ez nekem e<chord name="Em"/>lég.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki<chord name="Em"/>rályi gyermek vagyok <chord name="H7"/>én, van <chord name="H7"/>hófehér ru<chord name="Em"/>hám.<br/>Meg<chord name="Em"/>váltóm vére mosta <chord name="H7"/>le ott <chord name="H7"/>fenn, a Golgo<chord name="Em"/>tán.<br/><chord name="Em"/>Jézussal <chord name="Am"/>járom utamat, <chord name="C"/>megfogva a ke<chord name="H7"/>zét.<br/>Ki<chord name="Em"/>rályi gyermek vagyok <chord name="H7"/>én, és <chord name="H7"/>ez nekem e<chord name="Em"/>lég.</lines>
+    </verse>
+  </lyrics>
+</song>

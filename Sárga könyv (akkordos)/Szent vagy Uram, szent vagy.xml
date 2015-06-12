@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Szent vagy Uram, szent vagy</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="C"/>Szent vagy U<chord name="F"/><chord name="Em"/>ram, szent <chord name="Dm"/>vagy! :||(4x)<chord name="G4"/><chord name="G"/><br/><chord name="C"/>Szent vagy és <chord name="G"/>dicsősé<chord name="Am"/>ged <chord name="F"/>betöl<chord name="Em"/>ti a <chord name="Dm"/>föl<chord name="G"/>det,<br/>s a <chord name="C"/>mennyben és <chord name="G"/>minden <chord name="Am"/>seregek<br/>a <chord name="F"/>Te dicső<chord name="C"/>séged, s a <chord name="Dm"/>Te neved <chord name="G"/>zengik!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>||: <chord name="F"/>Hozsan<chord name="C"/>na, <chord name="F"/>hozsan<chord name="C"/>na,<br/><chord name="F"/>hozsan<chord name="C"/>na a <chord name="Dm"/>magasság<chord name="G"/>ban! :||<br/>||: <chord name="C"/>Szent vagy U<chord name="F"/><chord name="Em"/>ram, szent <chord name="Dm"/>vagy! :||(4x)</lines>
+    </verse>
+  </lyrics>
+</song>

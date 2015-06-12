@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Mindig van kiút, sose</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Mindig van ki<chord name="Hm"/>út, sose' <chord name="C"/>csüggedj <chord name="G"/>el!<br/><chord name="Em"/>Jó Atyád sze<chord name="A"/>relme ki<chord name="C"/>fogyhatatlan <chord name="G"/>tenger.<br/><chord name="G"/>Mindig van ki<chord name="Hm"/>út, sose' <chord name="C"/>csüggedj <chord name="G"/>el!<br/>Csak <chord name="Em"/>higgy, és a hit <chord name="A"/>pajzsát dere<chord name="C"/>kadra övezd <chord name="G"/>fel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Halld Izrael, az Úr nékünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="Em"/>Halld Izrael, az Úr <chord name="Em"/>nékünk Istenünk,<br/><chord name="Hm"/>az egyetlen <chord name="Em"/>Úr! :||<br/><chord name="Em"/>Halld Izrael, az Úr <chord name="Am"/>nékünk Istenünk,<br/><chord name="C"/>Ő az Egyet<chord name="H7"/>len!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Halld Izrael, az Úr <chord name="Am"/>nékünk Istenünk,<br/><chord name="Em"/>az <chord name="H7"/>egyetlen <chord name="Em"/>Úr!<br/>S(e)ma Jiszraél Adonáj Elohénu.<br/>Adonáj ehhád.</lines>
+    </verse>
+  </lyrics>
+</song>

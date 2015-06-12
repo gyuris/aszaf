@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Atyám, Tied vagyok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Atyám, Tied <chord name="F"/>vagyok, és <chord name="G"/>szüntelen i<chord name="C"/>mádlak!<br/><chord name="C"/>Dicsőség <chord name="F"/>szent neved<chord name="G4"/>nek<chord name="G"/>!<br/><chord name="C"/>Dicsőség ne<chord name="F"/>vednek, <chord name="E"/>dicsőség ne<chord name="Am"/>vednek,<br/><chord name="F"/>Dicsőség <chord name="G"/>szent neved<chord name="F"/>nek<chord name="C"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Jézus, Tied <chord name="F"/>vagyok, és <chord name="G"/>szüntelen i<chord name="C"/>mádlak!<br/><chord name="C"/>Dicsőség <chord name="F"/>szent neved<chord name="G4"/>nek<chord name="G"/>!<br/><chord name="C"/>Dicsőség ne<chord name="F"/>vednek, <chord name="E"/>dicsőség ne<chord name="Am"/>vednek,<br/><chord name="F"/>Dicsőség <chord name="G"/>szent neved<chord name="F"/>nek<chord name="C"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Lélek, Tied <chord name="F"/>vagyok, és <chord name="G"/>szüntelen i<chord name="C"/>mádlak!<br/><chord name="C"/>Dicsőség <chord name="F"/>szent neved<chord name="G4"/>nek<chord name="G"/>!<br/><chord name="C"/>Dicsőség ne<chord name="F"/>vednek, <chord name="E"/>dicsőség ne<chord name="Am"/>vednek,<br/><chord name="F"/>Dicsőség <chord name="G"/>szent neved<chord name="F"/>nek<chord name="C"/>!</lines>
+    </verse>
+  </lyrics>
+</song>

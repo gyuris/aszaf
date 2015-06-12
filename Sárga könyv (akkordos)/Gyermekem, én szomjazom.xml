@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Gyermekem, én szomjazom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>||: <chord name="D"/>Gyermekem, én <chord name="C"/>szomjazom,<br/><chord name="C"/>vágyom a <chord name="G"/>szíved u<chord name="D"/>tán. :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>nézd Szíve<chord name="A"/>met!<br/><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>lásd hűsé<chord name="A"/>gem<chord name="A4"/><chord name="A"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>||: <chord name="D"/>Gyermekem, én <chord name="C"/>szomjazom,<br/><chord name="C"/>vágyom a <chord name="G"/>szíved u<chord name="D"/>tán. :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>békére <chord name="A"/>lelsz!<br/><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>igaz lesz éle<chord name="A"/>ted<chord name="A4"/><chord name="A"/>!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>||: <chord name="D"/>Gyermekem, én <chord name="C"/>szomjazom,<br/><chord name="C"/>vágyom a <chord name="G"/>szíved u<chord name="D"/>tán. :||</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>figyeld igé<chord name="A"/>met!<br/><chord name="C"/>Maradj mindig <chord name="D"/>énbennem, <chord name="Em"/>szeresd testvé<chord name="A"/>red<chord name="A4"/><chord name="A"/>!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>||: <chord name="D"/>Gyermekem, én <chord name="C"/>szomjazom,<br/><chord name="C"/>vágyom a <chord name="G"/>szíved u<chord name="D"/>tán. :||</lines>
+    </verse>
+    <verse name="v8">
+      <lines><chord name="C"/>Ne aggódj és <chord name="D"/>ne félj már, <chord name="Em"/>bízz énben<chord name="A"/>nem!<br/><chord name="C"/>Felüdítem <chord name="D"/>lelkedet, <chord name="Em"/>add át éle<chord name="A"/>ted<chord name="A4"/><chord name="A"/>!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>||: <chord name="D"/>Gyermekem, én <chord name="C"/>szomjazom,<br/><chord name="C"/>vágyom a <chord name="G"/>szíved u<chord name="D"/>tán. :||</lines>
+    </verse>
+  </lyrics>
+</song>

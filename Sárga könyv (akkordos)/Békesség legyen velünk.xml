@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Békesség legyen velünk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Békesség <chord name="A"/>legyen ve<chord name="E"/>lünk,<br/><chord name="A"/>itt van <chord name="H7"/>Jézus <chord name="E"/>köztünk<chord name="H7"/>!<br/><chord name="E"/>Békes<chord name="C#m"/>ség, <chord name="A"/>békes<chord name="E"/>ség<br/><chord name="H7"/>legyen ve<chord name="E"/>lünk!</lines>
+    </verse>
+  </lyrics>
+</song>

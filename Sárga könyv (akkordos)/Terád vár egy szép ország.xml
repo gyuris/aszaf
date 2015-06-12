@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Terád vár egy szép ország</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Terád <chord name="D"/>vár egy szép ország, terád <chord name="G"/>vár egy szép or<chord name="D"/>szág.<br/>Terád <chord name="D"/>vár egy szép or<chord name="D7"/>szág, ahová me<chord name="A"/>gyek, ahová me<chord name="A7"/>gyek.<br/>Terád <chord name="D"/>vár egy szép or<chord name="D7"/>szág, terád <chord name="G"/>vár egy szép or<chord name="Gm"/>szág.<br/>Terád <chord name="D"/>vár egy szép or<chord name="A"/>szág, ahová me<chord name="G"/>gyek, ahová me<chord name="D"/>gyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs ott <chord name="D"/>többé könnyezés, nincs ott <chord name="G"/>többé könnye<chord name="D"/>zés.<br/>Nincs ott <chord name="D"/>többé könnye<chord name="D7"/>zés, ahová me<chord name="A"/>gyek, ahová me<chord name="A7"/>gyek.<br/>Nincs ott <chord name="D"/>többé könnye<chord name="D7"/>zés, nincs ott <chord name="G"/>többé könnye<chord name="Gm"/>zés.<br/>Nincs ott <chord name="D"/>többé könnye<chord name="A"/>zés, ahová me<chord name="G"/>gyek, ahová me<chord name="D"/>gyek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten <chord name="D"/>szép országa ez, Isten <chord name="G"/>szép országa <chord name="D"/>ez.<br/>Isten <chord name="D"/>szép országa <chord name="D7"/>et, ahová me<chord name="A"/>gyek, ahová me<chord name="A7"/>gyek.<br/>Isten <chord name="D"/>szép országa <chord name="D7"/>et, Isten <chord name="G"/>szép országa <chord name="Gm"/>ez.<br/>Isten <chord name="D"/>szép országa <chord name="A"/>ez, ahová me<chord name="G"/>gyek, ahová me<chord name="D"/>gyek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus <chord name="D"/>Krisztus vár ott rád, Jézus <chord name="G"/>Krisztus vár ott <chord name="D"/>rád.<br/>Jézus <chord name="D"/>Krisztus vár ott <chord name="D7"/>rád, ahová me<chord name="A"/>gyek, ahová me<chord name="A7"/>gyek.<br/>Jézus <chord name="D"/>Krisztus vár ott <chord name="D7"/>rád, Jézus <chord name="G"/>Krisztus vár ott <chord name="Gm"/>rád.<br/>Jézus <chord name="D"/>Krisztus vár ott <chord name="A"/>rád, ahová me<chord name="G"/>gyek, ahová me<chord name="D"/>gyek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add át <chord name="D"/>néki az életed! Add át <chord name="G"/>néki az éle<chord name="D"/>ted!<br/>Akkor <chord name="D"/>Isten szép orszá<chord name="D7"/>gát elnye<chord name="A"/>red, te is elnye<chord name="A7"/>red.<br/>Add át <chord name="D"/>néki az éle<chord name="D7"/>ted! Add át <chord name="G"/>néki az éle<chord name="Gm"/>ted!<br/>Akkor <chord name="D"/>Isten szép orszá<chord name="A"/>gát elnye<chord name="G"/>red, te is elnye<chord name="D"/>red.</lines>
+    </verse>
+  </lyrics>
+</song>

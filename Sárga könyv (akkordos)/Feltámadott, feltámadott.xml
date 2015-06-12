@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:01">
+  <properties>
+    <titles>
+      <title>Feltámadott, feltámadott</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="H7"/>Feltáma<chord name="Em"/>dott, feltáma<chord name="D"/>dott,<br/>feltáma<chord name="C"/>dott, allelu<chord name="H7"/>ja!<br/>Allelu<chord name="Em"/>ja, allelu<chord name="D"/>ja,<br/>allelu<chord name="C"/>ja, feltáma<chord name="H7"/>dott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A <chord name="Em"/>halál, hová tűnt el a <chord name="D"/>halál?<br/>Hová tűnt el ha<chord name="C"/>lálom, hová tűnt el győzelm<chord name="H7"/>e?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="H7"/>Feltáma<chord name="Em"/>dott, feltáma<chord name="D"/>dott,<br/>feltáma<chord name="C"/>dott, allelu<chord name="H7"/>ja!<br/>Allelu<chord name="Em"/>ja, allelu<chord name="D"/>ja,<br/>allelu<chord name="C"/>ja, feltáma<chord name="H7"/>dott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Em"/>Örvendjünk, örvendezzünk <chord name="D"/>testvérek,<br/>emeljük keze<chord name="C"/>inket, mert feltáma<chord name="H7"/>dott!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="H7"/>Feltáma<chord name="Em"/>dott, feltáma<chord name="D"/>dott,<br/>feltáma<chord name="C"/>dott, allelu<chord name="H7"/>ja!<br/>Allelu<chord name="Em"/>ja, allelu<chord name="D"/>ja,<br/>allelu<chord name="C"/>ja, feltáma<chord name="H7"/>dott!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az <chord name="Em"/>élet Vele számunkra <chord name="D"/>kedves,<br/>de a halál is <chord name="C"/>édes, ha Vele halunk <chord name="H7"/>meg.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="H7"/>Feltáma<chord name="Em"/>dott, feltáma<chord name="D"/>dott,<br/>feltáma<chord name="C"/>dott, allelu<chord name="H7"/>ja!<br/>Allelu<chord name="Em"/>ja, allelu<chord name="D"/>ja,<br/>allelu<chord name="C"/>ja, feltáma<chord name="H7"/>dott!</lines>
+    </verse>
+  </lyrics>
+</song>

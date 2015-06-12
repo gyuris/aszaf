@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Nélküled Uram, gyenge vagyok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/> <chord name="Am7"/> <chord name="G"/> <chord name="Am7"/> <chord name="G"/><br/><chord name="Am7"/>Nélküled Uram, <chord name="D"/>gyenge vagyok.<br/><chord name="Am7"/>Gyenge, mint porszem, ha <chord name="D"/>szél kavarog.<br/><chord name="Am7"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus, <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom!<br/><chord name="Am7"/>Rád bízom Uram, <chord name="D"/>porszem-életem.<br/><chord name="Am7"/>Neked adom, <chord name="D"/>jó helyre teszem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus, <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom U<chord name="G"/>ram,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom ma<chord name="G"/>gam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Am7"/>Jöjj el, Úr Jézus, és <chord name="D"/>legyél velem!<br/><chord name="Am7"/>Te jól tudod, mi az, mi <chord name="D"/>kell nekem.<br/><chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom!<br/><chord name="Am7"/>Mutasd az utat, <chord name="D"/>mit tegyek,<br/><chord name="Am7"/>merre menjek, <chord name="D"/>hogy kövesselek?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus, <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom U<chord name="G"/>ram,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom ma<chord name="G"/>gam!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="Am7"/>Te vigyázod minden <chord name="D"/>lépésemet,<br/>s <chord name="Am7"/>boldoggá tesz <chord name="D"/>szereteted.<br/><chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom!<br/><chord name="Am7"/>Köszönöm Jézus, hogy <chord name="D"/>Veled élhetek,<br/>s <chord name="Am7"/>kezedbe rakhatom <chord name="D"/>az életemet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom, Jézus, <chord name="C"/>Rád <chord name="D"/>bí<chord name="G"/>zom,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom U<chord name="G"/>ram,<br/><chord name="Em"/>Rád bí<chord name="Hm"/>zom, <chord name="C"/>Rád bí<chord name="D"/>zom ma<chord name="G"/>gam!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
+  <properties>
+    <titles>
+      <title>Mária, jó Anyánk, kérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Mária, <chord name="H7"/>jó Anyánk, <chord name="Em"/>kérünk, hogy <chord name="A"/>nézz le ránk,<br/><chord name="C"/>ó nézz, <chord name="D"/>ó nézz le <chord name="G"/>ránk<chord name="H7"/>!<br/><chord name="Em"/>Hittel sok <chord name="H7"/>gyermeked <chord name="Em"/>Tőled vár <chord name="A"/>szép jelet,<br/><chord name="C"/>Tőled, <chord name="D"/>Tőled, ó <chord name="Em"/>jó Anyánk!<br/><chord name="Em"/>Mária, <chord name="F"/>jó Anyánk, <chord name="C"/>kérünk, hogy <chord name="H7"/>nézz le <chord name="E"/>ránk<chord name="Em"/>!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Em"/>Új harcok, <chord name="H7"/>új szavak, <chord name="Em"/>új eszmék <chord name="A"/>hullanak,<br/><chord name="C"/>még sincs, <chord name="D"/>még sincs <chord name="G"/>remény<chord name="H7"/>!<br/><chord name="Em"/>Megfáradt, <chord name="H7"/>szép szemek <chord name="Em"/>megtörten <chord name="A"/>fénylenek.<br/><chord name="C"/>Ó mért, <chord name="D"/>ó mért, ó <chord name="Em"/>mondd, miért?!<br/><chord name="Em"/>Mária, <chord name="F"/>jó Anyánk, <chord name="C"/>kérünk, hogy <chord name="H7"/>nézz le <chord name="E"/>ránk<chord name="Em"/>!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Em"/>Megtévedt <chord name="H7"/>nemzedék <chord name="Em"/>két kézzel <chord name="A"/>szórja szét<br/><chord name="C"/>minden <chord name="D"/>kincsét, hi<chord name="G"/>tét<chord name="H7"/>.<br/><chord name="Em"/>Nem hisznek <chord name="H7"/>semmiben, <chord name="Em"/>nem bíznak <chord name="A"/>senkiben.<br/><chord name="C"/>Ó mért, <chord name="D"/>ó mért, ó <chord name="Em"/>mondd, miért?!<br/><chord name="Em"/>Mária, <chord name="F"/>jó Anyánk, <chord name="C"/>kérünk, hogy <chord name="H7"/>nézz le <chord name="E"/>ránk<chord name="Em"/>!</lines>
+    </verse>
+  </lyrics>
+</song>
