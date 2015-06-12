@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:08">
   <properties>
     <titles>
       <title>Mi pedig dicsekedjünk Urunk</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Dicsérjétek az Urat!" entry="114"/>
+      <songbook name="Dicsérjétek az Urat!" entry="64f"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mi pedig dicsekedjünk Urunk Jézus Krisztus keresztjé<br/>Benne van a mi üdvünk, Életünk és feltámadásunk.</lines>
+      <lines>Mi pedig dicsekedjünk Urunk Jézus Krisztus keresztjében;<br/>Benne van a mi üdvünk, Életünk és feltámadásunk.</lines>
     </verse>
     <verse name="v2">
       <lines>Ítélj meg engem, Isten,<br/>válaszd el ügyemet a szentségtelen néptől,<br/>a hamis és álnok embertől ments meg engem.</lines>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:11">
   <properties>
     <titles>
       <title>Egészen szép vagy Mária</title>
@@ -9,12 +9,12 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Dicsérjétek az Urat!" entry="377"/>
+      <songbook name="Dicsérjétek az Urat!" entry="237b"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>//: Egészen szép vagy Mária! ://<br/>//: Eredeti bűnnek szennye nincs tebenned. ://<br/>Te Jeruzsálem dicsősége,<br/>Te Izraelnek vagy öröme.<br/>Te a mi nemzetünknek<br/>vagy tisztessége.</lines>
+      <lines>||: Egészen szép vagy Mária! :||<br/>||: Eredeti bűnnek szennye nincs tebenned. :||<br/>Te Jeruzsálem dicsősége,<br/>Te Izraelnek vagy öröme.<br/>Te a mi nemzetünknek<br/>vagy tisztessége.</lines>
     </verse>
     <verse name="v2">
       <lines>Te a bűnösöknek szószólója Ó Mária, ó Mária.<br/>Nagyokosságú szent Szűz, Nagyhatalmú szent Szűz.<br/>Imádkozz érettünk, Esedezz érettünk.<br/>A mi Urunk Jézus Krisztusnál.  Ámen!</lines>

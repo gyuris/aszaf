@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:07">
   <properties>
     <titles>
       <title>Íme, kedveseim, az ítéletnek</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Dicsérjétek az Urat!" entry="21"/>
+      <songbook name="Dicsérjétek az Urat!" entry="13"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -20,7 +20,7 @@
       <lines>Gyakori szózatával int immár minket és mondja:<br/>mielőtt bezáratik a paradicsomnak ajtaja,<br/>mindannyiótok sietve igyekezzék,<br/>hogy bemenvén abba, mindörökké az Úrral uralkodjék.</lines>
     </verse>
     <verse name="v3">
-      <lines>//: Készüljetek föl, tehát, ti mindnyájan,<br/>Hogy megláthassátok a halhatatlan Jegyest,<br/>s tiétek legyen majd a mennyek országa. ://</lines>
+      <lines>||: Készüljetek föl, tehát, ti mindnyájan,<br/>Hogy megláthassátok a halhatatlan Jegyest,<br/>s tiétek legyen majd a mennyek országa. :||</lines>
     </verse>
     <verse name="v4">
       <lines>Íme, a mi anyánk, Jeruzsálem, nagy megindultsággal kiált felénk és mondja:<br/>„Jöjjetek, jöjjetek drága gyermekeim, jöjjetek hozzám!”<br/>Hogy megláthassátok a halhatatlan Jegyest,<br/>s tiétek legyen majd a mennyek országa.</lines>

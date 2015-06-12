@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2014-05-23T10:47:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:45:07">
   <properties>
     <titles>
       <title>Csordapásztorok midőn</title>
@@ -9,7 +9,7 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Dicsérjétek az Urat!" entry="62"/>
+      <songbook name="Dicsérjétek az Urat!" entry="41"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -26,7 +26,7 @@
       <lines>Mert Ő aluszik, nyugoszik pólyában,<br/>szénán bágyadoz a hideg jászolban.<br/>Nem pihen ágyban, sem friss palotában,<br/>hanem jászolban, romlott istállóban.”</lines>
     </verse>
     <verse name="v5">
-      <lines>„Serkentsd fel Jézust, szent Fiadat nékünk,<br/>mert mi angyalok igéjére jöttünk.”<br/>Serkenj fel, fiam! Pásztorok eljöttek,<br/>kik szent angyalidtól //: tehozzád küldettek. ://</lines>
+      <lines>„Serkentsd fel Jézust, szent Fiadat nékünk,<br/>mert mi angyalok igéjére jöttünk.”<br/>Serkenj fel, fiam! Pásztorok eljöttek,<br/>kik szent angyalidtól //: tehozzád küldettek. :||</lines>
     </verse>
     <verse name="v6">
       <lines>„Üdvözlégy, Jézus, pásztorok Pásztora,<br/>bűnös emberek megváltó szent Ura.<br/>Kérünk tégedet, mi Üdvözítőnket,<br/>sok bűneinkért meg ne utálj minket!</lines>
