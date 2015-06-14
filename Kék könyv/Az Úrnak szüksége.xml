@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
   <properties>
     <titles>
-      <title>Az Úrnak szüksége...</title>
+      <title>Az Úrnak szüksége…</title>
     </titles>
     <verseOrder>v1 v2</verseOrder>
     <authors>
@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Az úrnak szüksége van rád, oly nagyon szüksége van rád.<br/>||: Fontosabb vagy te, mint az égbolt; fontosabb vagy te, mint a föld; fontosabb vagy te, mint a tenger, nagyon fontos vagy te, fontosabb vagy :||<br/>fontos vagy te.</lines>
+      <lines>Az úrnak szüksége van rád, oly nagyon szüksége van rád.<br/>‖: Fontosabb vagy te, mint az égbolt; fontosabb vagy te, mint a föld; fontosabb vagy te, mint a tenger, nagyon fontos vagy te, fontosabb vagy :‖<br/>fontos vagy te.</lines>
     </verse>
     <verse name="v2">
-      <lines>Az Úrnak szüksége van rám...<br/>Fontosabb vagyok...</lines>
+      <lines>Az Úrnak szüksége van rám…<br/>Fontosabb vagyok…</lines>
     </verse>
   </lyrics>
 </song>

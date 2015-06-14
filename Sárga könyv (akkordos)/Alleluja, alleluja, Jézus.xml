@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="Em"/> <chord name="C"/> <chord name="Em"/> <chord name="C"/><br/>||: <chord name="G"/>Al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>Jé<chord name="D"/>zus az <chord name="Em"/>Úr!<br/><chord name="Am"/>Dicsérjétek Őt, <chord name="Em"/>imádjátok Őt <chord name="H7"/>ti szentje<chord name="Em"/>i. :||<br/><chord name="E"/>Áldott az Úr, ki megváltott <chord name="A"/>minden bűnünk<chord name="E"/>ből.<br/><chord name="A"/>Váltságul adta <chord name="E"/>életét <chord name="H7"/>értünk szeretet<chord name="E"/>ből.</lines>
+      <lines><chord name="Em"/> <chord name="C"/> <chord name="Em"/> <chord name="C"/><br/>‖: <chord name="G"/>Al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>Jé<chord name="D"/>zus az <chord name="Em"/>Úr!<br/><chord name="Am"/>Dicsérjétek Őt, <chord name="Em"/>imádjátok Őt <chord name="H7"/>ti szentje<chord name="Em"/>i. :‖<br/><chord name="E"/>Áldott az Úr, ki megváltott <chord name="A"/>minden bűnünk<chord name="E"/>ből.<br/><chord name="A"/>Váltságul adta <chord name="E"/>életét <chord name="H7"/>értünk szeretet<chord name="E"/>ből.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="G"/>Al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>Jé<chord name="D"/>zus az <chord name="Em"/>Úr!<br/><chord name="Am"/>Dicsérjétek Őt, <chord name="Em"/>imádjátok Őt <chord name="H7"/>ti szentje<chord name="Em"/>i. :||<br/><chord name="E"/>Áldott az Úr, ki elküldte <chord name="A"/>nékünk Szentlel<chord name="E"/>két.<br/><chord name="A"/>Őbenne élünk, <chord name="E"/>remélünk, s <chord name="H7"/>várjuk jövete<chord name="E"/>lét.</lines>
+      <lines>‖: <chord name="G"/>Al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>al<chord name="D"/>lelu<chord name="Em"/>ja, <chord name="G"/>Jé<chord name="D"/>zus az <chord name="Em"/>Úr!<br/><chord name="Am"/>Dicsérjétek Őt, <chord name="Em"/>imádjátok Őt <chord name="H7"/>ti szentje<chord name="Em"/>i. :‖<br/><chord name="E"/>Áldott az Úr, ki elküldte <chord name="A"/>nékünk Szentlel<chord name="E"/>két.<br/><chord name="A"/>Őbenne élünk, <chord name="E"/>remélünk, s <chord name="H7"/>várjuk jövete<chord name="E"/>lét.</lines>
     </verse>
   </lyrics>
 </song>

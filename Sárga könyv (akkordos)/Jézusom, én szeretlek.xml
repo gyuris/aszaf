@@ -17,13 +17,13 @@
       <lines><chord name="C"/>Jézusom, én <chord name="G"/>szeretlek,<br/><chord name="G7"/>égen földön <chord name="C"/>kereslek,<br/><chord name="C"/>tudom jól, hogy <chord name="G7"/>megtalál<chord name="C"/>lak<chord name="G7"/>.<br/><chord name="C"/>Jézusom én <chord name="G"/>akarom,<br/>hogy <chord name="G7"/>Tied legyen kis <chord name="C"/>dalom,<br/><chord name="C"/>azt is tudod, <chord name="G7"/>mindig <chord name="C"/>várlak<chord name="C7"/>.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: Én <chord name="Dm"/>olyan nagyon <chord name="Em"/>szeretném,<br/>ha <chord name="F"/>minden szavad <chord name="C"/>érteném,<br/><chord name="G"/>soha-soha <chord name="G7"/>el nem hagy<chord name="C"/>lak<chord name="C7"/>! :||</lines>
+      <lines>‖: Én <chord name="Dm"/>olyan nagyon <chord name="Em"/>szeretném,<br/>ha <chord name="F"/>minden szavad <chord name="C"/>érteném,<br/><chord name="G"/>soha-soha <chord name="G7"/>el nem hagy<chord name="C"/>lak<chord name="C7"/>! :‖</lines>
     </verse>
     <verse name="v3">
       <lines><chord name="C"/>Jézusom, ha <chord name="G"/>lehetne,<br/><chord name="G7"/>maradj velem <chord name="C"/>örökre,<br/><chord name="C"/>tudom, Te is <chord name="G7"/>ezt kívá<chord name="C"/>nod<chord name="G7"/>.<br/><chord name="C"/>Jézusom, én <chord name="G"/>jó leszek,<br/><chord name="G7"/>így szerzek majd <chord name="C"/>örömet,<br/><chord name="C"/>tudom, Te is <chord name="G7"/>csak ezt <chord name="C"/>várod<chord name="C7"/>.</lines>
     </verse>
     <verse name="v4">
-      <lines>||: Most <chord name="Dm"/>Rád bízom a <chord name="Em"/>szívemet,<br/>hogy <chord name="F"/>mindig kedves, <chord name="C"/>jó legyek,<br/><chord name="G"/>Te is örülsz, <chord name="G7"/>hogyha lá<chord name="C"/>tod<chord name="C7"/>! :||</lines>
+      <lines>‖: Most <chord name="Dm"/>Rád bízom a <chord name="Em"/>szívemet,<br/>hogy <chord name="F"/>mindig kedves, <chord name="C"/>jó legyek,<br/><chord name="G"/>Te is örülsz, <chord name="G7"/>hogyha lá<chord name="C"/>tod<chord name="C7"/>! :‖</lines>
     </verse>
   </lyrics>
 </song>

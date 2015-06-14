@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
-      <title>Itt állok előtted...</title>
+      <title>Itt állok előtted…</title>
     </titles>
     <verseOrder>v1 v2</verseOrder>
     <authors>
@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: Itt állok előtted, kérlek, Uram, ne vess meg! :||<br/>||: Vajon merre menjek, hol találok nyugalmat?<br/>Nálad van a bocsánat! :||<br/>||: Kérlek, el ne hagyjon nagy kegyelmed, vezessen!<br/>Tarts, Uram a kezedben! :||</lines>
+      <lines>‖: Itt állok előtted, kérlek, Uram, ne vess meg! :‖<br/>‖: Vajon merre menjek, hol találok nyugalmat?<br/>Nálad van a bocsánat! :‖<br/>‖: Kérlek, el ne hagyjon nagy kegyelmed, vezessen!<br/>Tarts, Uram a kezedben! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>||: Szívemből tehozzád száll, Uram, az imádság. :||<br/>||: Vajon merre menjek, hol találok nyugalmat?<br/>Nálad van a bocsánat! :||<br/>||: Kérlek, el ne hagyjon nagy kegyelmed, vezessen!<br/>Tarts, Uram a kezedben! :||</lines>
+      <lines>‖: Szívemből tehozzád száll, Uram, az imádság. :‖<br/>‖: Vajon merre menjek, hol találok nyugalmat?<br/>Nálad van a bocsánat! :‖<br/>‖: Kérlek, el ne hagyjon nagy kegyelmed, vezessen!<br/>Tarts, Uram a kezedben! :‖</lines>
     </verse>
   </lyrics>
 </song>

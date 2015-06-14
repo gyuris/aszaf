@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="Dm"/>Tisztítsd meg szemem, hogy Téged <chord name="Gm"/>lásson<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Tisztítsd meg fülem, hogy Téged <chord name="Gm"/>halljon<chord name="Gm6"/>!<chord name="Dm"/><br/>||: <chord name="C7"/>Nyisd meg a <chord name="F"/>szívem, hogy <chord name="Gm"/>befogadjon! :||(3x)<br/><chord name="C7"/>Nyisd meg a <chord name="F"/>szívem!</lines>
+      <lines><chord name="Dm"/>Tisztítsd meg szemem, hogy Téged <chord name="Gm"/>lásson<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Tisztítsd meg fülem, hogy Téged <chord name="Gm"/>halljon<chord name="Gm6"/>!<chord name="Dm"/><br/>‖: <chord name="C7"/>Nyisd meg a <chord name="F"/>szívem, hogy <chord name="Gm"/>befogadjon! :‖×3<br/><chord name="C7"/>Nyisd meg a <chord name="F"/>szívem!</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="Dm"/>Vidd a lábamat, hogy Hozzád <chord name="Gm"/>érjen<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Emeld két karom, hogy átö<chord name="Gm"/>leljen<chord name="Gm6"/>!<chord name="Dm"/><br/>||: <chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem, hogy <chord name="Gm"/>Benned éljek! :||(3x)<br/><chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem!</lines>
+      <lines><chord name="Dm"/>Vidd a lábamat, hogy Hozzád <chord name="Gm"/>érjen<chord name="Gm6"/>!<chord name="Dm"/><br/><chord name="Dm"/>Emeld két karom, hogy átö<chord name="Gm"/>leljen<chord name="Gm6"/>!<chord name="Dm"/><br/>‖: <chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem, hogy <chord name="Gm"/>Benned éljek! :‖×3<br/><chord name="C7"/>Mentsd meg a <chord name="F"/>lelkem!</lines>
     </verse>
   </lyrics>
 </song>

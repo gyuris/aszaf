@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
-      <title>Néked hódolok...</title>
+      <title>Néked hódolok…</title>
     </titles>
     <verseOrder>v1</verseOrder>
     <authors>
@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: Néked hódolok Jézus, dicső király! :||<br/>||: Ujjongj, dalolj, szívem, és dicsérjed Őt! :||</lines>
+      <lines>‖: Néked hódolok Jézus, dicső király! :‖<br/>‖: Ujjongj, dalolj, szívem, és dicsérjed Őt! :‖</lines>
     </verse>
   </lyrics>
 </song>

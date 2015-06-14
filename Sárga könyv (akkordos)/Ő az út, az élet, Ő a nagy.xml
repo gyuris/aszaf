@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="C"/>Ő az út, az élet, <chord name="G"/>Ő a nagy ígéret,<br/><chord name="D"/>Ő a kezdet és vég, <chord name="G"/>benne a teljesség!<br/>||: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :||</lines>
+      <lines><chord name="C"/>Ő az út, az élet, <chord name="G"/>Ő a nagy ígéret,<br/><chord name="D"/>Ő a kezdet és vég, <chord name="G"/>benne a teljesség!<br/>‖: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="C"/>Ő a hű bizonyság, <chord name="G"/>Ő a világosság,<br/><chord name="D"/>Ő az örök bíró, <chord name="G"/>Ő a közbenjáró!<br/>||: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :||</lines>
+      <lines><chord name="C"/>Ő a hű bizonyság, <chord name="G"/>Ő a világosság,<br/><chord name="D"/>Ő az örök bíró, <chord name="G"/>Ő a közbenjáró!<br/>‖: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :‖</lines>
     </verse>
     <verse name="v3">
-      <lines><chord name="C"/>Ő Isten Báránya, <chord name="G"/>királyok Királya,<br/><chord name="D"/>Ő az egy, a Fiú, <chord name="G"/>Ő Jézus, a Krisztus!<br/>||: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :||</lines>
+      <lines><chord name="C"/>Ő Isten Báránya, <chord name="G"/>királyok Királya,<br/><chord name="D"/>Ő az egy, a Fiú, <chord name="G"/>Ő Jézus, a Krisztus!<br/>‖: <chord name="G"/>Alle<chord name="C"/>lu<chord name="G"/>ja, <chord name="H7"/>alle<chord name="Em"/>luja, <chord name="C"/>alle<chord name="G"/>luja, <chord name="D"/>a<chord name="G"/>men! :‖</lines>
     </verse>
   </lyrics>
 </song>

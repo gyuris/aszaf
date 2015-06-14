@@ -17,7 +17,7 @@
       <lines><chord name="C"/> <chord name="Em"/> <chord name="Dm"/> <chord name="G"/> <chord name="C"/> <chord name="G"/> <chord name="C"/><br/><chord name="C"/>Áldjon meg <chord name="Em"/>téged az <chord name="Dm"/>Úr<chord name="G"/>!<br/><chord name="C"/>Áldjon meg <chord name="Em"/>téged az <chord name="Dm"/>Úr<chord name="G"/>!<br/>és <chord name="C"/>őrizzen <chord name="G"/>meg tége<chord name="C"/>det<chord name="C7"/>!</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="Dm"/>Világo<chord name="Em"/>sítsa meg az <chord name="C"/>Úr, az <chord name="Dm"/>Ő or<chord name="Em"/>cáját te<chord name="C"/>rajtad,<br/>és <chord name="F"/>könyörüljön teraj<chord name="G"/>tad<chord name="G7"/>!<br/><chord name="C"/>Fordítsa az <chord name="Em"/>Úr az Ő <chord name="Dm"/>orcáját <chord name="G"/>Rád!<br/><chord name="C"/>Fordítsa az <chord name="Em"/>Úr az Ő <chord name="Dm"/>orcáját <chord name="G"/>Rád,<br/>és <chord name="C"/>adjon bé<chord name="G"/>két tené<chord name="C"/>ked! :||</lines>
+      <lines>‖: <chord name="Dm"/>Világo<chord name="Em"/>sítsa meg az <chord name="C"/>Úr, az <chord name="Dm"/>Ő or<chord name="Em"/>cáját te<chord name="C"/>rajtad,<br/>és <chord name="F"/>könyörüljön teraj<chord name="G"/>tad<chord name="G7"/>!<br/><chord name="C"/>Fordítsa az <chord name="Em"/>Úr az Ő <chord name="Dm"/>orcáját <chord name="G"/>Rád!<br/><chord name="C"/>Fordítsa az <chord name="Em"/>Úr az Ő <chord name="Dm"/>orcáját <chord name="G"/>Rád,<br/>és <chord name="C"/>adjon bé<chord name="G"/>két tené<chord name="C"/>ked! :‖</lines>
     </verse>
   </lyrics>
 </song>

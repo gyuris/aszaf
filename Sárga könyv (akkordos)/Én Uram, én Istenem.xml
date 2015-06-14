@@ -20,7 +20,7 @@
       <lines><chord name="Em"/>Én Uram, én <chord name="H7"/>Istenem,<br/><chord name="G"/>add meg nekem <chord name="D"/>mindenem,<br/>ami <chord name="Am"/>segít <chord name="Em"/>feléd!</lines>
     </verse>
     <verse name="v3">
-      <lines>||: <chord name="Em"/>Én Uram, én <chord name="H7"/>Istenem,<br/><chord name="G"/>fogadd el az <chord name="D"/>életem,<br/><chord name="C"/>hadd legyek e<chord name="D"/>gészen a <chord name="G"/>Ti<chord name="H7"/>éd! :||<br/><chord name="Em"/> <chord name="H7"/> <chord name="G"/> <chord name="D"/> <chord name="Am"/> <chord name="Am7"/> <chord name="Em"/></lines>
+      <lines>‖: <chord name="Em"/>Én Uram, én <chord name="H7"/>Istenem,<br/><chord name="G"/>fogadd el az <chord name="D"/>életem,<br/><chord name="C"/>hadd legyek e<chord name="D"/>gészen a <chord name="G"/>Ti<chord name="H7"/>éd! :‖<br/><chord name="Em"/> <chord name="H7"/> <chord name="G"/> <chord name="D"/> <chord name="Am"/> <chord name="Am7"/> <chord name="Em"/></lines>
     </verse>
   </lyrics>
 </song>

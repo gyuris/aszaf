@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>A <chord name="G"/>mélyből kiáltok <chord name="Am"/>Uram Hozzád,<br/><chord name="Am"/>ne hagyj el, szabadíts <chord name="Em"/>meg!<br/><chord name="G"/>Mutasd meg magad, <chord name="Am"/>végtelen Isten<br/><chord name="Am"/>ne hagyj elveszni bűneim<chord name="Em"/>ben!<br/>||: <chord name="Em"/>Uram <chord name="G"/>irgal<chord name="Am"/>mazz, <chord name="D"/>Uram irgal<chord name="Em"/>mazz! :||</lines>
+      <lines>A <chord name="G"/>mélyből kiáltok <chord name="Am"/>Uram Hozzád,<br/><chord name="Am"/>ne hagyj el, szabadíts <chord name="Em"/>meg!<br/><chord name="G"/>Mutasd meg magad, <chord name="Am"/>végtelen Isten<br/><chord name="Am"/>ne hagyj elveszni bűneim<chord name="Em"/>ben!<br/>‖: <chord name="Em"/>Uram <chord name="G"/>irgal<chord name="Am"/>mazz, <chord name="D"/>Uram irgal<chord name="Em"/>mazz! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Te <chord name="G"/>elküldted hozzánk <chord name="Am"/>Fiadat, Jézust,<br/>ki <chord name="Am"/>kereszten szenvedett <chord name="Em"/>értünk.<br/>De <chord name="G"/>közénk jön most a <chord name="Am"/>kenyérben, borban,<br/>a <chord name="Am"/>búcsúvacsorán ígérte <chord name="Em"/>nékünk.<br/>||: <chord name="Em"/>Krisztus <chord name="G"/>kegyel<chord name="Am"/>mezz, <chord name="D"/>Krisztus kegyel<chord name="Em"/>mezz! :||</lines>
+      <lines>Te <chord name="G"/>elküldted hozzánk <chord name="Am"/>Fiadat, Jézust,<br/>ki <chord name="Am"/>kereszten szenvedett <chord name="Em"/>értünk.<br/>De <chord name="G"/>közénk jön most a <chord name="Am"/>kenyérben, borban,<br/>a <chord name="Am"/>búcsúvacsorán ígérte <chord name="Em"/>nékünk.<br/>‖: <chord name="Em"/>Krisztus <chord name="G"/>kegyel<chord name="Am"/>mezz, <chord name="D"/>Krisztus kegyel<chord name="Em"/>mezz! :‖</lines>
     </verse>
     <verse name="v3">
-      <lines>A <chord name="G"/>mélyből kiáltok <chord name="Am"/>Uram Hozzád,<br/>hol <chord name="Am"/>zarándokútját járja <chord name="Em"/>néped.<br/>A <chord name="G"/>kereszt jelével <chord name="Am"/>homlokunkon<br/><chord name="Am"/>Fiad nevében kérünk <chord name="Em"/>téged.<br/>||: <chord name="Em"/>Uram <chord name="G"/>irgal<chord name="Am"/>mazz, <chord name="D"/>Uram irgal<chord name="Em"/>mazz! :||</lines>
+      <lines>A <chord name="G"/>mélyből kiáltok <chord name="Am"/>Uram Hozzád,<br/>hol <chord name="Am"/>zarándokútját járja <chord name="Em"/>néped.<br/>A <chord name="G"/>kereszt jelével <chord name="Am"/>homlokunkon<br/><chord name="Am"/>Fiad nevében kérünk <chord name="Em"/>téged.<br/>‖: <chord name="Em"/>Uram <chord name="G"/>irgal<chord name="Am"/>mazz, <chord name="D"/>Uram irgal<chord name="Em"/>mazz! :‖</lines>
     </verse>
   </lyrics>
 </song>

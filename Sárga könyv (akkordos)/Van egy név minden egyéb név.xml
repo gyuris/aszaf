@@ -14,13 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Van egy <chord name="G"/>név minden egyéb <chord name="D"/>név fe<chord name="G"/>lett.<br/>A <chord name="G"/>názáreti <chord name="D"/>Jézus szent ne<chord name="G"/>ve<chord name="G7"/>.<br/>||: Én <chord name="C"/>Őt magasztalom, Róla <chord name="G"/>szól az én dalom.<br/>Van egy <chord name="C"/>név minden <chord name="D"/>egyéb név fe<chord name="G"/>lett. :||</lines>
+      <lines>Van egy <chord name="G"/>név minden egyéb <chord name="D"/>név fe<chord name="G"/>lett.<br/>A <chord name="G"/>názáreti <chord name="D"/>Jézus szent ne<chord name="G"/>ve<chord name="G7"/>.<br/>‖: Én <chord name="C"/>Őt magasztalom, Róla <chord name="G"/>szól az én dalom.<br/>Van egy <chord name="C"/>név minden <chord name="D"/>egyéb név fe<chord name="G"/>lett. :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Ma is <chord name="G"/>van számodra <chord name="D"/>menekü<chord name="G"/>lés.<br/>A <chord name="G"/>bűnből csak a <chord name="D"/>halálba <chord name="G"/>mész<chord name="G7"/>.<br/>||: <chord name="C"/>Jézus hozta el neked az <chord name="G"/>örök életet.<br/>Ma is <chord name="G"/>van számodra <chord name="D"/>menekü<chord name="G"/>lés. :||</lines>
+      <lines>Ma is <chord name="G"/>van számodra <chord name="D"/>menekü<chord name="G"/>lés.<br/>A <chord name="G"/>bűnből csak a <chord name="D"/>halálba <chord name="G"/>mész<chord name="G7"/>.<br/>‖: <chord name="C"/>Jézus hozta el neked az <chord name="G"/>örök életet.<br/>Ma is <chord name="G"/>van számodra <chord name="D"/>menekü<chord name="G"/>lés. :‖</lines>
     </verse>
     <verse name="v3">
-      <lines>Ma is <chord name="G"/>van számodra <chord name="D"/>úju<chord name="G"/>lás.<br/><chord name="G"/>Csalódott <chord name="D"/>szívednek gyógyu<chord name="G"/>lás<chord name="G7"/>.<br/>||: Mert <chord name="C"/>fenn a Golgotán minden <chord name="G"/>elvégeztetett.<br/>Ma is <chord name="G"/>van számodra <chord name="D"/>úju<chord name="G"/>lás. :||</lines>
+      <lines>Ma is <chord name="G"/>van számodra <chord name="D"/>úju<chord name="G"/>lás.<br/><chord name="G"/>Csalódott <chord name="D"/>szívednek gyógyu<chord name="G"/>lás<chord name="G7"/>.<br/>‖: Mert <chord name="C"/>fenn a Golgotán minden <chord name="G"/>elvégeztetett.<br/>Ma is <chord name="G"/>van számodra <chord name="D"/>úju<chord name="G"/>lás. :‖</lines>
     </verse>
   </lyrics>
 </song>

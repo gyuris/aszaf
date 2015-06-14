@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="F"/> <chord name="E"/> <chord name="Am"/> :||<br/>Ó, mily <chord name="Am"/>szép, a <chord name="D"/>magas ormokon<br/>a <chord name="F"/>hírhozó lépte, ki <chord name="C"/>békességet <chord name="E"/>hirdet.<br/>Ki <chord name="Am"/>örömhírt mond, ki <chord name="D"/>vigasztalást nyújt,<br/>és <chord name="F"/>kiáltja, hogy <chord name="G"/>közel van az <chord name="Am"/>Úr.</lines>
+      <lines>‖: <chord name="F"/> <chord name="E"/> <chord name="Am"/> :‖<br/>Ó, mily <chord name="Am"/>szép, a <chord name="D"/>magas ormokon<br/>a <chord name="F"/>hírhozó lépte, ki <chord name="C"/>békességet <chord name="E"/>hirdet.<br/>Ki <chord name="Am"/>örömhírt mond, ki <chord name="D"/>vigasztalást nyújt,<br/>és <chord name="F"/>kiáltja, hogy <chord name="G"/>közel van az <chord name="Am"/>Úr.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="Am"/>Ujjongj! Isten <chord name="G"/>megváltott!<br/><chord name="Em"/>Levette rólad <chord name="F"/>bűneid jármát,<br/><chord name="Am"/>szabadulást szerzett, <chord name="G"/>üdvöt hozott,<br/><chord name="Em"/>Szentlelkét árasztotta <chord name="Am"/>rád. :||</lines>
+      <lines>‖: <chord name="Am"/>Ujjongj! Isten <chord name="G"/>megváltott!<br/><chord name="Em"/>Levette rólad <chord name="F"/>bűneid jármát,<br/><chord name="Am"/>szabadulást szerzett, <chord name="G"/>üdvöt hozott,<br/><chord name="Em"/>Szentlelkét árasztotta <chord name="Am"/>rád. :‖</lines>
     </verse>
   </lyrics>
 </song>

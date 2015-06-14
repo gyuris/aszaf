@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="D"/>Érző <chord name="A"/>kezek ölelnek <chord name="Em"/>engem<chord name="G"/>. <chord name="D"/>Érző <chord name="A"/>kezeddel e<chord name="Em"/>melj fel<chord name="G"/>! :||<br/><chord name="D"/>Emelj fel, <chord name="F#m"/>ragadj magaddal, <chord name="G"/>karoddal emelj fel <chord name="A"/>engem, U<chord name="D"/>ram!<br/>||: <chord name="D"/>Érző <chord name="A"/>kezek ölelnek <chord name="Em"/>engem<chord name="G"/>. <chord name="D"/>Érző <chord name="A"/>kezeddel e<chord name="Em"/>melj fel<chord name="G"/>! :||</lines>
+      <lines>‖: <chord name="D"/>Érző <chord name="A"/>kezek ölelnek <chord name="Em"/>engem<chord name="G"/>. <chord name="D"/>Érző <chord name="A"/>kezeddel e<chord name="Em"/>melj fel<chord name="G"/>! :‖<br/><chord name="D"/>Emelj fel, <chord name="F#m"/>ragadj magaddal, <chord name="G"/>karoddal emelj fel <chord name="A"/>engem, U<chord name="D"/>ram!<br/>‖: <chord name="D"/>Érző <chord name="A"/>kezek ölelnek <chord name="Em"/>engem<chord name="G"/>. <chord name="D"/>Érző <chord name="A"/>kezeddel e<chord name="Em"/>melj fel<chord name="G"/>! :‖</lines>
     </verse>
   </lyrics>
 </song>

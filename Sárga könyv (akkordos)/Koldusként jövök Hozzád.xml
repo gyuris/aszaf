@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus va<chord name="Dm"/>gyok. :||<br/>||: <chord name="Dm"/>Koldusok <chord name="C"/>királya, Jézus, <chord name="Dm"/>mentsd meg a <chord name="A"/>lelkem! :||</lines>
+      <lines>‖: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus va<chord name="Dm"/>gyok. :‖<br/>‖: <chord name="Dm"/>Koldusok <chord name="C"/>királya, Jézus, <chord name="Dm"/>mentsd meg a <chord name="A"/>lelkem! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :||<br/>||: <chord name="Dm"/>Rongyai<chord name="C"/>mat Néked a<chord name="Dm"/>dom, fogadd el <chord name="C"/>hát,<br/>hadd legyen <chord name="F"/>életem Ti<chord name="Am"/>éd!<br/>||: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :||</lines>
+      <lines>‖: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :‖<br/>‖: <chord name="Dm"/>Rongyai<chord name="C"/>mat Néked a<chord name="Dm"/>dom, fogadd el <chord name="C"/>hát,<br/>hadd legyen <chord name="F"/>életem Ti<chord name="Am"/>éd!<br/>‖: <chord name="Dm"/>Koldusként jövök Hoz<chord name="C"/>zád, <chord name="Am"/>koldus <chord name="Dm"/>vagyok. :‖</lines>
     </verse>
   </lyrics>
 </song>

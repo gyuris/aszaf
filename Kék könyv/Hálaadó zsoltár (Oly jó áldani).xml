@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szívemből ünnepi ének árad,<br/>háladalt éneklek az ég Urának.<br/>Ujjongva tör fel a hála bennem,<br/>jósága körülvesz szárnyként engem.<br/>||: Adjatok hálát az Istennek!<br/>Adjatok hálát az Istennek!<br/>Ő a mi Teremtőnk, Királyunk,<br/>alle-alleluja… :||</lines>
+      <lines>Szívemből ünnepi ének árad,<br/>háladalt éneklek az ég Urának.<br/>Ujjongva tör fel a hála bennem,<br/>jósága körülvesz szárnyként engem.<br/>‖: Adjatok hálát az Istennek!<br/>Adjatok hálát az Istennek!<br/>Ő a mi Teremtőnk, Királyunk,<br/>alle-alleluja… :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>||: Hála legyen, hála legyen,<br/>hála; áldott az Úr! :||<br/>Oly jó áldani az Urat.<br/>Ujjongóan jó Istennek<br/>zengeni zsoltárokat!<br/>Már kora reggelen jóságát,<br/>és éjszakákon át hirdetem<br/>szüntelen nagy irgalmát.</lines>
+      <lines>‖: Hála legyen, hála legyen,<br/>hála; áldott az Úr! :‖<br/>Oly jó áldani az Urat.<br/>Ujjongóan jó Istennek<br/>zengeni zsoltárokat!<br/>Már kora reggelen jóságát,<br/>és éjszakákon át hirdetem<br/>szüntelen nagy irgalmát.</lines>
     </verse>
     <verse name="v3">
       <lines>Pengő hangszeren, lantokon,<br/>ujjongóan jó Istennek<br/>zengeni hálaszót.<br/>Az öröm hangjai szóljanak,<br/>gitár húrjain magasztalom<br/>ujjongva csodáidat!</lines>
@@ -26,7 +26,7 @@
       <lines>Uram, jó voltál énhozzám,<br/>életemben nagy dolgokat<br/>műveltél sok év során.<br/>Sziklám, oltalmam te voltál,<br/>oly irgalmasan jó, gondoskodó<br/>Istenem, égi Atyám!</lines>
     </verse>
     <verse name="v5">
-      <lines>||: Hála, dicsőség nevednek,<br/>most és örökké az égben,<br/>a földön. Amen. :||</lines>
+      <lines>‖: Hála, dicsőség nevednek,<br/>most és örökké az égben,<br/>a földön. Amen. :‖</lines>
     </verse>
   </lyrics>
 </song>

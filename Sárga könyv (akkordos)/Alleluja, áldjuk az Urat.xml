@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="Em"/>Alleluja, <chord name="Am"/>áldjuk az Urat,<br/><chord name="D"/>Őt, ki <chord name="Hm"/>annyira sze<chord name="Em"/>ret! :||<br/><chord name="C"/>Nincs más oly e<chord name="Em"/>rős, mit az Úr,<br/>sőt <chord name="D"/>rajta kívül <chord name="Hm"/>nincsen senki <chord name="Em"/>más.<br/><chord name="C"/>Nincs kőszál csak <chord name="Em"/>a mi Istenünk.<br/><chord name="D"/>Nincs senki olyan <chord name="Hm"/>biztos és szi<chord name="Em"/>lárd.</lines>
+      <lines>‖: <chord name="Em"/>Alleluja, <chord name="Am"/>áldjuk az Urat,<br/><chord name="D"/>Őt, ki <chord name="Hm"/>annyira sze<chord name="Em"/>ret! :‖<br/><chord name="C"/>Nincs más oly e<chord name="Em"/>rős, mit az Úr,<br/>sőt <chord name="D"/>rajta kívül <chord name="Hm"/>nincsen senki <chord name="Em"/>más.<br/><chord name="C"/>Nincs kőszál csak <chord name="Em"/>a mi Istenünk.<br/><chord name="D"/>Nincs senki olyan <chord name="Hm"/>biztos és szi<chord name="Em"/>lárd.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="Em"/>Alleluja, <chord name="Am"/>áldjuk az Urat,<br/><chord name="D"/>Őt, ki <chord name="Hm"/>annyira sze<chord name="Em"/>ret! :||<br/><chord name="C"/>Nincs más olyan <chord name="Em"/>szent, mint az Úr, aki <chord name="D"/>szíveket és <chord name="Hm"/>veséket vizs<chord name="Em"/>gál.<br/>És <chord name="C"/>aki roskad, <chord name="Em"/>Ő veszi fel, <chord name="D"/>megerősíti <chord name="Hm"/>az Ő Lelké<chord name="Em"/>vel.</lines>
+      <lines>‖: <chord name="Em"/>Alleluja, <chord name="Am"/>áldjuk az Urat,<br/><chord name="D"/>Őt, ki <chord name="Hm"/>annyira sze<chord name="Em"/>ret! :‖<br/><chord name="C"/>Nincs más olyan <chord name="Em"/>szent, mint az Úr, aki <chord name="D"/>szíveket és <chord name="Hm"/>veséket vizs<chord name="Em"/>gál.<br/>És <chord name="C"/>aki roskad, <chord name="Em"/>Ő veszi fel, <chord name="D"/>megerősíti <chord name="Hm"/>az Ő Lelké<chord name="Em"/>vel.</lines>
     </verse>
   </lyrics>
 </song>

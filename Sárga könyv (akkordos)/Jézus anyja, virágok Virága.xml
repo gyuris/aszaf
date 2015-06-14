@@ -14,19 +14,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="G"/>Jézus anyja, <chord name="G4"/>virágok Virága, <chord name="D"/>Mária.<br/>A bölcseknél is okosabb, Jézus anyja, Mária.<br/>A <chord name="C"/>gyémántnál is <chord name="Hm"/>keményebb, <chord name="C"/>Jézus anyja, <chord name="D"/>Mári<chord name="G"/>a.<br/>||: <chord name="C"/>Könyörögj, <chord name="Hm"/>könyörögj, <chord name="C"/>könyörögj <chord name="D"/>éret<chord name="G"/>tünk! :||</lines>
+      <lines><chord name="G"/>Jézus anyja, <chord name="G4"/>virágok Virága, <chord name="D"/>Mária.<br/>A bölcseknél is okosabb, Jézus anyja, Mária.<br/>A <chord name="C"/>gyémántnál is <chord name="Hm"/>keményebb, <chord name="C"/>Jézus anyja, <chord name="D"/>Mári<chord name="G"/>a.<br/>‖: <chord name="C"/>Könyörögj, <chord name="Hm"/>könyörögj, <chord name="C"/>könyörögj <chord name="D"/>éret<chord name="G"/>tünk! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>Mária, termékeny gyümölcsfa.<br/>Mária, sugárzó csillag.<br/>Mária, tenger gyöngye.<br/>||: Könyörögj, könyörögj,<br/>könyörögj érettünk! :||</lines>
+      <lines>Mária, termékeny gyümölcsfa.<br/>Mária, sugárzó csillag.<br/>Mária, tenger gyöngye.<br/>‖: Könyörögj, könyörögj,<br/>könyörögj érettünk! :‖</lines>
     </verse>
     <verse name="v3">
       <lines>Virág az Isten viharában.<br/>Pehely a Lélek szélvészében.<br/>Palesztína rózsája, naptól égetett<br/>titokzatos lány.<br/>Ki egyetlen „igen” vagy,<br/>mely a földrészeket összefogja.</lines>
     </verse>
     <verse name="v4">
-      <lines>||: Könyörögj, könyörögj, könyörögj érettünk! :||<br/>Ó, érintetlen, ki a megsebzett szűzekért imádkozol.<br/>Ó, termékeny, ki az elvetélt magzatokon könnyezel.<br/>Ó, imádságos, ki a káromkodókat szánva-szánod.</lines>
+      <lines>‖: Könyörögj, könyörögj, könyörögj érettünk! :‖<br/>Ó, érintetlen, ki a megsebzett szűzekért imádkozol.<br/>Ó, termékeny, ki az elvetélt magzatokon könnyezel.<br/>Ó, imádságos, ki a káromkodókat szánva-szánod.</lines>
     </verse>
     <verse name="v5">
-      <lines>||: Könyörögj, könyörögj, könyörögj érettünk! :||<br/>Gomolygó ködből talpig aranyban kilépő asszony.<br/>Szürke hamuból talpig tűzben előlépő asszony.<br/>Szivárványból mosolygó szűzi asszony.</lines>
+      <lines>‖: Könyörögj, könyörögj, könyörögj érettünk! :‖<br/>Gomolygó ködből talpig aranyban kilépő asszony.<br/>Szürke hamuból talpig tűzben előlépő asszony.<br/>Szivárványból mosolygó szűzi asszony.</lines>
     </verse>
   </lyrics>
 </song>

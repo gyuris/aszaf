@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="Am"/>Fölém hajló <chord name="Dm"/>jóságodra <chord name="C"/>emlé<chord name="E"/>kezz, U<chord name="Am"/>ram!<br/><chord name="Am"/>Irgalmadra, mi <chord name="Dm"/>örökké <chord name="C"/>igaz<chord name="E"/>ság ma<chord name="Am"/>rad.<br/>||: <chord name="C"/>Mosogass meg a <chord name="G"/>bűneimtől, <chord name="Am"/>tisztogass meg a <chord name="E"/>vétkeimtől!<br/><chord name="Am"/>Vétkemet el<chord name="D"/>ismerem, <chord name="F"/>bűnöm <chord name="E"/>előttem áll <chord name="Am"/>szüntelen. :||</lines>
+      <lines><chord name="Am"/>Fölém hajló <chord name="Dm"/>jóságodra <chord name="C"/>emlé<chord name="E"/>kezz, U<chord name="Am"/>ram!<br/><chord name="Am"/>Irgalmadra, mi <chord name="Dm"/>örökké <chord name="C"/>igaz<chord name="E"/>ság ma<chord name="Am"/>rad.<br/>‖: <chord name="C"/>Mosogass meg a <chord name="G"/>bűneimtől, <chord name="Am"/>tisztogass meg a <chord name="E"/>vétkeimtől!<br/><chord name="Am"/>Vétkemet el<chord name="D"/>ismerem, <chord name="F"/>bűnöm <chord name="E"/>előttem áll <chord name="Am"/>szüntelen. :‖</lines>
     </verse>
   </lyrics>
 </song>

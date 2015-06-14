@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="Em"/>Í<chord name="Am"/>mé, mily jó gyönyö<chord name="Em"/>rűséges a <chord name="G"/>testvé<chord name="D"/>rek egy<chord name="Em"/>sége! :||<br/>Mint a <chord name="A"/>drága olaj a fejen, mint a <chord name="D"/>Hermon harmat<chord name="A"/>ja.<br/>Csak oda <chord name="A"/>küld áldást az <chord name="A"/>Úr, és <chord name="D"/>életet ö<chord name="A"/>rökké<chord name="Am"/>.</lines>
+      <lines>‖: <chord name="Em"/>Í<chord name="Am"/>mé, mily jó gyönyö<chord name="Em"/>rűséges a <chord name="G"/>testvé<chord name="D"/>rek egy<chord name="Em"/>sége! :‖<br/>Mint a <chord name="A"/>drága olaj a fejen, mint a <chord name="D"/>Hermon harmat<chord name="A"/>ja.<br/>Csak oda <chord name="A"/>küld áldást az <chord name="A"/>Úr, és <chord name="D"/>életet ö<chord name="A"/>rökké<chord name="Am"/>.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="Em"/>Hi<chord name="Am"/>ney mah tov u<chord name="Em"/>mah naim <chord name="G"/>shevet ac<chord name="D"/>him gam <chord name="Em"/>yachad. :||<br/>||: <chord name="Em"/>Hiney mah tov, hiney mah tov, la-la-<chord name="Dm"/>la...<chord name="Em"/> :||</lines>
+      <lines>‖: <chord name="Em"/>Hi<chord name="Am"/>ney mah tov u<chord name="Em"/>mah naim <chord name="G"/>shevet ac<chord name="D"/>him gam <chord name="Em"/>yachad. :‖<br/>‖: <chord name="Em"/>Hiney mah tov, hiney mah tov, la-la-<chord name="Dm"/>la…<chord name="Em"/> :‖</lines>
     </verse>
   </lyrics>
 </song>

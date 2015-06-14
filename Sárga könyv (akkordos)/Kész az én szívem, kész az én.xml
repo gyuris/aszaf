@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="D"/>Kész az én szí<chord name="Em7"/>vem, <chord name="A"/>kész az én szí<chord name="D"/>vem, ó Uram!<br/><chord name="Em"/>Magasz<chord name="A"/>tallak és <chord name="D"/>ének<chord name="Hm"/>kel <chord name="Em"/>dicső<chord name="A"/>ítelek <chord name="D"/>Téged. :||<br/>||: <chord name="Em"/>Dicső<chord name="A"/>ítelek <chord name="D"/>Téged! :||(3x)</lines>
+      <lines>‖: <chord name="D"/>Kész az én szí<chord name="Em7"/>vem, <chord name="A"/>kész az én szí<chord name="D"/>vem, ó Uram!<br/><chord name="Em"/>Magasz<chord name="A"/>tallak és <chord name="D"/>ének<chord name="Hm"/>kel <chord name="Em"/>dicső<chord name="A"/>ítelek <chord name="D"/>Téged. :‖<br/>‖: <chord name="Em"/>Dicső<chord name="A"/>ítelek <chord name="D"/>Téged! :‖×3</lines>
     </verse>
   </lyrics>
 </song>

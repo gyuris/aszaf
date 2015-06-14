@@ -14,16 +14,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="A"/> <chord name="A7"/> <chord name="D"/> <chord name="E"/> :||<chord name="E7"/> <chord name="A"/><br/><chord name="A"/>Nap, hold, <chord name="E7"/>csillagok, <chord name="D"/>szépen ra<chord name="E"/>gyogjatok,<br/><chord name="A"/>Máriához <chord name="D"/>száll most az <chord name="C#m"/>é<chord name="E"/>nek!<br/><chord name="A"/>Kéklő <chord name="E7"/>tengerek, <chord name="D"/>égigérő <chord name="E"/>nagy hegyek<br/><chord name="A"/>Máriát <chord name="E"/>velünk köszönt<chord name="A"/>sé<chord name="A"/>tek<chord name="A7"/>! <chord name="D"/> <chord name="E"/> <chord name="A"/> <chord name="A7"/> <chord name="D"/> <chord name="E"/> <chord name="E7"/> <chord name="A"/></lines>
+      <lines>‖: <chord name="A"/> <chord name="A7"/> <chord name="D"/> <chord name="E"/> :‖<chord name="E7"/> <chord name="A"/><br/><chord name="A"/>Nap, hold, <chord name="E7"/>csillagok, <chord name="D"/>szépen ra<chord name="E"/>gyogjatok,<br/><chord name="A"/>Máriához <chord name="D"/>száll most az <chord name="C#m"/>é<chord name="E"/>nek!<br/><chord name="A"/>Kéklő <chord name="E7"/>tengerek, <chord name="D"/>égigérő <chord name="E"/>nagy hegyek<br/><chord name="A"/>Máriát <chord name="E"/>velünk köszönt<chord name="A"/>sé<chord name="A"/>tek<chord name="A7"/>! <chord name="D"/> <chord name="E"/> <chord name="A"/> <chord name="A7"/> <chord name="D"/> <chord name="E"/> <chord name="E7"/> <chord name="A"/></lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="A"/>Szeretünk Téged <chord name="E"/>Mária, <chord name="E7"/>Mária!<br/><chord name="E"/>Szeretünk Téged <chord name="A"/>Mária, <chord name="A"/>Mária!<br/>Te <chord name="A"/>minden ember anyja <chord name="D"/>vagy,<br/>||: az <chord name="E"/>úton, kérünk <chord name="A"/>el ne hagyj, el ne <chord name="D"/>hagyj, :||<br/>az <chord name="E"/>úton!</lines>
+      <lines><chord name="A"/>Szeretünk Téged <chord name="E"/>Mária, <chord name="E7"/>Mária!<br/><chord name="E"/>Szeretünk Téged <chord name="A"/>Mária, <chord name="A"/>Mária!<br/>Te <chord name="A"/>minden ember anyja <chord name="D"/>vagy,<br/>‖: az <chord name="E"/>úton, kérünk <chord name="A"/>el ne hagyj, el ne <chord name="D"/>hagyj, :‖<br/>az <chord name="E"/>úton!</lines>
     </verse>
     <verse name="v3">
       <lines><chord name="A"/>Édesanyánk <chord name="E7"/>melegét, <chord name="D"/>gyermekévek <chord name="E"/>örömét,<br/><chord name="A"/>mindent <chord name="D"/>megköszönünk <chord name="C#m"/>Né<chord name="E"/>ked.<br/><chord name="A"/>Hét tőr <chord name="E7"/>fájdalmát, <chord name="D"/>szent Fiad <chord name="E"/>halálát,<br/><chord name="A"/>mindent <chord name="E"/>megköszönünk <chord name="A"/>Né<chord name="A"/>ked<chord name="A7"/>!<chord name="D"/> <chord name="E"/> <chord name="A"/> <chord name="A7"/> <chord name="D"/> <chord name="E"/> <chord name="E7"/> <chord name="A"/></lines>
     </verse>
     <verse name="v4">
-      <lines><chord name="A"/>Szeretünk Téged <chord name="E"/>Mária, <chord name="E7"/>Mária!<br/><chord name="E"/>Szeretünk Téged <chord name="A"/>Mária, <chord name="A"/>Mária!<br/>Te <chord name="A"/>minden ember anyja <chord name="D"/>vagy,<br/>||: az <chord name="E"/>úton, kérünk <chord name="A"/>el ne hagyj, el ne <chord name="D"/>hagyj, :||<br/>az <chord name="E"/>úton!</lines>
+      <lines><chord name="A"/>Szeretünk Téged <chord name="E"/>Mária, <chord name="E7"/>Mária!<br/><chord name="E"/>Szeretünk Téged <chord name="A"/>Mária, <chord name="A"/>Mária!<br/>Te <chord name="A"/>minden ember anyja <chord name="D"/>vagy,<br/>‖: az <chord name="E"/>úton, kérünk <chord name="A"/>el ne hagyj, el ne <chord name="D"/>hagyj, :‖<br/>az <chord name="E"/>úton!</lines>
     </verse>
   </lyrics>
 </song>

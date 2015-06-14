@@ -20,7 +20,7 @@
       <lines>Ki <chord name="Dm"/>táplálja az ég madarait,<br/>ki <chord name="Gm"/>öltözteti a rét virágait,<br/><chord name="H-"/>jól tudja azt, hogy <chord name="F"/>ezek kelle<chord name="Dm"/>nek,<br/><chord name="C"/>mért nyugta<chord name="Dm"/>lan <chord name="C"/>a szíve<chord name="Dm"/>tek?</lines>
     </verse>
     <verse name="v3">
-      <lines>||: <chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja! :||<br/><chord name="C7"/>Alleluja, alle<chord name="F"/>luja!<br/><chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja!</lines>
+      <lines>‖: <chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja! :‖<br/><chord name="C7"/>Alleluja, alle<chord name="F"/>luja!<br/><chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja!</lines>
     </verse>
     <verse name="v4">
       <lines><chord name="Dm"/>Ne gyűjts itt a földön kincseket,<br/><chord name="Gm"/>ott van a szíved, hol őrzöd kincsedet,<br/><chord name="H-"/>Isten orszá<chord name="F"/>ga a te ha<chord name="Dm"/>zád.<br/><chord name="C"/>Egyedül <chord name="Dm"/>Őt szolgáld,<chord name="C"/> az ég U<chord name="Dm"/>rát!</lines>
@@ -29,7 +29,7 @@
       <lines><chord name="Dm"/>Keressétek az Isten országát,<br/><chord name="Gm"/>keressétek az Ő igazságát,<br/><chord name="H-"/>Isten útján <chord name="F"/>járjad éle<chord name="Dm"/>ted,<br/><chord name="C"/>Atyánk <chord name="Dm"/>megadja majd,<chord name="C"/> mindazt, mi <chord name="Dm"/>kell neked.</lines>
     </verse>
     <verse name="v6">
-      <lines>||: <chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja! :||<br/><chord name="C7"/>Alleluja, alle<chord name="F"/>luja!<br/><chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja!</lines>
+      <lines>‖: <chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja! :‖<br/><chord name="C7"/>Alleluja, alle<chord name="F"/>luja!<br/><chord name="F"/>Alleluja, <chord name="Gm"/>alleluja, <chord name="A"/>alleluja, <chord name="Dm"/>alleluja!</lines>
     </verse>
   </lyrics>
 </song>

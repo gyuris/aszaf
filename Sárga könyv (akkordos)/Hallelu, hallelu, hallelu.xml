@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: Halle<chord name="G"/>lu', halle<chord name="G7"/>lu', halle<chord name="C"/>lu', halle<chord name="Am"/>luja, <chord name="G"/>ál<chord name="D"/>dott <chord name="D7"/>az <chord name="G"/>Úr! :||<br/><chord name="G"/>Áldott az <chord name="Am7"/>Úr, halleluja! <chord name="D"/>Ál<chord name="D7"/>dott az <chord name="G"/>Úr, halleluja!<br/><chord name="G7"/>Áldott az <chord name="C6"/>Úr, halleluja! <chord name="D"/>Ál<chord name="D7"/>dott az <chord name="G"/>Úr!</lines>
+      <lines>‖: Halle<chord name="G"/>lu', halle<chord name="G7"/>lu', halle<chord name="C"/>lu', halle<chord name="Am"/>luja, <chord name="G"/>ál<chord name="D"/>dott <chord name="D7"/>az <chord name="G"/>Úr! :‖<br/><chord name="G"/>Áldott az <chord name="Am7"/>Úr, halleluja! <chord name="D"/>Ál<chord name="D7"/>dott az <chord name="G"/>Úr, halleluja!<br/><chord name="G7"/>Áldott az <chord name="C6"/>Úr, halleluja! <chord name="D"/>Ál<chord name="D7"/>dott az <chord name="G"/>Úr!</lines>
     </verse>
   </lyrics>
 </song>

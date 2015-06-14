@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: Az <chord name="C"/>Isten szeret, az <chord name="F"/>Isten minket sze<chord name="G"/>ret<chord name="G7"/>.<br/>Az <chord name="E"/>Isten <chord name="E7"/>minket <chord name="Am"/>elszeret az <chord name="F6"/>apánktól, az <chord name="Dm"/>anyánktól,<br/>a <chord name="E"/>házunkból, a <chord name="Am"/>hazánkból.<br/><chord name="F6"/>Attól, mit <chord name="Dm"/>szerettünk, <chord name="E"/>és amit <chord name="Am"/>műveltünk.<br/><chord name="F6"/>Igen, Ő <chord name="G"/>elszeret! :||…és <chord name="G7"/>házába ve<chord name="C"/>zet<chord name="E"/>.<br/>Igen, Ő <chord name="Am"/>elszeret, és <chord name="G"/>házába ve<chord name="C"/>zet<chord name="F"/>.<chord name="Fm"/><chord name="C"/></lines>
+      <lines>‖: Az <chord name="C"/>Isten szeret, az <chord name="F"/>Isten minket sze<chord name="G"/>ret<chord name="G7"/>.<br/>Az <chord name="E"/>Isten <chord name="E7"/>minket <chord name="Am"/>elszeret az <chord name="F6"/>apánktól, az <chord name="Dm"/>anyánktól,<br/>a <chord name="E"/>házunkból, a <chord name="Am"/>hazánkból.<br/><chord name="F6"/>Attól, mit <chord name="Dm"/>szerettünk, <chord name="E"/>és amit <chord name="Am"/>műveltünk.<br/><chord name="F6"/>Igen, Ő <chord name="G"/>elszeret! :‖…és <chord name="G7"/>házába ve<chord name="C"/>zet<chord name="E"/>.<br/>Igen, Ő <chord name="Am"/>elszeret, és <chord name="G"/>házába ve<chord name="C"/>zet<chord name="F"/>.<chord name="Fm"/><chord name="C"/></lines>
     </verse>
   </lyrics>
 </song>

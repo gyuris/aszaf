@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>||: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :||<br/><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>megszülettél <chord name="Hm"/>szép Reményem.<br/><chord name="C"/>Csendben <chord name="Hm"/>pihensz <chord name="C"/>Anyád karján<br/><chord name="D"/>reménységünk <chord name="C"/>éjsza<chord name="D"/><chord name="C"/>ká<chord name="Em"/>ján.</lines>
+      <lines>‖: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :‖<br/><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>megszülettél <chord name="Hm"/>szép Reményem.<br/><chord name="C"/>Csendben <chord name="Hm"/>pihensz <chord name="C"/>Anyád karján<br/><chord name="D"/>reménységünk <chord name="C"/>éjsza<chord name="D"/><chord name="C"/>ká<chord name="Em"/>ján.</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>aludj csendben <chord name="Hm"/>szép Reményem!<br/><chord name="C"/>Atyád <chord name="Hm"/>őrzi <chord name="C"/>édes álmod,<br/><chord name="D"/>mint ahogy Te <chord name="C"/>a vi<chord name="D"/><chord name="C"/>lá<chord name="Em"/>got.<br/>||: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :||</lines>
+      <lines><chord name="Em"/>Csillag gyúlt a <chord name="D"/>sötét égen,<br/><chord name="C"/>aludj csendben <chord name="Hm"/>szép Reményem!<br/><chord name="C"/>Atyád <chord name="Hm"/>őrzi <chord name="C"/>édes álmod,<br/><chord name="D"/>mint ahogy Te <chord name="C"/>a vi<chord name="D"/><chord name="C"/>lá<chord name="Em"/>got.<br/>‖: <chord name="E"/> <chord name="E"/> <chord name="A"/> <chord name="E"/> <chord name="H7"/> <chord name="E"/> :‖</lines>
     </verse>
   </lyrics>
 </song>

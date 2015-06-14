@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="G"/> <chord name="G4"/> <chord name="G"/> <chord name="G4"/><br/>||: <chord name="G"/>Áldjuk az U<chord name="Am"/>rat, az <chord name="C"/>élő és igaz <chord name="G"/>Istent! :||<br/><chord name="G"/>Mondjunk neki dicsére<chord name="Am"/>tet, <chord name="C"/>dicsőséget, tisztele<chord name="G"/>tet,<br/><chord name="G"/>áldást, és minden <chord name="Am"/>jót! <chord name="C"/>Amen! Úgy le<chord name="G"/>gyen!<br/><chord name="G"/>Amen! A<chord name="Am"/>men! <chord name="C"/>Úgy legyen! Úgy le<chord name="G"/>gyen! :||</lines>
+      <lines><chord name="G"/> <chord name="G4"/> <chord name="G"/> <chord name="G4"/><br/>‖: <chord name="G"/>Áldjuk az U<chord name="Am"/>rat, az <chord name="C"/>élő és igaz <chord name="G"/>Istent! :‖<br/><chord name="G"/>Mondjunk neki dicsére<chord name="Am"/>tet, <chord name="C"/>dicsőséget, tisztele<chord name="G"/>tet,<br/><chord name="G"/>áldást, és minden <chord name="Am"/>jót! <chord name="C"/>Amen! Úgy le<chord name="G"/>gyen!<br/><chord name="G"/>Amen! A<chord name="Am"/>men! <chord name="C"/>Úgy legyen! Úgy le<chord name="G"/>gyen! :‖</lines>
     </verse>
     <verse name="v2">
       <lines><chord name="G"/>Áldjuk az U<chord name="Am"/>rat, az <chord name="C"/>élő és igaz <chord name="G"/>Istent!<br/><chord name="G"/>Amen! a<chord name="Am"/>men! <chord name="C"/>Úgy legyen! úgy le<chord name="G"/>gyen!</lines>

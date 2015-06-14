@@ -17,7 +17,7 @@
       <lines><chord name="Em"/> <chord name="Em7"/> <chord name="C"/> <chord name="H7"/><br/><chord name="Em"/>Üdvözlégy <chord name="C"/>Mária, <chord name="Am"/>malaszttal <chord name="D"/>teljes,<br/><chord name="G"/>az Úr van <chord name="Am"/>Teve<chord name="H7"/>led.<br/><chord name="Am"/>Áldott <chord name="D"/>vagy Te az <chord name="G"/>asszonyok <chord name="Em"/>között,<br/>és <chord name="Am"/>áldott <chord name="D"/>a Te <chord name="Em"/>méhednek <chord name="H7"/>gyümölcse, <chord name="Em"/>ó-<chord name="A"/>ó <chord name="Em"/>Jézus<chord name="D7"/>.</lines>
     </verse>
     <verse name="v2">
-      <lines>||: <chord name="G"/>Asszonyunk <chord name="D"/>Szűz Mári<chord name="G"/>a,<br/><chord name="Fo"/>Istennek szent any<chord name="Am"/>ja,<br/><chord name="D#o"/>imádkozz <chord name="Em"/>érettünk <chord name="C"/>bűnösö<chord name="H7"/>kért<br/><chord name="Em"/>most és <chord name="C"/>halálunk <chord name="Am"/>órá<chord name="H7"/>ján! :||<chord name="Em"/>Amen.<chord name="Em7"/> <chord name="Em6"/> <chord name="H"/></lines>
+      <lines>‖: <chord name="G"/>Asszonyunk <chord name="D"/>Szűz Mári<chord name="G"/>a,<br/><chord name="Fo"/>Istennek szent any<chord name="Am"/>ja,<br/><chord name="D#o"/>imádkozz <chord name="Em"/>érettünk <chord name="C"/>bűnösö<chord name="H7"/>kért<br/><chord name="Em"/>most és <chord name="C"/>halálunk <chord name="Am"/>órá<chord name="H7"/>ján! :‖<chord name="Em"/>Amen.<chord name="Em7"/> <chord name="Em6"/> <chord name="H"/></lines>
     </verse>
   </lyrics>
 </song>
