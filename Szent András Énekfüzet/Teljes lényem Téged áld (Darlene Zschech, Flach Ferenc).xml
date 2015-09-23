@@ -18,12 +18,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Teljes lényem Téged áld,<br />dicséri szent neved,<br />csak Rólad szól az egész életem.</lines>
-      <lines>Kihoztál a sötétből,<br />a fényed bennem ég,<br />szerelmed éneklem örökké,<br />szerelmed éneklem örökké!</lines>
+      <lines>Teljes lényem Téged áld,<br />dicséri szent neved,<br />csak Rólad szól az egész életem.<br />Kihoztál a sötétből,<br />a fényed bennem ég,<br />szerelmed éneklem örökké,<br />szerelmed éneklem örökké!</lines>
     </verse>
     <verse name="v2">
-      <lines>Dicsőséged lássa meg<br />minden nemzet, nép,<br />színed előtt hajtsa meg térdét.</lines>
-      <lines>Jézus, kérlek, olvaszd fel<br />a dermedt szíveket,<br />hogy megízleljék békéd, szereteted,<br />hogy megízleljék békéd, szereteted.</lines>
+      <lines>Dicsőséged lássa meg<br />minden nemzet, nép,<br />színed előtt hajtsa meg térdét.<br />Jézus, kérlek, olvaszd fel<br />a dermedt szíveket,<br />hogy megízleljék békéd, szereteted,<br />hogy megízleljék békéd, szereteted.</lines>
     </verse>
     <verse name="c1">
       <lines>Szent vagy, szent vagy, szent vagy, Uram!<br />Szent vagy, szent vagy, szent vagy, Uram!</lines>

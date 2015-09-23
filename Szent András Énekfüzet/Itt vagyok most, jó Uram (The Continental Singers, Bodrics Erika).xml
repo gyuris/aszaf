@@ -18,15 +18,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Itt vagyok most, jó Uram,<br />Hozzád száll e dal,<br />tudod, sokszor hívtalak,<br />de ma másként szól e hang,</lines>
-      <lines>mert ma nem azt kérem, hogy adj még,<br />nem könyörgök, figyelj rám,<br />csak azt mondom, hogy szeretlek, Atyám!</lines>
+      <lines>Itt vagyok most, jó Uram,<br />Hozzád száll e dal,<br />tudod, sokszor hívtalak,<br />de ma másként szól e hang,<br />mert ma nem azt kérem, hogy adj még,<br />nem könyörgök, figyelj rám,<br />csak azt mondom, hogy szeretlek, Atyám!</lines>
     </verse>
     <verse name="c1">
       <lines>Szeretlek, ó, Uram, hálám szívemből fakad,<br />hiszen mindent látsz Te bennem,<br />hatalmad olyan nagy!<br />Szeretlek, ó, Uram, hálám szívemből fakad,<br />és éneklem, hogy áldott légy, Uram!</lines>
     </verse>
     <verse name="v2">
-      <lines>Ismét térden állok én,<br />s tudom, hogy hallgatsz rám.<br />Bár sokszor hideg szavakat szól<br />kopott és halk imám.</lines>
-      <lines>De most el kell, hogy mondjam egyszer,<br />amit oly rég szeretnék, hogy szeretlek,<br />és szívem csak Tiéd!</lines>
+      <lines>Ismét térden állok én,<br />s tudom, hogy hallgatsz rám.<br />Bár sokszor hideg szavakat szól<br />kopott és halk imám.<br />De most el kell, hogy mondjam egyszer,<br />amit oly rég szeretnék, hogy szeretlek,<br />és szívem csak Tiéd!</lines>
     </verse>
   </lyrics>
 </song>
