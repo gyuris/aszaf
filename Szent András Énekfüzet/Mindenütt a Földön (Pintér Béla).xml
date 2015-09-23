@@ -11,7 +11,7 @@
     <songbooks>
       <songbook entry="301" name="Szent András Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 v2 c1 v3 c1 b1</verseOrder>
+    <verseOrder>v1 v2 c1 v3 c1 b1a b1b</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -26,8 +26,11 @@
     <verse name="v3">
       <lines>Senki nem tud úgy szeretni, ahogy az Úr szeret.<br />Ha elhagyna mindenki, Ő megmarad neked.<br />Mert nem tud nem szeretni, hiszen Ő a szeretet.<br />Mindent elhordoz, ha kell, sok vétket elfedez.</lines>
     </verse>
-    <verse name="b1">
-      <lines>A szeretet Istene téged is elér, <br />Ha nyitva a szíved és oda még befér.<br />Ha nem vagy telve indulattal, <br />gyűlölettel és haraggal.<br />A szeretet megtalál bárhol is legyél. <br />Nyisd ki a szíved és bízz benne, ne félj! <br />Megváltozhat az életed, <br />úgy, ahogy nem is képzeled.</lines>
+    <verse name="b1a">
+      <lines>A szeretet Istene téged is elér, <br />Ha nyitva a szíved és oda még befér.<br />Ha nem vagy telve indulattal, <br />gyűlölettel és haraggal.</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>A szeretet megtalál bárhol is legyél. <br />Nyisd ki a szíved és bízz benne, ne félj! <br />Megváltozhat az életed, <br />úgy, ahogy nem is képzeled.</lines>
     </verse>
   </lyrics>
 </song>
