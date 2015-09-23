@@ -14,7 +14,7 @@
       <songbook entry="226" name="Szent András Énekfüzet" />
     </songbooks>
     <copyright>© 1995 Kuban, Steve</copyright>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -22,6 +22,9 @@
     </verse>
     <verse name="c1">
       <lines>Áldott legyen az Ő neve, áldott legyen az Ő neve,<br />áldott legyen az Ő neve, örökké, (örökké)!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Ő neve bástya, erős vár, aki ma Hozzá fut, az megmenekül.</lines>
     </verse>
   </lyrics>
 </song>
