@@ -1,0 +1,9 @@
+{
+  "name": "asaf",
+  "description": "Simple Travis-CI check",
+  "author": "Gyuris Gellért",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "./util/build.js"
+  }
+}

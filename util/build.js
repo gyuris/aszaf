@@ -21,7 +21,7 @@ var json2csv = require('json2csv');
  */
 const MASTER    = 'master/'; // a mester könyvtár helye a util-hoz viszonyítva
 const EXPORT    = 'songbooks/'; // az export könyvtár helye a util-hoz viszonyítva
-const ARCHIVE   = '.'; // a végleges csomagolt fájlok helye
+const ARCHIVE   = './'; // a végleges csomagolt fájlok helye
 const NAMESPACE = 'http://openlyrics.info/namespace/2009/song';
  
 /**
