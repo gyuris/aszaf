@@ -1,4 +1,5 @@
 language: node_js
+sudo: required
 node_js:
   - "4.1"
   - "4.0"
@@ -6,6 +7,9 @@ node_js:
   - "0.11"
   - "0.10"
   - "iojs"
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq p7zip-full
 install:
   - npm install xpath
   - npm install xmldom
