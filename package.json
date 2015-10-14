@@ -4,6 +4,6 @@
   "author": "Gyuris Gellért",
   "version": "0.0.1",
   "scripts": {
-    "test": "nodejs ./util/build.js"
+    "test": "node ./util/build.js"
   }
 }
