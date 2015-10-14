@@ -1,0 +1,3 @@
+# a build folyamat állományainak kizárása
+
+/songbooks/*
