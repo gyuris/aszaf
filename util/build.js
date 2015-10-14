@@ -19,9 +19,9 @@ var json2csv = require('json2csv');
 /**
  * Állandók
  */
-const MASTER    = '../master/'; // a mester könyvtár helye a util-hoz viszonyítva
-const EXPORT    = '../songbooks/'; // az export könyvtár helye a util-hoz viszonyítva
-const ARCHIVE   = '../'; // a végleges csomagolt fájlok helye
+const MASTER    = 'master/'; // a mester könyvtár helye a util-hoz viszonyítva
+const EXPORT    = 'songbooks/'; // az export könyvtár helye a util-hoz viszonyítva
+const ARCHIVE   = '.'; // a végleges csomagolt fájlok helye
 const NAMESPACE = 'http://openlyrics.info/namespace/2009/song';
  
 /**
@@ -29,6 +29,10 @@ const NAMESPACE = 'http://openlyrics.info/namespace/2009/song';
  */
 // jegyzék
 var index = { global : [], local : [] };
+// munkamappa létrehozása
+if (!fs.existsSync(EXPORT)){
+    fs.mkdirSync(EXPORT);
+};
 // olvassuk az összes fájlt a könyvtárból egyenként
 var files = fs.readdirSync(MASTER);
 for (var i in files) {
