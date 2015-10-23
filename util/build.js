@@ -48,7 +48,7 @@ for (var i in files) {
     var data   = {
         title       : select('//song:title[@lang="hu"][1]/text()', doc).join(),
         alternate   : select('//song:title[@lang="hu"][2]/text()', doc).join(),
-        original    : select('//song:title[@lang="en"][1]/text()', doc).join(),
+        original    : select('//song:title[@lang!="hu"][1]/text()', doc).join(),
         words       : select('//song:author[@type="words"]/text()', doc).join(', '),
         music       : select('//song:author[@type="music"]/text()', doc).join(', '),
         translation : select('//song:author[@type="translation"][@lang="hu"]/text()', doc).join(', '),
