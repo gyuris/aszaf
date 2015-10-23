@@ -97,7 +97,8 @@ for (var i in files) {
             "Zene szerzői" : data.music,
             "Fordítók" : data.translation,
             "Variáns" : data.variant,
-            "Copyright" : data.copyright
+            "Copyright" : data.copyright,
+            "Állomány" : files[i]
         });
         // globális jegyzékbe szánt többszörös gyűjtemény
         data.songbooks.push(data.songbook + " (" + data.entry + ")");
@@ -112,7 +113,8 @@ for (var i in files) {
         "Fordítók" : data.translation,
         "Variáns" : data.variant,
         "Copyright" : data.copyright,
-        "Gyűjtemény" : data.songbooks.join(', ')
+        "Gyűjtemény" : data.songbooks.join(', '),
+        "Állomány" : files[i]
     });
 };
 
@@ -120,13 +122,13 @@ for (var i in files) {
  * Jegyzék kiírása
  */
 // globális jegyzék
-json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény" ] }, function(err, csv) {
+json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény", "Állomány" ] }, function(err, csv) {
     if (err) console.log(err);
     fs.writeFileSync( ARCHIVE + '/Tartalomjegyzék.csv', csv);
 });
 // lokális jegyzék
 for (i in index.local) {
-    json2csv({ data: index.local[i], fields: [ "Gyűjtemény", "Sorszám", "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright" ] }, function(err, csv) {
+    json2csv({ data: index.local[i], fields: [ "Gyűjtemény", "Sorszám", "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Állomány" ] }, function(err, csv) {
         if (err) console.log(err);
         fs.writeFileSync( EXPORT + i + '/Tartalomjegyzék.csv', csv);
     });
@@ -141,9 +143,11 @@ for (var i in files) {
     // minden gyűjteménynek létrehozunk egy 7z csomagot
     var archive = new zip();
     // beolvasunk mindent xml fájlt és elmentjük a gyökérbe a gyűjtemény nevével
-    archive.add( ARCHIVE + files[i] + '.7z', [EXPORT + files[i] + '/*.xml',EXPORT + files[i] + '/*.csv'])
+    archive.add( ARCHIVE + files[i] + '.7z', EXPORT + files[i], {
+      wildcards: [ '*.xml', '*.csv' ]
+    })
     .progress(function (files) {
-        //console.log( 'Zipped -> %s', files);
+        console.log( 'Zipped -> %s', files);
     })
     .catch(function (err) {
         console.error(err);
