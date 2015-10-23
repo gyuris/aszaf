@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Némán nézel az égre fel</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="452"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Némán nézel az égre fel<br/>Tűnődve valamit keresel. :‖<br/>‖: Az Ég vendége a Föld, a Föld vendége az Ég,<br/>Egymás nélkül mi sem élhetnénk! :‖<br/>‖: Madárdal szól a távolból, egy röpke hang,<br/>a szívedhez szól! :‖<br/>‖: ó-ó… :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: A Hold vendége a Nap, a Nap vendége a Hold,<br/>Némán dicsérik Ők a holnapot! :‖<br/>‖: Kérdeznél bár de nem teszed a válasz ott van<br/>hol életed! :‖<br/>‖: ó-ó… :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Ég vendége a Föld, a Föld vendége az Ég,<br/>Egymás nélkül mi sem élhetnénk!<br/>A Hol vendége a Nap, a Nap vendége a Hold,<br/>Némán dicsérik Ők a holnapot!</lines>
+    </verse>
+  </lyrics>
+</song>

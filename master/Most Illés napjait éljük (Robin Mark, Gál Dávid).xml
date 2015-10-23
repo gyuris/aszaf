@@ -12,6 +12,7 @@
     </authors>
     <songbooks>
       <songbook entry="141" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="440"/>
     </songbooks>
     <copyright>© 1996 Song Solutions Daybreak</copyright>
     <verseOrder>v1 c1 v2 c1</verseOrder>

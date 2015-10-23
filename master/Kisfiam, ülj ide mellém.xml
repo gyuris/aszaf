@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Kisfiam, ülj ide mellém</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kisfiam, ülj ide mellém,<br/>Figyeld jól, amit most mondok!<br/>Kisfiam, én csak azt szeretném,<br/>Hogy mindig jó légy és boldog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életünk rövid a földön,<br/>De lelkünk örökre megmarad,<br/>Életünk rövid a földön,<br/>És az idő gyorsan elszalad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kisfiam, még nagyon kicsi vagy,<br/>De egyszer te is nagy leszel,<br/>Nem érted most még e szavakat,<br/>De később sokszor mondd majd el!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, szent, szent az Isten,<br/>Ő a világ ura és teremtője,<br/>Dicsősége betölti földünket és mindent,<br/>Mit az ember még nem ismerhet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kisfiam, még nagyon kicsi vagy,<br/>De egyszer te is nagy leszel,<br/>Nem érted most még e szavakat,<br/>De később sokszor mondd majd el!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent, szent, szent az Isten,<br/>Ő a világ ura és teremtője,<br/>Dicsősége betölti földünket és mindent,<br/>Mit az ember még nem ismerhet!</lines>
+    </verse>
+  </lyrics>
+</song>

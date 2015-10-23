@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Zúgó szél, égi vihar, jöjj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖<br/>Rajtunk hatalmat - te vehetsz,<br/>Újjá, tisztává - te tehetsz,<br/>Isteni erő van tenálad,<br/>Tégy vele most nagy, szép csodákat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖<br/>Erőddel a szíveken zúgj át és<br/>Szellőztesd ki minden zugát,<br/>Szellőztess ki országot, népet,<br/>Az egész nagy földkerekséget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖<br/>Földengés, mely nem ront, de épít,<br/>Pusztítás, mely tisztít és szépít,<br/>Vihar, mely alkot, tűz, mely éltet<br/>Embert, családot, földet, népet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖<br/>Hiába pénz, ravaszság, fegyver,<br/>Csak nyomorult marad ó, az ember.<br/>S milliók kérnek, mert belátják:<br/>Nem segít más, csak az imádság.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖<br/>Söpörd el a bűnt, a gyanakvást,<br/>S tedd, hogy végre szeressük egymást!<br/>Hívunk Téged, jöjj Szent Vihar,<br/>Ég tisztító lángjaival!<br/>‖: Zúgó szél, égi vihar, jöjj a Lélek lángjaival! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

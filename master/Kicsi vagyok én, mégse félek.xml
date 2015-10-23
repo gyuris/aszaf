@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Kicsi vagyok én, mégse félek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kicsi vagyok én, mégse félek én,<br/>Kicsi vagyok én, mégse félek én,<br/>Semmi baj nem lehet,<br/>mert engem Jézus szeret,<br/>kicsi vagyok én, mégse félek én.<br/>La, la…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Boldog is vagyok, az is maradok, :‖<br/>rossz kedvem nem lehet,<br/>mert engem Jézus szeret,<br/>boldog is vagyok, az is maradok.<br/>La, la…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‖: Erdőn, réteken száll az énekem, :‖<br/>tudja meg a világ,<br/>hogy Jézus a boldogság,<br/>erdőn, réteken száll az énekem.<br/>La, la…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Utcán, tereken nem hagy el sosem, :‖<br/>mindenkit így szeret,<br/>mert Jézus a szeretet:<br/>utcán, tereken, nem hagy el sosem!<br/>La, la…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Ha egyedül élsz, s minden</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="465"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha egyedül élsz, s minden álmod elhagyott,<br/>Ha egyedül élsz, s minden hited elfogyott,<br/>Ne hidd, hogy nincs erő, mely felemel,<br/>Ne hidd, hogy nincs erő, mely áttüzel,<br/>Ne hidd, hogy nincs erő, hisz égni kell!<br/>Élő láng lobbanj fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert Jézus az Úr, minden sebet Ő gyógyít.<br/>Mert Jézus az Úr, minden bűntől megszabadít.<br/>Hozzád is Ő jött el, hogy elvigyen,<br/>Hozzád is Ő jött el, hogy elvigyen.<br/>Hozzád is Ő jött el, s nem hagy el!<br/>Élő láng lobbanj fel!<br/>Jöjj teremts újjá én Istenem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Újra légy enyém, újra légy enyém,<br/>Újra légy enyém Krisztusom!<br/>Tisztíts meg engem, emelj fel engem,<br/>Tölts el lángoló élettel!<br/>Á…<br/>Teremts újjá én Istenem engem!</lines>
+    </verse>
+  </lyrics>
+</song>

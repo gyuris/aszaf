@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Krisztusnak teste s vére lett</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztusnak teste s vére lett<br/>az ételünk<br/>Őt fogadjuk most, ki megszabadít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kenyér, amit eszünk, már nem kenyér,<br/>A bor, amit iszunk, már nem bor.<br/>Ez valóban a feltámadott Krisztus teste és vére,<br/>ki annyira szeret minket, hogy ételül adja magát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztusnak teste s vére lett<br/>az ételünk<br/>Őt fogadjuk most, ki megszabadít.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten, akit szolgálunk, nem távollevő.<br/>Isten, akit magunkhoz veszünk, nem könyörtelen.<br/>Ő igazán gyöngéd és szerető Isten,<br/>ki oly közeli, hogy bennünk akar lakni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krisztusnak teste s vére lett<br/>az ételünk<br/>Őt fogadjuk most, ki megszabadít.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én vagyok az élet kenyere.<br/>Atyáitok mannát ettek és meghaltak.<br/>Ez a mennyből alászállt kenyér,<br/>hogy együnk és ne haljunk meg.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Krisztusnak teste s vére lett<br/>az ételünk<br/>Őt fogadjuk most, ki megszabadít.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Én vagyok a mennyből alászállott élő kenyér.<br/>Örökké fog élni, ki ebből eszik.<br/>A kenyér, amelyet én adok,<br/>az én testem a világ életéért.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Krisztusnak teste s vére lett<br/>az ételünk<br/>Őt fogadjuk most, ki megszabadít.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Aki eszi az én testemet és issza az én véremet,<br/>bennem marad és én őbenne.<br/>Amint én az atya által élek, aki engem küldött,<br/>ugyanúgy, aki engem eszik, általam él.</lines>
+    </verse>
+  </lyrics>
+</song>

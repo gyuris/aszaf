@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Táncra perdül a lelkem, ha</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Táncra perdül a lelkem, ha hozzám szólsz,<br/>Ha szemembe nézel, átkarolsz!<br/>Nincs semmi félelem, nincs semmi baj:<br/>Te lettél a dal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vártam a percet és eljött a nap,<br/>Hogy érezzem két kezed, halljam szavad.<br/>Lázadtam ellened, nem hittem el…<br/>De kigyulladt bennem a jel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Táncra perdül a lelkem, ha hozzám szólsz,<br/>Ha szemembe nézel, átkarolsz!<br/>Nincs semmi félelem, nincs semmi baj:<br/>Te lettél a dal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maradj még, kérlek, Te légy a tűz!<br/>Kételyek éjjelét messzire űzd!<br/>Hallom a hangod a szívemen csók,<br/>Mely megőrzi bennem a jót!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Táncra perdül a lelkem, ha hozzám szólsz,<br/>Ha szemembe nézel, átkarolsz!<br/>Nincs semmi félelem, nincs semmi baj:<br/>Te lettél a dal!</lines>
+    </verse>
+  </lyrics>
+</song>
