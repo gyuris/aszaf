@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Irgalmazz énnekem, jó Atyám</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="472"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irgalmazz énnekem, jó Atyám,<br/>Istenem irgalmazz énnekem.<br/>Kegyelmezz Jézusom, megváltó Jézusom,<br/>Kegyelmezz, Jézusom.<br/>Irgalmazz minekünk, Szentlélek Istenünk!<br/>Irgalmazz minekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség az Atyának, a Fiúnak, a Szentléleknek!<br/>Miképpen kezdetben, most és mindörökké!<br/>Mint éltető harmat vagy napfény a völgyre,<br/>szálljon úgy ránk az isteni béke!<br/>Dicsőség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindenségnek Istene,<br/>égen, földön, minden lélek<br/>dicsérettel van tele,<br/>zeng a lelkem is vele!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :‖</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott az Úr nevében,<br/>Itt jön égi fennségben<br/>égnek és földnek Istene<br/>Hozsannázzunk mind vele!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>‖: Szent, szent, szent az Úr a mennybe' fent!<br/>Szent, szent, szent az Úr a mennybe' fent! :‖</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bűneinket égi Bárány<br/>szent vérednek drága árán<br/>mind elveszed<br/>Irgalmazz nekem!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bűneinket égi Bárány<br/>szent vérednek drága árán<br/>mind elveszed<br/>Irgalmazz nekünk!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bűneinket égi Bárány<br/>szent vérednek drága árán<br/>mind elveszed<br/>Adj békét nekünk!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nem vagyok rá méltó,<br/>hogy lelkembe szállj,<br/>csak egy szóval mondjad<br/>Jézus Te nagy király.</lines>
+    </verse>
+  </lyrics>
+</song>

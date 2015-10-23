@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Gazdagon megáldalak</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="355"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gazdagon megáldalak,<br/>utódaidat megsokasítom,<br/>mint az ég csillagait<br/>és a tengerpart fövényét.<br/>Utódaid elfoglalják majd<br/>az ellenség kapuját.<br/>Utódaid által nyer áldást<br/>a föld minden népe,<br/>mivel hallgattál szavamra!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én El Shaddáj vagyok,<br/>járj előttem és légy tökéletes.<br/>Szövetséget hozok létre<br/>köztem és közted, s megsokasítalak.<br/>Te népek sokaságának atyja leszel,<br/>királyok származnak tőled,<br/>szövetséget hozok létre<br/>utánad utódaid között,<br/>minden nemzedéken át.<br/>Ez örök szövetség lesz,<br/>s én a te Istened leszek.</lines>
+    </verse>
+  </lyrics>
+</song>

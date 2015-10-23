@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Anyánk vagy az égben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyánk vagy az égben,<br/>Ruhád a nap, tündökölsz a fényben.<br/>Lábad alatt a Hold, Koronáznak csillagok.<br/>Mária, Mária ragyogj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csöndes jelenlét, aggódó anya,<br/>Istenre figyelő, hogy mi az akarata.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anyánk vagy az égben,<br/>Ruhád a nap, tündökölsz a fényben.<br/>Lábad alatt a Hold, Koronáznak csillagok.<br/>Mária, Mária ragyogj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hét tőrrel átjárt, fájdalmak szíve,<br/>A szenvedést is vállaló, mert nagy az Ő hite.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Anyánk vagy az égben,<br/>Ruhád a nap, tündökölsz a fényben.<br/>Lábad alatt a Hold, Koronáznak csillagok.<br/>Mária, Mária ragyogj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Minden ember anyja, igaz menekítő,<br/>Oltalom és védelem, velünk könyörgő.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Anyánk vagy az égben,<br/>Ruhád a nap, tündökölsz a fényben.<br/>Lábad alatt a Hold, Koronáznak csillagok.<br/>Mária, Mária ragyogj!</lines>
+    </verse>
+  </lyrics>
+</song>

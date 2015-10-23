@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, malaszttal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Hollósy Péter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, malaszttal teljes, az Úr van Teveled.<br/>Áldott vagy Te az asszonyok között<br/>És áldott a Te méhednek gyümölcse, Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asszonyunk Szűz Mária, Istennek Szent Anyja.<br/>Imádkozz érettünk, bűnösökért.<br/>Most és halálunk óráján, Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

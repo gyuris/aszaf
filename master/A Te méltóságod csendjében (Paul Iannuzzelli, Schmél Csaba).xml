@@ -12,6 +12,7 @@
     </authors>
     <songbooks>
       <songbook entry="45" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="424"/>
     </songbooks>
     <copyright>© 1993 Hillsong Music Publishing</copyright>
     <verseOrder>v1 v2 c1</verseOrder>

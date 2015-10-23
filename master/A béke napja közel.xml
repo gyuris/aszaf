@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>A béke napja közel</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A béke napja közel,<br/>Nézdd már fénylik a jel,<br/>Jézus a szíve a Földön, az Égen,<br/>Mindent egybe ölel.</lines>
+    </verse>
+  </lyrics>
+</song>

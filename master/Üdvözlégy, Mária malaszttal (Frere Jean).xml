@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Üdvözlégy, Mária malaszttal</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Frere Jean</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy, Mária malaszttal teljes,<br/>az Úr van teveled.<br/>Áldott vagy Te az asszonyok között,<br/>És áldott a Te méhednek gyümölcse, Jézus.<br/>Asszonyunk Szűz Mária,<br/>Istennek Szent anyja,<br/>Imádkozz érettünk, bűnösökért,<br/>Most és halálunk óráján,<br/>amen, amen, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

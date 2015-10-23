@@ -10,6 +10,7 @@
     </authors>
     <songbooks>
       <songbook entry="212" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="224"/>
     </songbooks>
     <verseOrder>v1</verseOrder>
   </properties>

@@ -12,13 +12,14 @@
     </authors>
     <songbooks>
       <songbook entry="4" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="409"/>
     </songbooks>
     <copyright>© 1982 Mercy / Vineyard Publishing</copyright>
     <verseOrder>v1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: Kiáltok az Úrhoz, mert méltó, hogy Őt dicsérjük. :‖<br />Szabaddá tesz engem…<br />az ellenségtől!</lines>
+      <lines>‖: Kiáltok az Úrhoz, mert méltó, hogy Őt dicsérjük. :‖<br />‖: Szabaddá tesz engem… :‖<br />az ellenségtől!</lines>
     </verse>
   </lyrics>
 </song>

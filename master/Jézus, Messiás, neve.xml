@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Jézus, Messiás, neve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, Messiás, neve<br/>minden név fölött való!<br/>Ő a kezdet és a vég,<br/>az első és az utolsó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: És aki hallja, az mondja,<br/>hogy jövel! Aki szomjas,<br/>jöjjön el! És aki akarja, mind<br/>vegye el az életnek vizét ingyen! :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, Messiás, Dávid gyökere, ága<br/>Izrael reménysége, ama fényes<br/>szép hajnalcsillag.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: És aki hallja, az mondja,<br/>hogy jövel! Aki szomjas,<br/>jöjjön el! És aki akarja, mind<br/>vegyel el az életnek vizét ingyen! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

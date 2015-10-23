@@ -12,6 +12,7 @@
     </authors>
     <songbooks>
       <songbook entry="3" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="234"/>
     </songbooks>
     <copyright>© 1986 Integrity's Hosanna! Music</copyright>
     <verseOrder>c1 v1</verseOrder>
