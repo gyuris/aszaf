@@ -15,7 +15,7 @@
       <songbook entry="290" name="Szent András Énekfüzet" />
     </songbooks>
     <copyright>© 2002 Hillsong Music Publishing</copyright>
-    <verseOrder>v1 v2 b1 c1</verseOrder>
+    <verseOrder>v1 v2 p1 c1 b1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -24,11 +24,14 @@
     <verse name="v2">
       <lines>Te értem meghaltál, hogy végre éljek már<br />És most is bennem élsz,<br />Kegyelmed, Jézus, elég!</lines>
     </verse>
-    <verse name="b1">
+    <verse name="p1">
       <lines>Kell, hogy átölelj, és ne engedj el,<br />Hadd éljek most már örökké Veled!</lines>
     </verse>
     <verse name="c1">
       <lines>Mert Te rám találtál,<br />Megváltozott minden,<br />Jézus, Veled minden más.<br />Te jössz és átírod az életem,<br />hát hadd legyek Veled, örökké Veled.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Téged kereslek mindig…<br />Téged kereslek mindig.<br />(Mert) Jelenléted az, hol lenni vágyom én.</lines>
     </verse>
   </lyrics>
 </song>
