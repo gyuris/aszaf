@@ -36,6 +36,10 @@ if (!fs.existsSync(EXPORT)){
 // olvassuk az összes fájlt a könyvtárból egyenként
 var files = fs.readdirSync(MASTER);
 for (var i in files) {
+    // nem .xml fájl, pl. README.md
+    if ( files[i].toLowerCase().substr(files[i].length - 4) != '.xml' ) {
+        continue;
+    };
     // kiolvassuk a fájl statisztikai adatait, hogy később az időbélyeget be tudjuk állítani
     var stat = fs.statSync(MASTER + files[i]);
     // megnyitjuk a fájlt
