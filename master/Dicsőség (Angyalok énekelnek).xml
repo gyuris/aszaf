@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Dicsőség (Angyalok énekelnek)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség, dicsőség! Angyalok énekelnek.<br/>Dicsőség, dicsőség! Mennyben az Istennek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békesség, békesség földön az embernek!<br/>Békesség, békesség annak, aki szeret!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt van már, itt van már az emberré lett Isten,<br/>itt van már, itt van már kisgyermek szegényen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Téged vár, téged vár egyszerű jászol mellé,<br/>téged vár, téged vár, te is légy emberré!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség, dicsőség az örök Atyának!<br/>Dicsőség, dicsőség Egyszülött Fiának!<br/>Egyszülött Fiának!</lines>
+    </verse>
+  </lyrics>
+</song>

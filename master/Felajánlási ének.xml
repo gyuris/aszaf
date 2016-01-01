@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Felajánlási ének</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusunk, a pillanat közel,<br/>A lélek áhítattal Rád figyel,<br/>Tested lesz a kenyér, melyet szolgád fölajánl,<br/>ott vagyunk veled a vacsorán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztusunk, a pillanat közel,<br/>az ember döbbenten letérdepel!<br/>Véred lesz a bor, melyet most szolgád fölajánl,<br/>ott sírunk mi most a Golgotán…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Szent István-himnusz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jól megjelölte ezt az ezredévet.<br/>Kereszttel írta rá kemény nevét,<br/>hogy megpihenjen művein a Lélek,<br/>mint halhatatlan győzedelmi ék!<br/>Komor felhőkből bomlik a kék ég,<br/>virrasztva nézi népe ébredését,<br/>századok egén, reszket még a fény.<br/>‖: Zúgj szél szent vihar, szent István királyról szól a dal! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyes jobbja törvényt írt, keményet,<br/>hogy megkösse a rónák vad porát,<br/>Szőlő teremjen és kenyér fehérebb,<br/>mindenki meglelje otthonát.<br/>Áldott szigor, rendet hozó hűség,<br/>arany szív, mely tékozolja kincsét,<br/>új szívekben hát ragyogjon tovább!<br/>‖: Zúgj szél, szent vihar, szent István királyról szól a dal! :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Róla zengjen hát e lelkes ének,<br/>Uram, Téged dicsérünk általa.<br/>Ő volt a Te választott edényed,<br/>apostolod és a föld sava.<br/>Ő volt ama bibliai sáfár,<br/>kire de jó, hogy éppen rátaláltál,<br/>midőn megvirradt napunk hajnala.<br/>‖: Zúgj szél, szent vihar, szent István királyról szól a dal! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>A mélységből kiáltok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mélységből kiáltok Uram, hozzád! Hallgasd meg kérő szavam! Vétkeink sorát számon tartod, ki állhat eléd, Uram?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ám Te a bűnöket nem rovod fel, vétkeim megbocsátod, Bízom a szavadban és remélek, megtartod nagy jóságod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várja az én lelkem az Urat, jobban, mint hajnalt az őr, Mert nála bőséges az irgalom, Ő vált meg bűneimtől.</lines>
+    </verse>
+  </lyrics>
+</song>

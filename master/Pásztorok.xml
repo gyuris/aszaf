@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Pásztorok</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztorok, pásztorok messze a pusztában.<br/>Hajnal van, hajnal van végre a világban!<br/>Itt van már, itt van már Isten ígérete,<br/>rátok vár, rátok vár Urunk szeretete!<br/>‖: Mért vártok miért tétova szívetekkel,<br/>induljatok hamar, a csillag vezet el. :‖<br/>Érdemes, érdemes megkeresni Őt,<br/>boldogság, boldogság megtalálni Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

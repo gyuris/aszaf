@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Halld, Izrael</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halld, Izrael, az Úr nékünk Istenünk, az egyetlen Úr!<br/>Halld, Izrael, az Úr nékünk Istenünk, Ő az egyetlen.<br/>Halld, Izrael, az Úr nékünk Istenünk, az egyetlen Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Bless the Lord my soul</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Bless the Lord my soul, and bless his holy name,<br/>bless the Lord my soul who leads me into life. :‖<br/>‖: Áldott légy, Uram, szent neved áldja lelkem,<br/>Áldott légy, Uram, mert megváltottál már. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

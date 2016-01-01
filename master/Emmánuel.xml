@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Emmánuel</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Maga a fölséges Úr,maga az Isten adott nekünk jelet, hát lássátok és értsétek meg az Úr jelét! :‖<br/>‖: Emmánuel, Emmánuel, Urunk, Te itt vagy velünk! :‖<br/>Emmánuel, velünk az Úr, Emmánuel, velünk az Úr, Emmánuel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Íme, a Szüz méhében fogan, íme a Szüz áldott állapotban van, a Szentlélek Úristen csodája által! :‖<br/>‖: Emmánuel, Emmánuel,<br/>áldott légy, nagy Istenünk! :‖<br/>Emmánuel, velünk az Úr, Emmánuel, velünk az Úr, Emmánuel!</lines>
+    </verse>
+  </lyrics>
+</song>

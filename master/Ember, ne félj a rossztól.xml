@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Ember, ne félj a rossztól</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="53B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ember, ne félj a rossztól, ne félj a fájdalomtól,<br/>van, aki hallja hangod, ha mondod: szabadíts a gonosztól!<br/>Még magadat se féljed! Isten kezén a mérleg,<br/>Ha még oly semmi volnál, akkor is megnagyít a Lélek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha Napba, Holdba lőnek, örülj a szép erőnek!<br/>Isten mindent javára munkál az Istent szeretőnek.<br/>A kék magasba nézz föl! Ne kérdd, hogy meddig érsz föl!<br/>Egyet pillant az Isten, akkor egész lesz a részből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ember, a halál is csak ennyi! Ne félj elébe menni!<br/>Édes Atyád az Isten, röpül eléd ölelni,<br/>ember, ne félj a rossztól, ember, ne félj a rossztól, ember, ne félj a rossztól!</lines>
+    </verse>
+  </lyrics>
+</song>

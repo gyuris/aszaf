@@ -10,6 +10,7 @@
     </authors>
     <songbooks>
       <songbook name="Sárga könyv" entry="123"/>
+	  <songbook name="Kék Könyv" entry="153"/>
     </songbooks>
   </properties>
   <lyrics>

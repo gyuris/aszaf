@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Mária a példaképünk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária a példaképünk, reményünk, arra kérünk, add, hogy<br/>‖: hozzád hasonlóvá váljunk, a világban példád szerint járjunk.<br/>Általunk élj világunkban, szívünkben, hogy az Krisztust befogadni kész legyen.<br/>Jósággal, erősen, szeliden, szerényen, örömmel, szeretettel, békében. Jóság. :‖ ×4</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Ím, néped</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ím néped bort hoz kenyérrel, hívő örömmel,<br/>hogy áldd meg békéd jelével, vedd el, fogadd el!<br/>Dicsér a világ, mert áldásod árasztod reá,<br/>nekünk adod étkül önmagad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit fürtből kínál a szőlő: hoztuk örömmel,<br/>már bor lett, csillog örömtől: vedd el, fogadd el!<br/>Dicsér a világ, mert áldásod árasztod reá,<br/>nekünk adod étkül önmagad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma eggyé lett az egész nép: eljött örömmel,<br/>a szíve élő ajándék: vedd el, fogadd el!<br/>Dicsér a világ, mert áldásod árasztod reá,<br/>nekünk adod étkül önmagad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha mások várják erőnket: adjuk örömmel,<br/>mert együtt él az egész test: vedd el, fogadd el!<br/>Dicsér a világ, mert áldásod árasztod reá,<br/>nekünk adod étkül önmagad.</lines>
+    </verse>
+  </lyrics>
+</song>

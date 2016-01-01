@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Teremtő Tűzvész</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="314"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő Tűzvész, légy velünk, Szentlélek, édes Istenünk! Jöjj, Ölelő!<br/>Jöjj, Túlerő! Rád szomjas szellem és velő.<br/>Balzsam a szívben, ajkakon, ajándék, pecsét, hatalom!<br/>Te égi Hang! Te szent Galamb! Tengert teremtesz, partalant.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tűz teljessége, tünemény, hét lánggal égő fáklyafény! Szólj, Szerelem! Szólj nyelveken! Lángol és zeng a Végtelen.<br/>Fényár, mely bennünk fölfakad, te légy a boldog prikadat: légy új varázs! Légy óriás! Te légy a testnek gyógyulás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kergesd el tőlünk a Gonoszt, szívünkbe békéd harmatozd, Szent Lángeső!<br/>Szent Próbakő! Légy útjainkon vezető.<br/>Benned az Atya titka ég, s a Fiú adja mindenét:<br/>‖: ó Tűzaránk! Ó tiszta Láng! Kettőjük Lelke, szállj le ránk! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

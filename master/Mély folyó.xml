@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Mély folyó</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mély folyó, Jordán, a parton házam ott áll,<br/>Mély folyó, engedj át, az anyaföld szíve hazavár már.<br/>Tiéd is ez a föld, menjünk, boldog órát üljünk együtt,<br/>már készen vár az ország, hol békét lel majd szívünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mért nem vágysz a földre,<br/>melyen boldogság virul,<br/>mit néked ígért az Úr.<br/>Mély folyó,Jordán,a parton házam ott áll.<br/>Mély folyó,engedj át,az anyaföld szíve hazavár már.<br/>Mély folyó, engedj már, hogy nyugtot leljek a haza földjén.</lines>
+    </verse>
+  </lyrics>
+</song>

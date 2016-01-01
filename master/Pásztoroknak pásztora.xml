@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Pásztoroknak pásztora</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pásztoroknak Pásztora, égnek és földnek szent Ura,<br/>Rólad szóltak az angyalok s Téged áldunk mi, pásztorok.<br/>Néked szól a hálaének, kis Jézusunk, szeretünk Téged.<br/>Eléd hozzuk a szívünket, ajándékul fogadj el minket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Karácsonynak éjjelén lelkünkben kigyúlt a fény,<br/>szívünk boldogan ünnepel s az angyalokkal énekel.<br/>Néked szól a hálaének, kis Jézusunk, szeretünk Téged.<br/>Eléd hozzuk a szívünket, ajándékul fogadj minket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megszülettél, Jézusunk, tündöklő szép Napunk,<br/>jászolodból nézz reánk, fényed ragyogja be éjszakánk.<br/>Néked szól a hálaének, kis Jézusunk, szeretünk Téged.<br/>Eléd hozzuk a szívünket, ajándékul fogadj minket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pásztoroknak Pásztora, égnek és földnek szent Ura,<br/>Rólad szóltak az angyalok s Téged áldunk mi, pásztorok.</lines>
+    </verse>
+  </lyrics>
+</song>

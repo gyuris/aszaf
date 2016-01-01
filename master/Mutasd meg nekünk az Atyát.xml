@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Mutasd meg nekünk az Atyát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mutasd meg nekünk az Atyát, ez elég nekünk, kitárul az egész világ, megújul életünk!<br/>Régóta veletek vagyok, nem ismersz meg talán, Atyámat bennem láthatod, hisz bennem él Atyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kincs mélyre ásva, igazgyöngy varázsa, megfoghatatlan hajnal ragyogása, igazi\ vőlegény, Jézus, Atya képmása, Lélek\ forrása, egyetlen szép remény, Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutasd meg szívedet nekünk, hadd lássuk, hogy dobog, s míg lángjaiban éghetünk, lehessünk boldogok!<br/>Testvéri szívek köztetek dobognak számosan, ott\ keressétek szívemet, hol mások szíve van!<br/>Refr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki titkainkat jól tudod, ínségünk ismered, küldj\ éltető fuvallatot, mely győz a kín felett!<br/>Elküldöm nektek Lelkemet, ki Atyámtól fakad, lángoló fény, úgy lebeg a szürke ég alatt.<br/>Refr.</lines>
+    </verse>
+  </lyrics>
+</song>

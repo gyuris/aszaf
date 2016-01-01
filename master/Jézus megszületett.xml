@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Jézus megszületett</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fenyőn a gyertya remegve ég,<br/>szemed tükrén táncol a fény,<br/>a csillagszóró ezernyi apró csillagát<br/>szórja szét. Csodás fények!<br/>de a fenyőfát csodálva se feledd el<br/>az ünnep lényegét: hogy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Jézus megszületett,<br/>világra jött a Szeretet.<br/>Hozta a béke nyugalmát,<br/>Istennek zengjünk Glóriát! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

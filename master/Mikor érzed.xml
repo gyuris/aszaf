@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Mikor érzed</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor érzed, senki vagy,<br/>akkor vagy igazán önmagad.<br/>Mikor érzed, nincs erőd,<br/>akkor majd segít,ki ad erőt.<br/>Mikor érzed, hogy bűnöd lesújt,<br/>akkor emel föl, ki kezet nyújt.<br/>Mikor hinni sincs már erőd,<br/>akkor lesz igazán Ő az erőd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor önmagadban végre nem hiszel,<br/>akkor út, szeretet, élet leszel.<br/>Mert, ha szélcsendben felzúg a szél,<br/>Ő van veled, ki mindent szeret, s mindent ítél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Félned többé nem szabad,<br/>hiszen utadon Ő lesz utad.<br/>Ha szeretni sincs erőd,<br/>helyetted szeret sok szenvedőt,<br/>és ha életedet elveszetetted,<br/>meg igazán csak akkor nyered.</lines>
+    </verse>
+  </lyrics>
+</song>

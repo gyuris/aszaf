@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Szól a karácsonyi csengő</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szól a karácsonyi csengő, hull a hó,<br/>megszületett a Megváltó.<br/>Puha jászolban kisded Jézus alszik az éjben,<br/>mellette szép Szűz Mária őrzi ébren,<br/>ápolgatja, takargatja, meg ne fázzon csöpp magzatja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szól a karácsonyi csengő, hull a hó,<br/>megszületett a Megváltó.<br/>Három királyok, gyertek, hozzátok<br/>a Föld minden kincseit.<br/>Gyertek, pásztorok, el ne késsetek,<br/>hozzátok csak el emberségteket.<br/>Szól a karácsonyi csengő, hull a hó,<br/>megszületett a Megváltó.</lines>
+    </verse>
+  </lyrics>
+</song>

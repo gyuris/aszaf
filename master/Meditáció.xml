@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Meditáció</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Már véget ért a kín,<br/>már elterjedt a hír,<br/>az égbolt is elborul,<br/>szent véred a földre hull. A…<br/>Óh, mondd, mért, vajon mért vétkezünk? :‖</lines>
+    </verse>
+  </lyrics>
+</song>

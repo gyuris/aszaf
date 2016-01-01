@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Térdet hajtok előtted</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="313"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Térdet hajtok előtted én Uram Istenem, Szentlelkeddel kérlek, tölts el engemet.<br/>‖: Szeretetből teremtettél, gondviselő Atyánk lettél, életem a Te életed, segíts, hogy így legyen. :‖<br/>Leborulva imádlak, imámat hallgasd meg.<br/>Láthatod, hogy hiszek benned, remélem jöttödet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szereteted éltet, mégis félek, naponta a sok kisértés távol tart tőled, tartsd távol tőlem.<br/>Megkérem Szűz Máriát Egyházunk Szent anyját, jó Atyánkhoz és Fiához vezessen el minket.<br/>‖: Jöjj Szentlélek, újítsd meg és erősítsd lelkem, Szűzanyánk szeretet lángja lobogjon bennem. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Így szól az Isten</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Így szól az Isten! Kiárasztom lelkem! Végső időkben! Úr nevét, ki kéri! Üdvözülni fog!<br/>‖: Szemem előtt az Úr áll mindenkoron, nem inoghatok meg: Ő áll jobbomon. A szívem örvend, nyelvem énekel, és testem is békében nyugszik el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pokolnak a lelkem nem engeded, nem hagyod magára szentedet, az élet útját mutatod nekem, és gyönyörűséggel töltöd be életem.<br/>‖: Az élet útját mutatod nekem, és gyönyörűséggel töltöd be életem. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

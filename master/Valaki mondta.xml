@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Valaki mondta</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Valaki mondta, jó lenne indulni már,<br/>én azt gondoltam, végleg elkéstem már, :‖<br/>‖: Valaki mondta, van időm keresni Őt,<br/>én meg csak álltam és néztem fönn a felhőt. :‖<br/>‖: Valaki mondta, egy vihar még nem minden,<br/>attól tartottam, keményebb lesz az Isten. :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Valaki mondta, jó lenne szeretni már,<br/>féltettem magam, úgy, mint a szabad madár. :‖<br/>‖: Valaki nem szólt, nyújtotta felém kezét,<br/>nekem elég volt, láttam a szögek helyét. :‖<br/>Azóta mondom, hogy Nélküle élni kár,<br/>‖: ki  keresi folyton, egyszer csak rátalál! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

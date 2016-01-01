@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:31">
+  <properties>
+    <titles>
+      <title>A keresztfához megyek</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hamuszín-szürke fátyolával<br/>Nagypéntek búja szerteszárnyal,<br/>a szomorúság terhes csendje<br/>ránehezedik a szívemre;<br/>‖: A keresztfához megyek.<br/>A keresztfához megyek! :‖m…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mintha gyász-hárfák zengenének,<br/>lelkembe sír egy régi ének,<br/>ahogy bolyongok egymagamban,<br/>templomba térek öntudatlan:<br/>‖: A keresztfához megyek.<br/>A keresztfához megyek! :‖m…</lines>
+    </verse>
+  </lyrics>
+</song>

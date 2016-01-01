@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Kicsi dal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Érzem, nincs már már semi baj, letörlöm könnyeim,<br/>elűzte egy kicsi dal bánatos perceim.<br/>Köszönöm Uram, köszönöm,<br/>hogy visszaadtad örömöm! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Szivárvány száll az égre fel, napfény az arcomon,<br/>a kismadár is énekel, boldogan hallgatom!<br/>Köszönöm Uram, köszönöm,<br/>hogy visszaadtad örömöm! :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Érzem, nincs már már semi baj, letörlöm könnyeim,<br/>elűzte egy kicsi dal bánatos perceim.<br/>Köszönöm Uram, köszönöm,<br/>hogy visszaadtad örömöm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szivárvány száll az égre fel, napfény az arcomon,<br/>a kismadár is énekel, boldogan hallgatom!<br/>Köszönöm Uram, köszönöm, hogy visszaadtad örömöm!<br/>Köszönöm, Uram, köszönöm,<br/>hogy van még bánatom és örömöm!</lines>
+    </verse>
+  </lyrics>
+</song>
