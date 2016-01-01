@@ -4,7 +4,7 @@
     <titles>
       <title>Hozsanna, hozsanna… Dávid Fiának</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <authors>
       <author>ismeretlen szerző</author>
     </authors>
@@ -20,11 +20,14 @@
     <verse name="c1">
       <lines>Hozzád száll énekünk.<br/>Szívünkből szeretünk.<br/>Nincsen kívüled senki más,<br/>csak Te vagy a mi Istenünk.</lines>
     </verse>
+    <verse name="v2">
+      <lines>Hozsanna, hozsanna,<br/>Jézus Isten Báránya.</lines>
+    </verse>
     <verse name="v3">
       <lines>Jézus, Jézus,<br/>Jézus Isten Báránya.</lines>
     </verse>
-    <verse name="v2">
-      <lines>Hozsanna, hozsanna,<br/>Jézus Isten Báránya.</lines>
+    <verse name="v4">
+      <lines>Dicsőség, dicsőség <br/>a feltámadott Úrnak!</lines>
     </verse>
   </lyrics>
 </song>
