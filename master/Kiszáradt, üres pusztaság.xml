@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Kiszáradt, üres pusztaság</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="376"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiszáradt, üres pusztaság,<br/>életem kopott csontmező.<br/>Szívemben félelem az Úr,<br/>Nélküled lenni sincs erőm.<br/>Tagjaim bénán fekszenek,<br/>Terád vár minden mozdulat.<br/>Jelenlétednek áramán<br/>frissítő szélvihar fakad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljöttél, érints meg, ébressz fel!<br/>Szédülök, tarts erősebben!<br/>Ragadj ki végre halálos álmomból!<br/>Új élet ébredjen fényeddel,<br/>Teljen meg erőddel minden!<br/>Itt vagy már, és az élet csak Ró-lad szól!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megnyitod életem sírboltját,<br/>kimentesz sötétségemből.<br/>Szerelmed teljesen átjár,<br/>csontokból életet nemzőn.<br/>Fénnyel hinted be útjaim,<br/>világosságban járhatok.<br/>Lelkeddel mélyen átölelsz,<br/>álmomat Veled álmodom!</lines>
+    </verse>
+  </lyrics>
+</song>

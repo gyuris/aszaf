@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Nagy öröm az Urat dicsérni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="300"/>
+      <songbook name="Kék Könyv" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy öröm az Urat dicsérni,<br/>Istenünk, teneked zsoltárt zengeni.<br/>Kora reggel hirdetni Téged,<br/>Magasztalni szépségedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával,<br/>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Betöltöd szívem örömöddel,<br/>Ujjongok a Te nagy műveid felett.<br/>Mily fönséges minden alkotásod,<br/>S mily bölcsek gondolataid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával,<br/>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Olyan az igaz, mint a pálma,<br/>Virul, mint a Libanon cédrusa.<br/>Kivirágzik az Úr csarnokában,<br/>Ott él Istenünk házában.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával,<br/>Tánccal, tapssal, muzsikával,<br/>Tíz húrú lanttal, citerával.</lines>
+    </verse>
+  </lyrics>
+</song>

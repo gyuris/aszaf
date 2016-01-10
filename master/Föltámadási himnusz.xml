@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Föltámadási himnusz</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne feledd, hogy Krisztuson nem vett erőt a halál!<br/>Ő a mi üdvösségünk, dicsősége örök!<br/>Ha vele együtt meghalunk, vele együtt élni fogunk!<br/>Ha vele együtt tűrünk, vele uralomra jutunk!<br/>Alleluja, alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>

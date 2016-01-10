@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Mária, kérjed Szent Fiadat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Szíve, Atya Lelke, Prófétáknak lángja, mennyei oltárégi fénye, szállj le a szívbe már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária, kérjed Szent Fiadat, lelkével oltsa szomjunkat.<br/>Isteni Eledel, Pártfogó, jöjj el hozzánk, Égi Szó!<br/>Mária, szívünk nyitva áll, templomi csöndnek mélyén vár, imádkozz értük Szűz Anyánk, küldje le Jézus szüntelen égő, gyógyító Lángját!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lángoló Tűz, Isteni Szélvész, mindent betöltő Áradat, gondviselésnek bizonyossága, töltsd el belsőnk már!<br/>Refr. ×2</lines>
+    </verse>
+  </lyrics>
+</song>

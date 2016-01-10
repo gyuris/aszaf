@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
+  <properties>
+    <titles>
+      <title>Alleluja, alleluja, Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="230"/>
+	  <songbook name="Kék Könyv" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, alleluja, Jézus feltámadt,<br/>És reánk az ő sírjából ragyogó fény áradt.<br/>‖: La-la-la, la-la-la, la-la-la, la-la-la,<br/>ragyogó fény árad. :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, alleluja, Jézus nem halott,<br/>És elmegy majd Ő hozzád is, ha te is akarod.<br/>‖: La-la-la, la-la-la, la-la-la, la-la-la,<br/>Ha te is akarod. :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja, alleluja, Jézus köztünk él,<br/>Ha meglátnád a társadban, barátja lehetnél.<br/>‖: La-la-la, la-la-la, la-la-la, la-la-la,<br/>Barátja lehetnél. :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja, alleluja, Jézus téged vár,<br/>Hogy te is élj, és másokért új szívet áldozzál.<br/>‖: La-la-la, la-la-la, la-la-la, la-la-la,<br/>Új szívet áldozzál. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

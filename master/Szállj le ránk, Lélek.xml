@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Szállj le ránk, Lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="267"/>
+	  <songbook name="Kék Könyv" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szállj le ránk, Lélek,<br/>Szállj le ránk, Lélek,<br/>Szállj le ránk, szállj le ránk, szállj le ránk…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozz bölcsességet, fényt, békességet,<br/>Vigasztalást, igaz reménységet.<br/>Tölts el erőddel, élő szerelemmel,<br/>És nyelveken - magasztalunk Téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj, heves szél - vész,<br/>Lobbantsd fel a vágy tüzét.<br/>Jöjj, alkotó Lé - lek, igazságnak Lelke,<br/>Taníts meg mindenre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szállj le ránk, Lélek,<br/>Szállj le ránk, Lélek,<br/>Szállj le ránk, szállj le ránk,<br/>Áldunk és imádunk, jöjj!</lines>
+    </verse>
+  </lyrics>
+</song>

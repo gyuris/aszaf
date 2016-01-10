@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:45:31">
+  <properties>
+    <titles>
+      <title>Új szívet adok</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="175"/>
+	  <songbook name="Kék Könyv" entry="217"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiszta vizet hintek reátok,<br/>hogy minden szennytől megtisztuljatok!<br/>És élő Lelkem oltom belétek,<br/>hogy törvényeim szerint éljetek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Új szívet adok és új lelket,<br/>hogy bűneitekből megtérjetek!<br/>Elveszem kőszíveitek,<br/>és hús-szíveket oltok belétek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A népek pedig csodáim láttán<br/>megtudják, hogy én vagyok az Úr.<br/>Tisztelik majd érte nevemet.<br/>Én az Úr mondom, és végbe is viszem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Összegyűjtlek ezer országból.<br/>Visszahozlak minden nép közül,<br/>hogy atyáitok földjét lakjátok.<br/>Népem vagy, és Urad én vagyok!</lines>
+    </verse>
+  </lyrics>
+</song>

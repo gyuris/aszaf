@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Istenanya-litánia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Uram, irgalmazz nekünk! :‖<br/>‖: Krisztus, kegyelmezz nekünk! :‖<br/>‖: Uram, irgalmazz nekünk! :‖<br/>Szűz Mária, hallgass minket!<br/>Istennek Szent Anyja, segits minket!<br/>Mindenkor szűz szent Anya, hallgass minket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmanuel Anyja, Hallgass minket!<br/>Megváltónk Anyja, Hallgass…<br/>Urunk Jézusnak Anyja,…<br/>Bűn nélkül fogantatott Anya,…<br/>Világosságnak Anyja,…<br/>Életnek Anyja,…<br/>Szeretetnek Anyja,…<br/>Irgalmasságnak Anyja,…<br/>Reménységnek Anyja,…<br/>Egyház Anyja,…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyház Anyja, Halgass…<br/>Minden embernek Anyja,…<br/>Anyáknál áldottabb Anya,…<br/>Kegyelemmel teljes Szűz, Segíts minket!<br/>Szentséges Szűz, Segíts…<br/>Alázatos Szűz,…<br/>Istenért szegény Szűz,…<br/>Tisztaságos Szűz,…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten Igéjét befogadó Szűz,…<br/>Hitedben erős Szűz,…<br/>Engedelmes Szűz,…<br/>Imádságos Szűz,…<br/>Szenvedő Szűz,…<br/>Örvendező Szűz,…<br/>Szüzeknél áldottabb Szűz,…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Új Éva, Hallgass minket!<br/>Sion Leánya, Halgass…<br/>Igéretnek örököse,…<br/>Úrnak Szolgálóleánya,…<br/>Isten Városa,…<br/>Szövetség Szekrénye,…<br/>Bölcsesség Lakhelye,…<br/>Szentlélek Temploma,…<br/>Hajnalcsillag,…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Menny Kapuja,…<br/>Teremtés Ragyogása,…<br/>Asszonyoknál áldottabb Aszszony,…<br/>Békességnek Szétosztója, Segíts minket!<br/>Az Úr szolgáinak Támasza, Segíts…<br/>Az Istennek szenteltek Veze-tője,…<br/>Hitveseknek Példaképe,…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Családoknak Pártfogója, Segíts…<br/>Keresztények Segítsége,…<br/>Sírók Vigasztalója,…<br/>Elnyomottak Szószólója,…<br/>Betegek Gyógyítója,…<br/>Bűnösök Menedéke,…<br/>Isten gyermekeinek Öröme,…</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mennyekbe fölvett Királyné, Hallgass minket!<br/>Angyalok Királynéja, Halgass…<br/>Pátriárkák Királynéja,…<br/>Próféták Királynéja,…<br/>Apostolok Királynéja,…<br/>Vértanúk Királynéja, …<br/>Pásztorok Királynéja,…<br/>Tanítók Királynéja,…</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szűzek Királynéja, Halgass…<br/>Hívők Királynéja,…<br/>Mindenszentek Királynéja,…<br/>Eljövendő Világ Királynéja,…<br/>‖: Isten Báránya, ki elveszed a világ bűneit,<br/>Irgalmazz nekünk! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

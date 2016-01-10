@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2014-06-30T00:01:45" modifiedIn="atollib.py 2014.06.28 (openlyrics.py 0.2)" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ím, itt jön Ő</title>
+      <title lang="fr">Voici le Seigneur…</title>
+    </titles>
+    <authors>
+      <author type="words">P. Protot</author>
+      <author type="music">A. Dumont</author>
+      <author lang="hu" type="translation">Fábry Kornél</author>
+    </authors>
+    <songbooks>
+      <songbook entry="34" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="240"/>
+    </songbooks>
+    <copyright>© Édition de L'Emmanuel</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ím, itt jön Ő, átkel a hegyen,<br />a dombon át szalad felém a Kedvesem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, Uram, lásd, Tiéd a szívem,<br />a kerted Téged vár, s a szőlőd is terem.<br />A szív dalol, zengi énekét,<br />a lelkem ég, ó, Istenem, szerelmedért.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy vágyom, Uram, ünnepelni Veled,<br />megrészegít a bor, s a méz, mit adsz nekem.<br />Ha elfogadod minden kincsemet,<br />én átadom az életem, Tiéd legyen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr elé együtt indulunk,<br />Ő mindig újra vár miránk, ha elbukunk.<br />A nász idején ünnepeljetek,<br />hisz itt a Vőlegény, ki minket úgy szeret!</lines>
+    </verse>
+  </lyrics>
+</song>

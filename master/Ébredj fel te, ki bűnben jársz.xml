@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Ébredj fel te, ki bűnben jársz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="281"/>
+	  <songbook name="Kék Könyv" entry="275"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredj fel te, ki bűnben jársz.<br/>Jöjj, mert Nála az élet vár!<br/>Jézus vére az üdvösség,<br/>Gyere add át szíved és Ő benned él.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kellj fel és ragyogjál, bűnödből tisztuljál.<br/>Szentlélek erőd lesz, ébredj most fel.<br/>Eljött Ő, benned él, reményt ad, hogy ne félj,<br/>Hidd el, hogy Ő az Úr, indulj el, nézdd, Ő az Út!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ébredj fel te, ki bűnben jársz.<br/>Jöjj, mert Nála az élet vár!<br/>Jézus vére az üdvösség,<br/>Gyere add át szíved és Ő benned él.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjad én lelkem Őt, dicsérjed Teremtőd,<br/>Irgalma örökké lelkemben él.<br/>Dicsőség Atyánknak, dicsőség Jézusnak,<br/>Szentlélek, éltető mindenség Istene, áldott légy!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ébredj fel te, ki bűnben jársz.<br/>Jöjj, mert Nála az élet vár!<br/>Jézus vére az üdvösség,<br/>Gyere add át szíved és Ő benned él.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:23:29">
+  <properties>
+    <titles>
+      <title>Jézus az Isten Báránya</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="79"/>
+	  <songbook name="Kék Könyv" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus az Isten Báránya,<br/>bűnösöknek lett váltsága.<br/>Meghalt azért, hogy élhessünk,<br/>hogy örökös társai lehessünk.<br/>Aki hisz Benne, az él!…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus az élet forrása,<br/>örök élet van nála.<br/>Kapuja számunkra nyitva áll,<br/>nem árthat így nekünk a halál!<br/>Aki hisz Benne, az él!…</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jézus csak téged vár!…<br/>Jézus csak terád vár!</lines>
+    </verse>
+  </lyrics>
+</song>

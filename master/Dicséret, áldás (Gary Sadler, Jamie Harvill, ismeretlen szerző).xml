@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:56" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Dicséret, áldás</title>
+      <title lang="en">Ancient Of Days</title>
+      <title lang="en">Blessing And Honour</title>
+    </titles>
+    <authors>
+      <author type="words">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+      <author type="words">Jamie Harvill</author>
+      <author type="music">Jamie Harvill</author>
+      <author lang="hu" type="translation">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook entry="11" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="248"/>
+	  <songbook name="Kék Könyv" entry="127B"/>
+    </songbooks>
+    <copyright>© 1992 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 c1 e1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicséret, áldás, örök imádás,<br />Néked, Mindenható!<br />Itt áll a néped, új hitre ébred,<br />és várja leheleted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden nyelv most ezt kiáltja: Dicsőség!<br />És imádva áldja Neved, mind együtt,<br />és a néped újra zengi: Hatalmas,<br />áldott Úr vagy mindörökké, ó, Mindenható!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A földről az ég felé kiáltjuk, hogy<br />Jézus az egyetlen Úr!<br />Nincs, nem is lesz soha senki más,<br />ki Hozzá hasonlítható!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Amilyen érték az arany</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amilyen érték az arany és édes a méz,<br/>Olyan drága szívednek minden nép.<br/>Minden gyermek a téren,<br/>ki játszik még, minden bölcsőben<br/>szendergő csöppség,<br/>Minden szebb jövőről álmodozó,<br/>Minden lépésben haladó autós.<br/>Érzem csontjaimban már az ébredést,<br/>S hogy minden tékozló fiú visszatér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Messze tőlem gyenge moraj szól,<br/>Mint egy távoli mennydörgés.<br/>Érzem, hogy Szellemed átját,<br/>Terhem könnyű már,<br/>Terhem könnyű már.<br/>Hát jöjj el, jöjj tűzzel,<br/>és hozd el már az ébredést!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden fásult, kiégett lelkész,<br/>Minden menny után sóvárgó szív,<br/>Minden félelmei közt hányódó,<br/>Minden könnyes szemmel gyászoló,<br/>Minden agg és fiatal, férfi és nő,<br/>Minden gyermek és minden szülő,<br/>Érzem csontjaimban már az ébredést,<br/>S hogy minden tékozló fiú visszatér!</lines>
+    </verse>
+  </lyrics>
+</song>

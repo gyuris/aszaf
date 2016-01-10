@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Volt egyszer egy király</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Volt egyszer egy király, ma is él, köztünk jár.<br/>Országát ne keressd térképeid felett.<br/>Hintója sose volt, mindig csak gyalogolt,<br/>szolgákat nem akart, szolgálni Ő akart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volt egyszer egy király, földre jött, közénk állt.<br/>Mindenkit szeretett, senkit meg nem vetett.<br/>Tanított tereken, hegytetőn, réteken,<br/>ételt, italt adott, beteget gyógyított.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Volt egyszer egy király, velünk élt, köztünk járt,<br/>az emberek gyűlölték, elfogták, megölték;<br/>de feltámadt, visszatért, negyven nap köztünk élt,<br/>győzött a szeretet, halálból élet lett!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Elment a jó király, de országa nyitva áll.<br/>Hallgasd a csend szavát, meghallod hívását.<br/>Ő soha nem hagy el, szólj csak és átölel,<br/>tán észre sem veszed, úgy fogja két kezed! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

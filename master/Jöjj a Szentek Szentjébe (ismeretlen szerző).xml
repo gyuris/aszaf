@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:23:26" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jöjj a Szentek Szentjébe</title>
+    </titles>
+    <authors>
+      <author type="words">ismeretlen szerző</author>
+      <author type="music">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook entry="133" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="435"/>
+    </songbooks>
+    <verseOrder>v1 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj a Szentek Szentjébe, jöjj az Ő jelenlétébe,<br />a Bárány, Jézus vérén át, imádd Istent a trónjánál!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent kezeket emelj fel,<br />mert szent az Isten, igen, szent!</lines>
+    </verse>
+  </lyrics>
+</song>

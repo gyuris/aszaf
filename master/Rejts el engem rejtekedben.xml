@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Rejts el engem rejtekedben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="446"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejts el engem rejtekedben,<br/>átfödött szívedben.<br/>Rejts el engem két kezedben,<br/>töröld le könnyeimet.<br/>Vágyom azt, hogy átölelj.<br/>Kebledre szorítva rejts el.<br/>Nincs más menedékem!<br/>Rejts el engem rejtekedben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess el engem a rengetegbe,<br/>hol minden fa újra zöldül.<br/>Hadd legyek egy fa a kertedben,<br/>hogy gyönyörködhess bennem.<br/>Te vezetsz a hegyre fel,<br/>Lent maradt mit Érted hagytam el.<br/>Fent te vársz reám!<br/>S átölelsz két karoddal.</lines>
+    </verse>
+  </lyrics>
+</song>

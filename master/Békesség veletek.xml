@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Békesség veletek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="470"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Békesség veletek. Alle-alleluja!<br/>Én veletek vagyok, veletek. Alle-alleluja!<br/>Ne féljetek, ne féljetek. Alle-alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, áldott béke, ragyogjál a szívünkbe:<br/>szelíden, mint a hold, a csillagfényes éjben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, áldott béke, tündökölj a szemünkbe:<br/>szikrázó napként a tenger víztükrében.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Békesség veletek. Alle-alleluja!<br/>Én veletek vagyok, veletek. Alle-alleluja!<br/>Ne féljetek, ne féljetek. Alle-alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, áldott béke, áradjál a lelkünkbe:<br/>a békesség Istenének csodás Igéjében.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Békesség veletek. Alle-alleluja!<br/>Én veletek vagyok, veletek. Alle-alleluja!<br/>Ne féljetek, ne féljetek. Alle-alleluja!<br/>Így jött közénk!‖: Alle-alleuja! Így jött közénk! :‖<br/>Így jött közénk!</lines>
+    </verse>
+  </lyrics>
+</song>

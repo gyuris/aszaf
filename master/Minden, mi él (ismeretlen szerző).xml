@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:32:31">
+  <properties>
+    <titles>
+      <title>Minden, mi él</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="123"/>
+	  <songbook name="Kék Könyv" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsér az ég, nap, hold és csillagok,<br/>fény és sötét, nap, éj és hajnalok.<br/>Dicsér a szél, felhő és hóvihar,<br/>a víz, s a tűz megannyi tiszta dallal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden, mi él csak Téged hirdet,<br/>Minden dicsér, mert mind a műved.<br/>Azzal, hogy él ezt zengi Néked:<br/>„Dicsérlek én, dicsérlek Téged!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nagyvilág létével énekel,<br/>szavunkra vár, hogy hangja dal legyen.<br/>Zúgjuk tehát ég és föld énekét,<br/>Zengjük velük: Nagy Isten, áldott légy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsér a föld, dicséri szent Neved,<br/>mint jó anyánk táplál, s ad eledelt.<br/>Virág, gyümölcs, zöld fű, fa, hegyvidék,<br/>tó és folyó, síkság és büszke bérc.</lines>
+    </verse>
+  </lyrics>
+</song>

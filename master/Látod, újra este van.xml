@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Látod, újra este van</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Látod, újra este van,<br/>Hozzád száll most halk szavam,<br/>mindenségnek Istene,<br/>Téged dicsér énekem.<br/>Kérlek, ó jó Uram add meg,<br/>fényeddé váljak, jeled lehessek.<br/>Kérlek, Szentlelked küldd el,<br/>Ő vezessen végig életemen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönöm ezt a napot,<br/>annyi szépet s jót hozott,<br/>Köszönöm a napsütést,<br/>fényét szórta szerteszét.<br/>Kérlek, ó jó Uram add meg,<br/>fényeddé váljak, jeled lehessek.<br/>Kérlek, Szentlelked küldd el,<br/>Ő vezessen végig életemen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, mindent köszönök,<br/>bánatot és örömöt,<br/>legyen rajtam szent kezed,<br/>óvja, védje életem.<br/>Kérlek, ó jó Uram add meg,<br/>fényeddé váljak, jeled lehessek.<br/>Kérlek, Szentlelked küldd el,<br/>Ő vezessen végig életemen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretném, ha szeretnél,<br/>minden szavad érteném,<br/>életemben követném,<br/>s végül Hozzád érkezném.<br/>Kérlek, ó jó Uram add meg,<br/>fényeddé váljak, jeled lehessek.<br/>Kérlek, Szentlelked küldd el,<br/>Ő vezessen végig életemen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Látod, újra este van,<br/>Hozzád száll most halk szavam,<br/>mindenségnek Istene,<br/>Téged di-csér énekem.<br/>Kérlek, ó jó Uram add meg,<br/>fényeddé váljak, jeled lehessek.<br/>Kérlek, Szentlelked küldd el,<br/>Ő vezessen végig életemen.</lines>
+    </verse>
+  </lyrics>
+</song>

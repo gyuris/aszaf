@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Tárd ki a karod, emeld fel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tárd ki a karod, emeld fel arcodat,<br/>Tűzben, viharban a Lélek látogat,<br/>Nyisd ki a szemed, takard ki a szívedet,<br/>Hajnali pírban a Lélek integet!<br/>Kelj föl, te halott, - hagyd el már sírodat!<br/>Úttalan útra a Lélek hívogat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak zúgjon az a szélvész, lángoljon az a tűz!<br/>Nincs többé visszatérés, forró szeretet űz!<br/>Várja szíved az oltár, hajolj a mély fölé,<br/>Ki senkié sem voltál, legyél - mindenkié!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kelj föl, te halott! Tárd ki a karod!<br/>Nyisd ki a szemed! Takard ki szívedet!<br/>A Lélek integet, a Lélek hívogat,<br/>A Lélek, a Lélek, a Lélek látogat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak zúgjon az a szélvész, lángoljon az a tűz!<br/>Nincs többé visszatérés, forró szeretet űz!<br/>Várja szíved az oltár, hajolj a mély fölé,<br/>Ki senkié sem voltál, legyél - mindenkié!<br/>Legyél mindenkié, legyél mindenkié!</lines>
+    </verse>
+  </lyrics>
+</song>

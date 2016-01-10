@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Szent, szent a neve</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent, szent a neve, én Őt dicsérem, Ő erősségem, Jézus. Az én Istenemért, mindent veszni hagytam, csak hogy szolgálhassam Jézust. Boldogan megvallhatom, Ő a cél, meghaltam, de élek Jézus Krisztusért.</lines>
+    </verse>
+  </lyrics>
+</song>

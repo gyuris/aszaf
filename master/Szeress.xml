@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Szeress!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindig azt kérdem, ó miért?<br/>Hozzád fut szívem válaszért.<br/>Mondd mért van annyi fájdalom?<br/>Halld a szívünk vágya szól.<br/>Nem szólsz csak egy szót ez lesz a válasz,<br/>nem kínoz végre a sok miért.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megértek mindent, a fény eláraszt,<br/>egyetlen szó csak, mit súgsz felénk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‖: Szeress és eltölt friss erő,<br/>szeress már minden érthető,<br/>szeress és nem lesz fájdalom<br/>dalod száll újból. :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeress, a társad jóbarát,<br/>szeresd és hordozd bánatát,<br/>keressd az önfeláldozást,<br/>vállald mások sorsát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szeress, hisz erre vár a szív,<br/>szeress, az élet útra hív,<br/>szeress és elhal bánatunk,<br/>együtt könnyebb az út.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeress, ha boldogságra vágysz,<br/>szeress, ha új világra vársz.<br/>Szeress, már élj mindenkiért,<br/>mindig őrizd e célt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Érezd, hogy másoké erőd, érezd, hogy vágyad célba ért, így vagy csak boldog és erős, gondod nincs többé.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Társad a néger s indián,<br/>vállald a társaid baját.<br/>Társad, ki társat nem talál,<br/>fogd a gyöngék jobbját.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Adj, - mást is boldoggá teszel,<br/>adj, - és te is boldog leszel.<br/>Áldozz, jöjj, osszad szét erőd,<br/>és megújul a föld.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Szeress, - csak ezt mondom neked,<br/>szeress, - ezt mondom szüntelen,<br/>szeress, - s megérted hirtelen,<br/>milyen lesz a menny.</lines>
+    </verse>
+  </lyrics>
+</song>

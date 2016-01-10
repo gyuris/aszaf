@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Ha reánk tör a homály</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Ha reánk tör a homály, ne fájjon, ami fáj,<br/>ne félj, te kicsiny nyáj, az Isten véd! :‖<br/>Az ég, a föld az Ő szent kezén,<br/>ne félj, te kicsiny nyáj, az Isten véd!<br/>Jézus meghalt bűneidért,<br/>ne félj, te kicsiny nyáj, az Isten véd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Csak övé az életem, övé már mindenem,<br/>övé az ének is a szívemben. :‖<br/>Hát nem csoda, hogy boldog vagyok<br/>Övé az ének is a szívemben -,<br/>Mert értem Krisztus így lehajolt -<br/>Övé az ének is a szívemben.</lines>
+    </verse>
+  </lyrics>
+</song>

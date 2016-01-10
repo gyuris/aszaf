@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Épül az ország</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="40B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Épül az Ország,<br/>föld rejtekén a mag szárba szökken, levelet hajt minden ág!<br/>Szirmot bont száz virág, illata szél szárnyain tovaszáll!<br/>Szépül az Ország! Szépül az Ország!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Lélekből, lélekből, mint élő kövek,<br/>Isten templomává épüljetek! :‖<br/>Így épül az Ország! Így épül az Ország!<br/>Épül az Ország! Épül az Ország!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Épül az Ország,<br/>szívemben új dal fakad, zengve szól,<br/>nyelvemen tűz lángja ég; szerelem új fénye vár,<br/>életem új fényben él; látom már:<br/>szép ez az Ország! Szép ez az Ország!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Lélekből, lélekből, mint élő kövek,<br/>Isten templomává épüljetek! :‖<br/>Így épül az Ország! Így épül az Ország!<br/>Épül az Ország! Épül az Ország!</lines>
+    </verse>
+  </lyrics>
+</song>

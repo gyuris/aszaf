@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:47">
+  <properties>
+    <titles>
+      <title>Hogyha csak mustármagnyi</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="456"/>
+	  <songbook name="Kék Könyv" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Hogyha csak mustármagnyi hitetek is volna,<br/>ezt mondotta a mi Urunk :‖<br/>‖: És, ha így szólnátok a nagy hegyekhez:<br/>mozduljatok, mozduljato‖:<br/>‖: Akkor a hegyek megindulnak,<br/>megindulnak, megindulnak :‖<br/>‖: Jöjj el, jöjj el, ó jöjj el Szentlélek! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Si tu verias fe cómo<br/>un granito de mostaza :‖<br/>‖: eso lo dice el Senor: Muevete,<br/>muevete :‖<br/>‖: Y la montana se movera, se movera,<br/>se movera, :‖<br/>‖: Fluie, fluie, Espirito Santo :‖</lines>
+    </verse>
+  </lyrics>
+</song>

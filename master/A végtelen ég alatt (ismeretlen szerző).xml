@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T19:16:28">
+  <properties>
+    <titles>
+      <title>A végtelen ég alatt</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="20"/>
+	  <songbook name="Kék Könyv" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A végtelen ég alatt a Lélek megragad.<br/>A végtelen ég alatt hallatszik az Úr szava:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Én, az Úr hívtalak, hogy az igazságot másokkal megoszd.<br/>Én, az Úr hívtalak,  hogy a vakoknak a fényt elhozd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Énekeljetek az Úrnak éneket!<br/>Énekeljetek az Úrnak dicséretet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én vagyok az Úr, dicsőségemet másnak nem adom.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Én, az Úr fogom a kezed, hogy a börtönből a foglyokat kihozd.<br/>A régiek elmúltak, én most újat adok.</lines>
+    </verse>
+  </lyrics>
+</song>

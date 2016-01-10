@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:34">
+  <properties>
+    <titles>
+      <title>Áldd meg a számat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldd meg a számat, melyet érintettél, áldd meg a nyelvem, melyen megpihentél, Jézus mindig maradj velem, te kisérj életemen!<br/>‖: Jézus mindig maradj velem, te kisérj életemen! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd meg a szívem, melyben lakást vettél, áldd meg a testem, melyet megszenteltél, ‖:Jézus, mindig maradj velem! :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönöm neked, hogy magadhoz hívtál, bűnösök között elveszni nem hagytál.<br/>‖: Jézus, mindig fogd a kezem, soha ne engedd el! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

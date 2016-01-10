@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Dicsőség a magasságban</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="257B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség a magasságban Istennek!<br/>És a földön békesség a jószándékú embernek!<br/>Dicsőítünk Téged, - áldunk Téged,<br/>Imádunk Téged, magasztalunk Téged,<br/>Hálát adunk Neked, - nagy dicsőségedért,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk és Istenünk, - mennyei Király,<br/>Mindenható Atyaisten!<br/>Urunk, Jézus Krisztus, egyszülött Fiú,<br/>Urunk és Istenünk, -  Isten báránya,<br/>Az Atyának Fia,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te elveszed a világ bűneit,<br/>Irgalmazz nekünk!<br/>Te elveszed a világ bűneit,<br/>Hallgasd meg könyörgésünket!<br/>Te az Atya jobbján ülsz:<br/>Irgalmazz nékünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert egyedül te vagy a Szent, te vagy az Úr,<br/>Te vagy az egyetlen Főlség: Jézus Krisztus,<br/>A Szentlélekkel együtt<br/>Az Atyaisten dicsőségében!<br/>A-A-A-men!</lines>
+    </verse>
+  </lyrics>
+</song>

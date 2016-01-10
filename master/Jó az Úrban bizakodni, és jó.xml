@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Jó az Úrban bizakodni, és j</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="283"/>
+	  <songbook name="Kék Könyv" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó az Úrban bizakodni, és jó az Úrnak hálát adni,<br/>Ő az élet reménysége, áldja minden szív!<br/>Életünket Tőle kaptuk, illő Néki hálát adnunk,<br/>Ím a népek kiált Hozzád, Lélek jöjj el már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjuk az Ég Urát, aki megáldott minket Szent Fiában,<br/>Minden áldással, fönn a Mennyekben.<br/>Benne nyertük el életünknek megváltását,<br/>Szívünk Benne él. Áldott örökké!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó az Úrban bizakodni, és jó az Úrnak hálát adni,<br/>Ő az élet reménysége, áldja minden szív!<br/>Életünket Tőle kaptuk, illő Néki hálát adnunk,<br/>Ím a népek kiált Hozzád, Lélek jöjj el már!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyánk küldött el, hogy jó hírt hozz az embereknek.<br/>Rád vár a világ, sóhajtozva vár.<br/>Sötét éjjelen új remény ébred szent népedben,<br/>Mert feltámadtál, Jézus, nagy Király!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó az Úrban bizakodni, és jó az Úrnak hálát adni,<br/>Ő az élet reménysége, áldja minden szív!<br/>Életünket Tőle kaptuk, illő Néki hálát adnunk,<br/>Ím a népek kiált Hozzád, Lélek jöjj el már!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Imádunk Téged lélekben és igazságban,<br/>Így akartad ezt, küldd el Lelkedet.<br/>Alkotó Lélek, Jézus arcát add szívünkbe.<br/>Így kiáltunk hát: Abba, jó Atyánk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jó az Úrban bizakodni, és jó az Úrnak hálát adni,<br/>Ő az élet reménysége, áldja minden szív!<br/>Életünket Tőle kaptuk, illő Néki hálát adnunk,<br/>Ím a népek kiált Hozzád, Lélek jöjj el már!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Benne élet volt, az Élet volt a világosság,<br/>Megtisztul a szív, új életre hív.<br/>Remény és öröm tölti el az életünket,<br/>Örökké Tiéd minden dicsőség!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jó az Úrban bizakodni, és jó az Úrnak hálát adni,<br/>Ő az élet reménysége, áldja minden szív!<br/>Életünket Tőle kaptuk, illő Néki hálát adnunk,<br/>Ím a népek kiált Hozzád, Lélek jöjj el már!</lines>
+    </verse>
+  </lyrics>
+</song>

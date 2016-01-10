@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Betlehemben (Már éjfélre fordul az óra)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Már éjfélre fordul az óra a városok álma felett,<br/>és talán még senki se tudja, hogy tegnap miért élhetett.<br/>Hosszú, sötét éjszaka súlya nyomja az embereket,<br/>várja a föld a hajnalt újra, ébred-e még szeretet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Betlehemben egyszerűen, gyermekmódra csendesen,<br/>észrevétlen, Anyja keblén világ Ura megpihen.<br/>Hódolatra nincsen gondja, téged kíván ajándékba csendesen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Zengő dallal magasztalom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengő dallal magasztalom Istent,<br/>mert a jót mind tőle kapom én<br/>‖: Zengő dallal Uram áldom,<br/>Ő a jóság életem egén! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oltalmazz engem Istenem,<br/>mert én benned bízom.<br/>Így szólok az Úrhoz: Istenem vagy nekem,<br/>nincs más javam rajtad kívül.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengő dallal magasztalom Istent,<br/>mert a jót mind tőle kapom én<br/>‖: Zengő dallal Uram áldom,<br/>Ő a jóság életem egén! :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szüntelenül magam előtt látom az Urat,<br/>Ő áll jobbomon, hogy el ne essem.<br/>Ezért örül az én szívem és ujjong a lelkem,<br/>sőt, reménységben nyugszik testem is.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zengő dallal magasztalom Istent,<br/>mert a jót mind tőle kapom én<br/>‖: Zengő dallal Uram áldom,<br/>Ő a jóság életem egén! :‖</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert nem hagyod lelkemet a holtak honában,<br/>és nem engeded, hogy pusztulást lásson szented.<br/>Az élet útját mutatod nekem,<br/>örömmel töltesz el színed előtt!</lines>
+    </verse>
+  </lyrics>
+</song>

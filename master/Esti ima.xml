@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
+  <properties>
+    <titles>
+      <title>Esti ima</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én édes Istenem, hálát mond a lelkem,<br/>hogy egész napon át úgy szerettél engem.<br/>Bánom sok vétkemet, Szent Fiadnak vére<br/>mossa meg kegyesen szívemet fehérre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Virrasszon felettem gondviselő szemed,<br/>kérlek óvd az éjjel testemet, lelkemet.<br/>‖: Szűzanyám, Úr Jézus, legyetek énvelem,<br/>ha Ti rám vigyáztok, nyugodt lesz éjjelem. :‖<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

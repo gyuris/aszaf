@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:46">
+  <properties>
+    <titles>
+      <title>Nem is ismertelek még</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem is ismertelek még,<br/>Te már értem szenvedtél.<br/>Én nem érdemeltem meg,<br/>hogy a gyermeked legyek.<br/>Hibáztam, Te szerettél, elestem, felemeltél!<br/>Én megnyitottam szívemet:<br/>Te nekem adtad Lelkedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vér és víz, engem életre hív.<br/>Mindent adtál nekem, Benned vár a végtelen!<br/>Víz és vér, Jézus értem szenvedtél!<br/>De szavaid a keresztfán<br/>az én szívemet szúrták át!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindent odaadtál nekünk,<br/>hogy legyen örök életünk.<br/>Feláldoztad életed, vállaltad a kereszted.<br/>Hordtad a töviskoronát, oldalad lándzsa járta át,<br/>És megnyitottad szívedet: nekünk adtad Lelkedet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vér és víz, engem életre hív.<br/>Mindent adtál nekem, Benned vár a végtelen!<br/>Víz és vér, Jézus értem szenvedtél!<br/>De szavaid a keresztfán<br/>az én szívemet szúrták át!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vér és víz: Téged új életre hív!<br/>Mindent átadott neked, választ hát az életet!<br/>Ébredj már, sötétben élsz, de a Fény vár rád!<br/>Mindent odaadott neked! Válaszd Jézust: az Életet!</lines>
+    </verse>
+  </lyrics>
+</song>

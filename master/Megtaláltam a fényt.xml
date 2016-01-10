@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Megtaláltam a fényt</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megtaláltam a fényt,<br/>ami hívott engem, Uram.<br/>Megfogtam a kezet,<br/>ami vezet boldogan,<br/>de mégis arra gondolok,<br/>hogy vannak még olyan karok,<br/>akiket nem karolsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kerestem a reményt<br/>és Te megadtad nekem.<br/>Kerestem célomat:<br/>utam végén csak Te vagy!<br/>De mégis arra gondolok,<br/>hogy vannak még olyan karok,<br/>akiket nem karolsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mennyi ember céltalanul jár.<br/>Mennyi ember új világra vár!<br/>‖: Kérlek, maradj velünk,<br/>újítsd meg az életünk,<br/>míg el nem érnek Hozzád! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

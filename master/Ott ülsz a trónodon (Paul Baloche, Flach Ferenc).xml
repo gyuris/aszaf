@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:04" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ott ülsz a trónodon</title>
+      <title lang="en">El Elyon</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author lang="hu" type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook entry="264" name="Szent András Énekfüzet" />
+    </songbooks>
+    <copyright>© 2005 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 b1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott ülsz a trónodon<br />a mindenség felett,<br />lepelként töltöd be a Mennyet.<br />Karoddal megtartod<br />a föld teljes színét,<br />kinyújtod szerelmed felé.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>El Elion, hatalmas Úr,<br />szent a Te neved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senki sem fogja fel<br />szíved titkait,<br />láthatatlan rejtett kincseit.<br />Nem parancsol a napnak<br />senki más, mint Te,<br />felmagasztal minden teremtményed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Elohim, El Shaddai,<br />Jeshua, Adonai,<br />neved dicsőségét<br />felmagasztaljuk, hatalmas Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

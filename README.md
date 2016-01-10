@@ -1,6 +1,8 @@
 Ászáf
 =====
 
+[![Build Status](https://travis-ci.org/gyuris/aszaf.svg?branch=refactor-build)](https://travis-ci.org/gyuris/aszaf)
+
 Magyar Keresztény OpenLyrics adatbázis
 
 Az adatbázist azért hoztuk létre, hogy a ma használatos legismertebb keresztény 

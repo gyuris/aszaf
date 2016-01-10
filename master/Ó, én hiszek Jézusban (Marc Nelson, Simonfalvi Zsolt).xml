@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:40:03" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Ó, én hiszek Jézusban</title>
+      <title lang="en">I Believe In Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Marc Nelson</author>
+      <author type="music">Marc Nelson</author>
+      <author lang="hu" type="translation">Simonfalvi Zsolt</author>
+    </authors>
+    <songbooks>
+      <songbook entry="219" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="441"/>
+    </songbooks>
+    <copyright>© 1987 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>c1 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, én hiszek Jézusban,<br />hiszem, hogy Ő Isten Fia!<br />Hiszem, hogy meghalt és feltámadt,<br />bűnömért megfizette az árat.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hiszem, hogy Ő most is itt van,<br />itt van közöttünk.<br />Kész rá, hogy meggyógyítsa az életed,<br />és megbocsásson neked.</lines>
+    </verse>
+  </lyrics>
+</song>

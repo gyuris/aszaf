@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Jézus vár terád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jéztus vár terád, lekét küldi hozzád,<br/>mert közel jön ő: irgalmas üdvözitő!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjjetek Hozzá, kik szomjazzátok Őt,<br/>Bensejéből élő víz forrása fakad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjjetek Hozzá, kik megfáradtatok,<br/>Megkönnyíti Jézus nehéz terhetek.<br/>Ref.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjjetek, Hozzá, ti alázatosak,<br/>Nektek akarja adni dicső országát!<br/>Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.11" modifiedIn="OpenLP 1.9.11" modifiedDate="2012-12-03T21:30:28">
+  <properties>
+    <titles>
+      <title>Legyen a béke teveled</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="114"/>
+	  <songbook name="Kék Könyv" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen a béke teveled, legyen a béke teveled,<br/>legyen a béke teveled, legyen a béke, béke, béke teveled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hevenu shalom aleikhem, hevenu shalom aleikhem,<br/>hevenu shalom aleikhem, hevenu shalom, shalom, shalom aleikhem!</lines>
+    </verse>
+  </lyrics>
+</song>

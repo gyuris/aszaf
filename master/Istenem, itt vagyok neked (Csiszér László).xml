@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.2.1" modifiedIn="OpenLP 2.2.1" modifiedDate="2015-11-05T14:28:43">
+  <properties>
+    <titles>
+      <title lang="hu">Istenem, itt vagyok neked</title>
+    </titles>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook entry="332" name="Szent András Énekfüzet" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 c1 v5 v6 c2 v7 c3 v8 c4 v9 c5 v10 v11 c5 v12 v13 c5 v14 v15 c5 v16 v17 c5 v18 c6 b1 c6 v19 c7 v20 c8 v21 c9 b2 v22 v23 c9 v24 v25 v26 c9 v27 v28 v29 c9 v30 v31 v32 v33 c9 v34 v35 v36 c9 v37 c10 v38 c11 v39 c12 v40 c13</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, itt vagyok Neked! <br/>Istenem Te rám nézel,<br/>és én áldalak, áldalak, Atyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekinteted megnyugszik rajtam,<br/>tekinteted megnyugszik rajtam<br/>és én áldalak, áldalak, Atyám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istenem, Te rám nézel, <br/>én is a Te Arcod keresem,<br/>és áldalak, áldalak, Atyám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenem, Te rám nézel, <br/>én Istenem Rád nézek,<br/>és áldalak, áldalak, Atyám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rám nézel, rám nézel.  </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Itt vagyok a Te jelenlétedben, <br/>jelenléted körbevesz<br/>és én áldalak, áldalak Atyám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szerelmed kiömlik most rám, <br/>ölelj át én édes Atyám<br/>és én áldalak, áldalak Atyám!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Átölelsz, átölelsz. <br/>Rám nézel és átölelsz!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szentlélek tölts el most engem,<br/> jöjj és mosd át a szívem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Te betöltesz, Szentlélek!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szentlélek köszönöm Neked, <br/>hogy itt vagy a szívemben, <br/>áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Te bennem élsz, Szentlélek!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Szentlélek, uralkodj bennem! <br/>Jöjj és vezessél engem!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Uralkodjál egész lényemben!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Gondolatomban Te légy az Úr,<br/>gondolatomban Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Elmémben Te légy az Úr,<br/>elmémben Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Álmaimban Te légy az Úr.<br/>álmaimban Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Vágyaimban Te légy az Úr,<br/>vágyaimban Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Testemen Te légy az Úr,<br/>testemen Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Érzelmemben Te légy az Úr,<br/>érzelmemben Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Beszédemben Te légy az Úr,<br/>beszédemben Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Tetteimben Te légy az Úr,<br/>tetteimben Te légy az Úr!<br/>Áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Szentlélek, használj ma engem, <br/>hangszerként végy a kezedbe <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Cselekedjél általam!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Az Úrnak Lelke van énrajtam, azért kent fel engem, hogy örömhírt vigyek a szegényeknek, elküldött, hogy szabadulást hirdessek a foglyoknak, látást a vakoknak, hogy szabadon bocsássam az elnyomottakat, és hirdessem az Úr kegyelmének esztendejét. (Lk 4,18–19)</lines>
+    </verse>
+    <verse name="v19">
+      <lines>Szentlélek, kenjél fel engem, <br/>Kenet, jöjj nyugodj meg rajtam <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Kenjél fel, Szentlélek!</lines>
+    </verse>
+    <verse name="v20">
+      <lines>Szentlélek, sóhajtozz bennem, <br/>jöjj, és imádkozz bennem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c8">
+      <lines>Sóhajtozzál, énbennem! <br/>Imádkozzál, énbennem!</lines>
+    </verse>
+    <verse name="v21">
+      <lines>Szentlélek taníts ma engem <br/>a Tőled jövő szent életet élnem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c9">
+      <lines>Tanítsál, Szentlélek!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bölcsesség és értelem Lelke, árassz el! Jó tanács és erősség Lelke, töltsél el! Tudomány és jámborság Lelke, töltsél be! Istenfélelem Lelke, töltsél el!</lines>
+    </verse>
+    <verse name="v22">
+      <lines>Szentlélek, bölcsesség Lelke, <br/>bölcsességre taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v23">
+      <lines>Szentlélek, okosság Lelke, <br/>okosságra taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v24">
+      <lines>Szentlélek, szeretet Lelke, <br/>szeretni taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v25">
+      <lines>Szentlélek hitnek Lelke, <br/>jöjj és növeld az én hitem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v26">
+      <lines>Szentlélek, reménység Lelke, <br/>taníts engem reménységgel élnem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v27">
+      <lines>Szentlélek, taníts ma engem <br/>a Te szíved szerint férfinak/nőnek lennem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v28">
+      <lines>Szentlélek, taníts ma engem, <br/>taníts engem jó férjnek/feleségnek lennem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v29">
+      <lines>Szentlélek, taníts ma engem, <br/>taníts engem jó apának/anyának lennem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v30">
+      <lines>Szentlélek, tisztaság Lelke, <br/>tisztaságra taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v31">
+      <lines>Szentlélek, bátorság Lelke, <br/>bátorságra taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v32">
+      <lines>Szentlélek, türelem Lelke, <br/>türelemre taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v33">
+      <lines>Szentlélek, békesség Lelke, <br/>békességre taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v34">
+      <lines>Szentlélek, szabadság Lelke, <br/>szabadságra taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v35">
+      <lines>Szentlélek, örömnek Lelke, <br/>örömre taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v36">
+      <lines>Szentlélek, alázat Lelke, <br/>alázatra taníts ma engem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="v37">
+      <lines>Szentlélek, erősíts engem, <br/>erősségem Te légy ma nékem <br/>és én áldalak, áldalak Szentlélek!</lines>
+    </verse>
+    <verse name="c10">
+      <lines>Árassz el a Te erőddel!</lines>
+    </verse>
+    <verse name="v38">
+      <lines>Jézusom, imádlak Téged, <br/>Te vagy a testté lett Ige, <br/>és én áldalak, áldalak Jézus!</lines>
+    </verse>
+    <verse name="c11">
+      <lines>Közénk jöttél, Jézusom!</lines>
+    </verse>
+    <verse name="v39">
+      <lines>Jézusom, szólíts meg engem, <br/>a Te éltető drága Igéddel,<br/>és én áldalak, áldalak Jézus!</lines>
+    </verse>
+    <verse name="c12">
+      <lines>Szólíts meg a Te Igéddel!</lines>
+    </verse>
+    <verse name="v40">
+      <lines>Jézusom, táplálj most engem, <br/>a Te tápláló drága Igéddel, <br/>és én áldalak, áldalak Jézus!</lines>
+    </verse>
+    <verse name="c13">
+      <lines>Tápláljál, a Te Igéddel!</lines>
+    </verse>
+  </lyrics>
+</song>

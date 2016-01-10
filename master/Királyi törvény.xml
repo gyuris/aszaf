@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Királyi törvény</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>E királyi törvény írja: Minden ember testvérünk!<br/>Aki életét másért adja, az a testvér szent nékünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>Atyaisten, végső Jóság, szeretetből alkottál;<br/>Kezed int és új föld néz rád, aki minden jót adtál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>Lobogó tűz, Isten Lelke, Szeretet-Láng, izzíts át;<br/>Tüzed útján szálljunk mennybe, ahol Jézus él s vár ránk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>Örök Isten, Szentháromság, szeretetben egy Fölség;<br/>Igaz út és fő Boldogság, neved áldás, békesség!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>Szeretetnek szép Szűz Anyját ne feledd el, jó testvér;<br/>Vele járjunk éltünk útján, vele érünk biztos célt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Királyi törvény: Szeress, hogy élj! Virulj ki emberszív!<br/>Atyád az Isten, dalolj, ne félj; kitárva szívét Jézus hív!<br/>Szűz Anyánkkal, Szent Józseffel Jézusunkhoz térhessünk;<br/>S minden ember-tesvérünkkel szeretetben élhessünk!Királyi…</lines>
+    </verse>
+  </lyrics>
+</song>

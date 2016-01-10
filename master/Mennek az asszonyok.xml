@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Mennek az asszonyok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="260"/>
+      <songbook name="Kék Könyv" entry="162B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennek az asszonyok, -  mennek az Úr sírjához,<br/>Keresik azt, akit megöltek,<br/>Keresik azt, akit szerettek,<br/>Mennek az asszonyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennek az asszonyok, - mennek az Úr sírjához,<br/>Kezükben fehér gyolcs,<br/>Szívükben fájdalom,<br/>Mennek az asszonyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mért keresitek Őt, az élőt a holtak között,<br/>Mért keresitek Őt, nincsen itt, feltámadott.<br/>Nincsen itt, - feltámadott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus megmondta, harmadnapra feltámad,<br/>Üres már a sír,<br/>Terjedjen a hír,<br/>Él a mi Megváltónk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mennek az asszonyok, mi is megyünk utánuk,<br/>Szívünkben nagy öröm,<br/>Ujjongjon a föld,<br/>Jézus, Ő az Úr!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mért keresitek Őt, az élőt a holtak között,<br/>Mért keresitek Őt, nincsen itt, feltámadott.<br/>Nincsen itt, - feltámadott!</lines>
+    </verse>
+  </lyrics>
+</song>

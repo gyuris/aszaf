@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:33">
+  <properties>
+    <titles>
+      <title>Krisztus Jézus született</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Jézus született, alleluja,<br/>örvendjetek emberek, alleluja,<br/>embertestbe öltözött, alleluja,<br/>osszuk szét az örömöt, alleluja.<br/>Alleluja, alleluja…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fénylik ma a föld, az ég, alleluja,<br/>sugározzuk szerteszét, alleluja,<br/>áldott ez az éjszaka, alleluja,<br/>hirdessük hát vígadva: alleluja!<br/>Alleluja, alleluja…</lines>
+    </verse>
+  </lyrics>
+</song>

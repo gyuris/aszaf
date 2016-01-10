@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:58" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Hozzád száll az énekem</title>
+      <title lang="en">Lord I Lift Your Name On High</title>
+    </titles>
+    <authors>
+      <author type="words">Rick Founds</author>
+      <author type="music">Rick Founds</author>
+      <author lang="hu" type="translation">Simonfalvi Krisztián</author>
+    </authors>
+    <songbooks>
+      <songbook entry="17" name="Szent András Énekfüzet" />ű
+      <songbook name="Zöld Könyv" entry="406"/>
+    </songbooks>
+    <copyright>© 1989 Maranatha Praise, Inc.</copyright>
+    <verseOrder>c1 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hozzád száll az énekem,<br />olyan jó Téged dicsérni!<br />Bűnös volt az életem,<br />eljöttél, hogy megments engem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mennyből jöttél közénk, hogy út legyél,<br />feláldoztad magad a bűnömért.<br />A Golgotán meghaltál, harmadnap feltámadtál,<br />uralkodsz mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Úrfelmutatás után</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram Jézus mindenható Élő Isten egy Fia kit az Atya szándékából Szentléleknek jóvoltából világra szült Mária.<br/>‖: Háladaloddal a világot új életre keltetted Szent Tested és Véred által vétkeinktől szabadíts meg engemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, hogy amit Te parancsolsz, mindig hiven kövessem.<br/>Tőled soha el ne váljak, kivüled mást ne kivánjak, lelkem újra szülessen.<br/>‖: Ki mint Isten az Atyával és az örök Lélekkel Úr vagy és betöltesz mindent, szegény ember lelkeinket áldással és élettel.</lines>
+    </verse>
+  </lyrics>
+</song>

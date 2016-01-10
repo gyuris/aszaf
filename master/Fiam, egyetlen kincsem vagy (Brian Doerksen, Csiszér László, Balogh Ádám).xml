@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2015-01-20T14:39:57" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Fiam, egyetlen kincsem vagy</title>
+      <title lang="en">Father To Son</title>
+      <title lang="en">Every Song</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author lang="hu" type="translation">Csiszér László</author>
+      <author lang="hu" type="translation">Balogh Ádám</author>
+    </authors>
+    <songbooks>
+      <songbook entry="145" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="417"/>
+    </songbooks>
+    <copyright>© 1994 Father's House Music</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fiam, egyetlen kincsem vagy,<br />a szeretetem túlárad irántad.<br />Fiam, barátként állok itt,<br />hogy veled maradjak az idők végéig.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden dal, ami elér,<br />azt suttogja szerelmem tiéd,<br />fénylő hangok, dallamok<br />tengerében ott vagyok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiam, az életed nagy kincs,<br />fiam, tudnod kell, ez mindig igaz marad.<br />Fiam, akkor is hogyha félsz,<br />amikor elborít a sötétség.</lines>
+    </verse>
+  </lyrics>
+</song>
