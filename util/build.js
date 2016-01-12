@@ -141,13 +141,16 @@ for (i in index.local) {
 /**
  * Csomagolás
  */
+// az aktuális futási könyvtárt megváltoztatjuk, hogy a zip csomagokban ne legyen benne a songbook mappa
+process.chdir(EXPORT);
 // listázzuk az össze export könyvtárat
-var files = fs.readdirSync(EXPORT);
+var files = fs.readdirSync(process.cwd());
 for (var i in files) {
     // minden gyűjteménynek létrehozunk egy 7z csomagot
     var archive = new zip();
     // beolvasunk mindent xml fájlt és elmentjük a gyökérbe a gyűjtemény nevével
-    archive.add( ARCHIVE + files[i] + '.7z', EXPORT + files[i], {
+    // FIXME: fixen visszalépünk egy mappát felfelé. Az EXPORT állandó-hoz képest ez belekódolt...
+    archive.add( '../' + files[i] + '.7z', files[i], {
       wildcards: [ '*.xml', '*.csv' ]
     })
     .progress(function (files) {
