@@ -50,7 +50,7 @@ for (var i in files) {
     var select = xpath.useNamespaces({"song": NAMESPACE});
     var nodes  = select('//song:songbook[@name]', doc);
     var data   = {
-        title       : select('//song:title[@lang="hu"][1]/text()', doc).join(),
+        title       : ( select('//song:title[@lang="hu"][1]/text()', doc).join() != '' ) ? select('//song:title[@lang="hu"][1]/text()', doc).join() : select('//song:title[1]/text()', doc).join(),
         alternate   : select('//song:title[@lang="hu"][2]/text()', doc).join(),
         original    : select('//song:title[@lang!="hu"][1]/text()', doc).join(),
         words       : select('//song:author[@type="words"]/text()', doc).join(', '),
