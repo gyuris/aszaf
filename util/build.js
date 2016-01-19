@@ -19,11 +19,13 @@ var json2csv = require('json2csv');
 /**
  * Állandók
  */
-const MASTER    = 'master/'; // a mester könyvtár helye a util-hoz viszonyítva
-const EXPORT    = 'songbooks/'; // az export könyvtár helye a util-hoz viszonyítva
-const ARCHIVE   = './'; // a végleges csomagolt fájlok helye
+const MASTER    = process.cwd() + '/master/'; // a mester könyvtár helye a util-hoz viszonyítva
+const EXPORT    = process.cwd() + '/songbooks/'; // az export könyvtár helye a util-hoz viszonyítva
+const ARCHIVE   = process.cwd(); // a végleges csomagolt fájlok helye
+const PACKAGE   = EXPORT + 'Ászáf csomag/'
 const NAMESPACE = 'http://openlyrics.info/namespace/2009/song';
- 
+
+
 /**
  * Feldolgozás
  */
@@ -32,6 +34,9 @@ var index = { global : [], local : [] };
 // munkamappa létrehozása
 if (!fs.existsSync(EXPORT)){
     fs.mkdirSync(EXPORT);
+};
+if (!fs.existsSync(PACKAGE)){
+    fs.mkdirSync(PACKAGE);
 };
 // olvassuk az összes fájlt a könyvtárból egyenként
 var files = fs.readdirSync(MASTER);
@@ -44,6 +49,10 @@ for (var i in files) {
     var stat = fs.statSync(MASTER + files[i]);
     // megnyitjuk a fájlt
     var file = fs.readFileSync( MASTER + files[i], { encoding : 'UTF-8' });
+    // kiírjuk a fájlt az Ászáf csomagba módosítás nélkül
+    fs.writeFileSync(PACKAGE + files[i], file);
+    // szinkronizáljuk az új fájl időbélyegét a régihez
+    fs.utimesSync(PACKAGE + files[i], stat.atime, stat.mtime);
     // a tartalmát DOM-má alakítjuk
     var doc = new dom().parseFromString(file);
     // kiolvassuk a dal adatait
@@ -129,6 +138,8 @@ for (var i in files) {
 json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény", "Állomány" ] }, function(err, csv) {
     if (err) console.log(err);
     fs.writeFileSync( ARCHIVE + '/Tartalomjegyzék.csv', csv);
+    // betesszük a csomagba is
+    fs.writeFileSync( PACKAGE + '/Tartalomjegyzék.csv', csv);
 });
 // lokális jegyzék
 for (i in index.local) {
@@ -154,9 +165,9 @@ for (var i in files) {
       wildcards: [ '*.xml', '*.csv' ]
     })
     .progress(function (files) {
-        console.log( 'Zipped -> %s', files);
     })
     .catch(function (err) {
         console.error(err);
     });
+    console.log('Csomagolva: ' + files[i]);
 };
