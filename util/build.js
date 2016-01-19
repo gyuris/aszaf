@@ -137,8 +137,6 @@ for (var i in files) {
 // globális jegyzék
 json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény", "Állomány" ] }, function(err, csv) {
     if (err) console.log(err);
-    fs.writeFileSync( ARCHIVE + '/Tartalomjegyzék.csv', csv);
-    // betesszük a csomagba is
     fs.writeFileSync( PACKAGE + '/Tartalomjegyzék.csv', csv);
 });
 // lokális jegyzék
@@ -157,11 +155,14 @@ process.chdir(EXPORT);
 // listázzuk az össze export könyvtárat
 var files = fs.readdirSync(process.cwd());
 for (var i in files) {
+    if ( !fs.lstatSync(files[i]).isDirectory() )  {
+        continue;
+    };
     // minden gyűjteménynek létrehozunk egy 7z csomagot
     var archive = new zip();
     // beolvasunk mindent xml fájlt és elmentjük a gyökérbe a gyűjtemény nevével
     // FIXME: fixen visszalépünk egy mappát felfelé. Az EXPORT állandó-hoz képest ez belekódolt...
-    archive.add( '../' + files[i] + '.7z', files[i], {
+    archive.add( files[i] + '.7z', files[i], {
       wildcards: [ '*.xml', '*.csv' ]
     })
     .progress(function (files) {
