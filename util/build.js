@@ -161,7 +161,6 @@ for (var i in files) {
     // minden gyűjteménynek létrehozunk egy 7z csomagot
     var archive = new zip();
     // beolvasunk mindent xml fájlt és elmentjük a gyökérbe a gyűjtemény nevével
-    // FIXME: fixen visszalépünk egy mappát felfelé. Az EXPORT állandó-hoz képest ez belekódolt...
     archive.add( files[i] + '.7z', files[i], {
       wildcards: [ '*.xml', '*.csv' ]
     })
