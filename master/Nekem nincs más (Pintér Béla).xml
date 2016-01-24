@@ -12,17 +12,15 @@
     <songbooks>
       <songbook entry="271" name="Szent András Énekfüzet" />
     </songbooks>
-    <verseOrder>v1 c1a c1b</verseOrder>
+    <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Nekem nincs más <br />Rajtad kívül, Jézus,<br />életem forrása vagy,<br />kézzel, lábbal, <br />szívvel, szájjal<br />dicsérlek, Uram!</lines>
     </verse>
-    <verse name="c1a">
-      <lines>Ez a hús-vér templom<br />Érted épült,<br />Neked ég a tűz bent<br />oltárainál.</lines>
-    </verse>
-    <verse name="c1b">
-      <lines>Ez a hús-vér templom<br />Téged dicsér,<br />szívem minden húrja<br />Rólad muzsikál.</lines>
+    <verse name="c1">
+      <lines break="optional">Ez a hús-vér templom<br/>Érted épült,<br/>Neked ég a tűz bent<br/>oltárainál.</lines>
+      <lines>Ez a hús-vér templom<br/>Téged dicsér,<br/>szívem minden húrja<br/>Rólad muzsikál.</lines>
     </verse>
   </lyrics>
 </song>
