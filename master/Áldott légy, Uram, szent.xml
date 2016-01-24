@@ -10,7 +10,8 @@
     </authors>
     <songbooks>
       <songbook name="Zöld Könyv" entry="272"/>
-    </songbooks>
+      <songbook name="Kék Könyv" entry="242"/>
+  </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
