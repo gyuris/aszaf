@@ -11,6 +11,7 @@
     <songbooks>
       <songbook name="Sárga könyv" entry="126"/>
       <songbook name="Zöld Könyv" entry="269"/>
+      <songbook name="Kék Könyv" entry="199"/>
     </songbooks>
   </properties>
   <lyrics>
