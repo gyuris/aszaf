@@ -12,6 +12,7 @@
     </authors>
     <songbooks>
       <songbook entry="110" name="Szent András Énekfüzet" />
+      <songbook name="Zöld Könyv" entry="422"/>
     </songbooks>
     <copyright>© 1997 EagleStar Productions</copyright>
     <verseOrder>v1 p1 c1</verseOrder>
