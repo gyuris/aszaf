@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
+  <properties>
+    <titles>
+      <title>Mester, hol lakol? Jézus</title>
+      <title>Totus tuus</title>
+      <title>Teljesen a Tiéd</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Varga Attila</author>
+      <author type="music">Varga Attila</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="328"/>
+      <songbook name="Zöld Könyv" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mester, hol lakol? Jézus, merre jársz? Mutasd meg, hol van az ország!<br/>Mester, hol lakol? Kérünk, válaszolj, merre visz az Út?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mester, mit tegyek, hogy életem legyen, küldd el Lelked, vár a mi szívünk.<br/>Mester, mit tegyek, hogy megismerjelek, szólj, mit kívánsz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Jöjjetek hozzám, lássátok! Jöjjetek hozzám, kik megfáradtatok!<br/>Töröljük le együtt a világ könnyeit, gyógyítsuk együtt a világ sebeit!</lines>
+      <lines break="optional">Jöjjetek hozzám, érintsetek! Jöjjetek hozzám, és bátran higgyetek!<br/>Szeressétek egymást, mint én szerettelek, ímé, az ország itt van köztetek!</lines>
+      <lines>Totus Tuus, totus Tuus, totus Tuus! Teljesen a Tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>
