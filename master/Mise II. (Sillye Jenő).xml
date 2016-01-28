@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:45">
+  <properties>
+    <titles>
+      <title>Isten báránya, Te elveszed</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Sillye Jenő</author>
+      <author type="music">Sillye Jenő</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zöld Könyv" entry="285A"/>
+      <songbook name="Zöld Könyv" entry="285B"/>
+      <songbook name="Zöld Könyv" entry="285C"/>
+      <songbook name="Zöld Könyv" entry="285D"/>
+      <songbook name="Kék Könyv" entry="302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Krisztus eljöttél, hogy felemeld a bűnös embert,<br/>Irgalmazz nekünk…<br/>Jézus Krisztus eljöttél, hogy feláldozd az életedet,<br/>Kegyelmezz nekünk…<br/>Jézus Krisztus eljöttél, hogy megtisztísd az életünket,<br/>Irgalmazz nekünk…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség, dicsőség,<br/>Dicsőség a magasságban Istennek!<br/>És a Földön békesség,<br/>Békesség a jó szándékú embernek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőség Neked örömeinkért,<br/>Dicsőség Neked szenvedéseinkért,<br/>Dicsőség Neked fájó könnyeinkért,<br/>Dicsőség Neked egész életünkért,<br/>‖: Mert a Te békédet el nem veheti tőlünk senki sem! :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent vagy, szent vagy, szent vagy mindenség Ura, Istene!<br/>Dicsőséged betölti a mennyet és a földet, a mennyet és a földet!<br/>Hozsanna a magasságban, hozsanna a magasságban, áldott, aki jön az Úr nevében!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>‖: Isten báránya, Te elveszed a világ bűneit,<br/>Irgalmazz, irgalmazz nekünk! :‖<br/>Isten báránya, Te elveszed a világ bűneit,<br/>Adj nekünk, adj nekünk békét!</lines>
+    </verse>
+  </lyrics>
+</song>
