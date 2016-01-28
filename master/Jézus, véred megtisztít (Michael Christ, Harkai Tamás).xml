@@ -11,9 +11,9 @@
       <author lang="hu" type="translation">Harkai Tamás</author>
     </authors>
     <songbooks>
-      <songbook entry="12" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="434"/>
-	  <songbook name="Kék Könyv" entry="67D"/>
+      <songbook entry="12" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="434"/>
+	  <songbook name="Kék könyv" entry="67D"/>
     </songbooks>
     <copyright>© 1985 Mercy / Vineyard Publishing</copyright>
     <verseOrder>v1</verseOrder>

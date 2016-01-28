@@ -9,8 +9,8 @@
       <author type="music">Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook entry="108" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="429"/>
+      <songbook entry="108" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="429"/>
     </songbooks>
     <verseOrder>v1 v2</verseOrder>
   </properties>

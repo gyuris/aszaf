@@ -9,8 +9,8 @@
       <author type="music">Gável András</author>
     </authors>
     <songbooks>
-      <songbook entry="246" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="329"/>
+      <songbook entry="246" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="329"/>
     </songbooks>
     <verseOrder>v1 c1</verseOrder>
   </properties>

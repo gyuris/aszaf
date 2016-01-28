@@ -11,9 +11,9 @@
       <author lang="hu" type="translation">Fábry Kornél</author>
     </authors>
     <songbooks>
-      <songbook entry="23" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="219"/>
-	  <songbook name="Kék Könyv" entry="1B"/>
+      <songbook entry="23" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="219"/>
+	  <songbook name="Kék könyv" entry="1B"/>
     </songbooks>
     <copyright>© Édition de L'Emmanuel</copyright>
     <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>

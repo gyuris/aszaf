@@ -9,8 +9,8 @@
       <author type="music">ismeretlen szerző</author>
     </authors>
     <songbooks>
-      <songbook entry="133" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="435"/>
+      <songbook entry="133" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="435"/>
     </songbooks>
     <verseOrder>v1 c1</verseOrder>
   </properties>

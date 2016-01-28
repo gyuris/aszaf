@@ -10,9 +10,9 @@
       <author lang="hu" type="translation">Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook entry="6" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="426"/>
-	  <songbook name="Kék Könyv" entry="131B"/>
+      <songbook entry="6" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="426"/>
+	  <songbook name="Kék könyv" entry="131B"/>
     </songbooks>
     <copyright>© 1997 Új Jeruzsálem Közösség</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>

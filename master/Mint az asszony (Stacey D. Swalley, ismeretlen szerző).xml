@@ -11,8 +11,8 @@
       <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
-      <songbook entry="25" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="295"/>
+      <songbook entry="25" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="295"/>
     </songbooks>
     <copyright>© 1993 Swalley Music</copyright>
     <verseOrder>v1 c1</verseOrder>

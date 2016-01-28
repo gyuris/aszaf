@@ -12,9 +12,9 @@
       <author lang="hu" type="translation">Prazsák László</author>
     </authors>
     <songbooks>
-      <songbook entry="2" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="423"/>
-	  <songbook name="Kék Könyv" entry="271"/>
+      <songbook entry="2" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="423"/>
+	  <songbook name="Kék könyv" entry="271"/>
     </songbooks>
     <copyright>© 1995 Mercy / Vineyard Publishing</copyright>
     <verseOrder>v1 c1 v1</verseOrder>

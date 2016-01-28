@@ -11,8 +11,8 @@
       <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
-      <songbook entry="109" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="438"/>
+      <songbook entry="109" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="438"/>
     </songbooks>
     <copyright>© 1982 Stuart Dauermann</copyright>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>

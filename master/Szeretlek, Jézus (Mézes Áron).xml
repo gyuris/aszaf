@@ -9,8 +9,8 @@
       <author type="music">Mézes Áron</author>
     </authors>
     <songbooks>
-      <songbook entry="105" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="436"/>
+      <songbook entry="105" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="436"/>
     </songbooks>
     <verseOrder>v1 p1 c1 v2 p1 c1 v3 p1 c1</verseOrder>
   </properties>

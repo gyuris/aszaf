@@ -12,9 +12,9 @@
       <author lang="hu" type="translation">Fábry Kornél</author>
     </authors>
     <songbooks>
-      <songbook entry="297" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="456"/>
-	  <songbook name="Kék Könyv" entry="300"/>
+      <songbook entry="297" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="456"/>
+	  <songbook name="Kék könyv" entry="300"/>
     </songbooks>
     <verseOrder>v1 c1 b1</verseOrder>
   </properties>

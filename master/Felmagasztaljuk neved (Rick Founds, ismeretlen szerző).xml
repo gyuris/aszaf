@@ -11,8 +11,8 @@
       <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
-      <songbook entry="16" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="445"/>
+      <songbook entry="16" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="445"/>
     </songbooks>
     <copyright>© 1989 Maranatha Praise, Inc.</copyright>
     <verseOrder>c1 v1 c1 v2 c1</verseOrder>

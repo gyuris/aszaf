@@ -9,9 +9,9 @@
       <author type="music">Németh S. Judit</author>
     </authors>
     <songbooks>
-      <songbook entry="7" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="381"/>
-	  <songbook name="Kék Könyv" entry="13B"/>
+      <songbook entry="7" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="381"/>
+	  <songbook name="Kék könyv" entry="13B"/>
     </songbooks>
     <copyright>© Hit Gyülekezete</copyright>
     <verseOrder>c1 v1 c1 v2</verseOrder>

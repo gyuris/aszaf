@@ -11,8 +11,8 @@
       <author lang="hu" type="translation">Csiszér László</author>
     </authors>
     <songbooks>
-      <songbook entry="41" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="405"/>
+      <songbook entry="41" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="405"/>
     </songbooks>
     <verseOrder>c1 v1 c1 v2 c1</verseOrder>
   </properties>

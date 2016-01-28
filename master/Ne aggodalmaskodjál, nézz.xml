@@ -9,8 +9,8 @@
       <author></author>
     </authors>
     <songbooks>
-      <songbook name="Zöld Könyv" entry="256"/>
-	  <songbook name="Kék Könyv" entry="164"/>
+      <songbook name="Zöld könyv" entry="256"/>
+	  <songbook name="Kék könyv" entry="164"/>
     </songbooks>
   </properties>
   <lyrics>

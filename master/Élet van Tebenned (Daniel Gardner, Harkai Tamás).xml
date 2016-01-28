@@ -11,9 +11,9 @@
       <author lang="hu" type="translation">Harkai Tamás</author>
     </authors>
     <songbooks>
-      <songbook entry="3" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="234"/>
-	  <songbook name="Kék Könyv" entry="55B"/>
+      <songbook entry="3" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="234"/>
+	  <songbook name="Kék könyv" entry="55B"/>
     </songbooks>
     <copyright>© 1986 Integrity's Hosanna! Music</copyright>
     <verseOrder>c1 v1</verseOrder>

@@ -9,8 +9,8 @@
       <author>Hollósy Péter</author>
     </authors>
     <songbooks>
-      <songbook name="Zöld Könyv" entry="280"/>
-	  <songbook name="Kék Könyv" entry="220"/>
+      <songbook name="Zöld könyv" entry="280"/>
+	  <songbook name="Kék könyv" entry="220"/>
     </songbooks>
   </properties>
   <lyrics>

@@ -9,8 +9,8 @@
       <author lang="hu" type="translation">Kunszabó Zoltán</author>
     </authors>
     <songbooks>
-      <songbook entry="49" name="Szent András Énekfüzet" />
-      <songbook name="Zöld Könyv" entry="249"/>
+      <songbook entry="49" name="Szent András énekfüzet" />
+      <songbook name="Zöld könyv" entry="249"/>
     </songbooks>
     <verseOrder>v1 c1</verseOrder>
   </properties>

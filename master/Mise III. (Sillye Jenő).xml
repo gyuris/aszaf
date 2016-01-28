@@ -10,11 +10,11 @@
       <author type="music">Sillye Jenő</author>
     </authors>
     <songbooks>
-      <songbook name="Kék Könyv" entry="158"/>
+      <songbook name="Kék könyv" entry="158"/>
       <songbook name="Sárga könyv" entry="14"/>
-      <songbook name="Zöld Könyv" entry="255A"/>
-      <songbook name="Zöld Könyv" entry="255B"/>
-      <songbook name="Zöld Könyv" entry="255C"/>
+      <songbook name="Zöld könyv" entry="255A"/>
+      <songbook name="Zöld könyv" entry="255B"/>
+      <songbook name="Zöld könyv" entry="255C"/>
     </songbooks>
   </properties>
   <lyrics>
