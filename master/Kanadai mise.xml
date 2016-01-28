@@ -2,9 +2,9 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:35">
   <properties>
     <titles>
-      <title>Kanadai mise - Sanctus</title>
+      <title>Kanadai mise</title>
     </titles>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author></author>
     </authors>
@@ -14,6 +14,14 @@
   </properties>
   <lyrics>
     <verse name="v1">
+      <lines break="optional">Uram, irgalmazz! Uram, irgalmazz!<br/>Ments meg minket, Istenünk! Uram, irgalmazz!</lines>
+      <lines break="optional">Krisztus kegyelmezz! Krisztus kegyelmezz!<br/>Tiszta szívet adj nekünk, Krisztus kegyelmezz!</lines>
+      <lines>Uram, irgalmazz! Uram, irgalmazz!<br/>Újítsd meg az életünk, Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja! Alleluja!<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v3">
       <lines>Szent, szent, szent az Úr, Ő a kezdet és a vég!<br/>Dicsőséged betölti a mennyet és a földet, hozsanna a magasságban!<br/>Áldott, aki jön az Úr nevében! Hozsanna a magasságban!</lines>
     </verse>
   </lyrics>
