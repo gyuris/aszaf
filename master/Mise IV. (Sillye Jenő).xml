@@ -6,7 +6,8 @@
     </titles>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
-      <author></author>
+      <author type="words">Sillye Jenő</author>
+      <author type="music">Sillye Jenő</author>
     </authors>
     <songbooks>
       <songbook name="Kék könyv" entry="159"/>
