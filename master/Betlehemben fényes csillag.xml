@@ -4,26 +4,24 @@
     <titles>
       <title>Betlehemben fényes csillag</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
     <authors>
       <author></author>
     </authors>
     <songbooks>
       <songbook name="Zöld Könyv" entry="342"/>
+      <songbook name="Kék Könyv" entry="98"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Betlehemben fényes csillag volt az égen,<br/>Megszületett, akit vártunk régen,<br/>kis jászolban az Isten fia.</lines>
     </verse>
+    <verse name="c1">
+      <lines>‖: Jézus Király itt vagyunk már,<br/>ki téged keres, mindig megtalál. :‖</lines>
+    </verse>
     <verse name="v2">
-      <lines>‖: Jézus Király itt vagyunk már,<br/>ki téged keres, mindig megtalál. :‖</lines>
-    </verse>
-    <verse name="v3">
       <lines>Három király boldog volt, hogy Téged láthatott,<br/>s reggelre minden ember már sokat tudott,<br/>kis jászolban az Isten fia.</lines>
-    </verse>
-    <verse name="v4">
-      <lines>‖: Jézus Király itt vagyunk már,<br/>ki téged keres, mindig megtalál. :‖</lines>
     </verse>
   </lyrics>
 </song>
