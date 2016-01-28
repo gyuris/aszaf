@@ -3,13 +3,15 @@
   <properties>
     <titles>
       <title>A legsötétebb ég alatt</title>
+      <title>De profundis</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
+    <verseOrder>v1 v2 e1</verseOrder>
     <authors>
       <author></author>
     </authors>
     <songbooks>
       <songbook name="Zöld Könyv" entry="233"/>
+      <songbook name="Kék Könyv" entry="50"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -17,10 +19,10 @@
       <lines>A legsötétebb ég alatt,<br/>Isten, Téged találtalak.<br/>‖: A legmélyebb örvény felett,<br/>Uram, én téged leltelek! :‖</lines>
     </verse>
     <verse name="v2">
-      <lines>A csillagtalan éjjelen<br/>Egy láng lobog a lelkemen,<br/>‖: Mint reves fában gyönge fény,<br/>De mégis élet és remény! :‖</lines>
+      <lines>A csillagtalan éjjelen<br/>Egy láng lobog a lelkemen,<br/>‖: Mint reves fában gyönge fény,<br/>de mégis élet és remény! :‖</lines>
     </verse>
-    <verse name="v3">
-      <lines>Isten némán hozzám hajol,<br/>Engem idéznek - valahol.</lines>
+    <verse name="e1">
+      <lines>Isten némán hozzám hajol,<br/>engem idéznek valahol.</lines>
     </verse>
   </lyrics>
 </song>
