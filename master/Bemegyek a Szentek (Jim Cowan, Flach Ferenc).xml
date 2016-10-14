@@ -14,14 +14,17 @@
       <songbook entry="259" name="Szent András énekfüzet" />
     </songbooks>
     <copyright>© 1999 Integrity's Hosanna! Music</copyright>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1 p1 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Bemegyek a Szentek Szentjébe,<br />bemegyek a Bárány vérén át.<br />Bemegyek, csak Téged dicsérlek,<br />bemegyek, hogy hódoljak Neked.</lines>
     </verse>
+    <verse name="p1">
+      <lines>Uram, dicsérlek, dicsérlek,<br />Uram, dicsérlek, dicsérlek!</lines>
+    </verse>
     <verse name="c1">
-      <lines>Uram, dicsérlek, dicsérlek,<br />Uram, dicsérlek, dicsérlek!<br />Neved áldom, szent, szent Uram,<br />Neved áldom, szent, szent Uram!</lines>
+      <lines>Neved áldom, szent, szent Uram,<br />A Te neved áldom, szent, szent Uram!</lines>
     </verse>
   </lyrics>
 </song>
