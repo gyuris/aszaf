@@ -13,7 +13,7 @@
     <songbooks>
       <songbook entry="12" name="Szent András énekfüzet" />
       <songbook name="Zöld könyv" entry="434"/>
-	  <songbook name="Kék könyv" entry="67D"/>
+      <songbook name="Kék könyv" entry="67D"/>
     </songbooks>
     <copyright>© 1985 Mercy / Vineyard Publishing</copyright>
     <verseOrder>v1</verseOrder>
