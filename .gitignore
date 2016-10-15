@@ -1,3 +1,4 @@
 # a build folyamat állományainak kizárása
 
 /songbooks/*
+/node_modules/*

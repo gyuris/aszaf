@@ -1,10 +1,11 @@
 /**
  * TELEPÍTÉS
  * sudo apt-get install npm p7zip-full
+ * mkdir node_modules
  * npm install xpath
  * npm install xmldom
- * npm install --save node-7z
- * npm install json2csv --save
+ * npm install node-7z
+ * npm install json2csv
  */
 
 /**
@@ -135,17 +136,12 @@ for (var i in files) {
  * Jegyzék kiírása
  */
 // globális jegyzék
-json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény", "Állomány" ] }, function(err, csv) {
-    if (err) console.log(err);
-    fs.writeFileSync( PACKAGE + '/Tartalomjegyzék.csv', csv);
-});
+var csv = json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Gyűjtemény", "Állomány" ] });
+fs.writeFileSync( PACKAGE + '/Tartalomjegyzék.csv', csv);
 // lokális jegyzék
 for (i in index.local) {
-    json2csv({ data: index.local[i], fields: [ "Gyűjtemény", "Sorszám", "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Állomány" ] }, function(err, csv) {
-        if (err) console.log(err);
-        console.log(EXPORT + i);
-        fs.writeFileSync( EXPORT + i + '/Tartalomjegyzék.csv', csv);
-    });
+    var csv = json2csv({ data: index.local[i], fields: [ "Gyűjtemény", "Sorszám", "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Állomány" ] } );
+    fs.writeFileSync( EXPORT + i + '/Tartalomjegyzék.csv', csv);
 };
 
 /**
