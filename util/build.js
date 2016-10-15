@@ -143,6 +143,7 @@ json2csv({ data: index.global, fields: [ "Cím", "Alternatív cím", "Eredeti c�
 for (i in index.local) {
     json2csv({ data: index.local[i], fields: [ "Gyűjtemény", "Sorszám", "Cím", "Alternatív cím", "Eredeti cím", "Szöveg szerzői", "Zene szerzői", "Fordítók", "Variáns", "Copyright", "Állomány" ] }, function(err, csv) {
         if (err) console.log(err);
+        console.log(EXPORT + i);
         fs.writeFileSync( EXPORT + i + '/Tartalomjegyzék.csv', csv);
     });
 };
