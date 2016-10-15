@@ -152,8 +152,9 @@ for (i in index.local) {
  */
 // az aktuális futási könyvtárt megváltoztatjuk, hogy a zip csomagokban ne legyen benne a songbook mappa
 process.chdir(EXPORT);
-// listázzuk az össze export könyvtárat
+// listázzuk az összes export könyvtárat
 var files = fs.readdirSync(process.cwd());
+console.log(files);
 for (var i in files) {
     if ( !fs.lstatSync(files[i]).isDirectory() )  {
         continue;
