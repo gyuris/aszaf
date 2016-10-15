@@ -154,7 +154,6 @@ for (i in index.local) {
 process.chdir(EXPORT);
 // listázzuk az összes export könyvtárat
 var files = fs.readdirSync(process.cwd());
-console.log(files);
 for (var i in files) {
     if ( !fs.lstatSync(files[i]).isDirectory() )  {
         continue;

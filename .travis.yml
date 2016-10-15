@@ -5,6 +5,7 @@ node_js:
   - "6"
   - "5"
   - "4"
+  - "4.2"
   - "0.12"
   - "0.10"
   - "iojs"
@@ -14,5 +15,5 @@ before_install:
 install:
   - npm install xpath
   - npm install xmldom
-  - npm install --save node-7z
-  - npm install json2csv --save
+  - npm install node-7z --save
+  - npm install json2csv --save --global
