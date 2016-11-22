@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.1.4" modifiedIn="OpenLP 2.1.4" modifiedDate="2015-05-03T19:22:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-11-22T20:31:16">
   <properties>
     <titles>
-      <title>Fel, fel, fel</title>
       <title>Nem lefelé megyek</title>
+      <title>Fel, fel, fel</title>
     </titles>
     <copyright>© Pintér Béla</copyright>
     <verseOrder>c1 v1 c1 v2 c1 b1 v1 c1</verseOrder>

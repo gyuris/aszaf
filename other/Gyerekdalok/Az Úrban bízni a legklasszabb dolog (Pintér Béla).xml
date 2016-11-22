@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-11-22T20:30:14">
+  <properties>
+    <titles>
+      <title>Az Úrban bízni a legklasszabb dolog</title>
+      <title>Királyfi vagyok</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrban bízni a legklasszabb dolog, ha kell, hát küzdök, bátran harcolok. Van már célom, tudom, hol a helyem, a legkirályabb érzés, hogy a Királyt ismerem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bármi volt vagy bármi lesz, szívem már nem fél, ereimben ott folyik a királyi vér. Bármi volt vagy bármi lesz szívem már nem fél, ereimben ott folyik a királyi vér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kösz, nem hordok csíkos rabruhát, Krisztusban vár teljes szabadság, ő a célom, ő az életem, a legkirályabb érzés, hogy a Királyt ismerem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Királyfi vagyok, én meg királylány, a jövőnk már ott van a Királynál.</lines>
+    </verse>
+  </lyrics>
+</song>

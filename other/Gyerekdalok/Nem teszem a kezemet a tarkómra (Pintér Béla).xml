@@ -1,26 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-03T06:24:03">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-11-22T20:11:54">
   <properties>
     <titles>
+      <title>Nem teszem a kezemet a tarkómra</title>
       <title>Nem adom fel</title>
     </titles>
-    <verseOrder>c1 v1 v2 c1 b1 c1</verseOrder>
+    <verseOrder>c1 c1 v1 v2 c2 c2 b1 c2 c2</verseOrder>
     <authors>
-      <author>Pintér Béla</author>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
     </authors>
     <songbooks>
-      <songbook name="Gyerekdalok" />
+      <songbook name="Gyerekdalok"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Nem teszem a kezemet a tarkómra jöhet akármilyen nagy próba, nem teszem a kezemet a tarkómra mert már enyém a győzelem (nem adom fel).</lines>
+      <lines>Nem teszem a kezemet a tarkómra jöhet akármilyen nagy próba, nem teszem a kezemet a tarkómra mert már enyém a győzelem.</lines>
     </verse>
     <verse name="v1">
       <lines>Katona vagyok egy nagy hadseregben mindennap csatába kell mennem. <br/>A kapitány Jézus én rá figyelek mindennap új csatát nyerek. </lines>
     </verse>
     <verse name="v2">
       <lines>Gondolom nem mondok túl nagyot ha azt állítom, hogy harcos vagyok. <br/>Igéje a fegyver, hitem a pajzs, így aratok majd nagy diadalt.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nem teszem a kezemet a tarkómra jöhet akármilyen nagy próba, nem teszem a kezemet a tarkómra mert már enyém a győzelem.<br/>Nem adom fel!</lines>
     </verse>
     <verse name="b1">
       <lines>Szeretnék már én is végre kicsi Dávid lenni <br/>a góliátok ellen bátor szívvel harcba menni, <br/>mert van két kezem és jól vág az eszem <br/>és van egy erős Isten aki harcol velem. <br/>Legyőzöm az ellenséget, akármilyen bátor <br/>még akkor is ha nem én vagyok a Terminátor.</lines>

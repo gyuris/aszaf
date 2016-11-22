@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-11-22T20:18:55">
+  <properties>
+    <titles>
+      <title>Fény gyúlt a sötét éjszakában</title>
+      <title>Angyalének zeng</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1 e1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fény gyúlt a sötét éjszakában,<br/>hogy Istennel megbékélhessünk.<br/>Megtörtént a csodák-csodája,<br/>a Mennyel szövetségre léphettünk.<br/>Igen, a Mennyel szövetségre léphettünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új csillag tűnt fel Betlehemben,<br/>a reménység hajnalcsillaga:<br/>Jézus, az Istenből lett ember,<br/>a magasságos Isten Szent Fia!<br/>Ő a magasságos Isten Szent Fia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Angyalének zeng,<br/>mi is hirdetjük itt lent,<br/>hogy az Isten emberré lett.<br/>Felragyogott a fény, <br/>újra van remény,<br/>mert Isten emberré lett.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szeretett minket, mikor még nem is éltünk.<br/>Az Isten emberré lett értünk.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Emberré lett értünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-11-22T20:12:09">
+  <properties>
+    <titles>
+      <title>A Bibliában a három bölcsről</title>
+      <title>A három bölcs</title>
+    </titles>
+    <verseOrder>v1 c1 c1 b1 v2 c1 c1 v3 c2 c2 b1 c1 c1 e1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Bibliában a három bölcsről olvastál talán. <br/>Elindultak teve háton egy fényes csillag után. <br/>Nem volt könnyű az utazás, tevegeltek napokon át, <br/>de szívükben ott volt a vágy, hogy meglássák az Isten fiát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Legyél te is olyan mint a három bölcs, kövesd a csillagot, ami fenn ragyog. <br/>Nem kell tömjén, mirha meg az ékszerek, elég hogyha elhozod a szívedet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hát mire tanít minket a három bölcs? Légy bölcs!<br/>Mire tanít minket a három bölcs? Légy bölcs!<br/>Mire tanít minket a három bölcs? Légy bölcs!<br/>Na és mire tanít téged a három bölcs? Arra tanít, hogy legyek bölcs!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ajándékokat hoztak, letették Jézus lába elé. <br/>Ez persze nem tetszett a gonosznak, mert nagyon féltékeny volt szegény. <br/>Rögtön hívatta a bölcseket, mondják meg, hogy hol van ez az új király, <br/>de a bölcsek mivel bölcsek voltak, egy másik úton mentek tovább.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha te is bölcs vagy és bátor és követed a csillagot, <br/>jó ha tudod, kisbarátom, az ellenség is lépni fog. <br/>De te erősebb vagy nála, csak használd bátran Jézus nevét. <br/>Nézz fel, szabad a pálya, előre a győzelemért.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Legyél te is olyan mint a három bölcs, kövesd a csillagot ami fenn ragyog. <br/>Ne félj hogy majd likvidál az ellenség, a győzelem már csak a tiéd.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Elég hogyha elhozod a szívedet.<br/>Elég hogyha elhozod a szívedet.<br/>Na és mire tanít téged a három bölcs? Légy bölcs!</lines>
+    </verse>
+  </lyrics>
+</song>
