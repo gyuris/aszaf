@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-03-21T19:11:42">
+  <properties>
+    <titles>
+      <title>Egyszer egy kis bárány gondolt</title>
+      <title>Rólam van szó</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egyszer egy kis bárány gondolt egy nagyot,<br/>azt mondta magáról: „Én már elég nagy vagyok.<br/>Nem kell többé pásztor, és nem kell többé nyáj,<br/>élem az életemet, és csak megyek az orrom után.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mendegélt a bárány, s egy erdőbe érkezett.<br/>Azt hitte szegénykém, végleg elveszett.<br/>Sötétség borult rá, egyedül volt, és félt,<br/>sírdogált, s úgy hajtotta álomra a fejét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elindult a pásztor, hogy megkeresse őt.<br/>Tűvé tette érte a völgyet, hegytetőt.<br/>Megtalálta végül koszosan, éhesen,<br/>lehajolt, s vállára vette hűségesen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallgatom a történetet és tudom, nekem szól.<br/>Minden kérdésemre rögtön válaszol.<br/>Hallgatom és érzem, én vagyok az az egy,<br/>akiért a pásztor mindent egy lapra tett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincs előtte akadály, ha rólam van szó.<br/>Jön tűzön és vízen át, ha rólam van szó.<br/>Megmozgat minden követ, ha rólam van szó,<br/>segítségemre siet, mert rólam van szó!</lines>
+    </verse>
+  </lyrics>
+</song>
