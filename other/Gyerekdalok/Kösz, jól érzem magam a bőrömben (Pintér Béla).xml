@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2016-12-14T12:14:41">
+  <properties>
+    <titles>
+      <title>Kösz, jól érzem magam a bőrömben</title>
+      <title>Kösz, jól vagyok!</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kösz, jól érzem magam a bőrömben, <br/>nem hordom a jókedvemet bőröndben,<br/>Fülig ér a szám és a szemem ragyog, <br/>amióta tudom, azt hogy kié vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten képére lettem teremtve, <br/>nagyot nőttem a saját szememben,<br/>Magamról rosszat többé nem gondolok, <br/>mert felbecsülhetetlen érték vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lehetek nagy legény, mert minden az enyém,<br/>Jézusban megkaptam, mindent, amiről álmodtam,<br/>Vidám táncolok, tudom az angyalok majd nekem tapsolnak,<br/>Örök győztes vagyok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amikor meglátnak az emberek,<br/>Azt mondják: Nézzétek, tiszta apja ez a gyerek!<br/>Nekem meg fülig ér a szám és a szemem ragyog,<br/>Mert látják rajtam azt, hogy kié vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>
