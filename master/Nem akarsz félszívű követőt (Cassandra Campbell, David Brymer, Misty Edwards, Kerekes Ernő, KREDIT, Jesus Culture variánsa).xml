@@ -20,13 +20,14 @@
       <songbook entry="292" name="Szent András énekfüzet" />
     </songbooks>
     <copyright>© 2007 Forerunner Worship</copyright>
-    <verseOrder>i1 v1 c1 b1 c1 b2</verseOrder>
+    <verseOrder>v1 p1 c1 b1 c1 b2 c1</verseOrder>
+    <variant>Jesus Culture variánssa</variant>
   </properties>
   <lyrics>
-    <verse name="i1">
+    <verse name="v1">
       <lines>‖: Nem akarsz félszívű követőt, lényem tiéd! :‖</lines>
     </verse>
-    <verse name="v1">
+    <verse name="p1">
       <lines>Jöjj, légy karomra tett örök pecsét, pecsét a szívemen.<br />Mint a halál, szerelmed oly erős,<br />szenvedélyed mély, akár a sír.<br />Kerek tenger nem olthatja el.</lines>
     </verse>
     <verse name="c1">
