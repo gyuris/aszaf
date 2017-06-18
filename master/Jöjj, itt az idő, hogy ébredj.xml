@@ -3,10 +3,13 @@
   <properties>
     <titles>
       <title>Jöjj, itt az idő, hogy ébredj</title>
+      <title lang="en">Come Now Is The Time To Worship</title>
     </titles>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-      <author></author>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author lang="hu" type="translation">(Golgota Debrecen)</author>
     </authors>
     <songbooks>
       <songbook name="Zöld könyv" entry="299"/>
