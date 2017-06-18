@@ -21,23 +21,23 @@
       <songbook entry="327" name="Szent András énekfüzet" />
     </songbooks>
     <copyright>© sixsteps Music, Thankyou Music, Valley Of Songs Music, worshiptogether.com songs</copyright>
-    <verseOrder>v1 c1 v2 c1 b1 c1 v1 v2 e1 b1 e1</verseOrder>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 p1 c1 c1 v1 v2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Erőd várjuk, várjuk<br />Egy szívvel áldunk, imádunk<br />Tiéd ez az óra, szent óra,<br />Várunk Rád, Urunk!</lines>
     </verse>
-    <verse name="c1">
-      <lines>Ó-ó-ó Égből szózat zendül,<br />Ó-ó-ó Mint hatalmas vihar.<br />Ó-ó-ó Új pünkösdre vágyunk:<br />Áradj ránk újra szent tűz,<br />És ég a szívem, Ó-ó-ó<br />Ég a szívem, Ó-ó-ó</lines>
+    <verse name="p1">
+      <lines>Ó-ó-ó Égből szózat zendül,<br />Ó-ó-ó Mint hatalmas vihar.<br />Ó-ó-ó Új pünkösdre vágyunk:<br />Áradj ránk újra szent tűz!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>És ég a szívem, Ó-ó-ó<br />Ég a szívem, Ó-ó-ó</lines>
     </verse>
     <verse name="v2">
       <lines>Minden lány, minden ifjú<br />Próféták útjain járva<br />Istennek Országát várja<br />Fényt és tüzet gyújt.</lines>
     </verse>
     <verse name="b1">
-      <lines>Én nem rejtem el azt, hogy Tied vagyok!<br />Én nem rejtem el, mindig elmondom!<br />Én nem rejtem el, Lelked lángra gyújt:<br />És ég a szívem, ó-ó-ó.</lines>
-    </verse>
-    <verse name="e1">
-      <lines>Ég a szívem, ó-ó-ó.</lines>
+      <lines>Én nem rejtem el azt, hogy Tied vagyok!<br />Én nem rejtem el, mindig elmondom!<br />Én nem rejtem el, Lelked lángra gyújt:</lines>
     </verse>
   </lyrics>
 </song>
