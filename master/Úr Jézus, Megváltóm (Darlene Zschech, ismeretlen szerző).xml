@@ -15,11 +15,14 @@
       <songbook entry="106" name="Szent András énekfüzet" />
     </songbooks>
     <copyright>© 1993 Wondrous Worship</copyright>
-    <verseOrder>v1 c1</verseOrder>
+    <verseOrder>v1 v2 c1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Úr Jézus, Megváltóm, <br />nincs senki olyan, mint Te,<br />minden napon magasztalom<br />a Te szereteted nagy voltát.<br />Vigaszom, oltalmam, <br />menedékem, váram,<br />ami vagyok, egész valóm<br />Téged szomjaz, Téged áld!</lines>
+      <lines>Úr Jézus, Megváltóm, <br />nincs senki olyan, mint Te,<br />minden napon magasztalom<br />a Te szereteted nagy voltát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigaszom, oltalmam, <br />menedékem, váram,<br />ami vagyok, egész valóm<br />Téged szomjaz, Téged áld!</lines>
     </verse>
     <verse name="c1">
       <lines>Kiálts az Úrnak, te föld, énekelj,<br />adj dicsőséget a Felségesnek!<br />Hegyek, hódoljatok, zúgj, tenger,<br />a mi Urunk nagy nevének!<br />Éneklem hűséged és kegyelmed,<br />mindig szeretlek, én Istenem!<br />Semmi sem ér fel a Te jelenléteddel!</lines>
