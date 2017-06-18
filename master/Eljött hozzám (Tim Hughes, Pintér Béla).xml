@@ -14,7 +14,7 @@
       <songbook entry="202" name="Szent András énekfüzet" />
     </songbooks>
     <copyright>© 2000 Thankyou Music</copyright>
-    <verseOrder>v1 c1 b1 e1</verseOrder>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -23,11 +23,11 @@
     <verse name="c1">
       <lines>Eljöttem, hogy áldjam, csodáljam, imádjam<br />Őt, ki értem adta önmagát!<br />Csodálatos Isten, dicsőséges Bárány,<br />fogadd el szívem imádatát!</lines>
     </verse>
+    <verse name="v2">
+      <lines>Mindenség Királya, Őt minden magasztalja:<br />Glória az égben fenn!<br />Mert úgy szerettél, hogy emberré lettél,<br />szegénnyé tetted önmagad.</lines>
+    </verse>
     <verse name="b1">
       <lines>Nem tudom felfogni azt,<br />milyen nagy volt az áldozat!</lines>
-    </verse>
-    <verse name="e1">
-      <lines>Hívd segítségül nevét, és megmenekülsz!</lines>
     </verse>
   </lyrics>
 </song>
