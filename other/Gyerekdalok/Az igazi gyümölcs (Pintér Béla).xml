@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-24T06:38:24">
+  <properties>
+    <titles>
+      <title>Az igazi gyümölcs</title>
+      <title>Igazi gyümölcs</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mintha egy másik bolygóról jöttem volna, sokszor úgy érzem magam.<br/>Mert keveseket érdekel az igazi lényeg, hogy a szív mélyén mi van.<br/>Azt mondják, bio étel, Norbi update, akkor leszel menő.<br/>De nem akarok úgy járni, mint Hófehérke: Bár látszólag piros az alma, de mérgező.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az igazi gyümölcs a szeretet, békesség, <br/>öröm, hűség, jóság mértékletesség, <br/>türelem, szivesség, szelídség, <br/>az ilyenek ellen nincs törvény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Féltékenység, harag, önzés, buta civakodás, <br/>irigység, bálványimádás, megosztottság.<br/>Ezek a romlott ízű, rossz gyümölcsök nem mérgeznek tovább.<br/>Mert úgy döntöttem nem eszem többé éretlen, zöld színű, citrom ízű banánt.</lines>
+    </verse>
+  </lyrics>
+</song>
