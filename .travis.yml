@@ -2,10 +2,10 @@ language: node_js
 sudo: required
 node_js:
   - "node"
+  - "8"
+  - "7"
   - "6"
   - "5"
-  - "4"
-  - "iojs"
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq p7zip-full
