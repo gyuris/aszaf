@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-05-13T08:26:59">
+  <properties>
+    <titles>
+      <title>Az vagyok, aki megbámul</title>
+      <title>Ki vagyok én igazán</title>
+    </titles>
+    <verseOrder>v1 v2 b1 c1 c2 v3 b2 c1 c2 c1 c2 v3</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az vagyok,<br/>aki megbámul éjjel az égen egy tündöklő csillagot.<br/>Nézi, hogy hogy ragyog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az vagyok,<br/>kinek szemében most is egy őszinte, kócos kis srác ragyog.<br/>Épp azt mondja: jó vagyok</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Néha álmodom, <br/>hogy rohanok, futok és szárnyalok <br/>boldogan táncolok, nevetek, <br/>elhiszem azt, hogy én lehetek. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ki vagyok én igazán?<br/>Hol az igazi hazám?<br/>Szimplán, pőrén, meztelen<br/>mennyit ér az életem?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Teszem csak a dolgomat, <br/>cipelem a sorsomat, <br/>a lelkem mélyén, legbelül <br/>Isten alakú az űr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keresek<br/>egy tükröt, mely megmondja végre az igazi nevemet: <br/>Azt, hogy ki lehetek?</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Én elhiszem, <br/>hogy van aki túl lát a felszínen,<br/>Őt nem érdekli már a kirakat, <br/>megmondja nekem az igazat.</lines>
+    </verse>
+  </lyrics>
+</song>
