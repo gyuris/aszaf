@@ -3,17 +3,18 @@
   <properties>
     <titles>
       <title lang="hu">Az Ő neve bástya</title>
-      <title lang="en">For The Lord Is My Tower</title>
+      <title lang="es">Gloria sea al nombre de Dios</title>
+      <title lang="en">The Name Of The Lord</title>
     </titles>
     <authors>
-      <author type="words">Steve Kuban</author>
-      <author type="music">Steve Kuban</author>
+      <author type="words">Clinton Utterbach</author>
+      <author type="music">Clinton Utterbach</author>
       <author lang="hu" type="translation">ismeretlen szerző</author>
     </authors>
     <songbooks>
       <songbook entry="226" name="Szent András énekfüzet" />
     </songbooks>
-    <copyright>© 1995 Kuban, Steve</copyright>
+    <copyright>© 1989 Clinton Utterbach</copyright>
     <verseOrder>v1 c1 v2 c1</verseOrder>
   </properties>
   <lyrics>
