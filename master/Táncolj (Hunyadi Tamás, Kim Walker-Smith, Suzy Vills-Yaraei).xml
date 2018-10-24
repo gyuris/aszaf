@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-08-05T17:24:03">
+  <properties>
+    <titles>
+      <title>Táncolj</title>
+      <title lang="en">Dance</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Suzy Wills Yaraei</author>
+      <author type="music">Suzy Wills Yaraei</author>
+      <author type="words">Paulette Wooten</author>
+      <author type="music">Paulette Wooten</author>
+      <author type="translation">Hunyadi Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook entry="000" name="Szent András énekfüzet" />
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Életre hívtál el, miért állnék lehajtott fejjel?<br/>Szívemben tűz ég már, nem számít, hogy mit gondol a világ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abban telik kedved, mikor teljes szívvel dicsérlek;<br/>Nem nézek másra, csak ujjongok és táncolok előtted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lépj, táncolj – hagyd hogy ő vezessen!<br/>Lépj, táncolj – Szentlelkét követve!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Vígságra fordítod gyászom, szívem ünnepel, Téged ünnepel.<br/>Meggyógyított, átformált, szívem ünnepel, lelkem táncra kel.<br/>Ha félnék is, karod megvéd – szívem ünnepel, Neked énekel.<br/>A szívem ünnepel, dicsérlek, táncolok, éneklek Neked, Neked.</lines>
+    </verse>
+  </lyrics>
+</song>

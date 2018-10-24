@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-08-11T12:19:57">
+  <properties>
+    <titles>
+      <title>Kelj fel, ember</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Molnár Sándor</author>
+      <author type="music">Molnár Sándor</author>
+      <author type="words">Szakáll Anna</author>
+      <author type="words">Mathé Annamária</author>
+    </authors>
+    <songbooks>
+      <songbook entry="000" name="Szent András énekfüzet" />
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kelj fel, ember, van reményed, van, aki szeret téged.<br/>Nem kell keresd tovább helyed, otthonod nála leled.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő rég vár rád, és nyújtja karját, Jézus az igaz barát.<br/>Ő ismer téged és nem ítél el, szeret és átölel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kelj fel, ember, van reményed, van, aki meghalt érted.<br/>Halott szíved újra éled, fényesség támad benned.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Az Úr Lelke van rajtam;<br/>azért kent föl engem,<br/>hogy örömhírt vigyek a szegényeknek,<br/>elküldött, hogy szabadulást hirdessek a foglyoknak<br/>és látást a vakoknak,<br/>hogy szabadon bocsássam a megtörteket,<br/>és hirdessem az Úr kedves esztendejét.</lines>
+    </verse>
+  </lyrics>
+</song>
