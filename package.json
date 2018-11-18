@@ -7,9 +7,9 @@
     "test": "node ./util/build.js"
   },
   "devDependencies": {
-    "xpath": "^0.0.23",
-    "xmldom": "^0.1.22",
+    "json2csv": "^3.11.5",
     "node-7z": "^0.4.0",
-    "json2csv": "^3.7.0"
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.23"
   }
 }

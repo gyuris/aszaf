@@ -6,6 +6,8 @@
  * npm install xmldom
  * npm install node-7z
  * npm install json2csv
+ * FUTTATÁS
+ * node util/build.js
  */
 
 /**
