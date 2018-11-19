@@ -4,7 +4,7 @@
     <titles>
       <title>Add a kezed</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <verseOrder>v1 c v2 c</verseOrder>
     <authors>
       <author>ismeretlen szerző</author>
     </authors>
@@ -17,14 +17,11 @@
     <verse name="v1">
       <lines>Add a kezed, hogy zengjünk az Úrnak,<br/>zengjünk az Úrnak alleluját!</lines>
     </verse>
-    <verse name="c1">
+    <verse name="c">
       <lines>Alleluja, alleluja, alleluja, alleluja!</lines>
     </verse>
-    <verse name="v3">
-      <lines>Ujjongó szívvel mondjunk az Úrnak,<br/>mondjunk az Úrnak alleluját!</lines>
-    </verse>
     <verse name="v2">
-      <lines>Kitárt karokkal mindenki áldja,<br/>mindenki áldja az élet Urát!</lines>
+      <lines>Ujjongó szívvel mondjunk az Úrnak,<br/>mondjunk az Úrnak alleluját!<br/>Kitárt karokkal mindenki áldja,<br/>mindenki áldja az élet Urát!</lines>
     </verse>
   </lyrics>
 </song>
