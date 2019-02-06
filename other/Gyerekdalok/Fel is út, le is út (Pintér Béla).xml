@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-02-06T21:49:50">
+  <properties>
+    <titles>
+      <title>Fel is út, le is út</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utánozni azt, ami a világban megy, egyszerűen szólva nem érdemes.<br/>Mert azt mondja a világ, ha úgy csinálsz, ahogy ők csinálják, az a helyes. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Élj a mának! Csak ezt fújják. Ne érdekeljen, hogy mit hoz rád a holnap.<br/>Azt hiszed, hogy jó vagy, közben szeded a dilibogyókat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Én nem azt az utat járom, Jézus az én Királyom.<br/>A világ mehet, amerre lát, én hűen követem az Ég Urát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Magas sarkú cipő, szűk és mini ruha. Festett haj, és ugyanaz a duma.<br/>Mindenki hasonlít mindenkire, mint a keltetőben a sok napos csibe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines> Ez az, amit csinálna a világ veled, ha nem adnál a szívedben az Úrnak helyet.<br/>Engem nem zavar, hogy nem vagyok olyan, mint a világ. Ők üresek belül, de bennem él a Király!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Megtaláltam benne mindent ami kell. Nem vágyom másra!<br/>Megtaláltam benne mindent ami kell. Megváltoztam egycsapásra!<br/>Megtaláltam benne mindent ami kell. Semmi más nem számít.<br/>Megtaláltam benne mindent ami kell. A világ már nem csábít.</lines>
+    </verse>
+  </lyrics>
+</song>
