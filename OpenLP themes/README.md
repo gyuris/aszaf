@@ -69,6 +69,9 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 * Via Dolorosa:                https://pixabay.com/images/id-706563/
 * Fal:                         https://www.pexels.com/photo/220182/
 * Ajándék:                     https://www.pexels.com/photo/1303081/
+* Ajándék (barna):             https://pixabay.com/images/id-1835447/
+* Ajándék (kék betűk):         https://pixabay.com/images/id-1420830/
+* Ajándék (piros szalag):      https://pixabay.com/images/id-2527432/
 * Virág:                       https://www.pexels.com/photo/36764/
 * Sarjad:                      https://www.pexels.com/photo/401213/
 * Tűzijáték:                   https://www.pexels.com/photo/3867/
