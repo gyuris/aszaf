@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song createdIn="OpenLP 2.0.1" modifiedDate="2019-03-26T09:37:26" modifiedIn="openlyrics.py 0.2" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title lang="hu">Jöjj, Szentlélek, szállj le rám</title>
+    </titles>
+    <authors>
+      <author type="words">Rettegi Zsolt</author>
+      <author type="music">Rettegi Zsolt</author>
+    </authors>
+    <songbooks>
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Szentlélek, szállj ránk,<br />örök boldog fénysugár!<br />Vezesd életem a szűk ösvényen,<br />segítsd levetni régi ruhám!</lines>
+    </verse>
+  </lyrics>
+</song>

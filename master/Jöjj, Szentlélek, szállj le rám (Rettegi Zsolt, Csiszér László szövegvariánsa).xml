@@ -5,13 +5,14 @@
       <title lang="hu">Jöjj, Szentlélek, szállj le rám</title>
     </titles>
     <authors>
-      <author type="words">Király Péter</author>
-      <author type="music">Király Péter</author>
+      <author type="words">Rettegi Zsolt</author>
+      <author type="music">Rettegi Zsolt</author>
     </authors>
     <songbooks>
       <songbook entry="188" name="Szent András énekfüzet" />
     </songbooks>
     <verseOrder>v1</verseOrder>
+    <variant>Csiszér László szövegvariánsa</variant>
   </properties>
   <lyrics>
     <verse name="v1">
