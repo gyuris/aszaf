@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-05-27T06:43:04">
+  <properties>
+    <titles>
+      <title>Ha egyedül vagyok a problémámmal</title>
+      <title>Gyere Jézushoz!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha egyedül vagyok a problémámmal, <br/>mond meg mit csináljak és hova menjek. <br/>Ha lemegyek a dokihoz ő felír néhány gyógyszert <br/>utána gyorsan hazaenged. <br/>Nem érdekli az én problémám, <br/>pedig fáj a szívem néha. <br/>Senkit se érdekel az én problémám. <br/>Most mit csináljak, mond meg mit csináljak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyere Jézushoz, gyere gyorsan <br/>nyisd ki a szíved mond mire vársz,<br/>Gyere Jézushoz, gyere gyorsan <br/>ő vár megoldja minden problémád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus a megoldás minden bajra <br/>az ő igéje azt mondja: a<br/>ki hozzám jön azt én el nem küldöm, <br/>lehet akármilyen nagy a gondja. <br/>Mert őt érdekli a te problémád, <br/>még ha nem hiszed akkor is így van.<br/> Igen, őt érdekli a te problémád, <br/>mire vársz még, most mond meg mire vársz még?! </lines>
+    </verse>
+  </lyrics>
+</song>
