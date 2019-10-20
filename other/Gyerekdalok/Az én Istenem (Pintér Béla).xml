@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.5.dev2899" modifiedIn="OpenLP 2.5.dev2899" modifiedDate="2019-10-20T08:40:29">
+  <properties>
+    <titles>
+      <title>Az én Istenem</title>
+      <title>My God is so big</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 o1 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="translation">Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az én Istenem erős, hatalmas Isten, nincs olyan mit Ő nem tehet.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egyetlen szavával alkotta meg az Eget, a Földet, a tengereket.<br/>Özönvízben a világ elmerült, de Noé és családja megmenekült.<br/>Népét vezette a tengeren át és Dáviddal nem bírt a nagy Góliát.<br/>Ezek a csodák mind Őt hirdetik<br/>De ha nem hinnéd, elmondom neked megint!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnösök voltunk, de eljött hozzánk, áldott és gyógyított amerre járt.<br/>Itt élt közöttünk és velünk lakott, bűneinkért büntetést Ő kapott.<br/>Feltámadt értünk Húsvét reggelén<br/>Felment a Mennybe, onnan visszatér<br/>Ezek a csodák mind Őt hirdetik<br/>De ha nem hinnéd, elmondom neked megint.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Ez az egy, amiről most tudnod kell!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ő az Atya, Ő a Fiú, Szent Lélek<br/>Egy, meg egy, meg egy, az egy!</lines>
+    </verse>
+  </lyrics>
+</song>
