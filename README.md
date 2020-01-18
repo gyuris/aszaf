@@ -19,6 +19,7 @@ a „Diatár - Templomi énekvetítő program” (http://diatar.eu) adatbázisá
 Rieth Józsefnek, hogy hozzájárult az énektárak OpenLyrics formátumúvá 
 konvertálásához és azok közzétételéhez.
 
+Letöltési oldal: http://gyuris.github.io/aszaf
 
 Ez a mű a [Creative Commons Nevezd meg! - Így add tovább! 4.0 Nemzetközi Licenc (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
 feltételei szerint felhasználható, terjeszthető, módosítható.
