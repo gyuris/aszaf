@@ -3,8 +3,11 @@
   <properties>
     <titles>
       <title lang="hu">Ó, Lélek, jöjj, szállj le ránk</title>
+      <title lang="en">Let It Burn</title>
     </titles>
     <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
       <author lang="hu" type="translation">Csiszér László</author>
       <author lang="hu" type="translation">Kunszabó Zoltán</author>
     </authors>
@@ -12,6 +15,7 @@
       <songbook entry="49" name="Szent András énekfüzet" />
       <songbook name="Zöld könyv" entry="249"/>
     </songbooks>
+    <copyright>© 1994 Mercy / Vineyard Publishing, Vineyard Songs Canada</copyright>
     <verseOrder>v1 c1</verseOrder>
   </properties>
   <lyrics>
