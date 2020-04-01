@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:44">
   <properties>
     <titles>
@@ -11,6 +11,7 @@
     <songbooks>
       <songbook name="Zöld könyv" entry="245"/>
       <songbook name="Kék könyv" entry="253"/>
+      <songbook name="Sárga könyv" entry="T20"/>
     </songbooks>
   </properties>
   <lyrics>
