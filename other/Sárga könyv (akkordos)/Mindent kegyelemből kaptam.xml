@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:02">
   <properties>
     <titles>
@@ -23,7 +23,7 @@
       <lines><chord name="D"/>Csak állj rá az Ő <chord name="G"/>ígéretére, <chord name="A"/>csak állj rá az Ő <chord name="D"/>ígéretére,<br/><chord name="D7"/>csak állj rá az Ő <chord name="G"/>ígéretére, most is állj csak <chord name="D"/>Rá<chord name="A"/>!<chord name="D"/></lines>
     </verse>
     <verse name="v4">
-      <lines><chord name="D"/>Minden szavát <chord name="G"/>beteljesíti, <chord name="A-"/>minden szavát <chord name="D"/>beteljesíti,<br/><chord name="D7"/>minden szavát <chord name="G"/>beteljesíti, ígérete betelje<chord name="D"/>sül<chord name="A"/>!<chord name="D"/></lines>
+      <lines><chord name="D"/>Minden szavát <chord name="G"/>beteljesíti, <chord name="A"/>minden szavát <chord name="D"/>beteljesíti,<br/><chord name="D7"/>minden szavát <chord name="G"/>beteljesíti, ígérete betelje<chord name="D"/>sül<chord name="A"/>!<chord name="D"/></lines>
     </verse>
     <verse name="v5">
       <lines>S <chord name="D"/>mindezt kegye<chord name="G"/>lemből kaptuk, s <chord name="A"/>mindezt kegye<chord name="D"/>lemből kaptuk,<br/>s <chord name="D7"/>mindezt kegye<chord name="G"/>lemből kaptuk, mi mindnyá<chord name="D"/>jan<chord name="A"/>!<chord name="D"/> :‖</lines>
