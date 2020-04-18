@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:47:03">
   <properties>
     <titles>
@@ -14,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>‖: <chord name="Am"/>Te kötötted egy<chord name="G"/>be a szí<chord name="Am"/>vünket<chord name="G"/>,<br/>imádunk együtt <chord name="Am"/>Téged<chord name="G"/>. :‖GG7;<br/>‖: Hogyha <chord name="Em6"/>meglesz <chord name="Hm"/>az, a<chord name="Em6"/>mit Te <chord name="D"/>akarsz,<br/>akkor <chord name="C"/>a Te csa<chord name="D"/>ládod <chord name="C"/>leszünk. :‖</lines>
+      <lines>‖: <chord name="Am"/>Te kötötted egy<chord name="G"/>be a szí<chord name="Am"/>vünket<chord name="G"/>,<br/>imádunk együtt <chord name="Am"/>Téged<chord name="G"/>. :‖<br/>‖: Hogyha <chord name="Em6"/>meglesz <chord name="Hm"/>az, a<chord name="Em6"/>mit Te <chord name="D"/>akarsz,<br/>akkor <chord name="C"/>a Te csa<chord name="D"/>ládod <chord name="C"/>leszünk. :‖</lines>
     </verse>
   </lyrics>
 </song>
