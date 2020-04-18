@@ -2,7 +2,8 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="ConvDiatarOpenlyrics" modifiedIn="ConvDiatarOpenlyrics" modifiedDate="2015-06-09T16:46:32">
   <properties>
     <titles>
-      <title>Hálaadó zsoltár (Oly jó áldani)</title>
+      <title>Oly jó áldani</title>
+      <title original="true">Hálaadó zsoltár</title>
     </titles>
     <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>

@@ -3,12 +3,14 @@
   <properties>
     <titles>
       <title>Alleluja… Lelkem az Urat dicsérd</title>
+      <title original="true">Az Úr dicsérete</title>
     </titles>
     <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
     <authors>
       <author>ismeretlen szerző</author>
     </authors>
     <songbooks>
+      <songbook name="Kék könyv" entry="40"/>
       <songbook name="Sárga könyv" entry="190"/>
     </songbooks>
   </properties>
@@ -17,7 +19,7 @@
       <lines>Lelkem az Urat dicsérd, áldjad az Istenek Istenét!<br/>Jósága végtelen él, irgalma megmarad örökké.</lines>
     </verse>
     <verse name="v2">
-      <lines>Minden szív áldjon Uram, magasztaljon téged ég és föld!<br/>Beszéljék hatalmadat, zengjenek országod fényéről!</lines>
+      <lines>Minden szív áldjon, Uram, magasztaljon téged ég és föld!<br/>Beszéljék hatalmadat, zengjenek országod fényéről!</lines>
     </verse>
     <verse name="v3">
       <lines>Nagyságod mérhetetlen, dicsőséged fönség, fényesség.<br/>Csodálva énekelem félelmes tetteid erejét.</lines>
