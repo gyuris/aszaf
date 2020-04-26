@@ -5,11 +5,8 @@
       <title>Szekvencia - latin [GRAD 624]</title>
     </titles>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="GRAD 624"/>
     </songbooks>
   </properties>
   <lyrics>

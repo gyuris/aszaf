@@ -5,11 +5,8 @@
       <title>Responzórium [ÉE ]</title>
     </titles>
     <verseOrder>v1 v2 v3</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="000"/>
     </songbooks>
   </properties>
   <lyrics>

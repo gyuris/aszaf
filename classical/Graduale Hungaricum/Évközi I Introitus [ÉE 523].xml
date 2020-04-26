@@ -5,11 +5,8 @@
       <title>Évközi I. Introitus [ÉE 523]</title>
     </titles>
     <verseOrder>v1</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="ÉE 523"/>
     </songbooks>
   </properties>
   <lyrics>

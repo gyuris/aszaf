@@ -5,11 +5,8 @@
       <title>Graduale [GRAD 411]</title>
     </titles>
     <verseOrder>v1</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="GRAD 411"/>
     </songbooks>
   </properties>
   <lyrics>

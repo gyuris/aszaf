@@ -5,11 +5,8 @@
       <title>Communio [GRAD 378]</title>
     </titles>
     <verseOrder>v1 v2</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="GRAD 378"/>
     </songbooks>
   </properties>
   <lyrics>

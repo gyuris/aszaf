@@ -5,11 +5,8 @@
       <title>Offertorium [GRAD 342]</title>
     </titles>
     <verseOrder>v1</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="GRAD 342"/>
     </songbooks>
   </properties>
   <lyrics>

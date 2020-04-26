@@ -5,11 +5,8 @@
       <title>Introitus [GRAD 430]</title>
     </titles>
     <verseOrder>v1</verseOrder>
-    <authors>
-      <author></author>
-    </authors>
     <songbooks>
-      <songbook name="Graduale Hungaricum" entry=""/>
+      <songbook name="Graduale Hungaricum" entry="GRAD 430"/>
     </songbooks>
   </properties>
   <lyrics>
