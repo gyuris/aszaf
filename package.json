@@ -11,5 +11,9 @@
     "node-7z": "^0.4.0",
     "xmldom": "^0.1.27",
     "xpath": "0.0.23"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "xmllint": "git+ssh://git@github.com/kripken/xml.js.git"
   }
 }
