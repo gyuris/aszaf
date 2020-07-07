@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>237a. Glória szálljon - kánon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glória szálljon a mennybe fel,<br/>Jöjjön a földre a béke el, <br/>És az emberi szívbe a jóakarat!<br/>Ámen, ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

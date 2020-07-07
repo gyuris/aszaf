@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>208. Fáradt vagy és nyom a bûnnek terhe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fáradt vagy, és nyom a bűnnek terhe? <br/>Mondd el Uradnak,<br/>Mondd el Uradnak! <br/>Bánat fog el,<br/>nincs öröm szívedben? <br/>Mondd Jézusnak egyedül!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mondd el Uradnak,<br/>mondd el Uradnak, <br/>Ő igaz és jó barát! <br/>Nincs más, hívebb <br/>senki sem e földön!<br/>Mondd Jézusnak egyedül!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Könnyeidet nincs aki megértse? <br/>Mondd el Uradnak, <br/>mondd el Uradnak! <br/>Ő jól tudja, nincs elrejtve Tőle, <br/>Mondd Jézusnak egyedül!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Felleg borult életed egére?<br/>Mondd el Uradnak,<br/>mondd el Uradnak! <br/>Bánatod vesd Jézusod szívére, <br/>mondd Jézusnak egyedül!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nincs tán nyugtod,<br/>mert közel halálod? <br/>Mondd el Uradnak,<br/>mondd el Uradnak!<br/>Vagy eljöttét oly epedve várod: <br/>Mondd Jézusnak egyedül!</lines>
+    </verse>
+  </lyrics>
+</song>

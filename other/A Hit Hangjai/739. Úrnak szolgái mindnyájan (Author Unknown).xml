@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>739. Úrnak szolgái mindnyájan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Úrnak szolgái mindnyájan, <br/>Áldjátok az Urat vígan, <br/>Kik az Ő házában éjjel <br/>Vigyázván, vagytok hűséggel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Fölemelvén kezeteket, <br/>Dicsérjétek Istenetek, <br/>Őnéki nagy hálát adván, <br/>Áldjátok őt minduntalan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Megáldjon téged az Isten <br/>A Sionról kegyelmesen, <br/>Ki teremtette az eget, <br/>A földet és mindeneket!</lines>
+    </verse>
+  </lyrics>
+</song>

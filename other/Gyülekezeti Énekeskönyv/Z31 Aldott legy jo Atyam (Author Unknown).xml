@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z31 Aldott legy jo Atyam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Áldott légy, jó Atyám:/<br/>Mert oly boldoggá tettél engem, <br/>Mint senki más.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. /:Áldott légy, jó Atyám,:/<br/>Mert Jézus Krisztust adtad <br/>Értem a Golgotán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. /:Áldott légy, jó Atyám,:/<br/>Mert oly boldoggá tettél engem, <br/>Mint senki más.</lines>
+    </verse>
+  </lyrics>
+</song>

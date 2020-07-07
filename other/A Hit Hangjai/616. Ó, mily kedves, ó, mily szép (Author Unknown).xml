@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>616. Ó, mily kedves, ó, mily szép</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Ó, mily kedves, ó, mily szép <br/>A testvéri szent egység; <br/>Őt dicsérjük lelkesen <br/>És testvéri egységben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Fű, fa, virág megújul, <br/>Mikor reá harmat hull: <br/>Így üdít fel bennünket <br/>A testvéri szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Oszlik harag, irigység, <br/>Minden szeretetlenség, <br/>Hogyha néped egybegyűl, <br/>Nagy Király, trónod körül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Testvér, fogjunk össze hát, <br/>Áldjuk mind az ég Urát! <br/>Szívünk, lelkünk egy legyen <br/>Szándékunkban, tettünkben!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Hálatelten hódolunk, <br/>Míg csak élünk, hű Urunk. <br/>Legyen áldva szent Neved, <br/>Mindig és minden felett!</lines>
+    </verse>
+  </lyrics>
+</song>

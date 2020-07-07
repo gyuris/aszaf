@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>072. Az Úrhoz szálljon fel a hála</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/4. Az Úrhoz szálljon fel a hála, <br/>Dicsének messze hangozzék!<br/>Mert irgalmának nincs határa, <br/>És hozzánk kedves lett az ég.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ó, hívő lélek, áldjad Istent,<br/>Őt dicsérd minden percedben, <br/>Mert Nála leltél üdvöt itt lent,<br/>S kegyelme él a szívedben!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/4. Az Isten üdvünk, erősségünk, <br/>Jóvolta hozzánk végtelen, <br/>Ki érdem nélkül szerzett nékünk<br/>Megváltást, ó, mily kegyelem!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Fel, Isten népe, zengő dalra,<br/>Az Úrnak hálát énekelj, <br/>Mert véled harcol erős karja,<br/>És megsegít, hogy pálmát nyerj!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/4. Az Isten jobbja mily hatalmas!<br/>Az Ő szent karja mindig győz. <br/>Ne félj hát, hívő, nem ártalmas<br/>Az ellen többé, bár erős!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nem halok én meg, mert ím élek<br/>Azáltal, aki engemet <br/>A bűnhaláltól védve védett.<br/>Őnéki mondok éneket.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4/4. Áldott légyen az Úrnak népe,<br/>Mely itt előtte térdepel: <br/>Legyen egész Néki szentelve,<br/>Kiket magához fölemel!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Az Úr az Isten, Hozzá vágyunk,<br/>Ki hozzánk eljön csak hamar. <br/>Áldozzuk fel hát Néki magunk, <br/>És azt tegyük, mit Ő akar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>232. Gyermekként jött</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Gyermekként jött égi lény,<br/>glória nélkül érkeztél.<br/>Te szolgáltál mi nekünk,<br/>halálod által élhetünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ime az Úr, szolga Király,<br/>most minket hív, kövessük hát!<br/>Hozzuk elé szívünk hódolatát,<br/>imádjuk a Szolga Királyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Egy kertben sírt, könnyezett,<br/>miattam hordott bûnterhet.<br/>Megtört szívvel mondta  ott:<br/>"Legyen Atyám, akaratod!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Jöjj hát és nézd sebeit,<br/>áldozatáról hirdetik:<br/>Eget tartó nagy kezét<br/>kínzó szegeknek tárta szét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Szolgálni Jézus tanít,<br/>szívünknek trónján Õ lakik,<br/>Ha fölvesszük más baját,<br/>akkor szolgáljuk Õt, magát.</lines>
+    </verse>
+  </lyrics>
+</song>

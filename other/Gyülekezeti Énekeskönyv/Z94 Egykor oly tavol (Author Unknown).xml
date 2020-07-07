@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Z94 Egykor oly tavol</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egykor oly távol voltam az Úrtól,<br/>Bûnösök között a legnagyobb,<br/>/:Félelemmel kérdeztem minden napon,<br/>Hogy szeret ily bûnöst, mint én vagyok?:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Barangoltam sötét bûnutakon,<br/>De egy kérdés nyugtalanított:<br/>/:Vajon lesz-e bocsánat bûneimre,<br/>Megtart-e ily bûnöst, mint én vagyok?:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az igében feleletet nyertem,<br/>Hittel elfogadtam Megváltóm.<br/>/:Most már örömmel mondom mindenkinek,<br/>Hogy szeret ily bûnöst, mint én vagyok.:/</lines>
+    </verse>
+  </lyrics>
+</song>

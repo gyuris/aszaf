@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>228. Föl mindnyájan, testvérek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Föl mindnyájan, testvérek,<br/>Legyünk egy szív, egy lélek!<br/>Mert imánk csak így jut el<br/>Urunk kegytrónjához fel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Esdjünk Hozzá egy szívvel,<br/>Isten erre jól figyel; <br/>Ahol egy az akarat, <br/>egyőz akadályokat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Áhítat és buzgóság,<br/>Önzetlenség, szívjóság, <br/>Hit, remény, és szeretet <br/>Töltse be a szívünket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Áldj meg minket, jó Atyánk, <br/>És Szentlelked küldd le ránk!<br/>Jézus, drága Mesterünk,<br/>Légy Te szószólónk nekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

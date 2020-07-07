@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>206. Érzem nagy kegyét</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Érzem nagy kegyét, hő szeretetét, <br/>Jézust áldva, Benne nyugszom én, <br/>Szent hitet, reményt, égi érzeményt,<br/>Örök üdvöm Tőle nyertem én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Benne megnyugodni ó, mily jó,<br/>Jézus szeretete gyógyító!<br/>Vész és fergeteg között,<br/>Mint elfáradt üldözött,<br/>Nála nyerek biztos menhelyet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Messze eltértem, sokat vétkeztem,<br/>És remegve vártam a halált,<br/>Jézus megtalált, karjaiba zárt,<br/>Mint a pásztor elveszett juhát. Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vándor utamon biztosan tudom,<br/>Ő visz át a bűn sötét völgyén,<br/>Ha az éj beáll, a homály leszáll, <br/>Kedves arca tündököl felém.</lines>
+    </verse>
+  </lyrics>
+</song>

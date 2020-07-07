@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>510. Minden javadra lesz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Minden javadra lesz életed folyamán<br/>Aki az Urat hűn szereted, igazán,<br/>Meg van írva, <br/>azért soha el ne feledd,<br/>Bármi baj, bármi vész jóvá lesz majd neked.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, örülj, ó, örülj, <br/>Égi Mestered néked jót akar,<br/>Ó, örülj, ó, örülj,<br/>Bizton jóra fordul minden, minden oly hamar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hogyha Isten veled, <br/>akkor lelkem ne félj,<br/>Csakis hasznodra lesz bármilyen nagy veszély,<br/>Akik az Urat hűn szeretik igazán,<br/>Végül a javukra lesz minden egyaránt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Azért Benned remél lelkem, jó Istenem,<br/>Csak Te vagy próba közt erő és védelem.<br/>Tudom már, ha szeret Téged az én szívem, <br/>Minden a javamra válik majd így nekem. (Fine)</lines>
+    </verse>
+  </lyrics>
+</song>

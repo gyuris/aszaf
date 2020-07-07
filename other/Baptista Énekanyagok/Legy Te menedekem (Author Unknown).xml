@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Legy Te menedekem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Légy Te menedékem, légy pajzsom, sziklám,<br/>Oltalmam, Jézus, ha ellen tör rám!<br/>Ha a sok baj között kínoz a kétség,<br/>Vezess jó útra, ha eltévednék<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Légy te erősségem, légy bölcsességem,<br/>Légy ott, ha elfogyna reménységem!<br/>Kérlek, ne engedd, hogy gyáván elfussak,<br/>Óvj, hogy a harcban meg ne hátráljak!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Légy az, aki naponként utat mutat,<br/>Bátorít, hogy járjam minden utad!<br/>Szentlelked által adj új erőt nékem,<br/>Végzésed, terved, hogy véghez vigyem!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nem kell soha más nékem, hiszem, tudom.<br/>Te vagy az örömöm, boldogságom.<br/>Mindennap megújul kegyelmed bennem,<br/>Jézusom, lényed betölti lelkem.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

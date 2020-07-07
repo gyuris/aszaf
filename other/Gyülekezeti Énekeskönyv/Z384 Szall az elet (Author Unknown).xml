@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z384 Szall az elet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Száll az élet mint az óra,<br/>Fut, rohan a mutatója.<br/>Nyárra gyorsan jön az õsz.<br/>Jelek földön, szívben, égen,<br/>Hirdetik a mindenségben:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézusom, te visszajössz, Jól tudom, hogy visszajössz,<br/>Talán még ma lesz a nagy találkozás. Várlak Téged boldogan, <br/>Hû Megváltóm és Uram, Mert a szívemben te élsz, senki más.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Századok suhannak lágyan,<br/>Évek hosszú gyöngysorában<br/>S vajon mit hoz a jövõ?<br/>Szívem zengi, hátha, hátha<br/>Ily nagy idõ nincsen hátra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Sürget, kerget minden óra, <br/>Hogy térhetnék nyugovóra<br/>Míg a lelkek alszanak.<br/>Értük küldesz, értük éltetsz,<br/>Minden percben visszatérhetsz.</lines>
+    </verse>
+  </lyrics>
+</song>

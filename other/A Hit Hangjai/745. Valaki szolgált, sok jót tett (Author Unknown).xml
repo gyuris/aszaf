@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>745. Valaki szolgált, sok jót tett</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Valaki szolgált, sok jót tett, <br/>Másoknak így jó példa lett,<br/>Valaki vígan énekelt, <br/>Fájó szív enyhült, hallva ezt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, mondd, te hogyan élsz? <br/>Ó, mondd, te hogyan élsz?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Valaki küzdött, jól harcolt, <br/>Sok lelket Jézushoz hozott,<br/>Valaki hívő szívvel élt, <br/>Áldozott önként másokért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Valaki áldó égi fényt <br/>Hintett az éjben szerte szét,<br/>Valaki békekövet volt, <br/>Hirdette a nagy Megváltót.</lines>
+    </verse>
+  </lyrics>
+</song>

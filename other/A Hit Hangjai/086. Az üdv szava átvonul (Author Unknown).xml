@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>086. Az üdv szava átvonul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. Az üdv szava átvonul <br/>Tengeren és szárazon. <br/>A keresztről hoz minékünk <br/>Örömhírt oly gazdagon:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>„Mert úgy szerette Isten <br/>E világot, hogy Fiát<br/>Adta értünk, ki Benne hisz, <br/>Soha nem lát az halált.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>„Égi üdv, teljes üdv!” <br/>-Hangzik vizen, szárazon. <br/>Jöjj tehát, Isten ád <br/>üdvöt ingyen, gazdagon!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. A Megváltó hív téged,<br/>Készen vár a lakoma, <br/>Kér, hogy ne utasítsd vissza, <br/>Amit kínál, fogadd ma!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>„Én életkenyér vagyok, <br/>Ki hisz Bennem, s úgy követ, <br/>Soha nem fog megéhezni,<br/>Arat örök életet.” Refr.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. Az Úr szava int téged:<br/>Ne vesd meg e nagy kegyet, <br/>Mert lejár az idő gyorsan,<br/>És eljön az ítélet!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ó, mentsd meg hát a lelked,<br/>Vigyázz, vissza ne tekints! <br/>El ne játszodd üdvösséged, <br/>Hisz ez örök, drága kincs!</lines>
+    </verse>
+  </lyrics>
+</song>

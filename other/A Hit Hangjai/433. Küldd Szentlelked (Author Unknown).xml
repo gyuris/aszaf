@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>433. Küldd Szentlelked</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Küldd Szentlelked, kérlek, <br/>Uram, Küldd hő, buzgó imámra;<br/>Hogy tanítson, vigasztaljon <br/>És vezessen útadra!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bűnteherrel, messze Tőled, <br/>Sötét éjben bolyongtam.<br/>Tűzoszloppal, égi fénnyel <br/>Vezess, vezess ó, Uram!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Meghallgattál s fényt gyújtottál, <br/>Amit soha nem láttam. <br/>Bús lelkemmel, tört szívemmel <br/>Szent örömre találtam.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ó, én lelkem, hirdesd széjjel, <br/>Mint jött Isten tefeléd;<br/>Mint jött Jézus, és üdvödért <br/>Föláldozta életét!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Népmilliók, zarándokok Téged, <br/>Uram, keresnek. <br/>Hallasd szavad, ó, Megváltóm, <br/>S küldd vezérül Lelkedet!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hadd leljenek fényt és erőt, <br/>Zúgjon ének, örömár: <br/>Te vagy, Jézus Isten Fia, <br/>Mindörökké Úr s Király!</lines>
+    </verse>
+  </lyrics>
+</song>

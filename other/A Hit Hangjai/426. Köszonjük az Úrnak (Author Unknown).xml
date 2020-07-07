@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>426. Köszonjük az Úrnak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Köszönjük az Úrnak <br/>Hű szívvel, szájjal, tettel, <br/>Hogy oly nagy dolgokat <br/>Tesz vélünk s mindenekkel!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ki gyermekségünktől <br/>Gondviselőnk nekünk, <br/>Megszámlálhat'lan jót <br/>Tesz folyton mivelünk…</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Örök nagy Istenünk,<br/>Amíg e földön élünk, <br/>Állandó békét adj <br/>És vidám szívet nékünk!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jobboddal támogass, <br/>Ne hagyd el népedet, <br/>Ha törne vész reánk, <br/>Mutasd kegyelmedet!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Dicséret Őnéki, <br/>Atyának és Fiúnak <br/>És a Szentléleknek! <br/>Dics a Mindenhatónak!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Övé a tisztesség, <br/>Háromegy Istené, <br/>Ki volt, ki van, <br/>ki lesz Öröktől örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

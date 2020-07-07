@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>200 Isten hiv te el ne kuldd</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten hív, te el ne küldd, <br/>Õ látja sorsodat!<br/>Ne küldd el, ha igéje <br/>Mélyen szívedbe hat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Lásd, õ szeret, még így is szeret, <br/>Elveszi bûneidet,<br/>Múltad övé, új életért, <br/>Jöjj, és add át szívedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ne küldd el, mert az ido <br/>Eljött, hogy megragadd!<br/>Ne küldd el, a lét tuno,<br/>S mint a szél elsuhan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Mondj igent, mert hon szeret <br/>És meghalt, hogy te élj!<br/>Mondj igent, o célt mutat, <br/>Életed értelmét!</lines>
+    </verse>
+  </lyrics>
+</song>

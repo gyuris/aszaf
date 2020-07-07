@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>239. Hadd legyen minden úgy ezután</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/2. Hadd legyen <br/>minden úgy ezután<br/>Ahogy Te akarod, jó Atyám.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nem akarok mást, csak a Te erőd,<br/>Megalázom magam hatalmad előtt.<br/>Hadd legyen <br/>minden úgy ezután,<br/>Ahogy Te akarod, jó Atyám.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/2. Jézusom, Te vagy Úr egyedül,<br/>Megnyugszik, <br/>ki Hozzád menekül.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Megnyitom szívem, vedd az értelmem!<br/>Ó, Uram, fogadd el bűnös életem!<br/>Így van jól, a tied maradok,<br/>Úr vagy Te, <br/>én csak rád mutatok.</lines>
+    </verse>
+  </lyrics>
+</song>

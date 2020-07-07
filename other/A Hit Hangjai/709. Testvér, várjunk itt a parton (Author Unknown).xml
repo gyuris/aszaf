@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>709. Testvér, várjunk itt a parton</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Testvér, várjunk itt a parton <br/>Hittel, bízva, csendesen, <br/>Míg a révész eljön értünk, <br/>És a célhoz elviszen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Örök napnak sugarában <br/>Fénylik Isten városa! <br/>Minden szív örvend gyönyörrel, <br/>Hogy ott van polgárjoga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Sokan már előre mentek, <br/>Elhagyták e föld honát, <br/>Kiket majd a Kánaánban <br/>Dicsben látunk odaát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bár a mélyben még sötét van, <br/>S egyre zúg a vad vihar, <br/>De a mennyből hívó hangon <br/>Zeng felénk az égi kar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Majd, ha Jézus kezét fogva <br/>Haladunk a völgyön át, <br/>Túlról látjuk meg a fényben <br/>Üdvünk égi városát.</lines>
+    </verse>
+  </lyrics>
+</song>

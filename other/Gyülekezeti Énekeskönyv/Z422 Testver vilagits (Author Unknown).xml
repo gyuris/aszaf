@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Z422 Testver vilagits</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Testvér világíts, életed legyen<br/>Melyben ragyogjon égi kegyelem.<br/>Mutasd a bûnösöknek az utat,<br/>Hogy megtalálják Megváltójukat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Testvér, elõre! Jézus velünk!<br/>Égõ szövétnek az életünk,<br/>Hol legsötétebb ez a földi lét,<br/>Jézus dicsfényét hintsük szerte szét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Tétlen ne álljunk, ránk az élet vár,<br/>Bús éjszakában annyi lélek jár.<br/>Hirdesd a hajnalt, áldott szép napot,<br/>Mely Golgotáról most ránk ragyog.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Az Úr kezére bízzad fényedet,<br/>Ragyogtasd tiszta hivõ életed.<br/>Lássák királyi dicsben Uradat,<br/>S a lelkek néki meghódoljanak.</lines>
+    </verse>
+  </lyrics>
+</song>

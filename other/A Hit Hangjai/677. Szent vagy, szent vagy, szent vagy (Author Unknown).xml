@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>677. Szent vagy, szent vagy, szent vagy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szent vagy, szent vagy, <br/>szent vagy, felséges Isten, <br/>Mindörökké Úr vagy<br/>És erőd végtelen. <br/>Téged áldva dicsér<br/>Földön, égen minden, <br/>Nagy vagy, nem érthet<br/>véges értelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szent vagy, szent vagy, <br/>szent vagy, felséges Isten, <br/>Alkotásod mind jó <br/>és műved mind csodás. <br/>Rólad zeng az élet<br/>végtelen szép rendben, <br/>Nagy dicsőséged örökké megáll.</lines>
+    </verse>
+  </lyrics>
+</song>

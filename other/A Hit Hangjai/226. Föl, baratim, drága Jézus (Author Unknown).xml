@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>226. Föl, baratim, drága Jézus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11">
+      <lines>1/4. Föl, barátim, drága Jézus zászlaja alatt!<br/>Rajta, bátran, Ő velünk van, győzedelmet ad!<br/>Bízzatok, mert Jézus eljön, Ő a fővezér! <br/>Zengje ajkunk:Hozzád esdünk győzedelemért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Lám, a Sátán lesben állva támadásra kész,<br/>Legvitézebb harcosoknak bátorsága vész.<br/>Bízzatok, mert Jézus eljön,Ő a fővezér!<br/>Zengje ajkunk:Hozzád esdünk bátor szívekért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Szóljon a kürt, fenn lobogjon győzedelmi jel!<br/>Jézusunkért síkra szállni, küzdelemre fel!<br/>Bízzatok, mert Jézus eljön, Ő a fővezér!<br/>Zengje ajkunk Hozzád esdünk hősi, szent hitért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Nagy veszélyben, küzdelemben értünk harcba száll.<br/>Benne higgyünk, így a Sátán tőlünk meghátrál.<br/>Bízzatok, mert Jézus eljön, Ő a fővezér!<br/>Zengje ajkunk: Hozzád esdünk lelkünk üdvéért!</lines>
+    </verse>
+  </lyrics>
+</song>

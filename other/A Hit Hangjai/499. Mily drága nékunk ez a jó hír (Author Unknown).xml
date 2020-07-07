@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>499. Mily drága nékunk ez a jó hír</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mily drága nékünk ez a jó hír, <br/>Mily édes örömtelten zeng! <br/>Halljátok a nagy szabadítást, <br/>Mely Jézusban lett a mienk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, bízd magad e kegyelemre, <br/>Mely gazdagon árad feléd, <br/>Váltságát tedd a magadévá, <br/>Hidd, az számodra is elég.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Leszállott a mennyei fényből, <br/>Elhagyta a dicső hazát, <br/>Hogy széttörhesse rabbilincsünk, <br/>Hogy hintsen az éjbe sugárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, jöjj el hatalmas Urunkhoz, <br/>Fáradt, szomorú, jer ide, <br/>Érted gyötrődött a kereszten, <br/>Hát bízva jöhetsz elébe. .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Csak Jézus az, aki segíthet, <br/>Üdvöt nem ad más, csakis Ő, <br/>Itt áll és, <br/>türelmesen vár még, <br/>Mit késel? Nincs már sok idő!</lines>
+    </verse>
+  </lyrics>
+</song>

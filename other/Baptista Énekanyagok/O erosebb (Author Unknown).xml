@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>O erosebb</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy szív, ki értünk élt,<br/>Vállalta a büntetést,<br/>Szennyünk, bűnünk vette át,<br/>Feltámadva tört halált.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hűsége kétségtelen,<br/>Velünk jár Ő szüntelen.<br/>Van kiút, van szabadság,<br/>Jézus győzött, megtalált!<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő erősebb, mint a sírbolt,<br/>Mindig így lesz,<br/>Mindig így volt,<br/>Ő mentett meg, Ő tett újjá,<br/>Győztes Jézus, Úr Király!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága volt az elveszett,<br/>Ez az ár volt a kereszt.<br/>Ő remény és védelem.<br/>Életünk már végtelen.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hát itt vagyunk<br/>hogy Téged áldjunk,<br/>Csak Téged lássunk<br/>Mindennél feljebb<br/></lines>
+    </verse>
+  </lyrics>
+</song>

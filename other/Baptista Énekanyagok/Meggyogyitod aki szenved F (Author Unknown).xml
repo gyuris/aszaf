@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-08T16:16:12">
+  <properties>
+    <titles>
+      <title>Meggyogyitod aki szenved F</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meggyógyítod, aki szenved<br/>Mennyei erővel,<br/>S a fájdalmas szívűt,<br/>Betöltöd örömmel,<br/>Úr Jézus életünk fölött<br/>Végy teljes uralmat,<br/>Hogy szent népedhez méltón<br/>Várjuk nagy napodat!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram éhezem igazságodat,<br/>Szomjazom Szent Szellemed vizét.<br/>Jézus töltsd tele lámpásomat,<br/>Hadd világítson míg visszatérsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Szellem, erősíts meg,<br/>Újíts meg friss kenet,<br/>Hogy megtegyem akaratod,<br/>Adj még több kegyelmet,<br/>Hogy hűséggel harcoljam meg<br/>A hit nemes harcát,<br/>S utam végén meglássam<br/>Az én Uram arcát.</lines>
+    </verse>
+  </lyrics>
+</song>

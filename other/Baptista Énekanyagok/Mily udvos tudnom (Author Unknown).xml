@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Mily udvos tudnom</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mily üdvös tudnom: Jézus enyém!<br/>Ennek felettébb örvendek én.<br/>Örökség vár rám, mennyei rész,<br/>Lelkem ujjongva fölfelé néz.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örökre zengem ez éneket:<br/>Jézusban leltem az üdvömet!<br/>Boldogan vallom: Jézus enyém!<br/>Irgalmát áldom örökre én!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mily üdvös tudnom: Jézus enyém!<br/>Isteni béke árad felém.<br/>Igája könnyű, nyugalmat ád,<br/>Követem híven a lábnyomát.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mily üdvös tudnom: Jézus enyém!<br/>Életem útján áldott remény.<br/>Pásztorom nékem, hű őrizőm,<br/>Istentől küldött Üdvözítőm!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>A forrasnal</title>
+    </titles>
+    <authors>
+      <author>Pinter Bela</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha szólsz megdobban a szív, kiszárad a száj,<br/>Téged akar minden porcikám, egész lényem vágyik Rád.<br/>Úgy mint egy kisfiu, ki várj apja mit hozott egy hosszú út után<br/>odarohanok Hozzád!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Forrásnál szívem inni kér, élő víz fakad ömlik rám.<br/>A Forrásnál lelkünk összeér, újra az vagyok akinek álmodtál!<br/>Ó-ó-ó</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Élő Kútfő, Áldott Jézus forrásunk Te vagy!<br/>Minden élet, minden áldás Belőled fakad!</lines>
+    </verse>
+  </lyrics>
+</song>

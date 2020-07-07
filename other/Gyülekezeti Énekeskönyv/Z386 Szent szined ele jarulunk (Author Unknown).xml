@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z386 Szent szined ele jarulunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent színed elé járulunk, <br/>Hogy hódoljunk neked,<br/>Hogy hálával áldozzunk, <br/>Magasztaljuk nagy neved.<br/>Mert megmentetted népedet, <br/>Új életet adtál,<br/>Fogadd el szívünk buzgó <br/>Szeretetének dalát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy az Istennek báránya, <br/>A magasságos fia,<br/>Aki kilépett a sírból, <br/>A halál nem fogott rajta,<br/>Szabadítónk lettél nékünk, <br/>Benned van reményünk,<br/>Nincs másban üdvösség, <br/>Tied minden dicsõség!</lines>
+    </verse>
+  </lyrics>
+</song>

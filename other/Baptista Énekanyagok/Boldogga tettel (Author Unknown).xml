@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:17">
+  <properties>
+    <titles>
+      <title>Boldogga tettel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldalak Téged mindörökké<br/>Istenem Benned bízom én.<br/>Kihoztál minden félelmemből,<br/>Eljövök lábaid elé.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boldoggá tettél, szívemből ezt éneklem:<br/>Te vagy pajzsom, Szabadítóm, örökségem,<br/>Menedékem, erős váram,<br/>Segítségem a szükség idején.<br/>Nincs más rajtad kívül, Jézus,<br/>Nincs más csak Rád vágyom én.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Boldoggá tettél, szívemből ezt éneklem:<br/>Te vagy pajzsom, Szabadítóm, örökségem,<br/>Menedékem, erős váram,<br/>Segítségem a szükségben.<br/>Te vagy pajzsom, Szabadítóm, örökségem,</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Menedékem, erős váram, <br/>Segítségem a szükség idején.<br/>Menedékem… Segítségem a szükségben.<br/>Menedékem… Segítségem a szükségben.<br/>Menedékem… Segítségem a szükségben.</lines>
+    </verse>
+  </lyrics>
+</song>

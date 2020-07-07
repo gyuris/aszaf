@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>598. Ó, Jézus, Te csodálatos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, Jézus, Te csodálatos, <br/>Győzelmes Hős egykor és most, <br/>Mindig dicső, nagy és nemes: <br/>Tebenned bízni érdemes!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mondjatok, mondjatok, <br/>Mondjatok dicséretet az Úrnak! <br/>Mondjatok, mondjatok, <br/>Mondjatok mind zengve hangosan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Isteni arc, ó, jöjj hozzánk, <br/>Világosságod áraszd ránk. <br/>Űzd el a bűnnek éjjelét, <br/>Szenteld meg e világ terét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Kinek szívét elfoglalod, <br/>Igéd fényével áthatod, <br/>Abból kihalt ez a világ, <br/>És a szeretet járja át.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. El nem múlik e szeretet, <br/>Mert Lelkeddel te éleszted, <br/>Nem fogy soha, de gyarapul, <br/>Folyton nagyobb lángokra gyúl.</lines>
+    </verse>
+  </lyrics>
+</song>

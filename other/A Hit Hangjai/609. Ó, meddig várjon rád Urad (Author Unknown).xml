@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>609. Ó, meddig várjon rád Urad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, meddig várjon rád Urad? <br/>Add át szíved, Ő elfogad!<br/>Szentlélek hív, Megváltód vár, <br/>Most még az ajtó nyitva áll.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jöjj Hozzá! Jöjj Hozzá! <br/>Megváltód hív, <br/>most jöjj Hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, meddig várjon rád Urad, <br/>Hogy megtaláljad nyugtodat?<br/>Hagyd el a téves utakat, <br/>És jöjj haza, add át magad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, meddig várjon rád Urad? <br/>Lásd, érted Ő lett áldozat,<br/>Szent vére árán vette meg <br/>Eltékozolt, rút életed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, meddig várjon rád Urad? <br/>Még fönn van a kegyelmi nap!<br/>Ím, vár az égi lakoma <br/>És kész az ünnepi ruha..</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Ó, meddig várjon rád Urad? <br/>Az éj leszállhat ezalatt,<br/>És majd az ajtó zárva lesz, <br/>A vőlegény be nem ereszt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Ó, meddig várjon rád Urad? <br/>Ő még mindig hívogat! <br/>A kegyidő hamar lejár, <br/>Ó, mondj igent, és lépj be már!</lines>
+    </verse>
+  </lyrics>
+</song>

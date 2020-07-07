@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Foldon az egig</title>
+      <title>Foldon az egig</title>
+    </titles>
+    <authors>
+      <author>Dobner Illés</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A földtől az égig ér ez a nagy szerelem<br/>Az égtől a földig lenyúlsz és fogod kezem<br/>Naptól Holdig kitárom karom s várlak<br/>Szívtől szájig mosolygok mikor meglátlak,<br/>Mosolygok mikor meglátlak</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rá kellett jönnöm, nem tudok élni nélküled<br/>Nincs választásom, boldogságom belőled ered<br/>A szíved fogtam és saját szívembe zártam<br/>Kérlek érezd mindig otthon magad nálam,<br/>Mindig otthon magad nálam</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A távoli fények annyira szépek<br/>Mégis a legfőbb kincs, hogy itt lüktetsz bennem<br/>Bár a kezemben semmi egyéb már nincs</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A földtől az égig ér ez a nagy szerelem<br/>Az égtől a földig lenyúlsz és fogod kezem<br/>Naptól Holdig kitárom karom s várlak<br/>Szívtől szájig mosolygok mikor meglátlak,<br/>Mosolygok mikor meglátlak</lines>
+    </verse>
+  </lyrics>
+</song>

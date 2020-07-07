@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Nyisd ki a szemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nyisd ki a szemed, akkor segíthetsz,<br/>Nem vagy kicsi, hogyha Jézusért teszed!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tudod, mennyi dolga vagy az anyunak,<br/>Gyermekeiért tesz mindent, minden nap.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öreg nagymamának minden oly nahéz,<br/>Örömet nyújt néki a segítõ kéz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézd csak azt a kislányt, sír keservesen,<br/>Vigasztald meg, s akkor napsugár leszel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hol kell a segítség, találd ki magad,<br/>Segíteni mindig mindenütt szabad.</lines>
+    </verse>
+  </lyrics>
+</song>

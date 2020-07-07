@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Van nekem egy anyukam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van nekem egy anyukám<br/>Süt mos vasal reám<br/>Mindig szorgos a keze<br/>És szelidséggel van tele<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. //:Ő a szívem csücske és jó barátom<br/>Ha Ő szól rám én megcsinálom<br/>Szótfogadok,mert szeretem ://<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Van nekem egy apukám<br/>Mindig gondot visel reám<br/>Néha eljár a keze<br/>Ő a családunk feje<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van nekem egy Istenem<br/>Szorgalmasan keresem<br/>Ő mindig vigyaz rám <br/>Közös jelünk egy szivárvány<br/></lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ref.//:Ő a szívem csücske és ugy imádom<br/>Ha Ő szól rám én megcsinálom<br/>Szót fogadok,mert szeretem://<br/></lines>
+    </verse>
+  </lyrics>
+</song>

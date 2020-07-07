@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>220. Fenn a mennyben a szentek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fenn a mennyben, a szentek lakhelyén<br/>Az otthonom már készen van. <br/>Vágyom Jézussal együtt lenni én<br/>Ott fönn, az égi otthonban.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Én Jézust áldom boldogan, <br/>Ott fönn, az égi otthonban,<br/>Az angyalokkal kórusban.<br/>Én Jézust áldom boldogan, <br/>Ott fönn, az égi otthonban,<br/>Hol a megváltott szent nép van.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Béke és honvágy tölti el szívem,<br/>Mert sok testvérem már ott van.<br/>Hívón intenek, várnak már engem<br/>Ott fönn, az égi otthonban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vérén megváltva lelkem hálát ad,<br/>És himnuszt zengek boldogan.<br/>Jézus vélem lesz, soha el nem hagy,<br/>Ott fönn, az égi otthonban.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Éltem elmúlik, utam véget ér,<br/>És meglátom Őt úgy, mint van.<br/>Áldom szüntelen Jézus szent Nevét<br/>Ott fönn, az égi otthonban.</lines>
+    </verse>
+  </lyrics>
+</song>

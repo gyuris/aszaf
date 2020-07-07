@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Z250 Kegyes a szeretet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Kegyes a szeretet, édes e szó, <br/>Drágább minden szónál mely emberre ható. <br/>Tisztán élt az Úr is, bûn nélkül járt, <br/>Õbenne találom én a legjobb példát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Hova hív, én megyek egyenest, <br/>Hová hív, én megyek vele örömest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Édes szeretetét magmutatá, <br/>Mikor drága életét érettünk adá. <br/>Kegyes a bûnöshöz, bûnt megbocsát, <br/>Õbenne találom én a legjobb példát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Halld csak hívó szavát: „Jer énhozzám! <br/>Bûnnel terhelt és magfáradt szívet hozván.“<br/>Bízz Benne igazán, Õ megbocsát, <br/>Õbenne találom én a legjobb példát.</lines>
+    </verse>
+  </lyrics>
+</song>

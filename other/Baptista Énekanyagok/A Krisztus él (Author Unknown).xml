@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>A Krisztus él</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Krisztus él, mit bánkódom?<br/>Föltámadt Ő, ezt jól tudom!<br/>A bűn, halál legyőzetett,<br/>Ezért zeng ajkam éneket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak Őbenne van már hitem,<br/>Hisz megváltá az életem;<br/>Eltörlé minden bűnömet,<br/>Megszerzé üdvösségemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha mind e világ megtagad,<br/>Elég, ha Ő velem marad.<br/>A Sátán bármit is tegyen,<br/>Nem árthat többé már nekem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért immár nem félek én,<br/>Mert Jézus él és Ő enyém,<br/>Időm ha egyszer majd letelt,<br/>A sírból Ő életre kelt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen hála halálodért,<br/>Dicső föltámadásodért,<br/>Te élsz, mi is élünk Veled,<br/>Ezért imádjuk szent Neved!</lines>
+    </verse>
+  </lyrics>
+</song>

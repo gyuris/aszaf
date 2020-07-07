@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>554. Nem hagyjuk el a szent Igét</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nem hagyjuk el a szent Igét, Az Úr áldott szavát. <br/>Ez támaszt ad sok léleknek, Vezet e léten át.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nap ez, mely áldott fénysugárt Hint életünkre szét;<br/>Ebből halljuk az Ő szavát, Az élet beszédét.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nem hagyjuk el a szent Igét, Ha öröm vagy baj ér!<br/>El nem veheti senki sem, Bármily kincset ígér.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Akármit tesz is e világ, Ha üldöz, ha csábít, <br/>A Sátán nékünk mit sem árt, Isten megszabadít.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nem hagyjuk el a szent Igét, Terjesztjük szerteszét, <br/>Míg üdvre hívó szózatát Meghallja minden nép.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hirdetjük hívő élettel Az Úrnak jóvoltát!<br/>Megígérjük: nem hagyjuk el Soha a Bibliát!</lines>
+    </verse>
+  </lyrics>
+</song>

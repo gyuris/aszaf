@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>105. Bágyadt, fáradt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bágyadt, fáradt az őszi napsugár,<br/>Hervad, sárgul az egykor zöld határ,<br/>Őszi szellő hidegen lengedez,<br/>A völgyben csobogó csermely <br/>Búcsúdalt csörgedez.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ami csak van e világon,<br/>Minden csak mulandó álom,<br/>De hogyha Jézusban élünk,<br/>van örök életünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Itt csak vándor, <br/>zarándok életem,<br/>Sok a munka,<br/>fáradság, küzdelem,<br/>De ha Jézus bírja a lelkemet,<br/>Tudom, hogy megadja nékem<br/>mennyei részemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Messze-messze, <br/>a csillagtengeren,<br/>Ott, hol bánat, <br/>fájdalom nem terem,<br/>Van egy kedves<br/>gyönyörű égi hon,<br/>A szívem csak oda vágyik, <br/>ott vár a nyugalom.</lines>
+    </verse>
+  </lyrics>
+</song>

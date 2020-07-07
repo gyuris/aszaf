@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Z266 Krisztus Ur a nagy Kiraly</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Krisztus Úr, a nagy Király; Halleluja!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Betlehem hol földre jött, Halleluja!<br/>És itt élt a nép között, Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Golgotán ki megváltott, Halleluja!<br/>Harmadnap feltámadott, Halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Õ tisztít a bûntõl meg, Halleluja!<br/>Vére ad új életet, Halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Egy nap majd ha visszajön, Halleluja!<br/>Mily jó lesz ott Nála fönn, Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

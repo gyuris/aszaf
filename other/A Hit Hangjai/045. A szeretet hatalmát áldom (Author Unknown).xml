@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>045. A szeretet hatalmát áldom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/4. A szeretet hatalmát áldom, <br/>Mely Megváltónkban megjelent. <br/>Csodás Nevét szívből imádom,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mert bűn mélyéből fölemelt, <br/>Úgy vágyom áldott, hű szívéhez, <br/>Szeretetének tengeréhez.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/4. Ó, mennyire szerettél engem,<br/>Vágyott utánam hű szíved! <br/>E nagy szeretet vonja lelkem,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hogy járjak mindig csak Veled. <br/>A bűnök éjét általjárta<br/>Szeretetednek fénysugára.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/4. Sok átkos bűnnek rabja voltam,<br/>Mikor még éltem Nélküled. <br/>Terólad tudni sem akartam,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>De Te kerestél engemet. <br/>Ha tudná ezt, ki bűnbe tévedt,<br/>Akkor mindjárt szeretne Téged.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4/4. Ó, drága Jézus, égi képed<br/>Legyen bevésve lelkünkbe! <br/>Szent arcodról sugárzó fényed</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hatoljon mélyen szívünkbe! <br/>A szó, az élet áldjon Téged,<br/>Lássék meg rajtunk dicsőséged!</lines>
+    </verse>
+  </lyrics>
+</song>

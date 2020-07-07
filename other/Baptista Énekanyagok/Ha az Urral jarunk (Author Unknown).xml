@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Ha az Urral jarunk</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha az Úrral járunk,<br/>El nem téved lábunk,<br/>Ragyog utunkon mennyei fény.<br/>Vezet szent Igéje,<br/>Velünk van békéje,<br/>Szívünk betölti hit és remény.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézusban bízz,<br/>Üdvre más út nem visz!<br/>Szelíd hangjának engedj,<br/>S boldog lesz életed.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Sötét árny hogyha jő,<br/>Tornyosul vészfelhő,<br/>Jelenléte hadd ragyogja át!<br/>Tűnik gond és bánat,<br/>Semmi baj nem árthat,<br/>Hogyha bízunk és tesszük szavát.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bár itt terhünk nehéz,<br/>Érhet sok szenvedés,<br/>Vele hű munkánk jutalma nagy;<br/>Sújthat gyász és bánat,<br/>Nekünk az nem árthat,<br/>Minden bajból új áldás fakad.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Áldott közösségben,<br/>Lelki csendességben<br/>Égi fény árad a szívünkbe,<br/>Amit kér, megtesszük,<br/>Hogyha küld, elmegyünk,<br/>Hallgatunk Rá, mert bízunk Benne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

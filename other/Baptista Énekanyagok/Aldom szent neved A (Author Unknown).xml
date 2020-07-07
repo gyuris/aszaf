@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Aldom szent neved A</title>
+    </titles>
+    <verseOrder>v1 b1 c1 v2 b1 c1 e1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Áldom szent neved<br/>A mézzel folyó földeken,<br/>Hol nincs hiányom semmiben,<br/>Áldom nevedet.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Áldom szent neved,<br/>Ha az út a pusztába vezet,<br/>A száraz, kietlen helyen<br/>Áldom nevedet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Minden áldást dicséretté<br/>Formál szívem,<br/>Ha körülzár a sötétség,<br/>Azt mondom én:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott legyen az Úr neve,<br/>Áldom nevedet!<br/>Áldott legyen az Úr neve,<br/>Áldott legyen hatalmas neved!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Áldom szent neved,<br/>Ha éppen minden rendben megy,<br/>Ha napfényes az életem,<br/>Áldom nevedet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Áldom szent neved<br/>A szenvedések útján is,<br/>Bár könnyek között áldozom,<br/>Áldom nevedet.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Te adsz és elveszel,<br/>Te adsz és elveszel,<br/>A szívem így felel:<br/>Áldom szent neved.</lines>
+    </verse>
+  </lyrics>
+</song>

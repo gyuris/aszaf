@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Z66 Csak egy kis szikra</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csak egy kis szikra kell, és ég lobogva a tûz. <br/>Jöjj, és felmelegszel, ha velünk együtt leülsz. <br/>Isten nagy tervében járunk, <br/>Ki mélyben nem hagyott. <br/>Beszélj róla, mondd el mind azt, <br/>mit szívednek adott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Csak Õ, csak Õ a jó, csak Õ az élet, béke. <br/>Vedd el, tiéd lehet: add a szívedet érte! <br/>Jézus, csak Jézus az élet, <br/>Érted jött, megváltott. <br/>Beszélj róla, mondd el mindazt, <br/>Mit szívednek adott!</lines>
+    </verse>
+  </lyrics>
+</song>

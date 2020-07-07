@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Eljott a nap</title>
+      <title>Gyonyoru nap virradt fel</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyörű nap virradt fel,<br/>A halál vesztett van ki felemel,<br/>énekeljük: Jézus Krisztus él!<br/>Drága kereszt és üres sír,<br/>Az örökélet könyvébe beír.<br/>Énekeljük, Jézus Krisztus él Ő él!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljött a nap, az a nap <br/>mikor bűnöm elmostad<br/>Eljött a nap, az a nap<br/>mindent megváltoztat<br/>Semmi nem kárhoztat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt állok lábadnál<br/>Végre érzem arcod rám talál<br/>Tiéd vagyok, s te az enyém már<br/>Öröm, béke, végtelen,<br/>Földi kín nem árthat már nekem <br/>Ünnepeljünk, Jézus Krisztus él Ő él</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó milyen gyönyörű nap,<br/>igazi örömet ad,<br/>hogy megmentettél!<br/>Ó, milyen gyönyörű nap,<br/>milyen gyönyörű név!</lines>
+    </verse>
+  </lyrics>
+</song>

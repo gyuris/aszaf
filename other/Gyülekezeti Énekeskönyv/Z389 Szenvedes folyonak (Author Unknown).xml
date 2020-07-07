@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z389 Szenvedes folyonak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szenvedés folyónak hullámin hordja,<br/>Életünk hajóját bûnnel megrakva,<br/>De nem a halálban végzõdik az már,<br/>Mert a túlsó parton Krisztus vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bûneimnek súlya mélyre süllyeszt le,<br/>Félelem és bánat él a szívemben,<br/>De a kereszt emel ha rátekintek,<br/>Bocsánatot nyerek Jézusban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Krisztus szenvedése s kereszthalála<br/>Isten bölcs tervének megmentõ útja.<br/>Fent a dicsõségben örök élet vár.<br/>Vele együtt boldogok leszünk.</lines>
+    </verse>
+  </lyrics>
+</song>

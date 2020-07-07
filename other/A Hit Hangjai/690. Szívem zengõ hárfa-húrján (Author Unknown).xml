@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>690. Szívem zengõ hárfa-húrján</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szívem zengő hárfa-húrján <br/>Téged áldlak Istenem,<br/>Fájdalomban és szükségben <br/>halleluját mond szívem.<br/>/: Amíg élek szüntelen <br/>Jézus Neved dicsérem. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szép világot „Legyen” szavad <br/>bölcsességgel teremtett,<br/>Földre jöttél és szavadra <br/>meggyógyult sok-sok beteg.<br/>/: Engem is Te alkottál,<br/>üdvöt ajándékoztál. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Áldott lélek az, ki Benned <br/>bízik mindig, Jézusom,<br/>Néked enged, s Téged követ <br/>hűséggel minden úton.<br/>/: Jó sors ér, vagy balsors ver, <br/>Jézus engem nem hagy el. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Halleluja, halleluja! <br/>Zengjen hát a dicséret,<br/>Amíg újra eljön értünk, <br/>s teljesül az ígéret.<br/>/: Szívem, lelkem áldjad Őt, <br/>várjad készen Megmentőd! :/</lines>
+    </verse>
+  </lyrics>
+</song>

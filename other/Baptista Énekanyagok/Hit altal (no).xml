@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hit altal</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hit által látható Isten,<br/>Keze munkája ez a nagy világ,<br/>S mint ki Benne bízik<br/>És hit által él,<br/>Hirdeti hűséges voltát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az ígéret gyermekei lettünk,<br/>Hittel nézzük Őt,<br/>Kit nem lát még szemünk.<br/>Bátran fussunk,<br/>Ő vár ránk az út végén,<br/>Hit által éljük életünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hit által éltek az ősatyák.<br/>Bár nem látták, szívükben mind tudták,<br/>Hogy az Isten szent városa készen áll,<br/>Hol rájuk béke, igazság vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hit által látták a Messiást,<br/>S jöttét hirdették mind a próféták:<br/>Eljön majd, ki bűnnek láncát széttöri,<br/>S végleg legyőzi a halált.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hit által kaptuk a küldetést.<br/>Lelke által vigyük az örömhírt,<br/>Hogy kik bűnben, sötétségben élnek még,<br/>Minden nép tudja meg: van remény!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hit által omlik le a hegy.<br/>Isten igéje előtt nem áll meg,<br/>Lehetséges minden annak, aki hisz,<br/>Csak Krisztus nevében bízik.</lines>
+    </verse>
+  </lyrics>
+</song>

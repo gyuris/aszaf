@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>628. Ó, Uram, drága ajándékid</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, Uram, drága ajándékid <br/>A kisdedek és gyermekek. <br/>Ím, bemutatjuk őket Néked, <br/>Kik szívednek oly kedvesek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hogyha nem volnál, Jézus, vélük, <br/>Sokféle bajtól tarthanánk. <br/>Szüntelen aggódhatnánk értük; <br/>Ámde Te gondolsz mindig ránk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vedd őket áldó szent karodba, <br/>Hótisztán tartsd meg szívüket; <br/>Elméjük oktasd mondásodra, <br/>Bűntől és bajtól óvd őket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Új nevet, tisztát adj őnékik, <br/>Írd be az élet könyvébe, <br/>S ha Néked éltek hűen végig, <br/>Majd vezesd őket az égbe</lines>
+    </verse>
+  </lyrics>
+</song>

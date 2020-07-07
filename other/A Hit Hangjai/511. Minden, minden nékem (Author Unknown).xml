@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>511. Minden, minden nékem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Minden, minden nékem Jézus, Oktató és segítő, <br/>Nagy, kegyes szeretetével Minden jóval ellát Ő.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Bármi rémít, bármi támad, Biztos menhelyem van Nálad. <br/>Jobbat lelkem nem kívánhat, Te vagy nékem mindenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Minden, minden nékem Jézus, Megmentő és tanító, <br/>Gyöngéd pásztor, nyájas mester, Vezető és üdvadó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Minden, minden nékem Jézus, Mentől inkább nézem Őt, <br/>Annál jobban kell szeretnem, Az énértem szenvedőt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Minden, minden nékem Jézus, Én Övé és Ő enyém! <br/>Néki élni, Őt szolgálni Vágyom itt e földön én.</lines>
+    </verse>
+  </lyrics>
+</song>

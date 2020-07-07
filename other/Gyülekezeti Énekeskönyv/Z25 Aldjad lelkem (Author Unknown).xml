@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z25 Aldjad lelkem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Áldjad lelkem, áldjad szellemem, <br/>Mindig áldjad az Urat.<br/>Hálaének drága illata <br/>Az, ha szívembõl fakad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Minden reggel, délben, <br/>vagy ha jõ az est, Szálljon hálaáldozat. <br/>Áldjad lelkem, áldjad szellemem, <br/>Mindig áldjad az Urat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Krisztus Jézus, Isten Szent Fia <br/>Elhagyta dicsõ honát,<br/>És mint bárány, mert úgy szeretett, <br/>Értünk adta önmagát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Irgalmas és kegyelmes az Úr, <br/>Vétkeinkre nem tekint.<br/>Nem cselekszik  és nem is fizet <br/>Õ a bûneink szerint.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Ismer minket és emlékezik, <br/>Tudja, hogy porból vagyunk.<br/>Ám elõtte bûnbánó szívvel, <br/>Mindig leborulhatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>096. Áldjuk a mennyei Atyát</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Áldjuk a mennyei Atyát,<br/>Áldjuk a mennyei Atyát!<br/>Halleluja, halleluja!<br/>Áldjuk a mennyei Atyát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Áldjuk az egyszülött Fiút! <br/>Áldjuk az egyszülött Fiút!<br/>Halleluja, halleluja!<br/>Áldjuk az egyszülött Fiút!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Várjuk az Isten Szentlelkét! <br/>Várjuk az Isten Szentlelkét!<br/>Halleluja, halleluja<br/>Várjuk az Isten Szentlelkét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Áldjuk a mennyei Atyát,<br/>Dicsérjük egyszülött Fiát!<br/>Halleluja, halleluja!<br/>Várjuk a Lélek áldását!</lines>
+    </verse>
+  </lyrics>
+</song>

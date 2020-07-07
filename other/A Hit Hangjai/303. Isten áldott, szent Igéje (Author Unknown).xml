@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>303. Isten áldott, szent Igéje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten áldott, szent Igéje <br/>Élő, tiszta, hűs forrás. <br/>Földi létben üdvösségre <br/>Ez készít fel, semmi más. <br/>Egyedül a Szentírás! <br/>Egyedül a Szentírás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Eltűnik majd minden érték, <br/>Megemészti rozsda, moly, <br/>Ám az Ige örök mérték, <br/>Bölccsé tesz és tanácsol. <br/>Benne Isten szava szól.<br/>Benne Isten szava szól.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Általa nyert élő hittel <br/>Kősziklára építünk, <br/>Ha az igét tisztelettel <br/>Forgatja kezünk, szívünk. <br/>Ez az üdvünk s életünk. <br/>Ez az üdvünk s életünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Isten szava adhat békét, <br/>Harcunkban ez bátorít,<br/>Adja áldott menedékét, <br/>Ha kísértő háborít.<br/>Győzelmessé tesz a hit, <br/>Győzelmessé tesz a hit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Fedd és int, hogy vésztől mentsen, <br/>Hogyha bűnbe tévedünk,<br/>És a jó úton vezessen, <br/>Tisztán tartsa meg szívünk.<br/>Szent legyen az életünk, <br/>Szent legyen az életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

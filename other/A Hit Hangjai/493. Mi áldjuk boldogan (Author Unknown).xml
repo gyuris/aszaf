@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>493. Mi áldjuk boldogan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mi áldjuk boldogan <br/>a drága Megmentőt,<br/>És zengjünk hálát lelkesen, <br/>Víg énekszóval szüntelen, <br/>Az Úr színe előtt, <br/>szent trónusa előtt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Az égi Sionba indulunk boldogan, hittel, <br/>Az égi hazánkba fel, fel, <br/>a mennyei városba fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hadd hallja mind, <br/>aki nem örvend még velünk, <br/>Hogy Isten gyermekévé tett, <br/>És Benne lelkünk üdvre lelt,<br/>Így zenghet énekünk és ünnepelhetünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mi bátran haladunk, <br/>ó, jöjj és tarts velünk!<br/>Amíg e pusztán átmegyünk, <br/>Az Ige lesz az ételünk,<br/>Míg célba érkezünk, <br/>a mennybe érkezünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. A gonddal el tehát, és hálaszóra fel, <br/>Mert nemsokára fönn leszünk, <br/>A város készen áll nekünk!<br/>Ott majd a szentekkel <br/>Őt áldjuk énekkel.</lines>
+    </verse>
+  </lyrics>
+</song>

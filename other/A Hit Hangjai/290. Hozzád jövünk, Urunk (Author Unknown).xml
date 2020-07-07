@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>290. Hozzád jövünk, Urunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Hozzád jövünk, Urunk, ó, segíts, <br/>Ne szóljon Igéd hiába! <br/>A szívünk oly sötét, jöjj, segíts, <br/>Ébresszen Igéd világa! <br/>Hadd zengjen Rólad az énekünk,<br/>Áldd meg, ó Urunk, az életünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ne szóljon Igéd hiába,<br/>Ne szóljon Igéd hiába!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Szívünk szent Igédre nem figyel, <br/>Oly sokszor járunk a sárba'; <br/>Vágyaink szakítnak Tőled el, <br/>Nem fénylik mécsünk világa. <br/>Lelkednek, Istenem, hadd legyen <br/>Megszentelt temploma a szívem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Ajkunkon hazugság bélyege, <br/>Megrontott életünk átka. <br/>Hogy állunk elődbe így, Urunk, <br/>Naponként Téged imádva?! <br/>Nyisd meg a szemünk, hogy láthassunk, <br/>Szenteld meg ajkunk, hogy áldhassunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. A szívünk összetört, ó, Urunk, <br/>Itt állunk előtted gyászba'.<br/>A mélyből hozd ki az életünk,<br/>Ne szóljon Igéd hiába!<br/>Áldd meg az Igét, hogy érthessük,<br/>Tégedet dicsérve élhessünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>565. Nyájat õrzõ pásztorok</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nyájat őrző pásztorok, <br/>Rátok égi fény ragyog.<br/>Ősi Ige teljesül, <br/>Bánat éje földerül.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Testet öltve, kisdedként <br/>Jézus, ím, a földre lép.<br/>Benne nyertek életet, <br/>Bízzatok, ne féljetek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bár csak pólya rejti Őt, <br/>És mint ember testet ölt, <br/>Ámde Ő az Alkotó, <br/>Éjbe égi fényt hozó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Angyaloknak hangja zeng: <br/>Jézus Krisztus megjelent!<br/>Hallja meg a nagy világ: <br/>Isten adja szent Fiát!</lines>
+    </verse>
+  </lyrics>
+</song>

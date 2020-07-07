@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>128. Csak Istennél nyuszik meg a lelkem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Istennél nyugszik meg a lelkem,<br/>Tőle kapok reménységet.<br/>Csak Ő az én sziklám, szabadítóm,<br/>Erős váram: Nem ingadozom felettébb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bízzatok benne, ti népek, <br/>Most öntsétek ki szívetek,<br/>Mert Isten, egyedül Isten, <br/>Csak Isten a mi oltalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

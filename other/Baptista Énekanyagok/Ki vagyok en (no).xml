@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-19T16:19:29">
+  <properties>
+    <titles>
+      <title>Ki vagyok en</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki vagyok én,<br/>Hogy a mindenség Ura<br/>Hallja hangomat,<br/>Látja gondomat?<br/>Ki vagyok én,<br/>Hogy a Hajnalcsillag is<br/>Minden utamon elôttem halad?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nem azért, aki vagyok,<br/>de azért, amit tettél,<br/>nem azért, amit teszek,<br/>de azért, Aki Te vagy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nézz rám, csak hervadó virágszál,<br/>csak porba hulló árnyék,<br/>csak csepp az óceánban,<br/>mint párát, visz a szél,<br/>mégis felém fordul arcod,<br/>Uram, hallod, ha kiáltok,<br/>És azt mondod nekem:<br/>„Enyém vagy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki vagyok én,<br/>hogy bár látod bűnömet,<br/>újból rám emeled szent tekinteted?<br/>Ki vagyok én,<br/>hogy a hangod hallhatom,<br/>és a vihar csendesül kívül és belül?</lines>
+    </verse>
+  </lyrics>
+</song>

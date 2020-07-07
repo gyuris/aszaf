@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>308. Isten hord karjain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten hord karjain, ne csüggedj el; <br/>Védelme biztató, jöjj, ismerd fel!<br/>Hatalmas karjain magához von, <br/>Nem árthat semmi sem, Ő oltalom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Kézen fog Isten és vigyáz reád, <br/>Szeret, mint gyermekét, hisz Ő Atyád; <br/>Hitben e szent tudat sziklaszilárd, <br/>Hűsége megmarad próbákon át.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Isten hord karjain magányodban, <br/>Meghallgat könnyező fohászodban. <br/>Ha a sok gond alatt megfáradt vagy, <br/>Felvidít hű Urad, bízd Rá magad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Isten hord karjain ínségedben, <br/>Elmúló életed sok terhében,<br/>Megáll az Ő szava, vissza nem tér, <br/>Fogadd be, benned is örökké él.</lines>
+    </verse>
+  </lyrics>
+</song>

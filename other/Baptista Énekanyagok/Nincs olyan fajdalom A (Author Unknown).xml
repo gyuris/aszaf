@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-19T17:15:13">
+  <properties>
+    <titles>
+      <title>Nincs olyan fajdalom A</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nincs olyan fájdalom, gond,<br/>Mit meg nem oldhat,<br/>Nincs olyan nagy hegy<br/>Mit Ő meg nem mozdíthat.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nincs oly sötét nagy vihar,<br/>Mit le nem csendesít,<br/>Nem lehet oly bánatod,<br/>Amin Ő nem segít.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Mert e világnak terheit mind<br/>vállain hordta,<br/>Tudom testvérem,<br/>téged is hordoz majd. :/ 2x</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sokszor azt gondolod,<br/>Hogy tőled oly messze van<br/>Hiába kiáltasz fel,<br/>Minden szó hasztalan</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Pedig Ő tegnap és ma,<br/>Örökké ugyanaz<br/>Ha minden elmúlik is,<br/>De Igéje megmarad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Így szól:<br/>Jöjj hozzám, ha megfáradtál,<br/>Nyugalmat én adok.</lines>
+    </verse>
+  </lyrics>
+</song>

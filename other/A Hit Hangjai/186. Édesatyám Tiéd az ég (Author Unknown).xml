@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>186. Édesatyám Tiéd az ég</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Édesatyám, Tiéd az ég és<br/>Tiéd a Föld, a hold és a nap, <br/>Ezernyi csillag,<br/>megalkotá azt „Legyen!” szavad. <br/>Kékszínű ég, viharzó tenger,<br/>szikrázó napfény, ősz és a tél,<br/>Tavasz virága,<br/>nyárnak kalásza Téged dicsér!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mélyen meghajtom térdem<br/>előtted, szent Atyám, <br/>Őszinte szívvel mondok hálát! <br/>Áldásod, jó kegyelmed<br/>gazdagon árad rám, <br/>Békét és szent örömöt ád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Édesatyám, Tiéd a szívem,<br/>Tetőled kaptam új életet, <br/>Azóta érzem<br/>Mindennap őrző kegyelmedet. <br/>Jönnek bajok, ezer veszély,<br/>gond, próbáltatás és nehéz napok, <br/>Nem ártanak,<br/>mert Krisztus Jézusban Tied vagyok!</lines>
+    </verse>
+  </lyrics>
+</song>

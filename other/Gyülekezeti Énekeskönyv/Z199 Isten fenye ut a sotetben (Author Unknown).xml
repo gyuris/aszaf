@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Z199 Isten fenye ut a sotetben</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Isten fénye út a sötétben.:/ 4x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/:Fogdd a kezünk,<br/> (Jöjj hát, gyere velünk!)<br/>Ó, Isten útján együtt hadd menjünk!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. /:Istenünknek nagy a hatalma.:/ 4x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. /:Isten Lelke az ki erõt ad.:/ 4x</lines>
+    </verse>
+  </lyrics>
+</song>

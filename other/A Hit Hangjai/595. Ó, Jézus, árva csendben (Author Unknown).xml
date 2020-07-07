@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>595. Ó, Jézus, árva csendben</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó, Jézus, árva csendben <br/>az ajtón kívül állsz, <br/>Bejönnél már, de némán <br/>kulcsfordulásra vársz.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mi mondjuk, hogy miénk vagy, <br/>Te vagy a név, a jel: <br/>Ó, szégyen, hogy Te légy az, <br/>akinek várni kell.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ó, Jézus, most kopogtatsz, <br/>sebhelyes még a kéz, <br/>Könnymarta kedves arcod <br/>oly búsan intve néz.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ó, áldott, drága jóság, <br/>mely ennyit tűrve vár! <br/>Ó, bűnök szörnyű bűne, <br/>mely téged így kizár!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ó, Jézus, szólsz, <br/>s a szívhez a szó szelíden ér: <br/>„Így bánsz velem? <br/>Teérted hullt <br/>testemből a vér!”</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Bús szégyennel behívunk, <br/>az ajtónk nyitva már: <br/>Jöjj, Jézus, jöjj, ne hagyj el, <br/>a szívünk várva vár!</lines>
+    </verse>
+  </lyrics>
+</song>

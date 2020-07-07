@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>158. Egy hang kiáltja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egy hang kiáltja: „Emberek,<br/>A bűnből meg kell térnetek, <br/>Mert elközelgett az idő!”<br/>Ezt mondja az Útkészítő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nem állhat senki vétkesen<br/>Az Úr elé, ha megjelen. <br/>Csak Benne van megtisztulás,<br/>Bűnbánóknak megújulás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ki megtér és a vízbe lép,<br/>Hogy hitből bemerítkezzék, <br/>Az Jézus Krisztust vallja meg,<br/>És elnyeri az életet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Az Úrban van az üdvösség,<br/>A megtartás és menedék. <br/>Ő ingyen adja irgalmát,<br/>Ha hittel Őt befogadják.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Úr Jézus Krisztus, ó, segíts,<br/>Hogy halljuk meg intéseid!<br/>Küldd Lelked, mint megígérted, <br/>És kérünk, adj üdvösséget!</lines>
+    </verse>
+  </lyrics>
+</song>

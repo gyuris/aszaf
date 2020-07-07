@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>594. Ó, Jézus drágább vagy nekem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Ó, Jézus, drágább vagy nekem E földön mindennél.<br/>Megváltottad az életem, Így bennem béke él.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Felét sem mondták el nekem, Mily nagy e kegyelem,<br/>Hogy drága véred Jézusom, Lemosta sok vétkem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Sok jó barátom volt nekem, De tőlük nem kaptam,<br/>Oly nagy és szent szeretetet, Mint Tőled, hű Uram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Szívemben élsz Te csendesen, Veled jött az öröm,<br/>Ha nem ismerlek meg, Uram, Nincs ez a gyönyöröm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Ó, Jézus, Nálad lenni jó, Már jobb nem is lehet,<br/>De még csodásabb lesz ott fönn, A mennybe' Teveled!</lines>
+    </verse>
+  </lyrics>
+</song>

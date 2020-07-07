@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-29T17:18:09">
+  <properties>
+    <titles>
+      <title>Amim van hozom Eled</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 c1 v1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amim van, hozom Eléd,<br/>Leteszem a keresztnél,<br/>Legyen minden csak tiéd, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden lépés, minden szó<br/>Legyen tiszta, mint a hó,<br/>Ahol járok, Te legyél az út!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó – ó, szomjas szívem Terád vár,<br/>Ó - ó, arra vágyom, ölelj át!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden óra, minden nap,<br/>Minden sóhaj, gondolat<br/>Rólad szóljon, Rólad, Uram!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Egész életem átadom,<br/>hadd legyen tiéd.<br/>Velem bármit terveztél,<br/>legyen meg! Örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

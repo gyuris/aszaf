@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>155. Egy csendes éjjel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egy csendes éjjel hirtelen <br/>fény áradt szerte szét, <br/>És angyalének hirdette <br/>a menny üzenetét:<br/>„Az Úrnak dicsőség legyen, <br/>e földön békesség,<br/>A Messiás megszületett,<br/>hadd hallja minden nép!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Oly régtől hangzik már e hír,<br/>ma néked újra szól, <br/>A bűneiddel jöjj Hozzá, <br/>mert Ő a Megváltó.<br/>A csillag fénye felragyog,<br/>és hívón int feléd, <br/>Add Jézusnak a szívedet, <br/>fogadd el nagy kegyét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Míg gyorsan tűnnek napjaink,<br/>már közel az idő, <br/>Mit próféták meghirdettek,<br/>hogy Krisztus visszajő. <br/>Az égen, földön igazság <br/>és béke árad szét, <br/>Majd zengi népe boldogan<br/>az Úr dicséretét!</lines>
+    </verse>
+  </lyrics>
+</song>

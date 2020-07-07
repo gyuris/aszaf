@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Z54 Az Ur lejott szegeneyen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az Úr lejött szegényen a földre, <br/>Hogy el ne vessz, ezért vére folyt. <br/>A homlokán tövist hordott teérted, <br/>Miként bárány, szelíd, néma volt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hova menekülsz ha majd <br/>Jön az ítélet nap? <br/>Vajon ki segít, a vádtól ki véd? <br/>Ma még jöhetsz, mire vársz, az Úr szól?! <br/>Siess hát, fogadd kegyelmét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ne félj! Az Úr a halált legyõzte. <br/>Harmadnapon dicsõn megjelent. <br/>Ha vele jársz, helyet készít a mennyben, <br/>Utad végén õ vár odafenn.</lines>
+    </verse>
+  </lyrics>
+</song>

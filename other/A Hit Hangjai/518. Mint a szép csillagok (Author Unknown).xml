@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>518. Mint a szép csillagok</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mint a szép csillagok, mind-mind eltűnnek,<br/>Ha földre érnek a napsugarak,<br/>Fűszálként hervad és múlik az élet:<br/>Mit Jézusért teszel, mind megmarad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ez marad meg csak, el sose hervad,<br/>Mit Jézusért teszel, nem hervad az,<br/>Ha bűnöd el elhagyva, szolgálsz az Úrnak,<br/>Mit Jézusért teszel, mind megmarad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Más fogja élvezni, <br/>mit kezed gyűjtött,<br/>Munkád után lehet majd más arat.<br/>Végül a múlt köde téged is elföd:<br/>Mit Jézusért teszel, mind megmarad!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Hű szolga, hős vitéz, jó harcot vívtál,<br/>Roskadtál munkádnak súlya alatt;<br/>De fönn a mennyekben jutalom vár rád:<br/>Mit Jézusért teszel, mind megmarad!</lines>
+    </verse>
+  </lyrics>
+</song>

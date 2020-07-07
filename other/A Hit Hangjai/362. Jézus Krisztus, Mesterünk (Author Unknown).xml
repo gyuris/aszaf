@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>362. Jézus Krisztus, Mesterünk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus Krisztus, Mesterünk, <br/>Mint ígérted, légy velünk!<br/>Bárhova hív a munka, <br/>Adj áldást, áldást, utunkra!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kevésen is hűséget, <br/>Szolgálatra készséget, <br/>Új erőt Te adj nekünk, <br/>Hadd áldjon, áldjon életünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Útra valónk békesség, <br/>Megszerezted réges-rég. <br/>Árassza tett és beszéd <br/>A békét, békét szerteszét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Vezess minket, hű Urunk! <br/>Veled útnak indulunk. <br/>Téged áld szolgálatunk <br/>És minden, minden új napunk.</lines>
+    </verse>
+  </lyrics>
+</song>

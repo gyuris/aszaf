@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>091. Áldjad vígan az Urat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/6. Áldjad vígan az Urat,<br/>Aki égi üdvöt ad,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mert kegyelme végtelen,<br/>Bőven árad szüntelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/6. Úr Ő minden úr felett,<br/>Néki jár a tisztelet:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/6. Áldjad Őt, ki üdvünkért <br/>Csodát mívelt lelkünkért,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/6. Eget, földet alkotott,<br/>S jóságában ránk gondolt,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/6. Népét súlyos romlásból <br/>Ő kihozta rabságból,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6/6. Ételt adott atyaként,<br/>Sötét éjben gyújtott fényt,</lines>
+    </verse>
+  </lyrics>
+</song>

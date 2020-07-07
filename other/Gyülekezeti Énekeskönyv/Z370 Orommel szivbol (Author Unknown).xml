@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z370 Orommel szivbol</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örömmel, szívbõl, most dicsérd a Királyt! <br/>Emeld fel hangod és zengj halleluját! <br/>Borulj trónjához Õt dicsõíteni! <br/>Lépj most színe elé és add szíved neki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy a Teremtõm, <br/>Te vagy a Megváltóm, <br/>Te vagy Szabadítóm, Te Úr vagy, <br/>Te vagy a Gyógyítóm! <br/>Te vagy a Segítõm, <br/>Pásztorom vagy nékem, Vezetõm, <br/>Jézus, Úr, Király, dicsérlek én!</lines>
+    </verse>
+  </lyrics>
+</song>

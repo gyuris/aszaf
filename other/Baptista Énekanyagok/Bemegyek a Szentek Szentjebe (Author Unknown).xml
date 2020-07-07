@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:17">
+  <properties>
+    <titles>
+      <title>Bemegyek a Szentek Szentjebe</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bemegyek a Szentek Szentjébe,<br/>Bemegyek a Bárány vérén át<br/>Bemegyek, csak Téged dicsérlek<br/>Bemegyek, hogy hódoljak Neked<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, dicsérlek, dicsérlek<br/>Neved áldom, szent vagy,<br/>Szent vagy, Uram.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

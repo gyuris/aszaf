@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Zs_Gyertek dicserjuk egyutt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Gyertek, dicsérjük együtt, Izráel Szentjét,<br/>mert Ő a Megváltó! :/<br/>/: Emeld fel kezedet, nyisd meg szívedet,<br/>mert Ő a te Szabadítód! :/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyertek, gyertek,<br/>menjünk fel az Úr hegyére,<br/>vígasságnak lakhelyére,<br/>ujjongjunk Ő előtte,<br/>táncoljunk Ő előtte,<br/>Az Ő neve, az Ő neve: Ott lakik az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

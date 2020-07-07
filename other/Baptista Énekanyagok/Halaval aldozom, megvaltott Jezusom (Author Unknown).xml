@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Halaval aldozom, megvaltott Jezusom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálával áldozom, megváltott Jézusom,<br/>Dicsérem áldott Nevét.<br/>Megváltott vérével újjá szült Lelkével,<br/>Éneklem csodás kegyét:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boldog, boldog vagyok,<br/>Újjászült Jézusom!<br/>Mindenütt elmondom:<br/>Megváltott Jézusom,<br/>Szívem már ujjong nagyon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menny felé haladva, lelkemre vigyázva,<br/>Tisztítom fehér ruhám.<br/>Várom a nagy Királyt, égi kar hívását,<br/>Itt hagyom nyomor-tanyám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majd, ha ott fent leszek, Jézussal örvendek,<br/>Örök lesz boldogságom.<br/>Akkor zeng énekem ott fenn a mennyekben,<br/>Hol készen vár otthonom.</lines>
+    </verse>
+  </lyrics>
+</song>

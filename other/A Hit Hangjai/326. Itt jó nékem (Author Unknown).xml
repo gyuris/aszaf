@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>326. Itt jó nékem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Itt jó nékem, az Úr szent házában, Az ő népe között!<br/>Oly boldog itt a lelkem valóban, <br/>Hisz nyer sok örömöt!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A szívemet kitárom Az Úr színe előtt,<br/>Szent dicsőségét látom Itt minden más fölött.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Itt van az Úr, ki engem felüdít, Ki oly szeretve véd, <br/>Ő nyájasan, szelíden rám tekint, <br/>S árasztja kegyelmét.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ő ád vigaszt énnékem, Tesz hitben erőssé, <br/>Nem hagy el bajban, vészben, Vezérel menny felé.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Itt van népem, az Úrnak szent népe, <br/>Mely vélem egyetért. <br/>Bízva küzdünk testvéri egységbe' <br/>Az üdvös egy célért.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Köröttünk zúgó tábor Kél harcra ellenünk, <br/>Ám a világ zajától E hajlék védelmünk.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Itt a helyem, Uram, itt maradok, <br/>Tartsd nékem e helyet, <br/>Add számomra e boldog tudatot, <br/>Hogy kincs ez, kincs felett!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Segíts ide sietnem, Mikor az óra int, <br/>Hogy teremje ittlétem Üdvöm gyümölcseit!</lines>
+    </verse>
+  </lyrics>
+</song>

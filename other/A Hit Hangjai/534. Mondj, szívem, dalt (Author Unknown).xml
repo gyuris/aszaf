@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>534. Mondj, szívem, dalt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Mondj, szívem, dalt, és magasztald <br/>Jézus Krisztus szent Nevét!<br/>Hálatelten, bűntől menten <br/>Dicsőítsed nagy kegyét!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kell csodálnod, hogyha látod Irgalmát, <br/>mely végtelen!<br/>Szívem zengjen <br/>s minden bennem <br/>Hálaérzést szüntelen!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Kérd, hogy vére és igéje <br/>Tisztogassa lelkedet,<br/>Minden bűntől, átkos szennytől <br/>Óvja s védje szívedet!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Higgyed végre, hogy a szíve <br/>Minden bűnöst elfogad, <br/>Bűnbánóknak, jobbulóknak <br/>Bő kegyelmet osztogat!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Zengj, szívem, dalt, és magasztald <br/>Jézus Krisztus szent Nevét, <br/>Mert Ő rólad bűnbéklyódat <br/>Diadallal törte szét!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nagy Megmentő, Üdvözítő, <br/>Benne éltünk rejtve van, <br/>Higgyünk Benne hálát zengve, <br/>Üdvöt ád Ő biztosan!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>241. Ha földi utad véget ér</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha földi utad véget ér,<br/>Hogy állsz az Úr elé? <br/>Két úr szolgája nem lehetsz,<br/>Ma el kell végre döntened, <br/>Hogy életed kié!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A Sátán sok-sok jót ígér, <br/>Az útján csalfa fény, <br/>De meg kell látnod, hogy becsap, <br/>Mit Ő nyújthat, <br/>csak kárhozat; <br/>Nem lesz többé remény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az Úr Jézus hív, jöjj hamar! <br/>Őbenne béke vár. <br/>Eltörli minden vétkedet, <br/>A mennyben ád majd lakhelyet, <br/>Lelked üdvöt talál.</lines>
+    </verse>
+  </lyrics>
+</song>

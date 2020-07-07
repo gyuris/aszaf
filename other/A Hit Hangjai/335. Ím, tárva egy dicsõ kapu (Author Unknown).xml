@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>335. Ím, tárva egy dicsõ kapu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ím, tárva egy dicső kapu <br/>Megváltónk sok sebében,<br/>A kínkeresztről ránk ragyog <br/>Az üdvösség nagy fényben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Nagy irgalmát <br/>most hirdetem: <br/>Kitárult e kapu nekem!<br/>Megnyílt, megnyílt, <br/>Kitárult már nekem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. E tárt kapun még átmehet <br/>A földnek minden népe,<br/>Gazdag, szegény mentve lehet, <br/>Ha vágyik üdvösségre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. E tárt kapun, ó, lépj be hát, <br/>Bár támad ellenséged,<br/>Nyerd el az élet-koronát, <br/>Mit Jézus készít néked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ott Jézusnál a mennybe' fenn <br/>Már semmi baj nem érhet,<br/>Elfáradt lelkünk megpihen <br/>Itt hagyva minden terhet</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Z236 Jo az Ur azoknak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Jó az Úr azoknak, akik várják Õt,<br/>A léleknek amely keresi Õt!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/:Jó várni és megadással lenni <br/>az Úr Szabadításáig./:<br/>Mert nem zár ki örökre az Úr, sõt, <br/>Ha megszomorít, kegyelme vigaszt nyújt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/:Jó az Úr azoknak, akik várják Õt,<br/>A léleknek amely keresi Õt!:/</lines>
+    </verse>
+  </lyrics>
+</song>

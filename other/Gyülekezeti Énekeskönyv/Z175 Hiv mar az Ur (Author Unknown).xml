@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Z175 Hiv mar az Ur</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>Hív már az Úr, hív az Úr, <br/>Itt hagyom a földi gondokat. <br/>Hív már az Úr, Hív az Úr, <br/>Itt hagyom a földi gondokat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Ott fenn majd <br/>folyton zeng a dal. <br/>Itt hagyom a földi gondokat. <br/>Ott nem lesz többé sírás, jaj. <br/>Itt hagyom a földi gondokat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ó, testvér, kelj föl,<br/> indulj el! <br/>Itt hagyom a földi gondokat. <br/>Mert Jézus mondta:<br/> kész a hely. <br/>Itt hagyom a földi gondokat.</lines>
+    </verse>
+  </lyrics>
+</song>

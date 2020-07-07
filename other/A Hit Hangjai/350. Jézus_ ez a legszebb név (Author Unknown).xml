@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>350. Jézus: ez a legszebb név</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus: ez a legszebb név, <br/>Szebb ez minden földi névnél. <br/>Üdvöt rejtő, csendes rév, <br/>Sehol nincsen drágább ennél.<br/>Nagy voltához semmi név <br/>Nem hasonlít, bármily szép.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus világ üdve lett, <br/>A bűnsebre Ő ad gyógyírt. <br/>Jézus neve győzi meg <br/>Lelkünk ádáz támadóit. <br/>Hogyha Jézus van velünk, <br/>Minden harcot megnyerünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jézus, legfőbb drága kincs <br/>Itt e földön s fenn az égben. <br/>Vigaszt adóbb Nála nincs, <br/>Nem kell többé sírnom, félnem!<br/>Neve minden név felett <br/>Ékességem, kincsem lett.</lines>
+    </verse>
+  </lyrics>
+</song>

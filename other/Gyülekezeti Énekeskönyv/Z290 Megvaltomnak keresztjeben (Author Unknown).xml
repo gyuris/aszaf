@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z290 Megvaltomnak keresztjeben</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Megváltómnak  keresztjében <br/>van az összes örömem,<br/>Csak oda vágyik a lelkem, <br/>ahol boldogan pihen.<br/>	<br/>Refrén: <br/>Te csak maradj csalfa világ.<br/>Szívem rád semmit sem ád<br/>Csak egyet óhajtok csupán-csupán, <br/>Jézust ki halt keresztfán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha kísért engem a világ, <br/>Jézusom nyugalmat ád,<br/>Szemem fel a keresztre néz, <br/>ahol terhem elenyész.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Minden kétség és félelem, <br/>a keresztig jön velem,<br/>Ottan lehull minden terhem, <br/>Jézus megváltott engem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Édes öröm és boldogság,<br/>nyugalom, világosság<br/>A mennybõl áradoz szét, <br/>az Úr adja kegyelmét.</lines>
+    </verse>
+  </lyrics>
+</song>

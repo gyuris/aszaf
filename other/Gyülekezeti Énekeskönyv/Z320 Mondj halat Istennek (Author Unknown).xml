@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z320 Mondj halat Istennek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Mondj hálát Istennek, <br/>ha rád virrad a hajnal,<br/>Ha elvonult az éjnek vad, sötét hada.<br/>Köszöntsed szent nevét és <br/>zsoltárosként áldjad,<br/>Énekelj Néki mint a pacsirtamadár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Borulj elébe, mondj hálát érte,<br/>Hogy szent keze véd, minden nap áld,<br/>Hogy Benne élted boldog lesz végre,<br/>Mint elveszettet Õ megtalált.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Mondj hálát, ha kezének szép mûveit látod,<br/>Érzed szívedben, hogy Õ te rád is vigyáz.<br/>A kenyérért minden nap jól teszed ha áldod,<br/>Mert néked érik meg jól a búzakalász.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Zengj, ha élted egére ráborul az alkony,<br/>Nem ragyog már rajta szép fényes napsugár.<br/>Higgyed el, hogy meglátod ott a túlsó parton,<br/>A kikötõben téged angyalokkal vár.</lines>
+    </verse>
+  </lyrics>
+</song>

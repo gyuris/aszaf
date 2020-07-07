@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>706. Teremts bennem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremts bennem tiszta szívet, Istenem, <br/>az erős Lelket újítsd meg bennem! <br/>Teremts bennem tiszta szívet, Istenem, <br/>az erős Lelket újítsd meg bennem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Kérlek, ne vess el a Te orcád elől, <br/>Szent Lelkedet ne vedd el tőlem! <br/>Támogass az engedelmesség lelkével, <br/>Szabadításod örömét add nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

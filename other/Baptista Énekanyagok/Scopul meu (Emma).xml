@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Scopul meu</title>
+    </titles>
+    <authors>
+      <author>Emma</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soarele ne dă un început din nou <br/>Natura se trezește să aducă rod <br/>Toată Creația își cunoaște scopul de la Creatorul ei<br/>Peste anii de așteptare Domnul m-a învățat <br/>Scopul pentru care m-a creat<br/>Să-L iubesc zi de zi din toată inima<br/>Să pot prețui al Cerului dar.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>De cănd te-am găsit Domnului mulțumesc <br/>Scopul meu e să te iubesc <br/>Orice frică dragostea va alunga <br/>Să ne iubim am fost creați! <br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mai mult decât gândeam sau i-am putut să-I cer <br/>Tu ești darul meu din mâna Lui <br/>Astăzi eu sunt al tău, iar tu ești al meu <br/>În iubirea Sa, vom sta mereu!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

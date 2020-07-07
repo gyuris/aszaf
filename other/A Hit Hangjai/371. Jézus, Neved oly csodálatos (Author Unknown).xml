@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>371. Jézus, Neved oly csodálatos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus, Neved oly csodálatos, <br/>Jézus, Neved oly kívánatos!<br/>Ó, Jézus, Neked mondok éneket, <br/>Neved édes mindenek felett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus, Sáron legszebb rózsája,<br/>Jézus, völgyek legszebb virága,<br/>Ó, Jézus, szívem hódoljon Neked,<br/>Neved ékes mindenek felett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jézus, eljövendő nagy Király,<br/>Jézus, akit minden szentje vár,<br/>Ó, Jézus, Tied minden tisztelet, <br/>Neved áldott mindenek felett!</lines>
+    </verse>
+  </lyrics>
+</song>

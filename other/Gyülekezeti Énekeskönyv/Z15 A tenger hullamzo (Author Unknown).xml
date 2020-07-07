@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z15 A tenger hullamzo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. A tenger hullámzó vizén siklik a hithajóm.<br/>Hány mérföld lehet még hátra, <br/>Folyton számolgatom.<br/>Mikor érek már a révbe, <br/>Nagyon fogy az erõm.<br/>Azt a napot úgy várom, <br/>Hogy letegyem az evezõt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ó, addig, ó, addig én <br/>hajómban imádkozom.<br/>/:Jöhetnek viharok, ezerféle bajok,<br/>hajózom a part felé.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Messze a távolban látom, <br/>közeleg már a part,<br/>Áttörve vészen, hullámon, <br/>Leküzdve sok vihart.<br/>Oly sokszor megtörik bennem <br/>A szép hajós remény,<br/>De egy hang szól a távolból: <br/>A parton ott várlak Én!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ha felvirrad majd a hajnal, <br/>Hithajóm révbe ér.<br/>Az örök aranypartoknál hajóút véget ér.<br/>Ott vár a parton Megváltóm <br/>És a fényes város.<br/>A révészem, így szól nekem: <br/>Pihenjél fáradt hajós.</lines>
+    </verse>
+  </lyrics>
+</song>

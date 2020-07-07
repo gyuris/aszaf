@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Z226 Jezus szive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus szíve megbocsát, vére töröl bûnt, hibát,<br/>Ha megvallod õelõtte õszintén és igazán,<br/>Hiszen érted szenvedett, <br/>Nagyon nagyon szeretett,<br/>Szánja, kéri szegény, bûnös életed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézus terád olyan régen vár!<br/>Mért nem nyílik szíveden a zár?<br/>Mire vársz, hisz oly rövid földi életed,<br/>Mi lesz ha a kegyelmet így elveszted?!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Hogyha Jézust követed, boldog lesz az életed,<br/>Nem bánod meg soha, <br/>hogy néki adtad a szívedet.<br/>Boldogan megvallhatod, <br/>Velünk együtt mondhatod:<br/>„Jézus enyém, én meg az övé vagyok!“</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Imádságunk hozzád száll, <br/>drága Jézus, Úr, Király:<br/>Légy itt úrrá minden szívben <br/>Teljesen és igazán,<br/>Ó, ragadd meg Lelkeddel és soha ne engedd el,<br/>Azt, ki most még nem a tiéd egészen!</lines>
+    </verse>
+  </lyrics>
+</song>

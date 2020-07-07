@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>483. Menjetek szét e világba</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Menjetek szét e világba, <br/>Éjsötét borítja azt, <br/>Az örömhírt prédikálva <br/>Terjesszétek a vigaszt!<br/>Hívjatok be, <br/>hívjatok be megkeresve<br/>/: Minden bűntől fáradtat! :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Üdvözítő hatalommal <br/>Teljes ez az örömhír, <br/>Hirdessétek bátor szóval, <br/>Hogy az Úr mindenkit hív; <br/>Újra élhet, újra élhet, békét nyerhet <br/>/: Bűnök rabja, terhelt szív! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bár a Sátán bősz hadával <br/>Szüntelenül háborít, <br/>Szembeszállunk hatalmával: <br/>Az igazság bátorít. <br/>Mit sem árthat, <br/>mit sem árthat, bárhogy támad, <br/>/: Mert az Isten gyámolít. :/</lines>
+    </verse>
+  </lyrics>
+</song>

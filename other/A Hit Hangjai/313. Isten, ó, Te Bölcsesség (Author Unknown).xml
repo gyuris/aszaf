@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>313. Isten, ó, Te Bölcsesség</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten, ó, Te Bölcsesség, <br/>Fel nem érlek ésszel Téged!<br/>Minden szép s mi ékesség, <br/>Téged hirdet földön, égen. <br/>Mégis gyarló emberszemmel <br/>Rád tekint'ni ki merészel?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Örvend a nagy mindenség, <br/>S Téged dicsér körforgása; <br/>Fennen zeng a széles ég: <br/>Bölcs az Isten, nincsen mása!<br/>S lám, a messzi ég határa <br/>Nyugszik az Ő bölcs karjába'!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, ember, te föld pora, <br/>Tán az Istent <br/>készülsz mérni? <br/>Múló idők vándora, <br/>Alkotódat megítélni?<br/>Két kezeddel eget fogni, <br/>Abba gőggel behatolni?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Isten, jó és bölcs Atyám, <br/>Add megértnem szent Igédet!<br/>Mindig csak Rád hallgatván, <br/>Részem lesz majd az ígéret. <br/>Bár még színed el van rejtve, <br/>Téged áldlak reggel, estve!</lines>
+    </verse>
+  </lyrics>
+</song>

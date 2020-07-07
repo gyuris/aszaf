@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+  <properties>
+    <titles>
+      <title>Nem felejtem el Isten ugy szerette</title>
+    </titles>
+    <verseOrder>v1 b1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten úgy szerette ezt a világot,<br/>Hogy elküldte a Fiát, Jézust, a Megváltót,<br/>Hogy aki hisz, és bizik benne, ne kárhozzon el,<br/>Hanem örökké élhessen együtt az Istennel!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Milyen mély és magas, milyen hatalmas<br/>A kegyelmed, az irgalmad, Istenem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem felejtem el, amit értem tettél,<br/>Nem felejtem el, mibe került ez neked,<br/>Nem felejtem el, hogy a véreddel mostál meg, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezt a nagy szerelmet ki foghatja fel,<br/>Magasabb az égnél, mélyebb mint a tenger,<br/>Mindent ez tart össze, ez sosem múlik el,<br/>Istenem, szerelmed tölt be élettel.</lines>
+    </verse>
+  </lyrics>
+</song>

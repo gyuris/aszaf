@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Uram szovetseget kotottel (menyegzo)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, szövetséget kötöttél,<br/>Népeddel egyezséget szereztél,<br/>Hit által! - Igen! Hit által! - Ámen!<br/>Uram, tiéd legyen a dicsőség,<br/>Izráel néked örül fölöttébb,<br/>Hit által! - Igen! Hit által! - Ámen! Halleluja! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, tiéd legyen a dicsőség,<br/>Jézusban népeké is a szövetség,<br/>Hit által! - Igen! Hit által! - Ámen!<br/>Uram, hála néked, és hódolat,<br/>Dicsérünk Krisztus, ártatlan áldozat,<br/>Hit által! - Igen! Hit által! - Ámen! Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma is megáldatott egy szövetség,<br/>Dani és Timi előtted kötötték,<br/>Hit által- Igen! Hit által- Ámen!<br/>Uram, áldásod rájuk bőven add,<br/>Öröm és béke töltse be házukat,<br/>Hit által!- Igen! Hit által!- Ámen! Halleluja</lines>
+    </verse>
+  </lyrics>
+</song>

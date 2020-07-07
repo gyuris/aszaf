@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z19 Adj Uram nekem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Uram, nékem szeretetet, <br/>Képmutatástól óvd szívemet; <br/>Hadd örüljek mindig a más örömén, <br/>És hadd töltsön el részvét a más könnyén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságos szívvel áldj meg, Uram, <br/>Irgalom útját hadd járhassam: <br/>Megbocsátni tudjak, ha bántalom ért, <br/>És lehessek így hálás irgalmadért!</lines>
+    </verse>
+  </lyrics>
+</song>

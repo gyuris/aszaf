@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>736. Úr Jézus, mindenkor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Úr Jézus, mindenkor Te légy velem,<br/>Ha bánat, félelem gyötör engem! <br/>Itt fájdalom ha ér, a szívem kérve-kér: <br/>Ó, Jézus mindenkor, Te légy velem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha rám borul az éj, és fél lelkem,<br/>Kő párnára teszem fáradt fejem.  <br/>Míg Rólad álmodom, ez csöndes óhajom:<br/>Ó, Jézus mindenkor, Te légy velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha földi utamat bevégezem,<br/>Az égi honba fel, megérkezem.<br/>Ott zengem hangosan, betelt minden vágyam:<br/>Ó, Jézus mindenkor, Te vagy velem!</lines>
+    </verse>
+  </lyrics>
+</song>

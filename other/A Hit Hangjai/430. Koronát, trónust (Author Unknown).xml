@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>430. Koronát, trónust</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Koronát, trónust <br/>Otthagytál, Jézus, <br/>Hogy a földre lejöjj értem. <br/>De királyi helyet <br/>Ad-e Betlehemed? <br/>Nem ad egy kicsi bölcsőt sem.<br/>Van hely szívemben, Úr Jézus, <br/>Gyere hát ide be, ó, jöjj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Hagyod a mennyet, <br/>Pedig ott zengett <br/>Neked angyali dicséret;<br/>De Te mélyre leszállsz, <br/>Mi közénk odaállsz, <br/>Csak a kín, teher jut Néked. <br/>Van hely szívemben, Úr Jézus, <br/>Gyere hát ide be, ó, jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Madarak fészket, <br/>Lakozást vesznek, <br/>Lel a róka odút itt lenn <br/>De hová fejedet, <br/>Te, Uram, letegyed, <br/>Neked még annyi hely sincsen. <br/>Van hely szívemben, Úr Jézus, <br/>Gyere hát ide be, ó, jöjj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Hozod Igédet, <br/>Miben ígéred, <br/>Hogy eloldod a rab láncát; <br/>De galád szidalom, <br/>Kacaj a jutalom, <br/>És a Golgota, az vár Rád.<br/>Ó, jöjj, a szívem vár, Jézus, <br/>Menedék a kereszt nékem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Ha az égbolt reng, <br/>Ha a kürtszó zeng, <br/>Visszajön Jézus, mint Király, <br/>Szava így szól felém, <br/>Szolgám, a menny ölén, <br/>Örök lakhelyed készen áll.<br/>Majd úgy örül az én szívem, <br/>Ha az Úr szava szól nékem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>606. Ó, lenne bár ezernyi nyelvem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, lenne bár ezernyi nyelvem, <br/>Ezernyi ajkam énnekem, <br/>Hogy szívem óhajához mérten <br/>Elzenghetném dicsénekem; <br/>Dicsénekre, dicséneket <br/>Arról, mit Isten velem tett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bár zengne ajkam oly serényen, <br/>Hogy fel-feltörne a napig! <br/>Buzogna hálától a vérem, <br/>Amíg csak eremben folyik; <br/>Hogy lenne <br/>egy-egy dicszengés <br/>Énbennem minden érverés!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mért hallgattok, szívem erői? <br/>Munkára fel hát szorgosan!<br/>Szolgálni Istent, Őt dicsérni, <br/>Imádni buzgón, hangosan!<br/>Ó, lelkem, testem, ne pihenj, <br/>Magasztald, Istent szüntelen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Jóságod vágyom énekelni, <br/>Amíg csak ép lesz a nyelvem; <br/>Hálámnak áldozatát tenni, <br/>Míg élet van a szívemben;<br/>S ha nem lesz erő ajkamon, <br/>Dicsérni fog majd sóhajom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Ó, fogadd hálás éneklésem <br/>Kegyelmesen, jó Istenem! <br/>Add, hogy ez ének még szebb légyen <br/>Te nálad ott a mennybe' fenn, <br/>Amikor majd sok ezrekkel <br/>Dicsérlek örök énekkel!</lines>
+    </verse>
+  </lyrics>
+</song>

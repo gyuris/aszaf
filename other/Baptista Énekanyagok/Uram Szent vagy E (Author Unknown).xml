@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Uram Szent vagy E</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11a">
+      <lines>Uram, szent vagy, hatalmas vagy,<br/>Te vagy méltó a dicséretre.</lines>
+    </verse>
+    <verse name="v11b">
+      <lines>Veled járok, rád tekintek<br/>És szeretlek minden napon!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(fiúk)<br/>Új dalt zengek és áldom, Királyom, ki méltó,<br/>Csak Rá nézek, Őt várom, leborulva imádom!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(lányok)<br/>Csak Te vagy az Úr, És a nagy Király,<br/>A Mindenható, a mi Kősziklánk.<br/>Te vagy Immánuel, hatalmas Isten,<br/>A békesség Ura, megfeszített Bárány.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>(lányok)<br/>Megmentő Isten vagy, Kegyelmed végtelen,<br/>Uralkodsz örökké, Az ég és föld felett.<br/>Te vagy az alfa, omega, a kezdet és vég,<br/>Te vagy a Messiás, Megmentő, Barát, ki véd</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>(együtt)<br/>Te vagy a Megváltóm, és az életem tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

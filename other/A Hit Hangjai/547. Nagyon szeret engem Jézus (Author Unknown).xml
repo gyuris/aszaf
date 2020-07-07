@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>547. Nagyon szeret engem Jézus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Nagyon szeret engem Jézus, <br/>Oly sokat tett érettem. <br/>Szenvedett, <br/>s megváltott Jézus. <br/>Hát én Érte mit tettem?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Teljesen elég, teljesen elég, <br/>Elég nékem Jézus vére! <br/>Ó, de remeg a szívem: <br/>Vajon Jézus, Mesterem, <br/>Hogy lesz vélem megelégedve?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Velem van a nagy próbákban, <br/>Jézus, a legjobb barát, <br/>Reá mindig számíthatok. <br/>Számíthat-e Ő is rám?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Folyton hallom Jézus hangját, <br/>Számonkérőn szól hozzám: <br/>Lélekmentő munkájában <br/>Várjon-e még mindig rám? .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Hogyha munkám majd elvégzem, <br/>S örök hajnal virrad rám, <br/>Az a vágyam, hogy Ő mondja: <br/>Jól van jámbor, hű szolgám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Z335 Nem hallode?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Nem hallod-e, nem hallod-e, <br/>Nem hallod, Jézus hív téged?!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Meghalt érted úgy szeretett, <br/>Jöjj, hát, mire vársz?<br/>Nincs senki ilyen jó barát.<br/>Meghalt érted úgy szeretett, <br/>Jöjj, hát, mire vársz?<br/>Holnap már késõ lesz talán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Nem látod-e, nem látod-e, <br/>Nem látod átszegzett kezét?!<br/>Nem látod-e, nem látod-e, <br/>Nem látod feléd nyújtja rég?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Nem érzed-e, nem érzed-e, <br/>Nem érzed, Jézus hogy szeret?!<br/>Nem érzed-e, nem érzed-e, <br/>Nem érzed, mennyire szeret?!</lines>
+    </verse>
+  </lyrics>
+</song>

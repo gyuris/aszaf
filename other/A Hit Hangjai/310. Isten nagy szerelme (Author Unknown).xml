@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>310. Isten nagy szerelme</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Isten nagy szerelme,<br/> Ím, jövök eléd; <br/>Vonjad, ó, a szívem, <br/>Vonjad Tefeléd!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Idelent csak kín van, <br/>Könny és siralom, <br/>Hiúság és ábránd, <br/>Gond és fájdalom,<br/>Hiúság és ábránd, <br/>Gond és fájdalom.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ó, Te gazdag forrás, <br/>Öröm kútfeje, <br/>Ömölj a szívembe, <br/>Töltsed azt tele!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Vonjad a bensőmet <br/>Dicső fénybe fel, <br/>Minden óhajával <br/>S érzületivel,<br/>Minden óhajával <br/>S érzületivel!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Isten szent szerelme, <br/>Rejts magadban el, <br/>Íme itt a szívem, <br/>Hasd át fényeddel!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ó, adj lelki szárnyat, <br/>Szálljak menny felé, <br/>Ki eme világból <br/>Örök üdv felé,<br/>Ki eme világból <br/>Örök üdv felé!</lines>
+    </verse>
+  </lyrics>
+</song>

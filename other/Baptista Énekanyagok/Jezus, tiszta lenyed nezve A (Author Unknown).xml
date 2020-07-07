@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Jezus, tiszta lenyed nezve A</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jézus, tiszta lényed nézve,<br/>lelkünk vágyik az égi fényre,<br/>Jöjj a szívünket átadjuk Néked,<br/>töltsön el öröm, mennyei béke.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Világíts, világíts!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jézus, ragyogj, töltsd be<br/>szent égi fénnyel éltünk,<br/>Szívünk tüzét, kérünk gerjeszd fel,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hadd jusson el minden néphez<br/>E nagy kegyelem,<br/>Küldd szent tüzed,<br/>mindenhol fény legyen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért kell, ó az éjben járnunk, <br/>Célt, reményt vajon hol találunk? <br/>Benned, Úr Jézus, megleltük már ezt,<br/>Üdvünk, életünk ára a kereszt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárcsak Krisztus égi fénye,<br/>Rólunk visszatükröződne!<br/>Hadd látnák meg az emberek rajtunk,<br/>Bűnünk terhétől megszabadultunk.</lines>
+    </verse>
+  </lyrics>
+</song>

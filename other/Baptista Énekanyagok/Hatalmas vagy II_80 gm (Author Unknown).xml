@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hatalmas vagy II/80 gm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatalmas vagy, erõs Isten,<br/>Szent és dicsõ<br/>Senki más nincsen.<br/>Feltámadtál, és te gyõztél,<br/>A halálon uralmat vettél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>|: Halleluja!<br/>Örvendezzünk hát! :|</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>131. Csak vándorok vagyunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csak vándorok vagyunk,<br/>Fönt van a hon. <br/>A menny felé futunk, <br/>Fönt van a hon. <br/>Bár rögös ez az út, <br/>Ki járja, mennybe jut, <br/>Hol Jézus vigaszt nyújt; <br/>Fönt van a hon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bánthat az ellenünk, <br/>Fönt van a hon. <br/>Jézus itt van velünk, <br/>Ő nyújt nékünk kezet,<br/>Atyjához fölvezet:<br/>Fönt van a hon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha itt lent szégyen ér, <br/>Fönt van a hon. <br/>Ott a kegyelmi bér, <br/>Fönt van a hon. <br/>Itt vívjuk meg csatánk,<br/>Ott van a koronánk, <br/>Mely készen vár reánk:<br/>Fönt van a hon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Látjuk majd mielőbb,<br/>Fönt van a hon. <br/>Dicsben imádjuk Őt,<br/>Fönt van a hon. <br/>Ó mennyi nagy öröm<br/>Lesz részünk örökkön,<br/>Vár ott a fényözön:<br/>Fönt van a hon.</lines>
+    </verse>
+  </lyrics>
+</song>

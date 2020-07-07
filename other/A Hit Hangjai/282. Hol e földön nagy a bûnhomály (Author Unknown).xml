@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>282. Hol e földön nagy a bûnhomály</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hol e földön nagy a bûnhomály, <br/>Mi hirdessük Jézust!<br/>Mondjuk el, hogy üdvöt az talál, <br/>Ki megtér, hitre jut!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Fényes csillagok legyünk, <br/>El ne csüggedjünk, <br/>vígan fénykedjünk! <br/>Arcunk, lelkünk tündököl,<br/>Ha Jézus fénye ránk ömöl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Vigasztaljunk árvát, özvegyet, <br/>Szolgálva az Úrnak! <br/>Szárítsunk fel bánat-könnyeket, <br/>Ott, hol bõven folynak!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Énekeljük Jézus énekét,<br/>Csak Róla beszéljünk!<br/>Hirdessük a drága, szent igét, <br/>Arra áldást kérjünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Oszlik már a bûnök éjjele,<br/>És új hajnal pirkad,<br/>Hû szolgáknak boldog serege <br/>Ott fenn jutalmat kap.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>403. Jöjj közénk, jöjj közénk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjj közénk, jöjj közénk, <br/>Néped Feje, ó, jöjj le!<br/>Szóljon békét szelíd ajkad, <br/>Szent frigyünknek szerzője!<br/>Lelkünk, szívünk csüng Terajtad, <br/>Tieiddel tarts frigylakomát,<br/>Vacsorát, vacsorát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szenteld meg, szenteld meg <br/>És törd meg e kenyeret; <br/>Áldón osszad ki most nékünk <br/>E drága emlékjegyet!<br/>Így tört meg szent tested értünk, <br/>Hogy bűneinktől megszabadíts, <br/>Megtisztíts, megtisztíts!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Életfő, életfő, <br/>Szüntesd szomjúságunkat;<br/>Meríts kegyed tengerébe, <br/>Nyerjünk erőt általad!<br/>Emlékeztess szent véredre, <br/>Amely kifolyt bűnös lelkünkért, <br/>Üdvünkért, üdvünkért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Jön felénk, jön felénk, <br/>Halljátok-e lépteit? <br/>Szeretettel jő körünkbe, <br/>Hozza égi kincseit. <br/>Készít minket üdvösségre, <br/>Táplálékot ád övéinek: <br/>Vegyétek, egyétek!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>063. Azért jött az Isten Fia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. Azért jött az Isten Fia,<br/>Hogy az ördög munkáit lerontsa.<br/>Bennünk is Ő nyert diadalt.<br/>Ezért áldjuk Nevét, <br/>és hirdetjük nagy győzelmét!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Refrén:<br/>A bűn felett győzött!<br/>Halleluja, halleluja!<br/>A kínokon győzött!<br/>Halleluja, halleluja!<br/>A sír felett győzött!<br/>Halleluja, halleluja!<br/>Jézus mindenen Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/2. Szent Nevében mind indulunk, <br/>Jézus drága vére az oltalmunk,<br/>Kérjük Lelke nagy erejét.<br/>Oszlik már a sötét,<br/>csak küzdjünk a győzelemért!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ő szenvedett értünk. <br/>Legyen áldott, legyen áldott!<br/>Föltámadott értünk!<br/>Legyen áldott, legyen áldott!<br/>És újra jön értünk. <br/>Legyen áldott, legyen áldott!<br/>Ő az Úr örökké!<br/>Győztes Úr örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

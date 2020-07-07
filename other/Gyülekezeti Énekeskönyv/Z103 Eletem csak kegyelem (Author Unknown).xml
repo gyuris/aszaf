@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Z103 Eletem csak kegyelem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Életem csak kegyelem, önérdemem nincs.:/<br/><br/>/:Veled vagyok naponta, kezeidet megfogva,<br/>Te csak bízzál karomba - mondja az Úr.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. /:Régi énem leküzdöm, nagy erejével!:/<br/><br/><br/>/:Veled vagyok naponta, kezeidet megfogva,<br/>Te csak bízzál karomba - mondja az Úr.:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. /:Szeretete igazgat, ellát tanáccsal.:/<br/><br/><br/>/:Veled vagyok naponta, kezeidet megfogva,<br/>Te csak bízzál karomba - mondja az Úr.:/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. /:Hûen vezet utamon, nem hagy magamra.:/<br/><br/> <br/>/:Veled vagyok naponta, kezeidet megfogva,<br/>Te csak bízzál karomba - mondja az Úr.:/</lines>
+    </verse>
+  </lyrics>
+</song>

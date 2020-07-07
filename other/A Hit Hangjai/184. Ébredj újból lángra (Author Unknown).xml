@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>184. Ébredj újból lángra</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ébredj újból lángra,<br/>Első szeretet!<br/>Közöny útján járva <br/>Szívünk oly hideg. <br/>Vádol hűtlenségünk,<br/>elhagytunk téged, <br/>Fáj a lelkünk érted,<br/>szégyenpír éget.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Lobbanj fel már végre, <br/>Első szeretet, <br/>Szívünk sötétjébe <br/>Gyújtson fényt tüzed!<br/>Nélküled az éltünk <br/>rideg és sivár, <br/>Jöjj, homályban élünk,<br/>lelkünk fényre vár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Tölts be minden hívőt,<br/>Első szeretet, <br/>Hogy szeressük szívből Testvéreinket!<br/>Képmutatás nélkül töltsük éltünket, <br/>Jézust tartsuk mindig példaképünknek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Szenteld meg a szívünk, <br/>Első szeretet, <br/>Mindig egyek legyünk <br/>Egymással s veled!<br/>Általad megújul lelki életünk, <br/>S így lesz Jézus képe látható bennünk.</lines>
+    </verse>
+  </lyrics>
+</song>

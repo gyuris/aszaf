@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>141. Dicsérjétek szentségében</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Dicsérjétek szentségében,<br/>Ki oly sok csodát mível,<br/>Aki trónol dicsőségében<br/>Megváltott gyermekivel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Halleluja, Halleluja, <br/>Halleluja, Ámen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Dicsérjétek új énekkel, <br/>Zengő hárfa-húrokon;<br/>Koronázzuk szent örömmel,<br/>Hálás szívvel, hódolón! Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ujjongjatok nagy örömben,<br/>Kikre élet Lelke szállt;<br/>Üdvruhába öltözötten <br/>Zengjen ajkatok hálát!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>103. Átadom magamat teljesen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Refrén:<br/>Átadom magamat teljesen,<br/>Jézust szolgálja életem!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. A föld már aratásra érett,<br/>De ó, a munkás oly kevés.<br/>Most átadom magam,<br/>Uram, tenéked,<br/>Hogy drága lelkek<br/>százait elérd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mondd, kész vagy-e<br/>a föld sója lenni?<br/>A sötétben ragyog-e lámpád?<br/>Az Úr keres téged,<br/>hogy megmutassa<br/>Az Ő kegyelmét<br/>és igazságát!</lines>
+    </verse>
+  </lyrics>
+</song>

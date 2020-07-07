@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>682. Szeret az Isten</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/7. Szeret az Isten, <br/>Megváltott engem,<br/>Mert maga Isten <br/>A szeretet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ezt vallom szüntelen: Szeret az Isten,<br/>Szeret az Isten, Ó, mily csodás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/7. A bűnben éltem,<br/>Mint láncra vert rab,<br/>A bűnben éltem <br/>Reménytelen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/7. Ő küldte Jézust, <br/>Az Üdvözítőt,<br/>Ő küldte Jézust,<br/>A megmentőt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/7. Értem halt Jézus, <br/>Az égi Bárány,<br/>Értem halt Jézus,<br/>Mint áldozat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/7. Nem rémít többé<br/>A bűnnek átka,<br/>Nem rémít többé<br/>A kárhozat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6/7. Már készen vár rám <br/>Az örök élet,<br/>Már készen vár rám <br/>Az üdvösség.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7/7. Csak Téged áldlak, <br/>Te örök jóság,<br/>Csak Téged áldlak, <br/>Míg élek én!</lines>
+    </verse>
+  </lyrics>
+</song>

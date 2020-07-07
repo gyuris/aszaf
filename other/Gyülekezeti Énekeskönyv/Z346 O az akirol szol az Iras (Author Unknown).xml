@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Z346 O az akirol szol az Iras</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Õ az, Akirõl szól az írás. <br/>Õ az, Aki szólt: itt vagyok. <br/>Engedelmes és hû volt mindhalálig, <br/>Érettünk mindent, mindent otthagyott. <br/>Igen, Õ volt, Aki hordozta bûneink, <br/>És némán tûrte a gyalázatot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Egyszer majd vége lesz, <br/>Igen, vége lesz ennek az útnak. <br/>A földi sátorunk, amit hordozunk, elbomol. <br/>Akkor meglátjuk Õt, <br/>Ott meglátjuk Õt úgy, amint van. <br/>Örök idõkön át vele életünk összeforr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Benne van a mi békességünk, <br/>Tõle kaptuk az életet. <br/>Legyen áldott, amiért az Atyánál, <br/>Mint fõpap hordoz a szíve felett. <br/>Igen, Õ az, Aki esdekel értünk, <br/>Mert Õ a hûség, Õ a szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-24T13:33:35">
+  <properties>
+    <titles>
+      <title>Egy az Ur egy a Lelek</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy az Úr, egy a Lélek,<br/>Egy test tagjai vagyunk,<br/>Egy az Úr, egy a Lélek,<br/>Egy test tagjai vagyunk.<br/>Mind az egységért könyörgünk<br/>A Krisztus testében</lines>
+    </verse>
+    <verse name="c1">
+      <lines>S ahogy egymásért élünk,<br/>Ahogy egymást szeretjük,<br/>Arról tudják meg,<br/>Hogy Krisztust követjük.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Te vagy a mi Istenünk,<br/>Nincs más, kiben bízhatnánk,<br/>Kősziklánk, Téged álld Lelkünk,<br/>Te vagy a mi Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Közös ösvény vár minket,<br/>Együtt járjuk utunk,<br/>Közös ösvény vár minket,<br/>Együtt járjuk utunk,<br/>Együtt hirdetjük mindenkor,<br/>Hogy köztünk van az Úr</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kezet nyújtunk a bajban,<br/>Együtt munkálkodunk,<br/>Kezet nyújtunk a bajban,<br/>Együtt munkálkodunk,<br/>Mi mind tiszteljük, becsüljük<br/>és megvédjük egymást</lines>
+    </verse>
+  </lyrics>
+</song>

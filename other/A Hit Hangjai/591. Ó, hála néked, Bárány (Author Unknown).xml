@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>591. Ó, hála néked, Bárány</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, hála néked, Bárány; <br/>Hogy szenvedésed árán <br/>A lelkem újra él; <br/>Bűnhődnöd kellett értem, <br/>Ki bűn útjára tértem, <br/>És nékem üdvöt szereztél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Legyen áldott az óra, <br/>Amelyben nyájas szódra<br/>Hajlottam, hű Uram; <br/>Mily jó, hogy megkerestél,<br/>És vélem frigyre léptél, <br/>Most áldlak érte boldogan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha gondolok mind arra <br/>A szörnyű fájdalomra,<br/>Mely részed volt a fán; <br/>Csodálat tölti szívem, <br/>Hogy bűnösök ezrében <br/>Oly irgalmas voltál hozzám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért hálával áldlak, <br/>Alázattal imádlak, <br/>Vedd tőlem kegyesen, <br/>Előtted térdet hajtok,<br/>És örömkönnyet sírok, <br/>Szolgállak én készségesen.</lines>
+    </verse>
+  </lyrics>
+</song>

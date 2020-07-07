@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z360 Oly jo benned bizni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Oly jó benned bízni, Jézus,<br/>Oly jó mondani neved!<br/>Oly jó benned bízni, Jézus, <br/>Együtt járni jó veled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézus, Jézus, én Megváltóm,<br/>Oly jó tudni, hogy te vagy!<br/>Én királyom, én kõszálam, <br/>Téged várlak minden nap!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Megmentettél engem, Jézus,<br/>Köszönöm, hogy szerettél!<br/>Megmentettél engem, Jézus,<br/>A porból fölemeltél!</lines>
+    </verse>
+  </lyrics>
+</song>

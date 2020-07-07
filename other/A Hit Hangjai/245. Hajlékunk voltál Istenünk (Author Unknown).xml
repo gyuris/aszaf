@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>245. Hajlékunk voltál Istenünk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Hajlékunk voltál, Istenünk, <br/>Minden időben nékünk,<br/>Még mielőtt az ég, a föld, <br/>A fénylő nappal feltűnt.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Te voltál, élsz és megmaradsz, <br/>Éveid el nem fogynak!<br/>Mindenható Úr földön, égen, <br/>Mindörökké Te vagy.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Jól láttad múló életünk, <br/>Sok nehéz, titkos vétkünk,<br/>Nagy irgalmadból szent Fiad <br/>E földre küldted értünk.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ő bűnhődött meg helyettünk, <br/>Megváltott vére árán,<br/>Jóságát látva zengjen ének, <br/>Mert értünk halt a fán!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Rád bízzuk újra életünk, <br/>Térj vissza ismét hozzánk!<br/>Jó reggel áraszd nagy kegyed, <br/>Jöjj vidámítsd meg orcánk!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Szent műved lássék népeden <br/>És fiain dicsfényed,<br/>Mit kezünk munkál, kérünk, tartsd meg, <br/>Ó, áldd meg népedet!</lines>
+    </verse>
+  </lyrics>
+</song>

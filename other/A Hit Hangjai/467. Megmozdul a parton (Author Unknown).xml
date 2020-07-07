@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>467. Megmozdul a parton</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Megmozdul a parton a víz, <br/>Egy néhány perc van még:<br/>Mily nagy kegyelem, <br/>Hogy már a szívem <br/>Csak Őérette ég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Elveszti a lelkem a bűn, <br/>De Krisztus mellém áll, <br/>S ha Néki adom, <br/>Úgy él szabadon, <br/>S nem árt néki halál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Eltölti a szívem a vágy, <br/>Hogy Őt szolgálja hűn:<br/>S hogy tiszta legyen, <br/>És most letegyen <br/>Mindent, mi szenny, mi bűn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Megvallani kész vagyok ím: <br/>Az Úr Üdvözítőm,<br/>Mert vére kifolyt, <br/>Bár ártatlan volt, <br/>Meghalt érettem Ő.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. De nincsen a sírban az Úr, <br/>Mert föltámadt és él! <br/>Ezt hinni öröm. <br/>Ezt megköszönöm, <br/>A szívem már nem fél!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Ó, Jézus, egy életen át <br/>Csak Téged nézlek én!<br/>Ez vigaszadó, <br/>S mily boldogító <br/>Lesz majd a menny ölén!</lines>
+    </verse>
+  </lyrics>
+</song>

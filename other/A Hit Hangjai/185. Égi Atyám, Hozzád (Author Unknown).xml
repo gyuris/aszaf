@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>185. Égi Atyám, Hozzád</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Égi Atyám, Hozzád vágyik a lelkem!<br/>Égi Atyám, Hozzád hogy közeledjem?<br/>Tőled elhajoltam, háládatlan voltam,<br/>Sok jóságodért én sok bút okoztam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Égi Atyám, Isten, Mennyei Felség!<br/>Nincsen ember, nincsen, Ki ne vétkeznék.<br/>De ki Hozzád megtért, s Tőled kegyelmet kért,<br/>Elfedezed bűnét Egyetlenedért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Égi Atyám, lásd, ím, fáj a lelkemnek, <br/>Szemem csatornáin könnyek peregnek.<br/>Kér szívem s a könny is: <br/>Bűneimen könnyíts,<br/>Engedj közeledbe könnyek között is!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Égi Atyám, íme, fogadást teszek,<br/>Hogy ezután Néked hű szolgád leszek.<br/>S úgy szeretlek itt, mint megváltotthoz illik,<br/>Megtérő lélekkel áldalak mindig.</lines>
+    </verse>
+  </lyrics>
+</song>

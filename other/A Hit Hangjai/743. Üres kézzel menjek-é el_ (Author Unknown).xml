@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>743. Üres kézzel menjek-é el?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4 Üres kézzel menjek-é el, <br/>S álljak úgy az Úr előtt? <br/>Egy lelket se hozzak-é el, <br/>S gyümölcs nélkül nézzem Őt?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Üres kézzel menjek-é el, <br/>S álljak úgy az Úr előtt? <br/>Egy lelket se hozzak-é el, <br/>S gyümölcs nélkül nézzem Őt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4 Jézusom megváltott engem, <br/>Nem rettegem a halált; <br/>De üresen megjelennem, <br/>Fájlalom e lelki kárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4 Bárcsak újra visszanyerném <br/>Éltem elszórt éveit. <br/>Őt szolgálná szívem, elmém, <br/>Néki élnék híven itt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4 Fel munkára, Isten népe, <br/>Hűséggel működjetek, <br/>S mielőtt a nap lemenne, <br/>Sok lelket megmentsetek!</lines>
+    </verse>
+  </lyrics>
+</song>
