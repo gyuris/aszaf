@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z47 Az evek peregnek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az évek peregnek egymás után, <br/>Ki tudja, holnap lesz-e még?<br/>Az élet a földön oly hamar lejár, <br/>Ami volt, tovaszáll, mint a szél.<br/>Csak egyetlen út vezet Istenhez el, <br/>És az emberi szív ott békére lel.<br/>De ha ezt az utat még nem ismered: <br/>Ez az út az a régi kereszt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Csak jártam az utamat magányosan, <br/>De szembejött Jézus velem.<br/>Nagy irgalmával Õ hozzám lehajolt, <br/>Igen, ezt soha nem feledem. <br/>Hogy hová megyek, most már azt is tudom, <br/>Maga Isten vezet e drága úton.<br/>De ha ezt az utat még nem ismered: <br/>Ez az út az a régi kereszt.</lines>
+    </verse>
+  </lyrics>
+</song>

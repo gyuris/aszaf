@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>006. Add át a szívedet Jézusnak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Add át a szívedet Jézusnak, Megtisztítja, meggyógyítja, <br/>Betölti Szelleme életed, Legyőzöd óembered!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mondd, mire vársz? Mondd, merre jársz, <br/>Hogy Jézus szavára meg sem állsz? <br/>Lejár a kegyidő oly hamar;<br/>Ó, lélek, siess haza!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Add át a szívedet Jézusnak, Hisz mulandó az életed. <br/>Elfogynak napjaid, jól vigyázz, A világ semmit sem ád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Add át a szívedet Jézusnak, Boldog lesz így az életed. <br/>Ne szolgálj többé a bűnöknek, Szabaddá csak Ő tehet!</lines>
+    </verse>
+  </lyrics>
+</song>

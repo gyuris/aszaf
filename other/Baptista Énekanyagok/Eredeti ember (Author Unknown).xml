@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Eredeti ember</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol az a szó ami bemutatná szépséged? <br/>Melyik az a dal amely tisztán dicsér Téged?<br/>Van e olyan illat ami hasonlít, hol az a tükör ami nem torzit,<br/> ha Téged kell bemutatnia?<br/>Jézus az Isten Szent Fia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szemedbe nézek és látom benned teljesült az álom,<br/>amit róllam terveztél, mikor megteremtettél<br/>Átölelsz újra én meg válladhoz bújva elmerülõk benned <br/>vagyok aki mindig is voltam<br/>Eredeti ember...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hol az a szó ami bemutatná szépséged? <br/>Melyik az a dal amely tisztán dicsér téged?<br/>Van e olyan illat ami hasonlít, hol az a tükör ami nem torzit,<br/> ha téged kell bemutatnia?<br/>Jézus az Isten szent fia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szemedbe nézek és látom benned teljesült az álom,<br/>amit róllam terveztél, mikor megteremtettél<br/>Átölelsz újra én meg válladhoz bújva elmerülõk benned <br/>vagyok aki mindig is voltam...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eredeti ember</lines>
+    </verse>
+  </lyrics>
+</song>

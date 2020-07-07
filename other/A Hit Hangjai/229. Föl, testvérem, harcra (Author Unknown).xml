@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>229. Föl, testvérem, harcra</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11a">
+      <lines>Föl, testvérem, harcra készen,<br/>Szent csatára győzelemért!<br/>Jézus véled küzd az élen, <br/>El ne hagyjad Őt, a Vezért!</lines>
+    </verse>
+    <verse name="v11b">
+      <lines>Lengjen zászlaja, zengjen himnusza, <br/>Szent ima szálljon a mennyekbe fel!<br/>Jöjj el, jöjj el, édes Jézus,<br/>Szent országod jöjjön el!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Rettentő a bűn hatalma,<br/>S bennünk nincsen semmi erő, <br/>Te vígy minket diadalra,<br/>Jézus Krisztus, hős bűnverő!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Áraszd szívünkbe, küldd az éltünkbe <br/>Lelkednek tűz-fényét és szent hevét, <br/>S add kezébe híveidnek <br/>Igéd éles fegyverét!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jöjj el, Jézus áldj meg minket,<br/>Add, hogy Hozzád hűek legyünk!<br/>Hős hit-harcunk bút, bajt szüntet, <br/>Hogyha mindig Véled megyünk.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Szálljon énekünk, álljon életünk <br/>Érette mindenkor síkra, ha kell, <br/>Küzdjünk, testvér, hogy a Jézus<br/>Szent országa jöjjön el!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>007. Ad ébredést az Úr</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Ad ébredést az Úr,<br/>Az Úr erős Király!<br/>Leomlanak a kőfalak, <br/>Amerre népe jár.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Add szíved Néki még ma át,<br/>Dicsérd az ég és föld Urát!<br/>Az Úr, az Úr, az Úr erős Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Ad ébredést az Úr, <br/>Az Úr erős Király!<br/>Szentlelke vár, fehér a táj <br/>Az aratásra már.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Ad ébredést az Úr,<br/>Az Úr erős Király!<br/>A holt is éled, hogyha szól,<br/>És újra talpra áll.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Ad ébredést az Úr,<br/>Az Úr erős Király!	<br/>Ő visszajön a felhőkön,<br/>Mint győztes, nagy Király.</lines>
+    </verse>
+  </lyrics>
+</song>

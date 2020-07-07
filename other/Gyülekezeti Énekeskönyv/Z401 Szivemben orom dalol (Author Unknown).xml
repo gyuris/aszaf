@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Z401 Szivemben orom dalol</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szívemben öröm dalol, öröm dalol<br/>Az én szívemben, az én szívemben,<br/>Az én szívem, szívemben,<br/>Öröm dalol, öröm dalol <br/>Az én szívemben, Jézust dicsérem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>/:Boldog a szívem, mert velem van a menny,<br/>Az Õ kegyelme oly boldogító. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Szívemben béke dalol,...<br/>3. Szívemben hála dalol,...<br/>4. Szívemben öröm, béke, hála,...<br/>5. Szívemben nyugalom van,...</lines>
+    </verse>
+  </lyrics>
+</song>

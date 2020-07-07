@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Uram jó vagy és igaz A</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Uram jó vagy és igaz,<br/>irgalmas mindazokhoz,<br/>kik hozzád kiáltanak. :/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden gondom terád vetem,<br/>terád vetem, én terád vetem,<br/>Ó, Uram<br/>Minden gondom terád vetem,<br/>mert te gondot viselsz reám!</lines>
+    </verse>
+  </lyrics>
+</song>

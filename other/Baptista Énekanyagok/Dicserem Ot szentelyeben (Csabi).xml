@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:17">
+  <properties>
+    <titles>
+      <title>Dicserem Ot szentelyeben</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérem Őt szentélyében<br/>Dicsérem Őt reggel, délben, este<br/>Szent nevét zengem<br/>Dicsérem Őt erejéért<br/>Hatalmáért, kegyelméért áldom<br/>Ő a Királyom</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>A napfelkeltétől hadd szóljon a dicséret<br/>Keleten, nyugaton, északon, délen</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Minden lélegzetemmel a nagy Királyt dicsérem<br/>Gyerünk most trónja elé, áldjuk Őt</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Áldjuk Őt! Áldjuk Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

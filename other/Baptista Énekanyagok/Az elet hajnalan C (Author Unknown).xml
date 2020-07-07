@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az elet hajnalan C</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet hajnalán<br/>már gondolt rád Atyád.<br/>Õ tudja jól, ha sírsz,<br/>hát ne szégyeld, ha fáj<br/>Mert úgy szeretett Isten,<br/>hogy egyszülött Fiát<br/>Érted áldozta.<br/>Jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj,ma Atyádhoz, bárhogyan is állsz,<br/>Összetört életed add neki ma át!<br/>A halál óráján így szólt a Golgotán:<br/>Elvégeztetett! - Jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmit sem tehetsz,<br/>hogy jobban szeressen.<br/>És bármit is tettél,<br/>ne félj, õ nem küld el<br/>Mert úgy szeretett Isten,<br/>hogy egyszülött Fiát<br/>Érted áldozta.<br/>Jöjj ma hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

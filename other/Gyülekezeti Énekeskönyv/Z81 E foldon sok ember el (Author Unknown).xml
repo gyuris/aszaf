@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Z81 E foldon sok ember el</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. E földön sok ember él, <br/>sok tanács gazdát cserél; <br/>Hirdetik mit érdemes, mi az, ami érdekes. <br/>Én is elmondom neked, van sok hiú élvezet, <br/>De örök egy sem marad, igazi kincset nem ad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Évek múltak hasztalan, életem volt céltalan. <br/>Vissza már nem sírhatom, <br/>vádol sok jó alkalom. <br/>Jézusom megszólított, elém egy tükröt adott: <br/>Megláttam: bûnös vagyok, <br/>bûnösen elkárhozom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Boldoggá csak Õ tehet, <br/>választanod még lehet! <br/>Vele nem tör rád magány, <br/>eltûnik minden talány. <br/>Sok mindent, hogy “nem szabad“, <br/>hidd el ez így nem igaz, <br/>A valóság ebbõl az, nem kell a jó <br/>egy jobb miatt!</lines>
+    </verse>
+  </lyrics>
+</song>

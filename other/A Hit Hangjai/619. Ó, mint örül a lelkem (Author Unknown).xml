@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>619. Ó, mint örül a lelkem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó, mint örül a lelkem, <br/>hogy hű Barátra lelt,<br/>Ki folyton gondol énreám <br/>és engem hőn szeret!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ő pásztorom, áld, <br/>gazdagít, megvéd, <br/>vezet, így baj nem ér.<br/>Egy úton járunk immár, <br/>az Úr és én.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ha próba, vagy gond rám tör, <br/>és fogyna tán hitem,<br/>Ő nyújtja jobbját, fölemel, <br/>és békét ád nekem.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ha kérdezem, Ő válaszol, <br/>s én azt teszem, mit tőlem kér,<br/>Így járunk együtt immár <br/>az Úr és én.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>140. Dicsérd, én lelkem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Dicsérd, én lelkem, <br/>az Atyát, ki trónol a mennyben!<br/>Szívből mondj hő imát,<br/>s ajkad új éneket zengjen!<br/>Magasztald hát Istent, <br/>ki annyi jót ád,<br/>S kiment a próbákból híven!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Dicsérd, én lelkem,<br/>a Fiút, ki téged megváltott!<br/>Meghalt Ő bűnödért,<br/>hogy reád ne szálljon átok. <br/>E drága bér, <br/>A keresztfán kifolyt vér <br/>Legyen mindörökké áldott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Dicsérd, én lelkem, <br/>a Szentlelket, ki oktat téged!<br/>Szükségben vigaszod,<br/>szüntelen Szószólód néked, <br/>Tanácsot ád,<br/>Oszlatja éj homályát, <br/>Vezérel, s küld bölcsességet.</lines>
+    </verse>
+  </lyrics>
+</song>

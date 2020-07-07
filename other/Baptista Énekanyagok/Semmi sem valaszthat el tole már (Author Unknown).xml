@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Semmi sem valaszthat el tole már</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Semmi sem választhat el tõle már,<br/>Úgy kezel mint gyermekét, hisz õ Atyám.<br/>Bármi jönne is az életem során,<br/>Szeretettel karjába zár…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akaratom sokszor oly erõtelen,<br/>Hogy magam uralni nem tudom…<br/>De bízom abban, hogy <br/>gyengeségemben<br/>Õ mellém áll, <br/>s így elmondhatom:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néha senki sincs velem,<br/>Mégsem retteg a szívem,<br/>Az õ szavában<br/>nem kételkedem<br/>SOHA!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>EZÉRT HÁT<br/>Semmi sem választhat el tõle már,<br/>Úgy kezel mint gyermekét, hisz õ Atyám.<br/>Bármi jönne is az életem során,<br/>Szeretettel karjába zár…<br/>Karjába zár.</lines>
+    </verse>
+  </lyrics>
+</song>

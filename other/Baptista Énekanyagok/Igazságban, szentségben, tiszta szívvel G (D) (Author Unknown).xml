@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Igazságban, szentségben, tiszta szívvel G (D)</title>
+    </titles>
+    <verseOrder>v1 o1 o2 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igazságban, szentségben,<br/>tiszta szívvel,<br/>békességben, hûségben,<br/>égi tûzzel...</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jézus, megtisztítottál,<br/>a bûnbõl visszahoztál.<br/>Így már veled járhatok,<br/>erõs sziklán állhatok.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Egy a vágyam, egyre kérlek:<br/>Adj erõt mindig, hogy Veled éljek! <br/>Egy a vágyam, egyre kérlek:<br/>Adj erõt mindig, hogy Veled éljek!</lines>
+    </verse>
+  </lyrics>
+</song>

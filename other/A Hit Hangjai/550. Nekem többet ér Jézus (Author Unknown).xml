@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>550. Nekem többet ér Jézus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nekem többet ér Jézus,<br/>mint ezüst, arany,<br/>Nekem többet ér Ő, <br/>mintha sok pénzem van.<br/>Nekem többet ér Jézus, <br/>mint szép lakás, <br/>Nekem többet ér <br/>kezén a forradás,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mint uralkodni <br/>minden nép felett,<br/>Lenni rettegett király!<br/>Nekem többet ér Jézus, <br/>mint bármi más, <br/>Amit nyújthat a világ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nekem többet ér Jézus, <br/>mint rivaldafény,<br/>Nekem többet ér Ő, <br/>mint a népszerűség.<br/>Nekem többet ér, <br/>Jézus, hogy hű legyek, <br/>Nekem többet ér <br/>hirdetni szent Neved,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.  Nekem tündöklőbb Jézus, <br/>mint fehér virág,<br/>Nekem édesebb Ő, <br/>mint a méz, vagy nektár. <br/>Nekem Ő az, <br/>kit lelkem úgy éhezett,<br/>Nekem többet ér Jézus, <br/>mert Ő vezet</lines>
+    </verse>
+  </lyrics>
+</song>

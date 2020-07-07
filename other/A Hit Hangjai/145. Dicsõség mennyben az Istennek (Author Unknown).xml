@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>145. Dicsõség mennyben az Istennek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Dicsőség mennyben az Istennek! <br/>Dicsőség mennyben az Istennek! <br/>Az angyali seregek<br/>Vígan így énekelnek:  <br/>Dicsőség, dicsőség Istennek</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Békesség földön az embernek! <br/>Békesség földön az embernek! <br/>Kit az igaz szeretet <br/>A Jézushoz elvezet, <br/>Békesség, békesség embernek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Dicsérjük a szent angyalokkal, <br/>Imádjuk a hív pásztorokkal<br/>Az isteni Gyermeket, <br/>Ki minket így szeretett, <br/>Dicsérjük, imádjuk és áldjuk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, Jézus, ne vess meg bennünket, <br/>Hallgasd meg buzgó kérésünket! <br/>Most Előtted fogadjuk, <br/>Hogy a vétket elhagyjuk. <br/>Ó, Jézus, ne vess meg, <br/>hallgass meg!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Dicsőség az örök Atyának <br/>És értünk született Fiának, <br/>Hála a Szentléleknek, <br/>Áldások kútfejének; <br/>Dicsőség, dicsőség Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

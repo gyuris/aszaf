@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Uj bor</title>
+      <title>Szentek szentje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Szentek szentje többé nincs elzárva,<br/>már én is bátran jöhetek.<br/>szabadságomnak nagy volt az ára,<br/>de Jézus mindent fizetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az új bor új tömlőbe ömlik most már,<br/>új dal zsong a szívem minden húrján.<br/>Élek többé nem én, mert már bennem Krisztus él.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Újra szent vagyok és feddhetetlen,<br/>Jézus mindent elvégzett helyettem.<br/>Nincs köztünk távolság,<br/>a menny a földdel összeért.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Nincs köztünk távolság,<br/>a menny a földdel összeért.</lines>
+    </verse>
+  </lyrics>
+</song>

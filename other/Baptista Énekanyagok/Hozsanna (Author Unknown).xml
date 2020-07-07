@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hozsanna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Látom az élõ Jézust - tûzfelhõben visszatér; Hódol majd a mindenség<br/>(Õ él) Látom örök kegyelmét elfedezni vétkeink; Megváltottak énekét:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozsánna, hozsánna, jöjj Megváltó Királyunk, Hozsánna, hozsánna, jöjj Megváltó Királyunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Látok egy nemzedéket, kik tudják, mi az elhívás<br/> Egy szent népet, mely hitben jár;<br/> Egy nép, mely minden harcát térden állva vívja meg,<br/>Ébredést kér, és gyõztes lesz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teremts bennem új szívet, (Hadd) lássam amit Te, nyisd meg szemeimet<br/>Hadd szeressek úgy mint Te szerettél!<br/> Fájjon az, mi Neked fáj, Hogy elvégezzem azt, amire elhívtál;<br/>Hogy készen álljak végül majd Elõtted!</lines>
+    </verse>
+  </lyrics>
+</song>

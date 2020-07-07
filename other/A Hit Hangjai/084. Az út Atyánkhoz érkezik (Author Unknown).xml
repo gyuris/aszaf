@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>084. Az út Atyánkhoz érkezik</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Az út Atyánkhoz érkezik,<br/>Ki tudja, tán már holnap;<br/>A fájdalom is megszűnik,<br/>És vége bűnnek, gondnak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Az út véget ér, Ki tudja, <br/>tán már holnap. <br/>Testvér, Jézus kér:<br/>Légy kész,<br/>ha mennyből szólnak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Itt bánkódni már nincs okom, <br/>Tudom, szeret Ő engem, <br/>Az égi hon lesz otthonom, <br/>Ha innen el kell mennem. Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Mily boldog lesz az élet ott,<br/>Hol semmi baj nem érhet, <br/>És Jézus, aki elhívott,<br/>Szent asztalához ültet. Refr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Te fáradt szív, készülj velünk! <br/>Ott vár reánk a béke, <br/>Már gyógyul is minden sebünk<br/>A mennynek énekére.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Ur Jezus, Megvaltom II/217 A -&gt; H</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Úr Jézus, Megváltóm,<br/>Nincs senki olyan, mint Te.<br/>Minden napon magasztalom<br/>A Te szereteted nagy voltát.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vigaszom, oltalmam,<br/>Menedékem, váram.<br/>Ami vagyok, egész valóm,<br/>Téged szomjaz, Téged áld.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Kiálts az Úrnak te Föld, énekelj!<br/>Adj dicsõséget a Felségesnek.<br/>Hegyek hódoljatok, zúgj tenger<br/>A mi Urunk nagy nevének.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Éneklem hûséged és kegyelmed;<br/>Örökké szeretlek, én Istenem.<br/>Semmi sem ér fel a Te jelenléteddel!</lines>
+    </verse>
+  </lyrics>
+</song>

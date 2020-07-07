@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Soha nem hittem volna dm</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v2 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Soha nem hittem ,nem hittem volna el,<br/>Hogy az életem megváltozik,<br/>Valaki lehajolt, szelíden átölelt,<br/>Istennek fia tette ezt énvelem.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Soha nem hittem, nem hittem volna el,<br/>Hogy Jézus segít majd énnekem,<br/>Valaki lehajolt, szelíden átölelt,<br/>Súgta a szívembe, szeretlek téged.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy érzem, hogy egy kéz letörli<br/>Minden könnyemet,minden bűnömet,<br/>Elfáradtam, megpihenek<br/>Atyám a Te lábad előtt. //: X2</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Köszönöm, köszönöm Istenem,<br/>Hogy az életem megváltozott,<br/>Meghajtom térdemet, imádlak Tégedet,<br/>Szüntelen dícsérem a Te nagy nevedet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kinyitom a szívem ajtaját,<br/>Uralkodj benne édes Atyám,<br/>Mert ha velem vagy nem félek semmitől,<br/>Köszönöm Jézus, hogy Te vagy a Megmentő</lines>
+    </verse>
+  </lyrics>
+</song>

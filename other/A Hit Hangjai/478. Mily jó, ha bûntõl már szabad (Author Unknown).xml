@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>478. Mily jó, ha bûntõl már szabad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mily jó, ha bűntől már szabad, <br/>Az Úr szolgája vagy; <br/>A bűn szolgája gyáva rab, <br/>A Krisztusé szabad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A bűn sötétben tévelyeg, <br/>És bajba dönt vakon; <br/>De Krisztus kézen fog <br/>s vezet Napfényes utakon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A bűnben kín van s gyűlölet, <br/>Mi mást, más minket öl;<br/>Öröm köt egybe s szeretet, <br/>Az Úr szívén belől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Már szolgád lettem, Jézusom, <br/>Ki értem áldoztál; <br/>Más uram nincsen, jól tudom, <br/>Mert bűnből kihoztál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Légy áldott, Krisztusom, Te nagy! <br/>Hadd adjam át szívem:<br/>Vedd szívesen, <br/>hogy hol Te vagy, <br/>E szív is ott legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

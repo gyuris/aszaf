@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>060. Az életem ajtaján</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. Az életem ajtaján ott van már,<br/>A húsvéti Bárány vére.<br/>Jöhet a sötétség teljes hada<br/>A vér oltalmat ad nekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/2. Sátán ha támad és elcsüggeszt<br/>Szilárdan állhatok meg.<br/>Nincs már többé kárhoztatás<br/>Mert a Bárány vére elfedez.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Refrén:<br/>A Bárány vére elfedez,<br/>Lemossa bűneim, tisztává tesz.<br/>Isten kegyelméből<br/>Szent és igaz lehetek.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>A Bárány vére elfedez,<br/>Nem árt az ellenség gonosz terve.<br/>Nincs már mi legyőzhetne,<br/>Mert a bárány vére elfedez.</lines>
+    </verse>
+  </lyrics>
+</song>

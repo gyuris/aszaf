@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>101a. Áldja vígan Urát - kánon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Áldja vígan Urát <br/>minden földi nép, <br/>Dícsérjék, szolgálják, <br/>zengjék szent Nevét!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halleluja, halleluja, <br/>zengjék szent Nevét!<br/>Halleluja, halleluja,<br/>zengjék szent Nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

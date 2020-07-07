@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>571. Oly szép a Jézus szent Neve</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Oly szép a Jézus szent Neve! <br/>Betelni nem tudok vele,<br/>A szívem teljes öröme <br/>E drága, szent név: Jézus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézus, ó, mily drága név, <br/>Jézus, hallja minden nép!<br/>Jézus, zengjük szerte szét <br/>Örökké áldjuk Nevét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Én szeretem az Ő nevét, <br/>Mert enyhít bút és szenvedést,<br/>Legyőzi lelkem ellenét <br/>E drága, szent név: Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Elmondanom nem is lehet <br/>Mily drága nékem szent Neve.<br/>Jöjj te is, üdvöt ad neked <br/>E drága, szent név: Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

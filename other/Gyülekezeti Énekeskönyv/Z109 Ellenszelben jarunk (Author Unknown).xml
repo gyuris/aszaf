@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Z109 Ellenszelben jarunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ellenszélben járunk mindennap Urunk,<br/>Erõért Hozzád fordulunk.<br/>Ellenszélben járunk, meg-megtántorít,<br/>Egyedül csak Benned bízhatunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Akárhogy fúj a szél, a szembeszél,<br/>Istennek hatalma õrzi életünk.<br/>Ha fúj a szél, a szembe szél,<br/>Nem árthat, mert Isten van velünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Testvérem nem látod, szembõl fúj a szél<br/>Körülötted minden remeg.<br/>Ellenszélben járni csakis így lehet,<br/>Hogyha Isten tartja életed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ellenszélben mindig nõ a kísértés,<br/>Egyre támad az ellenség.<br/>Ellenszélben szíved harcra készen áll,<br/>Az erõ csak Krisztusban elég.</lines>
+    </verse>
+  </lyrics>
+</song>

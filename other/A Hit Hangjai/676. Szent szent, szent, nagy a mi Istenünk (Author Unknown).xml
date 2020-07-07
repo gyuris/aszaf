@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>676. Szent szent, szent, nagy a mi Istenünk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. Szent, szent, szent,nagy a mi Istenünk. <br/>Zengjetek népek az Ő nevének! <br/>Zúgj, ó, tenger, szökjetek hegyek, <br/>És ti halmok, mondjatok áment!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jó és hatalmas, <br/>bölcs és irgalmas, <br/>Mennynek Királya,<br/>ég, föld Ura.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Szent, szent, szent,<br/>nagy a mi Istenünk! <br/>Hegyek, halmok,<br/>mondjatok áment</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. Imádjátok dicsőítve Őt! <br/>Szív és az elme hálával telve <br/>Hódoljon meg Néki teljesen! <br/>Magasztaljad, ó, Sion, zengve!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Őt dicsérjétek, angyali lények, <br/>Ezrek és ezrek, nagy serege!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. Szent, szent, szent, nagy és örök az Úr, <br/>Kezdettől fogva áll erős trónja; <br/>Az Ő karja mindeneken győz, <br/>Egy szavával dönt, emel, alkot.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Egykor a mennybe' majd szemtől-szembe <br/>Szemlélhetjük ott, fönt, a szent Dicsőt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>382. Jézus, Te égi szép</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4 Jézus, Te égi szép, <br/>tündöklő fényű név, <br/>Legszentebb itt alant a föld színén! <br/>Benned van irgalom, Terólad zeng dalom, <br/>Erőd magasztalom, Ragyogj felém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4 Az élet száz veszély, én lelkem, mégse félj!<br/>Míg Ő tart karjain, hű Mestered! <br/>Elhagynak emberek, Mit árt, ha Ő veled? <br/>Töröld le könnyedet, Jézus szeret!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4 Akaratod nekem mutasd meg szüntelen, <br/>Ne rejtsd el, Mesterem, tetszésedet! <br/>Alázattal tele, <br/>Hadd merüljek bele; <br/>Hisz idegenben jár Itt gyermeked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4 Tisztíts meg teljesen, <br/>szentelj meg, hadd legyen <br/>Fényedből fénysugár az életem; <br/>Míg a homályon át, <br/>A lelkem otthonát, <br/>Világosságodat Elérhetem!</lines>
+    </verse>
+  </lyrics>
+</song>

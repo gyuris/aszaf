@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>198. Én hallottam, hogy egykor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Én hallottam, hogy egykor<br/>földre szállott a Megváltó, <br/>Föláldozta az életét<br/>énértem, bűnösért.<br/>Úgy szenvedett, mint Bárány,<br/>vére értem folyt Golgotán,<br/>Eltörölte sok bűnömet <br/>e csodás szeretet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>A győzelem, már enyém, <br/>megváltott szent vérén,<br/>Ő meghalt énértem, <br/>megtisztított engem,<br/>A szívemet átjárta<br/>ez áldozat nagy volta,<br/>Már enyém a győzelem<br/>a Jézus vérében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Én hallottam egy jó hírt, <br/>Jézus szenvedőt meggyógyít,<br/>Aki sánta volt, az újra jár,<br/>a vakok szeme lát. <br/>Én térdre hullva kértem:<br/>„Uram, gyógyítsd meg a lelkem!”<br/>Ő látta súlyos helyzetem, <br/>meghallgatott engem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Én hallottam, hogy nékem<br/>helyet készített a mennyben,<br/>Égi városban, mely színarany, <br/>hol Isten trónja van.<br/>Szent angyalok az Úrnak<br/>zengnek szüntelen háladalt,<br/>Ott fönn majd velük éneklem:<br/>ó, mily nagy győzelem!</lines>
+    </verse>
+  </lyrics>
+</song>

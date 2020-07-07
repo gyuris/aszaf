@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>097. Áldjuk Jézust hálás szívvel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Áldjuk Jézust hálás szívvel, <br/>Megváltotta életünk!<br/>Fenn a mennyben, dicsőségben, <br/>Helyet készít minekünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mikor mind mennybe érünk,<br/>Ó, mily szép, áldott nap lesz az nekünk!<br/>Ott meglátjuk Jézust,<br/>És zeng győzelmi énekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Míg e földön zarándoklunk,<br/>Gyakran felhős az egünk,<br/>De ha utunk Véle járjuk,<br/>Örök fénybe érkezünk. Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. együnk mindig hűek Hozzá<br/>Buzgó szívvel szolgáljunk,<br/>Mert készen vár Jézusunknál,<br/>Gazdag égi jutalmunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Csak előre nem hátrálva,<br/>Míg meglátjuk szent arcát,<br/>Nemsokára menny országa <br/>Felénk tárja ajtaját.</lines>
+    </verse>
+  </lyrics>
+</song>

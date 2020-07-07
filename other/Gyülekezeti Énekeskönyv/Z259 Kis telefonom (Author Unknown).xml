@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Z259 Kis telefonom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kis telefonom van nekem, <br/>Két összetett kezem. <br/>Mit lenn a földön mondok el, <br/>Megváltóm hallja fenn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hívom õt, barátomat, <br/>Õ mindig válaszol, <br/>Felhangzik már: halló, halló, <br/>A szívem hallja jól.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csingilingi csingiling, <br/>Szólj kis telefon; <br/>Összekulcsolom kezem, <br/>S felhívom Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

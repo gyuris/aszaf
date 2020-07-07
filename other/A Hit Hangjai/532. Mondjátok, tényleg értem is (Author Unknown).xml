@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>532. Mondjátok, tényleg értem is</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mondjátok, tényleg értem is <br/>Meghalt az Úr a fán?<br/>Ontott-e vért ily bűnösért, <br/>Ott fönn a Golgotán?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézus értem halt, <br/>Jézus értem halt!<br/>Világért Ő volt áldozat, <br/>Így hát énértem is!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Igaz, hogy Jézus szenvedett <br/>Az én sok bűnömért?<br/>Ó, mily csodás nagy irgalom, <br/>Mely azzal engem ért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Amint van, íme átadom, <br/>Uram, az életem;<br/>Te adhatsz <br/>nékem gyógyulást, <br/>Fogadj hát kedvesen!</lines>
+    </verse>
+  </lyrics>
+</song>

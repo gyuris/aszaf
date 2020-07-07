@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>645. Pásztorokkal vagyok útban</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Pásztorokkal vagyok útban, <br/>Jézusom, hogy látni tudjam,<br/>Őt, az Istengyermeket, <br/>Aki értem született.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Angyalokkal zeng a nyelvem, <br/>Áldja Istent szívem, lelkem.<br/>Égi béke vár reám <br/>Jézus Krisztus oldalán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mint a bölcsek, Néki szánom <br/>Mind, mi drága e világon.<br/>Néki szánom életem, <br/>Nyereség ez énnekem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Máriával csendesedve <br/>Forgatom most a szívembe',<br/>Titkot fürkész a hitem: <br/>Testet öltött Istenem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Most Tevéled, Szabadítóm, <br/>Ünnepem van csendben, itthon.<br/>Jöttöd üdvöt így hozott, <br/>Szívem így lett otthonod.</lines>
+    </verse>
+  </lyrics>
+</song>

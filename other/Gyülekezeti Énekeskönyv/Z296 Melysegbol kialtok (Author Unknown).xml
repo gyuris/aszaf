@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z296 Melysegbol kialtok</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mélységbõl kiáltok, ó, Uram,<br/>Halld meg hangomat, jaj szavaimat.<br/>Megtört szívvel várok rád Uram,<br/>Jól ismersz és békességet adsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Magasztallak én téged Istenem,<br/>Imádom és áldom neved.<br/>Magasztallak én téged Istenem,<br/>Dicsõítlek szüntelen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Lábam kõsziklára helyezted,<br/>Lépéseimet megerõsíted.<br/>Számba te adtál új éneket,<br/>Tõled nyertem lángoló szívet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ég és Föld elmúlnak egy napon,<br/>Tûzben oszlik fel, minden felbomol.<br/>Várok rád, ó, jöjj el Jézusom,<br/>Nálad készen vár az égi hon.</lines>
+    </verse>
+  </lyrics>
+</song>

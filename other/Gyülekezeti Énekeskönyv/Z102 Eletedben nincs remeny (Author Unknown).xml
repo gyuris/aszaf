@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Z102 Eletedben nincs remeny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2 Életedben nincs remény, <br/>Lelked, szíved oly szegény,<br/>Jöjj az Úrhoz, mert Õ szívesen segít.<br/>Utadon nincs semmi fény, <br/>Harcodban erõd kevés,<br/>Jöjj az Úrhoz, mert Õ biztosan segít.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mondd el szíved bánatát, <br/>Mondj el mindent, ami fáj,<br/>Mert csak Jézus egyedül a segítõd.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Érted folyt a drága vér, <br/>Jézus meghalt bûnödért,<br/>Azért add át szíved és bocsásd be Õt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/2 Jézus most is szerte jár, téged is oly régen vár,<br/>Áldásával gazdagítja életed.<br/>Öröm, béke vár reád, szívedet add Néki át.<br/>Boldogan kövessük együtt lábnyomát.</lines>
+    </verse>
+  </lyrics>
+</song>

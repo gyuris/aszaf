@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z312 Mindennap veled leszek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:„Minden nap veled leszek, fogom a kezed, <br/>Csak õrizd meg mindig tisztán a szíved!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El nem hagylak téged, el nem távozom, <br/>Kiáltasz hozzám, és én meghallgatom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/:Hát ne félj én népem, <br/>Hisz tiéd az örökségem. <br/>Ne félj és ne lankadj el, <br/>Hisz neked gyõznöd kell!“:/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>517. Mint a szarvas ér vizéhez</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Mint a szarvas ér vizéhez,<br/>Lelkem hozzád, égi Lény, <br/>Úgy sóhajt, úgy szomjaz, éhez:<br/>Vajh, elérlek egykor én?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bús hívednek bánat árja<br/>Éjjelnappal étke lett, <br/>Mert az álnok azt kiáltja,<br/>El nem érlek Tégedet.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Rád gondolva, árva lelkem<br/>Búbánatban ég, eped,<br/>Nem dallhatván hálatelten<br/>Templomodban éneked.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Üdvözít az Isten engem, <br/>Bár ma Hermon-hegy tövén <br/>Száz örvény közt, förgetegben<br/>Tenger kínnal küzdök én.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Napjaim mily jók valának,<br/>Hogy megálda engemet!<br/>Hálám ott az üdv Urának<br/>Éjjel-nappal zenghetett.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kérve kérlek, óvj meg engem,<br/>Itt se hagyj el, ó, vigyázz!<br/>Mért szorongat úgy az ellen, <br/>S mért környékez ennyi gyász?</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Csontjaimat porba ontják,<br/>Összezúznak engemet!<br/>S gúnykacagva egyre mondják: <br/>Hol van a te Istened?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Mért vagy oly bús, árva lelkem, <br/>Mért szorongasz oly nagyon? <br/>Bízzál édes Istenedben, <br/>Lesz még víg dal ajkadon!</lines>
+    </verse>
+  </lyrics>
+</song>

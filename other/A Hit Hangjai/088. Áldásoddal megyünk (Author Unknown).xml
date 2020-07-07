@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>088. Áldásoddal megyünk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Áldásoddal megyünk, megyünk innen el,<br/>Neked énekelünk boldog éneket.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Maradj mindig velünk, ha útra kelünk <br/>Őrizd életünk minden nap!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Minden nap dicsérünk Téged, jó Uram,<br/>Néked énekelünk vidáman, boldogan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Ó, hadd menjünk Feléd, tekintsünk Terád.<br/>Szentlelked erejét add nekünk tovább.</lines>
+    </verse>
+  </lyrics>
+</song>

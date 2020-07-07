@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title> Egykor oly kedves dolgok menjetek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egykor oly kedves dolgok menjetek,<br/>E világ tisztel és vív értetek,<br/>Amik nyereség voltatok nekem,<br/>Krisztusért kárnak ítélem!<br/>	<br/>Chorus<br/>Refrén:<br/>Élni benned, Jézus, olyan jó,<br/>Ennél nincs nagyobb áldás.<br/>Te vagy már mindenem,<br/>Új erőm és énekem,<br/>Szeretlek Téged, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Teljes szívemből vágylak ismerni,<br/>Benned élni és követőd lenni.<br/>Hitből nyert áldást Tőled átvenni,<br/>Igazság által erősödni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mennyei erőd jól megismerni,<br/>Szenvedésedből részesedni,<br/>Veled meghalni régi éltemnek,<br/>Hogy aztán örökké élhessek.</lines>
+    </verse>
+  </lyrics>
+</song>

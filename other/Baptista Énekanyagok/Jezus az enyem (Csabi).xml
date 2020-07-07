@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Jezus az enyem</title>
+      <title>Mely alombol ebredj lelkem</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mély álomból ébredj lelkem,<br/>a hosszú télnek vége van.<br/>A legjobbat már megnyertem,<br/>Jézus enyém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lágy eső hull, és friss szél fúj,<br/>Betölti az egész lényemet.<br/>Az én utam a keskeny út,<br/>Igéje vezet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egy új hajnal / bontja sugarát,<br/>Új dallal / áldom az Ég Urát!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óóhóhó!<br/>Jézus az enyém! Jézus az enyém! (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örökké tartó boldogság,<br/>Az Ígéret Földjén élek.<br/>Áldás esője hullik rám,<br/>Bárhová lépek.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>vers3.<br/><br/>refr. (2x)<br/>vers4.<br/>refr. (4x)<br/>vers4.</lines>
+    </verse>
+  </lyrics>
+</song>

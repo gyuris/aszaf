@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Z89 Egy kicsiny kunyho</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy kicsiny kunyhó<br/> elég itt e földön<br/>Vagyon, gazdagság <br/>nem kell nekem.<br/>Az én nagy kincsem fönn van a mennyekben,<br/>Hol ékes öltöny vár énreám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy dicsõ lakhely vár <br/>odafenn készen,<br/>Csodás szépségét el nem mondhatom.<br/>Ha majd bevégzem<br/> földi pályafutásom,<br/>Örök hazámban lakozom én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Nem vagyok árva, <br/>szegény itt e földön,<br/>Lelkemnek kincse <br/>a mennyben van.<br/>Ha vándorutam befejezem itt lenn, <br/>Boldogan várom a béremet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egy dicsõ lakhely vár <br/>odafenn készen,<br/>Csodás szépségét<br/> el nem mondhatom.<br/>Ha majd bevégzem földi pályafutásom,<br/>Örök hazámban lakozom én.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Rút volt szivem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rút volt szivem sötét, de Jézus odabetért,<br/>S mert megmosott a vér, már szivem hófehér.<br/>Ott járok majd tudom, a szinarany uton,<br/>Ó, micsoda nagy szeretet, lemosta bûneimet.</lines>
+    </verse>
+  </lyrics>
+</song>

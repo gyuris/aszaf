@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyertek dicserjuk egyutt E</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gyertek, dicsérjük együtt,<br/>Izráel Szentjét,<br/>mert Õ a Megváltó!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Emeld fel kezedet,<br/>nyisd meg szívedet,<br/>mert Õ a te Szabadítód!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyertek, gyertek,<br/>menjünk fel az Úr hegyére,<br/>vígasságnak lakhelyére,<br/>ujjongjunk Õelõtte,<br/>táncoljunk Õelõtte,<br/>Az Õ neve, az Õ neve:<br/>Ott lakik az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

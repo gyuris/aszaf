@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Z341 Nem sokara jon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nemsokára jön, újra visszajön,<br/>Az Úr Jézus újra visszajön!<br/>Várod-e Urad? Várod-e Urad?<br/>Elkészítetted-e már magad?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ó, én várom az Urat,<br/>Szemem figyelve kutat,<br/>Várom boldog örömmel,<br/>Lelkem Neki énekel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Van-e már ruhád, hófehér ruhád?<br/>Mestered jön ne várasd tovább!<br/>Van-e már hited, tiszta új szíved?<br/>Siess, ne várj, megáld Mestered.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Mécsed fénye ég, olaj van elég?<br/>Ha nem lenne olaj, ma még végy.<br/>Ébren várod-e, hogy Urad jön-e?<br/>Így mehetsz mennyegzõre vele.</lines>
+    </verse>
+  </lyrics>
+</song>

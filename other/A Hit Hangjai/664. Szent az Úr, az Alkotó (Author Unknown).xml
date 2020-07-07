@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>664. Szent az Úr, az Alkotó</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szent az Úr, az Alkotó,<br/>Mindent bölcsen formált, <br/>Földre, égre írta föl<br/>Végtelen hatalmát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jertek, együtt <br/>hajtsunk térdet, <br/>Istent vélünk áldjátok!<br/>Jöjjetek és lássátok,<br/>Amit az Úr végzett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Áldjuk Istent, az Atyát,<br/>Minket Ő teremtett, <br/>Folyton őriz, gondol ránk, <br/>Ő ad békességet,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Messze szálljon szózatunk: <br/>Hálazsoltárt zengjünk, <br/>Isten az Ő szent Fiát<br/>Földre küldte értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

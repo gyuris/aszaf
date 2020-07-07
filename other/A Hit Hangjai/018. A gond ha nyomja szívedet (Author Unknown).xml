@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>018. A gond ha nyomja szívedet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. A gond ha nyomja szívedet, ne félj, csak higgy, remélj, <br/>Mert Jézus téged is szeret, ne félj, csak higgy, remélj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Még van remény, még van remény a te számodra is!<br/>Az Úr megváltott engemet, megvált Ő téged is!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha rád borulna is az éj, ne félj, csak higgy, remélj, <br/>Ha semmi jóra nincs esély, ne félj, csak higgy, remélj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha romba dőlt az életed, ne félj, csak higgy, remélj,<br/>Az Úr mindent jóvátehet, ne félj, csak higgy, remélj!</lines>
+    </verse>
+  </lyrics>
+</song>

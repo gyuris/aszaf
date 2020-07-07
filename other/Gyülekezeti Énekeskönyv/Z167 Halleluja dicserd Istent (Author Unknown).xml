@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Z167 Halleluja dicserd Istent</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Halleluja! Dicsérd Istent!:/4x<br/>A Lélek és a Menyasszony mondja: Jövel!<br/>És aki hallja, mondja: jövel!<br/>És aki szomjuhozik, az jöjjön el,<br/>Vegye az élet vizét ingyen!</lines>
+    </verse>
+  </lyrics>
+</song>

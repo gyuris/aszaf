@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>464. Megjelentem. dicsõ Felség</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Megjelentem, dicső Felség, <br/>Trónusodnál, ó, fogadj!<br/>Véghetetlen jóság, szentség, <br/>Téged illet hódolat!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Engedd, kérlek, <br/>Engedd, kérlek, Hogy ez Néked <br/>Légyen kedves áldozat, <br/>Légyen kedves áldozat!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Nézz reám a fényességből, <br/>S add nekem indulatod!<br/>Megalázom magam szívből, <br/>Mert halandó por vagyok.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Engedd, kérlek, <br/>Engedd, kérlek, Bízva esdek, <br/>Hogy szemléljem szent arcod, <br/>Hogy szemléljem szent arcod!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Szíved teljes kegyelemmel, <br/>Ó, te legfőbb Szeretet, <br/>Ámde engem gyakran tölt el <br/>Rút harag és gyűlölet.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Engedd, kérlek, <br/>Engedd, kérlek, <br/>Hogy szent legyek, <br/>S nyerjek új szívet Tőled, <br/>S nyerjek új szívet Tőled!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Z183 Hozsanna, Jezus Krisztus Ur</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hozsánna, hozsánna, Jézus Krisztus Úr!<br/>Hadd dicsérjük most szent neved, <br/>Szívünk nyitjuk neked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hozsánna, hozsánna, Jézus Krisztus Úr!<br/>Mi téged szívbõl szeretünk, <br/>Neked adjuk éltünk.</lines>
+    </verse>
+  </lyrics>
+</song>

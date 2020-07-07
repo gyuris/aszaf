@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>669. Szent légy, ó, gyülekezet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Szent légy, ó, gyülekezet, Készülj az imára!<br/>Jézus adjon szent tüzet Szíved oltárára!<br/>Áradjon Gazdagon<br/>Ajkad az imától, <br/>Könyörgés szavától!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Hogyha ketten vagy hárman Hittel elé állunk, <br/>Ő meghallja biztosan Buzgó imádságunk.<br/>Jézusunk, Főpapunk <br/>Tőlünk elfogadja, Isten elé adja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Hol a szentek tábora Összejön imára, <br/>Ott van Isten temploma, Ott az Ő oltára.<br/>Ó, e nép Buzgó, hév, <br/>Lelkesült imája <br/>A mennyet bejárja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Ó, mily hatalmas erő A szentek imája,<br/>Hogyha buzgón tör elő, Nem hangzik hiába!<br/>Mert a hit Megsegít <br/>Minden bajban, vészben, <br/>Kísértés tüzében.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Menjünk Isten elébe, Boruljunk imára, <br/>Kezünket fölemelve, Szívűnk megalázva!<br/>Mondjunk hát Hő imát Buzgósággal telten, <br/>Jézusunk nevében!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>074a. Áldjon meg téged, áldjon az Úr - kánon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjon meg téged, áldjon az Úr,<br/>Őrizzen Téged, őrizzen Ő,<br/>Orcáját mennyekből <br/>fordítsa reád,<br/>Könyörüljön rajtad, <br/>könyörüljön rajtad, <br/>Adjon békességet!</lines>
+    </verse>
+  </lyrics>
+</song>

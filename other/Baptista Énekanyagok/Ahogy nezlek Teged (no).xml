@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-08T16:24:36">
+  <properties>
+    <titles>
+      <title>Ahogy nezlek Teged</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ahogy nézlek Téged,<br/>Elszáll minden félelem.<br/>Ahogy szól<br/>szelíd szavad,<br/>nem kérdezek már.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Amikor érzem: itt vagy,<br/>Szent Szellemed hoz közel.<br/>Erõs karod átölel,<br/>És új élet tölt el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A mennyben van otthonom,<br/>Szívem szárnyal szabadon.<br/>Lelkem megnyugszik Benned,<br/>Átitatja keneted.<br/>A halál itt véget ér,<br/>Mert nem hagy el a remény,<br/>Hogy a végén meglátlak<br/>Ott fenn!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Vezess tovább Istenem,<br/>És engedd megértenem<br/>Szent célodat, tervedet,<br/>kedves akaratod.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Adj próbában kegyelmet,<br/>bátorságot, hûséget,<br/>Hogy mindvégig gyõztesen<br/>álljak meg hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

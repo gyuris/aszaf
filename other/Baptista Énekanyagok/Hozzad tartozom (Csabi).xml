@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hozzad tartozom</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én Uram , erősségem, Hozzád tartozom<br/>Két kezem kinyújtom most az ég felé, s hálával áldozom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus mit adjak néked,<br/>Hogy köszönhetném meg mindazt, amit tettél<br/>Úr Jézus, nincs szó a számban, hogy megháláljam<br/>Hogy otthagytál mindent értem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnömért a büntetést Te kaptad Uram,<br/>Meghaltál és véreddel lemostál minden szégyent rólam</lines>
+    </verse>
+  </lyrics>
+</song>

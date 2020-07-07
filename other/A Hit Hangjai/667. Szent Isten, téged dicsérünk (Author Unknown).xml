@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>667. Szent Isten, téged dicsérünk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szent Isten, téged dicsérünk, <br/>Halld meg e napon kérésünk!<br/>Add, hogy ezt Néked szenteljük, <br/>Hív szolgálatban eltöltsük!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ím, áhítattal járulunk<br/>Szent színed elé, hű Urunk; <br/>Nagy buzgósággal szolgálunk,<br/>S mély hódolattal imádunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, emlékeztess bennünket, <br/>Hogy e ház a Te lakhelyed; <br/>Itt adod nékünk Igédet,<br/>Itt érezzük közelséged.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Hogyha az Ige hozzánk szól,<br/>Ó, segíts, hogy megértsük jól; <br/>Mindazt, mit kíván, megtegyük, <br/>S az igazgassa életünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Add, hogy ne csak ez ünnepet,<br/>De ugyanígy az életet <br/>Tenéked adjuk teljesen, <br/>Szent Neved áldjuk szüntelen!</lines>
+    </verse>
+  </lyrics>
+</song>

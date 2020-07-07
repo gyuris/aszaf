@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Z238 Jo dolog az Ur nevet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jó dolog az Úr nevét dicsérni,<br/>Jó dolog õnéki szívbõl zengedezni, <br/>/:Nála öröm, öröm, öröm, öröm,<br/>Teljes öröm van.:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ezért hálás szívvel zengek néki éneket,<br/>Örvendezek elõtte, mert Õ a szeretet,<br/>/:És Õ betölt, betölt, betölt, betölt,<br/>Friss, új élettel.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Aki benne bízik, sose csalódhat,<br/>Mert az élet beszédei nála vannak,<br/>/:És Õ megáld, megáld, megáld, megáld,<br/>Hatalmas erejével.:/</lines>
+    </verse>
+  </lyrics>
+</song>

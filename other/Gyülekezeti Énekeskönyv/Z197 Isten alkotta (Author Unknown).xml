@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Z197 Isten alkotta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten alkotta az oroszlánokat, <br/>A medvét, a kengurut. <br/>Isten alkotta a tevéket is, <br/>A tehenet, a tigrist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Refrén: <br/>Minden, amit alkotott jó, <br/>Minden, amit alkotott, jó, <br/>Minden, amit alkotott, jó, <br/>az Õ mûve mind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Isten alkotta a füleimet is, <br/>A szemeim, s az orrom. <br/>Isten alkotta az ujjaimat mind, <br/>A térdem, s a lábam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Emeld fel kezed, álljál fél lábra, <br/>Mosolyogj az Úrnak! <br/>Csípd meg orrodat, görbítsd az ujjad, <br/>Fordulj körbe és zengd:</lines>
+    </verse>
+  </lyrics>
+</song>

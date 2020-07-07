@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>038. Amint vagyok, csak úgy jövök</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Amint vagyok, csak úgy jövök,<br/>Nem az erőm, a Te erőd.<br/>A véred mossa le a bűnt,<br/>Isten Báránya, ím jövök.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Vihartól tépve, rongyosan,<br/>Kétségek közt, elkínzottan,<br/>A bűntől űzve fáradtan,<br/>Isten Báránya, ím jövök.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Amint vagyok, eltévedett,<br/>Nálad remélek menhelyet,<br/>Csak Tőled kérek én kegyet,<br/>Isten Báránya, ím jövök.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Amint vagyok, Te elfogadsz, <br/>A bűntől megszabadítasz,<br/>Hit által nékem üdvöt adsz,<br/>Isten Báránya, ím jövök.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Amint vagyok, nincs akadály, <br/>Tetőled semmi el nem zár, <br/>Tied vagyok egészen már,<br/>Isten Báránya, ím jövök.</lines>
+    </verse>
+  </lyrics>
+</song>

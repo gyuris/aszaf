@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>454. Légy kész, megváltott nép</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Légy kész, megváltott nép, <br/>Nézd, múlik már az éj!<br/>Az Úr nagy napja most jön el, <br/>de mit se félj, <br/>Mert békét hoz, <br/>És örök üdvvel <br/>téged megajándékoz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Az őrök hangja szól: <br/>Jön már a Vőlegény!<br/>Ó, Sion, örvendezz <br/>a Bárány ünnepén!<br/>Mily boldogság, <br/>Ha Krisztus égbe viszi <br/>hű Mennyasszonyát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A mennyben nem lesz könny, <br/>És nem lesz szenvedés,<br/>Mert Atyád vár és <br/>Nála boldog ünneplés. <br/>Ne csüggedj hát, <br/>Ott színről színre láthatod <br/>majd szent arcát</lines>
+    </verse>
+  </lyrics>
+</song>

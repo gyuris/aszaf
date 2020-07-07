@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z315 Mint a feszkeben</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mint a fészkében a sasmadár, <br/>Úgy vigyáz Isten rád.<br/>Sosem enged el ha megtalált, <br/>Õ végig veled jár.<br/>Puha, meleg fészke mélyre rejt <br/>És oltalmába zár,<br/>Hogyha vihar jõ és mélyre szállsz <br/>Õ ott is rád talál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Mert ha mélyben veszélyt rejt a táj,<br/>A sas rég látja már. <br/>Hát Õ ne tudná utadat, <br/>Ki a mélyben is a Király ?<br/>Mert ha halált, veszélyt rejt a táj, <br/>A sas rég látja már.<br/>Csak Õ ne tudná utadat, <br/>Ki mindig veled jár?!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Hogyan menti meg a sasmadár <br/>A piciny életét?<br/>Mint Jézus ott a Golgotán, <br/>Ki a váltság bûnödért.<br/>A kis fiókát egy napon, <br/>Két erõs szárny emel fel<br/>És hittel indul útnak el <br/>A dicsõ honba fel.</lines>
+    </verse>
+  </lyrics>
+</song>

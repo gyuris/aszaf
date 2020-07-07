@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kik ezek a feherbe oltozottek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Kik ezek a fehérbe öltözöttek?<br/>Kik ezek, és vajon honnan jöttek?<br/>Kezükben pálma leng,<br/>Dicséret hangja zeng...<br/>Kik ezek, és honnan jöttek?"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezek azok, kik a nagy nyomorból jöttek,<br/>Megmosták a ruhájukat, otthagyták a szennyet,<br/>A Bárány vérében gyógyforrásra leltek,<br/>Minden bûntõl megtisztultak, hófehérré lettek...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezért vannak az Isten trónja mellett,<br/>Éjjel-nappal elõtte örvendeznek.<br/>Szolgálják Istenük,<br/>Sátra a lakhelyük,<br/>Trónja elõtt örvendeznek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem éheznek, soha nem szomjaznak többé,<br/>Nem tûz rájuk nap heve, sem semmiféle hõség.<br/>A bárány hû keze terelgeti õket,<br/>Letöröl a szemeikrõl minden fájó könnyet...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ezért vannak az Isten trónja mellett,<br/>Éjjel-nappal elõtte örvendeznek.<br/>Kezükben pálma leng,<br/>Dicséret hangja zeng,<br/>Nagy örömmel örvendeznek...</lines>
+    </verse>
+  </lyrics>
+</song>

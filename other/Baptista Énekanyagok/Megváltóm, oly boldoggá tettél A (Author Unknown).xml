@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Megváltóm, oly boldoggá tettél A</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megváltóm, oly boldoggá tettél,<br/>Értem váltságdíjat fizettél,<br/>Életed osztottad meg velem,<br/>Mert Te vagy az egy, igaz Isten!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Te vagy mindenem nekem, <br/>Tiéd az életem,<br/>Mindennapom öröme vagy,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Méltó vagy, hogy végy erőt,<br/>Dicséretet, áldást<br/>és szüntelen imádást.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fogadd el élő áldozatom,<br/>Tagjaim itt vannak oltárodon,<br/>Ajkam is ezentúl a Tiéd,<br/>Mindenestől betölti igéd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönöm, hogy megismertelek,<br/>Zörgettél és én beengedtelek,<br/>Régi rongyaim levethettem,<br/>Koldus voltam, s királlyá lettem.</lines>
+    </verse>
+  </lyrics>
+</song>

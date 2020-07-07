@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>355. Jézus hív, bár zúg, morajlik</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus hív, bár zúg, morajlik <br/>Életünk vad tengere. <br/>Halk hívása tisztán hallik: <br/>Jer, kövess, ó, jöjj ide!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Vedd a példát Andrástól, <br/>ki Hallva hívó szózatot, <br/>Hálóját se vonszolá ki: <br/>Érte mindent elhagyott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jézus hív, hogy Őt imádjad, <br/>Megragad, hogy el ne ess, <br/>Mert kísért öntelt világod: Jöjj, <br/>Engem jobban szeress!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha nehéz az élet terhe, <br/>Roskadozva hordom azt: <br/>Bús orcám Hozzá emelve, <br/>Jézusban lelek vigaszt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Uram, hozzám légy kegyelmes, <br/>Tedd Tieddé szívemet, <br/>Hadd lehessek engedelmes, <br/>Néked élő gyermeked!</lines>
+    </verse>
+  </lyrics>
+</song>

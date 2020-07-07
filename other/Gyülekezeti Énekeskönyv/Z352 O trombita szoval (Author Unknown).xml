@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Z352 O trombita szoval</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. Õ trombitaszóval jön a felhõkõn<br/>Jézus jön, visszajön.<br/>Õ trombitaszóval jön a felhõkön<br/>És hazavisz minket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Jézus jön, Jézus visszajön.<br/>Õ trombitaszóval jön a felhõkön <br/>És hazavisz minket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/2. A menyegzõi ruha legyen hótiszta<br/>Mert Jézus jön vissza.<br/>A menyegzõi ruha legyen hótiszta,<br/>Hogy elvihessen Õ.</lines>
+    </verse>
+  </lyrics>
+</song>

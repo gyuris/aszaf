@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Isten szeret minden gyermeket</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2 c3 v3 c4 v4 c5 v5 c6 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Isten szeret minden gyermeket,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Engem úgy hívnak, hogy eszkimó, és jégházban lakom.<br/>H csing-ling arra fut egy szán, az orrom kidugom.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Isten szereti az eszkimót,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy hosszú copfot hordok én és csúcsos kalaot.<br/>A bõröm sárga, mint a réz, de mégis szép vagyok.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Isten szereti a kínait,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az én hazám a vad Afrika, hol nincsen hó, se tél.<br/>A bõröm sötét, mint az éj, de a fogam hófehér.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Isten szereti a kis négert,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szép tollas dísz a fejemen, a bõröm, mint a réz.<br/>Mókaszínben járok vigyázva, szívem bátor és merész.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Isten szereti az indiánt,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kis cigánygyermek vagyok én, és Nyírségben lakom.<br/>A mennyországba igyekszem, ott vár rám Jézusom.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Isten szereti a kis cigányt,<br/>Minden gyermeket a Föld színén,<br/>És Õ tudja a nevünket, néven szólít minket,<br/>Ott lakunk az Õ szívén.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pesten élek egy nagy bérházban, hol minden csupa kõ.<br/>De mindent lát és mindent tud rólam az üdvözítõ.</lines>
+    </verse>
+  </lyrics>
+</song>

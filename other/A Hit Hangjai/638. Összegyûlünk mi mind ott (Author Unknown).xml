@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>638. Összegyûlünk mi mind ott</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Összegyűlünk mi mind ott, hol <br/>Várnak ránk az angyalok<br/>Hol az Isten kegytrónjától<br/>Folynak életfolyamok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Igen, mi ott a folyónál<br/>Mind összegyűlünk ott az életvíznél,<br/>Jézust látjuk mindörökké, <br/>És áldjuk szent Nevét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Míg e vízhez el nem érünk, <br/>Minden terhet lerakunk,<br/>Ott, mint győzőknek lesz bérünk, <br/>Koronát, pálmát kapunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Majd a folyónál ér véget <br/>Vándorutunk üdvösen,<br/>Fájdalmát a vérző szívnek, <br/>Öröm, béke váltja fel.</lines>
+    </verse>
+  </lyrics>
+</song>

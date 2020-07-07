@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Réges-régen Betlehemben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Réges-régen Betlehemben megszületett a Megváltó: Jézus Krisztus Isten Fia, jaj, de nagyon régen volt, ó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus szeret téged és engem, ezért halt meg a kereszten.<br/>Õ vette el a büneimet, ez ma is igaz, nem csak régen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egyvalami nem változott meg: Õ még most is él, feltámadt a halálból, Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úgy örülök, hogy Jézus eljött, nem kell félnem, mert szeretem Õt.<br/>Úgy örülök, hogy Jézus eljött, nem kell félnem, mert szeretem Õt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szeretem Õt, szeretem Õt, szeretem Õt!</lines>
+    </verse>
+  </lyrics>
+</song>

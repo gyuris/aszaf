@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>295. Hullámzik a szép kalászos búza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11a">
+      <lines>1. Hullámzik a szép kalászos búza, <br/>Nemsokára itt az aratás.<br/>Hamarosan látjuk letarolva, <br/>Ha munkába áll a sok kaszás.</lines>
+    </verse>
+    <verse name="v11b">
+      <lines>Ami most még hetyke, büszke száron <br/>Fennen tartja kalászos fejét,<br/>Holnap lehet, keresztekbe téve <br/>Szenvedi az égő nap hevét.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>1. Nemsokára eljön az Úr Jézus,<br/>Munkába áll az égi kaszás,<br/>Learatja minden gabonáját, <br/>Ha eljön a végső aratás.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Marokszedők az angyalok lesznek, <br/>Összegyűjtik a jó gabonát.<br/>Mindazok a kárhozatba vesznek, <br/>Kik megvetik ma az Úr szavát.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>2. Térj meg, ember, ne várass magadra, <br/>Mert oly hirtelen jön el a nap,<br/>Megtérésed ne halaszd holnapra, <br/>Mert azzal csak megcsalod magad!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Majd az örök kárhozat tüzében <br/>Késő lesz a sok könnyhullatás,<br/>Azért siess, térj meg idejében,<br/>Amíg el nem jön az aratás!</lines>
+    </verse>
+  </lyrics>
+</song>

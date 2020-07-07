@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>307. Isten hív, te el ne küld</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten hív, te el ne küldd, ő látja sorsodat!<br/>Ne küld el, ha igéje mélyen szívedbe hat!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Lásd, ő szeret, még így is szeret, elveszi bűneidet,<br/>múltad övé, új életért, jöjj és add át szívedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ne küld el, mert az idő eljött, hogy megragadd!<br/>Ne küld el, a lét tűnő, s mint a szél, elsuhan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mondj igent, mert hőn szeret és meghalt, hogy te élj!<br/>Mondj igent, ő célt mutat, életed értelmét!</lines>
+    </verse>
+  </lyrics>
+</song>

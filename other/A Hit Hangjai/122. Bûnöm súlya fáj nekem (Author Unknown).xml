@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>122. Bûnöm súlya fáj nekem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bűnöm súlya fáj nekem, <br/>Könnyben ázik bús szemem, <br/>Vétkemért nincs semmi bér,<br/>Csak a bűnt eltörlő vér…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Minden vágyam Téged hív,<br/>Érted lángol, ég e szív. <br/>Minden bűnöm bánom már, <br/>Jézus, jöjj, a szívem vár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bár a szívem fáj nagyon,<br/>Újítsd azt meg, Jézusom!<br/>Bűnöm éget, mint a tűz,<br/>Szívem kínja hajtva űz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nem kívánok semmi mást,<br/>Mint szívemnek gyógyulást;<br/>Lásd, e szív oly gyönge már,<br/>Vedd le rólam bűnigám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szívem vágyát áldd meg hát,<br/>Végy Te benne lakozást!<br/>Töltsd be árva életem <br/>Boldogsággal, Mesterem</lines>
+    </verse>
+  </lyrics>
+</song>

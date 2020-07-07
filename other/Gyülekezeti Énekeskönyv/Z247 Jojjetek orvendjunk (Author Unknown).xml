@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-29T16:38:33">
+  <properties>
+    <titles>
+      <title>Z247 Jojjetek orvendjunk</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 v2 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjjetek, örvendjünk az Úr elõtt, <br/>Ujjongjunk Kõsziklánk elõtt!<br/>Menjünk eléje hála’dással, <br/>Ujjongjunk énekszóval;<br/>Nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Õ az Úr minden nép fölött, <br/>Király Õ királyok fölött.<br/>Kezében van a föld mélysége, <br/>A világ összes teremtménye;<br/>Nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Menjünk, boruljunk le, <br/>menjünk, hajoljunk meg, <br/>Essünk térdre alkotónk, az Úr elõtt! :/<br/>Õ az Úr! Õ az Úr!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/: Menjünk, boruljunk le, <br/>menjünk, hajoljunk meg, <br/>Essünk térdre alkotónk, az Úr elõtt! :/<br/>Õ az Úr! Õ az Úr! Õ az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

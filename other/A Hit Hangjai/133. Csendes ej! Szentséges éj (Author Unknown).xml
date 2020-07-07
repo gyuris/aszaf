@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>133. Csendes ej! Szentséges éj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csendes éj! Szentséges éj! <br/>Mindenek nyugta mély, <br/>Nincs fent,más<br/>csak a szent szülepár. <br/>Drága kisdedük álmainál; <br/>Szent Fiú, aludjál! <br/>Szent Fiú, aludjál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Csendes éj! Szentséges éj!<br/>Angyalok hangja kél, <br/>Halld a mennyei halleluját,<br/>Szerte zengi e drága szavát: <br/>Krisztus megszületett,<br/>Krisztus megszületett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Csendes éj! Szentséges éj!<br/>Szív örülj, higgy, remélj! <br/>Isten szent Fia hinti reád<br/>Ajka vigaszt adó mosolyát; <br/>Krisztus megszabadít,<br/>Krisztus megszabadít.</lines>
+    </verse>
+  </lyrics>
+</song>

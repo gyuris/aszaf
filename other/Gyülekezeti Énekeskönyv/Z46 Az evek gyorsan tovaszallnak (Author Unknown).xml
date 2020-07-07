@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Z46 Az evek gyorsan tovaszallnak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az évek gyorsan tovaszállnak, <br/>Ahogy a szél a szárnyain.<br/>Idõk Ura majd fordít egyet <br/>Az élet könyve lapjain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>A napokat Te adod nékünk, <br/>Hadd töltsük csendben, boldogan,<br/>És ha a könyvben hajtasz egy oldalt, <br/>Én újra rád bízom magam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Te írod arra szent vonással, <br/>Amit a szívünk meg nem ért.<br/>De hitben élünk gyõzedelmet, <br/>Legyen nappal vagy éjsötét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. És ez az év majd hogy ér véget, <br/>Azt egyedül Te tudhatod.<br/>Az életem ott van kezedben, <br/>Benned elrejtve ott vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>626. Ó, szívem, jól vigyázz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, szívem, jól vigyázz, <br/>Sok ellenség tör rád,<br/>A bűn zsoldja csak kín és gyász, <br/>Jól küzdj ellene hát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Csak gyáva szolga fél: <br/>Te harcolj hitedért!<br/>Az győz, ki imádsággal él, <br/>S az útról le nem tér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Még győznöd kell neked, <br/>A küzdés tart tovább, <br/>De végül majd fönt átveszed <br/>Az Úrtól koronád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Légy sírig hűséges, <br/>és légy hitben erős; <br/>Erőért az Úrhoz siess, <br/>Fönt pálmát nyer, ki győz!</lines>
+    </verse>
+  </lyrics>
+</song>

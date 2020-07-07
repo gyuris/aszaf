@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Z423 Testvereim jertek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Testvéreim jertek, zengjen énekünk, <br/>Mert jó és kegyelmes a mi Istenünk.<br/>Õ szeretet minket, Szent Fiát adá, <br/>Elveszett lelkünket, hogy megváltaná.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ajkunk zengjen hálatelten <br/>Õt dicsérõ éneket, <br/>Mert megváltott, megbocsátott <br/>És ad örök életet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Áldjuk leborulva nagy szeretetét, <br/>Lábaihoz hullva, dicsérjük nevét.<br/>Jézus közelében boldog a lelkünk, <br/>Vére érdemében üdvözülhetünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. E zarándokúton Jézus jár velünk, <br/>Benne bízva folyton menny felé megyünk. <br/>Utunk véget ér majd nemsokára már, <br/>Jézusnál odafent lelkünk üdve vár.</lines>
+    </verse>
+  </lyrics>
+</song>

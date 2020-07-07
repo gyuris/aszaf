@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>352a. Jézus az életem - kánon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus az életem Megváltója <br/>bűnömért adta magát,<br/>Szívem Övé, Tőle, Néki, <br/>Róla zengem a hála dalát.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Te vagy a mindenem</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fogalmam sincs,<br/>Hogy mit csinálnék,<br/>Ha nem ismernélek.<br/>Kinek írnám a dalaimat,<br/>Kinek a zenémet?<br/>Merre tartana az életem,<br/>Melyik istenben hinnék?<br/>Ha nem ismernélek Uram,<br/>Talán már nem is léteznék.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy nekem a tűz,<br/>Hosszú téli éjszakán.<br/>Te vagy a napfény,<br/>Ha őszre jár.<br/>Viharos tengeren a sziget,<br/>Sivatagban a zöld liget.<br/>Csak Te vagy nekem,<br/>Te vagy a Mindenem!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Gőzöm sincsen,<br/>Hogy mit csinálnék,<br/>Ha nem hinnék Benned.<br/>Ha nem tudnám,<br/>Hogy az életemre<br/>Van egy klassz terved.<br/>Mit mindhatnék a srácaimnak,<br/>Amikor kérdezik:<br/>"Apa! Ugye van Mennyország,<br/>És Isten létezik?!"<br/>Isten létezik!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

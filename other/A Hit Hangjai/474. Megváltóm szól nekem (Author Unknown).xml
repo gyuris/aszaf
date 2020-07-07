@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T16:12:56">
+  <properties>
+    <titles>
+      <title>474. Megváltóm szól nekem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Megváltóm szól nekem: <br/>Gyermek, kicsiny erőd? <br/>Nyugtot találsz bennem, <br/>Leszek a segítőd!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézus nyugtot ád, <br/>Szíve megbocsát;<br/>Bűntől szennyes lelkemnek <br/>Vére hoz tisztulást.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szent véred, Jézusom, <br/>Lemossa bűnömet, <br/>Erőd csodás nagyon, <br/>Meglágyít kőszívet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Nincs bennem semmi jó, <br/>Kegyedre érdemes, <br/>Te vagy az Üdvadó, <br/>Ki Istenhez vezetsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha érzem végnapom, <br/>Hogy ím itt a halál, <br/>Bátran elmondhatom; <br/>Jézus mellettem áll.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, áldom Őt,<br/>Ki megváltott,<br/>És a halálból kihozott!</lines>
+    </verse>
+  </lyrics>
+</song>

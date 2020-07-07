@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Fenn a menyben</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy, Ó Uram<br/>A Menny és a Föld Rólad énekel<br/>Eljön minden nép, dícsér<br/>Hódolnak mind a nemzetek</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén:<br/>Minden térd meghajol, minden nyelv megvallja, hogy Te élsz<br/>Fenn a Mennyben új dal szól, imádjátok Jézust, Övé lett a trón<br/>Halleluja, Övé lett a trón</lines>
+    </verse>
+  </lyrics>
+</song>

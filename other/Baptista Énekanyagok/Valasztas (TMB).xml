@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Valasztas</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Borzási Pál<br/>Kelemen Sándor<br/>Kis-Juhász Vilmos<br/>Kiss Lehel<br/>Oláh Lajos<br/>Rajna Ottó<br/>Székely Béla</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Borzási Pál<br/>Kelemen Sándor<br/>Kis-Juhász Vilmos<br/>Oláh Lajos<br/>Rajna Ottó</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kelemen Sándor<br/>Kis-Juhász Vilmos<br/>Oláh Lajos<br/>Rajna Ottó</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kelemen Sándor<br/>Oláh Lajos</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Elnök: Borzási Pál<br/>Alelnök: Kis-Juhász Vilmos<br/>Titkár: Rajna Ottó<br/>Pénztáros: Oláh Lajos<br/>Kelemen Sándor</lines>
+    </verse>
+  </lyrics>
+</song>

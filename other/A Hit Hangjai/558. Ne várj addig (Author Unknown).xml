@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>558. Ne várj addig</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3 Ne várj addig, <br/>amíg rendkívüli jót tehetsz,<br/>Ne várd azt, <br/>hogy fényed legyen nagy!<br/>Azt a munkát,<br/>ami rád van bízva, jól végezd,<br/>Világíts, ahol épp most vagy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Világíts, ahol épp most vagy, <br/>Világíts, ahol épp most vagy!<br/>Aki távol van az Úrtól,<br/>vezesd azt oda, <br/>Világíts, ahol épp most vagy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3 Bűnök sötét éjét <br/>eloszlatni segíthetsz,<br/>Semmi el ne zárja utadat!<br/>Ha csak egy lélek is látja<br/>kicsi fényedet, <br/>Világíts, ahol épp most vagy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3 Látod, itt van minden<br/>tálentumodra szükség,<br/>Ragyogj, mint a szép hajnalcsillag!<br/>Szorgos kezed ossza szét <br/>az élet kenyerét,<br/>Világíts, ahol épp most vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

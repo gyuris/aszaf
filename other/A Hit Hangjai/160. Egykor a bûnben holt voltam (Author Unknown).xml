@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>160. Egykor a bûnben holt voltam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egykor a bűnben holt voltam, <br/>Nem volt reménységem,<br/>De Krisztus vérén megváltott,<br/>Megújult életem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mert drága Jézus életed<br/>Énértem áldoztad, <br/>Most Benned bízva áldalak<br/>Mint hű Megváltómat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Rossz szívem egykor távol volt,<br/>Az Úrtól elszakadt,<br/>De szent keze magához vont,<br/>Így nyertem irgalmat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az Úr jósága végtelen,<br/>Én fel nem mérhetem,<br/>Mint égi balzsam áradt rám, <br/>S meggyógyult a szívem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Most élek újra, de nem én, <br/>Mert bennem Krisztus él.<br/>Ő engem oly nagyon szeret,<br/>Így szívem hisz, remél.</lines>
+    </verse>
+  </lyrics>
+</song>

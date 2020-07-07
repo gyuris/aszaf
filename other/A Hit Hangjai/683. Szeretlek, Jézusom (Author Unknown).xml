@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>683. Szeretlek, Jézusom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szeretlek, Jézusom, tudom, enyém vagy. <br/>E világ örömet nékem már nem ad.<br/>Sosem becsültem örömid oly nagyon: <br/>Ha egykor szerettelek, az most vagyon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szeretlek, mert előbb szerettél engem,<br/>Kereszthalállal megváltottad lelkem. <br/>Tövis korona volt a homlokodon: <br/>Ha egykor szerettelek, az most vagyon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szeretlek Téged,  éltem s halálomban, <br/>Dicsérlek Téged öröm- s bánatomban. <br/>A legvégső percben ezt kiálthatom: <br/>Ha egykor szerettelek, az most vagyon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha Isten trónjánál leszek majd ott fenn, <br/>Az elhagyott nyomort mind elfelejtem. <br/>Ott a koronám tartva majd mondhatom: <br/>Ha egykor szerettelek, az most vagyon.</lines>
+    </verse>
+  </lyrics>
+</song>

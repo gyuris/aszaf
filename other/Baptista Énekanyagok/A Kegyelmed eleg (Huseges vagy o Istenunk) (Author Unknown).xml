@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>A Kegyelmed eleg (Huseges vagy o Istenunk)</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hűséges vagy, ó, Istenünk,<br/>A harcokban nem nekünk kell győznünk.<br/>Csendes vízhez terelgetsz és irgalmadhoz,<br/>Nem választ minket semmi el.<br/></lines>
+    </verse>
+    <verse name="p1">
+      <lines>Most itt áll a néped,<br/>Vár Rád, mint gyermek,<br/>Ki várja, hogy lássa, Atyját.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>A kegyelmed elég,<br/>A kegyelmed elég,<br/>A kegyelmed elég nekem.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Féltő és igaz Isten vagy,<br/>A gyengék által vezetsz másokat,<br/>A megváltásnak énekére bátorítasz,<br/>A néped együtt énekel.<br/></lines>
+    </verse>
+    <verse name="c2">
+      <lines>A kegyelmed elég,<br/>A mennyből jössz közénk,<br/>A kegyelmed elég nekem.<br/>A szerelmed befed,<br/>Elég a kegyelmed,<br/>A kegyelmed elég nekem, nekem.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

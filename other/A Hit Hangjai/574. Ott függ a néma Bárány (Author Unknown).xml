@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>574. Ott függ a néma Bárány</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ott függ a néma Bárány: <br/>A vére földre hull,<br/>Míg dúl körül az ármány, <br/>S a tömeg zúg vadul.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Szent arcát ütleg éri, <br/>És hull rá a vád, <br/>Ő szelíd hangon kéri <br/>Az ég bocsánatát.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Úgy fáj a szívem, nézve <br/>E koronás Királyt,<br/>Mert rút tövis az éke, <br/>Testét kín járja át.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Én térdre hullva kérdem: <br/>Ó, mért szenvedsz, miért?<br/>Ő választ ád szelíden: <br/>Tengernyi bűnödért.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Most hogy rebegjek hálát <br/>A megnyílt öt sebért,<br/>Hogy adta bűnöm árát <br/>Elrontott éltemért?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ím magamról lemondok, <br/>Övé egész valóm,<br/>Így leszek Véle boldog, <br/>Hisz Ő az üdvadóm.</lines>
+    </verse>
+  </lyrics>
+</song>

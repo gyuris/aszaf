@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>309. Isten, ki magas trónon ülsz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten, ki magas trónon ülsz, <br/>Körötted izzó lángú tűz,<br/>Nem foghat fel az értelem, <br/>És mégis úgy hívsz: gyermekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Te vagy az éltünk napja már,<br/>Fényednél lábunk bizton jár,<br/>Mert szívünk ismer és imád, <br/>Mint áldó, védő jó Atyát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Nélküled minden oly sötét,<br/>De Tőled napfény árad szét, <br/>A bűnök árnya tűnik már, <br/>Felragyog ékes szivárvány.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Király és Úr vagy mindenen,<br/>Igazság vagy, és kegyelem.<br/>Trónodnál állva néped kér, <br/>Ó, áldd meg most a Krisztusér'.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Segíts meg minket Istenünk, <br/>Hogy Téged áldjon életünk;<br/>Szívünkből szálljon hódolat, <br/>Mint tiszta, élő áldozat!</lines>
+    </verse>
+  </lyrics>
+</song>

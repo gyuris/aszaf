@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>061. Az én Uram oly hõn szeret engem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Az én Uram oly hőn szeret engem, <br/>Az életét feláldozta értem,<br/>Nem választ Tőle már semmi el,<br/>Ő vezet Lelkével.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Már Jézusé a szívem,<br/>Ő az enyém, tudom,<br/>E földön és a mennyben fenn,<br/>Hol kész van otthonom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Amikor Hozzá felkiáltottam<br/>Megenyhítette minden fájdalmam,<br/>Bűnbetegségből meggyógyított,<br/>Új életet adott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Most öröm, béke tölti be szívem,<br/>A keskeny úton Jézus jár vélem,<br/>Hogy célba érjek, megsegít Ő,<br/>A drága Megmentő.</lines>
+    </verse>
+  </lyrics>
+</song>

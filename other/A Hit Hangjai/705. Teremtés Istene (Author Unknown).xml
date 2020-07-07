@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>705. Teremtés Istene</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Teremtés Istene, Felséges Úr!<br/>Szavadra az élet Szent lángja gyúl. <br/>Mily szép a nagy világ, Mit alkottál, <br/>Uralkodsz fenségben, Őrök Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Megváltás Istene, Édes Atyánk, <br/>Csak Hozzád fordulunk, Halld meg imánk!<br/>Fényeddel űzd el a Bűn éjjelét, <br/>Nyerjük el lelkünknek Békességét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Reménység Istene, Vigasztaló, <br/>Szövetség Istene, Hű Megtartó!<br/>Hatalmad, fenséged, Ó, mily csodás, <br/>Csak Téged illet a Magasztalás.</lines>
+    </verse>
+  </lyrics>
+</song>

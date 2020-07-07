@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Te vagy a legfobb kincsem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy a legfőbb kincsem ebben az életben.<br/>Hogy megismertelek azzal mindent megnyertem.<br/>Örök az élet és örök a nyár, ismerlek már. Örök az élet és örök a nyár, <br/>nekem nem kell más.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A lelkemen ott ég ma is az a jel,<br/>Amit első érintésed égetett fel.<br/>Szerelmeddel átírtad holnapomat,<br/>Beszéded az életnek értelmet ad.</lines>
+    </verse>
+  </lyrics>
+</song>

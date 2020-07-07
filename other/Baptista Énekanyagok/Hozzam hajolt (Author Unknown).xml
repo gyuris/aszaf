@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-22T15:54:37">
+  <properties>
+    <titles>
+      <title>Hozzam hajolt</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Örülnek és örvendeznek majd mindazok<br/>Kik Téged keresnek szüntelen<br/>Örülnek és örvendeznek majd mindazok<br/>Kik magasztalják felséges Neved</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Várván vártam az Urat<br/>És Ő hozzám hajolt<br/>Meghallgatta kiáltásomat<br/>Várván vártam az Urat<br/>És Ő hozzám hajolt<br/>Meghallgatta kiáltásomat<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kivont a pusztulás gödréből,<br/>Hozzám hajolt,<br/>Most kősziklára bizton állhatok<br/>Kivont a pusztulás gödréből,<br/>Hozzám hajolt,<br/>Most kősziklára bizton állhatok<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ajkamra új éneket adott,<br/>Az Ő dícséretét<br/>Hirdetném és elbeszélném tetteit,<br/>De többek, semhogy megszámlálhatnám<br/></lines>
+    </verse>
+  </lyrics>
+</song>

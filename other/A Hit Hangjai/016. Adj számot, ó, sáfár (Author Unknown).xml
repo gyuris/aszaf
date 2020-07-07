@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>016. Adj számot, ó, sáfár</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Adj számot, ó, sáfár, Így szól az Úr tenéked! <br/>Mert tudni szeretné, Hogy munkádat mint végzed. <br/>Ahol hűséget lát, Nagy örömmel dicsér, <br/>De a hűtlenségen Kemény szava ítél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Adj számot, ó, sáfár, A rád bízott olajról! <br/>Hallottad a kérést Sok szűkölködő ajkról?<br/>Ha adtál szívesen Gyógyírt, hűs kenetet, <br/>Az irgalmas Úrnál Találsz örök helyet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Adj számot, ó, sáfár, A csűrbe zárt búzáról! <br/>Szegények bús szava Kért közelben és távol. <br/>Ha táplált éhezőt Megszegett kenyered, <br/>Majd örök mannát ád Ott fenn az Úr neked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Adj számot, ó, sáfár, A könyvedet hogy írod?<br/>Mert hamis mértékkel Megáshatod a sírod. <br/>Ha földi éltedben Nincs folt, Nincs rút csalás, <br/>Mint okos szolgára Vár felmagasztalás!</lines>
+    </verse>
+  </lyrics>
+</song>

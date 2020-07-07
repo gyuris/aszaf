@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>599. Ó, jöjjön el, Urunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, jöjjön el, Urunk, a Te országod, <br/>Hozd el a béke drága nappalát,<br/>Szent bölcsességed, a Te igazságod <br/>A világ minden táját járja át!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, jöjjön el, Urunk, a Te országod, <br/>A békehon, a szeretet hona!<br/>Melyért a szívünk naponként imát mond, <br/>Urunk, hozd el hozzánk országodat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, jöjjön el, Urunk, a Te országod, <br/>Űzd el az éj sötét, hideg ködét,<br/>Hogy minden szívben a Te királyságod, <br/>Ragyogjon égi fényben mielébb!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, jöjjön el Urunk a Te országod, <br/>Víg ének zengjen völgyön és hegyen!<br/>Árasszon éltet égi társaságod, <br/>Múljék a régi, minden új legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

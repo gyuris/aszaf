@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>373. Jézusomnak kínjait ha nézem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Jézusomnak kínjait ha nézem, <br/>Bánat tölt el s fájdalom;<br/>Gyötrelmeit szinte én is érzem, <br/>Sebeit ha számolom.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ó, bár el ne múlnék ez az érzés, <br/>Szívemből a szánalom és féltés; <br/>Látnám Őt, a szenvedőt, <br/>Golgotán elvérezőt!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Térdre hullva, a kereszt kínfáját <br/>Bánattal most átfogom,<br/>Könnyeim hadd mossák az Úr lábát, <br/>Alázattal csókolom.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Látom, amint szemei megtörnek, <br/>Szívét miként adja át a tőrnek,<br/>Sebéből víz s vér folyik, <br/>Szent feje lehanyatlik.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Halálravált Jézusom ha nézem, <br/>Szívem fájón megremeg.<br/>Áldozatát ki érti egészen? <br/>Kínjait ki méri meg?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jézus végső éji gyötrődése, <br/>Halála és eltemettetése:<br/>Mindez az én lelkemért, <br/>Drága ár volt üdvömért!</lines>
+    </verse>
+  </lyrics>
+</song>

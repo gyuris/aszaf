@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>319. Isten szívén megpihenve</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Isten szívén megpihenve Forrjon szívünk egybe hát, <br/>Hitünk karja úgy ölelje Édes Megváltónkat át!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ő fejünk, mi Néki teste, Ő a fény, mi színei; <br/>Mi a hívek, Ő a Mester, Ő miénk, mi Övéi.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Szeretetben összeforrva Egy közös test tagjai, <br/>Tudjuk egymásért harcolva, Ha kell, vérünk ontani!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Úgy szerette földi nyáját, <br/>S halt meg értünk jó Urunk: <br/>Fájna Néki, látva minket, Hogy szeretni nem tudunk.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Nevelj minket szent egységre, Mint Atyáddal egy Te vagy, <br/>Míg eggyé lesz Benned végre Minden szív az ég alatt;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Míg Szentlelked tiszta fénye Lesz csak fényünk és napunk, <br/>S a világ meglátja végre, <br/>Hogy tanítványid vagyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

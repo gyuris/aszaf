@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+  <properties>
+    <titles>
+      <title>Nem ad ilyet senki mas csak Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mikor olyan összetört a szíved,<br/> Nem adod a nagymenõt a lázadót,<br/> Menekültél sokszor mégis így lett,<br/> Belül az a hang ma végre szól,<br/> Leporolod azt a régi könyvet,<br/> Belelapozol és újra szomjazol,<br/> Lepereg az arcodon a könnyed,<br/> Ki tud  befogadni ennyi jót?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem ad ilyet senki más csak Jézus, neve beragyogja minden évszakod,<br/> Ugye milyen messze már a rég\' út?<br/> Utad olyan tiszta, mint a hó,<br/> Nem ad ilyet senki más csak Jézus,<br/> Mert ki az aki mindig lát és él,<br/> Ki az aki megbocsát mindenen túl, gyere csak és mond mi fáj,<br/> Ha tele van a nagy pohár, a szíved ahogy van csak tárd az Úr elé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines> 2. Hazugok a pillanatnyi vágyak,<br/> Mire oda érsz már látod délibáb,<br/> Nem igaz a csillogás a bánat,<br/> Darabokra hull a szép virág,<br/> Sohasem a láthatókra nézni,<br/> Ez az amit megtanulsz sok éven át,<br/> És ami a világot úgy emészti<br/> Te belül azt mégsem éled át!</lines>
+    </verse>
+  </lyrics>
+</song>

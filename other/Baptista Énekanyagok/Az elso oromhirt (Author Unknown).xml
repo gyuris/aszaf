@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az elso oromhirt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4.Az első örömhírt az angyal mondta,<br/>A pusztában virrasztó pásztoroknak.<br/>Mikor éjnek idején elnémult a táj,<br/>Mikor összebújt fázón az alvó juhnyáj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines> Örömhír, örömhír, örömhír nektek: Izráel Királya megszületett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4.Ott messzi keleten egy csillag kigyúlt,<br/>És tündöklő fénnyel az égen vonult,<br/>Csudaszépen ragyogott és szórta a fényt,<br/>Ilyen égi jelt nem látott senki se még.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4.És ott napkeleten a bölcsek nézték<br/>A csillagnak fényét és felismerték:<br/>„Íme, megjött a Király” – kit népek vártak,<br/>El is indultak hittel és rátaláltak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4.Ma szívünk zengi már a hit himnuszát,<br/>És dicséri, áldja a mennynek Urát,<br/>Kinek szent szavára lett a Föld és az Ég,<br/>Fia vérén nyert üdvöt az emberiség!</lines>
+    </verse>
+  </lyrics>
+</song>

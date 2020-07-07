@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>252. Halld, mint zengi angyal hirnök</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Halld, mint zengi angyal hírnök: <br/>„Dicsőség az Istennek!<br/>Békesség legyen a földön,<br/>Irgalom az embernek!”</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Örvendezzen minden nemzet, <br/>Krisztus Jézus megszületett,<br/>Betlehemben jászolágy <br/>Rejti Isten Szent Fiát.<br/>Halld az angyalok szavát, <br/>Áldd az újszülött Királyt!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Értünk hagyta el a mennyet, <br/>Fényes, égi otthonát,<br/>Tiszta szűztől megszületett, <br/>Mint kisgyermek jött hozzánk.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Benne testet öltött Isten, <br/>Hódoljon meg Néki minden!<br/>Szívünk hála tölti el: <br/>Velünk van Immánuel!<br/>Halld az angyalok szavát,<br/>Áldd az újszülött Királyt!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Üdv annak, ki Élet Napja, <br/>Békesség Fejedelme,<br/>Éltét a világért adta <br/>Lelkünk nagy Megmentője!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Fölemelt a porból minket, <br/>Újjászülte életünket,<br/>Nála van a gyógyulás, <br/>Bűnösnek a megváltás.<br/>Halld az angyalok szavát, <br/>Áldd az újszülött Királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

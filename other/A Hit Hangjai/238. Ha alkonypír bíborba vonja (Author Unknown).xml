@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>238. Ha alkonypír bíborba vonja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha alkonypír bíborba vonja<br/>Az esti égnek fellegét <br/>Eltűnik már a nap sugára, <br/>S madár daloktól zeng a lég;<br/>Hálával megtelik a szív, <br/>És minden áhítatra hív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bár hallgatag a rét virága, <br/>De szótlan is imát rebeg, <br/>És színpompás kelyhét kitárva,<br/>Fejét szelíden hajtja meg. <br/>Az égbe küldi illatát, <br/>Az Alkotóhoz sóhaját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Oly kedves a hűs esti élet, <br/>Mikor minden nyugodni tér, <br/>Ó, ember,<br/>int a szép természet <br/>S a csendben elközelgő éj: <br/>Légy telve hálaérzettel, <br/>Te is imában mélyedj el</lines>
+    </verse>
+  </lyrics>
+</song>

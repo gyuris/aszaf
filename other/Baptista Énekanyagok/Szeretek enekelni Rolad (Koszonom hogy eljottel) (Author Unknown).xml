@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Szeretek enekelni Rolad (Koszonom hogy eljottel)</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p2 c1 p1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Köszönöm, hogy eljöttél<br/>És a kereszten<br/>Helyettem szenvedtél!<br/>Köszönöm, hogy szerettél<br/>És a szerelmeddel<br/>Szabaddá tettél!<br/></lines>
+    </verse>
+    <verse name="p1">
+      <lines>Most már nem engedlek el,<br/>A lelkem ragaszkodik hozzád!<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szeretek énekelni Rólad,<br/>Magasztalni Neved<br/>Oly jó vagy hozzám,<br/>Kiválasztottál<br/>Szívemben lángra gyúlt a hála<br/>Azért, amit tettél:<br/>Magadhoz vontál,<br/>Életet adtál<br/>Nekem.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönöm, hogy kerestél,<br/>És nem adtad fel,<br/>Míg Tiéd nem lettem én!<br/>Köszönöm, hogy bennem élsz,<br/>És napról-napra<br/>Benned élhetek én!<br/></lines>
+    </verse>
+    <verse name="p2">
+      <lines>Uram, nem engedlek el,<br/>A lelkem ragaszkodik hozzád!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Van egy osveny</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Van egy ösvény,<br/>A neve szűk út,<br/>A mély völgy sivatagán<br/>Puszta földjén<br/>Van egy hűs kút,<br/>Megmentő vize vár.<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Van egy térkép, azon régtől<br/>Kijelölték, hol a cél,<br/>Ahol Te vársz ránk az égből,<br/>Ahol az út véget ér.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te az Első és Utolsó,<br/>Aki volt és aki él,<br/>Vezess fentről, Szabadító,<br/>Halld meg szívünk kérését.<br/></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Van egy zászló, lobog széltől,<br/>Viszi elszánt csapatát<br/>A világból hazatérő<br/>Útja pusztán halad át.<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Zeng a kürtszó,<br/>Itt a végső nagy idő,<br/>Készül a nép,<br/>Szeretet hív még a mennyből,<br/>Ahol az út véget ér.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy, szent vagy,<br/>És jó, fénylő és méltó<br/>Szent vagy, szent vagy, Mindenható.<br/>Halleluja, halleluja, halleluja,<br/>Halleluja, halleluja, halleluja.<br/></lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Van egy ösvény,<br/>A neve szűk út,<br/>A mély völgy sivatagán<br/>Puszta földjén<br/>Van egy hűs kút,<br/>Megmentő vize vár.<br/></lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Van egy térkép, azon régtől<br/>kijelölték, hol a cél,<br/>Ahol Te vársz ránk az égből,<br/>Ahol az út véget ér.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

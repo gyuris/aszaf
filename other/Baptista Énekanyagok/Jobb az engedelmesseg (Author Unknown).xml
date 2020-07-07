@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Jobb az engedelmesseg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jobb az engedelmesség, mint az áldozat.<br/>Nekem ne add a pénzed, az életed add!<br/>Tudom, hallottad, mondtam: "Eljövök hamar",<br/>De téged ez rég nem zavar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olyan sok a szép szó a szeretetrõl,<br/>De te nem teszel többet csak beszélsz errõl.<br/>Látom előre könnyeidet arcodon,<br/>Ha elém állsz a nagy napon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Figyelem imád minden nap reggelén.<br/>Miért nem hallod meg mit mondok Én?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jobb az engedelmesség, mint az áldozat.<br/>Többet várok, mint hétvégi alkalmakat.<br/>Nálam elolthatod szomjad élő vízzel,<br/>Mért csak vasárnap reggel jössz el?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jobb az engedelmesség, mint az áldozat, Nekem tüzes szív kell, nemcsak meleg szavak, Mert mindenkinek érdem szerint fizetek,<br/>Ha eljövök megint hamar,<br/>Ha eljövök megint hamar,<br/>Ahogy mondtam, eljövök hamar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>593. Ó, hogy szeresselek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, hogy szeresselek <br/>Hűn s igazán, <br/>Mindjobban Tégedet? <br/>Halld meg imám!<br/>Megváltóm, Tégedet, <br/>Megváltóm, Tégedet <br/>Mindjobban, hőn Szeresselek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kerestem másfelé <br/>Az üdvömet, <br/>De szívem nem lelé <br/>Azt, csak Benned. <br/>Segíts, hogy Tégedet, <br/>Segíts, hogy Tégedet <br/>Mindjobban, <br/>hőn Szeresselek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Habár gond, <br/>fájdalom nyom untalan, <br/>Mégis mindenkoron <br/>Ez lesz szavam: <br/>Hogy Jézus, Tégedet, <br/>Hogy Jézus, Tégedet <br/>Mindjobban, <br/>hőn Szeresselek</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>770. Zúgó szélnek zendülése</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Zúgó szélnek zendülése <br/>Hangzik már a mennyekből. <br/>Vigasztalás teljessége, <br/>Isten ígért Lelke, jöjj!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hintsd a földön szerteszéjjel <br/>A szent igemagvakat!<br/>Így oszlik a sötét éjjel, <br/>S bűnnek rabja lesz szabad.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Élettel a holtra hatni <br/>Jöjj, ó, pünkösd Lelke, jöjj!<br/>A vetésre esőt adni <br/>Bő áldással zúgj, ömölj!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dúsan nő majd nemsokára <br/>Szívbe hintett szent Igéd, <br/>S ha eljössz az aratásra, <br/>Néped örökébe lép.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Üdvözlégy, te örök hajnal, <br/>Emelkedj föl, fényes nap!<br/>Minden szívet tölts be lánggal, <br/>Várunk, szent tűzáradat!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Oldd fel nyelvünk némaságát, <br/>Bátran szólni adj erőt, <br/>Terjessze az Úr országát <br/>Győzelmesen szent erőd!</lines>
+    </verse>
+  </lyrics>
+</song>

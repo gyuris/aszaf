@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>szivemben öröm dalol</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szivemben öröm dalol, öröm dalol <br/>Az én szivemben<br/>Az én szívemben, az én szivem szívemben<br/>Öröm dalol, öröm dalol az én szívemben<br/>Jézust dícsérem.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>/:Boldog a szívem, mert velem van a menny<br/>Az Õ kegyelme oly boldogitó:/</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Szívemben béke dalol, béke dalol<br/>Az én szívemben<br/>Az én szívemben, az én szívemben<br/>Béke dalol béke dalol, az én szívemben<br/>Jézust dícsérem.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Szívemben nyugalom van, nyugalom van<br/>Az én szívemben, <br/>Az én szívemben, az én szívem szívemben<br/>Nyugalom van, nyugalom van az én szívemben<br/>Jézust dícsérem.</lines>
+    </verse>
+  </lyrics>
+</song>

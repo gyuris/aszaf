@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Meghivtal hogy vizre lepjek (Oceans)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Meghívtál hogy vízre lépjek,<br/>Hol nélküled elsüllyedek<br/>Ebben megtalállak téged,<br/>A mélységben megtart hitem.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>És nagy neved hívom én,<br/>És felnézek a vizek fölé<br/>Ott látlak én;<br/>A lelkem Benned megpihen.<br/>Enyém vagy és én tied.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A mélységnél nagyobb kegyelmed,<br/>Mely elvezet és tart engem.<br/>Ha elbuknék és nagyon félnék,<br/>Te nem hagysz el és nem inogsz meg.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lélek add, hogy benned<br/>Teljesen megbízzak<br/>A vízen bátran veled járjak,<br/>Hogy bárhová hívsz menjek<br/>Vigyél tovább,<br/>Mint a lábam tudna menni<br/>Taníts teljes hittel járni,<br/>Jelenlétedben élni.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

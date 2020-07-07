@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>515. Minden szív, minden nép</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Minden szív, <br/>minden nép, hív ez ének: <br/>Fordulj Isten arca felé!<br/>Nincs Úr kívüle földön, égen, <br/>/: Ő a szeretet, a fény. :/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Pirkad már, <br/>virrad már, hozsánna!<br/>Egyhamar tündököl a dél; <br/>És lesz a föld <br/>Krisztus országa: <br/>Béke, szeretet és fény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Minden szív, minden nép, hív e szózat: <br/>Tárd ki Istennek magadat, <br/>Engedd Néki át minden útad, <br/>/: Lelke diadalt arat! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Minden szív, <br/>minden nép, <br/>Haldd e jó hírt: <br/>A halálon van győzelem. <br/>Krisztus csak az út, <br/>örök élet, <br/>/: Vedd és a tied leszen! :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Minden szív, minden nép, <br/>lásd Megváltód!<br/>Összetörve bűnrabbilincs. <br/>Csak Benne igaz a szabadság, <br/>/: Mindig csak Őrá tekints! :/</lines>
+    </verse>
+  </lyrics>
+</song>

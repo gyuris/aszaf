@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Anyam szava fulembe cseng</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyám szava fülembe cseng<br/>Reám tekint szelid szeme<br/>Érzem csokja leheletét<br/>Simogató kezét</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram hozzád száll imám<br/>Áldd meg drága jó anyám<br/>Már itt e földön s e lét után<br/>A menybe oda át</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nemes szívét érzi szívem<br/>Mikor értem imát rebeg<br/>Látom arcát mosolyban ég<br/>Érzem szeretetét</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Édesanyám mit adjak én<br/>A sok álmatlan éjjelért<br/>Hálás leszek érte neked <br/>Fogadd szeretetem</lines>
+    </verse>
+  </lyrics>
+</song>

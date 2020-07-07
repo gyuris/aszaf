@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>391. Jó Pásztorom, terelgesd</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jó Pásztorom, <br/>terelgesd bárányod, <br/>Szűkségem van Rád, Uram! <br/>Oly szép zöldellők a Te mezőid, <br/>Oly jól érzem ott magam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Kedves Jézus, drága Jézus, <br/>Véred énértem kifolyt.<br/>Kedves Jézus, drága Jézus, <br/>Kezed a mélyből kivont.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A Te hívó szavad kedves nékem, <br/>Hogyha szólítsz, örülök. <br/>Lábad nyomán <br/>követlek készséggel <br/>Többi juhaid között..</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mikor tévelyegtem a mélységben, <br/>Te vontál ki engemet, <br/>Drága véred árán megmentetted <br/>Haláltól a lelkemet</lines>
+    </verse>
+  </lyrics>
+</song>

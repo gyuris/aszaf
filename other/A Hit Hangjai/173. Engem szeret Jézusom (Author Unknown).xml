@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>173. Engem szeret Jézusom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Engem szeret Jézusom,<br/>Bibliámból jól tudom,<br/>Mind övé a kisgyermek,<br/>Erőt ád a gyengéknek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Úgy van, Ő szeret,<br/>Ő szeret nagyon,<br/>Úgy van, Ő szeret,<br/>Igéjéből tudom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus értem szenvedett,<br/>Megnyitotta az eget,<br/>Bűnömtől megtisztított, <br/>Gyermekévé fogadott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jézus szeret, velem van,<br/>Őriz minden utamban,<br/>Mennybe viszi gyermekét,<br/>Ott dicsérem szent Nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

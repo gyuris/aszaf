@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-10T15:12:40">
+  <properties>
+    <titles>
+      <title>Maretul har</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Măreţul har m-a mântuit<br/>Pe mine din păcat.<br/>Pierdut eram, dar m-a găsit,<br/>De moarte m-a scăpat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lanţul s-a frânt, azi liber sunt,<br/>Răscumpărat prin sânge sfânt<br/>Şi-n mila Sa, mi-a dat în dar,<br/>Iubirea Lui, Măreţul Har.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Măreţul har m-a învăţat<br/>S-o rup cu orice rău.<br/>Ce scump mi-e azi tot harul dat;<br/>Trăiesc prin har mereu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Dureri, batjocuri, prigoniri,<br/>Adesea-m întâlnit;<br/>Prin harul marii Lui Iubiri<br/>Eu toate-am biruit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Prin har ajunge-voi în cer<br/>Cu slavă îmbrăcat,<br/>Şi voi slăvi în veşnicii<br/>Pe Cel ce har mi-a dat.</lines>
+    </verse>
+  </lyrics>
+</song>

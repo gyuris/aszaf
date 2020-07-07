@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Szivbol dicserlek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívből dicsérlek <br/>Neved  magasztalom <br/>Szerelmed mélyebb <br/>Mint elmondhatom </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Előttem jársz <br/>Követlek utadon <br/>Minden vágyam <br/>Hogy Hozzád szálljon fel dalom </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívemben Te erősítesz meg <br/>Éjszaka nem fogy el a fény <br/>Minden lélegzetem hirdeti <br/>Kegyelmedet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elmémben csak Te vagy a győztes <br/>Lelkemben a trón a Tiéd <br/>Életem megérintetted <br/>Tűzben ég</lines>
+    </verse>
+  </lyrics>
+</song>

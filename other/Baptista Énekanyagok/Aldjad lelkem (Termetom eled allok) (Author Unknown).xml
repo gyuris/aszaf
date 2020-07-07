@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>Aldjad lelkem (Termetom eled allok)</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v1 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Teremtőm, eléd állok,<br/>Szívem Neked kitárom,<br/>Ismerd meg lelkem melyét,<br/>Lényem minden rezdülését.<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hálámat eléd hozom,<br/>Hitem ma is megvallom,<br/>Bízom Benned, nem csüggedek,<br/>Kitartok, míg Terád nézek.<br/></lines>
+    </verse>
+    <verse name="p1">
+      <lines>Várunk Rád!<br/>Jöjj közénk tüzeddel!<br/>Nincsen más,<br/>Ki méltó a dicséretre!<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldjad, lelkem, a Menny és Föld Urát,<br/>Áldjad, lelkem, Övé minden imádás!<br/>Áldjad, lelkem, csak Ő méltó rá,<br/>Feltámadt és minket vár<br/>A fenséges Király!<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Minden áldás, minden hála<br/>Csak Téged illet meg,<br/>Arra vágyom, hogy imádatom<br/>Hozzád szálljon fel!<br/>Te hűséges vagy,<br/>Ígéreted sosem szeged meg, Szeretlek,<br/>És teljes szívemből éneklem<br/></lines>
+    </verse>
+  </lyrics>
+</song>

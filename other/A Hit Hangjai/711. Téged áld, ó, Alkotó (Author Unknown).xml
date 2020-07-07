@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>711. Téged áld, ó, Alkotó</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Téged áld, ó, Alkotó, Napsugár és tiszta hó. <br/>Éppúgy műved zordon tél, Mint a nyári forró szél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Őrzöd földnek erejét, Termőfáknak dús nedvét, <br/>Hóval véded a vetést, Így készítesz új termést.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Istenem, Te jó Atyám, Híven gondot viselsz rám. <br/>Légyen bármily zord a tél, Új tavasz jő s élet kél.</lines>
+    </verse>
+  </lyrics>
+</song>

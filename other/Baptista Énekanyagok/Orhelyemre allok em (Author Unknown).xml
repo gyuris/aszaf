@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Orhelyemre allok em</title>
+    </titles>
+    <ccliNo>I 182 em</ccliNo>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Őrhelyemre állok, megállok a bástyán,<br/>hallgatom, hogy mit szól, Isten hangja hozzám.<br/>Úgy vágyom megállni előtte,<br/>Úgy vágyom meglátni arcát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint sok víz zúgását, hallani hangját,<br/>Igazságot szóló Atyának szavát.<br/>Úgy vágyom megállni előtte,<br/>Úgy vágyom meglátni arcát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hófehér haját, bölcs homlokát,<br/>Ízzó szemét, tűz tekintetét...<br/>Úgy vágyom megállni elõtte,<br/>Úgy vágyom meglátni arcát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meglátjuk majd egyszer Őt,<br/>elváltozunk ábrázatára.<br/>Akiben megvan ez a reménység,<br/>Önmagát mind megtisztítja.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Halleluja! Szent az Úr!<br/>Halleluja! Szent az Úr!<br/>Halleluja! Szent az Úr!<br/>Szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

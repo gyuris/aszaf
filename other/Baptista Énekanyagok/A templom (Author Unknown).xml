@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>A templom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Akik szeretik Isten házát,<br/>Mind boldogok, oly boldogok,<br/>Kik lakoznak szent Templomában,<br/>Mind gazdagok, dúsgazdagok,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az ünneplõ nagy sokasággal<br/>Áldást vehetsz, áldott lehetsz,<br/>Újulj hát meg Krisztus kegyelmében!<br/>Hív a kereszt, Vár a kereszt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy te magad is Élõ Templom,<br/>A Léleké, Szentléleké,<br/>Bûntõl megtisztult szívvel haladj<br/>A Menny felé, hazád felé!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A dicsõ égi Jeruzsálem<br/>Énreám vár, tereád vár.<br/>Ott majd a Bárány lesz a Templom,<br/>A nagy Király, örök Király...</lines>
+    </verse>
+  </lyrics>
+</song>

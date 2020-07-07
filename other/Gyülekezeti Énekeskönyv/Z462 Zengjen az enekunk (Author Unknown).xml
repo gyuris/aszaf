@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Z462 Zengjen az enekunk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>Zengjen az énekünk, zengjen háladalt,<br/>Áldott lett életünk, áldjuk az Urat.<br/>Hárfa, lant és gitár zeng új éneket,<br/>Szívünkkel szól a szánk most dicséretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Mikor a Nap felkel ragyogó fényben,<br/>Elhalványulnak mind a csillagok.<br/>Mert a sötétség az sohasem képes<br/>Kioltani a Napot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Így ragyog Krisztusnak megváltó fénye<br/>Kétezer éve már a Golgotán.<br/>Melege átjárja a hideg szívet,<br/>Erõt ad nap nap után.</lines>
+    </verse>
+  </lyrics>
+</song>

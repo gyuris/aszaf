@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Eljott hozzam E</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött hozzám,<br/>mikor még bûnben éltem,<br/>felnyitotta a szemem.<br/>Szolgává lett, magát megalázva,<br/>bûneimért szenvedett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljöttem, hogy áldjam,<br/>csodáljam, imádjam<br/>Azt, ki értem adta önmagát.<br/>Csodálatos Isten,<br/>dicsõséges Bárány,<br/>fogadd el szívem imádatát.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>/ Sosem fogom megtudni azt,<br/>milyen nagy volt az áldozat. / 2x</lines>
+    </verse>
+    <verse name="b2">
+      <lines>/ Hívd segítségül nevét,<br/>és megmenekülsz! / 2x</lines>
+    </verse>
+  </lyrics>
+</song>

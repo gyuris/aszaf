@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>193. Élted tengerén</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Élted tengerén, hogyha szélvész dúl,<br/>Beborul az ég, vihar tép vadul,<br/>Zajló hullám ver, hajlik árbocod, <br/>Megtart-e, vagy elszakad a horgonyod?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Nékünk a remény a horgonyunk,<br/>Jézus, a Szikla az oltalmunk,<br/>Hozzáköt a hűség bennünket,<br/>Szeretete óv, célba visz minket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Ha a hullámok árja elborít,<br/>Veszélyt rejt a sok zátony, sziklaszirt,<br/>Meddig bírja még gyönge csónakod,<br/>Megtart-e, vagy elszakad a horgonyod?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Vihar csendesül, hullám elsimul,<br/>Tested is kihűl, ajkad elnémul,<br/>Minden úgy lesz-é, amint óhajtod,<br/>Megtart-e, vagy elszakad a horgonyod?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Kél a hajnalpír, szemed látja már,<br/>Aranyváros int, fénylő réve vár.<br/>Kiköt-é majd ott viharvert hajód,<br/>Megtart-e, vagy elszakad a horgonyod?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>401. Jöjjetek mondjunk éneket</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjjetek, mondjunk éneket <br/>Az angyal-ezrekkel, <br/>Kik az Úr előtt zengenek <br/>Mind, boldog örömmel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. „Méltó a Bárány!” -harsogják <br/>„Övé a tisztesség!”<br/>A bölcsesség, a gazdagság, <br/>Az üdv és dicsőség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Egykor Előtte minden térd <br/>Imádva leborul, <br/>És áldja Krisztus szent Nevét, <br/>Mert égen s földön Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

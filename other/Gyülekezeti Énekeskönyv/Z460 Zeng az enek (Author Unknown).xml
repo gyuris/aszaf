@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Z460 Zeng az enek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Zeng az ének, zeng a kürt. <br/>Elõre, ifjúság!<br/>Lelki tábor, harcmezõ az egész nagy világ:<br/>Harcba szállunk, mert a bûn <br/>Tombol a föld terén,<br/>A szívünkben szeretet, hit és remény!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>/:Fel, ifjúság! Fel, ifjúság! <br/>Jézus a Fõvezér, fel, ifjúság!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Bátor lélek, bátor szív, ez legyen jelszavunk.<br/>Jézussal mi biztosan diadalt aratunk!<br/>Csak elõre, ifjúság! Gyõzzön a szép, s a jó!<br/>Lengjen magasan a fehér lobogó! <br/>Refrén:</lines>
+    </verse>
+  </lyrics>
+</song>

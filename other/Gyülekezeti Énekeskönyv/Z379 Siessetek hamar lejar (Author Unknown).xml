@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z379 Siessetek hamar lejar</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Siessetek hamar lejár <br/>Kegyelme, mely régóta vár<br/>Ma még lehet, ma még szabad, <br/>Borulj le a kereszt alatt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Elszáll a perc, az életed, <br/>Ma még ha jössz, elérheted.<br/>Ne késs tovább, ne várj tovább, <br/>Ma kérd Atyád bocsánatát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha elkésel, mi lesz veled? <br/>Hogy mented meg az életed?<br/>Bezárul a kegyelmi út, <br/>Lelked örök halálba jut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Én sietek, megyek immár, <br/>Tudom az Úr énrám is vár.<br/>Nem is kések, nem maradok, <br/>Jön az Úr és övé vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

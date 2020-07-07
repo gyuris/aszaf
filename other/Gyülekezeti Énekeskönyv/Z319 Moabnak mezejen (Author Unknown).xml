@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Z319 Moabnak mezejen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Moábnak mezején oly forrón süt a nap, <br/>Csendben és szótlanul, három bús nõ halad. <br/>Gyászfátyol arcukon, szemükbõl könny fakad. <br/>Ó, özvegyek Ura, vedd fel a gondjukat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 .Egy válaszút elõtt, megáll a bús anya, <br/>Megszólal: „Lányaim...“ s itt elcsuklik szava. <br/>Szegény özvegy vagyok, <br/>semmim nincsen nekem, <br/>Térjetek hát haza, ne jöjjetek velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az egyik csókot ad, honába visszatér, <br/>A másik ott marad, szent hûséget ígér: <br/>„Ne küldj el engemet, nem hagylak tégedet, <br/>Néped az én népem, Istened Istenem.“</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Elõttük Betlehem, s egy áldott võlegény, <br/>Ó, Ruth, te boldog nõ, <br/>nem vagy immár szegény. <br/>Elõtted bár sötét, borús az életed, <br/>De szent hûségedért jutalmad megnyered.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Júdának mezején oly forrón süt a nap, <br/>Az aratók után egy gyenge nõ halad. <br/>És gyûjti szorgosan az elhullott kalászt, <br/>Míg Isten ad neki egy hûséges Boázt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Sokszor úgy érzem összeroskadok cm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sokszor úgy érzem, összeroskadok,<br/>többé nem lesznek jó és szép napok...</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nem süt rám napsugár,<br/>nem lesz többé tél se nyár,<br/>lelkem terhével egyedül vagyok!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Éjszakák törnek rám,<br/>és én úgy érzem, megfojt a magány!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Félelem, fájdalom kínozza lelkem,<br/>hogy el sem mondhatom!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Megpróbáltam, hogy<br/>nagy dolgot teszek,<br/>Minden emberhez nagyon jó leszek...</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>És ha megbántanak,<br/>nem lesz szívemben harag,<br/>Ez sem oldotta meg a terhemet.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Mit tegyek ezután?<br/>Mikor tűnik fel újra a szivárvány?</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Lesz-e még megoldás?<br/>Vagy csak a négy fal vesz körül,<br/>semmi más?!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Van egy hely, amit Isten készített,<br/>Csak ott lelsz nyugtot és békességet.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ez a hely a kereszt, ahol Isten szent Fia<br/>Minden emberért életét adta!</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>Még ma jöjj, ahogy vagy,<br/>hisz Jézus Krisztus téged is elfogad!</lines>
+    </verse>
+    <verse name="c3b">
+      <lines>Félelem, fájdalom, eltűnnek végleg<br/>s te élhetsz szabadon!</lines>
+    </verse>
+  </lyrics>
+</song>

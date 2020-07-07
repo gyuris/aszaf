@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>138. Csöpp kicsi gyermek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csöpp kicsi gyermek <br/>Szép jövő, ígéret <br/>Indul az útján, <br/>Hívja már az élet. <br/>Küzdelem várja, <br/>Próba és szép évek, <br/>Légy, Uram, oltalma!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kérjük, ha felnőtt,<br/>Gyermekeddé tedd őt, <br/>Valljon meg hittel <br/>Mint Urat s Megmentőt!<br/>Meg ne hátráljon, <br/>Védd a benned hívőt, <br/>Szent karod hordozza!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Munkára készen<br/>Jót tegyen serényen, <br/>Hadd váljon kinccsé <br/>Minden a kezében!<br/>Bajba jutottat <br/>Szíve s keze védjen; <br/>Tedd, Uram, áldássá!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Csöpp kicsi élet<br/>Napsugaras fényben, <br/>Isteni áldott <br/>Oltalomban éljen!<br/>Testvéri szívek <br/>Éltető körében, <br/>Tartsd meg őt békédben!</lines>
+    </verse>
+  </lyrics>
+</song>

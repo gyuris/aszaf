@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>636. Örvendj, világ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Örvendj, világ: az Úr lejött! <br/>Fogadd a nagy Királyt!<br/>Szíved kitárd, várd készen Őt! <br/>És zengj most glóriát, <br/>Zengj ég, föld, glóriát! <br/>És zengj, és zengj most glóriát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Jézus az Úr, a Megváltó! <br/>Harsogjon énekünk!<br/>Patak és rét, hegy, völgy és tó, <br/>Zengd hát ma örömünk, <br/>Zengd ma nagy örömünk! <br/>Zengd hát, zengd hát  nagy örömünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Fenségesen uralkodik <br/>A nemzetek fölött!<br/>Igazsága, szeretete, <br/>Kegyelme végtelen, irgalma végtelen.<br/>Az Ő kegyelme végtelen!</lines>
+    </verse>
+  </lyrics>
+</song>

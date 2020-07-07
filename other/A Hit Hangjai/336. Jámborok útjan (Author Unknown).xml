@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-29T17:28:21">
+  <properties>
+    <titles>
+      <title>336. Jámborok útjan</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Jámborok útján <br/>nincs kényelem,<br/>Olyan sok rajt' a rög, a tövis.<br/>Bár ez út <br/>keskeny és meredek, <br/>Mégis jó, mert az életre visz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mennybe fel! Egyenest! <br/>Érte jól küzdeni érdemes,<br/>Mennybe fel! Egyenest! <br/>Érte jól küzdeni érdemes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Sokszor oly nehéz a haladás, <br/>Visszatart egyre több akadály. <br/>Hű Urad mindig ád bíztatást. <br/>Nézz csak Rá, <br/>kövesd Őt, meg ne állj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Rövid e földön az életed. <br/>Jól vigyázz, <br/>ne legyen hasztalan! <br/>Ha a jó úton Őt követed, <br/>Célba érsz, <br/>mennybe jutsz, biztosan.</lines>
+    </verse>
+  </lyrics>
+</song>

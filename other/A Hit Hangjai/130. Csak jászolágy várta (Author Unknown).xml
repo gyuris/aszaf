@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>130. Csak jászolágy várta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csak jászolágy várta <br/>Az Isten Fiát, <br/>Nem bíbor, nem bársony, <br/>Sem ékes brokát. <br/>A csillagfény hintett <br/>Rá enyhe sugárt. <br/>Nem vette Őt észre <br/>A bűnös világ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Friss szénán ott szunnyadt<br/>Egy jászol mélyén, <br/>És mindaz, ki látta,<br/>Úgy ámult jöttén. <br/>Elmentek és nézték<br/>Őt az emberek. <br/>A bölcs és a pásztor<br/>Hozzá sietett</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Úr Jézus, itt állok, <br/>Nagy keggyel nézz rám!<br/>És hallgasd meg, kérlek,<br/>Hőn esdő imám. <br/>Add, hogy majd elérjek <br/>E földről Hozzád, <br/>Hol szívem és ajkam<br/>Zeng halleluját.</lines>
+    </verse>
+  </lyrics>
+</song>

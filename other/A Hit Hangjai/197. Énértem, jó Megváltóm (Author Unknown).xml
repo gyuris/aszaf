@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>197. Énértem, jó Megváltóm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Énértem, jó Megváltóm,<br/>elhagytad a mennyet,<br/>Vállaltad a bűnöm átkát<br/>a fény hona helyett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>A vétkemért szenvedtél kínhalált,<br/>Ó, én Uram,<br/>szívem csak Téged áld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szent lényed megalázva <br/>e földre születtél,<br/>Sok szenvedőt és bűnöst<br/>porból fölemeltél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Tevéled, hű Megváltóm,<br/>boldog lett életem,<br/>Ha Te vezérelsz engem, <br/>az üdvöt elnyerem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Uram mily felseges neved</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, mily felséges neved!<br/>Ó, mily felséges neved ezt hirdeti minden műved.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ha látom mindazt amit alkotott kezed, a Holdat, csillagokat, s a kék eget, a szívem úgy csodál, mert gondod van reám, Uram mily felséges neved!</lines>
+    </verse>
+  </lyrics>
+</song>

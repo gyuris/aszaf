@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>285. Hogy fogadjalak Téged</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hogy fogadjalak Téged, <br/>Megváltóm, nagy Király? <br/>Hogy hódoljak Előtted?<br/>Szót ajkam nem talál!<br/>Ó, kérlek, gyújtsd meg bennem<br/>Hit-adta fényedet, <br/>Hogy tisztán lássa lelkem<br/>Nagy dicsőségedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Zöld olajágat s pálmát <br/>Szór Sion Teeléd. <br/>Zeng zsoltárt és hozsannát. <br/>A lelkem most Feléd. <br/>Csak Néked hódol szívem <br/>És dicsér szüntelen, <br/>Készséggel szolgál híven <br/>Az egész életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Elhagytad trónod értem, <br/>Hogy nékem békét hozz;<br/>Lejöttél szánva éltem, <br/>Énhozzám, koldushoz. <br/>A biztos ösvényt égbe <br/>Én balga, elvesztém, <br/>De jöttél, hogy az éjbe <br/>Fényt ragyogtass felém.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ezt jól elmédbe véssed,<br/>Kit bánat ért vagy gyász, <br/>És lelki szenvedésed, <br/>Sok bűnöd megaláz:<br/>Az üdvös segély készen<br/>Az ajtód előtt áll, <br/>Örvendj hát új reményben, <br/>Megváltód földre száll!</lines>
+    </verse>
+  </lyrics>
+</song>

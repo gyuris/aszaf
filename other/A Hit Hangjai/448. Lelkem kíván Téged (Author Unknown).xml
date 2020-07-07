@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>448. Lelkem kíván Téged</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Lelkem kíván Téged, <br/>Megváltó Jézusom, <br/>Véd-pajzsom, a Neved, <br/>Véred boldogságom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Csak Téged, csakis Téged, <br/>Jézus, csakis Téged, <br/>Csak Téged kíván lelkem, <br/>Uram, Téged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Lelkem kíván Téged,<br/>Ó, Jézus, segíts meg, <br/>Hogy mindhalálomig <br/>Híven kövesselek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Lelkem kíván Téged, <br/>Örömben, bánatban, <br/>Te adhatsz csak erőt, <br/>Ha már elfáradtam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Lelkem kíván Téged, <br/>Te légy a vezérem, <br/>Várom ígéreted, <br/>Ó, töltsd be egészen! .</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Lelkem kíván Téged, <br/>Ó, Isten szent Fia, <br/>Mert Véled enyém lesz <br/>Az égi korona!</lines>
+    </verse>
+  </lyrics>
+</song>

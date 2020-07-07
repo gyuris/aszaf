@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>615. Ó, mily hû barátunk Jézus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. Ó, mily hű barátunk Jézus; <br/>Minden bajban megsegít.<br/>Mily jó Elé imádságban <br/>Vinni éltünk ügyeit.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gyakran nyugtalan a lelkünk, <br/>Tévesek az útjaink,<br/>Mert nem vittük hő imában <br/>Isten elé ügyeink.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. Jönnek próbák, kísértések, <br/>Nincsen örömcsillagod? <br/>El ne csüggedj ily órában, <br/>Lépj az Úr elé legott!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ha legnagyobb az ínséged, <br/>Van segítőd, mit se félj, <br/>Hozd az Úrhoz imádságban <br/>Bármi kínoz, higgy, remélj!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. Fáradt vagy és megterhelve, <br/>Jól esnék az enyhülés? <br/>Fáradtak ereje Jézus, <br/>Hozzá jönni, ó, ne késs!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Elhagyatva élsz e földön? <br/>Tedd Rá minden terhedet,<br/>És hozd mindig bizalommal <br/>Az Úr elé ügyedet!</lines>
+    </verse>
+  </lyrics>
+</song>

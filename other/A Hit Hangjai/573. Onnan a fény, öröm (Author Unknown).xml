@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>573. Onnan a fény, öröm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Onnan a fény, öröm, drága honából <br/>Jézusunk áldva néz le ránk. <br/>Ő fog e földről a mennybe vezetni, <br/>Ahol a mi örok szép hazánk,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Boldog lelkek várnak ránk, <br/>Vár a mi mennyei Atyánk, <br/>Égi otthon vár reánk, <br/>Ott van a mi örök szép hazánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Testvéreink várnak ránk nagy örömben, <br/>Kik velünk mondtak hő imát; <br/>Jó volna már együtt lenni a mennyben, <br/>Ahol a mi örök szép hazánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vizsgáljuk meg szívünk minden órában, <br/>Készen talál-e majd az Úr? <br/>Nézzük-e arcát a szent Bibliában? <br/>Lelkünk Hozzá hogyan hasonul?</lines>
+    </verse>
+  </lyrics>
+</song>

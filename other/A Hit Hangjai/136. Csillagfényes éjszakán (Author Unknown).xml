@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>136. Csillagfényes éjszakán</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Csillagfényes éjszakán <br/>Angyal szózat hangzik, <br/>Betlehemnek pusztáján, <br/>Hol pásztornép tanyázik:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pásztorok, ne féljetek, <br/>Vígan örvendezzetek, <br/>Mert földre jött, kit elküldött <br/>Az Úr, az Isten néktek, <br/>A ti üdvösségtek!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Hideg jászol szalmáján <br/>Égi gyermek alszik, <br/>Körülötte szállásán <br/>Halk ének hangja hangzik:</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Imádják a pásztorok, <br/>Tiszta szívű jámborok. <br/>Örvendeznek, hálát zengnek <br/>Az Úr nagy jóvoltáért, <br/>Egyszülött Fiáért.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Csillag támad Keleten, <br/>Látják gazdag bölcsek. <br/>Útra kelnek serényen. <br/>És vélük drága kincsek.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Meglelik a Gyermeket, <br/>Kit a csillag hirdetett; <br/>Imádattal, ajándékkal <br/>Előtte térdre hullnak, <br/>S hódolnak, mint Úrnak.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Menjünk mi is jászlához <br/>Örvendező szívvel,    <br/>Boruljunk le lábához <br/>Mély hódolattal, hittel!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Isten Ő és Megváltó, <br/>Atyánál közbenjáró. <br/>Nem félelmes: nyájas, kedves. <br/>Mint kisgyermek jött hozzánk, <br/>Biztatón mosoly'g ránk.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>5. Karácsonynak ünnepén <br/>Hangozzék víg ének!<br/>Mindenütt a földtekén <br/>Ezt zengjék ifjak, vének:</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Dicsőség az Istennek, <br/>Békesség az embernek!<br/>Az éj elmúlt, hitfény kigyúlt,<br/>Az Isten gyermekké lett: <br/>Nála az üdv s élet!</lines>
+    </verse>
+  </lyrics>
+</song>

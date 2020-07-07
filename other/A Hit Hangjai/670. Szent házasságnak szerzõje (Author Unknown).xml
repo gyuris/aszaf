@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>670. Szent házasságnak szerzõje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szent házasságnak szerzője, <br/>Ó, tekints e két hívőre,<br/>Kik frigyre lépve esdenek,<br/>Hogy Tőled áldást nyerjenek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nézd kegyes szemmel szándékuk,<br/>És teljesítsed hő vágyuk,<br/>Hogy szeretettel, hűséggel<br/>Áldhassák Neved egy szívvel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Tedd szeretetük tartóssá,<br/>És jámborságuk példássá,<br/>Hogy egymás terhét hordozzák,<br/>S hű szívvel <br/>egymást gondozzák!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, bízni tanítsd meg őket,<br/>És óvd, ha bajjal küszködnek,<br/>Légy jóban-rosszban mentsváruk,<br/>Éltük estéjén istápjuk!</lines>
+    </verse>
+  </lyrics>
+</song>

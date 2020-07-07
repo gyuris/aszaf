@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Te vagy a kezdet és a vég</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erős várunk, rád várunk, ó Urunk,<br/>Csak Rád várunk, ó Urunk,<br/>csak Rád várunk, ó Urunk! x2<br/>Felség, világ uralma<br/>Tiéd, örök szabadító.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy a kezdet és a vég, a kezdet és a vég,<br/>Nem rendülsz meg, sohasem fáradsz el.<br/>Védelme vagy a gyengének,<br/>Úr vagy a szükségen,<br/>Mint sasmadár úgy szárnyalunk fel.</lines>
+    </verse>
+  </lyrics>
+</song>

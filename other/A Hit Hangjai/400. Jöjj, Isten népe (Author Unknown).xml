@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>400. Jöjj, Isten népe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11a">
+      <lines>1. Jöjj, Isten népe, szenteld ma<br/>Néki e hajlékot, <br/>Az Úrnak, kinek irgalma <br/>A bűnből megváltott!</lines>
+    </verse>
+    <verse name="v11b">
+      <lines>Széttörte súlyos láncodat, <br/>Megadta szabadságodat, <br/>Hogy újult szívvel énekelj, <br/>Őt áldva háladalra kelj!<br/>Most újolag, <br/>Add szíved az Úrnak!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ó, szeresd szívből hőn tehát <br/>A te hű Istened, <br/>Ki téged soha el nem hágy, <br/>Bármi tör ellened!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ő késztette a szíveket, <br/>Hogy adják segítségüket <br/>E hajlék építéséhez, <br/>Mely Néki s nékünk kedves lesz <br/>Őt áldjátok, Jóvoltát lássátok!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ma híven tégy ígéretet <br/>Az égi Felségnek,<br/>Hogy mindenkor e szent helyet <br/>Betölti dicsének!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Úgy szemléld ékes templomát, <br/>Mint jóságának zálogát; <br/>Hol tisztán hangzik az Ige, <br/>Az üdvösségnek jó híre!<br/>Ó zengjünk hát <br/>Szívből halleluját!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>222. Fénnyel teljes reggel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Fénnyel teljes reggel támadt<br/>A bús, hosszú éj után.<br/>Eltűntek a rémes árnyak<br/>A győzelem hajnalán.<br/>Az Úr fölkelt, s íme, újból</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Világosság fénye gyúlt.<br/>Halál éje elvonult,<br/>Krisztus föltámadt a sírból;<br/>Övé lett a győzelem<br/>Ama húsvét reggelen.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Nézd, a kő már nincs a síron, <br/>Őröket ott ne keress!<br/>Asszonysereg jön az úton, <br/>Jézus él, a sír üres. <br/>Tekintsd meg az Úr fekhelyét,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Láthatsz kendőt, lepedőt,<br/>De itt nem találod Őt; <br/>Angyalszózat hangzik feléd:<br/>E sírban már nincs halott, <br/>Jézus él, föltámadott!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Örvendjetek, hívő lelkek, <br/>Többé ne bánkódjatok, <br/>Vége már nagy inségteknek,<br/>Vígasz nélkül nem vagytok.<br/>Aki meghalt, föltámadott,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>És az élet Ura lett,<br/>Győzött a halál felett,<br/>Minden láncot szétszaggatott;<br/>Fölment Isten jobbjára, <br/>Ő, az ég, s föld Királya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>En Istenem szivem megtort teljesen (Imadsag)</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én Istenem, szívem megtört teljesen<br/>Hozzád hozom örömtelen életem.<br/>Sok még a bűn, ami fogva tartja lelkem,<br/>És nem tudom, hogy hol tegyem le terhemet.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Segíts, Istenem!<br/>Nem maradt más nekem,<br/>Csak te vagy reményem.<br/>Bocsásd meg bűneim<br/>És adj békét nekem!<br/>Adj szabadulást!<br/>Adj, kérlek, gyógyulást a szívemnek,<br/>Hogy örülhessek végre tebenned!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eddig, Uram, téged nem kerestelek,<br/>Nem hittem el, hogy megmenthetsz te engemet.<br/>Nézd most, Atyám, íme elhiszem, hogy rám vársz,<br/>Régóta már tudod életem megoldását.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

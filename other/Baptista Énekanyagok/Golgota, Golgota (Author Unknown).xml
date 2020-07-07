@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Golgota, Golgota</title>
+      <title>A keresztre felnezek en</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A keresztre felnézek én,<br/>Ott szenvedett bűneimért.<br/>Sok vád éri bár, Jézus szótlan áll,<br/>Míg arcul verik, gúnyolják.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyűlölködve szórták Rád a vádakat,<br/>Mégsem ők okozták halálodat.<br/>Bűnöm átka a keresztre szegezett,<br/>Önként meghalt érettem a Szeretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemben szégyen, fájdalom. <br/>Segíts Uram, bűn terhe nyom.<br/>Tenélküled már a kárhozat vár,<br/>Jöjj Jézusom, szabadíts meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma átadom bűnös szívem. <br/>Tőled nyerem új életem.<br/>Nem fojtogat már szégyen és halál,<br/>Érettem mindent vállaltál.</lines>
+    </verse>
+  </lyrics>
+</song>

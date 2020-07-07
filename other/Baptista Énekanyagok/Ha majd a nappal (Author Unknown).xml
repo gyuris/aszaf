@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Ha majd a nappal</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha majd a nappal véget ér, a sötét árnyak éje kél, Elotted minden újjá lesz, meglátod ez csak a kezdet. A rejtett múltra fény derül, a kérdésre válasz kerül, Kegyelmed aki most nem vett, akkor a bánat késo lesz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most Megváltód elotted áll, sebes keze kinyújtva már! A választás terajtad áll, a kárhozat, vagy élet vár. Most Megváltód elotted áll, sebes keze kinyújtva már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Az elmúlás mind közelebb és szívet nyugtát nem leled, A félelem késtségbe ejt, a gond és bú magába rejt. A kárhozat félelme uz, a soha el nem alvó tuz. Szíven szúr a felismerés, amit tettél, az mind kevés.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Egyedül éled életed, neked nem kellet Istened, A számadás napja jön, balján kinek kell majd ülnöd? Epeszto szomoj, emészto láz, a valóságra majd felráz. Hiába mondod: Mit tettem?! Hová lett örök életem?!</lines>
+    </verse>
+  </lyrics>
+</song>

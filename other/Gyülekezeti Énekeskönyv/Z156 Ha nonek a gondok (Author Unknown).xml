@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Z156 Ha nonek a gondok</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha nõnek a gondok, túlárad kegyelme, <br/>Ha munka szorongat, csak Õ ad erõt. <br/>Ha elfog a bánat, újra nyerhetsz irgalmat, <br/>Ha súlyos a próba, békével betölt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Szerelmének nincsen vége, <br/>Mérhetetlen a hûsége, <br/>Ereje, bölcsessége felfoghatatlan. <br/>Gazdagságát, nagy kegyelmét, <br/>Melyre nincs itt földi mérték, <br/>Néked adja mindennap Jézus Krisztusban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ha életed útján elfárad a lelked, <br/>És vége felé jár a testi erõ, <br/>Ha Õreá nézel, megújul a szíved, <br/>Mert az, ki segíthet, csak egyedül Õ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ha szólítod hittel, Õ mindig meghallgat, <br/>Ó, bízzál csak benne, és láthatsz csodát. <br/>Ha engedelmes vagy, az áldás is gazdag, <br/>Ha most szereted, meglátod odaát.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Z380 Soha nem fel mar a szivem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>Soha nem fél már a szívem, <br/>Soha nem fél már a szívem, <br/>Soha nem fél már a szívem, <br/>Mert velem van az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Nem volt nélküle boldogságom, <br/>Ám most életem véle járom, <br/>Kézen fogva vezet Megváltóm, <br/>Róla ezért zeng dalom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Jöjj hát, add a kezed, testvérem, <br/>Járjunk mind a kereszt fényében, <br/>Éljünk boldogan, békességben, <br/>Hisz odaát vár a menny!</lines>
+    </verse>
+  </lyrics>
+</song>

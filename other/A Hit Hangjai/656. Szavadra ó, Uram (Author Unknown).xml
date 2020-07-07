@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>656. Szavadra ó, Uram</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szavadra, ó, Uram, <br/>Íme, jövök Eléd, <br/>S üdvöm véredben keresem, <br/>Mely folyt sok bűnömért.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, nézd, jövök Hozzád, <br/>Uram, tekints énrám! <br/>Moss meg, hintsd rám szent véredet, <br/>Mely folyt a Golgotán!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mert oly szegény vagyok, <br/>Légy mindenem Te most, <br/>És üdvözítő véredben <br/>Egész tisztára moss.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ígéreted szerint <br/>A teljes üdv enyém, <br/>Szívemben édes béke van, <br/>Élő hit és remény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Kegyelmi művedet <br/>Bennem véghez viszed, <br/>S én Téged áldlak boldogan, <br/>Ki most Benned hiszek.</lines>
+    </verse>
+  </lyrics>
+</song>

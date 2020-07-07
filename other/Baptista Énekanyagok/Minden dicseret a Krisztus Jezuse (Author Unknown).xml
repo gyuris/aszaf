@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Minden dicseret a Krisztus Jezuse</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden dicséret a Krisztus Jézusé!<br/>Õ az Úr, a Király, Immánuel,<br/>Õ a mindenség Ura, a Hajnalcsillag,<br/>És uralma mindörökké megmarad.</lines>
+    </verse>
+  </lyrics>
+</song>

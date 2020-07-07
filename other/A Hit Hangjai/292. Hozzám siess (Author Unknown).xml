@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>292. Hozzám siess</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. „Hozzám siess!” -<br/>így szól az Úr neked - <br/>„Megmentem én,<br/>megmentem életed.” <br/>Bús, árva lelked miért kesereg? <br/>Jöjj Hozzá, üdvösséget ad neked!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Halld, Jézus hív! <br/>Halld, Jézus hív!<br/>Halld, Jézus hív! <br/>Halld meg hívó szavát!<br/>Jöjj, add szíved át,<br/>Békét, nyugtot ád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nézd, amit nyújthat e világ neked, <br/>Az mind csalódás, más nem is lehet;<br/>De békét, nyugtot ád az Úr neked,<br/>Halld, még ma néked szól ez üzenet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha előhív majd egykor nagy Bírád, <br/>És bűnöd átkát <br/>Ő mondja ki rád,<br/>Jajszavad, könnyed mit sem ér neked… <br/>Jöjj, siess, add az Úrnak életed!</lines>
+    </verse>
+  </lyrics>
+</song>

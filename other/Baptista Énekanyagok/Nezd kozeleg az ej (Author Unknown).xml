@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Nezd kozeleg az ej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézd közeleg az éj, s nem tudod, hol talál,<br/>A terveket már rég feladtad,<br/>Mikkel kérkedön, büszkén elindultál...<br/>Mész hív a messzeség, célod régen nincsen már.<br/>Emlékek élnek szivedben,<br/>Látod magad elött az Atyai ház falát...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az éj csendesen leszáll, te úgy kiáltanál,<br/>És jól tudod, hogy ugysincs kinek,<br/>Hiszen régen elhagyott már minden jó barát.<br/>Csak mész, hív a messzeség, célod régen nincsen már,<br/>Csak várod, hogy feltünjön a fény,<br/>Amit hajdan láttál, az Atyai ház falát...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A menybe fenn számítanak rád,<br/>Az Atya a kapuban várja tékozló fiát,<br/>Kapsz új ruhát és gyûrût az ujjadra,<br/>Isten vár, Õ soha fel nem adja...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azt mondod: Ez nem érdekel,<br/>Nem a te világod, hívõ nem leszel,<br/>Nem kell, hogy neked papoljanak,<br/>Mindent megoldasz egymagad,<br/>Közben nem látod, hogy elestél,<br/>És nincs erõd, hogy fölkeljél,<br/>A szivedben nincs békesség,<br/>Mióta otthonról eljöttél...       Mert várnak rád...</lines>
+    </verse>
+  </lyrics>
+</song>

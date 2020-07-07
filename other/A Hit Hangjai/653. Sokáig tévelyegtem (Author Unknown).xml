@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>653. Sokáig tévelyegtem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Sokáig tévelyegtem <br/>A bűnök éjjelén,<br/>Úgy meggyötörte lelkem <br/>A kín és rettegés;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>De Jézus eljött értem, <br/>Így hát örvendhetek,<br/>Mert elengedte vétkem, <br/>s mindent jóvá tett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Már jó minden, <br/>most jó minden, <br/>Mert megtaláltam Őt, <br/>ki mindent jóvá tett!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Oly boldog vagyok most már, <br/>Hogy Jézusom szeret,<br/>Az életem nem sivár, <br/>mert jó úton vezet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szent karjával fölemel, <br/>ha szívem csüggedez,<br/>Csak Őt követem híven, <br/>s minden jóvá lesz.</lines>
+    </verse>
+  </lyrics>
+</song>

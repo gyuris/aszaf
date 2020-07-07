@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Isten jó mindekor</title>
+    </titles>
+    <authors>
+      <author>Emma</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Refrén<br/>Isten jó,mindenkor Ő a szívembe új reményt adott,<br/>Isten jó,mindenkor,a sötétben fénye felragyog,<br/>Isten jó, Isten jó mindenkor.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mikor célod nem találod,és az árnyékban bolyongsz<br/>Ne rettegj,Ő vezet téged,megment a gonosztól,<br/>Azt igérte nem hagy el téged,veled lesz mindig,<br/>népe közt megtart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én nem mindig érthetem,mi a terved velem.<br/>Életem kezedben van,amit mondasz nekem,<br/>mindent megteszek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnben éltünk,sötétségben,de Ő meghalt helyettünk<br/>Betöltött Szent Szellemével,és hatalmat vettünk.<br/>Mert kegyelme megtart minket,az Ő nevében győztesek vagyunk.</lines>
+    </verse>
+  </lyrics>
+</song>
