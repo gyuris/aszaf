@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jó Pásztorom nékem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jó Pásztorom nékem az Üdvözítő, <br/>Elhirdetem szeretetét!<br/>Az elmúlás völgyén is átvezet Ő, <br/>Ha lábam a nyomába lép.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Hűs vízhez terel sivár pusztaságban,<br/>Friss mannával táplál az ég.<br/>Ha megsebeznek, <br/>Nála gyógyulás van, <br/>Jó Pásztorom biztosan véd, <br/>Jó Pásztorom biztosan véd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A megmentő kegyelem tündököl rám,<br/>Ha Pásztorom szemlélhetem,<br/>Mint méltatlan, tűnődöm áldozatán: <br/>Ő meghalt, hogy megmenthessen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az úton, ha erőm már lankadozna, <br/>Jó Pásztorom karjára vesz,<br/>Lágy hangja a hitemet bátorítja, <br/>Ha utamon tövis sebez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Hű Pásztorom jön majd a nyája után,<br/>Hogy elvigye Atyánk elé.<br/>És indulunk fenséges lába nyomán<br/>A mennyei akol felé.</lines>
+    </verse>
+  </lyrics>
+</song>

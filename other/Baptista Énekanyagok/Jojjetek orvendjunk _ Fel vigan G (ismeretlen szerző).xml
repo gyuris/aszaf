@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Jojjetek orvendjunk + Fel vigan G</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jöjjetek, örvendjünk az Úr elõtt<br/>Ujjongjunk Kõsziklánk elõtt!<br/>Menjünk eléje hála'dással,<br/>Ujjongjunk énekszóval!<br/>Nagy, nagy Isten az Úr.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Õ az Úr minden nép fölött,<br/>Király õ királyok fölött.<br/>Kezében van a föld mélysége,<br/>A világ összes teremtménye,<br/>Nagy, nagy Isten az Úr!<br/>	<br/>Chorus1<br/>Menjünk, boruljunk le,<br/>Menjünk, hajoljunk meg,<br/>Essünk térdre alkotónk, az Úr elõtt!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Õ az Úr, Õ az Úr!</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Menjünk, boruljunk le,<br/>Menjünk, hajoljunk meg,<br/>Essünk térdre alkotónk, az Úr elõtt!</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Õ az Úr, Õ az Úr, Õ az Úr!<br/>Hálás szívvel Õt magasztald!</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Fel, vígan ünnepelj,<br/>Nevét dicsérd, gyere, énekelj!<br/>Szeret Atyád, az Isten,  <br/>Jöjj, dicsérd Õt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elküldte szent Fiát,<br/>Ki helyettünk halt meg a Golgotán,<br/>Kegyelme által élhetünk,<br/>Nagyon szeret az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj, hát és énekelj, énekelj,<br/>Néki énekelj,<br/>Hálás szívvel Õt magasztald! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

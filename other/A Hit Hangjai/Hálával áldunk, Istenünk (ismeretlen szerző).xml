@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hálával áldunk, Istenünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hálával áldunk, Istenünk,<br/>Mert Fiad elküldted nekünk, <br/>Ki mennyből földre jött közénk, <br/>És így ma Véle élhetünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Elhagyta égi lakhelyét,<br/>Élővé tette az Igét, <br/>Hogy megismerje a világ <br/>Annak megmentő erejét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bűntelen volt Ő, tiszta, szent;<br/>De értünk átokfára ment, <br/>Hogy ott legyőzzön bűnt, halált; <br/>Lelkünk megváltást Benne nyert.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Hálával áldunk, Istenünk,<br/>Mert Fiad elküldted nekünk,<br/>Ki vére által megtisztít, <br/>És így van örök életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

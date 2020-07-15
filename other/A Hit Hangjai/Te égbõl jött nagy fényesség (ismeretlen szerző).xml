@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Te égbõl jött nagy fényesség</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="700"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Te égből jött nagy fényesség, <br/>Napfény, amely földre szállt!<br/>Égi csillag, életszentség, <br/>Űzd el már az éjszakát!<br/>Csodás fényed járja át <br/>A föld minden tájékát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Adj, Urunk, hát szent Igédnek <br/>Gyors és győztes terjedést, <br/>Térdre hullva míg megtérnek <br/>Mind a népek szerteszét, <br/>És az idők végtével <br/>Mint szent Bíró jössz majd el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha Te szólsz, leomlik minden, <br/>Amit a bűn épített, <br/>És a bűnből megtért szívben <br/>Lángra lobban új tüzed. <br/>Hangoztasd hát szent szavad, <br/>Tereld egybe nyájadat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Bár ne lenne oly föld s ország, <br/>Hol Igéd nem hirdetnék!<br/>És a népek elfogadnák <br/>Rendelésed, nagy Felség!<br/>Szűnne már a rút viszály, <br/>Békét zengne minden szá</lines>
+    </verse>
+  </lyrics>
+</song>

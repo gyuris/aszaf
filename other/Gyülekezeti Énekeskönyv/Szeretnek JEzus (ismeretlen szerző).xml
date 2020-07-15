@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Szeretnek JEzus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szeretnék Jézus olyan lenni mint te, <br/>Míg itt a földön fut az életút.<br/>Ha jönnek nehéz, megkísértõ órák,<br/>Ó, gyõzd le bennem mindig a borút.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Szeretném, hogyha nékem adnád kincsed,<br/>A vigasztalás drága, nagy kegyét,<br/>Hogy meghaljon mind bennem, ami régi,<br/>És egyedüli formálom Te légy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Szeretném Jézus életedet élni, <br/>Hogy tükrözzelek tisztán szerteszét.<br/>Ó, oszlasd szét bûnöm ködös homályát,<br/>Hogy felragyogjon ez a drága kép.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Szeretnék Jézus annyi, annyi mindent,<br/>Mit ki sem tudok talán mondani.<br/>Te érted szívem mondhatatlan vágyát,<br/>Szavad valóra tudja váltani.</lines>
+    </verse>
+  </lyrics>
+</song>

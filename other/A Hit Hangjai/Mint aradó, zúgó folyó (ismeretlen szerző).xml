@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Mint aradó, zúgó folyó</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="521"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mint áradó, <br/>Zúgó folyó <br/>Ha zengőn énekel, <br/>Úgy zendülő, <br/>Szívből jövő, <br/>Szép magasztaló énekkel <br/>Mind áldjuk az Istent!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A szent öröm <br/>Csak Tőle jön, <br/>Ha népe rá figyel. <br/>Nehéz úton Jó oltalom: <br/>Nem hagyja a szükségben el, <br/>Ki ráhagyatkozik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mint házadat, <br/>Kérünk, fogadd <br/>E hajlékot, Urunk!<br/>E hely legyen <br/>Szent teljesen. <br/>Ahol Veled találkozunk <br/>Szép lelki egységben!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Az életet, <br/>Az éveket <br/>Ő mérte ki nekünk. <br/>Szolgálatot S erőt adott, <br/>Most zeng hálánk, köszönetünk<br/>A gazdag évekért.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Áldásodért, <br/>Kegyelmedért <br/>Most mind hálát adunk.<br/>Fogadd el, ó, A hódoló, <br/>Téged dicsérő himnuszunk;</lines>
+    </verse>
+  </lyrics>
+</song>

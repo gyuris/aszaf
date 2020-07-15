@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Nyárhoz hasonlít életünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="564"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nyárhoz hasonlít életünk, <br/>Fény és árnnyal tele. <br/>Oly gyorsan fut, rohan velünk, <br/>Mint a vihar szele.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, milyen gyors az idő, <br/>Ó, a vég hamar jő; <br/>Reggel még mi zöldellett, <br/>Az estére hervadt lett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mégis ez élet -bár rövid- <br/>A magvetés szaka,<br/>A kegyidő csak most van itt <br/>És azután soha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. De boldog az, ki e napon <br/>Vet buzgón idelent, <br/>Mert majd arat ott gazdagon <br/>A dicsőségben fent.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Erõs vár a mi Istenünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Erős vár a mi Istenünk, <br/>Jó fegyverünk és pajzsunk. <br/>Ha Ő velünk, ki ellenünk? <br/>Az Úr a mi oltalmunk. <br/>Az ős ellenség Most is üldöz még, <br/>Nagy a serege, Csalárdság fegyvere;<br/>Nincs ilyen több a földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Erőnk magában mit sem ér,<br/>Mi csakhamar elesnénk;  <br/>De küzd értünk a hős Vezér,<br/>Kit Isten rendelt mellénk. <br/>Kérdezed: ki az? Jézus Krisztus az, <br/>Isten szent Fia, Az ég és föld Ura,<br/>Ő a mi diadalmunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. E világ minden ördöge <br/>Ha elnyelni akarna, <br/>Minket meg nem rémítene, <br/>Mirajtunk nincs hatalma. <br/>E világ ura Gyúljon bosszúra: <br/>Nincs ereje már, Reá ítélet vár:<br/>Az Ige porba dönti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Az Ige kőszálként megáll, <br/>Megszégyenül, ki bántja; <br/>Velünk az Úr, táborba száll, <br/>Szentlelkét ránk bocsátja. <br/>Kincset, életet, Hitvest, gyermeket <br/>Mind elvehetik, Mit ér ez őnekik?<br/>Miénk a menny örökre!</lines>
+    </verse>
+  </lyrics>
+</song>

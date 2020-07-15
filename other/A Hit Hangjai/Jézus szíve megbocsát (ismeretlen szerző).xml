@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jézus szíve megbocsát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus szíve megbocsát, vére töröl bűnt, hibát,<br/>Ha megvallod Ő előtte őszintén és igazán.<br/>Hiszen érted szenvedett, nagyon, nagyon szeretett,<br/>Szánja, kéri szegény bűnös életed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézus reád olyan régen vár,<br/>Miért nem nyílik szíveden a zár.<br/>Mire vársz, hisz' oly rövid földi életed,<br/>Mi lesz, ha a kegyelmet így elveszted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hogyha Jézust követed, boldog lesz az életed,<br/>Nem bánod meg soha azt, hogy Néki adtad szívedet.<br/>Boldogan megvallhatod, velünk együtt mondhatod:<br/>Jézus enyém, én meg az övé vagyok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Imádságunk Hozzád száll, drága Jézus, Úr, Király,<br/>Légy itt Úrrá minden szívben teljesen és igazán.<br/>Ó ragadd  meg Lelkeddel és soha ne engedd el<br/>Azt, ki most még nem a tiéd egészen.</lines>
+    </verse>
+  </lyrics>
+</song>

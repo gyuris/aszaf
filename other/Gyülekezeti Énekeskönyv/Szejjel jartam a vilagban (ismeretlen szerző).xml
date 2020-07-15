@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Szejjel jartam a vilagban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Széjjeljártam a világban, <br/>De sok-sok jajra találtam. <br/>Búsan járnak az emberek, <br/>Mert hiányzik a szeretet. <br/>Uram, taníts meg szeretni, <br/>Szívembõl mindent kivetni: <br/>Legyen harag vagy neheztelés, <br/>Hadd tudjak jobban szeretni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Széjjeljártam a világban, <br/>De sok-sok könnyre találtam. <br/>Megfáradtak az emberek, <br/>Csak sírnak és nem örülnek.  <br/>Taníts meg szívbõl örülni, <br/>A terheket mind letenni. <br/>Ha próba jönne, még oly nehéz, <br/>Hadd tudjak benned örülni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Taníts meg hitben megállni, <br/>Erõre benned találni. <br/>Amíg ölel és hordoz e kéz, <br/>Elõre menni nem nehéz.<br/>Taníts még jobban szeretni, <br/>Tebenned bízni, remélni. <br/>Szívem, a szám és az énekem <br/>Dicsérjen Téged szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

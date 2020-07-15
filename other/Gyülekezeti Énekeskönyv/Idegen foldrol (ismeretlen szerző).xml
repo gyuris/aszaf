@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Idegen foldrol</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. Idegen földrõl mint bûnös jöttem én<br/>Téged Uram nem ismertelek.<br/>Elválasztottál magadnak Jézusom,<br/>Bûnösön magam adtam neked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézus, tudom idegen voltam neked.<br/>Jézus, nem hoztam csak régi énemet.<br/>Jézus, mint pogány jöttem feléd,<br/>Légy velem és szolgálok neked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/2. Most már az életem neked adom,<br/>Segíts, hogy járhassak veled.<br/>Te tanítasz meg utadra Jézusom,<br/>Boldog vagyok, hogy nagyon szeretsz.</lines>
+    </verse>
+  </lyrics>
+</song>

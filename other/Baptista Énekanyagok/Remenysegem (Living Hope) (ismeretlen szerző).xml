@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Remenysegem (Living Hope)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">1. Távol kerültem jelenlétedtől,<br/>Nem volt remény, hogy elérjelek.<br/>Kétségbe esve kerestem arcod,<br/>Segítségül hívtam neved.</lines>
+      <lines>Szerelmed áttört a sötétségen,<br/>Megérintetted lelkemet<br/>Ott, a kereszten meghaltál értem,<br/>Minden elvégeztetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">2. Felfoghatatlan, szerelmes Isten,<br/>Ki érthetné meg szándékait<br/>Dicsőségéről lemondott értem,<br/>Magára véve bűneim</lines>
+      <lines>Meg lett bocsátva az összes vétkem,<br/>Saját fiának hív engem<br/>Csodás Megváltóm, mit is mondhatnék,<br/>Benned van reménységem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, dicsérem az Egyetlent<br/>Halleluja, mindenért, mit értem tett<br/>Semmi nem tart fogva már,<br/>Elszakítva minden lánc<br/>Jézusban van a győzelmem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Eljött az a reggel, összetört teste<br/>A sír mélyéből életre kelt<br/>Az első lélegzet már azt hirdette:<br/>Az élet győz a halál felett!</lines>
+    </verse>
+  </lyrics>
+</song>

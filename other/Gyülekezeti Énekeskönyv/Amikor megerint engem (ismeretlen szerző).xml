@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Amikor megerint engem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amikor megérint engem kegyelmed, <br/>Amikor betölt jelenléted, <br/>Amikor melletted elhomályosul minden!<br/>Amikor eléd állok, s meglátlak, <br/>Áthatol rajtam tekinteted, <br/>Amikor hívón nyújtod átszegzett kezed!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/:Imádlak ó, Uram, <br/>Imádlak, Istenem, <br/>Ezért vagyok, és élek örökké!:/</lines>
+    </verse>
+  </lyrics>
+</song>

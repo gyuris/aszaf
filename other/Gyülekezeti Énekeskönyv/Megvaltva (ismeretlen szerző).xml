@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Megvaltva</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Megváltva, mily boldogan vallom: <br/>A Bárány szent vére árán! <br/>Megváltva! Mily végtelen áldás, <br/>Hogy gyermeke vagyok immár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Megváltva, megváltva! <br/>Ó, hála neked,  jó Atyám! <br/>Kegyelmed oly végtelen gazdag, <br/>A szívem csak téged imád!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Megmentve! Most áldom az Urat, <br/>És éneklek új éneket, <br/>Mert fénye a lelkembe ragyog, <br/>Megújítja életemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Megváltóm! Csak téged imádlak, <br/>És hódolva porba hullok, <br/>Ím, zeng, zeng a hódolat hangja, <br/>Míg elõtted leborulok.</lines>
+    </verse>
+  </lyrics>
+</song>

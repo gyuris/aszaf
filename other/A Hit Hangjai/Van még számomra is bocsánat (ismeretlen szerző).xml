@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Van még számomra is bocsánat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="746"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Van még számomra is bocsánat,<br/>Van Megváltó, Ő az enyém. <br/>Nem mar többé a bűn, a bánat,<br/>Mint a fecske ujjongok én.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halálban hevertem, de Ő felemelt,<br/>Az életem ára szíve vére lett. <br/>A bűnöm, Úr Jézus, a bűnöm, Úr Jézus,<br/>Nem vádol többé engemet.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ha kísértő hada tör rám,<br/>Az én Uram védeni jő! <br/>Súlyos keresztem nem is bírnám,<br/>Hű vállára átveszi Ő.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>S hazám felé utamat bár nem tudom, <br/>Előttem jár Krisztus, mint tűzoszlopom. <br/>A véred, Úr Jézus, a véred, Úr Jézus, <br/>Felhőként vezet utamon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Az ég alját fürkészve nézem,<br/>Hajnalcsillag felkel-e már? <br/>Szívem vár és hallgatom ébren,<br/>Hárfák hangja zendül-e már?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>És én is elkezdem öröménekem, <br/>Repesve, új hangon zeng dicséretem, <br/>Mikor az Úr Jézus, az én Uram, Jézus <br/>Jön, hogy engem is elvigyen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Melto vagy, Istenunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Méltó vagy, Istenünk, Urunk,<br/>Tied legyen háladal, dicsõség, tisztesség! / 2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És halleluja zeng a trón elõtt,<br/>A Bárányt imádjuk, õt magasztaljuk,<br/>Halleluja!<br/>Hadd dicsérjünk téged,<br/>Te gyõztes uralkodó,<br/>Te áldott Bárány!</lines>
+    </verse>
+  </lyrics>
+</song>

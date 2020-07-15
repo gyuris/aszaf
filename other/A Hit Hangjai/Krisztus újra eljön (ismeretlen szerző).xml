@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Krisztus újra eljön</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="429"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Krisztus újra eljön, <br/>hozza jutalmunk, <br/>Ő a kezdet és vég <br/>örök nagy Urunk,<br/>Dávid áldott sarja, <br/>szép Hajnalcsillag.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Földnek minden népe, <br/>hódolva fogadd! <br/>Várjad mindig készen, <br/>bírád Ő, Urad!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Nézd az égi várost, <br/>tárva ajtaja!<br/>Kit az Úr megváltott, <br/>mind bejut oda.<br/>Hogyha fáradt lelked, <br/>Ő szeretve vár,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Élő vizet néked <br/>ingyen ma kínál.<br/>Jöjj hát Hozzá bátran, <br/>vegyed és igyál!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Irgalmadért néped <br/>dicsér szüntelen,<br/>Atya, Fiú, Lélek, <br/>háromegy Isten.<br/>Jézusunk, Te mondtad: <br/>Eljövök hamar!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Néped híven vár <br/>Rád, mind látni akar,<br/>Urunk Jézus, jöjj el, <br/>várunk, jöjj hamar!</lines>
+    </verse>
+  </lyrics>
+</song>

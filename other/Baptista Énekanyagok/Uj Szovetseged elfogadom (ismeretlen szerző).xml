@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Uj Szovetseged elfogadom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új Szövetséged elfogadom,<br/>Magam egészen odaadom.<br/>Nem tartok semmit, legyen tiéd!<br/>Félelmeimtől irgalmad véd…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áttört kezedbe<br/>kezem teszem,<br/>Ne engedd, kérlek, ha elesem.<br/>Láncolj magadhoz örökre már!<br/>Nincsen itt részem, nincs, ami vár…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hű lenni nékem, tudom, nehéz,<br/>De szívem, lássad, hű lenni kész.<br/>Járva az utad, ha botlanék,<br/>Emelj magadhoz keresztedért!</lines>
+    </verse>
+  </lyrics>
+</song>

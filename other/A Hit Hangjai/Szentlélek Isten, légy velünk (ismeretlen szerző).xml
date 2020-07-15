@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>Szentlélek Isten, légy velünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="671"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Szentlélek Isten, légy velünk, <br/>Adjad, hogy templomod legyünk.<br/>Ó, jöjj, egeknek fénye!<br/>Szent isteni világodat <br/>Elménkbe dús mértékben add,<br/>Lelkünk örök üdvére!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Üdvöd Küldöd,<br/>Hogy a szívet Erősítsed, <br/>Gyámolítsad, <br/>Ösvényedre igazítsad.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Bölcsességnek mély kútfeje, <br/>Küldd vigaszod a szívekbe, <br/>eremts köztünk egységet, <br/>Hogy keresztyéni életünk <br/>Kedves legyen, s mi fénykedjünk <br/>Vele itt minden népnek;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hogy így Mindig <br/>Nagy hűséggel, Szelídséggel, <br/>Élő hittel <br/>Műved valljuk életünkkel</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Utunkon vár sok kísértés, <br/>Gyakorta elfog csüggedés, <br/>S gyengül hitünk világa. <br/>Te légy nékünk bölcs vezetőnk, <br/>Tűzoszlopunk és éltetőnk, <br/>Hogy érjünk Kánaánba!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Üdíts, Gyógyíts,<br/>Adj tanácsot, Bátorságot, <br/>Bölcsességet, <br/>Hitet, erőt, reménységet!</lines>
+    </verse>
+  </lyrics>
+</song>

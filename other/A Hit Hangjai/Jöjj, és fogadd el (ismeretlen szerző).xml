@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jöjj, és fogadd el</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjj és fogadd el <br/>a Megfeszítettet, <br/>Jöjj és hidd el Jézus <br/>téged megmenthet!<br/>Minden bűnös embert <br/>szabaddá tehet,<br/>Mert a lelkünk üdvét <br/>Ő szerezte meg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jöjj csak bátran, <br/>Jézus híven vár reád,<br/>Felkínálja néked <br/>nagy megváltását,<br/>Megbocsátja vétked, <br/>hogyha kéred Őt;<br/>Fogadd be még ma <br/>a drága Megmentőt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Elhagyva a régi, <br/>átkos bűnigát <br/>Szabad szívvel szolgáld Őt, <br/>a nagy Királyt!<br/>Hogyha Néki élsz <br/>és híven követed,<br/>Átveszed a mennyben örökségedet.</lines>
+    </verse>
+  </lyrics>
+</song>

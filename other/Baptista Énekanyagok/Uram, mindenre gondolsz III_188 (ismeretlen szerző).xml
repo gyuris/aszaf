@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Uram, mindenre gondolsz III/188</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Uram, mindenre gondolsz,<br/>Kezedben megnyugszom én.<br/>A világ szélétől a szívem mélyéig,<br/>Kérlek, kegyelmed áraszd szét.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Uram, Te vagy a célom,<br/>Csak szólj, és indulok!<br/>Ezrek lássák meg dicsőséged,<br/>Ahogy szereteted ragyog!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Szaladok Hozzád én, igazságod megvéd.<br/>Nem erővel, nem hatalommal,<br/>Csak a Szent Szellem által!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Futok a cél felé, ott leszel, vársz rég,<br/>Taníts, hogy hűen fussak, Uram, feléd!</lines>
+    </verse>
+  </lyrics>
+</song>

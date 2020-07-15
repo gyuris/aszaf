@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Elmúlt az éj, itt a hajnal</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Elmúlt az éj, itt a hajnal <br/>A fényes diadallal;<br/>Zeng győztes dalt sok angyal,<br/>Halleluja! Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hol van, halál diadalmad?<br/>Ím, megtört már hatalmad,<br/>Mert Krisztus úr lett rajtad, <br/>Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Sok könnyel, megtört reménnyel<br/>Múlt el két gyászos éjjel,<br/>De föltámadt nagy fénnyel, <br/>Halleluja! Halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, Jézus! Az örökélet<br/>Legdrágább kincsünkké lett:<br/>Föltámadunk mi Véled,<br/>Halleluja! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

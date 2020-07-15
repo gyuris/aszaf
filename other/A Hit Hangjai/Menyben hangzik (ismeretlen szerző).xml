@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>Menyben hangzik</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="480"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mennyben hangzik a dicsének <br/>Bűntől váltott lelkeké, <br/>Száll magasztalás dicséret <br/>Jézushoz a trón felé.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Nagy karének kél majd szárnyra,Ha a partra érkezünk, <br/>„Szent vagy, szent vagy!”  zeng a hála, <br/>Áldott légy, ó, Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Éji ködtől nem borítva<br/>Szent fényesség árja hull, <br/>Tél, halál nem jő a nyárra.<br/>Ott örök tavasz virul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mindörökre zengve áldjuk <br/>Fényes angyalkórussal, <br/>Halleluja! Harsog és zúg<br/>Meg nem szűnő háladal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Földi bánat, vétek távol, <br/>Nem lesz kétség, félelem, <br/>Végtelen szeretet lángol<br/>A megváltott lelkekben.</lines>
+    </verse>
+  </lyrics>
+</song>

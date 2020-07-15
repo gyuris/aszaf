@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Atadom a szivemet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Átadom a szívem, Úr Jézus szeress vele.<br/>Oly sok, szegény szenvedõ vár égi szeretetre.<br/>Átadom a szívem, Úr Jézus szeress vele.<br/>Igazi szeretet csak a Tied lehet, <br/>Úr Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Átadom az ajkam, Úr Jézus te szólj vele.<br/>Lásd emberi szóm szegény, és Téged elfeled.<br/>Átadom az ajkam, Úr Jézus te szólj vele.<br/>Jelentsd ki magadat <br/>Csüggedtnek, fáradtnak, Úr Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Átadom az életem, Úr Jézus, tied legyen.<br/>Oly sok itt a munka még, a munkás oly kevés.<br/>Átadom az életem, fogadd el kegyelmesen.<br/>Szentlelked vezessen, <br/>Áldjon és szenteljen, Úr Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

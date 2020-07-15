@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az en Istenem</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az én Istenem erős, hatalmas Isten<br/>Nincs olyan, mit Ő nem tehet.<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Egyetlen szavával alkotta meg<br/>Az eget, a földet, a tengereket.<br/>Özönvízben a világ elmerült,<br/>De Noé és családja megmenekült.<br/>Népét vezette a tengeren át,<br/>És Dáviddal nem bírt a nagy Góliát.<br/>Ezek a csodák mind Őt hirdetik,<br/>De ha nem hinnéd,<br/>Elmondom neked megint:<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bűnösök voltunk, de eljött hozzánk,<br/>Áldott és gyógyított, amerre járt.<br/>Itt élt közöttünk és velünk lakott,<br/>Bűneinkért büntetést Ő kapott.<br/>Feltámadt értünk Húsvét reggelén,<br/>Felment a Mennybe, onnan visszatér.<br/>Ezek a csodák mind Őt hirdetik,<br/>De ha nem hinnéd,<br/>Elmondom neked megint:<br/>(Ez az egy, amiről most tudnod kell!)<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ő az Atya, Ő a Fiú, Szent Szellem,<br/>egy meg egy meg egy az Egy.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Nincsen ennel drágább</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="561"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Nincsen ennél drágább hír a földön:<br/>Jézus Krisztus bűnöst üdvözít,<br/>Értem halt, hogy megszerezze üdvöm,<br/>Vére minden bűntől megtisztít.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézusomnak szeretete oly csodás,<br/>Oly csodás, oly csodás,<br/>Szeretetből van számomra gyógyulás,<br/>Lelkemnek szabadulás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Mindennap megújul nagy kegyelme,<br/>Jóságát mind jobban láthatom,<br/>Bűneimet végleg eltörölte,<br/>Így most hálás szívvel áldhatom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Meg sem értjük itt a földi létben<br/>Mérhetetlen nagy szeretetét,<br/>Csak ha egykor fönn leszünk a mennyben,<br/>S zengjük mind a Bárány énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

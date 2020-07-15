@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>Adonaj</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 b2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Tiéd a végtelen,<br/>A kárpiton túli tér,<br/>Tiéd a Menny és a föld,<br/>S néped Izráel.<br/>Dicsőség Királya jöjj,<br/>Hatalmad öltözzed fel!<br/>Szívünk úgy vágyódik Rád,<br/>Jöjj, győzelmes Úr!<br/>És meglát minden szem,<br/>Ahogy büszkén visszatérsz<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Adonáj, Adonáj!<br/>Minden térdet hajt örök trónodnál.<br/>Adonáj, Adonáj!<br/>Minden nyelv így szól:<br/>Te vagy Úr, s Király, Adonáj!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Rád vár Jeruzsálem, imánk tehozzád száll.<br/>Díszes kapukon át mikor vonulsz be már?<br/>És egész Sion zeng:<br/>Baruch hábá b’sem!<br/>(Áldott az Úr neve!)<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>/: Neked hódol a teljes föld :/<br/></lines>
+    </verse>
+    <verse name="b2a">
+      <lines>(Lányok)<br/>/: Neked hódol a teljes föld :/<br/></lines>
+    </verse>
+    <verse name="b2b">
+      <lines>(Fiúk)<br/>Adonáj, Adonáj!<br/>Minden térdet hajt örök trónodnál.<br/>Adonáj, Adonáj!<br/>Minden nyelv így szól:<br/>Te vagy Úr, s Király!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

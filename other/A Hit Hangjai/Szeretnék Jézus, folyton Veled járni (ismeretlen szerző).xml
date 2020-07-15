@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>Szeretnék Jézus, folyton Veled járni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="685"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Szeretnék, Jézus, folyton Veled járni <br/>E rögös, földi vándorutamon.<br/>Ha lelkem próbák, kísértések érik,<br/>Te védj meg engem mindig, Jézuom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Úgy vágyom drága jelenléted bírni, <br/>Szent Igéd által élj a szívemben!<br/>Hadd haljon meg mind bennem ami régi,<br/>Formáljon át <br/>Szentlelked teljesen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Szeretnék, Jézus, <br/>hasonlítni Hozzád, <br/>Tükrözze lényem dicsõségedet! <br/>Ha sötét vétkem <br/>eltakarja orcád,<br/>Tisztítsd meg újból bûnös szívemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Szeretnék, Jézus, <br/>kérni annyi mindent,<br/>Mit ki sem tudok talán mondani;<br/>Te érted szívem <br/>mondhatatlan vágyát,<br/>Valóra tudja szavad váltani.</lines>
+    </verse>
+  </lyrics>
+</song>

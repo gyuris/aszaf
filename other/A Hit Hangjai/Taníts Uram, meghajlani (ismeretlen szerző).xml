@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Taníts Uram, meghajlani</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="695"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Taníts, Uram, meghajlani, <br/>Mint szélben az aranykalász! <br/>Hajoljak meg, ha Szentlelked <br/>Reám fuvall, porig aláz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Dacos szívem ha ellenáll, <br/>Midőn a Lélek rálehel; <br/>Jöjj tűz gyanánt, a dac, a gőg <br/>Lelked tüzében égjen el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mint bősz hullám, mely megtörik, <br/>Ha parthoz űzi zúgó szél; <br/>Úgy törjön össze szívem is, <br/>Amint Tebenned partot ér!</lines>
+    </verse>
+  </lyrics>
+</song>

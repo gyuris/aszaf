@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>En e foldrol</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Én e földről, hol most lakom,<br/>Egy szép, dicső hazába utazom.<br/>Az útra megvan a jegyem,<br/>Golgotán váltotta Jézus meg nekem.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csillagtengeren túl, messze<br/>Dicsben ragyog<br/>A város, hol Mesteremmel<br/>Együtt lakom.<br/>Gyöngykapuja már kitárva,<br/>Vár már engem,<br/>Az aranyváros, Jeruzsálem.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mennyei város, csupa fény,<br/>Vágyva tekintek már feléje én.<br/>Mikor leszek ott, nem tudom,<br/>Bár gyorsan robog az életvonatom.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Miként lesz, ha megérkezem,<br/>Csodálva nézi, ámulva szemem<br/>A fényes várost, mely fogad,<br/>Királyi dicsben a hű Megváltómat.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

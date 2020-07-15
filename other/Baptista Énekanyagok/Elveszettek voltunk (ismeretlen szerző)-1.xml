@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Elveszettek voltunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elveszettek voltunk a sátán rabja voltunk,<br/>Kihozott a mélybõl, a halál völgyébõl.<br/>Jézus szeret minket, oltalmába vesz minket,<br/>vigyáz ránk mint anya hisz Õ szült a világra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus visszavárlak, Jézus csak téged várlak, <br/>Te vagy nekem a mindenem, a mindenem.<br/>Jézus visszavárlak, Jézus csak téged imádlak<br/>Te adsz reményt az életben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most élem a legszebb,a legszebb éveimet<br/>Várom az Úr Jézust, várom a võlegényem<br/>Minden éjjel felnézek az égre,<br/>Hogy mikor jön már az én võlegéneym.</lines>
+    </verse>
+  </lyrics>
+</song>

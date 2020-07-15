@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jöjj a Megváltóhoz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjj a Megváltóhoz, <br/>aki sok bűnödért<br/>Egykor elvérzett a Golgotán! <br/>Csodás irgalma nagy, <br/>bűnöst még elfogad, <br/>Siess, mert üdvöt <br/>Ő ad csupán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Azért jöjj Jézushoz, <br/>siess Hozzá még most, <br/>Mert Ő meghalt teérted a fán!<br/>Bűnöd megbocsátja, ha megtérsz Hozzá ma, <br/>Téged csak Ő menthet meg csupán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Keskeny út az, <br/>amely örök életre visz, <br/>Boldog mind, aki ez úton jár.<br/>Aki végig kitart, <br/>Krisztusban megmarad, <br/>Arra majd örök üdvösség vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Visszautasítod, <br/>avagy elfogadod, <br/>Jézus ajtódnál zörgetve áll.<br/>Tőle elfordulhatsz, <br/>Néki nemet mondhatsz, <br/>De úgy rád örök kárhozat vár.</lines>
+    </verse>
+  </lyrics>
+</song>

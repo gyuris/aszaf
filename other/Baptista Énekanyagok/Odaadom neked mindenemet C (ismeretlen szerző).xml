@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Odaadom neked mindenemet C</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Odaadom neked mindenemet,<br/>Amit akarsz, cselekedd<br/>meg most velem,<br/>Legyen ahogy akarod.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kincseiddel töltsd meg életemet,<br/>Adj nekem látást, hogy ne tévedjek el,<br/>Újítsd meg friss keneted.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Formálj át engem,<br/>hogy hasonlítsak Rád,<br/>Drága Szellemeddel<br/>gyere közel hozzám.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Egy pillantásod ha megtalál,<br/>Az többet jelent minden szónál,<br/>Jelenléted ha eláraszt engem...</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Egy villanás dicsőségedből<br/>És újjá lesz minden bennem,<br/>Jézus vérén át jövök Hozzád,<br/>Tüzed ég a szívemben...</lines>
+    </verse>
+  </lyrics>
+</song>

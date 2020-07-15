@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Vezess Jézusunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="755"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Vezess, Jézusunk, S Véled indulunk!<br/>Küzdelemre hív az élet, <br/>Had kövessünk benne Téged;<br/>Fogjad a kezünk, Míg megérkezünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Adj erős szívet, Hogy legyünk hívek!<br/>És ha terhet kell viselnünk, <br/>Panaszt mégsem ejt a nyelvünk;<br/>Rögös bár utunk, Hozzád Így jutunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Sebzett szívünk majd Mikor felsóhajt,<br/>Vagy ha másért bánat éget: <br/>Adj türelmet, békességet, <br/>Reménnyel teli Rád tekinteni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Kísérd lépteink Éltünk végéig!<br/>És ha roskadozva járunk, <br/>Benned támaszt hadd találjunk, <br/>Míg elfogy az út, S mennybe nyitsz kaput!</lines>
+    </verse>
+  </lyrics>
+</song>

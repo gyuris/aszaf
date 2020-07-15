@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Egy dicsero enek zendul</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egy dicsérõ ének zendül <br/>A szívemben szüntelen,<br/>Amióta megtaláltam Mesterem.<br/>Õ nyugalmat adott nékem,<br/>Békessége az enyém, boldog vagyok,<br/>Mert kegyelmet nyertem én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>A szívemben hálaének zendül,<br/>Nagy örömmel hangzik énekem.<br/>Angyalok sem énekelnek szebben,<br/>Mert új életet adott nekem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Olyan régen óhajtottam<br/>Boldog, hívõ életet,<br/>Hogy valaki elvegye sok bûnömet.<br/>Meghallottam, hogy Jézusom<br/>A kereszten szenvedett,<br/>És készséggel elfogad Õ engemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Míg itt hazám felé megyek,<br/>Vígasztal az a remény,<br/>Hogy egy fényes hajlék vár ott énreám.<br/>Színrõl-színre Jézusomat<br/>Dicsõségben látom én,<br/>A szentekkel egybeforr hálaimám.</lines>
+    </verse>
+  </lyrics>
+</song>

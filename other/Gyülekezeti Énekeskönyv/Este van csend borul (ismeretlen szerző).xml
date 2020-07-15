@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Este van csend borul</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Este van, csend borul a tájra, <br/>Csillagok fénye felragyog. <br/>Szívemben dalra kél a hála <br/>És öröm, hogy hálát adhatok. <br/>Jól tudom, hogy az, akiben bízom, <br/>Nem hagy el, sem el nem távozik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bánat ér, hûsége megvigasztal, <br/>Tévedek, Õ helyre igazít. <br/>Mindig ad jó tanácsot nékem, <br/>Megsegít válaszút elõtt. <br/>És ha már elfáradt a lelkem, <br/>Minden naphoz Õ ad új erõt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Félelem és a gyötrõ gondok, <br/>Bús napok messze járnak már. <br/>Boldogan én Urammal járok, <br/>Õ vigyáz rám és mellettem áll. <br/>Ismeri és tudja, mi a vágyam, <br/>Megadja a szükségest nekem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mégis úgy kívánja, hogy feltárjam <br/>Háladással mindennap szívem. <br/>Hû Uram jósága, kegyelme <br/>Beragyogja az életem. <br/>Ó, de jó elmerülni benne, <br/>Háladással élni szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

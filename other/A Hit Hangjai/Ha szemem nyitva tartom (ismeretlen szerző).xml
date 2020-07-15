@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Ha szemem nyitva tartom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha szemem nyitva tartom,<br/>Mindennap újra látom, <br/>/: Mint visel gondot énreám,<br/>Hordozza terhem jó Atyám. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha szemem nyitva tartom,<br/>Mindennap újra látom, <br/>/: Kegyelme nékem oly csodás,<br/>Minden szava vigasztalás. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ha szemem nyitva tartom,<br/>Mindennap újra látom, <br/>/: Csodát tesz újra énvelem,<br/>Pedig nincs semmi érdemem.:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha szemem nyitva tartom,<br/>Mindennap újra látom, <br/>/: Áldása bőven árad még,<br/>Nekem ez teljesen elég. :/</lines>
+    </verse>
+  </lyrics>
+</song>

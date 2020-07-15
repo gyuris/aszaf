@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>E harcokdúlta földre szállt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. E harcokdúlta földre szállt<br/>A béke nagy Királya;<br/>Elhagyta égi trónusát, <br/>Bús életünket szánva…<br/>A menny békéjét hozta le,<br/>És szeretettel volt tele<br/>Minden szívdobbanása.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A háborúnak fellegét<br/>Elűzi békessége;<br/>A földdel frigyre lép az ég,<br/>És meghajol Nevére. <br/>A népek s minden nemzetek,<br/>Ha Benne egyet értenek,<br/>Úgy lesz e földön béke.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A zord szívekben szózata <br/>Új életet ad bárhol;<br/>Megolvad kopja, kard vasa, <br/>Hol békessége lángol. <br/>Nem pusztít harag szelleme,<br/>De megújul mindenfele <br/>A föld az Ő szavától.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, Krisztusunk, hadd járja át<br/>Békéd e széles földet, <br/>S hadd munkáljuk egymás javát, <br/>Amint tanultunk Tőled!<br/>Hogy tündököljön végtelen'<br/>Szent országlásod mindenen,<br/>Ó, adj hát békességet!</lines>
+    </verse>
+  </lyrics>
+</song>

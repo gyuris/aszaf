@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>alkalmak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vasárnap:  10:00   \   18:00<br/>Szerda:  19:00<br/>Péntek:  19:30-tól ifi<br/><br/>Szeretettel várunk mindenkit alkalmainkra!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Eletunk tebgeren</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Életünknek tengerén <br/>Hullámok között megyünk,<br/>Zord viharban küszködünk, <br/>Mert több a felhõ mint a fény,<br/>De a célunk oly csodás, <br/>Nem pótolja semmi más,<br/>Megcsodáljuk majd, ha odaérkezünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Nemsoká hajnalodik már,<br/>Mennybe fent, örök lakásunk vár.<br/>Majd akkor ott megértjük teljesen,<br/>Mért is szenvedtünk mi annyit idelent.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Vannak éhezõk itt lent, <br/>Mások ágya puszta föld,<br/>Vannak szenvedõk itt lent, <br/>Kiknek az élet csupa kín,<br/>Sokan kérdik, hogy miért <br/>Van ez így itt idelent.<br/>Majd megértjük, mikor együtt leszünk fent.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Sûrûn jõ a próba ránk, <br/>Meg sem értjük, hogy miért,<br/>De a keskeny úton csak így <br/>Közelítjük meg a célt.<br/>Mert a mennybõl jó Atyánk <br/>Szeme folyton vigyáz ránk.<br/>Nagy kegyelme megtart, hogyha süllyednénk.</lines>
+    </verse>
+  </lyrics>
+</song>

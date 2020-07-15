@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Ím, hozzuk Néked</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ím, hozzuk Néked hálatelten, <br/>Hódoló szívünk, jó Atyánk; <br/>Szent hálaérzet kél bensőnkben, <br/>Feléd száll, Téged áld imánk.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jóvoltod dúsan megmutattad, <br/>Köröttünk gazdag most a táj;<br/>Hisz javaidat bőven adtad, <br/>Áldással teljes a határ.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Te adtál nékünk lágy esőket, <br/>Öntözted földünk gazdagon, <br/>Hűs harmat lepte kertjeinket <br/>Sok dolgos, nyári hajnalon.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hogy nap heve a zöld mezőket <br/>Tüzével ne tikkassza el, <br/>Hegy-völgyeinket, rétjeinket <br/>Vigyáztad oly kegyes szemmel.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Napfénnyel áldád kertjeinket <br/>Mely éltet, táplál és nevel, <br/>Dús fürttel szőlővesszeinket <br/>Kezeddel ékesítéd fel.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sok szép gyümölcsünk kellemeit <br/>Te raktad rá ily gazdagon<br/>Megérleléd a völgy kalászit <br/>Termékeny folyópartokon.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ki tudná mérni nagy jóságod? <br/>Túlterjed az sok csillagon!<br/>Ki ne rebegné imádásod, <br/>Hogy így ellátod gazdagon?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Örök Jóság! E föld-lakóhoz <br/>Küldéd áldásid legjavát, <br/>Nem nézted azt, hogy áld vagy átkoz, <br/>Betöltéd jóval egyaránt.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Csak Néked zeng a hálaének, <br/>Kitől jön égi, földi jó!<br/>Tehozzád száll most a dicséret, <br/>Kegyelmes, szent, nagy Alkotó!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Ím Néked hozzuk javainkat, <br/>Mert gazdagítád életünk, <br/>S hogy áldásod ily bőven adtad, <br/>Köszönjük néked, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

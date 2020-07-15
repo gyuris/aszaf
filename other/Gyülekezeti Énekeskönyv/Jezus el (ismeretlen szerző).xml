@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Jezus el</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>/:Jézus él! Jézus él! <br/>Minden ember tudja meg,<br/>Hogy Jézus él! (Halleluja!):/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1/3. /:És mi is feltámadunk:/ 3x<br/>Mint Õ! Halleluja!<br/>Testvér, hogyha eljön az idõ,<br/>Egész biztos eljön Õ,<br/>És mi is feltámadunk, mint Õ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. /:Velünk van õ minden nap:/ 3x<br/>Már most! Halleluja!<br/>Testvér, hallja ezt meg mindenki,<br/>Nem kell egyedül lenni,<br/>Mert velünk van Jézusunk már most.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. /:És örömmel segít Õ:/ 3x<br/>Neked! Halleluja!<br/>Testvér, hogyha nem látsz kiutat,<br/>Isten Fiára mutat,<br/>Mert örömmel segít Õ neked.</lines>
+    </verse>
+  </lyrics>
+</song>

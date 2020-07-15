@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Tudom az Úrnak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="722"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Tudom, az Úrnak terve van velem, <br/>Tudom, az Úrnak terve van velem! <br/>Ezért hálás életem, Nevét áldom szüntelen. <br/>Tudom, az Úrnak terve van velem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Tudom, az Úr vezet az utamon, <br/>Tudom, az Úr vezet az utamon! <br/>Ezért hálás életem, Nevét áldom szüntelen. <br/>Tudom, az Úr vezet az utamon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Tudom, az Úr megőriz mindenkor, <br/>Tudom, az Úr megőriz mindenkor! <br/>Ezért hálás életem, Nevét áldom szüntelen. <br/>Tudom, az Úr megőriz mindenkor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Tudom, az Úr majd hazahív engem, <br/>Tudom, az Úr majd hazahív engem! <br/>Ezért hálás életem,Nevét áldom szüntelen. <br/>Tudom, az Úr majd hazahív engem.</lines>
+    </verse>
+  </lyrics>
+</song>

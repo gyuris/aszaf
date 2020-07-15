@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Világíts nékem, Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="761"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Világíts nékem, Jézus, Szívem kitárva vár!<br/>Te vagy az üdvre hívó Kegyelmi fénysugár. <br/>Sötétben, bűnben, árván Éltem sok éven át, <br/>De szívem éled újból, Mióta Téged lát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Világíts nékem, Jézus, Te vagy az út, a cél. <br/>Szolgád a hitnek útján Csak kegyelmedből él. <br/>Életkenyérrel táplálsz, Szent véred gyógyulás. <br/>Te vagy az élet nékem, Csak Te és senki más.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Világíts nékem, Jézus, Nincs bennem tűz elég, <br/>Szent arcod fénye rajtam Tündöklőn még nem ég. <br/>De hogyha kegyelmedből Dicsfényed általjár, <br/>Leszek az éjszakában útmutató sugár.</lines>
+    </verse>
+  </lyrics>
+</song>

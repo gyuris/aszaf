@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Hatalmas Megtartó Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hatalmas Megtartó Jézus, <br/>Nagy Megmentő, hű Megváltó!<br/>Bűnigánk széttörte Jézus, <br/>Mert Ő a Szabadító!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bűnökkel megterhelt lélek, <br/>Mért gyötör a félelem?<br/>Tudod-e már, <br/>Urad szeretve vár, <br/>És elfogad kegyelmesen?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Amikor bánatos lelkem,<br/>Bátorít és felemel.	 <br/>Sötét az éj, Vele szívem nem fél, <br/>Mert a vészben sosem hagy el.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Erőt ad a kísértésben,<br/>Befedez a viharban.<br/>Távol a cél, de a szívem remél,<br/>Hazaérek, mert velem van.</lines>
+    </verse>
+  </lyrics>
+</song>

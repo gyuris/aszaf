@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Ha ezen a foldon barmi er</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3.Ha ezen a földön bármi ér,<br/>ne csüggedj el! Jézus az, ki mindig megsegít<br/>a küzdelemben.<br/>Bátor, erős harcos légy, ne félj, ne lankadj el,<br/>Tudjad, hogy a győzelem tied az ellenségen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Mert Jézus neve,<br/>Jézus ereje,<br/>Jézus vére,<br/>Ő a te győzelmed! / 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3.Ha ellenség vesz körül és sötétség,<br/>ne rémülj meg! Jézus nevét hívd segítségül<br/>és nem szégyenülsz meg!<br/>Bízzál benne teljes szívedből, és Ő lesz oltalmad,<br/>Ne támaszkodjál az elmédredre, mert megtátorodhatsz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3.Felettébb győzöl az által,<br/>aki diadalra vezet, Mindenre van erőd a Krisztusban,<br/>aki megerősít téged.<br/>Szívvel hiszel igazságában<br/>és szájjal vallod meg, Hogy Jézus lakik hit általa te szívedben.</lines>
+    </verse>
+  </lyrics>
+</song>

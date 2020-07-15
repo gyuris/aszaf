@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jól küzdj, ha az Úr kegyelme</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="386"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jól küzdj, ha az Úr kegyelme <br/>Megtérít s magához von, <br/>Hulljon le a lelked terhe <br/>S minden, ami téged nyom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Küzdj a vérig és halálig <br/>Napról-napra, mint egy hős!<br/>Ha a Sátán bűnre csábít, <br/>Ne hallgass rá, légy erős!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Lángoljon fel buzgóságod <br/>És első szereteted, <br/>Vesd meg szívből a világot! <br/>Félszeretet mit tehet?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Küzdj imával, könyörgéssel, <br/>Abban buzgó légy nagyon; <br/>Az időt ne tékozold el, <br/>Küzdj éjjelen, nappalon!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Tartsd meg jól, ami van nálad, <br/>Maradj meg mindig hűnek; <br/>Őrködj, és a koronádat <br/>át ne engedd senkinek</lines>
+    </verse>
+  </lyrics>
+</song>

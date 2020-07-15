@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Ébredj, alvó, hív a szózat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ébredj, alvó, hív a szózat! <br/>Az őrök hangja messze elhat: <br/>Fel, Sion, ébredj, itt az Úr!<br/>Éjfél tájra jár az óra, <br/>Mondd, kész vagy-é a hívó szóra,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vagy szíved mécse meg se gyúl? <br/>Ím, Vőlegényed jő.<br/>Már kész a menyegző.<br/>Halleluja, <br/>Ó, halld szavát! Kelj föl tehát!<br/>Vedd menyegzői díszruhád!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Halljuk jól az őrök hangját,<br/>És ébredeznek, akik hallják; <br/>A szívünk vígan repdeső.<br/>Íme, üdvünk napja virrad, <br/>Mert ama fényes Hajnalcsillag</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mint igazságos Bíró jő. <br/>Dicstrónod fényben áll! Jöjj, <br/>Jézus néped vár! Hozsiánna! <br/>Mi elmegyünk, Mindegyikünk, <br/>Hogy menyegződön ott legyünk.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Egykor trónod köré állunk, <br/>S az angyalokkal Téged áldunk; <br/>Zeng cimbalom és hárfahúr.<br/>Földi lényre mind, mi vár ott, <br/>Mit fül nem hallott, szem nem látott,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>A szív ott háladalra gyúl. <br/>Oly szép az égi hon, <br/>Sok gyöngykapuja von. <br/>Halleluja,<br/>Zeng énekünk, Az Úr velünk!<br/>Légy áldva érte, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

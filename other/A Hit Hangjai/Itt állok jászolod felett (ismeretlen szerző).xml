@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Itt állok jászolod felett</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="325"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Itt állok jászolod felett, <br/>Ó, Jézusom, Királyom, <br/>Elhoztam minden kincsemet <br/>Ajándékul, Megváltóm. <br/>Vedd elmém, lelkem és szívem,<br/>Hadd adjam Néked mindenem, <br/>Hogy kedves légyek Néked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nem éltem még e föld színén: <br/>Te értem megszülettél. <br/>Még Rólad mit sem tudtam én. <br/>Tulajdonoddá tettél; <br/>Még meg sem formált szent kezed, <br/>Már elválasztál engemet, <br/>Hogy társam légy e földön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mély síri éjben vártam én: <br/>Fölkelt a nap rám Véled. <br/>Terólad ömlik rám a fény, <br/>A béke, boldog élet, <br/>A lélek ékességei; <br/>Belőlük hitnek mennyei <br/>Szép tisztasága árad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Csak nézlek boldog szívvel én, <br/>S nem győzlek nézni Téged. <br/>Szóm és erőm mind oly szegény, <br/>Hogy elmondhassa Néked: <br/>Bár felfoghatna Tégedet <br/>Az emberszív és ismeret, <br/>Hogy megfejthesse titkod!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Megváltóm, egy kérésemet <br/>Nem vetheted meg nékem: <br/>Hogy szívem mélyén Tégedet <br/>Hordozzalak hűségben; <br/>Hogy bölcsőd, szállásod legyek, <br/>Jöjj, Jézus, tölts el engemet <br/>Magaddal, nagy örömmel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Teged szeretlek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="412"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Téged szeretlek, Megváltóm, <br/>Csak Reád nézek én.<br/>Te vagy reményem, boldogságom, <br/>Érted élek én.<br/>Te vagy aki boldogítasz, <br/>Sebzett szívemre gyógyírt adsz.<br/>Hadd nyugodjam kebeleden, <br/>Csak Benned élek én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ó, mily boldog vagyok én, <br/>Mert szívem csak Benned remél.<br/>Ó, szeretlek Téged, Téged, <br/>Téged, igaz Üdvözítõmet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Te szerettél, ó, Jézusom, <br/>Elõbb mint én Téged.<br/>Elhagytad a mennyet értem <br/>S mit tettem én Érted?<br/>Sokat vétettem ellened, <br/>Folyton sebeztem a szíved. <br/>Te szerettél, megmentettél, <br/>Dics és hála Neked!</lines>
+    </verse>
+  </lyrics>
+</song>

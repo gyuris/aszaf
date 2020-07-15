@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>O ahitat idoszaka</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="355"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, áhítat idõszaka! A fáradalmaktól tova <br/>Gyöngéden Istenhez vezetsz, <br/>Kinek bajom elmondva lesz;<br/>És ím segélyül jõ nekem <br/>Megváltóm részvétteljesen.<br/>/:Veszélytõl megment <br/>Õ maga, ó, áhítat idõszaka!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, áhítat idõszaka! Mikor a mindenség Ura<br/>Áll készen és megáldja azt, <br/>Ki tõle kér segélyt, vigaszt.<br/>És mondja: “Arcomat keresd, <br/>Igém az élted napja lesz.“<br/>/:Azért gondjába átadom <br/>És ráteszem minden bajom!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, áhítat idõszaka! <br/>Ha bús az éltem nappala,<br/>Üdíts fel, ó, Te engemet, <br/>Míg majd elérem a mennyet.<br/>És leteszem vándorbotom, <br/>A sírba földi sátorom.<br/>/:De nem feledlek el soha, <br/>Ó, áhítat idõszaka.:/</lines>
+    </verse>
+  </lyrics>
+</song>

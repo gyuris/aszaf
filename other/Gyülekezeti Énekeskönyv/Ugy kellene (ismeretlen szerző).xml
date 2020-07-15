@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Ugy kellene</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="435"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Úgy kellene egy új dal, <br/>Úgy kellene egy jó út.<br/>Ki mondja el? Ki adja át? <br/>Mindenütt emberek várják.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>/:Jaj nekünk, <br/>Ha helyettünk a kövek beszélnek.:/<br/>Tudd meg hát, hogy szeret az Isten.<br/>Hidd el hát, hogy szeret az Isten.<br/>Ha tudod és hiszed, itt az idõ, <br/>Alakítsd át az életed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Úgy kellene egy jó szó, <br/>Úgy kellene egy jó hír.<br/>Ki mondja el? Ki adja át? <br/>Mindenütt emberek várják.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Mert bennünk van a jó szó <br/>És ismerjük a jó hírt.<br/>Ki mondja el? Ki adja át? <br/>Éhesen, szomjasan várják.</lines>
+    </verse>
+  </lyrics>
+</song>

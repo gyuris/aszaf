@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Egykor oly távol voltam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Egykor oly távol voltam az Úrtól, <br/>Minden bűnös közt a legnagyobb. <br/>Félve kérdeztem, vajon a Megváltó<br/>Elfogad ily bűnöst, mint én vagyok?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bolyongtam sötét bűn-úton járva,<br/>De egy kérdés nyugtalanított: <br/>Lesz-e bocsánat bűneimre Nála, <br/>Megment-e ily bűnöst, mint én vagyok?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A szent igében válaszra leltem, <br/>Hittel elfogadtam Megváltóm, <br/>Most már boldogan<br/> mondom mindenkinek, <br/>Szeret ily nagy bűnöst, mint én vagyok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nemsoká vándorutamnak végén,<br/>Drága Megváltóm megláthatom,<br/>Áldom Őt fönn<br/>a mennyben mindörökké,<br/>Megváltott íly bűnöst, mint én vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

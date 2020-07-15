@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-24T08:04:38">
+  <properties>
+    <titles>
+      <title>Halaadassal lepem at az Ur kapujat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálaadással lépem át az Úr kapuját,<br/>Örömmel zengem dicséretét.<br/>Éneklem: Ez az a nap, mit az Úr szerzett,<br/>Vígazsággal, mert oly boldoggá tett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[: Oly boldoggá tett,<br/>Oly boldoggá tett,<br/>Örvendezek, mert oly boldoggá tett! :]</lines>
+    </verse>
+  </lyrics>
+</song>

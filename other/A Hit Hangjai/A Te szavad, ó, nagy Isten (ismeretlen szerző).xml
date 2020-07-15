@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>A Te szavad, ó, nagy Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="051"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. A Te szavad, ó, nagy Isten <br/>A vigasz kútforrása;<br/>Ne légyen köztünk itt egy sem, <br/>Ki szomjazná hiába.<br/>Ó, üdíts fel szent Igéddel,<br/>Hogy majd kellő időben <br/>Gyümölcsöt hozzunk bőven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. A Te szavad láng, kard s villám, <br/>Mely megtör kemény szívet. <br/>Áthat szírten és szív falán, <br/>S megítél minden vétket. <br/>Jó Istenünk, Ím könyörgünk:<br/>Igéd a bűnt kiirtsa, <br/>A szívünket tisztítsa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Szent Igéd hajnalcsillagunk<br/>Vándorútunk számára. <br/>Mint tudatlan, hozzá futunk,<br/>Bölccsé tesz fénysugára. <br/>Te égi fény, Éltünk egén,<br/>Világíts a lelkünknek, <br/>Tévúttól, bűntől ments meg!</lines>
+    </verse>
+  </lyrics>
+</song>

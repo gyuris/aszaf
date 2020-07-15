@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:26">
+  <properties>
+    <titles>
+      <title>Te csak az Istennek D</title>
+    </titles>
+    <verseOrder>v1 v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Te csak az Istennek országát keresd,<br/>És az Ő nagy igazságát!<br/>És minden más megadatik majd neked.<br/>Halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halleluja, halleluja, halleluja.<br/>Halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérd Tőle hittel, és megadja neked,<br/>Ha keresed, megtalálod!<br/>Zörgess az ajtón és megnyílik neked!<br/>Halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tedd hát a jót, fényed űzze a homályt,<br/>Hadd lássák meg dicsőségét,<br/>És áldják érte a mennyei Atyát!<br/>Halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

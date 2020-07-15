@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Isten Fia a földre jött</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Isten Fia a földre jött, <br/>És megtalált a bűn között. <br/>A vétkemért Ő bűnhődött,<br/>Szeretve fölemelt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Az ingoványból engemet <br/>Szelíd kezével fölemelt. <br/>Az éj után jött fénysugár. <br/>Zengd ajkam ezt: <br/>Ő fölemelt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Mielőtt még hallám e szót, <br/>Nem tudva, hogy bűnös vagyok; <br/>Hívó szava megragadott<br/>S kegyesen fölemelt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Most szívem vallja boldogan, <br/>Hogy Nála éltem üdve van. <br/>Nem tudom, mint lehet s hogyan: <br/>Ily bűnöst fölemelt.</lines>
+    </verse>
+  </lyrics>
+</song>

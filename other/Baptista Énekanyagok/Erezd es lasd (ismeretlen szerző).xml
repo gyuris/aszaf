@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-17T17:13:57">
+  <properties>
+    <titles>
+      <title>Erezd es lasd</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Valahogy nem értette az ember,<br/>A Menyország tiszta szándékát.<br/>Nem tudta, mit kezdjen Istennel,<br/>Úgy gondolta nincs szüksége rá.<br/>Kinek első otthona egy istálló,<br/>Első fekhelye egy kis jászol.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még ma sem érti oly sok ember,<br/>Karácsony tiszta csodáját.<br/>Hogy mit tett Isten az emberrel,<br/>És mit jelent, hogy köztünk járt.<br/>Kinek első otthona egy istálló,<br/>Első fekhelye egy kis jászol.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ember lett az Isten, felvette a sorsunk,<br/>Mindenben hasonló lett hozzánk.<br/>A Mindenség Királya magát megalázva,<br/>Szolgai ruhában köztünk járt.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Érezd és lásd,<br/>Hittel éld át,<br/>Isten itt van köztünk!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

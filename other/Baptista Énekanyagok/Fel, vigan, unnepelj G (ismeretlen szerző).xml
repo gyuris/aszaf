@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Fel, vigan, unnepelj G</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fel, vígan ünnepelj,<br/>Nevét dicsérd, gyere, énekelj!<br/>Szeret Atyád, az Isten,  <br/>Jöjj, dicsérd Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elküldte szent Fiát,<br/>Ki helyettünk halt meg a Golgotán,<br/>Kegyelme által élhetünk,<br/>Nagyon szeret az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj, hát és énekelj, énekelj,<br/>Néki énekelj,<br/>Hálás szívvel Őt magasztald! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

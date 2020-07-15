@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Ha megmentett Jezus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha megmentett Jézus téged, <br/>Dicsérd szüntelen,<br/>Áldva legyen az Õ szent neve.<br/>Nem hagyott a bûn mélyében, <br/>Bûnben elveszve,<br/>Lenyúlt értünk drága, szent keze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Dicsérjük öröménekkel <br/>Jézust e csodás munkáért,<br/>Ömlött egykor drága vére a bûneinkért.<br/>Vezessünk embereket az Õ drága, <br/>szent keresztjéhez,<br/>Boldogan mondhatjuk, <br/>hogy Jézus szeret bennünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Jézus betölt az Õ dicsõ, drága lelkével,<br/>Mert adatik annak aki kér.<br/>Mint pünkösdkor a tanítványok életében,<br/>Jézus ma is az ki volt régen.</lines>
+    </verse>
+  </lyrics>
+</song>

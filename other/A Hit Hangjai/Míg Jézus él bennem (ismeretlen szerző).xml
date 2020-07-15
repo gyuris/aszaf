@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Míg Jézus él bennem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Míg Jézus él bennem, Míg erejét érzem, <br/>Fut tőlem gond és félelem, És örvend a lelkem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szelíd, jó Pásztor Ő, Juhát hűn őriző; <br/>Legeltet gazdag pázsiton, Itat életfolyón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mikor leszáll a nap, S üvölt felém a vad, <br/>Sötét éjfélkor is tudom: Oltalmam Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha lábam gyenge lesz, Ha e világ sebez: <br/>Megyek jó Pásztoromhoz én, S nyugtot lelek szívén.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Csak Jézust nézem hát, Ki nékem üdvöt ád, <br/>Ő bizton vezet utamon, Mert őrző Pásztorom.</lines>
+    </verse>
+  </lyrics>
+</song>

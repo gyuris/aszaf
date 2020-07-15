@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Az Úr éjfélkor érkezik!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="070"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Az Úr éjfélkor érkezik!<br/>Halld ez intés szavát! <br/>Mécsedben lángoljon a hit, <br/>Virrasztva, készen várd! <br/>Bár e világ nagy kétkedőn<br/>Azt véli hasztalan, <br/>Hogy az ítélet el se jön,<br/>Vagy jóval távol van.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Az Úr éjfélkor érkezik!<br/>Ítélni népeket, <br/>Igazság fénye tündöklik<br/>Kegyelmi nap helyett. <br/>Királyi trónon fényesen<br/>E föld meglátja Őt, <br/>S rettegtet mindent félelem <br/>A nagy Király előtt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Az Úr éjfélkor érkezik! <br/>Eljő fenségesen, <br/>Kegyével hű sáfárait<br/>Betölti teljesen. <br/>Ki híven járta útjait,<br/>Megtartva szent szavát, <br/>És jól forgatta kincseit, <br/>Annak jutalmat ád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Az Úr éjfélkor érkezik!<br/>Ne szunnyadj hát tovább! <br/>Bár most még csendes minden itt, <br/>Vigyázd az éjszakát! <br/>Kegyelme még időt adott, <br/>Türelmét meg ne vesd, <br/>Hogy mint hű szolga állva<br/>Ott Jutalmad átvehesd!</lines>
+    </verse>
+  </lyrics>
+</song>

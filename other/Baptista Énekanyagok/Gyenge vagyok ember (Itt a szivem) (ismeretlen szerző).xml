@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyenge vagyok ember (Itt a szivem)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyenge vagyok, ember<br/>Megkavar az élet<br/>Nem tudom a szívem<br/>Meggyógyítani...<br/>Túl sok ami fájhat<br/>Én nekem és másnak<br/>Nélküled a lelkem<br/>Porszem szélvészben...<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Itt a szívem:<br/>Kemény föld<br/>Pusztaság lett<br/>Törd most föl!<br/>Itt a szívem:<br/>Száraz kút,<br/>Ásd le mélyre,<br/>Törjön út<br/>Élő víznek,<br/>Mely Tőled jön!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindent tudok észből<br/>Túl keveset szívből<br/>Míg a betű öl,<br/>A szellem élni hív<br/></lines>
+    </verse>
+    <verse name="b1a">
+      <lines>(Lányok)<br/>Megtanítasz szeretni<br/>Merni, élni, érezni ×3<br/></lines>
+    </verse>
+    <verse name="b1b">
+      <lines>(Fiúk)<br/>Megbocsátasz, hogy én is megbocsássak...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

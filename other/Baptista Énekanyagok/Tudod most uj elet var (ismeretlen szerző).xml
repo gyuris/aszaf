@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tudod most uj elet var</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v5 v7 v8 v4 v5 v9</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Tudod most új élet vár, <br/>Bármit is tettél Ő, megbocsát, <br/>Hallod hogy szólít,<br/> csak téged hív, <br/>Szíved nyitva áll,<br/> tudd, hogy ma rád talál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mostantól új ember vagy, <br/>Nem kell már félned, Ő támogat. <br/>Érzed, hogy szívedbe költözik, <br/>Csak hinned kell, csak bíznod kell!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most az életed a fénybe vezet, <br/>Kezd most el, indulj el!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mától minden más,<br/> mert örökké élsz majd, <br/>Jézus vigyáz rád,<br/> megvéd és megtart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Õ ígérte azt, hogy soha el nem hagy. <br/>Õ mindig veled jár és fogja kezed, <br/>mert nagyon szeret!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>2. Lesznek majd kérdéseid,<br/> Rád tör a kétely, a félelem. <br/>Ne hagyd, hogy győzzön a kétkedés.<br/> Krisztus megtart, hogy szilárdan állj.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem tévedhetsz el,<br/> ha csak benne bízol<br/> Erot ad az Úr, ha döntened kell. Megvigasztal majd, ha elfáradnál. <br/>Õ nem hagy egyedül,<br/> Ő a legjobb Barát! <br/> Ő a legjobb Barát!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ha minden elpusztul, <br/>te akkor is megmaradsz. <br/>Benne élsz!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nem tévedhetsz el,<br/> ha csak benne bízol<br/> Erot ad az Úr, ha döntened kell. Megvigasztal majd, ha elfáradnál. <br/>Õ nem hagy egyedül,<br/>... a legjobb Barát!</lines>
+    </verse>
+  </lyrics>
+</song>

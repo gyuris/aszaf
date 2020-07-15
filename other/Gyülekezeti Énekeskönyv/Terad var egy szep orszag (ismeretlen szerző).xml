@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Terad var egy szep orszag</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /:Terád vár egy szép ország,:/<br/>Terád vár egy szép ország, ahová megyek. <br/>/:Terád vár egy szép ország,:/<br/>Terád vár egy szép ország, ahová megyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. /:Nincs ott többé könnyezés,:/<br/>Nincs ott többé könnyezés, ahová megyek.<br/>/:Nincs ott többé könnyezés,:/<br/>Nincs ott többé könnyezés, ahová megyek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. /:Jézus Krisztus vár ott rám,:/<br/>Jézus Krisztus vár ott rám, ahová megyek.<br/>/:Jézus Krisztus vár ott rám,:/<br/>Jézus Krisztus vár ott rám, ahová megyek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. /:Isten szép országa ez,:/<br/>Isten szép országa ez, ahová megyek.<br/>/:Isten szép országa ez,:/<br/>Isten szép országa ez, ahová megyek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. /:Add át néki életed, <br/>add át egész életed, <br/>Akkor te is ez országba bemehetsz!:/</lines>
+    </verse>
+  </lyrics>
+</song>

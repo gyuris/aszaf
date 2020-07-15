@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Hangozzék fel hálaének</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hangozzék fel hálaének <br/>Az Úr népe ünnepén. <br/>Isten örök nagy Nevének, <br/>Mert hordozott szent kezén!<br/>Mily jó nékünk: <br/>Itt van vélünk, <br/>Tőle jő az erő, áldás, <br/>Bűnbánatra megbocsátás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A szövetség követének<br/>Mondjunk zengő hozsannát, <br/>Ajka szent leheletének <br/>Nyissuk szívünk ajtaját!<br/>Közel s távol Minden szájról, <br/>Hol csak megváltottak élnek, <br/>Csendüljön fel hálaének!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, nézzétek, Isten népe,<br/>Mint menyasszony, olyan szép!<br/>Megmosta a Bárány vére, <br/>Boldog, hogy Urához lép. <br/>S majd az égben,<br/>Dicsőségben <br/>Nem hull könnye soha többé, <br/>Halleluját zeng örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tudom jol IV/204 D</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tudom jól, bár nem látlak én,<br/>Ha Te itt vagy, mindig van remény.<br/>Benned bízom hát,<br/>Többé nem félek soha!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ha próbák jönnek, velem itt leszel.<br/>Erõsítesz, hogy ne essek el.<br/>Benned bízom hát,<br/>Többé nem félek soha!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem félek (nem félek)<br/>Többé már (többé már).<br/>Nem félek (nem félek)<br/>Többé már (többé már).<br/>Benned bízom én…</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Az éjszakában, ha senki nem felel,<br/>A széllel szemben mikor futnom kell,<br/>Benned bízom én,<br/>S többé nem félek soha!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mert most már értem,<br/>nincs többé hátraarc.<br/>Te végleg gyõztél, rég eldõlt a harc.<br/>Benned bízom hát,<br/>S többé nem félek soha!</lines>
+    </verse>
+  </lyrics>
+</song>

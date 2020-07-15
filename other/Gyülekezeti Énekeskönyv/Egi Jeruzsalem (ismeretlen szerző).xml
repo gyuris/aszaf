@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Egi Jeruzsalem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Égi Jeruzsálem, Istentõl száll alá,<br/>Mint egy menyasszony felékesítve<br/>Égi Võlegény számára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Amit nem látott szem, <br/>Amit nem hallott fül,<br/>Amit nem érzett szív, Isten ott azzal vár.<br/>Ott nem lesz halál, sem könny, szenvedés,<br/>Örök vígságban él, minden megváltott szív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Az elsõk elmúltak, újjáteszek mindent.<br/>Aki gyõz, örökségül nyer mindent,<br/>Fiam lesz, én Istene leszek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Aki szomjúhozik, még ma jöjjön el.<br/>Vegye az élet vizét ingyen,<br/>S bemehet az égi városba.</lines>
+    </verse>
+  </lyrics>
+</song>

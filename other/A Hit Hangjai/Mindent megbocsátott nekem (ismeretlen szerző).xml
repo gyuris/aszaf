@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Mindent megbocsátott nekem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="514"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Mindent megbocsátott nekem, <br/>Mindent, én ezt vallom, hiszem. <br/>Bűnöm és a sok-sok hibám<br/>Értem hordozta a Golgotán.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halleluja, halleluja, <br/>Jézusom nagyon szeret! <br/>Mindent megbocsátott nekem,<br/>Mindent, én ezt vallom, hiszem. <br/>Bűnöm és a sok-sok hibám<br/>Értem hordozta a Golgotán.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Mindig velem akar járni,<br/>Mindig oldalamnál állni. <br/>Mindig ott vagyok kezében,<br/>Míg a célba meg nem érkezem.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Halleluja, halleluja, <br/>Jézusom nagyon szeret! <br/>Mindig velem akar járni,<br/>Mindig oldalamnál állni. <br/>Mindig ott vagyok kezében,<br/>Míg a célba meg nem érkezem.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Hozzá mindennap hű leszek,<br/>Neki adom át szívemet. <br/>Gonosz hogyha csábít engem,<br/>Ő megőrzi bizton életem.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Halleluja, halleluja, <br/>Jézusom nagyon szeret! <br/>Hozzá mindennap hű leszek,<br/>Neki adom át szívemet.<br/>Gonosz hogyha csábít engem,<br/>Ő megőrzi bizton életem.</lines>
+    </verse>
+  </lyrics>
+</song>

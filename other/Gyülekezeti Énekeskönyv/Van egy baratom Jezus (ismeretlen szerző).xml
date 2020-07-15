@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Van egy baratom Jezus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="454"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Van egy barátom: Jézus, <br/>Vele mindent megbeszélhetek. <br/>Tudod, van egy barátom: Jézus, <br/>Õ megvigasztalja szívemet. <br/>És ha elrontottam valamit, <br/>És ha elhibáztam százszor, <br/>Mindig meghallgatta panaszom, <br/>És egy új reményt adott.:/<br/>Tudod, van egy barátom: Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

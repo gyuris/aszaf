@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Krisztus Urunknak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Krisztus Urunknak <br/>áldott születésén <br/>Angyali verset <br/>mondjunk szent ünnepén, <br/>Mely Betlehemnek mezejében régen <br/>Zengett ekképpen:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A magasságban <br/>dicsőség Istennek, <br/>Békesség légyen <br/>földön embereknek, <br/>És jóakarat <br/>mindenféle népnek <br/>És nemzetségnek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A nemes Betlehemnek városába'<br/>Gyermek született nékünk e világra, <br/>Örömet hozott Ádám árváira, <br/>Maradékira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Eljött már, akit <br/>a szent atyák vártak, <br/>A szent királyok akit óhajtottak, <br/>Kiről jövendőt próféták mondottak, <br/>Nyilván szólottak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Ez az Úr Jézus <br/>igaz Messiásunk, <br/>Általa vagyon <br/>bűnünkből váltságunk, <br/>A mennyországban örökös lakásunk, <br/>Boldogulásunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Hála legyen mennybéli szent Atyánknak, <br/>Hála legyen <br/>született Jézusunknak <br/>És Szentléleknek, mi vigasztalónknak, <br/>Bölcs oktatónknak!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. Ó, örök Isten, <br/>dicső Szentháromság, <br/>Szálljon mireánk <br/>mennyei vigasság, <br/>Távozzék tőlünk <br/>minden szomorúság, <br/>Legyen vidámság!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Imadkozni jertek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Imádkozni jertek, Õ meghallgat minket. <br/>Dicsérje hõ imánk, Õ letekint reánk, <br/>Teljesíti ma is, mit Õ tõle kérünk, <br/>Hogy boldog legyen benne a földi életünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus, benned élek és küzdök melletted, <br/>Dicsérlek énekben, imádlak lélekben. <br/>Bátorságot, te adsz és soha el nem hagysz, <br/>Oly jó, hogy most és mindig, <br/>Te énvelem maradsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Imádkozz, a teher, mi úgy nyomott engem, <br/>A tengerbe veté. Igen, odaveté. <br/>Szabad vagyok, vidám és egész más lettem, <br/>Mert Jézus nehéz terhem a tengerbe veté.</lines>
+    </verse>
+  </lyrics>
+</song>

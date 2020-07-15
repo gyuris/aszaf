@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Amig dal lesz ajkamon</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 b2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. A napsugár az égbolt,<br/>A szivárványok és a szél,<br/>Az álmok és a vágyak,<br/>Azt kutatják, hogy lelkünk miért él</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Minden szó és minden dallam,<br/>Minden hang és minden kép,<br/>Minden virág minden szirma,<br/>Istenről beszél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amíg dal lesz ajkamon,<br/>Hirdetem, hogy él az Úr<br/>Tudom, hogy elfogad és szeret,<br/>Egyedül csak Ő az Úr<br/>Minden percem az Övé,<br/>Hálám nem szűnik soha,<br/>Amíg dal lesz ajkamon,<br/>Istenről tanúskodom!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. A hegyek és a völgyek,<br/>A folyó és a part,<br/>Minden felénk nyújtott kéz<br/>Minden ember csakis szeretni akar</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Minden jótett, minden áldás,<br/>Titkon hozzá visz közel<br/>Minden kérdésre a szívben<br/>Jézus megfelel!</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>(Fiúk)<br/>Én megvallom:<br/>Amíg dal lesz ajkamon,<br/>Én hirdetem, tisztelem<br/>Átadva az életem</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>(Fiúk)<br/>Amíg dal lesz ajkamon,<br/>Én hirdetem, tisztelem<br/>Átadva az életem,<br/><br/>(Lányok)<br/>Amíg dal lesz ajkamon,<br/>Hirdetem, hogy él az Úr<br/>Tudom, hogy elfogad és szeret,<br/>Egyedül csak Ő az Úr</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>(Fiúk)<br/>Minden percem az Öve<br/>Én hirdetem, tisztelem,<br/><br/>(Lányok)<br/>Minden percem az Övé,<br/>Hálám nem szűnik soha,<br/>Amíg dal lesz ajkamon,<br/><br/>(Együtt)<br/>Én dícsérem Őt!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hisz bennem Krisztus él,<br/>Vigyáz rám és véd,<br/>Fogom két kezét,<br/>Érzem szeretetét!</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>(Fiúk)<br/>Amíg dal lesz ajkamon,<br/>Én hirdetem, tisztelem<br/>Átadva az életem,<br/><br/>(Lányok)<br/>Amíg dal lesz ajkamon,<br/>Hirdetem, hogy él az Úr<br/>Tudom, hogy elfogad és szeret,<br/>Egyedül csak Ő az Úr</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>(Fiúk)<br/>Minden percem az Öve<br/>Én hirdetem, tisztelem,<br/><br/>(Lányok)<br/>Minden percem az Övé,<br/>Hálám nem szűnik soha,<br/>Amíg dal lesz ajkamon,<br/><br/>(Együtt)<br/>Istenről tanúskodom!</lines>
+    </verse>
+  </lyrics>
+</song>

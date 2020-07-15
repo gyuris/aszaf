@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>A mi Urunk Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="771"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mi Urunk Jézus Krisztusnak kegyelme, <br/>Az Atya szeretete, És a Szentlélek közössége</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légyen mivélünk, légyen mivélünk, Légyen vélünk, Ámen!<br/>Ámen! Ámen! Ámen! Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

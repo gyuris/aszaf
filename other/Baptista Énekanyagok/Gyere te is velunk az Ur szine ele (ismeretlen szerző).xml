@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyere te is velunk az Ur szine ele</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyere te is velünk az Úr színe elé,<br/>Jöjj Hozzá, téged vár!<br/>Gyere te is, essünk lábai elé,<br/>Az ajtó nyitva áll.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zengjünk hálát a hatalmas Istennek!<br/>Minden áldás egyedül Őt illeti meg.<br/>Jézus, leborulunk trónodnál,<br/>Néped csak Téged imád.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

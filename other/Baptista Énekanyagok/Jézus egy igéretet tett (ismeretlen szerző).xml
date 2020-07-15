@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Jézus egy igéretet tett</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus egy ígéretet tett, elment hogy helyet készitsen<br/>Majd eljön mint dicsõ Király<br/>Hogy gyermekeit össze szedje már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/:Ezért hirdetem, és dicsérem<br/>hogy engemet is oda fel vigyen:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/:Az Isten él az Isten él az én szivemben.<br/>Neki adtam neki adtam az életemet:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drága Istenem ne hagyj elveszni minket.<br/>Áraszd reám Szent Szellemed.<br/>Hadd tudjak beszélni Rólad az embereknek.<br/>A Te jóságodról igazságodról.</lines>
+    </verse>
+  </lyrics>
+</song>

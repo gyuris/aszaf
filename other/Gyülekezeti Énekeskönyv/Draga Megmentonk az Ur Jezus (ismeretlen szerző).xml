@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Draga Megmentonk az Ur Jezus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Drága Megmentõnk az Úr Jézus, <br/>Mellettünk harcol Õ!<br/>Drága Megmentõnk az Úr Jézus, <br/>Bajban is segít Õ!<br/>Drága Megmentõnk az Úr Jézus, <br/>Ott áll velem a kísértésben,<br/>Idõd míg lepereg, Jézus harcol teveled, <br/>Gyõzöl, ez a jövõ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Hadd mondjam néked: <br/>Nem lehetsz magad mentõje!<br/>Egyedül Jézus tesz szabaddá!<br/>Kereszthalála lett a bûnök temetõje. <br/>Õ szabadító, kiálts hozzá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Drága Megmentõnk az Úr Jézus, <br/>Minden bûnt megbocsát!<br/>Drága Megmentõnk az Úr Jézus, <br/>Ad ránk tiszta ruhát. <br/>Drága Megmentõnk az Úr Jézus, <br/>Szívbõl megbocsát, <br/>Irgalmából letörli könnyedet, <br/>Szent örömet ad neked, <br/>ujjongsz: ez a jövõ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Nagy Szabadítónk az Úr Jézus, <br/>Szétzúzza az igát!<br/>Nagy Szabadítónk az Úr Jézus, <br/>Nála van szabadság!<br/>Nagy Szabadítónk az Úr Jézus, <br/>szétzúz minden igát karjával, <br/>Legyen bár bûnbilincs, <br/>hatalmának gátja nincs, <br/>s gyõzöl - ez a jövõ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Én nem tudom, mért lett enyém</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Én nem tudom, mért lett enyém <br/>Az égi kegyelem?<br/>Mért váltott meg az Úr engem,<br/>Ki annyit vétkeztem?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>De azt tudom, hogy kiben hittem,<br/>Nem szakít Tőle el semmi engem.<br/>Megadja mennyei részem, <br/>Mikor újra eljön Ő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Én nem tudom, hogy mint adott <br/>Az Úr nekem hitet,<br/>És szent igéje lelkemet <br/>mint gyógyította meg?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Én nem tudom, hogy Szentlelke<br/>Mint ad meggyőződést?<br/>Csak Jézust áldja énbennem, <br/>s nyújt megelégedést?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Én nem tudom mily sok öröm <br/>Vagy mennyi fájdalom, <br/>Lesz még az osztályrészem itt<br/>E földi utamon?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Én nem tudom, mily hamar jő <br/>Az Úrnak nagy napja,<br/>Hogy hangja szólít majd haza, <br/>Vagy égi harsona?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>A béke messze tõled</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="004"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. A béke messze tőled, <br/>szívedben nincs öröm, <br/>A lépted is oly fáradt, <br/>szemedben ott a könny.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, hogyha hinni mernél, <br/>ragyogna rád csoda, <br/>És nem keresnél többé <br/>jobb életet soha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. A félelem, a bánat <br/>az életedre tör, <br/>Az elbukásod, bűnöd <br/>megszégyenít, gyötör.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. A Jézus szent sebéből <br/>üdv és erő fakad, <br/>Ki elfogadja hittel, <br/>a bűnben nem marad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4.Csak Jézus adhat nyugtot, <br/>midőn a harc kemény<br/>A fáradt, bűnös szívnek <br/>Ő éltető remény.</lines>
+    </verse>
+  </lyrics>
+</song>

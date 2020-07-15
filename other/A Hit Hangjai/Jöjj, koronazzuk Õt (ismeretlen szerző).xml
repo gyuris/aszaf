@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jöjj, koronazzuk Õt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="397"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Jöjj, koronázzuk Őt! <br/>Fel, szívünk, dalra fel!<br/>A győztes Bárányt zengve fönn <br/>A menny, halld, énekel!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ó, serkenj, ujjongj szív, <br/>És áldd az ég Urát,<br/>Ki meghalt érted, mennybe hív, <br/>Fel lelkem, dalra hát!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Jöjj, koronázd meg hát <br/>A szeretet Urát!<br/>Nézd két kezét és oldalát, <br/>Mit érted vertek át!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A szépség fénylik ott, <br/>Az élet ott terem, <br/>Hol hű Megváltóm áldozott. <br/>Jer, áldjuk szüntelen!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Jöjj, koronázzuk Őt! <br/>A győzedelmeset,<br/>Ki él és úr a sír fölött, <br/>Bár érted szenvedett!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>A sírból lét fakad, <br/>Mert megnyitotta Ő, <br/>Ki él örökké, éltet ad. <br/>Zengd Őt, ki oly dicső!</lines>
+    </verse>
+  </lyrics>
+</song>

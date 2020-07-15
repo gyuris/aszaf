@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Vezess satradba Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezess sátradba, Uram<br/>Szüntelen hívlak<br/>Én Istenem vagy Te,<br/>Úgy vágyom utánad<br/>Engedd hallanom hangod,<br/>Hiszen Tõled van az élet<br/>Nem ad boldogságot más,<br/>Csak a Te jelenléted</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tisztíts meg ó Uram, szent tüzeddel<br/>Szentelj meg a bárány vérével<br/>Vedd izzó parazsad a mennyei oltárról<br/>Érintsd meg ajkaim, hogy szent legyek,<br/>Érintsd meg ajkaim, hogy szent legyek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szólj Uram, hallja szolgád<br/>A Te kedves beszéded<br/>Szívem mélyére rejtem,<br/>Hogy ne vétkezzem többé <br/>Készen állok elõtted,<br/>Hogy tegyem, amit parancsolsz <br/>Amit rám bízol Uram,<br/>Örömmel elvégezem</lines>
+    </verse>
+  </lyrics>
+</song>

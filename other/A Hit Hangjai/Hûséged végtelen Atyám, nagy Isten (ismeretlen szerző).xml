@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hûséged végtelen Atyám, nagy Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Hûséged végtelen, <br/>Atyám, nagy Isten, <br/>Elhat a mélybe s az <br/>Egek fölé, Irgalmad nem fogy a múló <br/>idõvel, Ki voltál, az maradsz mindörökké.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Hûséged végtelen, Hûséged végtelen, <br/>Mindennap új áldás Árad reám,<br/>Hiányom pótolod Hatalmas kézzel, <br/>Hûséged végtelen, Uram, hozzám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. A tél, a nyár, az õsz, A feslõ tavasz, <br/>A nap, a hold s a nagy Csillagsereg,<br/>Ezt zengi szüntelen <br/>Együttes karban: Te vagy az irgalom,<br/> A szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Eltörlöd bûnömet, <br/>Békéd vesz körül, <br/>Velem vagy, lényed úgy<br/> Megvidámít; <br/>Erõt adsz mára,s a holnapra <br/>reményt, Áldásod ontja rám Bõ árjait.</lines>
+    </verse>
+  </lyrics>
+</song>

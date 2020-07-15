@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Csodalom az O utjait</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodálom az Õ útjait, <br/>Mily nagyok gondolatai!<br/>Lelkemben világosság gyúlt már fel,<br/>És tudom, Õ él bennem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldom Õt, a mennyek Urát!<br/>Áldom Õt, aki a fényességben lakik!<br/>Áldom Õt, aki lehajolt és felemelt, <br/>Mert Õ a szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

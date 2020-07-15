@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>A Föld az Istené</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="017"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. A Föld az Istené, <br/>Megszabta pályáját. <br/>Bő vízzel tölti tengerét, És ad rá szép ruhát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. A termőföld virul, <br/>Kisarjad fű, virág, <br/>Napfényben fürdik a mező, Oly szép a nagy világ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. A dombok oldalán <br/>Zöld pázsit díszeleg, <br/>A nyájnak gazdag asztalát Az Úr teríti meg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Ő, a bölcs Alkotó <br/>Ad napfényt és esőt, <br/>Hogy minden nép e föld terén Hálával áldja Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

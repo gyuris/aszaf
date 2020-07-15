@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:17">
+  <properties>
+    <titles>
+      <title>Egi Atyank szeretunk Teged</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égi Atyánk,<br/>Szeretünk Téged,<br/>Fölemeljük most<br/>Nagy és Szent Neved,<br/>Hozzád szálljon fel<br/>A hódolat, dicséret,<br/>A Te országod<br/>Épüljön ma fel!<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hatalmas az Úr,<br/>Ő az Isten,<br/>Ki volt, ki van<br/>És lesz mindörökké!<br/>Hatalmas az Úr,<br/>Ő az Isten,<br/>Uralma végtelen!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

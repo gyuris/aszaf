@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>A megnyitott, szent Biblia</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="033"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. A megnyitott, szent Biblia<br/>Tesz jóvá minden helyzetet, <br/>E széles földön általa <br/>Mindenki oly boldog lehet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Urunk szava, te égi fény, <br/>Világíts minden tájon át, <br/>Míg üdvhöz jő majd minden nép, <br/>S nap váltja fel az éjszakát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Hogy Isten Atyánk, és szeret,<br/>Ezt vélünk megismerteti, <br/>A tévútra tért lelkeket <br/>A jó ösvényre vezeti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Elmondja, hogy Jézus meghalt, <br/>De harmadnap feltámadott, <br/>A bűn zsoldját lefizeté,<br/>És nékünk életet adott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. E könyvből Isten szól nekünk, <br/>Az élő hit forrása ez; <br/>Ha sír felé közeledünk,<br/>E könyvnek fénye gerjedez.</lines>
+    </verse>
+  </lyrics>
+</song>

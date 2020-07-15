@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Lelkem, nézd a Golgotát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="449"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Lelkem, nézd a Golgotát, <br/>Állj meg, Jézus keresztjénél!<br/>Szemléld kínját, bánatát: <br/>Ó, bárcsak jobb útra térnél!<br/>Kőnél keményebb volnál, <br/>Ha itt meg nem indulnál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nézd, mily szörnyű ez a kép: <br/>Jézus függ a kínok fáján;<br/>Vére folyik patakként, <br/>Nyílt seb tátong kezén, lábán!<br/>Ó, hát az sem indít meg, <br/>Szemei hogy megtörnek?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Isten tiszta Báránya, <br/>Mindezt bűnöm tette Véled!<br/>Átvert szíved vér-árja <br/>Szerzett nékem üdvösséget.<br/>Hogy ne ártson a halál, <br/>Értem sírba leszálltál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Mondd, Uram, mit adhatnék <br/>Váltságodért hálaképpen!<br/>Szívem gyarló ajándék: <br/>Néked szánom én egészen… <br/>Add, hogy Véled éltemben <br/>Eggyé legyek mindenben.</lines>
+    </verse>
+  </lyrics>
+</song>

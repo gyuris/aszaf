@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, drága kegyelem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="585"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, drága kegyelem,<br/> már Jézusé vagyok, <br/>Kigyúltak számomra <br/>a reménycsillagok. <br/>Az arcom felderült,<br/>örömem végtelen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>/: Már Jézusé vagyok,<br/>Most Jézusé vagyok.<br/>Zengjen hát énekem,<br/>Övé vagyok! :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, drága kegyelem,<br/>már Jézusé vagyok, <br/>Eltűnt a fájdalom, <br/>elszálltak a bajok. <br/>Nem gyötri lelkemet<br/>vétek és félelem, <br/>Jézus megtett mindent <br/>értem a kereszten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, drága kegyelem,<br/>már Jézusé vagyok, <br/>Szolgálom szívesen,<br/>Hozzá hű maradok. <br/>Boldogan hordozom keresztem, <br/>mert tudom,<br/>A mennyben győztesen<br/>arcát megláthatom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Tied a hatalom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="717"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tied a hatalom, Tied az uralom, Ég és föld felett!<br/>Tied az ország és Tied a királyság, Áldom nagy Neved!<br/>Te vagy az Úr! Az örökre hű, igaz!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Örvendj, te föld, mert kegyelme mindent betölt!<br/>Tied a királyság örökké, hatalmas Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

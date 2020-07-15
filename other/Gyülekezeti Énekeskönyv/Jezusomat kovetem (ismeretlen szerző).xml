@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Jezusomat kovetem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Jézusomat követem, <br/>Jól tudom õ jár velem. <br/>Szívemnek mély békét ad, <br/>Csak õ tudja az én utamat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ó, ez fényes napsugár, <br/>Jézus enyém lehet már. <br/>Mi lehet még ennél szebb, <br/>mint hogy utamat járjam vele?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Mélységeket járok én, <br/>Útjait nem értem én. <br/>Sok vágyam nem teljesül, <br/>mégis Õ vezet szüntelenül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Jövõm sötét elõttem, <br/>Mégsem retteg a szívem. <br/>Bízom Benne, Õ vezet, <br/>És a szívem oly boldog Vele.</lines>
+    </verse>
+  </lyrics>
+</song>

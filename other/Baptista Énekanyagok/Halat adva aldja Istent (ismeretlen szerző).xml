@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Halat adva aldja Istent</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adva áldja Istent,<br/>Áldja Istent mi él.<br/>Róla zeng minden,<br/>Mennyben és itt lent,<br/>Zengve az Ő szent Nevét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úrhoz, az Úrhoz száll hála, dicséret,<br/>Mert Ő teremtő nagy Úr.<br/>Minden teremtmény adjon ma hálát,<br/>Méltó erre az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát adva áldja Krisztust,<br/>Mind, ki vallja Nevét!<br/>Hirdeti híven, szóban és tettben<br/>Végtelen szeretetét.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mert eljött, hogy megváltson szent vére árán,<br/>Értünk halt ártatlanul.<br/>Minden megváltott adjon ma hálát,<br/>Méltó erre az Úr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adni hív a Lélek,<br/>Szítja lelkem tüzét,<br/>Általa élek,<br/>Nem köt a vétek,<br/>Rajtam az áldott pecsét!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ő betölti életem újult erővel:<br/>Mennyei szele ha fúj,<br/>Ujjong a szívem, zengi a hálát,<br/>Méltó erre az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

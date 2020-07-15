@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>Csodálva, imádva</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csodálva, imádva tekintek<br/>Kegyelmének tengerébe,<br/>És hallgatom édes örömmel,<br/>Mit Róla tanít az Ige.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Szent vére bűnt befedez,<br/>Tisztára mossa ruhám;<br/>A bizalmam ebbe vetem,<br/>Reményem Jézusom, csupán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, mennyi időt veszítettem, <br/>Sóhajtva a terhek alatt; <br/>De, hogy magam Őneki adtam,<br/>Lelkemről a súly leszakadt. Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Gyöngéd keze szívemet érte:<br/>„Meggyógyítalak, fiam, én”;<br/>S megfogva ruhája szegélyét, <br/>Erő, öröm szálla belém. Refr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Most vélem a béke Királya,<br/>Vezérli a lépteimet,<br/>S oly édes az ajkán e szózat:<br/>„Békém adom én teneked!</lines>
+    </verse>
+  </lyrics>
+</song>

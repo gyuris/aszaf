@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+  <properties>
+    <titles>
+      <title>Mindig csendbe szol</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindig csendben szól hozzád az Úr.<br/>A város zaján hangja nem jut túl. <br/>Enyhe szellő suttogásaként hallod szavát, <br/>ha rátalálsz. Így jön az Úr, <br/>nem látod, de szíved lángra gyúl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A lelked harca elnyom minden mást, <br/>nem hallod a hívó suttogást. <br/>Bensődben is csendes béke kell, <br/>enélkül Isten nem felel, hiába vársz, <br/>mélybe hull a hívó suttogás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rfr. <br/>Hang nélkül szól, figyeld a lélek szavát, <br/>figyeld a csend mit beszél, hagyd a város zaját!<br/>Nincs messzeség, reád talál, <br/>csendben jőn az Úr egy éjszakán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy csodára, fénylő jelre vársz, <br/>mennyből jövő lángnyelvet kívánsz, <br/>de Isten lelke csendben működik,<br/>nem látod, mégis őrködik, vigyáz reád.<br/>Nem kellenek látványos csodák.</lines>
+    </verse>
+  </lyrics>
+</song>

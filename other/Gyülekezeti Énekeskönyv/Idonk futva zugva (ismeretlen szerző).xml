@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Idonk futva zugva</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Idõnk fut zúgva, vészesen,<br/>Rohanva mint az ár.<br/>Fel, nem tarthatja semmi sem,<br/>A nap hamar leszáll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jöjj, míg az éj rád nem borul,<br/>Mert holnap késõ tán.<br/>A zord sötétben felragyog<br/>/:Kereszt a Golgotán:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ma még körülvesz sok barát,<br/>Míg fényben jár az út.<br/>Elhagynak, vész ha tör reád,<br/>Mint tékozló fiút.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Egy van, csak egy, szent, hû barát,<br/>Végig csak Õ szeret.<br/>Kínálja néked önmagát,<br/>Kezébe tedd kezed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Bûnöd, bajod mind ismeri,<br/>Szívén bocsánat vár.<br/>Vérével megment, higgy neki!<br/>És minden jó lesz már.</lines>
+    </verse>
+  </lyrics>
+</song>

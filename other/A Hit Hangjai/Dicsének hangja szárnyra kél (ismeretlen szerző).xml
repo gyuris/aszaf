@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>Dicsének hangja szárnyra kél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Dicsének hangja szárnyra kél,<br/>Eljött az Úr, Immánuél!<br/>A szívén hordta áldott szűz, <br/>E jó hír minden bút elűz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ki mindent lényével betölt, <br/>Mint gyönge gyermek, testet ölt;<br/>Kit ölben ringat asszonykéz, <br/>Az üdvünk mégis Benne kész.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az Isten Egyszülöttje Ő,<br/>Mihozzánk gyermekképpen jő.<br/>Kit szívünk már oly régen vágy',<br/>Most rejti mélyén jászolágy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Elhagyta Ő az égi trónt, <br/>S hol ember annyi könnyet ont:<br/>E bűnnel terhes földre szállt, <br/>A bűnnek Ő útjába állt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Dicsének hangja zengjen hát<br/>A szívünk hála hassa át,<br/>Mert látja mostmár minden nép, <br/>Hogy Isten vélünk frigyre lép!</lines>
+    </verse>
+  </lyrics>
+</song>

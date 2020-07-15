@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Krisztus testének</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="424"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Krisztus testének tagja vagy már? <br/>Tőled az Isten már többet vár! <br/>/: Várja, hogy szolgálj, amíg lehet. <br/>Ki tudja, meddig tart életed? :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Testvéred gyenge, úgy látod tán,<br/>Megbotlik néha, más úton jár; <br/>/: Várja őt Jézus, segítsd oda, <br/>Hadd tegye szentté az Ég Ura! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Mért mondod, ifjú, gyenge vagyok? <br/>Azt mondja Jézus, erőt adok. <br/>/: Előtted jár Ő, bízd Rá magad, <br/>A lelki harcban győzelmet ad. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Érezted sokszor, hogy Ő szeret,<br/>Ezért ma kéri az életed.<br/>/: Szeress és szolgálj, amíg lehet! <br/>Ki tudja meddig tart életed? :/</lines>
+    </verse>
+  </lyrics>
+</song>

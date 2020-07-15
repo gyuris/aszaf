@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>Szívbol köszönöm, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="684"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/2. Szívből köszönöm, Uram,<br/>az életet, <br/>Mind a jóért, mit oly bőven<br/>adtál nekem, <br/>Zengek hálaéneket.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Szívből köszönöm, Uram,<br/>a békémet, <br/>Most Hozzád száll<br/>az öröm hangjain: <br/>Halleluja!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/2. Áldom, dicsérem Neved,<br/>mert úgy szeretsz,<br/>Mikor próbákkal küzdök,<br/>Te rám tekintesz,<br/>Felém nyújtod<br/>szent kezed.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szívből köszönöm, Uram,<br/>az új erőt.<br/>A lelkem hálaimát<br/>mond Neked:<br/>Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

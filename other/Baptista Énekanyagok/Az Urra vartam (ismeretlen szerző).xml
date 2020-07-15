@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:17">
+  <properties>
+    <titles>
+      <title>Az Urra vartam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrra vártam, és hozzám hajolt,                     <br/>Hisz könnyek közt hívtam,                       <br/>Ő kivont a sárból és megmentett,         <br/>Szívembe új dalt ültetett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szívembe új dalt ültetett,                    <br/>Szívembe új dalt ültetett.                      <br/>Ő kivont a sárból és megmentett,                   <br/>Szívembe új dalt ültetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő sziklára helyezett, <br/>Mely biztos hely, nem remeg,<br/>Hogy mások is hallják, Ő mit tett,<br/>Szívembe új dalt ültetett</lines>
+    </verse>
+  </lyrics>
+</song>

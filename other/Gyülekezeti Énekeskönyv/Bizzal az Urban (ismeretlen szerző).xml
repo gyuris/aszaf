@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Bizzal az Urban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bízzál az Úrban és jót cselekedjél,<br/>E földi életedben hûséggel élj.<br/>Kerüld a rosszat, hogy áldás legyél,<br/>És megmaradsz mindörökké.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Gyönyörködjél az Úrban, <br/>Megadja szíved kéréseit.<br/>Hagyjad az Úrra a te utaid.<br/>/:Bízzál Benne, majd Õ teljesíti néked<br/>Mit kértél Tõle s ez csodálatos.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Várjad az Urat és õrizd meg útját,<br/>És fölmagasztal téged, hogy örököld a földet.<br/>És meglátod, hogy gyõzelmet aratsz,<br/>Ha igéjében megmaradsz.</lines>
+    </verse>
+  </lyrics>
+</song>

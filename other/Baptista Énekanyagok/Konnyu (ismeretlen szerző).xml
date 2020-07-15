@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Konnyu</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Könnyu azon az úton járni, amin más is jár Könnyu mosolyogni, ha visszanevetnek rád Könnyu szélként szállni üres városokon át Könnyu otthagyni, mihez hozzá sem fogtál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyu fegyvert fogni arra, ki védtelen<br/>Könnyu letenni a lantot csendesen ó-ó-ó<br/>Könnyebb minden nap új állarcot venni fel, <br/>Mint megbékülni az élo Istennel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Indulj el, vállald a kihívásokat.<br/>Fogadj el mindent, ne csak a könnyu dolgokat.<br/>Indulj el, s az éjszakák után<br/>Fényes hajnal virrad rád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Indulj el, ne mondd, hogy messze még a cél,<br/>Hogy eltunt végleg szíved mélyérol a remény<br/>Indulj el, az utad végén vár <br/>Isten kezében a koronád.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-10T17:20:32">
+  <properties>
+    <titles>
+      <title>Keresztednel (Uram Te ismersz)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, Te ismersz,<br/>Látod szívem.<br/>Ezerszer elbuktam,<br/>Mégis szerettél,<br/>Mindig szerettél</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jelenléteddel<br/>Körülveszel,<br/>Minden időben,<br/>Mindig szerettél.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meghajlok Keresztednél,<br/>Itt folyt ki a drága vér,<br/>Nincs mi ennél többet ér!<br/>Értem győzted le a sírt,<br/>Megnyitottad a Szentélyt,<br/>Semmi el nem választ már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te jársz előttem,<br/>Oltalmazó,<br/>Kezedben őrzöl,<br/>Szeretsz, tudom jól!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És ha majd egyszer<br/>Lezárul szemem,<br/>Ott állsz előttem,<br/>Mert úgy szerettél,<br/>Mindig szerettél!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Megnyílt a Menny,<br/>Elvégeztetett!<br/>A kárpit szétrepedt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A kereszt az a hely,<br/>hol feltűnt reggelem,<br/>Csodás fényre nyílt meg ott a szemem,<br/>Mert a szívembe<br/>Jézus már betért,<br/>Ajkam zeng hozsannát e nagy kegyért.</lines>
+    </verse>
+  </lyrics>
+</song>

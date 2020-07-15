@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>Csend van bennem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csend van bennem és emlékezem, <br/>A múltba pillant fáradt szemem, <br/>Vétket látok, s gondozó kezet, <br/>Amely a szennyből hűn kiemelt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mért szeret Isten, mért szeret még? <br/>Hogy lehet, mért nem mondja ki: Elég!? <br/>Féltő karja újra átölel, <br/>Megtört szívemhez szíve közel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Csend van bennem és emlékezem, <br/>Mily sok ajándék, nagy kegyelem, <br/>Mily sok áldás, mennyi türelem <br/>Kísérte végig az életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Csend van bennem és emlékezem, <br/>Sokszor volt könnyes mindkét szemem. <br/>Ha sok bánat, fájdalom is ért, <br/>Csak Hozzá jöttem irgalomért. Refr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csend van bennem és emlékezem, <br/>Dicséret, hála él szívemben, <br/>Megköszönök múltat és jelent, <br/>Holnapom védő, őrző kezed.</lines>
+    </verse>
+  </lyrics>
+</song>

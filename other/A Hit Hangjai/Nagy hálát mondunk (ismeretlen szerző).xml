@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Nagy hálát mondunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="537"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Nagy hálát mondunk, Isten, <br/>Megváltott népedért, <br/>A Jézus Krisztus által<br/>Nyert örök életért!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Szent házadban megnyugszik <br/>És örvendez a szív; <br/>Az erőt adó Lélek <br/>Szent szolgálatra hív.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Most megköszönjük Néked, <br/>Hogy sok jó társunk van; <br/>E hajlék drága otthon, <br/>Itt élünk boldogan.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szent véren váltott testvér <br/>Az ifjú és a vén, <br/>És legfőbb mérték köztünk <br/>A szeretettörvény.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Tarts minket szent egységben, <br/>Megváltónk, hű Urunk, <br/>Hogy a világ is lássa: <br/>Tehozzád tartozunk!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Egy hit és egy keresztség <br/>Köt össze az Úrban, <br/>És egy drága örökség <br/>Vár a mennyországban!</lines>
+    </verse>
+  </lyrics>
+</song>

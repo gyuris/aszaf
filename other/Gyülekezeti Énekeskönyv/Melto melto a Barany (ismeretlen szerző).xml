@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Melto melto a Barany</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Méltó, méltó a Bárány, <br/>Hogy nevét zengje, áldja a Föld! <br/>Legyen tisztesség, erõ, áldás <br/>Annak, aki volt, aki van, s eljõ! <br/>Méltó, méltó a Bárány <br/>Hogy nevét zengje, áldja az Ég! <br/>Leszállott a mennyei fénybõl, <br/>Hogy odaadja éltét a bûnös emberért.</lines>
+    </verse>
+  </lyrics>
+</song>

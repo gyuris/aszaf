@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Vakmero Szeretet (Reckless Love)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő tervedben<br/>Engem is akartál,<br/>Hozzám annyira hű voltál.<br/>Hangot sem adtam még,<br/>Felettem daloltál,<br/>Hozzám annyira jó voltál.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, az el nem múló,<br/>Túláradó,<br/>Vakmerő Szeretet!<br/>Isten felkutatott,<br/>Nem nyugodott,<br/>Amíg meg nem lelt!<br/>Nem érdemeltem,<br/>Ki sem fizettem,<br/>Mégis ingyen enyém lett!<br/>Ó, az el nem múló,<br/>Túláradó,<br/>Vakmerő Szeretet!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ellened küzdöttem,<br/>S Te értem harcoltál,<br/>Hozzám annyira hű voltál.<br/>Megromlott lelkemért<br/>Mindent feláldoztál,<br/>Hozzám annyira jó voltál!<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hegységeken átkelsz,<br/>Sötétségen áttörsz,<br/>Míg utánam eredsz.<br/>Kőfalakat döntesz,<br/>Hazugságot rombolsz,<br/>Míg utánam eredsz.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

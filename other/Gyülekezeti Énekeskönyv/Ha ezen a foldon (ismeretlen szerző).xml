@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Ha ezen a foldon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Ha ezen a földön bármi ér, <br/>Ne csüggedj el, Jézus az ki mindig megsegít <br/>A küzdelemben. Bátor, erõs harcos légy, ne félj, <br/>Ne lankadj el, Tudjad, hogy a gyõzelem tied <br/>Az ellenségen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert Jézus neve, <br/>Jézus ereje, <br/>Jézus vére, örök <br/>A te gyõzelmed!/2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Ha ellenség vesz körül és sötétség: Ne rémülj meg! Jézus nevét hívd segítségül, És nem szégyenülsz meg. Bízzál benne teljes szívedbõl, <br/>És Õ lesz oltalmad, Ne támaszkodjál a te elmédre, Mert megtántorodhatsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Felettébb gyõzöl az által Aki diadalra vezet, Mindenre van erõd Jézusban, <br/>Aki megerõsít téged. Szívvel hiszel igazságában, <br/>És szájjal vallod meg, Hogy Krisztus lakik hit által A te szívedben.</lines>
+    </verse>
+  </lyrics>
+</song>

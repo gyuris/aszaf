@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Fogod Uram kezemet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fogd Uram kezemet, Te vezess engemet, <br/>Nem segít senki más, várok rád! <br/>Viharon, éjszakán vezess át Istenem, <br/>Fényedbe vígy haza engemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha veszély fenyeget, az se bánt engemet, <br/>Minden gond, bú, teher elrepül; <br/>Halld szavam és imám, csak neked élek én, <br/>Fogd kezem, gyermeked, hogyha kér.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Én ujjongva zengem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Én ujjongva zengem,<br/>hogy megváltott engem,<br/>Ki értem adta életét!<br/>Én ujjongva zengem,<br/>hogy megváltott engem,<br/>Övé a dícsőség.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A Sátánt legyőzte örökre,<br/>Hatalmát megtörte,<br/>Velem van az Úr.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Én ujjongva zengem,<br/>hogy szabaddá lettem,<br/>A Fiú megszabadított!<br/>Én ujjongva zengem,<br/>hogy szabaddá lettem,<br/>Valoban szabad vagyok!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A szívem kiáltja: Hál' adás!<br/>Zeng, száll a hódolás<br/>Most az Úr elé!</lines>
+    </verse>
+  </lyrics>
+</song>

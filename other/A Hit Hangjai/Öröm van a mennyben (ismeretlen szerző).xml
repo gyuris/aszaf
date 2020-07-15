@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Öröm van a mennyben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="637"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Öröm van a mennyben egy bűnös felett, <br/>Ha megtérve hazaérkezett. <br/>Fut eléje Atyja, <br/>kinyújtva karját, <br/>Megcsókolja elveszett fiát.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Öröm, öröm van <br/>a mennyben fent, <br/>Angyalének hangzik, hárfa peng, <br/>Öröm van a mennyben egy bűnös felett, <br/>Ha megtérve hazaérkezett.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Öröm van a mennyben, vándor érkezett, <br/>Hazatért, ki egykor elveszett! <br/>Kit a bűne eddig annyit kínozott, <br/>Annak ád Ő bűnbocsánatot.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Öröm, öröm van <br/>a mennyben fent, <br/>Angyalének hangzik, hárfa peng, <br/>Öröm van a mennyben vándor érkezett, <br/>Hazatért, ki egykor elveszett!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Öröm van a mennyben! Gyorsan lakomát! <br/>Vidámság pezsgjen a termen át! <br/>Hirdessétek vígan e hírt szerteszét: <br/>„Egy bűnös az Úrhoz visszatért!”</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Öröm, öröm van <br/>a mennyben fent, <br/>Angyalének hangzik, hárfa peng, <br/>Öröm van a mennyben Gyorsan lakomát! <br/>Vidámság pezsgjen a termen át!</lines>
+    </verse>
+  </lyrics>
+</song>

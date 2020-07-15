@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Gyõzhetetlen én Kõszálom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Győzhetetlen én Kőszálom, <br/>Védelmezőm és kővárom, <br/>A keresztfán drága áron <br/>Oltalmamat Tőled várom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Sebeidnek nagy voltáért, <br/>Engedj kedves áldozatért, <br/>Drága szép piros véredért, <br/>Kit kiöntél ez világért!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Reád bíztam én ügyemet, <br/>Én Jézusom, én lelkemet, <br/>Megepedett bús szívemet, <br/>Szegény, árva, bús fejemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Irgalmazz meg én lelkemnek, <br/>Ki vagy Ura <br/>mennynek, földnek, <br/>Könyörgök csak Felségednek,<br/>Én megváltó Istenemnek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Mutass, Jézus, kies földet,<br/>Lakásomul adj jó helyet, <br/>Ez életben csendességet, <br/>Jövendőben idvességet!</lines>
+    </verse>
+  </lyrics>
+</song>

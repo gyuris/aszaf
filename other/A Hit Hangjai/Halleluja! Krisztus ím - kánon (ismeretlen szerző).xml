@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Halleluja! Krisztus ím - kánon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="267a"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja! <br/>Krisztus ím, feltámadott!<br/>Halleluja! <br/>Sírban nem maradhatott!<br/>Halleluja!<br/>Győzelmével életet hozott!<br/>(Halleluja! Jézus él!)</lines>
+    </verse>
+  </lyrics>
+</song>

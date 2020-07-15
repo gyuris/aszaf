@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hálát adunk, jó Istenünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hálát adunk, jó Istenünk. <br/>Hogy kirendelted ételünk. <br/>Add, hogy testünk tápláltassék,<br/>Neved mibennünk áldassék!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. De nem csupán kenyérrel él <br/>Az ember, míg e testben él,  <br/>Isten beszéde a kenyér,<br/>Mely minden másnál többet ér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Táplálj hát azzal bennünket,<br/>Töltsed be szívünk s lelkünket, <br/>Így akkor testünk, s lelkünk él, <br/>Hálával magasztal, dicsér!</lines>
+    </verse>
+  </lyrics>
+</song>

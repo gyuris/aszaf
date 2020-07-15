@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Meg kell mar vegre</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Meg kell már végre változnom, <br/>Ezt gyakran gondolom.<br/>Kudarcba fullad mindennap, <br/>Minden jószándékom.<br/>Másoktól is sok dorgálást <br/>Kapok ami nagy kár,<br/>Hibám mindenki ismeri, mondja: <br/>Mért nem változol meg végre már?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Más is változna szívesen, <br/>Ha rá gyógyírt tudna,<br/>De régi rossz természete lesz úrrá csak rajta.<br/>Magamban én hányszor mondtam: <br/>De most már vége ám!<br/>Eltûnik mégis csakhamar minden jószándék,<br/>A szégyen vár csak rám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ám drága jó hírt hallottam: <br/>Lehet még új szívem!<br/>A Megváltómhoz fordultam <br/>S szabaddá tett engem.<br/>Ha kéred Õt vággyal tele, <br/>Úr Jézus jól hallja.<br/>Mondj el bátran mindent Neki, <br/>Õ megtisztít minden gonosztól még ma.</lines>
+    </verse>
+  </lyrics>
+</song>

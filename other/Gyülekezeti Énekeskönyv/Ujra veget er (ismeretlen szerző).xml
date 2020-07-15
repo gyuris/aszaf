@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Ujra veget er</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="437"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Újra véget ért egy nap, <br/>Amit Isten szánt nekünk. <br/>A sok csillag fénye beragyogja életünk. <br/>Minden bánat, gond és öröm, <br/>Ami nyomja a szívünk,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te õrzõ, hû kezedbe Urunk, <br/>hadd tegyük. <br/>Minden elmúlik itt a földön, <br/>Vándorút csak életünk, <br/>De Atyánk kegyelme hordoz, <br/>Benne rejtve élhetünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Újra véget ért egy nap, <br/>Hála mindenért neked. <br/>Hála, hogy az éjszakában <br/>Befedez kezed. <br/>Hála, hogy az éjszakában <br/>Megõriz a te hû kezed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Atadom a szivem, meghajtom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Átadom a szívemet, meghajtom a térdemet,<br/>Leborulva a te szent trónod elõtt!<br/>Tiszta kezeket emelek, <br/>Kérlek teljesen újíts meg!<br/>Imádlak szellemben és igazságban téged,<br/>Legyen az egész életem feléd dicséret!</lines>
+    </verse>
+  </lyrics>
+</song>

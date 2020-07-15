@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Edes Atyam ki vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Édes Atyám! Ki vagy a mennyekben, <br/>Hallgasd meg most az énekem.<br/>Szívembõl száll tefeléd hõ imám,<br/>Mert Krisztusban van új életem.<br/>Én már tudom ki vagy és hogy szeretsz,<br/>Golgota mért volt s a kereszt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Az Õ nevében jövök most én hozzád:<br/>Imádom szent lényedet.<br/>Szent Szellemed tanított engem meg<br/>Arra, hogy ki vagy Te nekem.<br/>Tiéd vagyok, tudom nagyon szeretsz,<br/>Én is szeretlek tégedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Fiadban van elrejtve életem,<br/>Örökre ott maradok.<br/>Õbenne élek és Õ bennem él,<br/>Bennem az Õ fénye ragyog.<br/>Nem félek már, új lett az énekem,<br/>Örökre a tiéd vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

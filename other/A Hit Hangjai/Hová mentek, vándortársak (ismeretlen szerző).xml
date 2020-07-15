@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hová mentek, vándortársak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Hová mentek, vándortársak, <br/>Oly sietve fölfelé? <br/>- Nagy Királyunk parancsára <br/>Az igéret földre bé. <br/>Nagy Királyunk dicsországa, <br/>Ez hitünknek céliránya…</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ez hitünknek céliránya: <br/>Az ígéret földje fönt;<br/>Ez hitünknek céliránya: <br/>Az ígéret földje fönt.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Vajon nem ér baj az úton, <br/>Ó, te gyönge kis sereg? <br/>- Angyalt ád Isten oltalmul,<br/>Aki biztosan vezet. <br/>Maga Krisztus harcol értünk,<br/>Ő vezet, mint hű Vezérünk…</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ő vezet, mint hű Vezérünk <br/>Az ígéret-földre föl.<br/>Ő vezet, mint hű Vezérünk<br/>Az ígéret-földre föl.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mi történik véletek majd <br/>Ott a távol honba' fent? <br/>- Jézus ad nékünk ott pálmát,<br/>Mit számunkra félretett. <br/>Szent körében fogunk élni, <br/>És az életvízből inni…</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>És az életvízből inni <br/>Az ígéret földjén fönt;<br/>És az életvízből inni <br/>Az ígéret földjén fönt.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Szabad énnekem is mennem, <br/>Vándortársak, véletek? <br/>- Köszöntünk, testvér, közöttünk, <br/>Szívből nyújtunk most kezet!<br/>Jöjj velünk, míg mennybe érünk, <br/>Jézus készít helyet nékünk…</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Jézus készít helyet nékünk <br/>Az ígéret földjén fönt,<br/>Jézus készít helyet nékünk<br/>Az ígéret földjén fönt.</lines>
+    </verse>
+  </lyrics>
+</song>

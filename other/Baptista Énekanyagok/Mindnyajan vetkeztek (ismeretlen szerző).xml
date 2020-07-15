@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+  <properties>
+    <titles>
+      <title>Mindnyajan vetkeztek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mindnyájan vétkeztek, <br/>mindnyájan elestek,<br/>és egy ember sem akadt,<br/>aki hűséges maradt.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Erőszak, gyilkosság,<br/>minden utad hazugság.<br/>Eljön az ítélet,<br/>mert nem kellett az élet.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Térjetek hozzám, <br/>hogy megtartassatok<br/>egész világ határain,<br/>mert én vagyok, <br/>én vagyok az Isten,<br/>és nincsen más, <br/>aki meg tudna szabadítani.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Elhagytál, megcsaltál, <br/>a hűségben megfáradtál.<br/>Istened a világ lett, <br/>elfoglalta szívedet...</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mégis az enyém vagy,<br/>szívemen hordozlak.<br/>Soha el nem felejtlek,<br/>újra összegyűjtelek.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Önmagamért, csak<br/>magamért teszem,<br/>mert szeretlek, mert szeretlek!<br/>Meggyógyítom az álnok szíveket,<br/>hozzám hűséges népet teremtek.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Légy bátor, készen állj, <br/>légy erős, légy szilárd,<br/>ne félj, érted harcolok, <br/>és majd győzelmet adok.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Indulj hát, és ne várj,<br/>az úton vigyázz, meg ne állj!<br/>Vigasztaljad népemet, <br/>fordítsd hozzám szívüket!</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Mert vizet öntök a szomjúhozóra,<br/>folyóvizet a szárazra,<br/>kiöntöm lelkemet a te magodra,<br/>S áldást árasztok utódaidra.</lines>
+    </verse>
+  </lyrics>
+</song>

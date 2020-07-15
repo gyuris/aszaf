@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Az üdvösség tökéletes</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="085"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Az üdvösség tökéletes, <br/>Mit Jézus ád nekünk. <br/>Üdvszomjasan ragadja meg<br/>E nagy kincset szívünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Ne kétkedjél az Úr szaván,<br/>Ha fel nem foghatod! <br/>Többet tesz éretted az Úr,<br/>Mint elgondolhatod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Igéje tiszta, mint a nap,<br/>S ígérete dicső, <br/>Teljes megváltást ad nekünk<br/>A nagy Üdvözítő.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Ő meghalt, feltámadt és él, <br/>Szentlelke működik, <br/>Munkája mind tökéletes,<br/>Megszentel, üdvözít!</lines>
+    </verse>
+  </lyrics>
+</song>

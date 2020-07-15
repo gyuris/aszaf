@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Áldásoddal megyünk</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="088"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Áldásoddal megyünk,megyünk innen el,<br/>Boldog már a szívünk,Néked énekel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Maradj mindig velünk,ha útra kelünk!<br/>Őrizd életünk mindennap!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó,hadd menjünk Feléd,tekintsünk Terád,<br/>Szentlelkednek tűzet add nékunk tovább!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őrizz,hogy a kezünk legyen tiszta kész!<br/>Szólj ránk, hogy a szívünk legyen jóra kész!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Várunk,áldott Király,siess jöjj hamar!<br/>Oszlasd el a homályt,kérünk jöjj hamar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, gyõztes Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="589"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó, győztes Úr, <br/>Te égbe ment Király, <br/>Uralmad végtelen!<br/>Téged imád néped, mely visszavár <br/>Nagy hittel, szüntelen.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Te készíted helyünket <br/>Atyánknak házánál, <br/>Hol gondjaink megszűnnek <br/>S lelkünk otthont talál.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Mit álltok itt <br/>égre emelt szemmel, <br/>Bús tanítványai?<br/>Elméteket égi értelemmel <br/>Megfogja áldani;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>És visszatér majd egyszer, <br/>Ahogy most mennybe szállt, <br/>Áldásra tárt kezekkel, <br/>Beváltva szent szavát.</lines>
+    </verse>
+  </lyrics>
+</song>

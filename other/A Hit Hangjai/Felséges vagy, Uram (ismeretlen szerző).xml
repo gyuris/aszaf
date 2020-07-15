@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Felséges vagy, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4 /: Felséges vagy, Uram, az egész földön. <br/>Szent Neved minden név fölött való! :/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>/: Magasztallak! Magasztallak!<br/>Magasztallak, ó, Uram! :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4  /: Látható vagy, Uram, az egész földön,<br/>Szent kezed műve mind csodálatos! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4 /: Kegyelmes vagy, Uram, az egész földön,<br/>Nem fizetsz nékünk vétkeink szerint. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4 /: Hűséges vagy, Uram, az egész földön,<br/>Áldásod árad szüntelen reánk. :/</lines>
+    </verse>
+  </lyrics>
+</song>

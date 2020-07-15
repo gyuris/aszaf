@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, Jézusom, Te irgalom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="596"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, Jézusom, Te irgalom, <br/>Te dús kegyelmi forrás, <br/>Kifogyhatatlan gazdagon <br/>Van Benned minden áldás!<br/>Indíts jóra, Irgalomra, <br/>Óvj meg a gyűlölettől, <br/>lángoljak szeretettől!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Oly sok e földön a szegény, <br/>Ki vigasztalást óhajt… <br/>Ó, nevelj, hogy megosszam én <br/>A kenyeret, a sóhajt!<br/>Mert ki segít, És javait <br/>Megosztja itt e földön, <br/>Azt Néked adja kölcsön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Úr Jézus, bőven add nekem <br/>Az irgalomnak lelkét, <br/>Hogy kész örömmel fölvegyem <br/>A fáradt szívek terhét!<br/>Hisz engem is Csak Te segítsz, <br/>Mért ne adnám hát másnak, <br/>Mi Tőled énrám árad?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Bűnbocsánat és irgalom <br/>Oly bőséges Tenálad. <br/>Taníts meg erre gondolnom, <br/>Ha ellenségem támad!<br/>Ó, segíts meg, hogy úgy tegyek, <br/>Mint ahogy Tőled láttam: <br/>Az átkozómat áldjam!</lines>
+    </verse>
+  </lyrics>
+</song>

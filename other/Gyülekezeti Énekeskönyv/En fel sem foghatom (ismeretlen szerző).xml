@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>En fel sem foghatom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Én fel sem foghatom: mily jó az Úr!<br/>Az ajkam zeng hálahalleluját, nyelvem róla szól.:/    <br/> Fine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Hû Jézusom megváltott engem, <br/>Új életet Õ adott nékem.<br/>Most boldogan áldom Õt, <br/>Dicsérem szent nevét,<br/>Én az övé, Õ enyém!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. A terhemet segíti vinnem,<br/>Sok gondomat lábához tettem.<br/>Most nyomdokán járok én, <br/>Dicsérem szent nevét,<br/>Én az övé, Õ enyém!</lines>
+    </verse>
+  </lyrics>
+</song>

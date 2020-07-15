@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>Dicstrónod elé járulunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Dicstrónod elé járulunk, <br/>Felséges Istenünk. <br/>Mély áhítatra buzdulunk,<br/>Vedd hálaénekünk! <br/>Dicsérjük nagy kegyelmedet, <br/>Megmentő, szent szerelmedet, <br/>Kitöltéd ránk irgalmadat;<br/>Legyen Tiéd a hódolat, <br/>Erő, áldás És fölmagasztalás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Te vagy a jóság kútfeje, <br/>Mérhetetlen forrás. <br/>Tűzoszlop, szentség fellege,<br/>Csak Tőled jő áldás. <br/>Tenálad van az oltalom, <br/>Az igaz segély, szánalom, <br/>A léleknek vigasztalás, <br/>Bocsánat és hű pártfogás; <br/>Hozzád futunk,<br/>mindenható Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

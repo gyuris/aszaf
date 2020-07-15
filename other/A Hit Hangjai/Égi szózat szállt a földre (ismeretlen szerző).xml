@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Égi szózat szállt a földre</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Égi szózat szállt a földre,<br/>Minden hangnál kedvesebb. <br/>Ébreszt, éleszt, enyhít, ápol, <br/>Behegeszti a sebet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jöjjetek ti fáradottak, <br/>Terhelt szívek, jöjjetek! <br/>Készítettem íme, néktek Üdvöt, <br/>édes nyughelyet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Néktek szól ez égi szózat,<br/>Akik vágytok üdv után, <br/>Néktek, bűntől meggyötörtek; <br/>S békét leltek nyomdokán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Néktek szól ez, ti, szegények,<br/>Néktek, csendes szenvedők, <br/>Néktek szól, megkötözöttek,<br/>Keresők és zörgetők.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Néktek szól, kik e világnak<br/>Gúnyját, csúfját tűritek, <br/>Gyermeki, mély alázatba <br/>Száll le hívő szívetek.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Elfutnak éveink</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Elfutnak éveink, nincsen itt maradás,<br/>Ám karunk harcol a földiekért: <br/>Pénz, siker, élvezet, mind hiú ragyogás, <br/>S közben a szívünk elvéti a célt. <br/>Van, ami szebb És nemesebb:<br/>Mennyei kincs, amely értékesebb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nincs igaz szánalom: él, aki ügyesebb, <br/>Félelem gyötri a vént, a szegényt. <br/>Gazdagok égnek ki gőgösen, üresen, <br/>Eldobják életük, <br/>vesztve reményt. <br/>Ám odafenn Véglegesen<br/>Ítél az Úr egykor mindeneken.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Hirdesse életünk Mesterünk szavait, <br/>Hallja meg, értse meg mind a világ!<br/>Mind, ami szép, nemes, lelkeket szabadít, <br/>Áradjon általunk egyre tovább! <br/>Vár a szíve Híveire, <br/>Messzire távozott gyermekire.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>Még ha úgy is látszik néha</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="488"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Még ha úgy is látszik néha, <br/>Mintha az Úr már elhagyna,<br/>De én jól tudom, hogy engem, <br/>Magamra nem hagy sosem.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bár az áldást még nem adja, <br/>Számomra azt készen tartja,<br/>Amit ígért, várom hittel, <br/>Mert Ő segít, mikor kell.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Nem adják mindjárt a szülők, <br/>Amit gyermekük kér tőlük.<br/>Uram éppen így tesz vélem, <br/>Ád a kellő időben.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Benne teljes vigaszt leltem <br/>Nyomoromban, szükségemben,<br/>Tudom, gondot visel énrám, <br/>Drága mennyei Atyám.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Szánom e gonosz világot, <br/>Mely rám mond minden csúfságot, <br/>Istenem, aki úgy szeret, <br/>Felkarolja ügyemet.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ha az Úr van mindig vélem, <br/>A halál sem árthat nékem,<br/>Átvezet e földi léten, <br/>Őrá bízom életem.</lines>
+    </verse>
+  </lyrics>
+</song>

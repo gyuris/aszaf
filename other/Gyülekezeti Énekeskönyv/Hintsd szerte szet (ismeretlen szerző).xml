@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Hintsd szerte szet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hintsd szerteszét a szeretet kincseit,<br/>Élj másokért, az Úr téged így tanít!<br/>Ha sóvá lesz az életed, úgy ízesül  a világ,<br/>Megérzik majd az emberek <br/>Az Úr Jézus irgalmát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézusra nézz, Õ legyen a példakép!<br/>Tégy jót, szeress, így mutasd be életét!<br/>A szolgálathoz új erõt <br/>Te mindig csak Tõle várj,<br/>Az Úrtól vedd az égi fényt, <br/>És ragyogj mint napsugár!</lines>
+    </verse>
+  </lyrics>
+</song>

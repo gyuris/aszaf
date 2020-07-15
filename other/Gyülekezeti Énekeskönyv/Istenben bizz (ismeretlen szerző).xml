@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Istenben bizz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="204"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Istenben bízz, ha jönne rád a próba,<br/>Istenben bízz, ha lelked csüggedõ,<br/>Istenben bízz, ha nyom a gond, az élet,<br/>Istenben bízz, mert nagyon szeret Õ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Istenben bízz és sosem fogsz csalódni,<br/>Megáld az Úr és áldás leszel már.<br/>Szíved és házad csupa napsugár lesz, <br/>És benne mindig Jézus a Király.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Istenben bízz, mert benne mindig bízhatsz,<br/>Istenben bízz, Õ legjobb vezetõ,<br/>Istenben bízz, ha csupa fény az élet,<br/>Istenben bízz, mert nagyon szeret Õ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Istenben bízz és légy hû mindig Hozzá,<br/>Istenben bízz, csak benne van erõ,<br/>Istenben bízz, úgy megáld Isten téged,<br/>Istenben bízz, mert nagyon szeret Õ.</lines>
+    </verse>
+  </lyrics>
+</song>

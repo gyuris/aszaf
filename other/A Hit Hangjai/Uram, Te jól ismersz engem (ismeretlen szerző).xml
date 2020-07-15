@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Uram, Te jól ismersz engem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="728"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Uram, Te jól ismersz engem, Mindent jól lát a szemed,<br/>Valamit gondol a szívem, Te mindjárt észre veszed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Hála tölti be szívemet, Szeret az Úr, nagyon szeret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Uram, Te könyörülsz rajtam, Mert a Te irgalmad nagy,<br/>Még szóra sem nyílik ajkam, Értesz, mert jó Atyám vagy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Uram, Te felemelsz engem, Amikor gyenge vagyok, <br/>Hitem is megújul Benned, Olykor, ha meglankadok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Uram, megváltottál engem, Értem is ömlött a vér,<br/>Szenvedtél fönn a kereszten Meghaltál a bűneimért.</lines>
+    </verse>
+  </lyrics>
+</song>

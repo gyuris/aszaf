@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Ím, készen áll az alkotás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="332"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ím, készen áll az alkotás! <br/>Nézd, Isten műve mily csodás!<br/>Halleluja, halleluja!<br/>Jöjj, Nap, aranysugárt vető, <br/>Jöjj, ezüsthintő Hold elő;<br/>Zengjétek, zengjétek: <br/>Halleluja, halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Zengj, égre kúszó fellegár, <br/>Halld, még <br/>a szél is zúgja már:<br/>Halleluja, halleluja!<br/>Szép hajnal, harmatot hagyó, <br/>Hűs alkonyat, békét adó;<br/>Zengjétek, zengjétek: <br/>Halleluja, halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Zúgj, tengerekre szomjazó, <br/>Bő víztől áradó folyó,<br/>Halleluja, halleluja! <br/>Tűz, ó, te titkos őserő, <br/>Zord fellegekbe' fészkelő;<br/>Zengjétek, zengjétek: <br/>Halleluja, halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Visszhangozzék a hálaszó: <br/>Mily nagy az Úr, az Alkotó!<br/>Halleluja, halleluja, halleluja!<br/>Atya, Fiú s Szentlélek Ő, <br/>Szentháromságban egy dicső;<br/>Zengjétek, zengjétek: <br/>Halleluja, halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Vagyod-e elhagyni buneidet</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Vágyod-e elhagyni bűneidet?<br/>Erre van erő, oly szent erő!<br/>Kívánsz-e győzni a Sátán felett?<br/>A Bárány vére az erő.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Van erő, van megmentő erő<br/>A Bárány vérében;<br/>Van erő, van, csodát művelő,<br/>Jézus drága, szent vérében.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Vágyod elhagyni a sok szenvedélyt?<br/>Erre van erő, oly szent erő!<br/>Lelkednek rabláncát ki tépi szét?<br/>A Bárány vére az erő.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vágyod-e, hogy szíved tiszta legyen?<br/>Erre van erő, oly szent erő!<br/>Hogyan lehetsz hófehér, bűntelen?<br/>A Bárány vére az erő.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vágyod-e szolgálni hűn Uradat?<br/>Erre van erő, oly szent erő!<br/>Hálával áldani Őt minden nap?<br/>A Bárány vére az erő.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

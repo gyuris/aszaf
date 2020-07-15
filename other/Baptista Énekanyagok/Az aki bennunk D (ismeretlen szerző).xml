@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az aki bennunk D</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Az, aki bennünk, a szívünkben él<br/>Nagyobb, mint a világ!<br/>A gonosz legyõzve, mert Jézus él,<br/>Nevét térdre hullva áldd!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örvendezve zengjük szerteszét,<br/>Hogy Lelke bennünk él.<br/>Felragyogott Krisztus nagy napja<br/>És mi kiáltjuk gyõzelmét!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Az, aki bennünk, a szívünkben él<br/>Nagyobb, mint a világ!<br/>A gonosz legyõzve, mert Jézus él,<br/>Nevét térdre hullva áldd!<br/>	<br/>Verse2<br/>Gyõzni fog a mennynek szent serege,<br/>A bûnnek vége már.<br/>Meghajol majd Néki minden térd<br/>És dicséri a Királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

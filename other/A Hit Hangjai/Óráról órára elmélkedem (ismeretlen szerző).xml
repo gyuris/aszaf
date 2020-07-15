@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Óráról órára elmélkedem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="622"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Óráról órára elmélkedem, <br/>Életben, halálban Jézus velem. <br/>Őreá várok, átadom magam, <br/>Minden órában enyém hű Uram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Minden órában csak Benne nyugszom, <br/>Életerőt nyújt Ő nékem, tudom. <br/>Őreá várok, átadom magam, <br/>Minden órában velem van Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézusnál szűnik a könny, fájdalom, <br/>Szívét megérinti a sóhajom. <br/>Ha hívom, meghallja esdő szavam, <br/>Minden órában enyhet ad Uram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Kísértés, próba közt sosem hagy el, <br/>Bánatban vigasztal és felemel.<br/>Bűneim terhét leveszi rólam, <br/>Minden órában gondoz hű Uram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Igazság szép napja felém ragyog:<br/>Jézus küzd értem, és Ő győzni fog.<br/>Veszélyben oltalmam, erős váram, <br/>Minden órában megvéd hű Uram</lines>
+    </verse>
+  </lyrics>
+</song>

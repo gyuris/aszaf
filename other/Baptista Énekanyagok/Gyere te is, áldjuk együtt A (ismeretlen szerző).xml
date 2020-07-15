@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyere te is, áldjuk együtt A</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gyere te is, áldjuk együtt<br/>Azt, ki a sírból felkelt,<br/>Jézust, nagy Királyunkat,<br/>Magasztaljuk Õt!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gyere, gyere, áldjuk együtt<br/>Azt, aki most is itt van,<br/>Jézust, szent Megváltónkat,<br/>Magasztaljuk Õt, csak Õt!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Úr Jézus, dicsérünk,<br/>imádunk Téged,<br/>felemeljük most szent Neved,<br/>Magasztalunk!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tied a dicséret<br/>És a tisztesség, <br/>Tied, senki másé,<br/>Minden dicsõség!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, hála, Úr Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="592"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, hála, Úr Jézus, <br/>hogy Tiéd vagyok, <br/>És reám új életnek <br/>fénye ragyog. <br/>Nagy kegyelmed dicsérem, <br/>mert megmentett, <br/>S a Szentlélek által újjá teremtett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, hála, Úr Jézus, <br/>hogy szabad vagyok, <br/>S mint megváltott, <br/>Tenéked szolgálhatok!<br/>De nem így volt egykor, <br/>míg bűnben jártam <br/>És balgán <br/>a Sátán zsoldjában álltam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, hála, Úr Jézus, <br/>hogy enyém lettél, <br/>S kifolyt véred árán üdvöt szereztél!<br/>Nem kell már e világ sok csábja nekem, <br/>Oltárodra teszem egész életem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, hála, Úr Jézus, <br/>hogy békét adtál <br/>És szent szövetségedbe választottál!<br/>Vedd hát ezért hálából szívem s elmém, <br/>Az ajkam ujjong <br/>Neved dicséretén!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Aldott legyen az Ur</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott legyen az Úr, az én Kõsziklám!<br/>Áldott legyen az Úr, pajzsom, oltalmam, <br/>Csak benne van erõ, és tõle van az élet, <br/>Áldott legyen az Úr mindenek fölött!</lines>
+    </verse>
+  </lyrics>
+</song>

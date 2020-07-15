@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Tegy eggye Urunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="413"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tégy eggyé, Urunk! Tégy eggyé, Urunk, <br/>Hogy meglássa a világ, hogy eljöttél, <br/>Tégy eggyé, Urunk! <br/>Ó, mily szép, mily gyönyörûséges <br/>A testvérekkel egységben lenni! <br/>Az Úr áldása bõven árad ránk, <br/>Mint túlcsorduló olaj!</lines>
+    </verse>
+  </lyrics>
+</song>

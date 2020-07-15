@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>O Edesatyam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, Édesatyám, oly boldog voltam,<br/>Mikor mennyei Atyám, megismertelek.<br/>Érzem szüntelen az életem fölött <br/>Drága jó Uram kegyelmedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Ragaszkodom Hozzád, <br/>Ha minden mellettem sötét,<br/>Ragaszkodom Hozzád, <br/>Mert Te vagy a fény.<br/>/:Akaratom s életem, <br/>Jézus kezedbe leteszem,<br/>Ragaszkodom Hozzád, <br/>Mert szeretlek én.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ó, Édesatyám, nyújtsd ki szent kezed, <br/>Hogy új lelkeket nyerjen meg Szent Szellemed.<br/>Sokan vannak még akik nem ismerték meg<br/>Drága jó Uram, kegyelmedet.</lines>
+    </verse>
+  </lyrics>
+</song>

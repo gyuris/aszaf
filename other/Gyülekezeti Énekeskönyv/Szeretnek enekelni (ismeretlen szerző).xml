@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Szeretnek enekelni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="393"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szeretnék énekelni néked Uram, <br/>Te nyisd meg ajkamat, <br/>Hogy szent legyen mindig az ének, <br/>Amely szívembõl fölfakad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Hadd zengjem el, hogy százszor áldott, <br/>Keresztednél ki megpihen. <br/>Hadd zengjem el, hogy megtalált ott <br/>S békére lelt az én szívem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Szeretném énekelni másnak, <br/>Hogy néked énekelni jó, <br/>Hogy életünk bús lázadás csak, <br/>Míg el nem éri az égi szó. Refrén: <br/>3. Szeretnék énekelni néked <br/>Folyton, ameddig itt leszek. <br/>Szeretnék hangot adni szépet, <br/>Mikor szívemhez érkezel.</lines>
+    </verse>
+  </lyrics>
+</song>

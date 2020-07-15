@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, kérlek tisztíts meg engem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="601"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, kérlek tisztíts meg engem, <br/>Egészen mosd le vétkemet!<br/>Egyedül Téged sértettelek, <br/>Mert rútul cselekedtem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ne rejtsd el én tőlem orcád, <br/>Mert bűnöm bánt és vétkem fáj; <br/>Irgalmas szívvel fordulj hozzám, <br/>Ó, áraszd kegyelmed rám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ne vedd el Szent Lelked tőlem, <br/>Vidámítsd meg a szívemet, <br/>Hadd mondjam el a bűnösöknek, <br/>Hogy Hozzád megtérjenek!</lines>
+    </verse>
+  </lyrics>
+</song>

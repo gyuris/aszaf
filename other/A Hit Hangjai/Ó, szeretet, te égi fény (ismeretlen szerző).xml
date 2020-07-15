@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Ó, szeretet, te égi fény</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="627"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó szeretet, te égi fény, <br/>A szívem napja vagy. <br/>Ha fenn ragyogsz éltem egén,<br/>Nem érzek kínokat.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Az éj múlik, nincs már homály,<br/>Ha látom fényedet, <br/>És áldott béke árad rám, <br/>Ha érzem szent tüzed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Tökéletes nagy Szeretet<br/>Ó, járjad át a szívemet! <br/>Terjesszek fényt, az éjen át,<br/>Míg elérem a menny honát!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. A kínkeresztről áradt rám<br/>Az égi szeretet, <br/>Megindította szívemet <br/>És hitre ébresztett:</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Már jól tudom, hogy Jézus az, <br/>Aki szeret nagyon,<br/>A bűnömért lett áldozat,<br/>Csak Őt magasztalom.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Az élet napja rám ragyog<br/>És vezet fényével, <br/>Mert Jézus hozzám már betért,<br/>Itt van: Immánuel!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Csak Néki zeng az énekem<br/>E kín völgyében lent, <br/>Míg színről-színre látom <br/>Őt A mennyországban fent</lines>
+    </verse>
+  </lyrics>
+</song>

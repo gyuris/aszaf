@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Abba Atyank</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Abbá Atyánk, mi hozzád járulunk, <br/>Hozzád járulunk, hû Urunk. <br/>Dicsérjük neved, a legszentebb nevet.  <br/>Hálás szívvel imádunk téged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus, Urunk, mi hozzád járulunk, <br/>Hozzád járulunk, hû Urunk. <br/>Dicsérjük neved, a legszentebb nevet. <br/>Hálás szívvel imádunk téged!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szellemed által mi hozzád járulunk, <br/>Hozzád járulunk, hû Urunk. <br/>Dicsérjük neved, a legszentebb nevet. <br/>Hálás szívvel imádunk téged!:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Isten áldjon, míg viszontlátunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten áldjon, míg viszontlátunk;<br/>Jó tanáccsal támogasson, <br/>Nyája között Ő megtartson,<br/>Isten áldjon, míg viszontlátunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Míg viszontláthatunk,<br/>Isten előtt állhatunk. <br/>Ő legyen véletek, <br/>Amíg újra viszontláthatunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Isten áldjon, míg viszontlátunk;<br/>Szárnyaival betakarjon, <br/>Életkenyérrel tápláljon! <br/>Isten áldjon, míg viszontlátunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Isten áldjon, míg viszontlátunk; <br/>Hogyha tornyosul vészfelhő, <br/>Szent karjával védjen meg Ő!<br/>Isten áldjon, míg viszontlátunk!</lines>
+    </verse>
+  </lyrics>
+</song>

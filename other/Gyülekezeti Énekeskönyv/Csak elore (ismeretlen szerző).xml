@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Csak elore</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Csak elõre, fel a harcra, <br/>Fõvezérünk mivelünk! <br/>Az Õ nagy szeretetével <br/>Mi mindent legyõzhetünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Zengve, gyõzve, <br/>Zengve, gyõzve, gyõzve Õvele. <br/>Csak elõre, meg lesz nyerve <br/>Néki mind a föld tere! <br/>Zengve, gyõzve, <br/>Zengve, gyõzve, gyõzve Õvele. <br/>Csak elõre, meg lesz nyerve <br/>Néki mind az egész föld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Csak elõre, ki van bontva, <br/>Nagy királyunk zászlaja! <br/>Csak elõre, íme szól a <br/>Diadalmi harsona.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Csak elõre, Jézusunknak <br/>Nagy ügyéért harcolunk, <br/>Mikor a sok szegény lélek <br/>Megmentésén fáradunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Csak elõre, nincs már messze <br/>Sion arany városa, <br/>Hol a gyõztes bajnokokra <br/>Vár az életkorona!</lines>
+    </verse>
+  </lyrics>
+</song>

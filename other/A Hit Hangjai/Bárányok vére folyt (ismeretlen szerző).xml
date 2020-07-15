@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>Bárányok vére folyt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bárányok vére folyt<br/>Egykor a szent helyen, <br/>Ám elégséges egy sem volt,<br/>Hogy bűntől megmentsen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Istennek Báránya, <br/>Te vagy az egyetlen,<br/>Ki magad tetted oltárra,<br/>Hogy életem legyen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Két kezem Rád teszem,<br/>Ártatlan, szent Bárány,<br/>Hogy legyen Rajtad bűnterhem,<br/>S elvedd véred árán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Bűntartozásomat<br/>Véred eltörli mind. <br/>Ez nékem lelki békét ad,<br/>És rám kegyelmet hint.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Már jöhetek Eléd<br/>Átoktól mentesen, <br/>Üdvszerző véred erejét<br/>Örökké dicsérem</lines>
+    </verse>
+  </lyrics>
+</song>

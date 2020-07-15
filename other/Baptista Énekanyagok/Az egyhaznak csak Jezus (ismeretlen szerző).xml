@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az egyhaznak csak Jezus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az egyháznak csak Jézus A fundamentuma,<br/>A szent Igére épült Fel lelki temploma.<br/>Leszállt a mennyből hívni És eljegyezni őt,<br/>Megváltva drága vérén A váltságban hivőt.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kihívott minden népből Egy lelki népet itt,<br/>Kit egy Úr, egy keresztség És egy hit egyesít.<br/>Csak egy Nevet magasztal, Csak egy cél vonja őt,<br/>És egy terített asztal Ád néki új erőt.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A világ fejedelme Föltámad ellene,<br/>Vagy hamis tudománytól Gyaláztatik Neve;<br/>Míg egykor felderül majd Az Úrnak hajnala,<br/>Csak virrasztói kérdik: „Meddig az éjszaka?”<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Sok bajban, küzdelemben Meghajszolt, megvetett.<br/>De szent megújulásért És békéért eped:<br/>Míg látomása egykor Dicsőn beteljesül,<br/>S a győzedelmes egyház Urával egyesül.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. A háromegy Istennel Már itt a földön egy,<br/>S az üdvözült sereggel Egy nép és egy sereg.<br/>Ó, mily áldott reménység: Ha itt időnk lejár,<br/>Te boldog szentjeiddel Fönn Nálad béke vár!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

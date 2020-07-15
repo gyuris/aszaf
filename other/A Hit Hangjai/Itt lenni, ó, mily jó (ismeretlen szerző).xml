@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Itt lenni, ó, mily jó</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Itt lenni, ó, mily jó nekünk, <br/>Tevéled, áldott Mesterünk,<br/>A megdicsőülés hegyén, <br/>Hol minden csodás, tiszta fény!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Itt Mózes áll törvényeden, <br/>Ott Illés, ki a Hóreben,<br/>Hallotta meg az égen át <br/>Az Úr halk és szelíd szavát.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Itt lenni, ó, mily jó nekünk, <br/>Tevéled, áldott Mesterünk, <br/>Hol minden földit elfeled <br/>A szív, és örvendez Neked.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Át messzetűnő tájakon <br/>Lelkünk repül sasszárnyakon,<br/>Hogy Nálad leljen pihenőt, <br/>Ki Úr vagy mindenek fölött!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Itt lenni, ó, mily jó nekünk, <br/>Tevéled, áldott Mesterünk,<br/>Hol fényben láttatod magad, <br/>Ó, hadd csodáljuk arcodat!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hermon hegyén, mi égig ér, <br/>Nincs hó, mi lenne oly fehér, <br/>Ha üdvöm megtalálhatom, <br/>Orcád örökre láthatom.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Itt lenni, ó, mily jó nekünk, <br/>Tevéled, áldott Mesterünk,<br/>Az éj homálya átölel, <br/>A messze ég most oly közel!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Azért küldötte el Fiát,<br/>Hogy meghajolj a Szent előtt, <br/>S figyelmes füllel hallgasd Őt!</lines>
+    </verse>
+  </lyrics>
+</song>
