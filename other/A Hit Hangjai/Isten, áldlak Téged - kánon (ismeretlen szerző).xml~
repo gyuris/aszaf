@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Isten, áldlak Téged - kánon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="320a"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Isten, áldlak Téged,<br/>Fogadj el Tiédnek, <br/>Néked élek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus, áldlak Téged, <br/>Fogadj el Tiédnek, <br/>Néked élek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Lélek, áldlak Téged, <br/>Fogadj el Tiédnek,<br/>Néked élek!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Rád bízom G</title>
+    </titles>
+    <verseOrder>v1 v1 v1 v2 v2 v2 v3 v3 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Rád bízom, rád bízom,<br/>a nehéz napokat rád bízom.<br/>Rád bízom, rád bízom<br/>a fényes napokat is.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sorsom legyen a te kezedben,<br/>Biztos helye van a féltő szívedben<br/>- ezért hát:</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nem félek, nem félek,<br/>ha volna mitől is, nem félek.<br/>Nem félek, nem félek,<br/>de kérem az erődet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Támaszt keresek az erődben,<br/>Vigaszt a szomorú, nehéz időkben<br/>- ha lesznek.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Reménység, reménység,<br/>a holnap felől is reménység.<br/>Reménység, reménység,<br/>megtart, ha jön a kétség.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Fény lesz ott, ahol ma sötétség,<br/>Élet ott, ahol ma reménytelenség<br/>- ezért hát:</lines>
+    </verse>
+  </lyrics>
+</song>

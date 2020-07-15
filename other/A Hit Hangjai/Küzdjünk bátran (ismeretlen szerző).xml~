@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Küzdjünk bátran</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="435"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Küzdjünk bátran, keresztyének, <br/>Kézben legyen fegyverünk, <br/>Mert a sátán nagy erővel <br/>Folyton támad ellenünk!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hit legyen a mi pajzsunk, <br/>Üdvösség a sisakunk, <br/>Békesség lábunk saruja, <br/>Igazmondás mellvasunk!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Azért bátran csak előre, <br/>Föl keresztyén, mit se félj! <br/>Hallgass a Vezér szavára, <br/>Benne bízzál, higgy, remélj!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nem a vér és nem a test, <br/>Mely ellenünk harcot kezd; <br/>A sötétség fejedelme, <br/>A gonoszság lelke ez.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ez a világ folyton támad, <br/>Mégis bátor a szívünk. <br/>Jézus Krisztus a vezérünk, <br/>Küzd és harcol érettünk,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Teljes a mi örömünk, <br/>Biztos a mi győzelmünk, <br/>Mert Ő nem hagy soha minket, <br/>Jézus itt van mellettünk.</lines>
+    </verse>
+  </lyrics>
+</song>

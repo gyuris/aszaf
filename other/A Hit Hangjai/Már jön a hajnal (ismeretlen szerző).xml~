@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Már jön a hajnal</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="461"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Már jön a hajnal, az éjnek vége, <br/>Már dicsőn virrad az örök nap.<br/>E földi létnek sok gondja, könnye, <br/>Ha jön a hajnal, mind itt marad.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Már jön a hajnal, ó, zengj, te szív, <br/>Jézus jön értünk és hazahív!<br/>E földi létnek sok gondja, könnye, <br/>Ha jön a hajnal, mind itt marad.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Már jön a hajnal, a nagy nap virrad, <br/>Oszlanak már a zord fellegek.<br/>És elfeledjük a fájó múltat, <br/>Az Úr letörli a könnyeket.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Már jön a hajnal, ó, zengj, te szív, <br/>Jézus jön értünk, és hazahív!<br/>És elfeledjük a fájó múltat, <br/>Az Úr letörli a könnyeket.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Már jön a hajnal, hív Jézus haza, <br/>Jóságos Atyja keblére von.<br/>Az angyal-ezrek hőn üdvözölnek, <br/>Miénk lesz fönn a mennyei hon.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Már jön a hajnal, ó, zengj, te szív, <br/>Jézus jön értünk, és hazahív!<br/>Az angyal-ezrek hőn üdvözölnek, <br/>Miénk lesz fönn a mennyei hon.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Már jön a hajnal, és viszontlátjuk <br/>A zordon sírok szent foglyait.<br/>A mennyben többé már el nem válunk, <br/>Ím, jön a hajnal, testvéreim!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Már jön a hajnal, ó, zengj, te szív, <br/>Jézus jön értünk, és hazahív!<br/>A mennyben többé már el nem válunk,<br/>Ím jön a hajnal, testvéreim!</lines>
+    </verse>
+  </lyrics>
+</song>

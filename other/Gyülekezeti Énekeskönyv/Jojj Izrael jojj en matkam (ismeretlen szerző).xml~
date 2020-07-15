@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Jojj Izrael jojj en matkam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjj Izráel, jöjj én mátkám, <br/>Itt van már a võlegény! <br/>Öltsd fel hamar fehér ruhád, <br/>Mennyegzõbe viszlek én!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Kelj fel, kelj fel, <br/>Ma felvirradt a te napod, <br/>És rajtad a fény felragyog, <br/>Mert jön már Urad Jézusod, <br/>Mert jön már Urad, Jézusod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Íme, szóltál: „Jöjj szívem kedvese, <br/>Izráelnek szentje jõ, <br/>Fogadd méltóan, minden készen van, <br/>Ünnepeljünk, eljött az idõ!“</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Halld Izráel, kér Istened, <br/>Neveden hív, szólít ma:<br/>„Térj Énhozzám, én szeretlek! <br/>Enyém vagy, mert megváltottalak.“</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:32">
+  <properties>
+    <titles>
+      <title>Ha atadod nekem a szived</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha átadod nekem a szívedet, <br/>Jöjj, ne félj, csak jöjj hozzám! <br/>Én megtisztítom azt teljesen, <br/>Jöjj, ne félj, csak jöjj hozzám! <br/>Ó, bûnös, hát jöjj hozzám, <br/>A bûnöd ma tedd le rám, <br/>Szentlelkemet adom neked, <br/>Kérlek, ne várj tovább!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Én meggyógyítom az életed, <br/>Jöjj, ne félj, csak jöjj hozzám! <br/>És elveszem mind a terhedet, <br/>Jöjj, ne félj, csak csak  jöjj hozzám! <br/>Ó, bûnös, hát jöjj hozzám, <br/>A bûnöd ma tedd le rám, <br/>Szentlelkemet adom neked, <br/>Kérlek, ne várj tovább!</lines>
+    </verse>
+  </lyrics>
+</song>

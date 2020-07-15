@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Hálás szívvel áldunk Téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Hálás szívvel áldunk <br/>Téged, Istenünk. <br/>Nézz le ránk az égből, <br/>Halld meg énekünk!<br/>Trónod meg nem rendül, <br/>Mindvégig megáll.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zengjen hallelujánk<br/>Hozzád, nagy Király!<br/>Zengjen hallelujánk <br/>Hozzád, nagy Király!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Jézus Krisztus, Úrként <br/>Szívből tisztelünk, <br/>Mert e földre jöttél, <br/>Hogy elvedd a bűnt. <br/>Bárányként meghaltál <br/>Értünk Golgotán,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A halált legyőzted <br/>Húsvét hajnalán. <br/>A halált legyőzted <br/>Húsvét hajnalán.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ott ülsz Isten jobbján <br/>Fényes trónuson; <br/>Égi lények folyton <br/>Áldnak hódolón. <br/>Ég s föld minden lénye <br/>Végül megtudja,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hogy Te vagy a Bíró, <br/>Ég és föld Ura!<br/>Hogy Te vagy a Bíró, <br/>Ég és föld Ura!</lines>
+    </verse>
+  </lyrics>
+</song>

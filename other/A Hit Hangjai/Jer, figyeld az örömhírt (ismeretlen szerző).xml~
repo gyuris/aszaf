@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>Jer, figyeld az örömhírt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Jer, figyeld az örömhírt: <br/>Jézus él, ó, ne félj!<br/>Reng a föld, megnyílt a sír: <br/>Jézus él, ó, ne félj!<br/>Minden népek zengjetek, <br/>Ez a jó hír töltsön meg <br/>Hegyet, völgyet, bérceket: <br/>Jézus él, ó, ne félj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Dereng már a hajnalpír, <br/>Jézus él, ó, ne félj!<br/>Szelek szárnyán száll a hír: <br/>Jézus él, ó, ne félj!<br/>Íme jő nagy népsereg, <br/>Örvend már e hír felett, <br/>Zengi ezt az éneket: <br/>Jézus él, ó, ne félj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Mondjad annak, aki sír: <br/>Jézus él, ó, ne félj! <br/>Megtört szívre kész az ír: <br/>Jézus él, ó, ne félj!<br/>Hogyha bűnöd vérpiros, <br/>Jézus hófehérre mos,<br/>Érted is meghalt, de most Jézus él, ó, ne félj!</lines>
+    </verse>
+  </lyrics>
+</song>

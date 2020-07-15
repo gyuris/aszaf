@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Halld csak, halld az éj csendjében</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Halld csak, halld az éj csendjében, <br/>Benned mi kopog!<br/>Zörgetését folyton hallod, <br/>Hogy mi, nem tudod?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ó, ne mondd, hogy véred lüktet! <br/>Ez egy benső hang;<br/>Megváltód kopogtat, s mondja:<br/>Nyisd meg ajtódat!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Lásd, sokakhoz hírtelen jő <br/>A halál gyakran<br/>Nem kopogtat, se nem kérdez, <br/>Ám betör gyorsan.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ó, de Jézus vár sokáig, <br/>Kéri szívedet;<br/>Végül majd tovább megy búsan,<br/>Akkor, jaj neked!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Majd egykor te állsz kinn kérve: <br/>Nyisd meg, ó, Uram!<br/>Kéztördelve fogsz ott várni, <br/>S látod, zárva van.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Az, ki nálad mindhiába <br/>Annyit zörgetett,<br/>Akkor majd, ó, szegény bűnös, <br/>Ő sem ismer meg.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Még ma csendben,<br/>türelemmel Téged kérve-kér.<br/>Halld meg hangját, <br/>nyisd meg ajtód, És hozzád betér.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Isten Fia vendéged lesz, <br/>Veled vacsorál,<br/>Üdvöt ad és boldoggá tesz, <br/>Ő, a nagy Király.</lines>
+    </verse>
+  </lyrics>
+</song>

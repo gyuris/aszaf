@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kialtottam hozzad D</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiáltottam Hozzád,<br/>s Te meghallgattad imám,<br/>Mind elvetted a bűnömet,<br/>hogy boldog legyek,<br/>Nem bántam meg, nem bánom meg,<br/>Amit teszek nem szégyellem,<br/>Megvallom Őt, Isten Fiát,<br/>és mindeneknek Urát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten, Istennek Szent Szelleme,<br/>Töltsél be engem,<br/>maradj meg bennem, ámen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hallod ma Jézus szavát,<br/>kedves testvér ne tétovázz,<br/>Jöjj elébe, borulj térdre,<br/>s mondd ki, hogy szereted,<br/>Nincs nála jobb, sem szeretőbb, <br/>Az életét adta, fogadd el Őt,<br/>Nem bánod meg, hisz életet nyersz,<br/>Amit Ő nyújt az az örök élet.</lines>
+    </verse>
+  </lyrics>
+</song>

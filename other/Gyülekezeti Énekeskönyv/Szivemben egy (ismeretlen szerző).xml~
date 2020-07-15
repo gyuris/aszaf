@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Szivemben egy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szívemben egy csodálatos fényesség van,<br/>Itt van Jézus, itt van Jézus!<br/>E világnak teljes bûnös sötétsége <br/>Szívem fényét soha ki nem olthatja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Itt van Jézus, itt van Jézus.<br/>Világosság Õ már századokon át,<br/>Ha majd Hold és a Nap örökre kialszik, <br/>Egyedüli világosság Jézus lesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ha a gondok, vágyak meg akarnak törni,<br/>Itt van Jézus, itt van Jézus!<br/>Áldott keze megóv, megvéd, megszabadít,<br/>Napról-napra mindig kedvesebb nekem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Alkonyodik, leszáll az est mégsem félek.<br/>Itt van Jézus, itt van Jézus!<br/>Velem van Megváltóm, Õ a legdicsõbb fény,<br/>Halálom óráján is mellettem áll.</lines>
+    </verse>
+  </lyrics>
+</song>

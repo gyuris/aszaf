@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Ahogy a felhok folott</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>Ahogy a felhõk fölött mindig süt a nap,<br/>És a fákon minden évben rügy fakad.<br/>A télre újból tavasz jön, <br/>Eláraszt áldott fényözön,<br/>Isten hozzád mindig hû marad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Mikor a kísértõ ámító szavakkal <br/>Meg akar kísérteni.<br/>Azt mondja teneked: Úgyis hiába már <br/>Küzdeni, ne higgy neki!<br/>Bízzál mindig az Úrban, <br/>Éjjel nappal veled van.<br/>Akire Õ vigyáz, annak az életét <br/>nem kell félteni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Mikor a kívánság megfogja lelkedet, <br/>De nehéz lemondani.<br/>És, hogy a gondolat valóra ne váljon, <br/>Ellene kell állani.<br/>Isten mindig erõt ad, <br/>Tõled függ, hogy elfogadd.<br/>Õ mindig megsegít, <br/>Ezt soha nem szabad elfelejteni.</lines>
+    </verse>
+  </lyrics>
+</song>

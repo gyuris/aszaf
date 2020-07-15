@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Jezus Messias</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus, Messiás, <br/>Neve minden név fölött való!<br/>Õ a kezdet és a vég, <br/>Az elsõ és az utolsó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>És aki hallja az mondja, <br/>Hogy „Jövel!”, aki szomjas, jöjjön el!<br/>És aki akarja, mind vegye el <br/>Az élet vizét ingyen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Jézus, Messiás, <br/>Dávid gyökere, ága, <br/>Izráel reménysége, <br/>Ama fényes hajnali csillag.</lines>
+    </verse>
+  </lyrics>
+</song>

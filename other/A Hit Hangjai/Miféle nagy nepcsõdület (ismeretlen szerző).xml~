@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:07">
+  <properties>
+    <titles>
+      <title>Miféle nagy nepcsõdület</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="494"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Miféle nagy népcsődület, <br/>És mit akar e nagy tömeg, <br/>Mely összejön nap-nap után, <br/>E nép, ó, vajon mit kíván? <br/>/: Halld, mily örömmel hirdetik: <br/>Názáreti Jézus most megy itt! :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. De hát e Jézus ki lehet, <br/>Hogy így buzdul e népsereg? <br/>Ifjú, öreg és sok beteg, <br/>Mindenfelől Hozzá siet. <br/>/: És íme, újból hirdetik: <br/>Názáreti Jézus most megy itt! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A drága Jézus Krisztus Ő, <br/>A Megváltó, Üdvözítő! <br/>Szavára föltámad a holt, <br/>És járni kezd, ki sánta volt. <br/>/: Még a vakok is hirdetik: <br/>Názáreti Jézus most megy itt! :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Mily áldás, hogy még szerte jár, <br/>És bűnösökre most is vár, <br/>Zörget, keres köröskörül, <br/>Örül, ha ember üdvözül. <br/>/: Hirdessük szerte ezt a hírt: <br/>Názáreti Jézus most megy itt! :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Ó, bűnös, tárd ki szívedet, <br/>Ma még üdvöd megnyerheted, <br/>De ha a kegyidő lejár, <br/>Akkor megtérni késő már! <br/>/: Késő! A föld e jajtól reng: <br/>Názáreti Jézus már elment! :/</lines>
+    </verse>
+  </lyrics>
+</song>

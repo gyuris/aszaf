@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Isten fenye I/84 F -&gt; G</title>
+    </titles>
+    <verseOrder>v1 v1 v2 v1 v3 v1 v1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>/: Isten fénye út a sötétben,<br/>Isten fénye út a sötétben! :/</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>/: Fogd a kezünk,<br/>(Jöjj hát, gyere velünk!)<br/>Ó, Isten útján együtt<br/>hadd menjünk! :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Istenünknek nagy a hatalma,<br/>Istenünknek nagy a hatalma! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Isten Lelke az ki erõt ad,<br/>Isten Lelke az ki erõt ad! :/</lines>
+    </verse>
+  </lyrics>
+</song>

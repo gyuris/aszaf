@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, jöjj, Megváltó Jézusom - kánon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="602a"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, jöjj, Megváltó Jézusom, <br/>a szívem Néked megnyitom!<br/>Légy áldott, Krisztusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szentlelked által járj velünk, <br/>míg Hozzád <br/>mennybe érkezünk!<br/>Légy áldott, Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A búnak gyásznak, vége lesz, <br/>a szívünk hálát zengedez.<br/>Légy áldott szüntelen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Csak Istennel csendesul</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén: <br/>Csak Istennél csendesül el a lelkem, <br/>Tõle kapok reménységet, <br/>Csak Õ az én kõsziklám, szabadítóm, <br/>Erõs váram, nem ingadozom sokáig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bízzatok Benne, ti népek, <br/>Most öntsétek ki szívetek, <br/>Mert Isten, egyedül Isten, <br/>Az Isten a mi oltalmunk.</lines>
+    </verse>
+  </lyrics>
+</song>

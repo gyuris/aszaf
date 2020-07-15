@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Nagy Fõpapunk, add nékünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="536"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nagy Főpapunk, add nékünk, <br/>Kik színed elé lépünk, <br/>Az áhítat csendjét; <br/>Űzd el most gondjainkat, <br/>Hogy imakarjainkat <br/>Buzgón emeljük Tefeléd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hadd buzduljunk mindnyájan <br/>Egymás imája által <br/>Zengni dicséreted! <br/>Tedd bensőnk templomoddá, <br/>Bűnterhétől szabaddá, <br/>Hogy legyünk <br/>egységben Veled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Fület adj, mely Rád hallgat, <br/>És szemet, mely nem lankad <br/>Szemlélni Tégedet, <br/>Adj gyermeki bizalmat, <br/>Megszentelt szívet, ajkat, <br/>S lábat, mely járni kész Veled!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nyisd meg hitünk világát, <br/>Add szent Igéd tanácsát, <br/>Mely jó utat mutat! <br/>Szálljon trónod elébe, <br/>Népednek könyörgése, <br/>Mint jóillatú áldozat!</lines>
+    </verse>
+  </lyrics>
+</song>

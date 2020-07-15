@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>Szép Hajnalcsillag</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="687"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Szép Hajnalcsillag tündököl,<br/>Róla igazság, kegy ömöl;<br/>Kihajtott Jesse törzse. <br/>Dávid királynak sarja Ő,<br/>Nincs senki oly szent, oly dicső;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ő lelkem Vőlegénye!<br/>Kedves, Kegyes, Szép és nyájas,<br/>Nagy, hatalmas, Dús a jóban; <br/>Csodálatos Ő valóban.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Legdrágább kincs, szép korona,<br/>Teremtő Isten szent Fia, <br/>Király nagy égi díszben! <br/>Szent Igéd az én örömem,<br/>Aranynál drágább ez nekem;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hozzád hasonló nincsen. <br/>Hála, Hála, Hozsianna! Égi manna, <br/>Élet kenyér, <br/>Lelkem csak teáltalad él.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Tetőled jön a fénysugár,<br/>Mikor lenézel énreám <br/>Kegyes tekinteteddel. <br/>Jézus, Te vagy e drága fény,<br/>Igéd és véred már enyém,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Vezérelsz Szentlelkeddel.<br/>Óvod, Hordod <br/>Védelmedben, Kegyelmedben <br/>Árva éltem; <br/>Megbocsátod minden vétkem.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Szép hangú hárfák, pengjetek, <br/>Kórusok, vígan zengjetek <br/>Magasztaló zsoltáron Krisztusnak, <br/>ki köztünk lakott, <br/>Bűnrabságból kiragadott,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>S megváltott drága áron!<br/>Csengjen, Zengjen Hálaének <br/>Nagy Nevének Mindörökre, <br/>Mert Ő méltó dicséretre!</lines>
+    </verse>
+  </lyrics>
+</song>

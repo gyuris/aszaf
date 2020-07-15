@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-10T17:00:06">
+  <properties>
+    <titles>
+      <title>Draga Barany</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drága bárány Szent és méltó,<br/>Ki érettünk megölettél.<br/>Szívemből száll fel Hozzád egy új dal,<br/>Ki ott ülsz fent atyád jobbján.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy<br/>Mindenható Úristen;<br/>Aki volt, aki van és eljövendő.<br/>Énekli minden élő Szívből dicséretét.<br/>Imádlak mindenem, Királyom, örökké.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szivárványból szőtt Ruhát vettél fel<br/>Villámok fénye vesz körül.<br/>Áldás erő, dicsőség Hála és tisztelet<br/>Csak téged illet senki mást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ámulatal Így csodállak<br/>Mikor hangod szól hozzám.<br/>Nevedből erő árad, Élő vized reményt ad,<br/>Csodálatos rejtély vagy Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

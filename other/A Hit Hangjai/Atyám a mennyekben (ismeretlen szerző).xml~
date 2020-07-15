@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Atyám a mennyekben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="053"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Atyám a mennyekben folyvást vigyáz rám, <br/>Vezérli hajócskám nappal s éjszakán. <br/>Megvéd a habok közt, akármily nagyok, <br/>Nem árt nékem semmi,<br/> mert Övé vagyok!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Az Övé vagyok,<br/>gyermeke vagyok. <br/>Gondot visel rólam az Úr, <br/>mert Övé vagyok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. S habár itt nyomorban kell is küzdenem, <br/>Velem van Megváltóm, Ő fogja kezem. <br/>Ne félj - így szól hozzám - tudom én bajod! <br/>Nem árt nyomor, ínség, mert Övé vagyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. S ha néha ködfelhők öveznek körül, <br/>Szemem Őt nem látja, de szívem örül. <br/>Közellétét érzem, s hogy el nem hagyott, <br/>Velem van Ő mindig, mert Övé vagyok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Én gyermeke lettem, Atyám Ő nékem. <br/>Megóvja gonosztól földi életem;<br/>S ha bár a halálnak völgyén haladok, <br/>Tudom, mennybe visz fel, mert Övé vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:57">
+  <properties>
+    <titles>
+      <title>Bûn útját tapostam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Bűn útját tapostam egykor én,<br/>Nem bíztam senkiben,<br/>Szívemnek legmélyebb rejtekén <br/>Gyötrődtem végtelen,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hallottam, hogy Jézus megbocsát, <br/>Eltörli bűnömet,<br/>Kitártam őszintén Néki <br/>hát A szívemet</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Refrén:<br/>Megmosott vére teljesen, <br/>Ujjongva áldom Őt,<br/>Semmi nem pótolja már nekem,<br/>A drága Megmentőt!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Szerető karja tárva vár, <br/>Oly édes ez nekem,<br/>Örömmel szolgálok <br/>Néki már, Ő mindenem!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Hallottam, hogy aki bűneit<br/>Megbánja szív szerint,<br/>Boldoggá teheti napjait, <br/>Felé a béke int.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szent vére bűnöket eltöröl, <br/>Hű szíve áldva vár,<br/>Többé nem emlékszik vétkiről<br/>A nagy Király.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Hallottam, hogy akit megváltott, <br/>Azt meg is áldja Ő.<br/>Jézusnál engem is áthatott<br/>Egy csodás, szent erő.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Szentlelke átformált teljesen,<br/>Minden megváltozott,<br/>Ajkammal boldogan hirdetem, <br/>Hogy megváltott.</lines>
+    </verse>
+  </lyrics>
+</song>

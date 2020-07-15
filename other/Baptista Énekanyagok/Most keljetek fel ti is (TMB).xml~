@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-17T17:24:30">
+  <properties>
+    <titles>
+      <title>Most keljetek fel ti is</title>
+      <title>Keljeteke fel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most keljetek fel ti is,<br/>csendesek mind,<br/>És együtt örvendjünk boldogan!<br/>Egy újszülött gyermek most reánk tekint,<br/>Az égi béke közöttünk van.<br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Halleluja, Isten nem hagy el,<br/>  Halleluja, Jézust küldte el.<br/>  Csak Õ ad erõt  |  Csak Õ ad erõt újulást.<br/>  Csak Õ ad reményt  |   Csak Õ ad reményt, bíztatást. /2x<br/> </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most sietve kardotok dobjátok el,<br/>E béke mindig velünk marad.<br/>A beteljesült Ige itt van közel,<br/>Isten végleg kegyelmet ad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te halál árnyában is megtalált nép,<br/>Jézus fénye világít rád.<br/>Õ begyógyítja a világ minden sebét,<br/>Irgalmat hoz, vigasztalást.<br/> </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Ha megterhelt, fáradt a szíved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ha megterhelt, fáradt a szíved,<br/>És utadon minden sötét,<br/>Fény ragyoghat körül ma téged, <br/>Egy új élet int most feléd.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Nézz fel Jézusra hittel,<br/>Ím, szent arca mily tündöklő!<br/>Benne bízz, és oszlik a félelem, <br/>Tőle árad az égi erő!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jöjj, higgy Benne, nem hagy magadra, <br/>Ő vezet majd Szentlelkével!<br/>Jöjj, indulj a bűnös világba, <br/>És váltságát mondd bátran el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A bűn felett biztosan győzhetsz, <br/>Ha Jézusod hűn követed,<br/>És mennyei koronát nyerhetsz,<br/>Mert diadalt ad Ő neked.</lines>
+    </verse>
+  </lyrics>
+</song>

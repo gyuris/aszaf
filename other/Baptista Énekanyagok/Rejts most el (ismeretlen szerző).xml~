@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Rejts most el</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejts most el<br/>A szárnyad alá<br/>Erős kézzel<br/>Takarj be engem!<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tenger tombol, zúg, süvít a szél<br/>Te emelsz fel a vihar fölé<br/>Uralkodsz hullámok habjain<br/>Szívem nem fél, Benned remél!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak Istenben<br/>Bízz, én lelkem<br/>Mert Ő él,<br/>Nagyobb mindennél!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

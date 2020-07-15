@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Ne felj mert enyem vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Ne félj, mert enyém vagy, <br/>ne félj, ne félj,<br/>Neveden hívtalak, szeretlek én.<br/>Enyém vagy, szeretlek, ne félj, ne félj,<br/>Én megváltottalak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Kik bíznak az Úrban, van erejük,<br/>Szárnyra kelhetnek, mint saskeselyûk.<br/>Futnak, nem lankadnak, Õ van velük,<br/>És nem fáradnak el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Megtart a kegyelem, hit által élj.<br/>Kegyelem tart csak meg, ne kérkedjél.<br/>Hit által Isten ajándékaként, <br/>Ó, nem tõled van ez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Boldog ki mindvégig hû marad,<br/>Mindent örökségül nyerhet meg az,<br/>Gyõztesnek Jézus Krisztus ad<br/>Egy új írott nevet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Aki hisz énbennem, szavamra áll,<br/>Halálból átment az életre már.<br/>Hol van a fullánkod ó, halál?<br/>Legyõzve, gyõzve már!</lines>
+    </verse>
+  </lyrics>
+</song>

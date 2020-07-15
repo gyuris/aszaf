@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Fogadd éltem, Jézusom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="223"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fogadd éltem, Jézusom, <br/>Íme, Néked átadom!<br/>Legyen Tied az időm, <br/>Néked szentelt a jövőm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Fogadd el a kezemet,<br/>Hadd szolgáljon csak Neked;<br/>Lábam járja utadat, <br/>Kövesse parancsodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Hangom zengje szent Neved, <br/>Dicsőítse nagy kegyed!<br/>Tiszta szó az ajkamon <br/>Csak Téged magasztaljon!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Még a pénzem is vegyed! <br/>Irányítsa azt kezed!<br/>Fogadd erőm, értelmem, <br/>Csak Te urald teljesen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Akaratom is vegyed!<br/>Meghódolok Előtted;<br/>Itt a szívem, Téged vár, <br/>Néked adtam teljesen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Szeretetem is fogadd,<br/>Hűségem ebből fakad!<br/>Vedd át lényem teljesen, <br/>Örökre Tied legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

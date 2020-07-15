@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Ó, Uram, bárcsak tüzed égne</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="631"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó, Uram, bárcsak tüzed égne, <br/>Ki magad vagy a szeretet!<br/>S az egész világ megismerne <br/>Mint ég s föld Urát, Tégedet!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Már itt-ott lobban tüzed lángja <br/>Napkelet s nyugat tájain, <br/>Hol Téged, Isten szent Báránya, <br/>Dicsérnek ének hangjain.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ez égi lángok folyton gyújtnak <br/>Jéghideg, elhalt lelkeket. <br/>Sok fáradt szívnek erőt nyújtnak, <br/>Bűnsebre gyógyírt, kenetet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Az önzést, gőgöt megemésztik, <br/>A lélek szennyét tisztítják; <br/>És bennük, kik az Urat félik, <br/>A hit gyér lángját felszítják.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ó, forrassz egybe minden népet, <br/>És építsd bennük hajlékod, <br/>Gyújts égi tüzet, fényességet, <br/>Hadd töltse be a világot!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Úgy ezrek zengik és százezrek <br/>A béke öröménekét,<br/>Ezt visszazengik hegyek-völgyek, <br/>És áldják az Úr szent Nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

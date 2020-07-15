@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Kedves baratom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Kedves barátom, figyelj most rám! <br/>Mért vagy szomorú, és miért nem vidám? <br/>Ha életed üres és céltalan, <br/>Hallgasd meg, hogy mit tanácsol <br/>néked ez a dal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne add fel a reményt, <br/>hisz van megoldás, <br/>Jézusban, ki a Golgotán érted adta magát! <br/>Akármilyen életed volt eddig neked, <br/>Hidd el, hogy Jézus Krisztus akkor is szeret!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Sok mindent már megpróbáltál, <br/>Nem volt benne jó, <br/>Nem hallottál sehol sem egy vigasztaló szót. <br/>Életed betölti most a keserûség, <br/>Talán még azt sem tudod, <br/>hogy miért is élsz?!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Kedves barátom, figyelj most rám! <br/>Én is kerestem és megtaláltam már, <br/>Jézust, ki eddig és mindig várt reám  <br/>És betölti szívemet a teljes boldogság.</lines>
+    </verse>
+  </lyrics>
+</song>

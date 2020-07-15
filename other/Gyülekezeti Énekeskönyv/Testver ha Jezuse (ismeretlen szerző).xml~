@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Testver ha Jezuse</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="421"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Testvér, ha Jézusé az életed, <br/>Boldogan örvendhetel.<br/>Az Úr Jézus legyõzte a bûnt, halált, <br/>Odaadva önmagát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Az Úr Jézusnak drága vére szent erõ,<br/>Ingyen adja, hogyha kéred Õt.<br/>Testvér az életed legyen övé, <br/>Egész az Úr Jézusé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/4. Testvér, az Úr Jézus eljön hamar, <br/>Magához venni akar<br/>A királyi trón elõtt imádjuk Õt, <br/>A dicsõ Üdvözítõt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/4. Gyõzelmi pálmával szentek között, <br/>Örömmel dicsérjük Õt,<br/>A fehérruhás boldog mennysereg, <br/>Örök dicséretet zeng.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4/4. Szent tróntól folyik az életfolyó, <br/>Pálmafák gyümölcse jó.<br/>A levele gyógyír a pogányoknak, <br/>Dicsõség Jézusunknak.</lines>
+    </verse>
+  </lyrics>
+</song>

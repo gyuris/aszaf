@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>En Istenem em</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én Istenem, szívem megtört teljesen,<br/>Hozzád hozom örömtelen életem.<br/>/: Sok még a bűn, ami fogva tartja lelkem,<br/>És nem tudom, hogy tegyem le terhemet. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Segíts, Istenem, nem maradt más nekem,<br/>Csak te vagy reményem.<br/>Bocsásd meg bűneim, és adj békét nekem,<br/>Adj szabadulást,<br/>Adj, kérlek, gyógyulást a szívemnek,<br/>Hogy örülhessek végre tebenned.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eddig, Uram, téged nem kerestelek,<br/>Nem hittem el, hogy megmenthetsz te engemet.<br/>/: Nézd most, Atyám, íme elhiszem, hogy rám vársz,<br/>Régóta már tudod életem megoldását. :/</lines>
+    </verse>
+  </lyrics>
+</song>

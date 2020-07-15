@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Krisztuser ifjak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Krisztusért ifjak, elõre hát, <br/>Szolgáljuk hûn s igazán.<br/>Ha Krisztusért élsz, ez boldogít, <br/>Vidám az arc és a szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Akarsz-e élni Krisztusnak hát?<br/>Szíved Megváltódnak ma adjad át.<br/>Kövessük híven a nyomdokát,<br/>Krisztust jöjj követni hát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Krisztust hirdetjük minden népnek, <br/>Jelszónk legyen: szeretet.<br/>Krisztust követni kész vagy-e már? <br/>Tõled ma Õ választ vár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Krisztusért ifjak fogjunk kezet, <br/>Kössünk vele szent frigyet.<br/>Álljunk meg hûen, nem árt halál, <br/>Vár ránk dicsõ koronánk.</lines>
+    </verse>
+  </lyrics>
+</song>

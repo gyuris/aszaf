@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Atyjat es az anyjat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Atyját és az anyját elhagyja az ember, <br/>Ragaszkodik asszonyához, <br/>Akit az Isten rendel.<br/>Egy test és egy lélek lesznek mától kezdve, <br/>Közös teher, közös öröm, <br/>Együtt az Úr kezében.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Felette nagy titok ez, Az ember meg sem érti,<br/>Hogyan lehet egyáltalán ilyen nagyon szeretni.<br/>Titok, de van megoldás, az Igében találod:<br/>Isten maga alkotta meg egykor a házasságot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2/3. Már az Édenkertben Isten azt is látta,<br/>Az embernek szüksége van <br/>Egy hozzá illõ társra.<br/>Sokkal jobb a dolga kettõnek, mint egynek,<br/>Botlik az egy, a másik segít, <br/>Egyszerre el nem esnek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3/3. Jobb kettõnek együtt kéz a kézben járni,<br/>Akármilyen hideg jöhet, <br/>Azoknak nem kell fázni.<br/>Ellenállni könnyebb, ellenség ha támad,<br/>Velük az Úr kegyelme van, <br/>Még a pokol sem árthat.</lines>
+    </verse>
+  </lyrics>
+</song>

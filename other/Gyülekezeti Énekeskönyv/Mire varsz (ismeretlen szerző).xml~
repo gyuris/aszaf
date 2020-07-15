@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Mire varsz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Mire vársz még mondjad testvérem? <br/>Kelj fel és jöjj gyorsan ide! <br/>Üdvözítõd hív már oly régen. <br/>Tárva karja s nyitva szíve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Miért, miért, miért nem jössz te ide? <br/>Miért, miért nem kell néked a béke?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Mit ér halasztgatnod testvérem, <br/>A kegyelemidõ halad.<br/>Nincs más mint Jézus, ki segítsen, <br/>Örök jutalmat csak Õ ad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Nem érzed szívedben testvérem <br/>Élet-szelleme folyamát?<br/>Menekülni akarsz-e vagy nem? <br/>Siess Jézus szárnya alá</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Ah! Mondd: mire vársz még testvérem? <br/>Gyorsan jön a végítélet. <br/>Nyitva még a kapu, jöjj velem, <br/>Jézus vére most szól érted.</lines>
+    </verse>
+  </lyrics>
+</song>

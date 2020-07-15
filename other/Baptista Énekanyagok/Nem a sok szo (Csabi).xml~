@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+  <properties>
+    <titles>
+      <title>Nem a sok szo</title>
+      <title>Had halljam hangod</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Nem a sok szó, amit tőlem vársz.<br/> Mikor csendben, vágyom rád. <br/> Amint jobban, megismerlek Téged Uram, hallom szavad,<br/> akarlak, akarlak még jobban. </lines>
+    </verse>
+    <verse name="c1a">
+      <lines> Had halljam hangod, had értsek még többet, újítsd meg értelmem.<br/> Had lássam arcod, ruhád had érintsem, töltsön be Szellemed. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Magasabbra török minden nap, ami elmúlt, elhagytam. <br/>Neki dőlve útjaimból félre teszem, bűneimet, hogy jutalmam, jutalmam megkapjam. </lines>
+    </verse>
+    <verse name="c1b">
+      <lines> Had halljam hangod, had értsek még többet, újítsd meg értelmem. Had lássam arcod, ruhád had érintsem, töltsön be Szellemed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Ó, Sion ebredj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="623"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, Sion, ébredj,<br/>töltsd be küldetésed, <br/>Mondd a világnak:<br/>hajnalod közel! <br/>Mert bántja Őt,<br/>ki népeket teremtett, <br/>Hogy bárki éjben,<br/>bűnben vesszen el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Légy örömmondó,<br/>békekövet, <br/>Hirdesd:<br/>a Szabadító elközelgetett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Lásd: millióknak<br/>lelke megkötözve, <br/>Rabláncként hordoz<br/>sötét bűnöket; <br/>Nincs kittől hallja:<br/>Megváltónk keresztje <br/>Mily gazdag élet<br/>kútja lett neked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Mondd minden népnek:<br/>elveszett juháért <br/>Mit tett a Pásztor,<br/>csodás szeretet! <br/>Földig hajolt<br/>a kárhozott világért, <br/>S meghalt alant,<br/>hogy élhess odafent.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Küldj fiaidból,<br/>akik nem hiába <br/>Élvezik kincsed:<br/>hirdessék szavad! <br/>Öntsd lelked értük<br/>győzelmes imába: <br/>Mindent, mit adtál,<br/>Krisztus visszaad!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Ő visszajön,<br/>Sion, előbb, mint véled, <br/>Fölfedi titkát<br/>minden szív előtt. <br/>Egy lélekért<br/>se érjen vádja téged, <br/>Hogy temiattad<br/>nem látta meg Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

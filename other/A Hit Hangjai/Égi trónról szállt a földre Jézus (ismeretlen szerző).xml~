@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Égi trónról szállt a földre Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Égi trónról szállt a földre Jézus, <br/>Ő a győztes golgotai hős, <br/>Szent fején a töviskoronával <br/>Sátán bősz hadát legyőzte végleg Ő.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Csak Jézust áldd, a nagy Királyt, <br/>Ki győzött, így lett üdvösségünk!<br/>Most mennyben él, de visszatér <br/>Miértünk, övéiért</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Győzve támadt fel a gyászos sírból, <br/>És uralja menny dicső honát. <br/>Ámde értünk visszajön majd újból, <br/>Akkor ad a kereszt helyett koronát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Fáradt lélek jöjj a Megváltóhoz, <br/>Megtisztít, az érted ontott vér, <br/>Tekints Rá, és Ő megújulást hoz, <br/>Győzni fogsz és utad így a mennybe ér</lines>
+    </verse>
+  </lyrics>
+</song>

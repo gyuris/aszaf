@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Te vagy a szivem Kiralya</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Te vagy a szívem királya,<br/>Tiéd mindenem,<br/>Minden helyzetben<br/>Sorsom kezedben, Istenem.<br/>Ha fájdalmak, könnyek,<br/>Harcok jönnek, tiéd vagyok,<br/>Ha sötét van, fényed<br/>Annál erősebben ragyog.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Segíts, hogy rád nézzek,<br/>S nem arra, mit érzek,<br/>Vagy éppen milyen kedvem van,<br/>Segíts hitben járnom,<br/>Istenem, barátom,<br/>Segíts rád bíznom magam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Méltó vagy rá,<br/>Hogy érted éljek,<br/>És életemmel<br/>Rólad beszéljek.<br/>Méltó vagy rá,<br/>Hogy bízzak benned,<br/>Mert nem engedsz el,<br/>Nem engedsz el,<br/>Soha nem engedsz el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Te vagy a szívem királya,<br/>Tiéd mindenem,<br/>Minden helyzetben<br/>Sorsom kezedben, Istenem.<br/>A vihar hevében<br/>Te őrzöd meg az életem,<br/>Szeretlek téged,<br/>Te vagy erőm és énekem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hűséges vagy,<br/>Örző kezed nem enged el.<br/>Hűséges vagy,<br/>Vezetsz engem és védelmezel.<br/>Hűséges vagy,<br/>Megvigasztalsz és fegyelmezel.<br/>Nem engedsz el, nem engedsz el,<br/>Nem engedsz el.</lines>
+    </verse>
+  </lyrics>
+</song>

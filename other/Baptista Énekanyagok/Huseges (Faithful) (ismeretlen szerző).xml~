@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-15T16:11:49">
+  <properties>
+    <titles>
+      <title>Huseges (Faithful)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hűséges, örökké hűséges,<br/>Oltalma az árváknak,<br/>Megtartasz,<br/>Ha senki nincs mellettem,<br/>Hűséges Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hűséges, örökké hűséges,<br/>Gyógyító a sebzettnek,<br/>Megvédesz gyengén, sérülten<br/>Hűséges Isten.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Éneklek, a teremtő,<br/>Megtartó Istennek<br/>Uralmad, szerelmed<br/>Soha nem múlik el<br/>Megvéd engem<br/>A Te hatalmas Neved,<br/>Hűséges Isten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hűséges, örökké hűséges,<br/>Védelme a megtörtnek,<br/>Felemelsz és<br/>Megtartod néped,<br/>Hűséges Isten.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Velem vagy (velem vagy)<br/>Lelkem minden vágyában (mindenkor)<br/>Velem vagy (velem vagy)<br/>Biztos horgonyom, támaszom (mindenkor)<br/>Velem vagy (velem vagy)<br/>Mikor árnyas völgyben járok,<br/>Hűséges Isten</lines>
+    </verse>
+  </lyrics>
+</song>

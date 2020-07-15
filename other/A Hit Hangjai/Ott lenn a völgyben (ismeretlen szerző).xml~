@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Ott lenn a völgyben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="575"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ott lenn a völgyben, <br/>ahol csendes patak vár,<br/>Tarka réten virágtenger, <br/>fény, illatár,<br/>Hogyha Jézus arra vezet, <br/>vígan követem,<br/>Napról-napra <br/>Vele járok csendesen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Híven követem <br/>Jézusom szüntelen,<br/>Mindenütt, mindenkor, <br/>Jézust követem,<br/>Híven követem <br/>Jézusom szüntelen.<br/>Napról-napra mindig <br/>csak Őt követem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ott fenn a bércen, <br/>csipkés szikla szirteken, <br/>Hol vad orkán zúg <br/>és tombol oly vészesen,<br/>Hogyha Jézus arra vezet, <br/>ott is követem, <br/>Veszélyektől nem félek, <br/>ha Ő velem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ott lenn a völgyben, <br/>vagy a sziklás ormokon,<br/>Őt követem <br/>merre nyomát megláthatom,<br/>Jézus híven vezet, <br/>Vele el nem tévedek, <br/>És a mennyben <br/>ad majd örök életet.</lines>
+    </verse>
+  </lyrics>
+</song>

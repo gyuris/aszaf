@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hittem Benned</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Hittem Benned, <br/>s most íme, zengek <br/>Irgalmad nagy tetteiről: <br/>Értem ontott ártatlan véred <br/>Minden vétket, bűnt eltöröl.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zengek Néked, mert a halálod <br/>Értem mindent elvégezett, <br/>Üdvöt szerző isteni Bárány <br/>Sok vétkemért megöletett.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Hittem Benned, s most íme látlak<br/>Följebb, mint a zord Golgotán; <br/>Nézlek Téged, mint győzedelmest,<br/>Kit fény ékít szent homlokán.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szószóló vagy fönt az Atyánál <br/>Minden szívért, aki Tiéd, <br/>Mert mennybéli fegyvereiddel <br/>A Sátánt a földre veréd.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Hittem Benned, <br/>mennyei Bárány, <br/>Tövisekkel ékesített, <br/>Méltósággal megkoronázva <br/>Most kormányzod fönn az eget.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ítélkezni majd mikor eljössz <br/>Élők s holtak dolgairól, <br/>Mennyben, földön és a pokolban <br/>Meghódolva mind leborul.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Hitből zengve száll fel a hálám,<br/>Légyen Tiéd a tisztelet; <br/>Hű Megváltó, mennyei Főpap, <br/>Úr vagy minden más úr felett.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Isten áldott szent Fia, jöjj el <br/>Fényárban, ég angyalival, <br/>Felhők szárnyán nagy diadallal Jöjj, <br/>Úr Jézus, jöjj mihamar!</lines>
+    </verse>
+  </lyrics>
+</song>

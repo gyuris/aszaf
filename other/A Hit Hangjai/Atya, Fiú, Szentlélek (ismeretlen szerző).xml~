@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Atya, Fiú, Szentlélek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="062"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/7. Atya, Fiú, Szentlélek, <br/>Tedd trónoddá szívemet;<br/>Mint a tanítványoknál, <br/>Bennem is úgy lakozzál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/7. Igazságnak Szelleme,<br/>Légy életem vezére!<br/>Nélküled eltévedek,<br/>Jó ösvényre nem lelek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/7. Világosság Szelleme,<br/>Erősíts meg hitembe', <br/>Mellyel Jézust felöltöm, <br/>És bőven gyümölcsözöm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/7. Buzgóságnak Szelleme,<br/>Szálljon lángod lelkembe!<br/>Tisztítsd meg a szívemet, <br/>Templomoddá hadd legyek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/7. Szeretetnek Szelleme, <br/>Szükségem van erődre;<br/>Segíts arra engemet,<br/>Hogy szeretni kész legyek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6/7. Te, szentségnek Szelleme,<br/>Vonulj be a szívembe, <br/>Adjad, hogy az életem<br/>Igaz, tiszta, szent legyen!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7/7. Reménységnek Szelleme, <br/>Vezess föl a mennyekbe, <br/>Szívem Benned örvendjen,<br/>Örökké boldog legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:36">
+  <properties>
+    <titles>
+      <title>Nagy Kiraly</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy Király, Fenséges Úr, Király,<br/>Isten Fia, tied minden magasztalás!<br/>Szent sereg elõtted hajt fejet,<br/>Hozsannát zeng: Te vagy a Szent, <br/>Téged imád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs más név! <br/>Te vagy az üdv, az Élet, Jézus.<br/>Megtartónk, Szabadítónk, <br/>Csak te vagy a Fény!<br/>Nagy Király! Imádunk, Nagy Király!<br/>Hatalom, üdv, áldás, erõ, Minden Tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

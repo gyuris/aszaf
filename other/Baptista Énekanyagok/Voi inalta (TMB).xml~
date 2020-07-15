@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Voi inalta</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voi înalța numele Tău,<br/>Voi proclama domnia-Ți pe pământ<br/>Voi arăta puterea sângelui Tău sfânt<br/>Dorinta mea va fi a Ta, voi face Doamne numai voia Ta<br/>Cât voi trăi pe-acest pământ să Te slujesc.</lines>
+    </verse>
+  </lyrics>
+</song>

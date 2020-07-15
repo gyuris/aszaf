@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Ne csüggedj, lelkem - kánon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="553a"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne csüggedj, lelkem! <br/>Szeret az Isten.<br/>Bízzál Őbenne, <br/>Ő hordja terhed.<br/>Megváltód, <br/>őriző Pásztorod Ő.</lines>
+    </verse>
+  </lyrics>
+</song>

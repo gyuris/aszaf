@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-15T15:40:26">
+  <properties>
+    <titles>
+      <title>Teljes szivbol E</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Teljes szívből | Teljes szívből<br/>Áldom neved | Áldom neved<br/>Teljes lényem | Teljes lényem<br/>Zeng dicséretet | Zeng dicséretet</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hozzád vágyom | Hozzád vágyom<br/>Minden napon | Minden napon<br/>Hűen járok | Hűen járok<br/>Az útaidon | Minden útadon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozzád szálljon minden hála,<br/>Hozzád szóljon minden szó,<br/>Egyedül csak Te vagy méltó,<br/>Nincsen senki Hozzád fogható!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Térdet hajtok | Térdet hajtok<br/>A király előtt | A király előtt<br/>Vedd az éltem | Vedd az éltem<br/>Légy Úr minden fölött!<br/>Mindenem fölött!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bátran nézek | Bátran nézek<br/>Trónod felé | Szent trónod felé<br/>Benned bízom | Benned bízom<br/>Csak Te adsz reményt!</lines>
+    </verse>
+  </lyrics>
+</song>

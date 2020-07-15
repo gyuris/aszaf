@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jézus nyájas és szelíd</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="378"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézus, nyájas és szelíd, <br/>Láss meg engemet, <br/>Hallgassad meg, <br/>hű Megváltóm Gyermekedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bűnöm láncát oldja fel <br/>Kegyelmed s a hit; <br/>Törjed össze balga szívem Bálványait!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szabadságot adj nekem <br/>És tiszta szívet, <br/>Vonj magadhoz, Jézusom, <br/>hogy Járjak Veled!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Vezess engem utadon: <br/>Magad légy az út, <br/>Melyen lelkem a halálból Életre jut!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Jézus, nyájas és szelíd, <br/>Láss meg engemet: <br/>El ne engedd, hű Megváltóm, <br/>Már kezemet!</lines>
+    </verse>
+  </lyrics>
+</song>

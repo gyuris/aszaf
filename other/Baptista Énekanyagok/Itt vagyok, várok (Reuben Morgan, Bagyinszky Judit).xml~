@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Itt vagyok, várok</title>
+      <title>Eagle’s Wings</title>
+    </titles>
+    <copyright>© 1998 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation" lang="hu">Bagyinszky Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András Énekfüzet" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt vagyok, várok,<br/>maradj, Uram, velem,<br/>itt vagyok, vágyom Reád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szerelmed elrejt,<br/>térdre kényszerít,<br/>amikor köztünk megjelensz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te élj bennem, uralkodj szívemben,<br/>hadd érezzem erődet, mely szárnyra emel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tegy eggye, Urunk G</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tégy eggyé, Urunk<br/>Tégy eggyé, Urunk<br/>Szellemeddel, tégy eggyé, Urunk<br/>A te tested tagjai vagyunk<br/>Tégy eggyé minket, kérünk!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Minden faj és nemzet<br/>itt képviselve van,<br/>Egymásra találunk<br/>Jézus Krisztusban</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nagy örömmel áldjuk,<br/>hisz azért szenvedett,<br/>Hogy egybeforrjon szívünk,<br/>mit vére mosott meg!</lines>
+    </verse>
+  </lyrics>
+</song>

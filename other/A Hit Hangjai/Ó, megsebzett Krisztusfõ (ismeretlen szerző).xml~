@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó, megsebzett Krisztusfõ</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="611"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ó, megsebzett Krisztusfő, <br/>Te kíntól meggyötört!<br/>Rút tövisek közt vérző, <br/>Megcsúfolt s összetört!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A legszebb arc te voltál, <br/>Csodásan tiszta, szent,<br/>Ki most Reád néz, megszán, <br/>Szívből köszöntelek…</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ó, tündöklő tekintet <br/>A nagy világ felett!<br/>Ég s föld hódol Előtted, <br/>Nincs Nálad fényesebb.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Most égő pillantásod <br/>Megtört, halványra vált;<br/>Sok bűnöm meggyalázott <br/>És átkot szórt Reád.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Mily sok kínt tűrtél értem <br/>És mennyi szenvedést!<br/>Én halált érdemeltem, <br/>S Te haltál bűnömért.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Itt állok most, ne vess meg, <br/>Mint nyomorult, szegény;<br/>Irgalmadért esengek, <br/>Ó, áldón nézz felém!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>4. Mély fájdalommal állok <br/>A keresztfa alatt,<br/>És nézem kínhalálod, <br/>Míg szíved megszakad.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ha életed ellobban, <br/>S lehanyatlik fejed, <br/>Hull könnyem bánatomban, <br/>Megváltó Szeretet.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>5. Ó, Jézus, Téged áldlak <br/>Sok-sok gyötrelmedért;<br/>Leborulva imádlak <br/>Kínszenvedésedért.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Add, hogy szolgálva híven <br/>Ne térjek Tőled el,<br/>S ha végsőt dobban szívem, <br/>Benned pihenjek el!</lines>
+    </verse>
+  </lyrics>
+</song>

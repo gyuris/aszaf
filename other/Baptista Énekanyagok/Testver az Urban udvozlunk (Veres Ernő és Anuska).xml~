@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Testver az Urban udvozlunk</title>
+    </titles>
+    <authors>
+      <author>Veres Ernő és Anuska</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Testvér az Úrban üdvözlünk<br/>Téged Ő áldjon meg köztünk<br/>Töltse be szived békével<br/>És a hívők örömével.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretet, szeretet krisztusi szeretet<br/>Kösse szivünket össze Veled<br/>Hogyha Jézus szeretete <br/>Áthatotta a szivünket <br/>Megörvendeztetett minket<br/>Legyen dícsőség ezért az Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

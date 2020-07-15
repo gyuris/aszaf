@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Ha az Úrral járunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Ha az Úrral járunk, <br/>el nem téved lábunk,<br/>Ragyog utunkon mennyei fény.<br/>Vezet szent Igéje, velünk van békéje, <br/>Szívünk betölti hit és remény.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézusban bízz, <br/>üdvre más út nem visz! <br/>Szelíd hangjának engedj,<br/>S boldog lesz életed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Sötét árny hogyha jő, tornyosul vészfelhő, <br/>Jelenléte hadd ragyogja át!<br/>Tűnik gond és bánat,<br/>semmi baj nem árthat,<br/>Hogyha bízunk és tesszük szavát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Bár itt terhünk nehéz, érhet sok szenvedés,<br/>Vele hű munkánk jutalma nagy; <br/>Sújthat gyász és bánat, nekünk az nem árthat,<br/>Minden bajból új áldás fakad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Áldott közösségben, lelki csendességben<br/>Égi fény árad a szívünkbe,<br/>Amit kér, megtesszük, <br/>Hogyha küld, elmegyünk,<br/>Hallgatunk Rá, mert bízunk Benne.</lines>
+    </verse>
+  </lyrics>
+</song>

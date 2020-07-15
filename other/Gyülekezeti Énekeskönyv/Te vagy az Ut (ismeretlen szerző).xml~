@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Te vagy az Ut</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy az Út, az Igazság, Te vagy az Élet,<br/>Hozzád megyek, áldom neved, általad élek.<br/>Megszabadítottál, kezeden hordoztál,<br/>Tested és véred táplál, hûséged éltet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T16:01:17">
+  <properties>
+    <titles>
+      <title>A szivemben szol E</title>
+    </titles>
+    <verseOrder>v1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A szívemben szól, ott belül dalol<br/>Egy új ének Néked zeng,<br/>Mert Szabadítóm vagy,<br/>tapssal, tánccal dicsérlek!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A sötétség eltűnt, én szárnyra keltem<br/>És előtted örvendezem,<br/>Új dalommal áldlak,<br/>magasztallak Istenem!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent Szellem, jöjj és érints meg,<br/>Leheld belém szent életed!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jézus, Kősziklám, támaszom<br/>Add, hogy győztesen járjak utadon<br/>Hogy, majd előtted állhassak<br/>és imádjalak!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jézus, trónod elé vágyom,<br/>Emelj magadhoz, én Királyom,<br/>Hogy mindörökké áldjalak<br/>és imádjalak!</lines>
+    </verse>
+  </lyrics>
+</song>

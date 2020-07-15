@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Várjad ó, én lelkem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="750"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Várjad, ó, én lelkem, Várd az Urat! <br/>Kész, hogy megsegítsen, Bízd csak Rá magad!<br/>Bármi is jő, El sosem hagy Ő.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nem nagyobb a szükség, Mint a Segítő! <br/>Mert bajban megtart Minket az Úr, <br/>És kimenti lelkünk, A próbából!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Várjad, ó, én lelkem, Várd az Urat! <br/>Kész, hogy megsegítsen, Bízd csak Rá magad!<br/>Mért csüggednél? Ím, a hajnal kél!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Újra tavasz jő majd, Tűnik zordon tél!<br/>Hidd, minden vészben Ő téged véd, <br/>Mert megtartja Isten A hűségét.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Várjad, ó, én lelkem, Várd az Urat! <br/>Kész, hogy megsegítsen, Bízd csak Rá magad!<br/>Ő hamar jön, Fényes felhőkön.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Minden szem meglátja, Égen és földön.<br/>Meghajlik Néki Majd minden térd, <br/>Mert Övé az üdv és A dicsőség!</lines>
+    </verse>
+  </lyrics>
+</song>

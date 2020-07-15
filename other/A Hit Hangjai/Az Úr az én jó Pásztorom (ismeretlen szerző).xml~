@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Az Úr az én jó Pásztorom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="065"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az Úr az én jó Pásztorom,<br/>Így nem szűkölködöm: <br/>Hűs, csendes vízhez elvezet, <br/>Legeltet dús füvön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha éjsötétben járok is, <br/>Nem rémít zord halál; <br/>Mert vélem vagy minden napon,<br/>Lelkem nyugtot talál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Az Úr kegyelme, jó volta <br/>Egy élten át követ, <br/>Az Ő házában lelhetek<br/>Örökre lakhelyet.</lines>
+    </verse>
+  </lyrics>
+</song>

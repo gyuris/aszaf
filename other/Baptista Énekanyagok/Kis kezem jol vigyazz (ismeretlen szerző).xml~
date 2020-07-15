@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kis kezem jol vigyazz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kis kezem jól vigyázz, mit teszel! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis kezem jól vigyázz, mit teszel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kis lábam jól vigyázz, hova mész! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis lábam jól vigyázz, hova mész</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kis fülem jól vigyázz, mit hallgatsz! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis fülem jól vigyázz, mit hallgatsz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kis szemem jól vigyázz, mit nézel! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis szemem jól vigyázz, mit nézel!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kicsi szám, jól vigyázz, mit beszélsz! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kicsi szám, jól vigyázz, mit beszélsz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kis eszem, jól vigyázz, mit gondolsz! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis eszem, jól vigyázz, mit gondolsz!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kis szívem jól vigyázz, mit érzel! x2<br/>Mert az égi Atyám mennyből néz le reád,<br/>Kis szívem jól vigyázz, mit érzel!</lines>
+    </verse>
+  </lyrics>
+</song>

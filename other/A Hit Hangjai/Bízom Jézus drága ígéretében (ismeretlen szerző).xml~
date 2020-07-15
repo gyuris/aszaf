@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>Bízom Jézus drága ígéretében</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Bízom Jézus drága ígéretében, <br/>Őt dicséri, áldja mindig életem. <br/>Hálaének szálljon Néki szüntelen, <br/>Bízom Jézus ígéretében!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Benne bízom (szüntelen), <br/>Üdvözítőm ígérete bíztat engem, <br/>Benne bízom (szüntelen), <br/>Én bízom Jézus ígéretében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus drága ígérete nem csal meg, <br/>Még ha vész is törne rám, mint fergeteg.<br/>Szent szavával minden bajt legyőzhetek,<br/>Bízom Jézus ígéretében!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Bízom Jézus drága ígéretében, <br/>Lelke által Ő tanácsol mindenben, <br/>Hűségével átölel, megtart engem,<br/>Bízom Jézus ígéretében.</lines>
+    </verse>
+  </lyrics>
+</song>

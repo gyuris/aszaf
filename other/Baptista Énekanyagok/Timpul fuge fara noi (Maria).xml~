@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Timpul fuge fara noi</title>
+    </titles>
+    <authors>
+      <author>Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Timpul fuge fara noi,<br/>Alergam dupa nevoi, fara rost.<br/>Nu mai stim cine suntem,<br/>Unde mergem sau ce vrem, cu ce rost.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Am uitat ca noi suntem,<br/>Fii nascuti din Dumnezeu preainalt.<br/>Suntem prea obisnuiti,<br/>Suntem poate prea robiti, de ce avem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vine Isus, cine-i gata de plecare,<br/>Se uita-n sus, vede Slava Lui cea mare.<br/>Si de va cadea, se va ridica.<br/>Daca i-e predata toata inima.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Pe Isus noi Il iubim,<br/>Insa inima o-mpartim, ne-nselam.<br/>Spunem raului ca-i bun, <br/>Si-l luam cu noi la drum, ratacind.</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Petru Isus ce lasam?<br/>Am promis dar noi uitam, pana cand?<br/>Oare cum ne va gasi?<br/>Vom trai sau vom muri? ce va fi?</lines>
+    </verse>
+  </lyrics>
+</song>

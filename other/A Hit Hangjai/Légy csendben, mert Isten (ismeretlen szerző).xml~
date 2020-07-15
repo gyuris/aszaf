@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Légy csendben, mert Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. Légy csendben, <br/>mert Isten jelen van, <br/>A felséges, nagy Úr, <br/>Jöjj, lépj hittel most Elé, <br/>Őt félve térdre hullj!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tiszteld e szent helyen, <br/>Azt, aki bűntelen.<br/>Légy csendben, <br/>mert Isten jelen van, <br/>A felséges, nagy Úr</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. Légy csendben, <br/>mert Isten jelen van, <br/>És fénye árad ránk,<br/>Égő tűzzel tisztítja <br/>A szívünk és a szánk.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szemléld a nagy Királyt, <br/>Hódolva Őt imádd!<br/>Légy csendben, <br/>mert Isten jelen van, <br/>És fénye árad ránk!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3.Légy csendben, <br/>mert Isten jelen van, <br/>Hatalma végtelen,<br/>Szentlelkével átformál, <br/>Megújít teljesen.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ő mindent megtehet, <br/>Bízd Rá az életed,<br/>Légy csendben, <br/>mert Isten jelen van, <br/>Hatalma végtelen!</lines>
+    </verse>
+  </lyrics>
+</song>

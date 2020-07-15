@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:25">
+  <properties>
+    <titles>
+      <title>Péter, János, Jakab</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Péter, János, Jakab halásznak<br/>Péter, János, Jakab halásznak<br/>Péter, János, Jakab halásznak<br/>Hullámzó tengeren ott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egész éjjel hiába halásztak,<br/>Egész éjjel hiába halásztak,<br/>Egész éjjel hiába halásztak,<br/>Hullámzó tengeren ott.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jézus szól:</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Vessétek a hálót a jobb oldalra<br/>Vessétek a hálót a jobb oldalra<br/>Vessétek a hálót a jobb oldalra<br/>Hullámzó tewngeren ott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oly sokat fogtak, hogy szakadt el a háló<br/>Oly sokat fogtak, hogy szakadt el a háló,<br/>Oly sokat fogtak, hogy szakadt el a háló.<br/>Hullámzó tengeren ott.</lines>
+    </verse>
+  </lyrics>
+</song>

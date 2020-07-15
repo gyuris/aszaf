@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Földre hulló égi manna</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Földre hulló égi manna, <br/>Isten-küldte táplálék, <br/>Megújítod napról napra<br/>Küzdő néped erejét. <br/>Szívünk tárjuk most Eléd, <br/>Mint hűs harmat, hullj le arra;<br/>Te vagy éltünk mindene,<br/>Jézus, élet kenyere!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Néped hajdan mannát evett <br/>Hosszú vándorútján át;<br/>Tőled nyert ott forrásvizet, <br/>Míg elérte Kánaánt. <br/>Mi is hittel nézünk Rád, <br/>Nyisd meg számunkra a mennyet;<br/>Kérünk, szállj e földre le,<br/>Jézus élet kenyere!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Hosszú még az út, a pálya, <br/>Melyen néped halad itt; <br/>S a halál zord pusztasága <br/>Számos hőst megtántorít. <br/>De él bennünk az a hit, <br/>Hogy Te léssz erőnk forrása. <br/>Jöjj, és szívünk töltsd tele,<br/>Jézus, élet kenyere!</lines>
+    </verse>
+  </lyrics>
+</song>

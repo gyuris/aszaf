@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Hogy Mozes egyiptombol</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hogy Mózes Egyiptomból a néppel kivonult,<br/>Elõtte tenger tombolt, utána had nyomult.<br/>A víz megállt és fal lett, a nép csak ment tovább,<br/>Mert Isten védte Mózest és a nép sorsát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. És Góliát óriás karddal, lándzsával jõ, <br/>És szemben a kis Dávid, ki Istenben hívõ.<br/>Egy sima kövecskével elvette életét,<br/>Mert Istenbe vetette Dávid nagy hitét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. És Dániel mily hûen szolgálta Istenét, <br/>Oroszlánok vermében nem veszti el hitét.<br/>Mert Isten odaküldte egy erõs angyalát,<br/>És bezárta az oroszlánok nagy száját.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Hát fel testvér elõre, hisz Jézus karja gyõz.<br/>Legyen Mózes pálcája, vagy kis kõ az eszköz,<br/>Góliát és Egyiptom mind, mind csak menekül,<br/>Megsemmisül, ha Jézus Király trónra ül.</lines>
+    </verse>
+  </lyrics>
+</song>

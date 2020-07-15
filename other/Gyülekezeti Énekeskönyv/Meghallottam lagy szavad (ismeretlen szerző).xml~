@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Meghallottam lagy szavad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="283"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meghallottam lágy szavad, <br/>Megérintetted a szívem. <br/>Felismertem benned Isten szent Fiát:<br/>Jézus, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elhagytam e világ dolgait, <br/>Mert úgy szerettél te engem. <br/>A Golgotán folyt vér tisztára mosott, <br/>Örök élet örökségem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örül az én szívem, <br/>Mert velem van Mesterem. <br/>Õ irányítja minden léptemet. <br/>Örül az én szívem, <br/>Mert velem van Mesterem, <br/>Hozzá kiált szívem, lelkem. <br/>/: Õ él bennem, Õ él bennem. :/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kezunket kulcsoljuk ossze</title>
+      <title>E foldre szulettunk</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 b1 c2</verseOrder>
+    <authors>
+      <author>Magyar continental singers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E földre születtünk, hazánk itt védjük szeretjük<br/>Hisz oly sok vérbe került a szabadság<br/>Mégis félve él e nemzet és nincs remény sugár<br/>Mert ha nem kap helyet Iste,n nincs tovább<br/><br/>A bűn csak nő és terjed és győz a félhomály<br/>Ezért kell, hogy végre megértsük mi történt a Golgotán!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kezünket kulcsoljuk össze, boruljunk térdre<br/>Imádsággal kezdjünk új csatát<br/>Szeretni és bizni kéne, most összefogni végre,<br/>E nép majd egyszer Isten mellé áll!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bálványoknak élünk, az ember elvadul<br/>És nem látunk ma mást csak pusztítást<br/>Egykor ünnepeltük azt, ha egy gyermek született,<br/>Ma már csak egy döntés semmi más<br/><br/>Hidd el a világ lassan meghal és a vég itt van közel<br/>De ha reménységünk JÉZUS, tudjuk, hogy Ő nem fordul el.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hiszen sziveinkben ott szunnyad a szent és igaz vágy<br/>Fellobbanva Jézussal legyőzzük az éjszakát!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kezünket kulcsoljuk össze, boruljunk térdre<br/>Imádsággal kezdjünk új csatát<br/>Szeretni és bizni kéne, most összefogni végre,<br/>E nép majd egyszer Isten mellé áll!<br/>Készülj, hogy népünk egyszer Isten mellé áll,<br/>elhiszük, hogy egyszer rátalál!</lines>
+    </verse>
+  </lyrics>
+</song>

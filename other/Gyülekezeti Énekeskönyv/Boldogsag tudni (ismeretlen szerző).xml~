@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Boldogsag tudni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldogság tudni, hogy van Uram, <br/>Hogy kegyelemben járom utam, <br/>S új éltet élek amit Õ ad, <br/>Boldogságom az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogság, hogy van új teremtés, <br/>Jézus és köztem drága kötés, <br/>Mert a megváltás már enyém <br/>És így boldogság az Úr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, mily öröm! <br/>És nem baj, ha könnyem hull! <br/>Drága titkom: Szívembe jött az Úr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogság az, hogy van bocsánat, <br/>Hogy örök rész vár, Jézus nálad, <br/>S már itt a földön hordoz vállad. <br/>/:Te vagy a boldogság!:/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Imadunk teged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Imádunk Téged, Istenünk, ó, igen, <br/>Jézus nevében dicsérünk, <br/>/:Mert Te vagy méltó, és örökkévaló, <br/>Téged áldunk, fenséges Úr!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hódolunk Néked, szent Fiú, Kõszikla,<br/>Dicsérünk Téged, legfõbb Úr,<br/>/:Mert te vagy méltó, Te vagy a Megváltó,<br/>Téged áldunk, fenséges Úr!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Dicsérünk Téged, Szent Szellem, ó, igen,<br/>Imádat, hála Néked zeng,<br/>/:Mert Te vagy méltó, égi Pártfogó,<br/>Téged áldunk, fenséges Úr!:/</lines>
+    </verse>
+  </lyrics>
+</song>

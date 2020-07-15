@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>kapcsolatok hete</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A barátság építő kövei:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. SZERETET<br/>2. BIZALOM<br/>3. TISZTELET<br/>4. MEGISMERÉS vagy MEGÉRTÉS</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A megértés, megismerés kulcsa: BESZÉLGETÉS, KOMMUNIKÁCIÓ</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>A megismerés akadályai:<br/>SZÉGYENLŐSÉG<br/>ZÁRKÓZOTTSÁG<br/>MEGTÉVESZTÉS, HAZUGSÁG<br/>FELSZÍNES KOMMUNIKÁCIÓ</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>A cselekvő szeretet megnyilvánulásai:</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>GONDOSKODÁS<br/>BŐKEZÜSÉG<br/>NAGYLELKÜSÉG<br/>SZÁNALOM</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>A bizalom rákos betegsége: FÉLTÉKENYSÉG</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>A tisztelet tartalma:</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>ELFOGADÁS<br/>ELISMERÉS<br/>HÁLA<br/>KIKÉRED A VÉLEMÉNYÉT</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>1. Nem jó az embernek egyedül</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>2. Az ember Isten képmása, kapcsolatra teremtett lény</lines>
+    </verse>
+    <verse name="v1l">
+      <lines>3. Isten is kapcsolatban létező lény: Atya, Fiú és Szent Lélek</lines>
+    </verse>
+    <verse name="v1m">
+      <lines>4. Kapcsolat = életem megosztása más személyekkel</lines>
+    </verse>
+    <verse name="v1n">
+      <lines>5.</lines>
+    </verse>
+    <verse name="v1o">
+      <lines>Isten, légy irgalmas nékem, bűnösnek!</lines>
+    </verse>
+    <verse name="v1p">
+      <lines>Az üdvösségem múlik azon, hogy milyen a kapcsolatom Istennel</lines>
+    </verse>
+  </lyrics>
+</song>

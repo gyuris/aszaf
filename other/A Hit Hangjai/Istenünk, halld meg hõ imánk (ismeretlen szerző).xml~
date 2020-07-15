@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:02">
+  <properties>
+    <titles>
+      <title>Istenünk, halld meg hõ imánk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Istenünk, halld meg hő imánk,<br/>Teljesítsd szívünk vágyát. <br/>Szent Igéd által szólj hozzánk!<br/>Néped új áldásra vár.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Szentlelked árját, élet folyóját<br/>Várja epedve lelkünk. <br/>Áraszd még ma ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Irgalom Atyja, nézz le ránk,<br/>Trónodnál esdve kérünk, <br/>Bátorítsd fáradt életünk!<br/>Néped új áldásra vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szent Urunk, mennyei Atyánk,<br/>Nélküled mit sem érünk. <br/>Lelkeddel töltsd be életünk!<br/>Néped új áldásra vár.</lines>
+    </verse>
+  </lyrics>
+</song>

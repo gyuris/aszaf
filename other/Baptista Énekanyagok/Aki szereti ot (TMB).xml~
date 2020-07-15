@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:15">
+  <properties>
+    <titles>
+      <title>Aki szereti ot</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden lélegzetem dicsérjen,<br/>Minden mozdulatom<br/>Minden, ami vagyok, dicsérjen<br/>Mert a Tied vagyok</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Együtt felállunk egy szívvel és most<br/>Együtt kiáltjuk, hogy Jézus az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aki szereti Őt, az mind áldja!<br/>Aki szereti Őt, mind imádja!<br/>Aki szereti Őt, keljen fel és<br/>Áldja nevét!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Érted, odaadok mindent<br/>Érted, élek minden percben<br/>Érted, odaadok mindent Érted. Ohoh</lines>
+    </verse>
+  </lyrics>
+</song>

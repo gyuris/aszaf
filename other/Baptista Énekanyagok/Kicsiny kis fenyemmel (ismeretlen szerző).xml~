@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kicsiny kis fenyemmel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. /: Kicsiny kis fényemmel<br/>Világítani fogok! :/3x<br/>Áldom Őt mindennap<br/>És mindenhol.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. /: Elrejtsem-e fényemet?<br/>Világítani fogok! :/3x<br/>Áldom Őt mindennap<br/>És mindenhol.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. /: Sátán sem állíthat meg!<br/>Világítani fogok! :/3x<br/>Áldom Őt mindennap<br/>És mindenhol.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. /: Így teszek míg Jézus jön!<br/>Világítani fogok! :/3x<br/>Áldom Őt mindennap<br/>És mindenhol.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

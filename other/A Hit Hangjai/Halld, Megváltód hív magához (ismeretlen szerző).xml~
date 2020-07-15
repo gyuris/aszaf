@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Halld, Megváltód hív magához</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Halld, Megváltód hív magához: <br/>Jöjj, jöjj és lásd!<br/>A kegyelmi lakomához, <br/>Jöjj, jöjj és lásd!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Hirdesd bátran szerte-széjjel, <br/>visszhangozza föld az éggel:<br/>Isten vár nagy kegyelmével,<br/>Jöjj, jöjj és lásd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szólj a nagyhoz, a kicsinyhez: <br/>Jöjj, jöjj és lásd!<br/>Kitaszítva senki sem lesz,<br/>Jöjj, jöjj és lásd! Refr:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jézus megment és meggyógyít, <br/>Jöjj, jöjj és lásd!<br/>Asztalánál megelégít, <br/>Jöjj, jöjj és lásd! Refr:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Jöjj, hát, siess, amíg lehet, <br/>Jöjj, jöjj és lásd!<br/>Üdvösséget Ő ad neked,<br/>Jöjj, jöjj és lásd!</lines>
+    </verse>
+  </lyrics>
+</song>

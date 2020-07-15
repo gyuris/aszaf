@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Lelkem aldd az Urat</title>
+      <title>Egy uj nap kel</title>
+    </titles>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lelkem, áldd az Urat, áldd az Urat,<br/>Egyedül Őt imádd!<br/>Zengj úgy, mint soha még, Őt dicsérd!<br/>A lelkem csak Téged áld!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy új nap kél, és már ébred minden,<br/>Itt az idő, hogy áldjalak,<br/>És bármi ér ma, bármit rejt az út előttem,<br/>Hadd zengjek este is majd hálával</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmed nagy, és türelmed hosszú,<br/>Szerelmed mély, és az égig ér,<br/>Nem szűnök énekelni jóságodról,<br/>Tízezer okom van, hogy zengjek még.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És egy nap majd ez a test elgyengül,<br/>Erőm elhagy, s utam véget ér,<br/>A lelkem mégis téged áld vég nélkül:<br/>Tízezer évig és mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

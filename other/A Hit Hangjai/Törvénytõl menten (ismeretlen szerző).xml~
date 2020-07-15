@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Törvénytõl menten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="720"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Törvénytől menten, oly boldog lelkem:<br/>Elvette Jézus már minden vétkem;<br/>Vérén megváltott érvényesen.<br/>Kész már a váltság teljesen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jézus az áldozat, bűnös, ó, értsd meg!<br/>Nem érhet kárhozat, testvérem, higgyed!<br/>Vérén megváltott érvényesen,<br/>Kész már a váltság teljesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Krisztusban nincsen kárhoztatásunk,<br/>Ha Benne élünk, lélekben járunk.<br/>„Jöjjetek Hozzám!” - hív kegyesen, <br/>Kész már a váltság teljesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Istennek népe, Ő kiválasztott,<br/>Halálból üdvre Igéje hívott;<br/>Bűntől megőríz kegyelmesen:<br/>Kész már a váltság teljesen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Fenn a mennyben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="221"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fenn a mennyben az Úr minden győztesnek ád,<br/>Aki Jézussal járt, s benne hitt,<br/>Színarany koronát, hófehér gyolcsruhát,<br/>Hárfa húrjait pengethetik</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Igen, ott minden kész, Igen, ott minden kész.<br/>Minden győztesnek jár örökrész.<br/>Nála végtelen, nagy öröm vár odafenn,<br/>Jézusért én is elnyerhetem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Vígan lépkedünk az arany utcákon át, <br/>Halljuk angyalok dicséretét,<br/>Szemünk láthatja Jézus szent ábrázatát,<br/>Aki vért ontott bűneinkért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élet forrása kínálja élő vizét, <br/>Jézus nyájának bőségesen, <br/>Fényt az Úr maga áraszt és hint szerteszét, <br/>Halál nem lesz ott, éjszaka sem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4Minden gyötrelmet, bánatot elfeledünk,<br/>Hogyha Ő minket keblére von, <br/>Jézus szívére hajthatjuk fáradt fejünk,<br/>Nála béke vár és nyugalom.</lines>
+    </verse>
+  </lyrics>
+</song>

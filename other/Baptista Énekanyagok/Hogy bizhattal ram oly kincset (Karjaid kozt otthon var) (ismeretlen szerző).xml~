@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hogy bizhattal ram oly kincset (Karjaid kozt otthon var)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 b1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hogy bízhattál rám oly kincset,<br/>Mit angyalok sem kapnak meg?<br/>Féltőn hívtál, itt állok hát<br/>Isten királyi trónjánál.<br/>És int felém két sebzett kéz –<br/>A Megváltó karjába zár.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Itt állok most trónodnál,<br/>Nincs több bűn, megváltottál!<br/>Jézus vérén át<br/>Bátran lépek Hozzád,<br/>Szent karjaid közt otthon vár.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha szívem vádlás döfné át,<br/>Ha Sátán bűnömmel kísért,<br/>Egy szó és gyászom szétrebben –<br/>Az Úr van itt, az egyetlen.<br/>Ó áldom Őt, ki küzd és győz –<br/>Biztos bástya lelkem várán.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Isten Fiát, Jézust látom,<br/>Meghalt értem, hogy megváltson.<br/>Ártatlan, bűntelen szentség,<br/>Szépség, mit szem nem látott még.<br/>Száz és száz szó, száz és száz dal<br/>Nem írhatja le fenségét.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szálljon fel hála és imádat,<br/>Szívünkben elmos minden vádat.<br/>Ó áldjuk Őt, áldjuk azt,<br/>Ki vérét adta bűnünkért!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:58">
+  <properties>
+    <titles>
+      <title>Ezrek ajkán, kél a hozsánna</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ezrek ajkán, kél a hozsánna,<br/>Zsoltár szép szava áldja Őt. <br/>Békét hoz, legyen szent Neve áldva!<br/>Népe ma hódol az Úr előtt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Zengő ének, pálmafaágak <br/>Várják itt ma az érkezőt. <br/>Isten küldte el Őt a világnak,<br/>Ő szeretetből a földre jött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Fennen zengjen, szálljon az ének:<br/>Jézus Krisztus a nagy Király!<br/>Áldott Ő, Neki jár a dicséret,<br/>Tiszteletére ma készen állj!</lines>
+    </verse>
+  </lyrics>
+</song>

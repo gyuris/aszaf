@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyozelmet vettel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Győzelmet vettél, ó, Feltámadott! Dicsőséggel fényes a diadalod!<br/> Magas égből szállt le angyali követ, Hogy elhengerítse a nehéz követ. <br/>Győzelmet vettél, ó, Feltámadott! Dicsőséggel fényes a diadalod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Lásd, ott az Jézus, az Üdvözítő! Ne kételkedj többé: ő jelent meg, ő! Ujjongj, Isten népe, Hirdesd szüntelen, Jézusé a végső, döntő győzelem! Győzelmet vettél, ó, Feltámadott! Dicsőséggel fényes a diadalod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Mért félne szívem? Él az én Uram, Békesség Királya, Benne nyugta van, ő a diadalmam, pajzsom, életem, Szívemben már nincsen semmi félelem. Győzelmet vettél, ó, Feltámadott! Dicsőséggel fényes a diadalod!</lines>
+    </verse>
+  </lyrics>
+</song>

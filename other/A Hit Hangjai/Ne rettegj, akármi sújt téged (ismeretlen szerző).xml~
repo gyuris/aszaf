@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Ne rettegj, akármi sújt téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="556"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ne rettegj, akármi sújt téged! <br/>Isten gondol reád.<br/>Szárnyai alatt van védelmed, <br/>Isten gondol reád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Isten gondol reád, <br/>Minden napon, minden úton, <br/>Ő gondot visel reád, Isten gondol reád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nehéz a kereszted, fél szíved? <br/>Isten gondol reád.<br/>Ha a nagy veszélyek rád törnek, <br/>Isten gondol reád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ne csüggedj el a nagy ínségben! <br/>Isten gondol reád.<br/>Ő nyújthat segélyt, <br/>csak bízz Benne! <br/>Isten gondol reád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ha barátaid mind elhagynak, <br/>Isten gondol reád.<br/>Nyugtalan szívednek békét ad,<br/>Isten gondol reád</lines>
+    </verse>
+  </lyrics>
+</song>

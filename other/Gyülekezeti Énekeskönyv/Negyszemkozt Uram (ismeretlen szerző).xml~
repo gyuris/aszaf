@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Negyszemkozt Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Négyszemközt Uram, <br/>Ó, hadd legyek veled. <br/>Új erõt ad, megszentel, épít Szellemed. <br/>Négyszemközt Uram, így jól felismerem, <br/>Mennyi gõg és hûtlenség terheli szívem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Én Uram, Istenem, <br/>Mindennap szellemben formálj engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Négyszemközt Uram, <br/>Ó, hadd legyek Veled. <br/>Így növekedj bennem, és én kisebb leszek. <br/>Drága, hû szívedre bízom életem, <br/>Nem szakít el Tõled már többé senki sem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Négyszemközt Uram, <br/>Ó, hadd legyek Veled. <br/>Tõled nyertem élõ és szentséges hitet. <br/>Törd össze mi régi, mert semmit sem ér, <br/>Így lesz élted bennem bor és megtört kenyér.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>Istenben bizom barhol is legyek</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Istenben bízom, bárhol is legyek,<br/>Száraz földön, háborgó tengeren.<br/>Jöjjön bármi, nap-nap után.<br/>Mennyei Atyám gondol énreám.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bízom Benne, tudom, Ő gondol rám,<br/>Sivár hegyormon, sötét éjszakán.<br/>Bár vihar dúl, megőriz Ő,<br/>Mennyei Atyám gondol énreám.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A rózsa is az Ő gondjában van,<br/>A sast vezérli légi útjában,<br/>Bizton gondot visel rólam.<br/>Mennyei Atyám gondol énreám.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A völgy sötét, mély árnyék takar el,<br/>De ó a Pásztor lát és rám figyel.<br/>Borzalmas hely, de nem magány,<br/>Mennyei Atyám gondol énreám.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

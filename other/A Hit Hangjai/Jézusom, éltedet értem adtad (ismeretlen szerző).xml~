@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:04">
+  <properties>
+    <titles>
+      <title>Jézusom, éltedet értem adtad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="372"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jézusom, éltedet<br/>Értem adtad, <br/>Helyébe én, szegény,<br/>Ó, mit adjak?<br/>Mit tettél érettem,<br/>Ki nem beszélhetem. <br/>Átadom teljesen<br/>Önmagamat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kegytrónodnál fogadd<br/>Hódolatom, <br/>Hittel tekintek föl Rád,<br/>Jézusom. <br/>Hordom keresztemet,<br/>Zengek dicséretet, <br/>Mindazt, mit tehetek:<br/>Néked adom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Követlek Tégedet<br/>Csendben mindég, <br/>Kereszted lesz nekem<br/>Fő ékesség. <br/>Szeretet, nyájasság,<br/>Alázat, jámborság, <br/>Szívbéli tisztaság:<br/>Mind Érted ég.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Mind, ami van nekem,<br/>Tőled ered; <br/>Fény, élet, ész, erő,<br/>Te adtad ezt. <br/>Egykor a mennybe' fönt<br/>Szent arcodat dicsőn <br/>Láthatom örökkön.<br/>Hála Neked!</lines>
+    </verse>
+  </lyrics>
+</song>

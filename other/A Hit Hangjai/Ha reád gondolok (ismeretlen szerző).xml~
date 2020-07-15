@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Ha reád gondolok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. Ha reád gondolok, ó, Betlehem, <br/>Nagy öröm tölti el a kebelem.<br/>Istennenk irgalmát itt láthatom, <br/>Jézusom kegyelmét csodálhatom.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Fölvette a nyomort önkéntesen, <br/>Megjelent egy kicsiny, szegény helyen,<br/>Nem hiú pompa közt, nem gazdagon, <br/>Pedig a menny üdve Nála vagyon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. Ha reád gondolok, ó, Betlehem, <br/>Vigaszom csakhamar én meglelem.<br/>Hisz lehet helyzetem bármily szegény, <br/>Meg nem vet Jézusom, jól tudom én.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Eljön Ő szívesen, meg nem utál, <br/>Benne a szív hű barátra talál.<br/>Ki értem fölvette a nagy nyomort, <br/>Mostan is hű kezén ápolva hord.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. Ha reád gondolok, ó, Betlehem, <br/>Helyzetem csakhamar megérthetem.<br/>Szívem talán egy rideg palota, <br/>Földi fény, dőreség, nagyzás hona?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Vagy pedig szívem kicsiny Betlehem, <br/>S megszülettél benne, ó, Mesterem?<br/>Jó tehát, üdvös és kívánatos: <br/>Legyen a szív szelíd s alázatos!</lines>
+    </verse>
+  </lyrics>
+</song>

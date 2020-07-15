@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:11">
+  <properties>
+    <titles>
+      <title>Õ él, Õ él</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="640"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ő él, Ő él, Jöjj, <br/>nézd, a sír üres! <br/>Ő él, Ő él, Ott <br/>Jézust ne keresd!<br/>Ő él, Ő él, Az Úr feltámadott,<br/>És nékünk életet adott.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. A bűnös kezek <br/>Őt durván megfeszítették,<br/>Rút vétkeinkért vállalt <br/>sok kínt és megvetést,<br/>A homlokán lecsordult a halálveríték,<br/>De harmadnap életre kélt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Már kora reggel eljött <br/>a sírhoz Mária,<br/>És könnyes szemmel kérdé, <br/>hogy hová lett Ura;<br/>De Jézus megjelent, <br/>s néven szólította őt:<br/>,,Ne sírj, mert él a Megmentőd!”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A tanítványok kétkedve <br/>fogadták e hírt,<br/>Nagy félelem volt bennük, <br/>bár látták már a sírt;<br/>De zárt ajtók mögött <br/>Ő a középen megállt<br/>Elűzve kétkedést, homályt.</lines>
+    </verse>
+  </lyrics>
+</song>

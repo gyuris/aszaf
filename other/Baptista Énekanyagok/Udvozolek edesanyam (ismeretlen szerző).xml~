@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Udvozolek edesanyam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Üdvözöllek édesanyám<br/>Ki félve vigyáztál reám<br/>Kérem hogy Isten áldjon meg<br/>Hogy tanits oktass engemet<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. Ó e lét sokat ér<br/>Ha érezzük Isten kegyelmét<br/>Szeresd hát jó anyád<br/>Érte Istennek mondj hálát<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő ringatta a bőlcsőmet<br/>Ő féltve ápolt engemet<br/>Ő édes dallal oktatott<br/>Nem sajnált éjjelt és napot<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ő tanitott meg beszélni<br/>Énekelni,imádkozni<br/>Ő kért hogy Jézust kövessem<br/>A bűnt világot megvessem<br/></lines>
+    </verse>
+  </lyrics>
+</song>

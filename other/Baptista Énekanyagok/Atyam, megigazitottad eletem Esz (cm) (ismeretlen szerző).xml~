@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Atyam, megigazitottad eletem Esz (cm)</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v2 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Atyám, megigazítottad életem,<br/>Jézus Krisztus igazsága enyém lehet.<br/>Kegyelmedbõl eltörölted bûnömet,<br/>Hit által adtál egy új kezdetet.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tudom, akaratod az, hogy szent legyek,<br/>Legyen szívem bûn nélküli, tökéletes,<br/>Ragyogjon a sötétségben életem,<br/>Ismerje fel mindenki a fényedet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, folytasd, kérlek,<br/>bennem a jó munkát!<br/>Te kezdted el, te vidd véghez, <br/>mit tervedbe foglaltál!<br/>Nem számít, mit tesznek mások,<br/>Én rendelkezésedre állok, <br/>Hogy szeretõ kezed érintése<br/>Formáljon át!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Uram, szolgálatra hívtad népedet –<br/>Olyan sok a boldogtalan, az elveszett…<br/>Indulok, hogy töröljem a könnyeket,<br/>Örömmel hirdetem kegyelmedet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tudom, akaratod az, hogy hû legyek,<br/>Kitartó a szent munkában, elégedett.<br/>Azt mondtad, ha kevés dolgon hû leszek,<br/>Többre bízol azután, a mennybe' fenn.</lines>
+    </verse>
+  </lyrics>
+</song>

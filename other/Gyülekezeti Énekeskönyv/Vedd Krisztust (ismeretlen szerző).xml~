@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:40">
+  <properties>
+    <titles>
+      <title>Vedd Krisztust</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="457"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Vedd Krisztust hithajódba be <br/>Teljes bizodalommal! <br/>Hajózzál bátran és el, el <br/>Minden aggodalommal. <br/>Csapdossa bár hullám rajta <br/>Élted hajóját id’oda, magasra nyalja habja,<br/> Nyugodt lehetsz, ne bántson ez,<br/>Hajódat Õ nem hagyja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. S ha a kormányrudat rögtön <br/>Nem fogja is a bajban, <br/>Csak bártan, bátran mit se félj, <br/>Bízzál a te Uradban. <br/>Zúgjon, csapdosson a vízár, <br/>Villám, villámot érjen bár, <br/>A hajód meg van védve, <br/>Bent van Urad, a szél, a hab <br/>Majd el lesz csendesítve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. De ébren légy, készen vigyázz! <br/>Ne hagyj fel az imával. <br/>Hajód kormányát Mestered <br/>Megfogja szent karjával. <br/>Hatalmas szava csendesül, <br/>A szél, vihar megcsendül <br/>És élted láthatára, ölt tiszta mezt, <br/>Ragyogni kezd a béke szivárványa.</lines>
+    </verse>
+  </lyrics>
+</song>

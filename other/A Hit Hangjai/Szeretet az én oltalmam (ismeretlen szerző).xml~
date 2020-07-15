@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:12">
+  <properties>
+    <titles>
+      <title>Szeretet az én oltalmam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="681"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Szeretet az én oltalmam <br/>Aki értem földre jött,<br/>Megesett a szíve rajtam, <br/>S énhelyettem bűnhődött. <br/>Ki a halált megízlelte, <br/>S megrontotta a poklot, <br/>Mely rám tőrét kivetette…<br/> Enged abból kihozott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Szeretet a menedékem,<br/>Aki hord és fölemel, <br/>Gyengédséggel bíztat engem,<br/>Hogy üdvömet érjem el. <br/>Aki őriz éjjel-nappal,<br/>Megkönnyíti terhemet, <br/>Lépteimet őrzi gonddal,<br/>szívén hordja ügyemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szeretet a menedékem,<br/>Ki magához vont engem, <br/>Általa lett üdvösségem,<br/>Ő váltotta meg lelkem. <br/>Kegyelmének erejével<br/>Bűngyönyörből kihozott, <br/>Szent szerelme kötelével<br/>Hő szívére odavont.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Szeretet a menedékem,<br/>Ki fájdalmat, bút enyhít;<br/>Forrásából szomjas lelkem<br/>Vigasztaló írt merít. <br/>Ki az idők zord járását<br/>Hatalmával meggyőzi;<br/>Szívem, lelkem tisztaságát<br/>Kegyelmével megőrzi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Szeretet a menedékem, <br/>Ő el nem hágy sohasem; <br/>Folyton őriz, vezet kézen,<br/>Hogy vétekbe ne essem. <br/>Ki felvisz az égi trónhoz,<br/>Hol majd zengek örömben <br/>Hálahimnuszt Alkotómhoz.<br/>Uram, tarts meg frigyedben</lines>
+    </verse>
+  </lyrics>
+</song>

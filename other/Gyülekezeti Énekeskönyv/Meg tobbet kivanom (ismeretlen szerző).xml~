@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Meg tobbet kivanom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Még többet kívánom áldani nevét,<br/>Még többet kívánom imádni fenségét,<br/>Még többet kívánom magasztalni Õt,<br/>Szívembõl, ó, Uram, még többet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Még jobban kívánom Jézust szeretni,<br/>Még jobban kívánom Jézust szolgálni,<br/>Még jobban kívánok engedelmes lenni,<br/>Szívembõl, ó, Uram, még jobban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Egészen átadom Neki mindenem,<br/>Egészen kitárom Neki szívemet,<br/>Egészen felveszem drága keresztjét,<br/>Szívembõl, ó, Uram, egészen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Szeretnék hûséges tanítvány lenni,<br/>Kész vagyok Õ vele együtt szenvedni.<br/>Szeretném meglátni dicsõségében,<br/>Szívembõl, ó, Uram, szeretném!</lines>
+    </verse>
+  </lyrics>
+</song>

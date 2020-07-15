@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:34">
+  <properties>
+    <titles>
+      <title>Jo atyank szeretunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jó Atyánk, úgy szeretünk, <br/>Imádunk Téged, <br/>Hálaének zeng a földünkön, <br/>Hálaének zeng, Hála ének zeng, <br/>Hálaének zeng a földünkön!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Úr Jézus, úgy szeretünk,<br/>Imádunk Téged, <br/>Hálaének zeng a földünkön, <br/>Hálaének zeng, Hála ének zeng, <br/>Hálaének zeng a földünkön!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szentlélek, úgy szeretünk, <br/>Imádunk Téged, <br/>Hálaének zeng a földünkön, <br/>Hálaének zeng, Hála ének zeng, <br/>Hálaének zeng a földünkön!</lines>
+    </verse>
+  </lyrics>
+</song>

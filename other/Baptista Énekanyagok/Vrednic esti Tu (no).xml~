@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-10T16:56:25">
+  <properties>
+    <titles>
+      <title>Vrednic esti Tu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>no</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Vrednic ești Tu,<br/>Miel de jertfă<br/>Sfânt ești, sfânt ești în veci<br/>Cânt de laudă Celui ce stă<br/>Pe al harului tron</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sfânt e, sfânt e, sfânt e<br/>Domnul Atotputernic,<br/>Ce-a fost și este și va fi!<br/>Tot universul cântă mărire Regelui<br/>Ești tot ce-avem mai bun,<br/>Prin cântec Te laud...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Îmbrăcat în strălucire<br/>Cu splendoare-nconjurat<br/>Onoare, cinste slavă-ți dăm<br/>Și toată gloria,<br/>Doar Ție Rege veșnic!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Înaintea Numelui sfânt<br/>Cu uimire mă proștern<br/>Numele Tău e viață,<br/>Putere și speranță<br/>Laudă Numelui Tău sfânt!</lines>
+    </verse>
+  </lyrics>
+</song>

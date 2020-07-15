@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tu esti iubirea mea</title>
+    </titles>
+    <authors>
+      <author>Szabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu m-ai dus sus spre lumină, <br/> Tu m-ai învățat să sper, <br/> În Tine-am găsit odihnă  <br/> Și-o fereastră către cer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu-ai trimis cuvântul vieții,<br/> Când departe rătăceam,<br/>  Tu ești roua dimineții <br/> Doamne tu esti tot ce am.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: Tu ești iubirea mea din cer, <br/> Și diminețile pe care eu cu dor le-aștept,<br/> Tu ești și soarele ce-mi încălzește inima,<br/> Doar lânga Tine prin iubire eu pot exista.</lines>
+    </verse>
+    <verse name="b1">
+      <lines> Doamne doar lângă Tine<br/> Îmi va fi bine mereu <br/> Voi crede veșnic în Tine <br/> Tu eşti al meu Dumnezeu</lines>
+    </verse>
+  </lyrics>
+</song>

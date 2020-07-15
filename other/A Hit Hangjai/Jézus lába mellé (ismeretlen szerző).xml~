@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:03">
+  <properties>
+    <titles>
+      <title>Jézus lába mellé</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Jézus lába mellé ült le Mária, <br/>Hogy meghallja, mit kell üdvről tudnia. <br/>Bölcsen választá a jót, Jézust, a nagy üdvadót.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lába mellett légyen nékem is helyem, <br/>Hol majd csendben ülve Őt figyelhetem!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Jézus lába mellé térdelt Mária, <br/>Készen volt kezében drága nárdusa. <br/>Áldott kenet illatát hozta Néki, legjavát.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Én is Néki szánom hitből, szívesen <br/>Minden földi kincsem, <br/>szívem teljesen.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Lázár sírja mellett búsult Mária, <br/>Ám soká nem kellett gyászban járnia,  <br/>Mert csodát tett ott az Úr… <br/>Most már hálakönnye hull.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Máriával én is <br/>fennen hirdetem, <br/>Ő az üdv és élet, <br/>nékem mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

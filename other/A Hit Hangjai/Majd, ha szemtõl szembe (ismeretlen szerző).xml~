@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Majd, ha szemtõl szembe</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="458"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Majd, ha szemtől szembe látom <br/>Lelkem Üdvözítőjét, <br/>Térdre hullva Őt imádom, <br/>Ki meghalt sok bűnömért.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Szemtől szembe látom fényét <br/>Túl a csillagtengeren. <br/>Szemtől szembe nézem lényét, <br/>Nevét áldom szüntelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Most még homály rejti arcát, <br/>Tükör által látom Őt;<br/>De felhozza dicső napját, <br/>Lepel nélkül nézem Őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Gyász és fájdalom elmúlnak, <br/>Nem lesz szenvedés, se éj. <br/>Rögös utak kisimulnak, <br/>Mindent beragyog a fény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó, mily csodálatos élmény: <br/>Szemtől szembe látnom Őt!<br/>Áldom nagy szeretetéért <br/>Jézust, a nagy Megmentőt.</lines>
+    </verse>
+  </lyrics>
+</song>

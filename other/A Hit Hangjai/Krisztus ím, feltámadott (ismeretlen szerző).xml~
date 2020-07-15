@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Krisztus ím, feltámadott</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="420"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Krisztus, ím, feltámadott! <br/>- Hirdetik az angyalok. <br/>Zengjük mi is örömmel, <br/>Hálaének szálljon fel! <br/>Zúgja ezt a föld és ég, <br/>Harsogja a mindenség!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Aki értünk halt a fán, <br/>Győzött húsvét hajnalán. <br/>Véget ért a nagy munka: <br/>Kész a váltság számunkra. <br/>Megtört már a zord halál, <br/>Bezárt Éden nyitva áll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szárnyaljon hát énekünk, <br/>Őt tisztelje életünk! <br/>Aki Benne hisz, remél, <br/>Véle új életre kél, <br/>Ki legyőzött bűnt, halált, <br/>Áldjuk Őt, a nagy Királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

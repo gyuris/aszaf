@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Várnak ránk az üdvözültek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="753"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Várnak ránk az üdvözültek  odafent mennyben,<br/>Elénk jönnek hófehérre mosott öltönyben,<br/>Intenek, hívnak és várnak a dicsőségbe. <br/>Ó, hát siessünk a Bárány menyegzőjébe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Igen, ők várnak,intenek, <br/>és hívnak föl a nyugalomba,<br/>Intenek, hívnak oda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A lelkünk Jézusbanörök életet talált,<br/>Így a gonoszt megvetve nem féljük a halált,<br/>Engedünk az üdvözültekhívó szavának,<br/>Akik folyton hívnak, integetnek és várnak. Refr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Boldog, kit az Úr a menyegzőbe meghívott, <br/>És a Bárány vére hófehérre megmosott,<br/>Mert a vőlegény már nemsokára visszajön,<br/>Hű menyasszonyát elviszi túl a felhőkön.</lines>
+    </verse>
+  </lyrics>
+</song>

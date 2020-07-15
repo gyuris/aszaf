@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Fönn a honban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Fönn a honban,<br/>melybe vágyom,<br/>Fénylenek arany utcák, <br/>Életvize bőven árad, <br/>Hol nem hervad a virág.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mint a fű, a rét virága,<br/>Úgy elmúlik e világ, <br/>Én az égi honba vágyom, <br/>Hol nem hervad a virág.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Míg itt élünk annyi harc van, <br/>Rémit sokszor bűn, halál;<br/>Béke vár az örök honban,<br/>Hol nem hervad a virág</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Célba érve hit-testvérim <br/>Várnak engem odaát,  <br/>Mindörökké Jézust áldjuk, <br/>Hol nem hervad a virág.</lines>
+    </verse>
+  </lyrics>
+</song>

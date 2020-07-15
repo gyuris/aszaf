@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Halld, Krisztus hív</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Halld, Krisztus hív: <br/>Jöjj énhozzám, jöjj énhozzám,<br/>jöjj énhozzám!<br/>Halld, Krisztus hív: <br/>Jöjj énhozzám, <br/>nyugtot így találsz!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nyugtot így találsz, <br/>nyugtot így találsz!<br/>Halld, Krisztus hív: <br/>Jöjj énhozzám, <br/>nyugtot így találsz!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Olvass igét, imádkozzál,<br/>tedd mindennap, tedd mindennap!<br/>Olvass igét, imádkozzál, <br/>növekedni fogsz!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Növekedni fogsz, <br/>növekedni fogsz!<br/>Olvass igét, imádkozzál, <br/>növekedni fogsz.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Emberhalász te is lehetsz,<br/>te is lehetsz, te is lehetsz,<br/>Emberhalász te is lehetsz,<br/>hogyha hűn követsz!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hogyha hűn követsz, <br/>hogyha hűn követsz, <br/>Emberhalász te is lehetsz, <br/>hogyha hűn követsz!</lines>
+    </verse>
+  </lyrics>
+</song>

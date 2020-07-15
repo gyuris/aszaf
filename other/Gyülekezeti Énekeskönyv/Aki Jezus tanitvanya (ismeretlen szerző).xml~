@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Aki Jezus tanitvanya</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Aki Jézus tanítványa, <br/>Abban szeretet lakik, <br/>Tettekkel bebizonyítja <br/>Szíve indulatait.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézust ölti fel magára, <br/>Fárad, áldoz, könyörül, <br/>Oktat, tûr és szenved másért, <br/>Földi kincsnek nem örül.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Aki Jézus tanítványa, <br/>Halad az Õ lábnyomán, <br/>Szolgál mennyei Atyjának <br/>Buzgón, híven, igazán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Aki Jézus tanítványa, <br/>Hûn követi mesterét, <br/>A világnak ijesztése <br/>Nem rettenti meg szívét.</lines>
+    </verse>
+  </lyrics>
+</song>

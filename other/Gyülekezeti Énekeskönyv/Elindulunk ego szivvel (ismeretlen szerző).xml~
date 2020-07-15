@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:31">
+  <properties>
+    <titles>
+      <title>Elindulunk ego szivvel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Elindulunk égõ szívvel, <br/>És lépésünk imádság lesz.<br/>Remény támad, új nap virrad, <br/>Száll az ének szerteszét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Égj gyertyaláng most, <br/>Sötét szívekben lángolj!<br/>Gyúljon már világosság!<br/>Öröm ének zengjen, szeretettel, szívvel,<br/>Ragyogj hát, gyertyaláng!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Már olyan rég ragyog a fény <br/>A keresztrõl mindenfelé. <br/>Szívünk várja Jézus jöttét, <br/>Zengje szívünk: „Reménység!“</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Az igazért, a bûnösért, <br/>Szeretetért, szabadságért,<br/>Jézus nevében, Õ erejével <br/>Fogunk járni, Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

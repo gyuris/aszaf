@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Olvasd egyre</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Olvasd egyre szent Bibliád, <br/>Szent Bibliád, szent Bibliád! <br/>Minden nap mondj buzgó imát, <br/>Nõni így  fogsz hát!:/ 3x <br/>Olvass igét, mondj hõ imát, <br/>Nõni így fogsz hát!</lines>
+    </verse>
+  </lyrics>
+</song>

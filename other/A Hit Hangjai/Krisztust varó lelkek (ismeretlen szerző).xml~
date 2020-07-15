@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Krisztust varó lelkek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="427"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Krisztust váró lelkek, <br/>Kik sokszor úgy féltek, <br/>Az Ő szavát figyeljétek! <br/>Bízón hallgassátok, <br/>Így szól nagy Királytok: <br/>Ne féljetek, tanítványok!<br/>Itt vagyok, Bízzatok! <br/>Szenvedésben társak, <br/>Üdvösséggel várlak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jön a sötét éjjel <br/>Rettenetességgel, <br/>Ellenséges gyűlölséggel. <br/>A szeretet csökken, <br/>S a bűn nagy erőben <br/>Uralkodik dölyfös gőgben. <br/>Istenünk, Rettegünk! <br/>Ó, ne hagyj magunkra, <br/>Erősíts meg újra!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Nem attól kell félnünk, <br/>Ki megöli testünk, <br/>Hanem ki elveszti lelkünk. <br/>Ne menjünk el balra, <br/>És ne térjünk jobbra, <br/>Mert csak így jutunk a célba!<br/>Hűségért Égi bért <br/>Nyerünk ott mindnyájan <br/>Csodás gazdagságban!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Legyünk mindig bölcsek <br/>És galambszelídek, <br/>Ápoljuk a békességet! <br/>Tanuljunk meg tűrni, <br/>Haláltól se félni, <br/>Gyermekét az Úr megvédi!<br/>Fel, bátran Mindnyájan! <br/>Küzdjünk úgy, mint Jézus, <br/>Győzzünk úgy, mint Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:01">
+  <properties>
+    <titles>
+      <title>Hogyha vetünk reggel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hogyha vetünk reggel<br/>megújult reménnyel,<br/>Hogyha vetünk délben, <br/>s ha leszáll a nap, <br/>Hogyha várunk békén,<br/>az aratás végén, <br/>Nagy örömmel, <br/>vígan kévénk hozzuk majd!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Kévénk hozzuk majd,<br/>kévénk hozzuk majd,<br/>Nagy örömmel, vígan <br/>kévénk hozzuk majd!<br/>Kévénk hozzuk majd,<br/>kévénk hozzuk majd,<br/>Nagy örömmel, vígan,<br/>kévénk hozzuk majd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Hogyha vetünk fényben, <br/>vagy sötétlő árnyban,<br/>Nem riaszt a felhő,<br/>sem a bősz vihar,<br/>Szorgos munkánk végén, <br/>túl a halál révén,<br/>Nagy örömmel, <br/>vígan kévénk hozzuk majd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Sokszor könnyek közt<br/>kell vetnünk Mesterünkért,<br/>És a szívünk fáj, <br/>ha kemény a talaj, <br/>Véget ér ott Nála minden bú és bánat,<br/>Nagy örömmel, <br/>vígan kévénk hozzuk majd!</lines>
+    </verse>
+  </lyrics>
+</song>

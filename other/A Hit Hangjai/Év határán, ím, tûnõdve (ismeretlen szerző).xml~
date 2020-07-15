@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Év határán, ím, tûnõdve</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Év határán, ím, tűnődve állunk,<br/>Nézünk előre az új felé. <br/>Teljesülni fog-e minden vágyunk,<br/>Amint elképzeltük, úgy lesz-é?<br/>Amint elképzeltük, úgy lesz-é?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Vajon bánat, harag lesz-e részünk,<br/>Vár-e ránk sok baj és gyötrelem?<br/>Utolér tán az, amitől félünk?<br/>Ez most előttünk még rejtelem.<br/>Ez most előttünk még rejtelem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Visszanézve nagy kegyelmét látjuk,<br/>Mely a próbák közt is megtartott.<br/>Hálás szívvel Istent magasztaljuk,<br/>Mert Ő nékünk annyi jót adott!<br/>Mert Ő nékünk annyi jót adott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ő az áldást nem vonja meg tőlünk, <br/>Jézus szíve értünk is dobog.<br/>Hittel nézzünk Rá és sose féljünk,<br/>Velünk marad Ő, csak bízzatok!<br/>Velünk marad Ő, csak bízzatok!</lines>
+    </verse>
+  </lyrics>
+</song>

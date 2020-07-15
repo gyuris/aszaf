@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Az Ur az erossegunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr az erõsségünk, Õ az üdvösségünk, <br/>Hatalmas, biztos Kõsziklánk. <br/>Amelyre ha állunk, nem inog meg lábunk, <br/>Szívünk szárnyal mint sasmadár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Õbenne, ha bízunk, el nem veszhetünk, <br/>Isten, ha velünk van, ki lehet ellenünk? <br/>Az Úr az erõsségünk, Õ az üdvösségünk, <br/>Hatalmas, biztos Kõsziklánk.</lines>
+    </verse>
+  </lyrics>
+</song>

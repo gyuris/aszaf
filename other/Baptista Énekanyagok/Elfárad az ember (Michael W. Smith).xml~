@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:18">
+  <properties>
+    <titles>
+      <title>Elfárad az ember</title>
+      <title>elfarad az ember</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egyszer így szólt a szeretet:<br/>Elküldök egy követet,<br/>Hogy lássa, meddig tart még.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kopogott a szíveken, de azt hitték,<br/>Hogy idegen.<br/>Várta, meddig tart még, én is kérdem:<br/>Mondd, meddig tart még?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Elfárad az ember,<br/>De Te vagy, lehajolsz hozzá,<br/>Rászólsz, hogy ha nem mer:<br/>Bennem bízzál!<br/>És már nyitott szemmel menetel,<br/>Szíve lát tisztán.<br/>Áradhat a tenger,<br/>Háza fenn van a sziklán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És látott éhes gyereket, háborút,<br/>Sok beteget.<br/>Ez, mondd, meddig tart még?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Látott egy nagy tömeget,<br/>Ki farkasokat követett.<br/>Mondd, meddig tart még<br/>Én is kérdem:<br/>Mondd, meddig tart még?</lines>
+    </verse>
+  </lyrics>
+</song>

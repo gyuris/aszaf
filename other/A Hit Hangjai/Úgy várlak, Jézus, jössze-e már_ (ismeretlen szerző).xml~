@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Úgy várlak, Jézus, jössze-e már?</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="732"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Úgy várlak, Jézus, jössz-e már? <br/>A szívem sír utánad. <br/>A könnyem hull, mint záporár, <br/>Emészt a gond, a bánat. <br/>A bűnöm súlya vállamon Nagy és nehéz. <br/>Ó, jöjj, bocsáss meg nékem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. A gyász helyén, a Golgotán <br/>A szíved vérzett értem. <br/>Te sírtál lelkem nyomorán, Mert <br/>Tőled messze tértem. <br/>Ó, szánj meg engem, nézz reám, Én Jézusom, <br/>Hisz értem is meghaltál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Csak Benned bízom, Jézusom, <br/>Bár földre sújt a bánat; <br/>Szent véred árán, jól tudom, <br/>Lesz bűnre bűnbocsánat. <br/>Fölnézek Rád, hogy megbocsáss, Ó, nézz reám! <br/>Nálad megújul szívem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Mennyei mester</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csodálatos, szent és fenséges<br/>Megváltóm vagy, <br/>Kegyelmed éltet.<br/>Sorsom Tiéd, <br/>Szelíden hívtál,<br/>Itt vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem Szellemed által,<br/>Taníts Uram világosságra,<br/>Kedves szavad megragad <br/>És vonz Hozzád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó alakíts és változtass el,<br/>Képmásodra te <br/>Mennyei Mester,<br/>Szereteted égjen szívemben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj hát, járj át, szólj és formálj,<br/>Légy Úr bennem, várlak szüntelen.<br/>Kelj fel, Uram jöjj <br/>És áldj meg újra, Szent Szellemed <br/>tűzzel áraszd rám.</lines>
+    </verse>
+  </lyrics>
+</song>

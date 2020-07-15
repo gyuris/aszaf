@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-08T16:15:10">
+  <properties>
+    <titles>
+      <title>Megvaltom</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>TMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Megváltóm, szabadítóm, <br/>A porból felemeltél. <br/>Soha többé nem leszek már <br/>Az az ember, aki régen voltam én.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nyitva áll az ajtó,<br/>Elkészült az út<br/>A Mennyország felé!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Értem jöttél, legyőzted a halált,<br/>Megnyílt már az út, <br/>S te új reményt hoztál.<br/>Halleluja az életért!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Látom már,<br/>nyitva áll az ajtó,<br/>Elkészült az út<br/>A Mennyország felé!</lines>
+    </verse>
+  </lyrics>
+</song>

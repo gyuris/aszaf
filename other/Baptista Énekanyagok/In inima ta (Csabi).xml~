@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:21">
+  <properties>
+    <titles>
+      <title>In inima ta</title>
+    </titles>
+    <authors>
+      <author>Csabi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Daca sufletului tau<br/>Ii vei da-n orice clipa<br/>Sa bea din apa vietii<br/>Din inima Ta vor curge numai izvoare<br/>Si vei aduce in jur vindecare</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref:<br/>In inima Ta vei avea doar iubire<br/>In inima Ta nu va mai fi dezamagire<br/>Vei trai in orice zi raspandind bucuria<br/>Si vei cunoaste apoi nemurirea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Daca tu-ti vei gasi<br/>Desfatarea in Domnul<br/>In toate zilele vietii<br/>Vei fi ca un pom care-i sadit langa ape<br/>Si vei aduce la timp multa roada</lines>
+    </verse>
+  </lyrics>
+</song>

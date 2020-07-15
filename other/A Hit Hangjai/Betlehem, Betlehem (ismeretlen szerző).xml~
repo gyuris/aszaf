@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>Betlehem, Betlehem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Betlehem, Betlehem,<br/>Örvendünk szép neveden. <br/>Benned szállott le a földre <br/>e világ nagy Megmentője. <br/>Benned egy kicsiny helyen; <br/>Betlehem, Betlehem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézusunk, Jézusunk,<br/>Te vagy Megváltónk, Urunk! <br/>Hozzánk jöttél, mint kis gyermek,<br/>Oly csodás a szereteted! <br/>Te vagy a mi vigaszunk:<br/>Jézusunk, Jézusunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Nagy Király, Nagy Király, <br/>Szívünk Néked hódol már. <br/>Isten Fia, Hála! Hála!<br/>Légy Te mindörökké áldva!<br/>Te vagy nékünk mindenünk; <br/>Üdvünk és életünk!</lines>
+    </verse>
+  </lyrics>
+</song>

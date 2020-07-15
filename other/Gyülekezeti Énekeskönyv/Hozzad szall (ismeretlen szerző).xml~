@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Hozzad szall</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád száll az énekem,<br/>Olyan jó téged dicsérni,<br/>Bûnös volt az életem, <br/>Te eljöttél, hogy megments engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennybõl jöttél közénk, hogy út legyél.<br/>Föláldoztad magad a bûnömért.<br/>A Golgotán meghaltál, <br/>Harmadnap feltámadtál,<br/>Uralkodsz mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

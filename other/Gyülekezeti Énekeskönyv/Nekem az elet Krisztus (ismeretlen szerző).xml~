@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:37">
+  <properties>
+    <titles>
+      <title>Nekem az elet Krisztus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nékem az élet Krisztuskövetés,<br/>Krisztus az út, a halál nyereség,<br/>Örömmel telt szívem nem fél,<br/>Mert Lelke bennem él,<br/>Nékem az élet Krisztuskövetés!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nékem az élet Krisztuskövetés!<br/>Utaimon az Õ hatalma véd.<br/>Lelke által felvehetem <br/>Szellemi fegyverem,<br/>Nékem az élet Krisztuskövetés!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Nékem az élet Krisztuskövetés!<br/>Legyõzhetem a sátán erejét.<br/>Elõttem drága cél lebeg, <br/>Mely a mennybe vezet.<br/>Nékem az élet Krisztuskövetés!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nékem az élet Krisztuskövetés!<br/>Szerelme elvet minden szenvedélyt.<br/>Azóta boldogan mondom,<br/>Te vagy Szabadítóm,<br/>Nékem az élet Krisztuskövetés!</lines>
+    </verse>
+  </lyrics>
+</song>

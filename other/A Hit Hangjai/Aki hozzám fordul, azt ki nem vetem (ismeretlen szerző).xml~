@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>Aki hozzám fordul, azt ki nem vetem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="026"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. „Aki Hozzám fordul, azt ki nem vetem.” <br/>- Így ígérte Jézus néked és nekem. <br/>Látod, sok a bűnöd, nem bírod tovább, <br/>Jöjj az Úrhoz, vár még rád!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Megbocsátja minden bűnödet, <br/>Békességet ad a szívednek! <br/>Veled marad mindig hogyha akarod, <br/>Félelemre nincs okod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Volt-e már barátod, aki így szeret? <br/>Meghalt, hogy tenéked adjon életet. <br/>Végtelen kegyelmet és üdvöt kínál, <br/>Jézus Krisztus téged vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. El ne fordulj Tőle, mert késő lehet, <br/>Nem lesz, aki kérje bűnös szívedet. <br/>Jöjj csak bátran Hozzá, van még kegyelem, <br/>Szeretete végtelen.</lines>
+    </verse>
+  </lyrics>
+</song>

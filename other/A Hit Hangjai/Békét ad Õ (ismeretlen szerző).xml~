@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>Békét ad Õ</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. /: Békét ad Ő,<br/>Aki összetör gátakat,<br/>Békét ad Jézus, Békét ad Ő. :/</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>/: Tedd rá sok terhedet,<br/>Nyisd meg a szívedet!<br/>Békét ad Jézus, Békét ad Ő. :/</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3./: Hatalmas Ő,<br/>Aki győzött a Golgotán,<br/>Hatalmas Jézus, Hatalmas Ő. :/</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>/: Dicsérjed szüntelen,<br/>Szolgáljad szívesen!<br/>Hatalmas Jézus, Hatalmas Ő. :/</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. /: Újra eljön,<br/>Aki oly sokat szenvedett,<br/>A Krisztus Jézus újra eljön. :/</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>/: Légy készen, várjad Őt,<br/>Várjad a menyegzőt!<br/>A Krisztus Jézus újra eljön. :/</lines>
+    </verse>
+  </lyrics>
+</song>

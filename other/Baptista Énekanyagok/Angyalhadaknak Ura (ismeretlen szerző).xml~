@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:36:25">
+  <properties>
+    <titles>
+      <title>Angyalhadaknak Ura</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ha hívlak, meghallgatsz,<br/>Dal vagy, ha kél a Nap,<br/>Bár sötét még az éj,<br/>Életem harcterén<br/>Te vagy a Fény!<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ha jön az ellenség,<br/>Erős karod megvéd,<br/>Mert páncélom a hit,<br/>Míg harcom nem múlik<br/>Kitől félnék?<br/></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Tudom, ki jár előttem,<br/>Hogy mögöttem ki áll,<br/>Angyalhadaknak Ura,<br/>Ő az én Kősziklám!<br/></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Uralma örökké tart,<br/>Barátként jön hozzám,<br/>Isten, s az angyalsereg<br/>Mindig mellettem áll!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Nevedben erő él,<br/>Te vagy a menedék,<br/>Megmented életem,<br/>Győzelmed éneklem!<br/>Kitől félnék?<br/>Mitől félnék?<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mert bárhogy támad az ellenség,<br/>Hatalmad mindentől megvéd!<br/>Ígéreted mélyen bennem él,<br/>Benned bízom, Hű Megváltóm!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

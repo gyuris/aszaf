@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+  <properties>
+    <titles>
+      <title>Te vagy a kosziklam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="408"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy a Kõsziklám, <br/>Oltalmam szélvészben, <br/>Veszélyek közt támaszom, <br/>Aki megtartasz engem, <br/>Mert benned bízom én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Benned bízom én, <br/>Velem vagy, s ez ad erõt, <br/>Kegyelmed elég nekem.</lines>
+    </verse>
+  </lyrics>
+</song>

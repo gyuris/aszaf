@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:55">
+  <properties>
+    <titles>
+      <title>Az Úr vezet, mily szent tudat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="083"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Az Úr vezet, mily szent tudat,<br/>Ez ad nekem reményt, vigaszt.<br/>Ott van velem, bárhol legyek, <br/>És jobbja őriz engemet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Híven vezet és bíztatón, <br/>Minden helyen, minden napon,<br/>Mint tanítvány Őt követem, <br/>Az Úr vezet hűségesen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Hideg ködön, zord éjjelen,<br/>Kedves, szép nyári kerteken,<br/>Vad tengeren, zöld rét felett <br/>Isten keze visz engemet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Ó, fogd erősen karomat,<br/>Hogy Téged el ne hagyjalak!<br/>Hadd mondjam, bár a szélvész dúl: <br/>„Csak bátorság, vezet az Úr!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Ha munkám itt végére jár,<br/>És Krisztus által győztem már,<br/>Halálon át erős kezed <br/>A mennybe engem fölvezet.</lines>
+    </verse>
+  </lyrics>
+</song>

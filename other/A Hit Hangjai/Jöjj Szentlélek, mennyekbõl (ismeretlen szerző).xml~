@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:05">
+  <properties>
+    <titles>
+      <title>Jöjj Szentlélek, mennyekbõl</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jöjj, Szentlélek, mennyekből, <br/>Hószín galamb Istentől, <br/>Áldott égi szeretet, <br/>Töltsd be árva szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, Szentlélek, drága fény, <br/>Téged bírni vágylak én!<br/>Jöjj, foglalj el teljesen <br/>E csodás, szép ünnepen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szép tavasznak reggelén <br/>Tündököljön hit, remény:<br/>Hogy te ápolsz engemet, <br/>S mennybe viszed lelkemet!</lines>
+    </verse>
+  </lyrics>
+</song>

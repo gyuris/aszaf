@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Nezz szét, szívem, mily öröm ért</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="560"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nézz szét, szívem, mily öröm ért, <br/>A nyár, a napfény, ó, de szép!<br/>Az Isten adta nékünk. <br/>Csak nézz a földön szerte szét, <br/>Mind bontja mezőnk szép díszét, <br/>Lásd, nékünk nyílnak, s értünk, <br/>Mily illatos a kertünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Lombdúsan állnak mind a fák, <br/>Fű rejti el a föld porát <br/>Szép bársony zöldruhával. <br/>Őt áldja fű, fa, minden ág, <br/>A tarka rét, a sok virág; <br/>Ha szellő szárnya lebben, <br/>Nem szól a hárfa szebben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A kis pacsirta égbe száll, <br/>Az erdő mélyén kis madár <br/>Kibújt a rejtekéből, <br/>Dalt zeng a kedves csalogány <br/>És véle örvend valahány. <br/>Visszhangzik, zeng a vígság; <br/>Hegy, völgy, halom és síkság.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Én mért pihennék szótlanul, <br/>Hisz naponként megáld az Úr!<br/>Kelj, hálaérzet, bennem! <br/>Mint kis patak, oly vígan folyj, <br/>Zengj, énekem, <br/>csak Róla szólj, <br/>Az Alkotóról híven, <br/>Zengj háladalt én szívem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Oly szép az Úrral minden itt, <br/>A pusztaság is boldogít. <br/>De jó is nékünk Véle! <br/>Ha majd a föld is szertehull, <br/>A menny lesz nékünk sátorul, <br/>Hol nem jön tél a nyárra, <br/>Ott vár az élet fája.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Ott élhetünk, - ó, mily öröm! <br/>– Hol minden tiszta fényözön, <br/>Hol Krisztus Úr, a kertben, <br/>Ott víg Szeráfok hangja zeng <br/>És háladallal hárfa peng, <br/>Nem szűnve dicsér néped: <br/>Ó, hála Uram, Néked!</lines>
+    </verse>
+  </lyrics>
+</song>

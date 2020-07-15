@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:10">
+  <properties>
+    <titles>
+      <title>Ó jöjj szívembe, áldott Jézus!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="602"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó, jöjj szívembe, áldott Jézus! <br/>Így száll imám most Feléd. <br/>A lelkem oly csüggedt és fáradt, <br/>Jöjj szívembe, jöjj ma még!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Szívembe jöjj! Szívembe jöjj! <br/>Jöjj szívembe most, Úr Jézus!<br/>Ó, jöjj még ma, és lakj abba', <br/>Jöjj szívembe most, Úr Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó, jöjj szívembe, áldott Jézus! <br/>Segíts, a bűn terhe nyom, <br/>Hogy bátran álljak <br/>majd Elődbe <br/>Amaz utolsó napon!</lines>
+    </verse>
+  </lyrics>
+</song>

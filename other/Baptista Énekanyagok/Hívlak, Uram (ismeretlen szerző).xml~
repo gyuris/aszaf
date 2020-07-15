@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:20">
+  <properties>
+    <titles>
+      <title>Hívlak, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hívlak, Uram, várlak, Uram,<br/>benned bízom,<br/>benned reménykedem.<br/>Hívlak, Uram, várlak, Uram,<br/>Légy segítségem,<br/>légy menedékem!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Mert te szoltál<br/>és elõ állt a földkerekség,<br/>mert te szóltál<br/>és csillagok lettek az ég tengerén.<br/>Mert te szóltál<br/>és víz fakadt a kõsziklából,<br/>mert te szóltál<br/>és megindult a föld szavadtól.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Benned bízom én, Terád vágyom én,<br/>jöjj el, Uram, és cselekedjél!<br/>Benned bízom én, Terád vágyom én,<br/>jöjj el, Uram, és cselekedjél!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hívlak, Uram, várlak, Uram,<br/>benned bízom,<br/>benned reménykedem.<br/>Hívlak, Uram, várlak, Uram,<br/>Légy segítségem,<br/>légy menedékem,<br/>Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

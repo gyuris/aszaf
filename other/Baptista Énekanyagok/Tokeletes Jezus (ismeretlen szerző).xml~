@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tokeletes Jezus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Életem ereje,<br/>Hűséges szövetségesem.<br/>Uram és Megváltóm,<br/>Közelséged elég nekem.<br/>Tökéletes Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reményem, örömöm,<br/>forrásom Belőled fakad.<br/>Ékszerem, koronám,<br/>minden gazdagságom Te vagy!<br/>Tökéletes Jézus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szerelmed féltőn átkarol,<br/>Hozzád bújva nyugszik  meg lelkem.<br/>Békességed szárnyakra emel.<br/>Nem rémít a háborgó tenger</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reménységem, amíg élek el nem hagy.<br/>Az út végén színről-színre látlak majd!<br/>Reménységem, amíg élek el nem hagy.<br/>Az út végén színről-színre látlak majd!</lines>
+    </verse>
+  </lyrics>
+</song>

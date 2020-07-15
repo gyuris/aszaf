@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:22">
+  <properties>
+    <titles>
+      <title>Kozos utra leptek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ha az igaz szeretet útján jártok,<br/>Rátok Isten szeme vigyáz,<br/>Ha az igaz szeretet útján jártok,<br/>Rátok Isten szeme vigyázz.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Közös útra léptek e napon,<br/>Mert az Úr ezt úgy rendelte el.<br/>Együtt járva több lesz az öröm.<br/>És e frigyben enyhűl a teher.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meg van írva: "Nem jó egyedül!"<br/>Ezért Isten házastársat ad,<br/>Aki végleg eggyé lesz veled<br/>És a bajban melletted marad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha Isten bennetek lakik,<br/>Akkor végig megáll frigyetek,<br/>És a földi életút végén<br/>Jézus vár a mennyben titeket!</lines>
+    </verse>
+  </lyrics>
+</song>

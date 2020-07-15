@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:00">
+  <properties>
+    <titles>
+      <title>Hallom Jézus hívó szavát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Hallom Jézus hívó szavát, <br/>Hallom Jézus hívó szavát, <br/>Hallom Jézus hívó szavát: <br/>Vedd fel kereszted <br/>és úgy kövess!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Követem, bármerre vezet, <br/>Követem, bármerre vezet,<br/>Követem, bármerre vezet, <br/>Vele járok minden utamon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ő visz át az ítéleten, <br/>Ő visz át az ítéleten, <br/>Ő visz át az ítéleten, <br/>Átvisz engem, tudom, <br/>nagy kegye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Vele érek majd a mennybe, <br/>Vele érek majd a mennybe,<br/>Vele érek majd a mennybe,<br/>Fel a dicső, örök életre.</lines>
+    </verse>
+  </lyrics>
+</song>

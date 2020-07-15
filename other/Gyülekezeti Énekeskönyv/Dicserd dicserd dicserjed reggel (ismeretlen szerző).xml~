@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Dicserd dicserd dicserjed reggel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. Dicsérd, dicsérd, dicsérjed Õt reggel, <br/>Dicsérjed Õt este.<br/>Dicsérd, dicsérd, dicsérjed Õt szüntelen.<br/>Oly jó az Úrnak dicséretet énekelni, <br/>Szeretem az Õ útját,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oly jó Néki zengedezni, örvendezni, <br/>Ujjongni az Õ útján.<br/>Így, Jézusomról szólni, szívem mindig kész, <br/>Szívem mindig kész, szívem mindig kész,<br/>Így Jézusomról szólni, szívem mindig kész,<br/>Õ élet, erõ, békesség.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Refrén:<br/>Zengd velünk, hogy halleluja, <br/>Énekeld, hogy köszönöm.<br/>Hálaadásra nyissad ajkad, <br/>Hálával dicsérjed Õt.<br/>Jézus meghalt érettem, <br/>Ott a magas kereszten, <br/>Ezzel gyõzött mindörökre Jézus.<br/>Zengd velünk, hogy halleluja, <br/>Énekeld, hogy köszönöm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2/2. Jézus, Jézus, Néked zeng az ének, Magasztalunk Téged.<br/>Jézus, Jézus, Hála néked Megváltónk.<br/>Méltó a Bárány, övé legyen minden erõ, Hatalom és bölcsesség.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott Bárány, hódolattal énekelünk, <br/>Tied minden tisztesség.<br/>Így, Jézusom terólad zeng az énekem, <br/>Zeng az énekem, zeng az énekem.<br/>Így, Jézusom terólad zeng az énekem,<br/>Ó, dicsõség a Báránynak.</lines>
+    </verse>
+  </lyrics>
+</song>

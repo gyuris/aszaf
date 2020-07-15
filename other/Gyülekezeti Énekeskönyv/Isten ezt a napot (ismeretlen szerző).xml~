@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Isten ezt a napot</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/2. /:Isten ezt a napot azért adta nekünk, <br/>Hogy szeressük mi egymást!:/<br/>/:Hogy szeressük mi egymást:/<br/>Isten ezt a napot azért adta nekünk, <br/>Hogy szeressük mi egymást!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/2./:Isten ezt a napot azért adta nekünk, <br/>Hogy dicsérjük szent nevét.:/<br/>/:Hogy dicsérjük szent nevét:/<br/>Isten ezt a napot azért adta nekünk, <br/>Hogy dicsérjük szent nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

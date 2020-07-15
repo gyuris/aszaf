@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:14">
+  <properties>
+    <titles>
+      <title>Vigyázz és gyakran</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="760"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Vigyázz és gyakran merülj hő imába, <br/>Már kora reggel, ha a nap felkel! <br/>Mindig csak Jézus legyen lelked vágya, <br/>És szíved béke tölti el!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mindenkor légy éber, s vigyázz! <br/>Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Vigyázz a napnak minden órájában, <br/>Ha háborúság támad ellened; <br/>Vidd ügyed Isten elé hő imában, <br/>Csak Ő segíthet tenéked!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Vigyázz még akkor is, ha jő az este, <br/>És örvendj annak, hogy Jézus tiéd, <br/>Mert bizton nyugszik annak lelke, teste, <br/>Ki Őrá bízza mindenét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Vigyázz hát minden helyen, minden percben, <br/>A világ tőrt vet sokféleképpen, <br/>A gonosz mindig rést keres a szívben, <br/>Te kövesd Jézust mindenben!</lines>
+    </verse>
+  </lyrics>
+</song>

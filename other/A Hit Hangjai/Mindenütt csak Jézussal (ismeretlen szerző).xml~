@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:08">
+  <properties>
+    <titles>
+      <title>Mindenütt csak Jézussal</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="516"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Mindenütt csak Jézussal, bizton lehetek,<br/>Ahol Jézus van jelen, ott nem félhetek.<br/>De ahol Ő nincs velem, nincs ott örömem,<br/>Véle járva mindig boldog a szívem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Mindenütt csak Jézust Követem szüntelen,<br/>Jézus vezet folyton, Üdvöt ad nekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Bárhol is csak Jézussal, nem vagyok szegény,<br/>Emberhűség elmúlik, Ő marad enyém.<br/>Tengeren vagy szárazon, puszta földön át,<br/>Keze őriz engem, békességet ád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Mindenütt csak Jézussal, nyugton alszom el,<br/>Rémítő, sötét homály vonulhat közel.<br/>Karja biztos védelem, hogyha jő az éj,<br/>Véle fáradt lelkem otthonába ér.</lines>
+    </verse>
+  </lyrics>
+</song>

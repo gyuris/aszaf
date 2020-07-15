@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:28">
+  <properties>
+    <titles>
+      <title>Vagylak latni Teged Jezus</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Vágylak látni Téged, Jézus,<br/>Arcodban látni, Istenem.<br/>Őt szemlélni, Vele találkozni,<br/>Ahogy körbe vesz a Szent Szellem<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hívlak téged Úr Jézus,<br/>hittel Úr Jézus<br/>Érints meg, Érints meg<br/>Hívlak, jöjj közel hozzám,<br/>Lépj Te most hozzám<br/>Érints meg, Érints meg!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Várok rád tárva szívem,<br/>Itt vár a szívem<br/>Mondd szavad, mondd szavad!<br/>Várom, hogy szavad formál,<br/>Engem átformál,<br/>Mondd szavad, mondd szavad!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szomjazik rád a lelkem,<br/>Szomjas a lelkem<br/>Tölts tele, tölts tele!<br/>Szomjazik bennem minden,<br/>Hol üres szívem,<br/>Tölts tele, tölts tele!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

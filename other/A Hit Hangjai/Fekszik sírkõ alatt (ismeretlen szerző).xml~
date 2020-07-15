@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:59">
+  <properties>
+    <titles>
+      <title>Fekszik sírkõ alatt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Fekszik sírkő alatt<br/>Jézus, Megváltóm. <br/>Föltámadási nap, <br/>Ó, jöjj elő!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>El a követ! Jézus él! <br/>A halálból, ím, az Úr fölkél!<br/>Jézus él! <br/>Az éj Őt vissza nem tartá, <br/>Mert Ő a halál hatalmát megrontá. <br/>Jézus él! Jézus él! <br/>Halleluja, Jézus él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. A sírt megpecsétlék,<br/>Jézus, Megváltóm, <br/>A követ őrizték;<br/>Jézus, Uram!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Legyőzte a halált <br/>Jézus, Megváltóm, <br/>Megtörte hatalmát <br/>Jézus, Uram…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Diadal, diadal, <br/>Jézus, Megváltóm! <br/>Zengjen a háladal…,<br/>Jézus, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:56">
+  <properties>
+    <titles>
+      <title>Áldjad én lelkem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="090"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/5. Áldjad, én lelkem,<br/>a dicsőség örök Királyát!<br/>Őnéki mennyei karokkal<br/>együtt zengj hálát!<br/>Zúgó harang, <br/>Ének és orgonahang <br/>Mind az Ő szent Nevét áldják!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/5. Áldjad Őt, mert az Úr mindent <br/>oly bölcsen intézett: <br/>Sasszárnyon hordozott,<br/>vezérelt, sok bajban védett!<br/>Nagy irgalmát <br/>Naponként tölti reád, <br/>Áldását mindenben érzed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/5. Áldjad Őt, mert keze<br/>csodásan alkotott téged!<br/>Utadon elkísér, <br/>Tőle van testi épséged. <br/>Sok baj között <br/>Erőd volt és örömöd, <br/>Szárnyával takarva védett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/5. Áldjad Őt, mert az Úr<br/>megáldja minden munkádat!<br/>Hűsége, mint az ég harmatja, bőven rád árad!<br/>Lásd: mit tehet<br/>Jóságos Lelke veled, <br/>És hited Tőle mit várhat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5/5. Áldjad az Úr nevét,<br/>Őt áldja minden énbennem!<br/>Áldjad Őt, lelkem,<br/>Es Róla tégy hitvallást, nyelvem! <br/>El ne feledd: <br/>Napfényed Ő tenéked! <br/>Őt áldjad örökké! Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

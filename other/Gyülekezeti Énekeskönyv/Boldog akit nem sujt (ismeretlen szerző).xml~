@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Boldog akit nem sujt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog akit nem sújt a vétek,<br/>Kit az Úr már felkarolt.<br/>Tekints rám is, emeld fel szívem,<br/>Szólj Uram, halld meg imám.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>  Jártam Tõled távol,<br/>Sötét rejteken, a vétek útján.<br/>Szánj meg, hajolj le hozzám,<br/>Szólj Uram, halld meg imám.</lines>
+    </verse>
+  </lyrics>
+</song>

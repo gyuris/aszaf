@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Jarom a Jezus labnyomat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Járom a Jézus lábnyomát mind a sírig én,<br/>Az égi Jeruzsálembõl árad rám a fény,<br/>Bár vihar dúl, nem sötétül el fent az égi jel,<br/>Felnézek hittel Jézusra, Õ sosem hagy el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Jézus hû barát, drága jó barát,<br/>Gyermekeinek hordja bánatát.<br/>Bár vihar dúl nem sötétül el fent az égi jel<br/>Felnézek hittel Jézusra, Õ sosem hagy el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Nem vétem már el szem elõl <br/>Jézus lábnyomát,<br/>Nem térek ki a cél elõl mellékútra át.<br/>Szent igéje mindig bennem él, buzdít és vezet,<br/>Megmentett életem szolgál, hisz, remél, szeret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Mennyben ér véget nemsoká <br/>ez a keskeny út,<br/>Meglátom Jézust trónusán, mint dicsõ Fiút.<br/>Dicsfénye betölti lelkemet, ez nekem elég,<br/>Örökre Õ marad nekem Kezdet és a Vég.</lines>
+    </verse>
+  </lyrics>
+</song>

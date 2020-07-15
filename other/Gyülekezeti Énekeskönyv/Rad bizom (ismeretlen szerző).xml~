@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:38">
+  <properties>
+    <titles>
+      <title>Rad bizom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="376"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Rád bízom, rád bízom <br/>A nehéz napokat rád bízom!<br/>Rád bízom, rád bízom<br/>A fényes napokat is!<br/>Sorsom legyen a Te kezedben,<br/>Biztos helyen van a féltõ szívedben!<br/>Ezért hát! Rád bízom...<br/>	<br/>2/4. Nem félek, nem félek,<br/>Ha volna mitõl is, nem félek!<br/>Nem félek, nem félek, <br/>De kérem az erõdet!<br/>Támaszt keresek az erõdben,<br/>Vigaszt a szomorú, nehéz idõkben,<br/>Ha lesznek, Nem félek...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>3/4. Reménység, reménység<br/>A holnap felõl is reménység!<br/>Reménység, reménység,<br/>Megtart, ha jön a kétség!<br/>Fény lesz ott, ahol ma sötétség,<br/>Élet ott, ahol ma reménytelenség!<br/>Ezért hát: Reménység...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>4/4.Dicsérünk, dicsérünk, <br/>Mi téged Jézusunk, dicsérünk!<br/>Dicsérünk, dicsérünk<br/>És áldunk, halleluja! <br/>Jézus, Te vagy a mi Királyunk,<br/>Téged leborulva szívből imádunk.<br/>Ezért hát: Dicsérünk...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:29">
+  <properties>
+    <titles>
+      <title>Az ur a pasztorom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Az Úr a pásztorom, jó pásztor Õ,<br/>Nyájával arra jár, a merre várva vár<br/>A forrás hûs vize, s a zöld mezõ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha Õ a pásztorom, semmi sem árt,<br/>Törõdik énvelem, vigyáz rám szüntelen,<br/>Követem lábnyomát, mindenen át.</lines>
+    </verse>
+  </lyrics>
+</song>

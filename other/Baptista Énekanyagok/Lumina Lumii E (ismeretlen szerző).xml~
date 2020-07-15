@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:23">
+  <properties>
+    <titles>
+      <title>Lumina Lumii E</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lumina Lumii, prezenþã divinã<br/>Ajuta-mã sã-nþeleg,<br/>Cât de frumos ne-ai creat pentru Tine<br/>Speranþã ne-ai dãruit.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Toatã închinarea, toatã adorarea<br/>Þie-þi dãruiesc, O, Domnul meu.<br/>Numai Tu eºti veºnic,<br/>Numai Tu eºti vrednic<br/>Doamne numai Tu eºti minunat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rege etern ce Domneºti sus în Ceruri<br/>La dreapta lui Dumnezeu,<br/>În umilinþã venit-ai in lume<br/>Din dragoste Te-ai jertfit.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cum sã-nþeleg cât Te-a costat<br/>Sã ierþi deplin al meu pacat.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Oly sok fájdalom van</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="570"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Oly sok fájdalom van, Annyit szenvedünk; <br/>De a fájdalomban Isten van velünk. <br/>Bár a seb úgy éget, Kínoz és gyötör, <br/>Enyhet ád a gyógyír, Mely az Úrtól jön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Jézus ez a gyógyír, Jézus egyedül! <br/>Ő csodát tud tenni, Lelkem úgy örül. <br/>Ó, siess Eléje, Hisz hatalma nagy, <br/>Ajkad, szíved kérje: Ó, Uram, ne hagyj!</lines>
+    </verse>
+  </lyrics>
+</song>

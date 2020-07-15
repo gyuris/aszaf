@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:13">
+  <properties>
+    <titles>
+      <title>Úgy szeretnék én szent lenni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="731"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. Úgy szeretnék én szent lenni! <br/>Add, Atyám, hogy az legyek! <br/>Moss meg Jézus szent vérében, <br/>És én hófehér leszek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Tégy szentté, Te, engemet, <br/>Tisztítsd meg a szívemet! <br/>Jézusom, átadom, <br/>Tisztítsd meg a szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Haljad lelkem sóhajtását: <br/>Vedd el minden bűnömet; <br/>Teljesítsed szívem vágyát, <br/>Váltsd nappallá éjemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Nincsen semmi jóság bennem, <br/>A saját erőm kevés, <br/>Tégy Atyám, Te, szentté engem, <br/>Kérlek Jézus véréért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Szent Atyám a lábaidnál <br/>Megtört szívvel állok ím; <br/>Légy irgalmas szívvel hozzám <br/>És bocsásd meg bűneim.</lines>
+    </verse>
+  </lyrics>
+</song>

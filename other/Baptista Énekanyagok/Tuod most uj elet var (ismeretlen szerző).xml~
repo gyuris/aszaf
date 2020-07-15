@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Tuod most uj elet var</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Tudod, most új élet vár,<br/>Bármit is tettél, Ő megbocsát.<br/>Hallod, hogy szólít, csak téged hív,<br/>Szíved nyitva áll, tudd, hogy ma rád talál!<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mostantól új ember vagy,<br/>Nem kell már félned, Ő támogat.<br/>Érzed, hogy szívedbe költözik,<br/>Csak hinned kell, csak bíznod kell!<br/>Most az életed a fénybe vezet,<br/>Kezdd most el, indulj el!<br/></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Mától minden más, mert örökké élsz majd,<br/>Jézus vigyáz rád, megvéd és megtart,<br/>Ő ígérte azt, hogy soha el nem hagy,<br/>Ő mindig veled jár, és fogja kezed,<br/>Mert nagyon szeret.<br/></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nem tévedhetsz el, ha csak benne bízol,<br/>Erőt ad az Úr, ha döntened kell.<br/>Megvigasztal majd, ha elfáradnál.<br/>Ő nem hagy egyedül,<br/>Ő a legjobb barát.<br/></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Lesznek majd kérdéseid,<br/>Rád tör a kétely, a félelem.<br/>Ne hagyd, hogy győzzön a kétkedés,<br/>Krisztus megtart, hogy szilárdan állj.<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Minden elpusztul,<br/>Te akkor is megmaradsz,<br/>Benne élsz!<br/>Mert az életed a fénybe vezet,<br/>Kezdd most el, indulj el!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:53">
+  <properties>
+    <titles>
+      <title>Adj, Uram, adj nékem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="012"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/3. Adj, Uram, adj nékem Több áhitatot,<br/>Több békét szívembe, Több bűnbánatot,<br/>Több hitet Jézusban, Több munkakedvet.<br/>Több készséget jóra, Több éberséget!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Több hálát irántad, Több hű érzetet,<br/>Több reményt, bizalmat, Több szeretetet, <br/>Többet szánalomból, Több szíves könyört,<br/>Többet szelídségből, Több igaz könnyűt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Több tiszta érzelmet, Több béketűrést, <br/>Több erőt bűn felett, Több lelkesedést,<br/>Több mennyei vágyat, Jámbor életet,<br/>Adj világosságot, Add Szentlelkedet!</lines>
+    </verse>
+  </lyrics>
+</song>

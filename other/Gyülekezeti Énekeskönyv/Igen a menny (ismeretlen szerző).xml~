@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Igen a menny</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Refrén:<br/>Igen, a menny csodálatos hely,<br/>Igen, szívem hazára lelt.<br/>Ó, úgy vágyom ott fenn lenni már.<br/>Igen, csak ott az otthonom,<br/>Jézust ott majd megláthatom, <br/>Nála örök élet vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. A menyországról sokszor beszéltek nékem,<br/>Egy ország, ahol minden csupa fény.<br/>És úgy mondták, e hely igen csodálatos<br/>És hogy ott lakhatom egyszer te és én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Egy szép napon a gyöngykapu <br/>majd megnyílik,<br/>És vállam többé nem nyomja teher.<br/>A trón elõtt így szólok: Uram szeretlek.<br/>Õ rám tekint és nyájasan felel.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:27">
+  <properties>
+    <titles>
+      <title>Uram jovok hozzad F(dm)</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3 Uram, jövök Hozzád<br/>bűnömet megvallva,<br/>Tévedések hosszú sorát,<br/>ím, Eléd hozom.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lásd meg gyöngeségem,<br/>minden kétkedésem,<br/>Vonj közel magadhoz,<br/>adj új kezdetet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Jöjj, Úr Jézus, hű Megváltóm,<br/>Jöjj, Úr Jézus, nézz le rám!<br/>Jöjj, Úr Jézus, hű Megváltóm,<br/>Jöjj, Úr Jézus, nézz le rám!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3 Igéd elfelejtve<br/>éltem messze Tőled,<br/>Bolyongtam az úton,<br/>mely nem feléd vezet,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>De ma visszatérek Hozzád,<br/>kegyelmedbe bízva,<br/>Adj erőt most, Atyám,<br/>hogy szerethesselek!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3 Veled vágyom élni,<br/>gyermekeddé lenni,<br/>Végtelen jóságod<br/>hadd ragyogjon rám.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Szereteted megtart,<br/>erőt ad az útra,<br/>Ha te előttem jársz,<br/>világos a cél!</lines>
+    </verse>
+  </lyrics>
+</song>

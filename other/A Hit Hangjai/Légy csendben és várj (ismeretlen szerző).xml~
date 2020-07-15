@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Légy csendben és várj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="450"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Refrén:<br/>Légy csendben <br/>és várj az Úrra, <br/>Valamit mondani akar neked! <br/>Légy csendben és várj az Úrra, <br/>Nyisd meg Előtte most a szívedet!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1/3. Fájdalmak útjai, <br/>Álmatlan éjszakák, <br/>Hidd el Ő elveszi, <br/>És a lelked ne kínozd tovább!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/3. Sok terhet hordozol, <br/>Letenni nem tudod, <br/>Mégis van megoldás, <br/>Hogyha Istenre bízod magad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/3. Vagy tán úgy gondolod, <br/>Hogy Isten elhagyott? <br/>Megcsalnád így magad, <br/>Hiszen eddig is Ő hordozott!</lines>
+    </verse>
+  </lyrics>
+</song>

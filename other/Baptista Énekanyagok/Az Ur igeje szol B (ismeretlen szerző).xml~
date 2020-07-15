@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:16">
+  <properties>
+    <titles>
+      <title>Az Ur igeje szol B</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr igéje szól a föld határain.<br/>Erővel zendül fel,<br/>s akik hallják élnek.<br/>Mert a Békesség Királya<br/>hívja választottait.<br/>Ő az élet kősziklája,<br/>vize megelevenít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sötétség ura fonja titkos hálóit.<br/>Az igazak ellen tervet sző,<br/>csapdát állít.<br/>Mivel tudja közel a vég,<br/>Eljött Isten országa<br/>És a gonosznak nyoma vész<br/>Összetörik igája.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most van az idő,<br/>mikor az Urat kell követni<br/>Teljes szívünkből szolgáljuk őt.<br/>Az aratás munkája nagy,<br/>de velünk van Istenünk<br/>Az Ő nevében győztesek leszünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:09">
+  <properties>
+    <titles>
+      <title>Ó, áhítat idõszaka</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="577"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Ó, áhítat időszaka, <br/>megfáradt lelkem vigasza, <br/>Gyöngéden Istenhez viszel, <br/>hogy gondom <br/>Néki mondjam el.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Így könnyít súlyos terhemen <br/>Megváltóm részvétteljesen.<br/>Én nem feledlek el soha, <br/>ó, áhítat időszaka</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2. Ó, áhítat időszaka: <br/>mikor a mindenség Ura<br/>Elénk siet, hogy áldja azt, <br/>ki Tőle kér segélyt, vigaszt.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Azt mondja: „Arcomat keresd, <br/>az igém élted napja lesz.”<br/>Én nem feledlek el soha, <br/>ó, áhítat időszaka!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3. Ó, áhítat időszaka! <br/>Ha bús az éltem nappala,<br/>Te felvidítod szívemet, <br/>amíg elérem üdvömet!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ha összedől porsátorom, <br/>és Jézussal találkozom,<br/>Én nem feledlek el soha, <br/>ó, áhítat időszaka!</lines>
+    </verse>
+  </lyrics>
+</song>

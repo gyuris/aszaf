@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>A menny örök otthona vár odaát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="036"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1/4. A menny örök otthona vár odaát,<br/>Az Úr szerezte meg nekem. <br/>Már hallom az Ő szelíd, hívó szavát,<br/>Én nem leszek ott idegen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrén:<br/>Ó, nem, hiszen Jézusom ismerem én,<br/>Övé vagyok, Ő az enyém! (az enyém!)<br/>Szent vérén vett a mennyben otthont nekem, <br/>Én nem leszek ott idegen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2/4. Bár emberek sokszor nem értenek itt,<br/>S nincs hű barát egy se velem;<br/>Ha Jézusom látom, él bennem a hit,<br/>Hogy nem leszek ott idegen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3/4. Már várnak a parton hittestvéreim,<br/>Hisz nemsoká' megérkezem,<br/>És nyugalmat lelek Jézus karjain,<br/>Én nem leszek ott idegen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4/4. Jöjj, hontalan lélek, nézd, vár otthonod,<br/>Ott nem leszel árva te sem!<br/>Az üdvözült szentekkel ujjonghatod,<br/>Hogy nem vagyok már idegen.</lines>
+    </verse>
+  </lyrics>
+</song>

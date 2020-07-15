@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:30">
+  <properties>
+    <titles>
+      <title>Edes Atyam tied az eg</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Édes Atyám, Tiéd az ég <br/>És Tiéd a föld, a hold és a nap,<br/>Ezernyi csillag, megalkotá azt “legyen“ szavad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kék színû ég, viharzó tenger,<br/>Szikrázó napfény, õsz és a tél,<br/>Tavasz virága, nyárnak kalásza Téged dicsér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Refrén: <br/>Mélyen meghajtom térdem <br/>Elõtted, Szent Atyám,<br/>Õszinte szívvel mondok hálát.<br/>Áldásod, jó kegyelmed gazdagon árad rám,<br/>Békét és szent örömöt ád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Édes Atyám, Tiéd a szívem,<br/>Tetõled kaptam új életet,<br/>Azóta érzem mindennap õrzõ kegyelmedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jönnek bajok, ezer veszély, gond,<br/>Próbáltatás és nehéz napok,<br/>Nem ártanak, mert Krisztus Jézusban <br/>Tiéd vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

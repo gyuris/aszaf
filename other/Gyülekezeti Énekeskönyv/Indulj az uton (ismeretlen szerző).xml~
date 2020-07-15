@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:33">
+  <properties>
+    <titles>
+      <title>Indulj az uton</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Indulj az úton, elõre nézz! <br/>Nem tántoríthat ezernyi vész. <br/>Életed útját végig kell járni, <br/>És az út végén Jézus fog várni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ha néha gondok csüggesztenek, <br/>Bátran elõre, fel a fejed!<br/>Gyalog kell menned, nem lehet szállni, <br/>De az út végén Jézus fog várni!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Szeresd a társad, segítsd meg õt, <br/>Ne hagyd a porban a csüggedõt!<br/>Ezen az úton együtt kell járni, <br/>És az út végén Jézus fog várni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Most is mi bátran elindulunk, <br/>Te vezess minket, hozzád jutunk. <br/>Nem fogunk többé tétlenül állni, <br/>Mert az út végén Jézus fog várni.</lines>
+    </verse>
+  </lyrics>
+</song>

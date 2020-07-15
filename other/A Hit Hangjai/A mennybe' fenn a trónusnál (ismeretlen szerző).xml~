@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:02:54">
+  <properties>
+    <titles>
+      <title>A mennybe' fenn a trónusnál</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="035"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1/3. A mennybe' fenn a trónusnál, A Krisztus értem közbenjár. <br/>Nagy Fõpap, égi kezesem, Örökre biztos védelmem.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Markába véste nevemet; Szívébe írta, nem feled. <br/>Örökké Õ lesz pártfogóm; /: Elnémul minden vádolóm. :/</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>2/3. Mikor a Sátán, megkísért, És vádol megbánt bűnökért, <br/>Jézusra nézek, áldom Őt, A bűneimből Megmentőt.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ő halt meg minden vétkemért, A bűntelen a bűnösért;<br/>Isten, a Bíró fölmentett, /: Krisztusra nézve engedett. :/</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>3/3. Íme, a Bárány Ő van ott, Feltámadt, és üdvöt hozott;<br/>Ő mondta: Megváltód vagyok, Nem vonja vissza, mit adott.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>A Bárány vére volt az ár, Őnála többé nincs halál. <br/>Krisztusban üdvöm készen vár, /: Ott fenn, az Isten trónjánál. :/</lines>
+    </verse>
+  </lyrics>
+</song>

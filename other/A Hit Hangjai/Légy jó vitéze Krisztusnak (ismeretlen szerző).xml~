@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:06">
+  <properties>
+    <titles>
+      <title>Légy jó vitéze Krisztusnak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="A Hit Hangjai" entry="453"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Légy jó vitéze Krisztusnak, <br/>Vidd szerte Igéjét!<br/>A szégyent is bátran hordjad <br/>Az Ő keresztjéért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bármily nehéz még itt az út, <br/>Vállald a szent munkát, <br/>Míg a kereszt nem éri el <br/>Fényes diadalát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Sok vértanú halt Jézusért, <br/>S te rózsák közt járnál? <br/>Ők a keresztet hordozták, <br/>S te tétlenül állnál?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Csak lankadatlan harcold meg <br/>A hit nemes harcát, <br/>Hogy végre majd fönt átvehesd <br/>Győzelmi koronád!</lines>
+    </verse>
+  </lyrics>
+</song>

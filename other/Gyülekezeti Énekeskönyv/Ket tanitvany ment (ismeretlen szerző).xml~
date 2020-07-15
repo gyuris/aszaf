@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:35">
+  <properties>
+    <titles>
+      <title>Ket tanitvany ment</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyülekezeti Énekeskönyv" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Két tanítvány ment szomorú szívvel <br/>Emmaus felé,<br/>Ekkor jött Jézus, hozzájuk lépett, <br/>Mindent betöltött a fény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrén: <br/>Maradj velünk hiszen már este van,<br/>Maradj velünk, ó, Urunk.<br/>Maradj velünk hiszen lement a nap,<br/>Maradj velünk Urunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Õrzõ kegyelmed kipróbált szikla,<br/>Megtartja életünk,<br/>Ezernyi bajból van szabadulás, <br/>Az Úr segít majd nekünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Uram az utat amelyen vezetsz <br/>De sokszor nem értem,<br/>Mégis azt kérem, ahogy akarod,<br/>Mindennap csak úgy legyen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Ha sötét gondok gyötrik a szíved, <br/>Letenni nem tudod,<br/>Engedd, hogy Jézus beszéljen veled, <br/>Kegyelme reád ragyog.</lines>
+    </verse>
+  </lyrics>
+</song>

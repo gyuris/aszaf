@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:19">
+  <properties>
+    <titles>
+      <title>Gyoztes leszel</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Győztes leszel,<br/>Ha karja felemel,<br/>Szelleme vezérel.<br/>Győztes leszel,<br/>Ha életeden át Istenedre nézel<br/>Mindig győztes leszel<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Isten így szól mindenkihez,<br/>Ki fényt hord szívében és szeretetet:<br/>Nem kell többé rettegnetek,<br/>Ha a hegyektől nem látjátok az eget.<br/></lines>
+    </verse>
+    <verse name="p1">
+      <lines>Mert van, aki<br/>Lecsendesíti a tenger vizét,<br/>Van egy név,<br/>Mely győzelemre vezeti népét.<br/>Mindig...<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Az úton elfáradunk,<br/>Szívünkben olykor fellázadunk<br/>De egyvalamit jól tudunk:<br/>Hogy a trónhoz a Kereszten át jutunk.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szavad legyen kardom,<br/>Igéd pajzsom és páncélom!<br/>Krisztussal oldalunkon mindig győzni fogunk!</lines>
+    </verse>
+  </lyrics>
+</song>
