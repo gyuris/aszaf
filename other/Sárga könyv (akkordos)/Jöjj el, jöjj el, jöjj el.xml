@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="C"/>Jöjj el, <chord name="G"/>jöjj <chord name="C"/>el<chord name="G7"/>, <chord name="C"/>jöjj el <chord name="G"/>fénylő <chord name="C"/>láng<chord name="C7"/>!<br/><chord name="Dm"/>Szentlélek <chord name="A7"/>jöjj, szállj le <chord name="Dm"/>ránk<chord name="G"/>!<br/><chord name="Dm"/>Szentlélek <chord name="G"/>jöjj, szállj le <chord name="C"/>ránk!<br/><chord name="F"/>Jöjj el, <chord name="H-"/>jöjj, <chord name="Am"/>igazság, re<chord name="G"/>mény!<br/><chord name="Am"/>Jöjj, ma<chord name="H-"/>radj ve<chord name="Am"/>lünk cso<chord name="G7"/>dás fény!</lines>
+      <lines><chord name="C"/>Jöjj el, <chord name="G"/>jöjj <chord name="C"/>el<chord name="G7"/>, <chord name="C"/>jöjj el <chord name="G"/>fénylő <chord name="C"/>láng<chord name="C7"/>!<br/><chord name="Dm"/>Szentlélek <chord name="A7"/>jöjj, szállj le <chord name="Dm"/>ránk<chord name="G"/>!<br/><chord name="Dm"/>Szentlélek <chord name="G"/>jöjj, szállj le <chord name="C"/>ránk!<br/><chord name="F"/>Jöjj el, <chord name="B"/>jöjj, <chord name="Am"/>igazság, re<chord name="G"/>mény!<br/><chord name="Am"/>Jöjj, ma<chord name="B"/>radj ve<chord name="Am"/>lünk cso<chord name="G7"/>dás fény!</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="C"/>Jöjj el, <chord name="G"/>jöjj <chord name="C"/>el<chord name="G7"/>, <chord name="C"/>jöjj el <chord name="G"/>fénylő <chord name="C"/>láng<chord name="C7"/>!<br/><chord name="Dm"/>Szentlélek <chord name="A7"/>jöjj, szállj le <chord name="Dm"/>ránk<chord name="G"/>!<br/><chord name="Dm"/>Szentlélek <chord name="G"/>jöjj, szállj le <chord name="C"/>ránk!<br/><chord name="F"/>Jöjj el, <chord name="H-"/>jöjj, <chord name="Am"/>Örök Szere<chord name="G"/>tet!<br/><chord name="Am"/>Jöjj, tisz<chord name="H-"/>títsd meg <chord name="Am"/>lelkün<chord name="G7"/>ket!</lines>
+      <lines><chord name="C"/>Jöjj el, <chord name="G"/>jöjj <chord name="C"/>el<chord name="G7"/>, <chord name="C"/>jöjj el <chord name="G"/>fénylő <chord name="C"/>láng<chord name="C7"/>!<br/><chord name="Dm"/>Szentlélek <chord name="A7"/>jöjj, szállj le <chord name="Dm"/>ránk<chord name="G"/>!<br/><chord name="Dm"/>Szentlélek <chord name="G"/>jöjj, szállj le <chord name="C"/>ránk!<br/><chord name="F"/>Jöjj el, <chord name="B"/>jöjj, <chord name="Am"/>Örök Szere<chord name="G"/>tet!<br/><chord name="Am"/>Jöjj, tisz<chord name="B"/>títsd meg <chord name="Am"/>lelkün<chord name="G7"/>ket!</lines>
     </verse>
   </lyrics>
 </song>

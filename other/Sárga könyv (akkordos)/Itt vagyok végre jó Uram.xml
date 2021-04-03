@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="D"/>Itt vagyok <chord name="G"/>végre <chord name="A"/>jó U<chord name="D"/>ram!<br/><chord name="D"/>Nehéz és <chord name="G"/>hosszú <chord name="A"/>volt u<chord name="D"/>tam.<br/><chord name="F"/>Szólnék <chord name="C"/>hozzád, <chord name="H-"/>nem tu<chord name="C"/>dok,<br/><chord name="H-"/>szememben <chord name="C"/>látod, <chord name="G"/>mit aka<chord name="A"/>rok.</lines>
+      <lines><chord name="D"/>Itt vagyok <chord name="G"/>végre <chord name="A"/>jó U<chord name="D"/>ram!<br/><chord name="D"/>Nehéz és <chord name="G"/>hosszú <chord name="A"/>volt u<chord name="D"/>tam.<br/><chord name="F"/>Szólnék <chord name="C"/>hozzád, <chord name="B"/>nem tu<chord name="C"/>dok,<br/><chord name="B"/>szememben <chord name="C"/>látod, <chord name="G"/>mit aka<chord name="A"/>rok.</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="D"/>Eljöttem <chord name="G"/>Hozzád, <chord name="A"/>itt va<chord name="D"/>gyok,<br/><chord name="D"/>szomjas és <chord name="G"/>éhes <chord name="A"/>vándo<chord name="D"/>rod.<br/><chord name="F"/>Aszta<chord name="C"/>lodról <chord name="H-"/>adj en<chord name="C"/>nem,<br/>s <chord name="H-"/>boldog <chord name="C"/>lesz az <chord name="G"/>éle<chord name="A"/>tem!</lines>
+      <lines><chord name="D"/>Eljöttem <chord name="G"/>Hozzád, <chord name="A"/>itt va<chord name="D"/>gyok,<br/><chord name="D"/>szomjas és <chord name="G"/>éhes <chord name="A"/>vándo<chord name="D"/>rod.<br/><chord name="F"/>Aszta<chord name="C"/>lodról <chord name="B"/>adj en<chord name="C"/>nem,<br/>s <chord name="B"/>boldog <chord name="C"/>lesz az <chord name="G"/>éle<chord name="A"/>tem!</lines>
     </verse>
   </lyrics>
 </song>
