@@ -24,10 +24,7 @@ Letöltési oldal: http://gyuris.github.io/aszaf
 Ez a mű a [Creative Commons Nevezd meg! - Így add tovább! 4.0 Nemzetközi Licenc (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
 feltételei szerint felhasználható, terjeszthető, módosítható.
 
-Csomagolás:
+Használat:
 
-  node util/build.js
-
-Ellenőrzés:
-
-  node util/validate.js
+* Csomagolás: ``node util/build.js``
+* Ellenőrzés: ``node util/validate.js``
