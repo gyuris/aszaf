@@ -1,7 +1,10 @@
 Ászáf
 =====
 
-[![Build Status](https://travis-ci.org/gyuris/aszaf.svg?branch=refactor-build)](https://travis-ci.org/gyuris/aszaf)
+[![Build Status](https://app.travis-ci.com/gyuris/aszaf.svg?branch=master)](https://travis-ci.org/gyuris/aszaf)
+
+&status=passed
+
 
 Magyar Keresztény OpenLyrics adatbázis
 
