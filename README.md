@@ -25,7 +25,9 @@ Ez a mű a [Creative Commons Nevezd meg! - Így add tovább! 4.0 Nemzetközi Lic
 feltételei szerint felhasználható, terjeszthető, módosítható.
 
 Csomagolás:
+
   node util/build.js
 
-Ellenőrzés
+Ellenőrzés:
+
   node util/validate.js
