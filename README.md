@@ -1,7 +1,7 @@
 Ászáf
 =====
 
-[![Build Status](https://app.travis-ci.com/gyuris/aszaf.svg?branch=master)](https://travis-ci.org/gyuris/aszaf)
+[![Build Status](https://app.travis-ci.com/gyuris/aszaf.svg?branch=master)](https://app.travis-ci.com/github/gyuris/aszaf)
 
 &status=passed
 
