@@ -61,7 +61,7 @@ function validateFolder(sPath) {
       continue;
     }
     // ellenőrzés a fájlt
-    var sLog = "Validating " + sPath + files[i] + " : ";
+    var sLog = "Validating... ";
     var oError = xmllint.validateXML({
       xml: fs.readFileSync(sPath + files[i], { encoding : 'UTF-8' }).toString(),
       format: 'rng',
@@ -75,14 +75,16 @@ function validateFolder(sPath) {
       sLog += oError.join("\n");
       count++;
     }
-    console.log(sLog);
+    process.stdout.write(sLog + ' ' + sPath + files[i] );
   }
-  console.log("INVALID: " + count + "/" + i);
+  if (count > 0) {
+    process.stdout.write("\nINVALID: " + count + "/" + i);
+  }
   report.push( { name : sPath.substring(2, sPath.length-1), total: i, valid: i-count, invalid: count });
 }
 
 folders.forEach(function(item) {
   validateFolder(item);
 });
-console.log("**************************************************************************************");
+console.log("\n**************************************************************************************");
 console.table(report);
