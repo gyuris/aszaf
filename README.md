@@ -3,9 +3,6 @@
 
 [![Build Status](https://app.travis-ci.com/gyuris/aszaf.svg?branch=master)](https://app.travis-ci.com/github/gyuris/aszaf)
 
-&status=passed
-
-
 Magyar Keresztény OpenLyrics adatbázis
 
 Az adatbázist azért hoztuk létre, hogy a ma használatos legismertebb keresztény 
