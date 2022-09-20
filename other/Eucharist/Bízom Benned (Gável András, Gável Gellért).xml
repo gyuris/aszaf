@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-20T18:00:23">
+  <properties>
+    <titles>
+      <title>Bízom Benned</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1 c1 c1 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável András</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olyan messzirõl jöttem én,<br/>És Te megvártál, sokat vártál rám!<br/>Úgy havlak a magány éjjelén,<br/>Mikor elvész a szó, mikor csak átölelni jó!<br/>Tudom, hogy távol voltam, fájt Neked.<br/>Tudom, hogy nélküled nem élhetek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bízom Benned,<br/>Igazságos Úr vagy!<br/>Bízom Benned,<br/>Irgalmas, jó!<br/>Bízom Benned mindennap,<br/>Örökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd, a szívem már Tiéd!<br/>Olyan boldogság, mikor Téged lát!<br/>Hallod hangom lágy neszét.<br/>Kérlek, szólj hozzám, mikor csak Téged hív a szám!<br/>Életem nem féltem, hisz' jó Veled.<br/>Tudom, hogy Nélküled nem élhetek!</lines>
+    </verse>
+  </lyrics>
+</song>

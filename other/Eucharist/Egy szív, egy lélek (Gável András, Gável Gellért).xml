@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-20T18:39:27">
+  <properties>
+    <titles>
+      <title>Egy szív, egy lélek</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1 v3 p1 c1 p1 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy szív, egy lélek<br/>Egy szív, egy lélek,<br/>Mind így áldunk Téged,<br/>Dicsér ma minden nép:<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hát jöjj, Királyunk,<br/>Hozsannával várunk!<br/>Nincs fal, nincs távolság,<br/>Ha néped Téged imád.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Visszaadok ma mindent.<br/>Szükségem van nagyon Rád!<br/>Mily’ nagy vagy, Urunk,<br/>Mindenben minden!<br/>Atya, Fiú, Lélek, szívünk áld!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily’ nagy vagy, Urunk!<br/>Mily’ nagy vagy, Urunk!<br/>Dicsérünk, nézd, határtalanul!<br/>Igaz és egy szereteted <br/>hív minden népet, hogy legyenek egy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egy perc vagy évek<br/>Mind irgalmat kérnek.<br/>A seb begyógyult már<br/>Ó véred az ár!</lines>
+    </verse>
+  </lyrics>
+</song>

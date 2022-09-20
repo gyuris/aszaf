@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-20T18:44:18">
+  <properties>
+    <titles>
+      <title>Hodu</title>
+      <title>Hodu</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1 b1 b1 b2 b2 b3</verseOrder>
+    <authors>
+      <author type="words">Joshua Aaron</author>
+      <author type="music">Joshua Aaron</author>
+      <author type="words">Michael Neale</author>
+      <author type="music">Michael Neale</author>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+      <author type="translation">Gável András</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világosság Ő minden népnek, <br/>Viharban, vészben védelmünk. <br/>Békességünk a küzdelmeinkben, <br/>Reménységünk, csak Ő, a Szent! </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hodu L'Adonai Ki  tov Ki L'olam Chasdo <br/>Hodu L'Adonai Ki  tov </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálánk szól a földig borulva <br/>azért, mit Ő értünk tett. <br/>Látjuk mind már, és felismertük, <br/>megváltva élünk, s Fia az ár! </lines>
+    </verse>
+    <verse name="b1">
+      <lines>(Ó) Keletről jönnek, nyugatról jönnek, <br/>mind, akik szomjasak rá! <br/>Az összetört szívek irgalmat lelnek! <br/>A Békesség forrásánál. </lines>
+    </verse>
+    <verse name="b2">
+      <lines>Oh, Ő jó! Oh, el nem hagy minket! <br/>Oh, Ő jó örökké!</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Igen, szeret az Úr, hát áldjuk Őt! <br/>Örök szerelme él! <br/>Szeret az Úr, hát áldjuk  Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

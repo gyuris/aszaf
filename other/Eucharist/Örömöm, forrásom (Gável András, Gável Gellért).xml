@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-20T18:21:38">
+  <properties>
+    <titles>
+      <title>Örömöm, forrásom</title>
+    </titles>
+    <verseOrder>v1 c1 b1 v1 c1 v1 e1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável András</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Örömöm, forrásom lettél<br/>Folyóvíz mellé ültettél<br/>Hangodat hallom, látlak én<br/>Jézus!</lines>
+      <lines>Te vagy a fény a szívemben<br/>Te vagy a minden mindenben<br/>Te vagy a szent, a győztes Úr<br/>Emmánuel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">A jelenléted forrás<br/>Ha veled vagyok, nem kell már más<br/>Tested és a véred táplál<br/>Élő Jézus!</lines>
+      <lines>Szent vagy, Uram, szent vagy<br/>Minden felett szent, szent vagy<br/>Leborulva áldlak téged<br/>Élő Jézus!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Alleluja, alleluja, alleluja<br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Te vagy a szent, a győztes Úr<br/>Emmánuel! </lines>
+    </verse>
+  </lyrics>
+</song>

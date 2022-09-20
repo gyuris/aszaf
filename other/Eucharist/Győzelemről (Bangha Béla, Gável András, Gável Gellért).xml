@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-20T19:20:23">
+  <properties>
+    <titles>
+      <title>Győzelemről</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Bangha Béla</author>
+      <author type="music">Gável András</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">‖: Győzelemről énekeljen napkelet és napnyugat,<br/>millió szív összecsengjen, magasztalja az Urat! :‖</lines>
+      <lines>Krisztus újra földre szállott, vándorlásunk társa lett,<br/>mert szerette a világot, kenyérszínbe rejtezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Egykor értünk testet öltött, kisgyermekként jött közénk,<br/>A keresztfán vére ömlött váltságunknak béreként.</lines>
+      <lines>Most az oltár Golgotáján újra itt a drága vér,<br/>Áldozat az Isten-Bárány, Krisztus teste a kenyér.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krisztus kenyér s bor színében Úr s király a föld felett,<br/>forrassz eggyé békességben minden népet s nemzetet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zúgjon hát a hálaének, szálljon völgyön, tengeren,<br/>Szeretet hű Istenének dicsőség és üdv legyen.<br/>Az egész föld legyen oltár, virág rajta a szívünk,<br/>Minden dallam zengő zsoltár, tömjénillat a hitünk.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>‖: Minden forrásom belőled fakad. :‖×6</lines>
+    </verse>
+  </lyrics>
+</song>
