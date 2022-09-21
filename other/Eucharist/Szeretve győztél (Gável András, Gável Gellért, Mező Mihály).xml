@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T09:43:55">
+  <properties>
+    <titles>
+      <title>Szeretve győztél</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável Gellért</author>
+      <author type="music">Mező Mihály</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tudom, te szóltál, vársz rám rég <br/>Általam épült faltól még    <br/>Nem látom arcod <br/>Te ütsz a pajzson mégis rést felém  <br/>Mit nekem adsz, végre mind enyém    </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nekem minden Te vagy itt benn<br/>A sötét éjben így lett fény <br/>Szerettél és eljöttél elém! </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, tiéd a szívem    <br/>Jézus, nincs mitől félnem    <br/>Jézus, velem vagy, érzem <br/>Jézus <br/> [---]<br/>Jézus, szeretve győztél  <br/>Jézus, megelőztél       <br/>Jézus, csak veled szüntelen,   <br/>Jézus, ó Jézus! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fülembe súgtad, hol lakol<br/>Hadd legyek nálad, épp ahol<br/>új otthonom lett<br/>Minden nap együtt lépünk már tovább<br/>Te vagy az Isten és barát</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cipelem, hordom a bűneim súlyát,<br/>Ne vétkeim, hitemet nézd!<br/>Te fizetted helyettem meg az árát <br/>Szabad lettem végleg!</lines>
+    </verse>
+  </lyrics>
+</song>

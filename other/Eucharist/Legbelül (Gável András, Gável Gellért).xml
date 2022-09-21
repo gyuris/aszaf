@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T09:37:50">
+  <properties>
+    <titles>
+      <title>Legbelül</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 c1 b1 c1 c1 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hol vagy? Nem látlak még, Te ködbeburkolt kép.<br/>Téged szólítlak, és várlak, hívlak, jöjj!<br/>A sötétben, itt a mélyben most felkiáltok én.<br/>És választ hallok a szívem rejtekén.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Közelebb voltál te hozzám,<br/>közelebb, mint magamhoz én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, békém lettél, értem jöttél,<br/>hozzám hű voltál!<br/>Szomjas szívem csendjén léptél mellém,<br/>asztalhoz hívtál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Végre látlak a világnak zűr-zajától mentesen.<br/>Nézd, a szívembe, a vándor már hazaér.<br/>Minden kérdés máris válasz. Nincs sötét, csak fény.<br/>Jövök, Jézus! Te bennem, s benned én. </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tebenned látom az arcom. <br/>Azt, akit bennem álmodtál.<br/>Lecsendesült minden harcom.<br/>Te vagy az Úr és hű barát!</lines>
+    </verse>
+  </lyrics>
+</song>
