@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T21:34:45">
+  <properties>
+    <titles>
+      <title>Viharos szél dúl</title>
+      <title>Romjaimba élet száll</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1</verseOrder>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viharos szél dúl, ez a föld széthull, de velem vagy!<br/>A világ elmúlik, de kegyelmeben lelkem szárnyal!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ha Te vagy velem, tűz sem árthat nekem,<br/>Lelkem életre kel, ha rád nézek!<br/>Kereszted alatt elhagy minden kudarc,<br/>A Te szent kegyelmed fényében!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Romjaimba élet száll, a Te neved hallatán,<br/>Hamvaimból felkelve megállok trónodnál!<br/>Menedékre a lelkem a Te kezed közt talál,<br/>Én mindig szeretlek, dalom szóljon Hozzád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden porrá hull, de ígéreted a reményem!<br/>Elhagy a bátorság, de erőt belőled merítek!</lines>
+    </verse>
+  </lyrics>
+</song>

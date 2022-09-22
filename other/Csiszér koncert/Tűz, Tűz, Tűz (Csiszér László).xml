@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T21:12:28">
+  <properties>
+    <titles>
+      <title>Tűz, Tűz, Tűz</title>
+    </titles>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tűz, Tűz, Tűz,<br/>A Szeretet emésztő Tűz,<br/>Tűz, Tűz, Tűz,<br/>Lángolj bennem!</lines>
+    </verse>
+    <verse name="i2">
+      <lines>Tűz, Tűz, Tűz,<br/>A Szeretet Istene Tűz,<br/>Tűz, Tűz, Tűz,<br/>Lángolok Veled!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten szeret téged,<br/>De a bűn a halálba küld.<br/>Jézus megváltott,<br/>Jöjj és fogadd be Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új szívet hozott néked,<br/>A kőszíved összetörte.<br/>Szentlelkét adja és hív:<br/>Kövess Engem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Testvérek egysége vár:<br/>A középpont Jézus Király!<br/>Hirdessük Igéjét,<br/>Míg meghallja az egész világ!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tűz, tűz, tűz! <br/>Szentlélek, tűzben jössz!<br/>Tűz, tűz, tűz!<br/>Lángolj bennem!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tűz, tűz, tűz! <br/>Szentlélek, tűzben jössz!<br/>Tűz, tűz, tűz!<br/>Lángolok Veled!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlélek árassz el!<br/>Lángnyelvek jöjjetek!<br/>Vezess tovább, <br/>keneted ömöljön ránk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Erővel töltsél el!<br/>A félelem tűnjön el!<br/>Jézus Király, <br/>Országod jöjjön el!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szentlélek töltsél el!<br/>Gyújts tüzet szívemben!<br/>Lángoljon Érted és <br/>sohase aludjon el!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Istenem, imádlak Téged,<br/>Te vagy az emésztő tűz!<br/>(Szent) szerelmed égeti szívem,<br/>S így szentté leszek!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Szent Isten, imádlak Téged,<br/>Szentséged gyönyörűségem.<br/>Fenséged felér az égig,<br/>és körül ölel!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Lángolok veled!</lines>
+    </verse>
+  </lyrics>
+</song>

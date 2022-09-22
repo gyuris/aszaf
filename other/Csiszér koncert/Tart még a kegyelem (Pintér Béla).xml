@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T21:44:26">
+  <properties>
+    <titles>
+      <title>Tart még a kegyelem</title>
+    </titles>
+    <verseOrder>v1 v2 c1 o1 o2</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="252"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tart még a kegyelem és a szívem örül,<br/>Jézus eljött hozzám, rajtam megkönyörült.<br/>Kinyújtotta karját, szelíden felemelt,<br/>amíg élek, azt a percet nem feledem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyitva áll az ajtó, ma is bejöhetek,<br/>a trónteremben várnak, nekem ott a helyem.<br/>Jézus mellett élni, ez a legjobb dolog,<br/>ugrálok és táncolok, mert szabad vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És velem tapsol és táncol a menny,<br/>Jézus győzelméről zengek új éneket.<br/>És velem tapsol és táncol a menny,<br/>a Bárány dicsőségét hirdetem!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Visszafordíthatatlanul összenőtt a sorsom vele,<br/>A nevemet a saját tenyerébe véste bele,<br/>Ránéztem, rögtön tudtam ki is vagyok valójában,<br/>Éreztem ott a helyem: az Isten országában!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>A szülői ház ajtaját sarkig nyitotta nekem,<br/>Amit ott láttam, attól majd elállt a lélegzetem!<br/>Belém hasított, hogy Krisztusban újra minden az enyém,<br/>Gyűrűt húzott ujjamra, belevéste: Te meg én!</lines>
+    </verse>
+  </lyrics>
+</song>

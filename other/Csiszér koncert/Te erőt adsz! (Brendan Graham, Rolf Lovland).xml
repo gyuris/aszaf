@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-09-21T21:56:04">
+  <properties>
+    <titles>
+      <title>Te erőt adsz!</title>
+      <title>You raise me up</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Brendan Graham</author>
+      <author type="music">Brendan Graham</author>
+      <author type="words">Rolf Lovland</author>
+      <author type="music">Rolf Lovland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha szívem fáj, és kétely lakik bennem,<br/>a csüggedés oly közel jön hozzám,<br/>én várok Rád, s te mellém ülsz a csendben,<br/>megvigasztalsz a jelenléteddel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te erőt adsz, ha megfárad a lelkem,<br/>Erőd adod, velem vagy, nem hagysz el.<br/>Felemelsz, tovább viszel az úton,<br/>Te erőt adsz, mely nem fogy el sosem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívem már csak Nálad lelhet békét,<br/>Nem élhetek nélküled tovább!<br/>Nézlek és lelkem megtelik csodával,<br/>Az életem fényed járja át.</lines>
+    </verse>
+  </lyrics>
+</song>
