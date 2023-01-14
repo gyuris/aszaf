@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-12-18T10:33:43">
+  <properties>
+    <titles>
+      <title>És a gyertya ég</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Ismeretlen</author>
+      <author type="music">Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ég a gyertya ég,<br/>el ne aludjék,<br/>szíveinkből a szeretet<br/>ki ne aludjék.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ég a gyertya ég,<br/>el ne aludjék,<br/>szívünkből a rosszaság is<br/>kitakarodjék.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ég a gyertya ég,<br/>nő a fényesség,<br/>sötét Földhöz a fényesség<br/>egyre közelébb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ég a gyertya ég,<br/>az adventi négy,<br/>azt lobogják, azt hirdetik:<br/>Jézus üdvözlégy!</lines>
+    </verse>
+  </lyrics>
+</song>
