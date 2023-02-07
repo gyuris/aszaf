@@ -11,7 +11,7 @@ szükséges a téma telepítéséhez:
 
 - [Encode Sans Compressed](https://www.fontsquirrel.com/fonts/encode-sans): Átlászó, Nyugalom tengere, Ugrás, Biblia
 - [Antonio](http:s//www.fontsquirrel.com/fonts/antonio): Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban
-- [Dosis](https://www.fontsquirrel.com/fonts/dosis): Hideg, Magányos lány, Koldus
+- [Dosis](https://www.fontsquirrel.com/fonts/dosis): Magányos lány, Koldus, Hideg
 - [Gentium Basic](https://www.fontsquirrel.com/fonts/Gentium-Basic): Fel a lépcsőn, Óra, Jeggyűrű, Jeggyűrű közelről
 - [Cardo](https://www.fontsquirrel.com/fonts/Cardo): Erdő, Tűz
 - [Bitter](https://www.fontsquirrel.com/fonts/bitter): Pusztában, Óceán, Sivatagi vándorlás, Szikla-hegy, Madár szabadon,
@@ -24,25 +24,25 @@ A témákban az alábbi fotókat használtuk fel:
 
 Creative Commons licencű fotók:
 
-- Dicsőítés kék:     https://www.flickr.com/photos/adamrozanas/6951839511/
-- Dicsőítés narancs: https://www.flickr.com/photos/adamrozanas/6805747396/
-- Dicsőítés piros:   https://www.flickr.com/photos/adamrozanas/6952725709/
-- Szürke virág:      https://www.flickr.com/photos/chadbrooks/2119859385/
-- Tengerpart fával:  https://www.flickr.com/photos/freefoto/7589947666/
-- Szív:              https://www.flickr.com/photos/shellysblogger/4742831061
-- Szív a kosárban:   https://www.flickr.com/photos/marionzetta/5906153472
-- Biblia:            https://www.flickr.com/photos/sukisuki/3293817448
+- [Dicsőítés kék](https://www.flickr.com/photos/adamrozanas/6951839511)
+- [Dicsőítés narancs](https://www.flickr.com/photos/adamrozanas/6805747396)
+- [Dicsőítés piros](https://www.flickr.com/photos/adamrozanas/6952725709)
+- [Szürke virág](https://www.flickr.com/photos/chadbrooks/2119859385)
+- [Tengerpart fával](https://www.flickr.com/photos/freefoto/7589947666)
+- [Szív](https://www.flickr.com/photos/shellysblogger/4742831061)
+- [Szív a kosárban](https://www.flickr.com/photos/marionzetta/5906153472)
+- [Biblia](https://www.flickr.com/photos/sukisuki/3293817448)
 
 Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 
-- Szikla:                      https://www.pexels.com/photo/2440/
-- Hideg:                       https://www.pexels.com/photo/2385/
-- Magányos lány:               https://www.pexels.com/photo/2369/
-- Kéz:                         https://www.pexels.com/photo/2296/
-- Koldus:                      https://www.pexels.com/photo/2128/
-- Fel a lépcsőn:               https://www.pexels.com/photo/2031/
-- Nyugalom tengere:            https://www.pexels.com/photo/2004/
-- Óra:                         https://www.pexels.com/photo/1778/
+- [Szikla](https://www.pexels.com/photo/2440)
+- [Hideg](https://www.pexels.com/photo/2385)
+- [Magányos lány](https://www.pexels.com/photo/2369)
+- [Kéz](https://www.pexels.com/photo/2296)
+- [Koldus](https://www.pexels.com/photo/2128)
+- [Fel a lépcsőn](https://www.pexels.com/photo/2031)
+- [Nyugalom tengere](https://www.pexels.com/photo/2004)
+- [Óra](https://www.pexels.com/photo/1778)
 - Erdő:                        https://www.pexels.com/photo/1767/
 - Tűz:                         https://www.pexels.com/photo/1749/
 - Köd:                         https://www.pexels.com/photo/1406/
