@@ -1,6 +1,6 @@
 # OpenLP témák
 
-Néhány OpenLP példa téma az Énekfüzethez. A témák 1024×768-as (XGA), ill. 1920×108 (HD1080) képernyőre
+Néhány OpenLP példa téma az Énekfüzethez. A témák 1024×768-as (XGA), ill. 1920×1080 (HD1080) képernyőre
 vannak optimalizálva 8 sor diánkénti mérettel. Az „Átlátszó” téma videóháttér feletti vetítésre való.
 A „Biblia” téma pedig igék vetítésére.
 
