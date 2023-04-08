@@ -69,7 +69,7 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 - [Pásztor bárányokkal](https://unsplash.com/photos/vD3L-rN_qNw)
 - [Jeggyűrű, Jeggyűrű közelről](https://www.pexels.com/photo/6165)
 - [Sarki fény](https://unsplash.com/photos/ZSMgNjYrHRM)
-- [Oroszlán](https://pixabay.com/photos/lion-king-face-head-lion-face-588144)
+- [Oroszlán](https://pixabay.com/images/id-588144/)
 - [Üres kéz](https://www.pexels.com/photo/255527)
 - [Rózsa](https://www.pexels.com/photo/1324995)
 - [Égbolt](https://www.pexels.com/photo/1431822)
