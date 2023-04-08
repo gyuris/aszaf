@@ -16,7 +16,7 @@ szükséges a téma telepítéséhez:
 - [Cardo](https://www.fontsquirrel.com/fonts/Cardo): Erdő, Tűz
 - [Bitter](https://www.fontsquirrel.com/fonts/bitter): Pusztában, Óceán, Sivatagi vándorlás, Szikla-hegy, Madár szabadon,
 Időmúlás, Pásztor bárányokkal, Sarki fény, Mozgó hullámok, Mozgó víz, Mozgó tűzörvény, Dicsőítés kék, Dicsőítés narancs,
-Dicsőítés piros, Szürke virág, Tengerpart fával
+Dicsőítés piros, Szürke virág, Tengerpart fával, Mozgó tűzkör
 
 ### Általában alkalmazott méretek
 
@@ -99,6 +99,7 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 - [Mozgó víz](https://www.pexels.com/hu-hu/video/tenger-viz-kek-ocean-7513671)
 - [Mozgó hullámok](https://www.pexels.com/hu-hu/video/tenger-napnyugta-viz-kek-7385122)
 - [Mozgó tűzörvény](https://www.pexels.com/hu-hu/video/piros-textura-absztrakt-tuzifa-2715412)
+- [Mozgó tűzkör](https://www.pexels.com/hu-hu/video/feny-sarga-absztrakt-robbanas-5091624/)
 
 A témák a  Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 3.0 Unported Licenc feltételeinek
 megfelelően szabadon felhasználhatók.
