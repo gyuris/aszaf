@@ -43,9 +43,9 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 - [Fel a lépcsőn](https://www.pexels.com/photo/2031)
 - [Nyugalom tengere](https://www.pexels.com/photo/2004)
 - [Óra](https://www.pexels.com/photo/1778)
-- Erdő:                        https://www.pexels.com/photo/1767/
-- Tűz:                         https://www.pexels.com/photo/1749/
-- Köd:                         https://www.pexels.com/photo/1406/
+- [Erdő](https://www.pexels.com/photo/1767)
+- [Tűz](https://www.pexels.com/photo/1749)
+- [Köd](https://www.pexels.com/photo/1406)
 - Borús-napos hegy:            https://www.pexels.com/photo/1368/
 - Ugrás:                       https://www.pexels.com/photo/6496/
 - Pusztában:                   https://www.pexels.com/photo/7044/
