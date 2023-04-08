@@ -11,7 +11,7 @@ szükséges a téma telepítéséhez:
 
 - [Encode Sans Compressed](https://www.fontsquirrel.com/fonts/encode-sans): Átlászó, Nyugalom tengere, Ugrás, Biblia
 - [Antonio](http:s//www.fontsquirrel.com/fonts/antonio): Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban
-- [Dosis](https://www.fontsquirrel.com/fonts/dosis): Magányos lány, Koldus, Hideg
+- [Dosis](https://www.fontsquirrel.com/fonts/dosis): Magányos lány, Koldus, Hideg, Zöld domb
 - [Gentium Basic](https://www.fontsquirrel.com/fonts/Gentium-Basic): Fel a lépcsőn, Óra, Jeggyűrű, Jeggyűrű közelről
 - [Cardo](https://www.fontsquirrel.com/fonts/Cardo): Erdő, Tűz
 - [Bitter](https://www.fontsquirrel.com/fonts/bitter): Pusztában, Óceán, Sivatagi vándorlás, Szikla-hegy, Madár szabadon,
@@ -92,6 +92,7 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 - [Hullámok](https://www.pexels.com/photo/189349)
 - [Kapu](https://pixabay.com/images/id-4019633)
 - [Nagybetűs elmosás](https://www.pexels.com/photo/220067)
+- [Zöld domb](https://pixabay.com/images/id-421569/)
 
 ## Felhasznált videók
 
