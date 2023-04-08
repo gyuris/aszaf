@@ -16,7 +16,19 @@ szükséges a téma telepítéséhez:
 - [Cardo](https://www.fontsquirrel.com/fonts/Cardo): Erdő, Tűz
 - [Bitter](https://www.fontsquirrel.com/fonts/bitter): Pusztában, Óceán, Sivatagi vándorlás, Szikla-hegy, Madár szabadon,
 Időmúlás, Pásztor bárányokkal, Sarki fény, Mozgó hullámok, Mozgó víz, Mozgó tűzörvény, Dicsőítés kék, Dicsőítés narancs,
-Dicsőítés piros
+Dicsőítés piros, Szürke virág, Tengerpart fával
+
+### Általában alkalmazott méretek
+
+| Betűkészlet            | Vastagság | XGA (1024×768) | HD1080 (1920×1080) |
+|------------------------|-----------|----------------|--------------------|
+| Antonio                | bold      | 46/11          | 66/22              |
+| Encode Sans Compressed | bold      | 40/20          | 56/27              |
+| Encode Sans Compressed | normal    | 48/20          | 68/28              |
+| Bitter                 | bold      | 44/20          | 60/30              |
+| Dosis                  | normal    | 46/12          | 60/12              |
+| Gentium Basic          | bold      | 40/16          | 66/24              |
+| Cardo                  | bold      | 40/20          | 56/26              |
 
 ## Felhasznált fotók
 
@@ -46,46 +58,46 @@ Közkincs – Creative Commons Zero (CC0) – licencű fotók:
 - [Erdő](https://www.pexels.com/photo/1767)
 - [Tűz](https://www.pexels.com/photo/1749)
 - [Köd](https://www.pexels.com/photo/1406)
-- Borús-napos hegy:            https://www.pexels.com/photo/1368/
-- Ugrás:                       https://www.pexels.com/photo/6496/
-- Pusztában:                   https://www.pexels.com/photo/7044/
-- Óceán:                       https://www.pexels.com/photo/7321/
-- Sivatagi vándorlás:          https://www.pexels.com/photo/3853/
-- Szikla-hegy:                 https://www.pexels.com/photo/6778/
-- Madár szabadon:              https://www.pexels.com/photo/4708/
-- Időmúlás:                    https://www.pexels.com/photo/6547/
-- Pásztor bárányokkal:         https://www.pexels.com/photo/6608/
-- Jeggyűrű, Jeggyűrű közelről: https://www.pexels.com/photo/6165/
-- Sarki fény:                  https://www.pexels.com/photo/6657/
-- Oroszlán:                    https://www.pexels.com/photo/40196/
-- Üres kéz:                    https://www.pexels.com/photo/255527/
-- Rózsa:                       https://www.pexels.com/photo/1324995/
-- Égbolt:                      https://www.pexels.com/photo/1431822/
-- Felhők:                      https://www.pexels.com/photo/531972/
-- Felhők (világos):            https://www.pexels.com/photo/19670/
-- Éjszakai égbolt:             https://www.pexels.com/photo/29435/
-- Mécsesek:                    https://www.pexels.com/photo/289756/
-- Mécses a kézben:             https://www.pexels.com/photo/783200/
-- Magyar zászló:               https://pixabay.com/images/id-2414351/
-- Ige (héber):                 https://pixabay.com/images/id-1679750/
-- Via Dolorosa:                https://pixabay.com/images/id-706563/
-- Fal:                         https://www.pexels.com/photo/220182/
-- Ajándék:                     https://www.pexels.com/photo/1303081/
-- Ajándék (barna):             https://pixabay.com/images/id-1835447/
-- Ajándék (kék betűk):         https://pixabay.com/images/id-1420830/
-- Ajándék (piros szalag):      https://pixabay.com/images/id-2527432/
-- Virág:                       https://www.pexels.com/photo/36764/
-- Sarjad:                      https://www.pexels.com/photo/401213/
-- Tűzijáték:                   https://www.pexels.com/photo/3867/
-- Hullámok:                    https://www.pexels.com/photo/189349/
-- Kapu:                        https://pixabay.com/images/id-4019633/
-- Nagybetűs elmosás:           https://www.pexels.com/photo/220067/
+- [Borús-napos hegy](https://unsplash.com/photos/c54ZhWDLEDo)
+- [Ugrás](https://www.pexels.com/photo/6496)
+- [Pusztában](https://unsplash.com/photos/3f4sQIums6k)
+- [Óceán](https://www.pexels.com/photo/7321)
+- [Sivatagi vándorlás](https://www.freepik.com/free-photo/tourists-climbing-up-sand-dunes-desert-with-blue-sky_10477458.htm)
+- [Szikla-hegy](https://www.pexels.com/photo/6778)
+- [Madár szabadon](https://www.pexels.com/photo/4708)
+- [Időmúlás](https://unsplash.com/photos/55xd_uiUYEE)
+- [Pásztor bárányokkal](https://unsplash.com/photos/vD3L-rN_qNw)
+- [Jeggyűrű, Jeggyűrű közelről](https://www.pexels.com/photo/6165)
+- [Sarki fény](https://unsplash.com/photos/ZSMgNjYrHRM)
+- [Oroszlán](https://pixabay.com/photos/lion-king-face-head-lion-face-588144)
+- [Üres kéz](https://www.pexels.com/photo/255527)
+- [Rózsa](https://www.pexels.com/photo/1324995)
+- [Égbolt](https://www.pexels.com/photo/1431822)
+- [Felhők](https://www.pexels.com/photo/531972)
+- [Felhők (világos)](https://www.pexels.com/photo/19670)
+- [Éjszakai égbolt](https://www.pexels.com/photo/29435)
+- [Mécsesek](https://www.pexels.com/photo/289756)
+- [Mécses a kézben](https://www.pexels.com/photo/783200)
+- [Magyar zászló](https://pixabay.com/images/id-2414351)
+- [Ige (héber)](https://pixabay.com/images/id-1679750)
+- [Via Dolorosa](https://pixabay.com/images/id-706563)
+- [Fal](https://www.pexels.com/photo/220182)
+- [Ajándék](https://www.pexels.com/photo/1303081)
+- [Ajándék (barna)](https://pixabay.com/images/id-1835447)
+- [Ajándék (kék betűk)](https://pixabay.com/images/id-1420830)
+- [Ajándék (piros szalag)](https://pixabay.com/images/id-2527432)
+- [Virág](https://www.pexels.com/photo/36764)
+- [Sarjad](https://www.pexels.com/photo/401213)
+- [Tűzijáték](https://www.pexels.com/photo/3867)
+- [Hullámok](https://www.pexels.com/photo/189349)
+- [Kapu](https://pixabay.com/images/id-4019633)
+- [Nagybetűs elmosás](https://www.pexels.com/photo/220067)
 
 ## Felhasznált videók
 
-- Mozgó víz:                   https://www.pexels.com/hu-hu/video/tenger-viz-kek-ocean-7513671/
-- Mozgó hullámok:              https://www.pexels.com/hu-hu/video/tenger-napnyugta-viz-kek-7385122/
-- Mozgó tűzörvény:             https://www.pexels.com/hu-hu/video/piros-textura-absztrakt-tuzifa-2715412/
+- [Mozgó víz](https://www.pexels.com/hu-hu/video/tenger-viz-kek-ocean-7513671)
+- [Mozgó hullámok](https://www.pexels.com/hu-hu/video/tenger-napnyugta-viz-kek-7385122)
+- [Mozgó tűzörvény](https://www.pexels.com/hu-hu/video/piros-textura-absztrakt-tuzifa-2715412)
 
 A témák a  Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 3.0 Unported Licenc feltételeinek
 megfelelően szabadon felhasználhatók.
