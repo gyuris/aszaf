@@ -10,7 +10,7 @@ SIL Open Font License-es betűcsaládok, amelyeket az alábbi témák alkalmazna
 szükséges a téma telepítéséhez:
 
 - [Encode Sans Compressed](https://www.fontsquirrel.com/fonts/encode-sans): Átlászó, Nyugalom tengere, Ugrás, Biblia
-- [Antonio](http:s//www.fontsquirrel.com/fonts/antonio): Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban
+- [Antonio](https://www.fontsquirrel.com/fonts/antonio): Szikla, Kéz, Köd, Borús-napos hegy, Szív, Szív a kosárban
 - [Dosis](https://www.fontsquirrel.com/fonts/dosis): Magányos lány, Koldus, Hideg, Zöld domb
 - [Gentium Basic](https://www.fontsquirrel.com/fonts/Gentium-Basic): Fel a lépcsőn, Óra, Jeggyűrű, Jeggyűrű közelről
 - [Cardo](https://www.fontsquirrel.com/fonts/Cardo): Erdő, Tűz
