@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.3" modifiedIn="OpenLP 2.4.3" modifiedDate="2016-02-15T23:33:03">
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-04-16T12:46:58">
   <properties>
     <titles>
       <title>Pillangó, ha lehetnék</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>Ismeretlen</author>
     </authors>
@@ -17,6 +18,12 @@
     </verse>
     <verse name="c1">
       <lines>Adtál szívet nekem, és hogy tiszta legyen.<br/>Te adtad Jézusom, hogy velem legyen.<br/>De gyermeked lettem, köszönöm Istenem én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megfújnám a trombitát, ha én lennék a kis elefánt, <br/>S ha úgy élnék, mint enguru, ugrálnék a dombon át, <br/>S ha én lennék a kis polip, vennék több pár kalucsnit, <br/>De gyermeked lettem, köszönöm, Istenem, én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Selymet szépet hordanék, ha egy kis hernyó lehetnék, <br/>Krokodilként, ha utaznék, nem sírnék, csak nevetnék, <br/>S ha én lennék egy borzas barna bocs, számolnék, mert  medve mind okos, <br/>De gyermeked lettem, köszönöm, Istenem, én.</lines>
     </verse>
   </lyrics>
 </song>
