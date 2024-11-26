@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-11-26T18:41:30">
+  <properties>
+    <titles>
+      <title>Ave</title>
+    </titles>
+    <authors>
+      <author type="words">Gável Gellért</author>
+      <author type="music">Gável Gellért</author>
+      <author type="music">Sapszon Ferenc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ave, ave, ave Maria!<br/>Ave, ave, ave Maria!</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">Üdvözlégy Mária,<br/>Kegyelemmel teljes, az Úr van Teveled,<br/>Áldott vagy Te az asszonyok között,<br/>És áldott a Te méhednek gyümölcse, Jézus.</lines>
+      <lines>Asszonyunk, Szűz Mária,<br/>Istennek szent Anyja,<br/>Imádkozz érettünk, bűnösökért,<br/>Most és halálunk óráján! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

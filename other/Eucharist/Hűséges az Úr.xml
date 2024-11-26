@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="Not known" modifiedIn="OpenLyrics 0.9 to 0.8 XSLT converter" modifiedDate="2024-11-26T18:46:32+01:00">
+  <properties>
+    <titles>
+      <title>Hűséges az Úr</title>
+    </titles>
+    <authors>
+      <author type="music">Gável Gellért</author>
+      <author type="words">Gável András</author>
+    </authors>
+    <key>E</key>
+    <tempo type="bpm">68</tempo>
+    <verseOrder>v1 c b c e</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <chord name="E"/>Úgy szerettél engem, <chord name="Emaj7"/>hangod hívott, jöttem.<br/>
+        A<chord name="A2"/>merre lépsz, én <chord name="E"/>lé<chord name="B4"/>pek.<br/>
+        <chord name="E"/>Te lettél a minden,<chord name="E/G#"/> <chord name="A2"/>másom nekem nincsen,<br/>
+        a <chord name="E"/>szíved <chord name="B4"/>körbe <chord name="A2"/>zár.<chord name="B4"/>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <chord name="E"/>Hűséges az Úr, <chord name="E/G#"/>Ő <chord name="B4"/>szeret örökké.<br/>
+        <chord name="A2/F#"/>Nincs en<chord name="E/G#"/>nél na<chord name="A2"/>gyobb e<chord name="B4"/>rő.<br/>
+        <chord name="E"/>Hűséges az Úr, <chord name="E/G#"/>Ő <chord name="B4"/>szeret örökké.<br/>
+        Hát <chord name="A2/F#"/>gyertek <chord name="E"/>áldjuk <chord name="B4"/>Őt!<chord name="A2"/>
+      </lines>
+    </verse>
+    <verse name="b">
+      <lines>
+        <chord name="A2/F#"/>Jézus, <chord name="E/G#"/>Jézus, <chord name="A2"/>Jézus, ó, <chord name="E"/>Jé<chord name="B4"/>zus!<br/>
+        <chord name="A2/F#"/>Jézus, <chord name="E/G#"/>Jézus, <chord name="A2"/>Jézus, ó, <chord name="E"/>Jé<chord name="C"/>zus!
+      </lines>
+    </verse>
+    <verse name="e">
+      <lines>
+        Hát <chord name="A2/F#"/>gyertek, <chord name="E"/>áldjuk <chord name="B4"/>Őt! <chord name="C#m"/> <chord name="E/G#"/><br/>
+        Hát <chord name="A2/F#"/>gyertek, <chord name="E"/>áldjuk <chord name="A2"/>Őt! <chord name="E/G#"/> <chord name="F#m7"/> <chord name="Bmaj7"/> <chord name="Emaj7"/>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="Not known" modifiedIn="OpenLyrics 0.9 to 0.8 XSLT converter" modifiedDate="2024-11-26T17:43:04+01:00">
+  <properties>
+    <titles>
+      <title>Imádott Jézusom</title>
+    </titles>
+    <authors>
+      <author type="text">Kindelmann Károlyné Erzsébet</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+    <key>Bm</key>
+    <tempo type="bpm">85</tempo>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <chord name="Bm"/>Imádott <chord name="A"/>Jézusom! <chord name="D/F#"/>Lábunk együtt <chord name="G"/>járjon,<br/>
+        <chord name="Bm"/>kezünk együtt <chord name="A"/>gyűjtsön, <chord name="G"/>szívünk együtt <chord name="D/F#"/>dobban<chord name="A"/>jon,<br/>
+        <chord name="Em"/>bensőnk együtt <chord name="D"/>érez<chord name="A"/>zen, <chord name="Em"/>elménk gondolata <chord name="D/F#"/>egy le<chord name="A"/>gyen,<br/>
+        <chord name="Em"/>fülünk együtt <chord name="D/F#"/>figyeljen a <chord name="G"/>csöndes<chord name="Bm"/>ség<chord name="A"/>re,<br/>
+        <chord name="D"/>szemünk egymásba <chord name="A/C#"/>nézzen <chord name="Em"/>és tekintetünk össze<chord name="D/F#"/>forr<chord name="A"/>jon,<br/>
+        <chord name="Em"/>ajkunk együtt <chord name="D/F#"/>könyörögjön az Örök <chord name="G"/>Atyához <chord name="Bm"/>irgalom<chord name="A"/>ért!<br/>
+        <chord name="D"/>Á<chord name="A/C#"/>men! <chord name="Em"/>Á<chord name="A"/>men!<br/>
+        <chord name="Bm"/>Á<chord name="F#m"/><chord name="D/F#"/>men! <chord name="G"/><chord name="D/F#"/><chord name="Em"/>Á<chord name="A7"/><chord name="A"/>men!
+      </lines>
+    </verse>
+  </lyrics>
+</song>

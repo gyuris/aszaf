@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-11-26T18:15:26">
+  <properties>
+    <titles>
+      <title>Jó Atyám nékem</title>
+      <title>Good Good Fathe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 v3</verseOrder>
+    <authors>
+      <author type="words">Pat Barrett</author>
+      <author type="music">Pat Barrett</author>
+      <author type="words">Tony Brown</author>
+      <author type="music">Tony Brown</author>
+      <author type="translation">Gável András</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, száz meg száz történetet hallok, mely Rólad szól,<br/>de hallom az éjben szíveknek vágyát sóhajtón.<br/>Jöjj, meséld el, hogy nem hagysz el,<br/>és Te vagy az otthonom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jó vagy, jó Atyám nékem!<br/>Az én Atyám, az én Atyám, az én Atyám!<br/>Szeretsz gyermekedként!<br/>Én gyermeked, én gyermeked, én gyermeked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Választ vártak mindig számosan, de békéjük mégsem volt.<br/>A kérdés Nálad válaszra lel, tudom, minden más csak holt.<br/>Mert Te látod szükségünk előbb még, hogy elhagy egy szó!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mert tudom, jó vagy, oly’ jó szüntelen!<br/>Tudom, jó vagy, oly’ jó szüntelen!<br/>Tudom, jó vagy, oly’ jó szüntelen hozzánk!<br/>Tudom, jó vagy, oly’ jó szüntelen!<br/>Tudom, jó vagy, oly’ jó szüntelen!<br/>Tudom, jó vagy, oly’ jó szüntelen hozzánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És mily’ nagy, hogy szíved így szeret, nincs szó, hogy elmondjam.<br/>Bennem, bennem béke lett, felfogni nem tudtam.<br/>Ahogy szíved engem hív... Ahogy szíved engem hív...<br/>Ahogy szíved engem hív... Szeretsz még, még, még!</lines>
+    </verse>
+  </lyrics>
+</song>

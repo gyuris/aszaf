@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-11-26T18:28:10">
+  <properties>
+    <titles>
+      <title>Mise gitáron</title>
+    </titles>
+    <authors>
+      <author type="words">Gável Gellért</author>
+      <author type="music">Gável Gellért</author>
+      <author type="music">Sapszon Ferenc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, irgalmazz! Uram, irgalmazz!<br/>Krisztus, kegyelmezz! Krisztus, kegyelmezz!<br/>Uram, irgalmazz! Uram, irgalmazz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Dicsőség a magasságban Istennek,<br/>És a földön békesség a jóakaratú embereknek.<br/>Dicsőítünk Téged, áldunk Téged,</lines>
+      <lines break="optional">Imádunk Téged, magasztalunk Téged,<br/>Hálát adunk Néked nagy dicsőségedért,<br/>Urunk és Istenünk, mennyei Király,<br/>Mindenható Atyaisten.</lines>
+      <lines break="optional">Urunk, Jézus Krisztus, egyszülött Fiú,<br/>Urunk és Istenünk, Isten Báránya,<br/>Az Atyának Fia,<br/>Te elveszed a világ bűneit,<br/>Irgalmazz nékünk;</lines>
+      <lines break="optional">Te elveszed a világ bűneit,<br/>Hallgasd meg könyörgésünket!<br/>Te az Atya jobbján ülsz,<br/>Irgalmazz nékünk!</lines>
+      <lines>Mert egyedül Te vagy a Szent, Te vagy az Úr,<br/>Te vagy az egyetlen Fölség, Jézus Krisztus,<br/>A Szentlélekkel együtt, az Atyaisten dicsőségében.<br/>Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Az Úr nékem pásztorom, ínséget nem kell látnom.</lines>
+      <lines break="optional">Az Úr nékem pásztorom,<br/>Ínséget nem kell látnom.<br/>Zöldellő mezőkön terelget engem,<br/>Csendes vizekhez vezet, és lelkemet felüdíti.</lines>
+      <lines break="optional">Az Úr nékem pásztorom, ínséget nem kell látnom.</lines>
+      <lines break="optional">Az igazság ösvényén vezet engem,<br/>Ahogyan Ő megígérte.</lines>
+      <lines break="optional">Az Úr nékem pásztorom, ínséget nem kell látnom.</lines>
+      <lines break="optional">Számomra asztalt terítettél,<br/>Hogy üldözőimet szégyen érje.<br/>Fejemet megkented olajoddal,<br/>Serlegemet csordultig megtöltötted.</lines>
+      <lines break="optional">Az Úr nékem pásztorom, ínséget nem kell látnom.</lines>
+      <lines break="optional">Jóságod és irgalmad nyomon követ<br/>Életemnek minden napján.<br/>Otthonom lesz az Isten háza,<br/>Mindörökké szünet nélkül.</lines>
+      <lines>Az Úr nékem pásztorom, ínséget nem kell látnom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>Mindenség Ura, Istene!<br/>Dicsőséged betölti a mennyet és a földet.<br/>Hozsanna a magasságban!<br/>Áldott, aki jön az Úr nevében!<br/>Hozsanna a magasságban!</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">Isten Báránya, Te elveszed a világ bűneit.<br/>Irgalmazz nekünk!</lines>
+      <lines break="optional">Isten Báránya, Te elveszed a világ bűneit.<br/>Irgalmazz nekünk!</lines>
+      <lines>Isten Báránya, Te elveszed a világ bűneit.<br/>Adj nekünk békét!</lines>
+    </verse>
+  </lyrics>
+</song>

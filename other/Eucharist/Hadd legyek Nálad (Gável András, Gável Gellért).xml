@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-11-26T18:35:33">
+  <properties>
+    <titles>
+      <title>Hadd legyek Nálad</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável András</author>
+      <author type="words">Gável Gellért</author>
+      <author type="music">Gável Gellért</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd legyek Nálad, házam a házad!<br/>Életem védd, ne törjön rám gonosz ellenség! Óvj!<br/>Ha közel az órám, Magadhoz hívjál!<br/>Ott minden szent velem zeng, áldja neved örökké!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krisztus Lelke, szentelj meg engem!<br/>Krisztus Teste, üdvözíts engem!<br/>Krisztus Vére, ihless meg engem!<br/>Feltörő víz Jézus oldalán,<br/>Mosd tisztára hófehér ruhám!<br/>Halld meg hangom, majd ha Téged szólít!<br/>Sebeiddel ölelj át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd legyek Nálad, házam a házad!<br/>Legyen erőm mindaz a kín, ami Téged elér, s fáj!<br/>Ha közel az órám, Magadhoz hívjál!<br/>Ott minden szent velem zeng, áldja neved örökké!</lines>
+    </verse>
+  </lyrics>
+</song>
